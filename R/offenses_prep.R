@@ -37,7 +37,6 @@ for (state_val in unique(ucr$state)) {
   temp <-
     ucr %>%
     filter(state == state_val)
-  state_val <- gsub(" ", "_", state_val)
   write_csv(temp, path = paste0("offenses_", state_val, ".csv"))
 }
 
