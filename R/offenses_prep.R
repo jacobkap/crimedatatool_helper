@@ -1,32 +1,36 @@
-load("C:/Users/user/AppData/Local/Temp/Temp1_ucr_offenses_known_1960_2016_rda.zip/ucr_offenses_known_yearly_1960_2016.rda")
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/offenses_known/ucr_offenses_known_yearly_1960_2016.rda")
 load("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/crosswalk_agencies.rda")
 library(tidyverse)
 
 simpleCap <- function(x) {
   s <- strsplit(x, " ")[[1]]
   paste(toupper(substring(s, 1,1)), substring(s, 2),
-        sep="", collapse=" ")
+        sep = "", collapse = " ")
 }
 
 ucr <-
   ucr_offenses_known_yearly_1960_2016 %>%
-  filter(months_reported == "december is the last month reported",
-         !state %in% c("guam", "canal zone", "puerto rico", "virgin islands")) %>%
-  left_join(crosswalk_agencies) %>%
-  mutate(population = population_1 + population_2 + population_3,
-         agency = tolower(agency)) %>%
-  modify_at(to_drop, ~NULL) %>%
-  rename(ORI = ori,
-         ORI9 = ori9) %>%
-  select(agency,
-         year,
-         state,
-         population,
-         ORI,
-         ORI9,
-         fips_state_code,
-         fips_county_code,
-         everything())
+  dplyr::filter(months_reported == "december is the last month reported",
+                !state %in% c("guam", "canal zone", "puerto rico", "virgin islands")) %>%
+  dplyr::left_join(crosswalk_agencies) %>%
+  dplyr::mutate(population = (as.numeric(population_1) +
+                                as.numeric(population_2) +
+                                as.numeric(population_3)),
+                agency = tolower(agency)) %>%
+  dplyr::select(-one_of(to_drop)) %>%
+  dplyr::rename(ORI = ori,
+                ORI9 = ori9,
+                FIPS_state_code = fips_state_code,
+                FIPS_county_code = fips_county_code) %>%
+  dplyr::select(agency,
+                year,
+                state,
+                population,
+                ORI,
+                ORI9,
+                FIPS_state_code,
+                FIPS_county_code,
+                everything())
 ucr$agency <- sapply(ucr$agency, simpleCap)
 ucr$state <- sapply(ucr$state, simpleCap)
 ucr$state <- gsub(" Of ", " of ", ucr$state)
@@ -67,3 +71,4 @@ to_drop <- c("state_abb",
              "mailing_address_line_3",
              "mailing_address_line_4",
              "zip_code")
+
