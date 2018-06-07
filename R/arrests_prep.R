@@ -14,6 +14,10 @@ simpleCap <- function(x) {
         sep="", collapse=" ")
 }
 
+prep_arrests(asr_drug_liquor_crimes_1980_2015)
+prep_arrests(asr_violent_or_sex_crimes_1980_2015)
+prep_arrests(asr_financial_crimes_1980_2015)
+prep_arrests(asr_other_crimes_1980_2015)
 prep_arrests(asr_index_crimes_1980_2015)
 
 prep_arrests <- function(data) {
@@ -39,6 +43,7 @@ prep_arrests <- function(data) {
                       agency            = agency_name) %>%
         dplyr::select(cols_to_keep)
 
+      if (state_val != "Guam")
       write_csv(temp, path = paste0("arrests_", state_val, "_", crime, ".csv"))
     }
   }
@@ -54,8 +59,17 @@ keep_cols <- c("agency",
                "ORI9",
                "FIPS_state_code",
                "FIPS_county_code",
-               "FIPS_state_county_code",
-               "agency_type",
-               "group",
-               "geographic_division",
-               "suburban_agency")
+               "FIPS_state_county_code")
+
+
+# Make state-agency json
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_simple_1980_2015.rda")
+z = asr_simple_1980_2015[, c("state", "agency_name", "ori")]
+names(z) <- gsub("agency_name", "agency", names(z))
+z = z[!duplicated(z$ori), ]
+z$agency <- sapply(z$agency, simpleCap)
+z$state       <- sapply(z$state, simpleCap)
+z$state       <- gsub(" Of ", " of ", z$state)
+library(jsonlite)
+z <- toJSON(z, pretty=TRUE)
+write(z, "arrests_state_agencies.json")
