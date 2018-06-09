@@ -1,9 +1,3 @@
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_drug_liquor_crimes_1980_2015.rda")
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_violent_or_sex_crimes_1980_2015.rda")
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_financial_crimes_1980_2015.rda")
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_index_crimes_1980_2015.rda")
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_other_crimes_1980_2015.rda")
-
 load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_simple_1980_2015.rda")
 load("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/crosswalk_agencies.rda")
 library(tidyverse)
@@ -14,11 +8,25 @@ simpleCap <- function(x) {
         sep="", collapse=" ")
 }
 
-prep_arrests(asr_drug_liquor_crimes_1980_2015)
-prep_arrests(asr_violent_or_sex_crimes_1980_2015)
-prep_arrests(asr_financial_crimes_1980_2015)
-prep_arrests(asr_other_crimes_1980_2015)
-prep_arrests(asr_index_crimes_1980_2015)
+
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_simple_1980_2015.rda")
+prep_arrests(asr_simple_1980_2015);
+rm(asr_simple_1980_2015); gc(); Sys.sleep(15)
+# load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_drug_liquor_crimes_1980_2015.rda")
+# prep_arrests(asr_drug_liquor_crimes_1980_2015);
+# rm(asr_drug_liquor_crimes_1980_2015); gc(); Sys.sleep(15)
+# load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_violent_or_sex_crimes_1980_2015.rda")
+# prep_arrests(asr_violent_or_sex_crimes_1980_2015)
+# rm(asr_violent_or_sex_crimes_1980_2015); gc(); Sys.sleep(15)
+# load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_financial_crimes_1980_2015.rda")
+# prep_arrests(asr_financial_crimes_1980_2015)
+# rm(asr_financial_crimes_1980_2015); gc(); Sys.sleep(15)
+# load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_index_crimes_1980_2015.rda")
+# prep_arrests(asr_index_crimes_1980_2015)
+# rm(asr_index_crimes_1980_2015); gc(); Sys.sleep(15)
+# load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_other_crimes_1980_2015.rda")
+# prep_arrests(asr_other_crimes_1980_2015)
+# rm(asr_other_crimes_1980_2015); gc(); Sys.sleep(15)
 
 prep_arrests <- function(data) {
   setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/arrests")
@@ -26,12 +34,10 @@ prep_arrests <- function(data) {
   data$state       <- sapply(data$state, simpleCap)
   data$state       <- gsub(" Of ", " of ", data$state)
 
-  crimes <- grep("_tot_arrests", names(data), value = TRUE)
-  crimes <- gsub("_tot_arrests", "", crimes)
   for (state_val in unique(data$state)) {
-    for (crime in crimes) {
+
       cols_to_keep <- c(keep_cols,
-                        grep(crime, names(data), value = TRUE))
+                        grep("tot_", names(data), value = TRUE))
       temp <-
         data %>%
         dplyr::filter(state == state_val) %>%
@@ -43,8 +49,8 @@ prep_arrests <- function(data) {
                       agency            = agency_name) %>%
         dplyr::select(cols_to_keep)
 
-      if (state_val != "Guam")
-      write_csv(temp, path = paste0("arrests_", state_val, "_", crime, ".csv"))
+      if (state_val != "Guam") {
+      write_csv(temp, path = paste0("arrests_", state_val, ".csv"))
     }
   }
 }
@@ -59,7 +65,8 @@ keep_cols <- c("agency",
                "ORI9",
                "FIPS_state_code",
                "FIPS_county_code",
-               "FIPS_state_county_code")
+               "FIPS_state_county_code",
+               "agency_type")
 
 
 # Make state-agency json
