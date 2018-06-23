@@ -1,0 +1,141 @@
+agency,ORI,ORI9,year,state,population,FIPS_state_code,FIPS_county_code,FIPS_state_county_code,total_officers,male_employees_officers,female_employees_officers,total_civilians,male_employees_civilians,female_employees_civilians,officers_killed_felony,officers_killed_accident,total_assault_total,total_assault_gun,total_assault_knife,total_assault_other,total_assault_hand_feet,total_assault_2man_veh,total_assault_1man_alone,total_assault_1man_assist,total_assault_det_alone,total_assault_det_assist,total_assault_oth_alone,total_assault_oth_assist,total_assault_clear,disturbance_total_assault,burglary_total_assault,robbery_total_assault,att_oth_arrest_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,susp_pers_total_assault,ambush_total_assault,deranged_total_assault,traffic_total_assault,all_oth_total_assault
+Washington,DCMPD00,DCMPD0000,1975,District of Columbia,716e3,11,001,11001,4583,4243,340,808,478,330,0,0,224,21,13,41,149,20,60,35,23,22,33,31,211,26,5,1,30,0,25,28,0,0,15,94
+Us Park Police,DCPPD00,DCPPD0000,1975,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1975,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1976,District of Columbia,702e3,11,001,11001,4340,4021,319,606,264,342,1,0,179,19,15,39,106,11,44,21,8,16,46,33,168,19,0,8,21,0,12,10,0,0,25,84
+Us Park Police,DCPPD00,DCPPD0000,1976,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1976,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1977,District of Columbia,69e4,11,001,11001,4166,3890,276,585,251,334,1,0,164,17,11,40,96,7,49,11,18,7,42,30,155,25,0,0,24,0,10,15,0,0,27,63
+Us Park Police,DCPPD00,DCPPD0000,1977,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1977,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1978,District of Columbia,674e3,11,001,11001,4078,3753,325,573,222,351,0,0,152,32,6,31,83,49,40,15,4,2,23,19,103,40,0,0,39,2,5,17,2,3,13,31
+Us Park Police,DCPPD00,DCPPD0000,1978,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1978,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1979,District of Columbia,656e3,11,001,11001,4034,3707,327,549,247,302,0,0,187,22,4,55,106,78,63,16,3,10,6,11,174,17,2,5,49,4,6,18,1,0,43,42
+Us Park Police,DCPPD00,DCPPD0000,1979,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1979,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1980,District of Columbia,635233,11,001,11001,3652,3336,316,486,215,271,1,0,215,12,7,56,140,70,63,13,6,8,43,12,206,17,0,4,51,0,13,43,1,0,25,61
+Us Park Police,DCPPD00,DCPPD0000,1980,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1980,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1981,District of Columbia,636e3,11,001,11001,3594,3273,321,447,140,307,0,0,210,28,18,45,119,101,48,10,17,14,16,4,188,32,2,1,34,3,1,40,0,0,21,76
+Us Park Police,DCPPD00,DCPPD0000,1981,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1981,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1982,District of Columbia,631e3,11,001,11001,3861,3442,419,524,236,288,1,0,155,14,9,34,98,73,43,5,5,12,13,4,147,15,4,0,25,0,6,41,0,0,17,47
+Us Park Police,DCPPD00,DCPPD0000,1982,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1982,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1983,District of Columbia,623e3,11,001,11001,3861,3442,419,524,236,288,0,0,127,8,3,7,109,66,19,7,1,11,18,5,123,7,3,0,21,0,16,29,0,0,19,32
+Us Park Police,DCPPD00,DCPPD0000,1983,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1983,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1984,District of Columbia,623e3,11,001,11001,3879,3407,472,497,239,258,0,0,150,1,2,4,143,67,19,4,2,6,49,3,141,12,3,6,24,0,30,31,0,0,9,35
+Us Park Police,DCPPD00,DCPPD0000,1984,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1984,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1985,District of Columbia,626e3,11,001,11001,3837,3340,497,504,210,294,0,0,164,4,0,7,153,72,20,6,9,5,40,12,161,9,5,2,25,0,25,30,0,0,20,48
+Us Park Police,DCPPD00,DCPPD0000,1985,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1985,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1986,District of Columbia,626e3,11,001,11001,3877,3348,529,537,240,297,0,0,187,12,2,14,159,96,46,1,10,18,11,5,185,6,1,8,38,0,18,31,0,0,20,65
+Us Park Police,DCPPD00,DCPPD0000,1986,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1986,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1987,District of Columbia,622e3,11,001,11001,3909,3336,573,619,242,377,1,0,226,5,9,25,187,54,45,4,3,6,75,39,202,13,4,2,19,2,28,47,0,2,43,66
+Us Park Police,DCPPD00,DCPPD0000,1987,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1987,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1988,District of Columbia,62e4,11,001,11001,3920,3289,631,718,281,437,0,0,168,8,2,19,139,32,23,3,0,0,69,41,143,8,0,3,24,0,7,26,0,0,19,81
+Us Park Police,DCPPD00,DCPPD0000,1988,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1988,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1989,District of Columbia,604e3,11,001,11001,3974,3275,699,742,283,459,0,0,133,7,3,16,107,8,4,1,0,3,86,31,126,14,0,1,19,0,7,24,0,5,9,54
+Us Park Police,DCPPD00,DCPPD0000,1989,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1989,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1990,District of Columbia,606900,11,001,11001,4740,3809,931,781,282,499,0,0,157,4,2,18,133,9,4,2,0,1,92,49,143,8,2,2,33,0,4,31,0,3,21,53
+Us Park Police,DCPPD00,DCPPD0000,1990,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1990,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1991,District of Columbia,598e3,11,001,11001,4502,3546,956,646,217,429,0,0,375,33,11,47,284,65,41,10,1,3,156,99,340,22,1,6,79,0,13,39,2,1,53,159
+Us Park Police,DCPPD00,DCPPD0000,1991,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1991,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Washington,DCMPD00,DCMPD0000,1992,District of Columbia,589e3,11,001,11001,4424,3438,986,783,242,541,0,0,455,34,11,74,336,61,49,7,0,2,195,141,392,35,2,0,104,8,19,37,0,0,58,192
+Us Park Police,DCPPD00,DCPPD0000,1992,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1992,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Washington,DCMPD00,DCMPD0000,1993,District of Columbia,578e3,11,001,11001,4372,3410,962,831,283,548,1,0,383,25,12,94,252,178,76,8,0,0,106,15,289,45,2,0,70,0,29,22,0,0,40,175
+Us Park Police,DCPPD00,DCPPD0000,1993,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1993,District of Columbia,0,11,001,11001,18,15,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1994,District of Columbia,57e4,11,001,11001,4106,3174,932,654,236,418,1,0,352,14,5,28,305,116,65,2,0,1,108,60,321,50,3,1,84,0,15,52,0,0,39,108
+Us Park Police,DCPPD00,DCPPD0000,1994,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1994,District of Columbia,0,11,001,11001,19,16,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1995,District of Columbia,554e3,11,001,11001,3671,2810,861,657,210,447,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Us Park Police,DCPPD00,DCPPD0000,1995,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1995,District of Columbia,0,11,001,11001,20,16,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1996,District of Columbia,543e3,11,001,11001,3611,2720,891,758,251,507,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Us Park Police,DCPPD00,DCPPD0000,1996,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoological Park Police,DCZPP00,DCZPP0000,1996,District of Columbia,0,11,001,11001,21,18,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1997,District of Columbia,529e3,11,001,11001,3606,2705,901,742,238,504,2,0,499,26,3,42,428,274,31,12,12,15,56,99,433,18,0,0,96,0,85,88,0,0,58,154
+Us Park Police,DCPPD00,DCPPD0000,1997,District of Columbia,0,11,001,11001,599,548,51,138,90,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,1997,District of Columbia,0,11,001,11001,18,15,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1998,District of Columbia,523e3,11,001,11001,3511,2639,872,633,224,409,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Us Park Police,DCPPD00,DCPPD0000,1998,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,1998,District of Columbia,0,11,001,11001,21,17,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,1999,District of Columbia,519e3,11,001,11001,3488,2623,865,680,222,458,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Us Park Police,DCPPD00,DCPPD0000,1999,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,1999,District of Columbia,0,11,001,11001,16,14,2,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2e3,District of Columbia,572059,11,001,11001,3628,2751,877,927,260,667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Us Park Police,DCPPD00,DCPPD0000,2e3,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2e3,District of Columbia,0,11,001,11001,19,16,3,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2001,District of Columbia,571822,11,001,11001,3611,2743,868,677,228,449,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Transit Police,DCMTP00,DCMTP0000,2001,District of Columbia,0,11,001,11001,331,282,49,97,50,47,1,0,47,3,2,17,25,0,11,1,0,0,22,13,36,1,0,1,9,0,0,1,1,0,14,20
+Us Park Police,DCPPD00,DCPPD0000,2001,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2001,District of Columbia,0,11,001,11001,27,24,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2002,District of Columbia,570898,11,001,11001,3655,2780,875,790,230,560,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Transit Police,DCMTP00,DCMTP0000,2002,District of Columbia,0,11,001,11001,347,287,60,110,51,59,0,0,17,0,1,4,12,0,3,0,0,0,11,3,14,0,0,0,14,0,0,1,0,0,2,0
+Us Park Police,DCPPD00,DCPPD0000,2002,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2002,District of Columbia,0,11,001,11001,21,17,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2003,District of Columbia,563384,11,001,11001,3515,2674,841,667,220,447,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Transit Police,DCMTP00,DCMTP0000,2003,District of Columbia,0,11,001,11001,365,296,69,126,58,68,0,0,41,0,2,9,30,0,8,4,1,0,19,9,35,8,0,1,15,0,0,1,0,0,11,5
+Us Park Police,DCPPD00,DCPPD0000,2003,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2003,District of Columbia,0,11,001,11001,29,25,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2004,District of Columbia,553523,11,001,11001,3787,2884,903,585,190,395,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Transit Police,DCMTP00,DCMTP0000,2004,District of Columbia,0,11,001,11001,353,288,65,126,57,69,0,0,42,2,0,7,33,1,6,2,0,0,17,16,38,3,0,0,9,0,0,3,0,1,7,19
+Us Park Police,DCPPD00,DCPPD0000,2004,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2004,District of Columbia,0,11,001,11001,24,23,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2005,District of Columbia,550521,11,001,11001,3757,2871,886,521,202,319,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Transit Police,DCMTP00,DCMTP0000,2005,District of Columbia,0,11,001,11001,379,311,68,123,58,65,0,0,47,1,0,10,36,0,9,13,0,0,18,7,43,12,0,0,18,0,0,0,0,0,10,7
+United States Park Polic,DCPPD00,DCPPD0000,2005,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2005,District of Columbia,0,11,001,11001,31,28,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2006,District of Columbia,581530,11,001,11001,3799,2905,894,543,207,336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Transit Police,DCMTP00,DCMTP0000,2006,District of Columbia,0,11,001,11001,374,306,68,141,72,69,0,0,91,3,3,4,81,1,6,13,0,0,41,30,87,24,0,0,16,0,0,0,1,0,6,44
+United States Park Polic,DCPPD00,DCPPD0000,2006,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2006,District of Columbia,0,11,001,11001,23,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2007,District of Columbia,588292,11,001,11001,3907,2995,912,587,232,355,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Transit Police,DCMTP00,DCMTP0000,2007,District of Columbia,0,11,001,11001,369,301,68,132,59,73,0,0,89,0,4,4,81,0,6,2,0,3,52,26,85,16,0,0,2,0,0,4,0,0,3,64
+United States Park Polic,DCPPD00,DCPPD0000,2007,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2007,District of Columbia,0,11,001,11001,26,24,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2008,District of Columbia,591833,11,001,11001,4030,3102,928,607,235,372,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Transit Police,DCMTP00,DCMTP0000,2008,District of Columbia,0,11,001,11001,425,353,72,128,56,72,0,0,103,0,1,5,97,0,4,8,0,0,54,37,100,9,0,1,9,0,0,2,0,0,10,72
+United States Park Polic,DCPPD00,DCPPD0000,2008,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2008,District of Columbia,0,11,001,11001,21,17,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2009,District of Columbia,599657,11,001,11001,4052,3140,912,561,219,342,0,0,806,21,16,77,692,543,88,64,10,53,21,27,778,172,4,20,158,105,31,148,42,0,109,17
+Metro Transit Police,DCMTP00,DCMTP0000,2009,District of Columbia,0,11,001,11001,421,352,69,155,73,82,0,0,163,0,1,9,153,0,14,21,0,0,67,61,161,28,0,2,13,0,1,3,0,0,4,112
+United States Park Polic,DCPPD00,DCPPD0000,2009,District of Columbia,0,11,001,11001,624,543,81,112,67,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2009,District of Columbia,0,11,001,11001,21,17,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2010,District of Columbia,601723,11,001,11001,3945,3046,899,532,210,322,0,1,998,15,10,85,888,604,102,84,0,38,40,130,959,219,15,12,203,75,57,168,49,5,138,57
+Metro Transit Police,DCMTP00,DCMTP0000,2010,District of Columbia,0,11,001,11001,0,0,0,0,0,0,0,0,12,0,0,2,10,0,0,1,0,0,3,8,12,2,0,1,1,0,0,0,0,0,0,8
+United States Park Polic,DCPPD00,DCPPD0000,2010,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2010,District of Columbia,0,11,001,11001,21,17,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2011,District of Columbia,617996,11,001,11001,3818,2942,876,481,179,302,0,0,511,14,9,41,447,210,58,122,3,47,33,38,480,149,0,4,136,27,16,47,12,6,55,59
+Metro Transit Police,DCMTP00,DCMTP0000,2011,District of Columbia,0,11,001,11001,432,361,71,188,98,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United States Park Polic,DCPPD00,DCPPD0000,2011,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2011,District of Columbia,0,11,001,11001,21,17,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2012,District of Columbia,632323,11,001,11001,3867,2980,887,465,182,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Transit Police,DCMTP00,DCMTP0000,2012,District of Columbia,0,11,001,11001,448,375,73,196,100,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United States Park Polic,DCPPD00,DCPPD0000,2012,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2012,District of Columbia,0,11,001,11001,21,17,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2013,District of Columbia,646449,11,001,11001,3976,3089,887,427,173,254,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Transit Police,DCMTP00,DCMTP0000,2013,District of Columbia,0,11,001,11001,603,457,146,59,28,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United States Park Polic,DCPPD00,DCPPD0000,2013,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2013,District of Columbia,0,11,001,11001,21,17,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2014,District of Columbia,658893,11,001,11001,3935,3062,873,433,177,256,0,0,741,9,17,132,583,276,193,62,4,25,47,134,742,173,10,4,90,18,27,44,4,3,69,299
+Metro Transit Police,DCMTP00,DCMTP0000,2014,District of Columbia,0,11,001,11001,600,457,143,82,47,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United States Park Polic,DCPPD00,DCPPD0000,2014,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2014,District of Columbia,0,11,001,11001,21,17,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dc F&e Med Svrcs Arson I,DC00113,NA,2014,District of Columbia,0,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dc F&e Med Svrcs Arson I,DC00113,NA,2015,District of Columbia,0,NA,NA,NA,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington,DCMPD00,DCMPD0000,2015,District of Columbia,672228,11,001,11001,3826,3004,822,661,329,332,0,0,971,25,20,201,725,308,238,181,13,22,68,141,971,279,2,5,184,15,146,96,18,14,46,166
+Metro Transit Police,DCMTP00,DCMTP0000,2015,District of Columbia,0,11,001,11001,430,361,69,85,46,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United States Park Polic,DCPPD00,DCPPD0000,2015,District of Columbia,0,11,001,11001,600,549,51,113,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+National Zoological Park,DCZPP00,DCZPP0000,2015,District of Columbia,0,11,001,11001,21,17,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
