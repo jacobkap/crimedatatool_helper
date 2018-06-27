@@ -1,0 +1,27 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Brownsburg Police,1976,Indiana,5945,IN03201,12,1,11,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,1977,Indiana,6137,IN03201,14,1,13,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,1978,Indiana,7500,IN03201,14,1,13,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,1979,Indiana,8948,IN03201,11,1,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,1980,Indiana,6206,IN03201,11,1,10,4,4,0,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,1,0,3,0,0,0,0,1,0,0,0
+Brownsburg Police,1981,Indiana,6212,IN03201,11,1,10,4,3,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Brownsburg Police,1982,Indiana,6217,IN03201,11,1,10,4,4,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Brownsburg Police,1983,Indiana,6226,IN03201,12,1,11,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Brownsburg Police,1984,Indiana,6487,IN03201,12,1,11,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,1985,Indiana,6487,IN03201,12,1,11,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,1986,Indiana,6521,IN03201,13,1,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,1987,Indiana,6663,IN03201,13,1,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,1988,Indiana,6826,IN03201,13,1,12,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,2001,Indiana,14602,IN03201,28,3,25,14,12,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Brownsburg Police,2002,Indiana,14707,IN03201,28,4,24,11,10,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1
+Brownsburg Police,2003,Indiana,16370,IN03201,30,4,26,15,13,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0
+Brownsburg Police,2004,Indiana,17071,IN03201,35,4,31,18,16,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Brownsburg Police,2005,Indiana,17719,IN03201,39,4,35,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,2006,Indiana,18411,IN03201,36,3,33,16,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,2007,Indiana,19494,IN03201,36,3,33,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,2008,Indiana,20122,IN03201,40,3,37,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,2009,Indiana,20651,IN03201,40,3,37,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,2010,Indiana,21285,IN03201,40,3,37,7,7,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Brownsburg Police,2011,Indiana,21394,IN03201,41,2,39,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,2012,Indiana,21729,IN03201,24,1,23,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsburg Police,2013,Indiana,22908,IN03201,38,2,36,8,8,0,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,0,0,0,1,3,0,0,0

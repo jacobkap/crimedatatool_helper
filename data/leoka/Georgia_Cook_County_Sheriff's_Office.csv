@@ -1,0 +1,17 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Cook County Sheriff's Office,1977,Georgia,4595,GA03700,9,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,1978,Georgia,5358,GA03700,10,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,1979,Georgia,6035,GA03700,9,1,8,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,1989,Georgia,6212,GA03700,8,1,7,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,1992,Georgia,6642,GA03700,10,1,9,4,3,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,1993,Georgia,6482,GA03700,10,1,9,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,1999,Georgia,7823,GA03700,14,0,14,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,2003,Georgia,8204,GA03700,16,1,15,26,14,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,2007,Georgia,8317,GA03700,19,1,18,29,14,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,2009,Georgia,8474,GA03700,19,1,18,22,11,11,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Cook County Sheriff's Office,2010,Georgia,8953,GA03700,11,0,11,8,7,1,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0
+Cook County Sheriff's Office,2011,Georgia,9072,GA03700,19,1,18,24,10,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,2012,Georgia,9001,GA03700,13,0,13,25,14,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,2013,Georgia,8747,GA03700,46,10,36,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cook County Sheriff's Office,2014,Georgia,8921,GA03700,42,11,31,6,4,2,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Cook County Sheriff's Office,2015,Georgia,9024,GA03700,37,12,25,12,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

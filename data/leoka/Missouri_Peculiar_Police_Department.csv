@@ -1,0 +1,15 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Peculiar Police Department,2002,Missouri,2640,MO01906,7,1,6,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Peculiar Police Department,2003,Missouri,3013,MO01906,8,1,7,1,1,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,1,0,1,1
+Peculiar Police Department,2004,Missouri,3360,MO01906,9,2,7,1,1,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
+Peculiar Police Department,2005,Missouri,3610,MO01906,10,1,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peculiar Police Department,2006,Missouri,3860,MO01906,10,1,9,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Peculiar Police Department,2007,Missouri,4495,MO01906,11,1,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peculiar Police Department,2008,Missouri,4757,MO01906,11,1,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peculiar Police Department,2009,Missouri,4928,MO01906,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peculiar Police Department,2010,Missouri,4608,MO01906,8,2,6,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Peculiar Police Department,2011,Missouri,4625,MO01906,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peculiar Police Department,2012,Missouri,4645,MO01906,8,2,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peculiar Police Department,2013,Missouri,4852,MO01906,8,2,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peculiar Police Department,2014,Missouri,4842,MO01906,8,2,6,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Peculiar Police Department,2015,Missouri,4839,MO01906,9,2,7,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0

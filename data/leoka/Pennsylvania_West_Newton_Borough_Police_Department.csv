@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+West Newton Borough Police Department,1975,Pennsylvania,3367,PA06525,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,1976,Pennsylvania,3360,PA06525,5,0,5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,1977,Pennsylvania,3339,PA06525,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,1979,Pennsylvania,3792,PA06525,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,1981,Pennsylvania,3388,PA06525,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,1982,Pennsylvania,3388,PA06525,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,1983,Pennsylvania,3396,PA06525,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,1984,Pennsylvania,3452,PA06525,3,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+West Newton Borough Police Department,1985,Pennsylvania,3438,PA06525,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,1986,Pennsylvania,3401,PA06525,3,0,3,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,1987,Pennsylvania,3393,PA06525,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,1988,Pennsylvania,3390,PA06525,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+West Newton Borough Police Department,1989,Pennsylvania,3521,PA06525,2,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
+West Newton Borough Police Department,1996,Pennsylvania,3576,PA06525,4,0,4,0,0,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
+West Newton Borough Police Department,1997,Pennsylvania,3565,PA06525,4,0,4,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0
+West Newton Borough Police Department,2000,Pennsylvania,3083,PA06525,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,2008,Pennsylvania,2849,PA06525,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,2009,Pennsylvania,2824,PA06525,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,2010,Pennsylvania,2633,PA06525,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,2011,Pennsylvania,2641,PA06525,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,2012,Pennsylvania,2633,PA06525,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,2013,Pennsylvania,2591,PA06525,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,2014,Pennsylvania,2578,PA06525,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Newton Borough Police Department,2015,Pennsylvania,2545,PA06525,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

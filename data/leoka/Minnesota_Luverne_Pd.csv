@@ -1,0 +1,24 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Luverne Pd,1975,Minnesota,4862,MN06701,6,0,6,4,3,1,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,2,0,0,0,0,2,0,1,0
+Luverne Pd,1976,Minnesota,5133,MN06701,6,0,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1977,Minnesota,4615,MN06701,6,0,6,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1978,Minnesota,5153,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1979,Minnesota,4696,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1980,Minnesota,4583,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1981,Minnesota,4616,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1982,Minnesota,4664,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Luverne Pd,1983,Minnesota,4676,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1984,Minnesota,4530,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1985,Minnesota,4564,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1986,Minnesota,4585,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1987,Minnesota,4361,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1988,Minnesota,4350,MN06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1989,Minnesota,4265,MN06701,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1990,Minnesota,4382,MN06701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1991,Minnesota,4439,MN06701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1992,Minnesota,4487,MN06701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1993,Minnesota,4417,MN06701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1994,Minnesota,4465,MN06701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1995,Minnesota,4577,MN06701,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1996,Minnesota,4624,MN06701,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luverne Pd,1997,Minnesota,4651,MN06701,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

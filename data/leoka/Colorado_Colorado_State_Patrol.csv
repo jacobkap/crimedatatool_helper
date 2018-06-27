@@ -1,0 +1,27 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Colorado State Patrol,1986,Colorado,0,COCSP00,514,12,502,212,126,86,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Colorado State Patrol,1987,Colorado,0,COCSP00,542,20,522,199,125,74,0,1,5,0,0,5,0,6,0,0,6,0,11,0,0,11,0,0,0,2,0,0,1,0,0,0,1,7
+Colorado State Patrol,1988,Colorado,0,COCSP00,519,16,503,226,149,77,0,0,22,0,1,20,1,25,1,3,20,1,47,1,4,40,2,3,0,6,0,0,6,1,0,0,0,31
+Colorado State Patrol,1989,Colorado,0,COCSP00,505,17,488,228,152,76,0,0,12,0,0,10,2,16,1,1,12,2,28,1,1,22,4,0,1,5,0,0,8,0,1,0,0,13
+Colorado State Patrol,1990,Colorado,0,COCSP00,476,15,461,215,135,80,0,0,11,0,0,9,2,8,2,0,5,1,19,2,0,14,3,0,0,5,0,1,3,0,1,0,0,9
+Colorado State Patrol,1991,Colorado,0,COCSP00,567,22,545,212,162,50,0,0,8,0,0,7,1,8,0,0,6,2,16,0,0,13,3,0,0,5,0,0,1,0,0,0,0,10
+Colorado State Patrol,1992,Colorado,0,COCSP00,535,17,518,217,135,82,0,0,8,0,0,7,1,8,0,0,15,2,16,0,0,13,3,0,0,5,0,0,1,0,0,0,0,10
+Colorado State Patrol,1995,Colorado,0,COCSP00,601,27,574,224,157,67,0,0,0,0,0,0,0,12,0,1,10,1,12,0,1,10,1,2,0,3,0,0,0,0,0,0,0,7
+Colorado State Patrol,1996,Colorado,0,COCSP00,567,25,542,229,162,67,1,0,11,0,0,9,2,44,1,0,37,6,55,1,0,46,8,4,0,8,0,0,1,1,0,0,1,40
+Colorado State Patrol,1998,Colorado,0,COCSP00,608,30,578,241,187,54,0,0,9,0,0,9,0,21,0,0,19,2,30,0,0,28,2,1,0,5,0,1,0,0,1,0,0,22
+Colorado State Patrol,1999,Colorado,0,COCSP00,662,27,635,242,180,62,0,0,10,0,0,7,3,8,1,0,7,0,18,1,0,14,3,0,0,4,0,0,1,0,0,0,1,12
+Colorado State Patrol,2000,Colorado,0,COCSP00,672,26,646,253,186,67,0,0,3,0,0,2,1,12,0,0,10,2,15,0,0,12,3,2,0,4,0,0,2,0,0,0,1,6
+Colorado State Patrol,2001,Colorado,0,COCSP00,677,38,639,521,330,191,0,0,6,0,0,4,2,6,0,0,3,3,12,0,0,7,5,0,0,3,0,0,1,0,0,0,0,8
+Colorado State Patrol,2003,Colorado,0,COCSP00,675,42,633,256,188,68,0,0,7,1,0,5,1,14,1,0,4,9,21,2,0,9,10,2,0,1,0,0,2,0,0,0,0,16
+Colorado State Patrol,2004,Colorado,0,COCSP00,666,39,627,248,181,67,0,0,10,0,0,9,1,15,1,1,4,9,25,1,1,13,10,4,0,2,0,0,0,0,0,0,0,19
+Colorado State Patrol,2005,Colorado,0,COCSP00,705,49,656,261,183,78,0,0,13,0,0,9,4,15,0,0,6,9,28,0,0,15,13,2,0,5,0,0,0,0,0,0,1,20
+Colorado State Patrol,2006,Colorado,0,COCSP00,726,44,682,262,188,74,0,0,6,1,0,3,2,15,1,1,7,6,21,2,1,10,8,1,0,0,0,0,1,0,1,0,0,18
+Colorado State Patrol,2007,Colorado,0,COCSP00,726,48,678,238,175,63,0,0,3,1,0,1,1,13,0,0,7,6,16,1,0,8,7,0,0,2,0,0,0,0,0,0,1,13
+Colorado State Patrol,2008,Colorado,0,COCSP00,747,49,698,260,181,79,0,0,7,0,0,4,3,7,1,0,3,3,14,1,0,7,6,1,0,3,0,0,0,0,0,0,0,10
+Colorado State Patrol,2009,Colorado,0,COCSP00,736,50,686,274,193,81,0,0,7,0,0,6,1,10,0,0,9,1,17,0,0,15,2,2,0,5,0,0,1,0,1,0,1,7
+Colorado State Patrol,2010,Colorado,0,COCSP00,728,48,680,270,183,87,0,0,7,0,0,6,1,7,0,0,2,5,14,0,0,8,6,2,0,2,0,0,2,0,0,0,0,8
+Colorado State Patrol,2011,Colorado,0,COCSP00,746,43,703,262,183,79,0,0,7,0,0,7,0,6,0,2,2,2,13,0,2,9,2,2,0,1,0,0,1,0,0,0,0,9
+Colorado State Patrol,2012,Colorado,0,COCSP00,747,48,699,361,205,156,0,0,6,0,0,4,2,4,0,0,2,2,10,0,0,6,4,1,0,1,0,0,1,0,1,0,0,6
+Colorado State Patrol,2013,Colorado,0,COCSP00,669,49,620,263,206,57,0,0,4,0,0,1,3,7,1,0,3,3,11,1,0,4,6,1,1,1,0,0,2,0,1,0,0,5
+Colorado State Patrol,2014,Colorado,0,COCSP00,389,223,166,769,53,716,0,0,6,0,0,4,2,7,0,1,2,4,13,0,1,6,6,0,0,6,0,1,0,0,0,0,0,6
+Colorado State Patrol,2015,Colorado,0,COCSP00,763,46,717,399,242,157,0,0,6,0,0,3,3,3,0,0,1,2,9,0,0,4,5,1,0,3,0,0,2,0,0,0,0,3

@@ -1,0 +1,18 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Burlington Police Dept.,1995,Vermont,38431,VT00401,91,10,81,31,25,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,1997,Vermont,38726,VT00401,88,8,80,25,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,1998,Vermont,39479,VT00401,78,8,70,25,19,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,1999,Vermont,38900,VT00401,89,10,79,27,19,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,2003,Vermont,39627,VT00401,94,9,85,37,24,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,2004,Vermont,39293,VT00401,97,9,88,36,23,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,2005,Vermont,39038,VT00401,99,11,88,38,25,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,2006,Vermont,38584,VT00401,96,11,85,31,22,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,2007,Vermont,38153,VT00401,97,11,86,32,24,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,2008,Vermont,38370,VT00401,89,14,75,32,23,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,2009,Vermont,38794,VT00401,93,17,76,34,23,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,2010,Vermont,42417,VT00401,88,17,71,40,24,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,2011,Vermont,42464,VT00401,94,16,78,34,20,14,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,2,0,1,0,0,1,0,1,0,1,0
+Burlington Police Dept.,2012,Vermont,42616,VT00401,91,16,75,35,21,14,0,0,2,0,0,2,0,5,0,0,5,0,7,0,0,7,0,6,0,0,0,0,0,0,0,0,0,1
+Burlington Police Dept.,2013,Vermont,42235,VT00401,94,15,79,33,20,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burlington Police Dept.,2014,Vermont,42252,VT00401,95,14,81,39,22,17,0,0,3,0,0,2,1,0,0,0,0,0,3,0,0,2,1,2,0,0,0,0,0,0,0,0,0,1
+Burlington Police Dept.,2015,Vermont,42160,VT00401,99,15,84,35,20,15,0,0,1,0,0,1,0,18,0,1,16,1,19,0,1,17,1,2,0,2,0,0,5,1,7,0,2,0

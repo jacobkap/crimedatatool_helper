@@ -1,0 +1,26 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Reading Police Department,1977,Massachusetts,23585,MA00936,42,0,42,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1978,Massachusetts,23399,MA00936,40,0,40,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1979,Massachusetts,23463,MA00936,40,0,40,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1980,Massachusetts,22710,MA00936,42,0,42,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1981,Massachusetts,22875,MA00936,41,0,41,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Reading Police Department,1982,Massachusetts,22919,MA00936,38,0,38,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1983,Massachusetts,22863,MA00936,42,0,42,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1984,Massachusetts,22923,MA00936,38,0,38,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1985,Massachusetts,22909,MA00936,38,1,37,2,2,0,0,0,2,0,0,2,0,3,0,0,1,2,5,0,0,3,2,0,0,0,0,0,0,0,2,0,0,3
+Reading Police Department,1986,Massachusetts,22679,MA00936,39,1,38,2,2,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0
+Reading Police Department,1988,Massachusetts,22719,MA00936,40,1,39,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1989,Massachusetts,22680,MA00936,39,1,38,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1990,Massachusetts,22539,MA00936,37,1,36,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1992,Massachusetts,22469,MA00936,37,1,36,7,3,4,0,0,1,0,0,1,0,0,0,0,9,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1993,Massachusetts,22861,MA00936,37,1,36,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1994,Massachusetts,22971,MA00936,38,1,37,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1995,Massachusetts,23368,MA00936,38,1,37,8,3,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Reading Police Department,1996,Massachusetts,23437,MA00936,40,1,39,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1997,Massachusetts,23537,MA00936,40,1,39,7,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,1998,Massachusetts,23142,MA00936,41,1,40,10,4,6,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+Reading Police Department,1999,Massachusetts,23478,MA00936,41,1,40,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,2003,Massachusetts,23701,MA00936,38,2,36,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,2013,Massachusetts,25398,MA00936,42,4,38,14,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,2014,Massachusetts,25539,MA00936,41,5,36,14,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reading Police Department,2015,Massachusetts,25705,MA00936,42,5,37,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

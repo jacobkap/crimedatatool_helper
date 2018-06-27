@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Calhoun Police Department,1977,Georgia,5538,GA06401,20,1,19,4,2,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Calhoun Police Department,1980,Georgia,5318,GA06401,23,1,22,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,1991,Georgia,7294,GA06401,30,1,29,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,1992,Georgia,7434,GA06401,31,1,30,5,4,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,1993,Georgia,7728,GA06401,31,1,30,5,4,1,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Calhoun Police Department,1994,Georgia,7882,GA06401,35,3,32,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,1995,Georgia,7892,GA06401,34,3,31,2,1,1,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0
+Calhoun Police Department,1996,Georgia,8058,GA06401,35,4,31,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,1997,Georgia,8203,GA06401,36,4,32,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Calhoun Police Department,1999,Georgia,8600,GA06401,36,4,32,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Calhoun Police Department,2001,Georgia,10924,GA06401,46,7,39,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,2002,Georgia,11154,GA06401,45,6,39,4,3,1,0,0,3,3,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+Calhoun Police Department,2003,Georgia,11885,GA06401,42,3,39,6,6,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,1,0,0,0,0,0,0,1,0,0,1
+Calhoun Police Department,2005,Georgia,13464,GA06401,42,4,38,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,2006,Georgia,14006,GA06401,44,3,41,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,2007,Georgia,14522,GA06401,41,1,40,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,2008,Georgia,15024,GA06401,37,3,34,7,6,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Calhoun Police Department,2009,Georgia,15295,GA06401,42,3,39,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,2010,Georgia,15650,GA06401,42,3,39,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,2011,Georgia,15856,GA06401,42,3,39,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,2012,Georgia,15941,GA06401,42,3,39,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,2013,Georgia,15866,GA06401,42,3,39,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,2014,Georgia,15956,GA06401,43,5,38,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calhoun Police Department,2015,Georgia,16148,GA06401,42,5,37,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

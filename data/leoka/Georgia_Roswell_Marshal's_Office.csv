@@ -1,0 +1,24 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Roswell Marshal's Office,1975,Georgia,5430,GA06005,21,3,18,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,1976,Georgia,16100,GA06005,29,2,27,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,1977,Georgia,16500,GA06005,32,2,30,8,8,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Roswell Marshal's Office,1988,Georgia,42642,GA06005,73,10,63,29,19,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,1991,Georgia,48994,GA06005,87,8,79,33,24,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,1992,Georgia,49941,GA06005,89,9,80,42,27,15,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,1993,Georgia,51744,GA06005,87,10,77,52,33,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,1994,Georgia,52776,GA06005,86,11,75,52,29,23,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Roswell Marshal's Office,1995,Georgia,56044,GA06005,88,11,77,54,30,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,1996,Georgia,57227,GA06005,94,12,82,47,29,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2002,Georgia,82957,GA06005,93,13,80,55,35,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2004,Georgia,79532,GA06005,121,14,107,54,39,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2005,Georgia,87386,GA06005,129,14,115,66,37,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2006,Georgia,88679,GA06005,129,14,115,65,37,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2007,Georgia,88879,GA06005,126,15,111,60,37,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2008,Georgia,88069,GA06005,128,17,111,67,37,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2009,Georgia,88371,GA06005,139,17,122,67,37,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2010,Georgia,88346,GA06005,139,17,122,66,36,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2011,Georgia,89509,GA06005,93,13,80,55,35,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2012,Georgia,92141,GA06005,146,17,129,58,19,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2013,Georgia,95373,GA06005,93,13,80,55,35,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roswell Marshal's Office,2014,Georgia,95387,GA06005,149,22,127,52,34,18,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Roswell Marshal's Office,2015,Georgia,95455,GA06005,138,16,122,56,40,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

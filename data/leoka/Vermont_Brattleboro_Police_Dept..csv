@@ -1,0 +1,24 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Brattleboro Police Dept.,1975,Vermont,12366,VT01302,25,0,25,5,3,2,0,0,1,0,0,1,0,4,0,1,3,0,5,0,1,4,0,0,0,0,0,0,2,0,3,0,0,0
+Brattleboro Police Dept.,1976,Vermont,12440,VT01302,28,2,26,4,4,0,0,0,2,0,1,1,0,1,0,0,1,0,3,0,1,2,0,0,0,0,0,0,1,0,2,0,0,0
+Brattleboro Police Dept.,1977,Vermont,12239,VT01302,26,2,24,6,4,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
+Brattleboro Police Dept.,1978,Vermont,12006,VT01302,23,0,23,7,5,2,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,0,0,0,2,0,2,0,1,0
+Brattleboro Police Dept.,1981,Vermont,11966,VT01302,25,0,25,10,10,0,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,1,0,0,4,0,1,0,0,0
+Brattleboro Police Dept.,1983,Vermont,12198,VT01302,25,2,23,10,9,1,0,0,7,0,0,7,0,12,1,1,10,0,19,1,1,17,0,2,0,2,0,0,1,0,11,0,3,0
+Brattleboro Police Dept.,1995,Vermont,12700,VT01302,29,1,28,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brattleboro Police Dept.,1997,Vermont,12786,VT01302,26,1,25,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brattleboro Police Dept.,1998,Vermont,12204,VT01302,24,1,23,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brattleboro Police Dept.,1999,Vermont,11990,VT01302,25,1,24,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brattleboro Police Dept.,2003,Vermont,12035,VT01302,25,2,23,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brattleboro Police Dept.,2004,Vermont,12040,VT01302,28,1,27,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brattleboro Police Dept.,2005,Vermont,11976,VT01302,28,1,27,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brattleboro Police Dept.,2006,Vermont,11865,VT01302,28,1,27,16,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brattleboro Police Dept.,2007,Vermont,11706,VT01302,22,1,21,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brattleboro Police Dept.,2008,Vermont,11542,VT01302,22,1,21,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brattleboro Police Dept.,2009,Vermont,11438,VT01302,25,1,24,6,4,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Brattleboro Police Dept.,2010,Vermont,12046,VT01302,26,2,24,12,9,3,0,0,1,0,0,1,0,3,0,0,2,1,4,0,0,3,1,0,0,0,0,0,1,0,1,0,2,0
+Brattleboro Police Dept.,2011,Vermont,12059,VT01302,24,2,22,14,12,2,0,0,2,0,0,2,0,4,0,0,1,3,6,0,0,3,3,1,0,0,0,0,1,0,3,0,0,1
+Brattleboro Police Dept.,2012,Vermont,11970,VT01302,24,3,21,12,10,2,0,0,5,0,0,5,0,9,0,1,7,1,14,0,1,12,1,2,0,0,0,0,5,0,7,0,0,0
+Brattleboro Police Dept.,2013,Vermont,11784,VT01302,27,2,25,13,11,2,0,0,3,0,0,3,0,11,0,1,8,2,14,0,1,11,2,2,0,3,0,0,2,0,2,0,5,0
+Brattleboro Police Dept.,2014,Vermont,11737,VT01302,24,2,22,11,10,1,0,0,3,0,0,3,0,9,0,0,9,0,12,0,0,12,0,0,0,4,0,0,6,0,2,0,0,0
+Brattleboro Police Dept.,2015,Vermont,11696,VT01302,23,3,20,11,10,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0

@@ -1,0 +1,20 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Glenview Police Dept,1975,Illinois,30551,IL01639,45,0,45,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glenview Police Dept,1976,Illinois,30401,IL01639,45,0,45,12,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glenview Police Dept,1978,Illinois,30900,IL01639,47,1,46,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glenview Police Dept,1979,Illinois,31773,IL01639,50,1,49,12,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glenview Police Dept,1980,Illinois,30322,IL01639,50,1,49,14,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glenview Police Dept,1981,Illinois,30589,IL01639,50,1,49,13,9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glenview Police Dept,1982,Illinois,30570,IL01639,56,1,55,13,9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glenview Police Dept,1983,Illinois,30671,IL01639,54,0,54,16,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glenview Police Dept,1984,Illinois,33490,IL01639,55,1,54,13,10,3,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,1,0,0,2,0,0,0,0,2
+Glenview Police Dept,1985,Illinois,33561,IL01639,56,1,55,15,11,4,0,0,6,0,1,5,0,9,1,0,8,0,15,1,1,13,0,0,0,0,0,0,5,0,4,0,1,5
+Glenview Police Dept,1986,Illinois,34275,IL01639,55,2,53,17,13,4,0,0,2,0,0,2,0,5,0,0,5,0,7,0,0,7,0,0,0,3,0,0,0,0,3,0,0,1
+Glenview Police Dept,1987,Illinois,34601,IL01639,56,1,55,17,13,4,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Glenview Police Dept,1988,Illinois,34323,IL01639,57,1,56,16,12,4,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,3,0,0,0,0,1,0,0,0
+Glenview Police Dept,1989,Illinois,35598,IL01639,61,1,60,17,14,3,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
+Glenview Police Dept,1990,Illinois,37093,IL01639,62,2,60,18,11,7,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Glenview Police Dept,1991,Illinois,37457,IL01639,61,2,59,20,13,7,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,1,0,2,0,1,0
+Glenview Police Dept,1992,Illinois,37742,IL01639,61,2,59,22,14,8,0,0,0,0,0,0,0,6,0,0,14,0,6,0,0,6,0,0,0,0,0,0,2,0,3,0,0,1
+Glenview Police Dept,1993,Illinois,37710,IL01639,62,2,60,23,14,9,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,0,0,0,0,0,0,0,2,0,1,3
+Glenview Police Dept,1994,Illinois,37887,IL01639,62,2,60,22,13,9,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0

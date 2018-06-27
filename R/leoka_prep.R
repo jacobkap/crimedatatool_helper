@@ -1,56 +1,101 @@
 load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA/leoka_yearly_1975_2015.rda")
+source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
 library(tidyverse)
 
-simpleCap <- function(x) {
-  s <- strsplit(x, " ")[[1]]
-  paste(toupper(substring(s, 1,1)), substring(s, 2),
-        sep="", collapse=" ")
-}
 
-data <-
+leoka <-
   leoka_yearly_1975_2015 %>%
-  dplyr::rename(agency            = agency_name,
-                ORI               = ori,
-                ORI9              = ori9,
-                FIPS_state_code   = fips_state_code,
-                FIPS_county_code  = fips_county_code,
-                FIPS_state_county_code  = fips_state_county_code) %>%
-  dplyr::select("agency",
-         "ORI",
-         "ORI9",
-         "year",
-         "state",
-         "population",
-         "FIPS_state_code",
-         "FIPS_county_code",
-         "FIPS_state_county_code",
-         "total_officers",
-         "male_employees_officers",
-         "female_employees_officers",
-         "total_civilians",
-         "male_employees_civilians",
-         "female_employees_civilians",
-         "officers_killed_felony",
-         "officers_killed_accident",
-         dplyr::starts_with("total_assault_"),
-         dplyr::ends_with("_total_assault")
-         )
+  dplyr::filter(!state %in% c("guam",
+                              "canal zone",
+                              "puerto rico",
+                              "virgin islands")) %>%
+  dplyr::mutate(months_reported = paste(jan_month_indicator,
+                                        feb_month_indicator,
+                                        mar_month_indicator,
+                                        apr_month_indicator,
+                                        may_month_indicator,
+                                        jun_month_indicator,
+                                        jul_month_indicator,
+                                        aug_month_indicator,
+                                        sep_month_indicator,
+                                        oct_month_indicator,
+                                        nov_month_indicator,
+                                        dec_month_indicator)) %>%
+  dplyr::filter(!grepl("not reported|deleted", months_reported))  %>%
+  dplyr::left_join(crosswalk_agencies) %>%
+  dplyr::filter(agency != "NANA") %>%
+  dplyr::rename(ORI               = ori) %>%
+  dplyr::select(starting_cols,
+                "total_officers",
+                "female_employees_officers",
+                "male_employees_officers",
+                "total_civilians",
+                "female_employees_civilians",
+                "male_employees_civilians",
+                "officers_killed_accident",
+                "officers_killed_felony",
+                "assault_injury_total",
+                "assault_injury_gun",
+                "assault_injury_knife",
+                "assault_injury_hand_feet",
+                "assault_injury_other",
 
-prep_leoka(data)
+                "assault_no_injury_total",
+                "assault_no_injury_gun",
+                "assault_no_injury_knife" ,
+                "assault_no_injury_hand_feet" ,
+                "assault_no_injury_other",
 
-prep_leoka <- function(data) {
-  setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")
-  data$agency      <- sapply(data$agency, simpleCap)
-  data$state       <- sapply(data$state, simpleCap)
-  data$state       <- gsub(" Of ", " of ", data$state)
+                "total_assault_total",
+                "total_assault_gun",
+                "total_assault_knife",
+                "total_assault_hand_feet",
+                "total_assault_other",
 
-  for (state_val in unique(data$state)) {
-    temp <-
-      data %>%
-      dplyr::filter(state == state_val)
+                "all_oth_total_assault",
+                "ambush_total_assault",
+                "att_oth_arrest_total_assault",
+                "burglary_total_assault",
+                "civil_disorder_total_assault",
+                "cust_prisoners_total_assault",
+                "deranged_total_assault",
+                "disturbance_total_assault",
+                "robbery_total_assault",
+                "susp_pers_total_assault",
+                "traffic_total_assault") %>%
+  dplyr::select(-dplyr::matches("assist|veh|clear|alone"))
 
-    if (!state_val %in% c("Guam", "Canal Zone", "Virgin Islands", "Puerto Rico")) {
-      readr::write_csv(temp, path = paste0("arrests_", state_val, ".csv"))
-    }
-  }
+
+z = leoka[!duplicated(leoka$ORI),]
+z$temp <- paste(z$agency, z$state)
+z = z[duplicated(z$temp),]
+leoka <- leoka[!leoka$ORI %in% z$ORI, ]
+leoka$agency      <- sapply(leoka$agency, simpleCap)
+leoka$state       <- sapply(leoka$state, simpleCap)
+leoka$state       <- gsub(" Of ", " of ", leoka$state)
+
+setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")
+leoka <- data.table::data.table(leoka)
+for (selected_ori in unique(leoka$ORI)) {
+  temp   <- leoka[ORI %in% selected_ori]
+  state  <- unique(temp$state)
+  agency <- unique(temp$agency)
+  state  <- gsub(" ", "_", state)
+  agency <- gsub(" |:", "_", agency)
+  agency <- gsub("/", "_", agency)
+  agency <- gsub("_+", "_", agency)
+  data.table::fwrite(temp,
+                     file = paste0(state, "_", agency, ".csv"))
 }
+
+setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")
+for (selected_state in unique(leoka$state)) {
+  temp   <- leoka[state %in% selected_state]
+  agency <- unique(temp$agency)
+  agency <- jsonlite::toJSON(agency, pretty = FALSE)
+  write(agency, paste0(selected_state, "_agency_choices.json"))
+
+}
+rm(leoka); gc()
+
+

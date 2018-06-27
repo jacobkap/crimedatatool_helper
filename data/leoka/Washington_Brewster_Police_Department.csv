@@ -1,0 +1,27 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Brewster Police Department,1990,Washington,1633,WA02401,6,1,5,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
+Brewster Police Department,1991,Washington,1683,WA02401,6,0,6,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
+Brewster Police Department,1992,Washington,1722,WA02401,6,0,6,1,1,0,0,0,2,0,0,2,0,1,0,0,10,0,3,0,0,3,0,0,0,0,0,0,2,0,0,0,0,1
+Brewster Police Department,1993,Washington,1632,WA02401,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,1994,Washington,1659,WA02401,8,0,8,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
+Brewster Police Department,1995,Washington,1653,WA02401,8,0,8,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0
+Brewster Police Department,1996,Washington,1684,WA02401,8,0,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,1997,Washington,1707,WA02401,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,1998,Washington,1851,WA02401,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,1999,Washington,1799,WA02401,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2000,Washington,2189,WA02401,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2001,Washington,2224,WA02401,6,1,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2002,Washington,2254,WA02401,6,1,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2003,Washington,2191,WA02401,6,1,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2004,Washington,2179,WA02401,6,1,5,3,3,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0
+Brewster Police Department,2005,Washington,2171,WA02401,5,1,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2006,Washington,2177,WA02401,6,1,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2007,Washington,2124,WA02401,6,1,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2008,Washington,2075,WA02401,6,1,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2009,Washington,2076,WA02401,6,1,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2010,Washington,2370,WA02401,6,1,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2011,Washington,2407,WA02401,6,1,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2012,Washington,2409,WA02401,5,0,5,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2013,Washington,2356,WA02401,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2014,Washington,2354,WA02401,5,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewster Police Department,2015,Washington,2349,WA02401,5,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

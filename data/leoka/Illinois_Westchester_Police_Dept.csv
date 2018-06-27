@@ -1,0 +1,20 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Westchester Police Dept,1975,Illinois,20100,IL0166B,29,0,29,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1976,Illinois,20001,IL0166B,27,0,27,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1977,Illinois,19697,IL0166B,27,0,27,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1978,Illinois,19064,IL0166B,27,0,27,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1979,Illinois,18422,IL0166B,30,0,30,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1980,Illinois,17723,IL0166B,31,0,31,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1981,Illinois,17879,IL0166B,31,0,31,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1982,Illinois,17868,IL0166B,29,0,29,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1983,Illinois,17927,IL0166B,31,1,30,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1984,Illinois,17391,IL0166B,32,1,31,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1985,Illinois,17428,IL0166B,32,1,31,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1986,Illinois,16969,IL0166B,33,1,32,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1987,Illinois,17331,IL0166B,34,1,33,5,5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Westchester Police Dept,1988,Illinois,17192,IL0166B,34,1,33,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1989,Illinois,17031,IL0166B,34,1,33,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1990,Illinois,17301,IL0166B,35,1,34,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1991,Illinois,17471,IL0166B,35,1,34,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1992,Illinois,17604,IL0166B,34,1,33,12,8,4,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westchester Police Dept,1994,Illinois,17679,IL0166B,38,1,37,12,7,5,0,0,1,0,1,0,0,1,0,0,1,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1

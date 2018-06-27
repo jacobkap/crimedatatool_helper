@@ -1,0 +1,22 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Mcfarland Police Dept,1975,California,4325,CA01505,6,0,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mcfarland Police Dept,1976,California,4320,CA01505,6,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mcfarland Police Dept,1977,California,4391,CA01505,11,4,7,5,5,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mcfarland Police Dept,1978,California,4639,CA01505,13,5,8,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,1,0,0,2,0,0,0
+Mcfarland Police Dept,1979,California,4713,CA01505,8,0,8,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Mcfarland Police Dept,1980,California,5139,CA01505,7,0,7,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mcfarland Police Dept,1981,California,5276,CA01505,7,0,7,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Mcfarland Police Dept,1982,California,5399,CA01505,7,0,7,5,4,1,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,0,0,2,0,0,0,0,2,1,0,0
+Mcfarland Police Dept,1983,California,5497,CA01505,7,0,7,5,4,1,0,0,1,0,0,1,0,4,0,0,2,2,5,0,0,3,2,1,0,1,0,0,0,0,1,0,0,2
+Mcfarland Police Dept,1985,California,5965,CA01505,6,0,6,5,4,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
+Mcfarland Police Dept,1986,California,6495,CA01505,7,0,7,7,3,4,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Mcfarland Police Dept,1987,California,6634,CA01505,4,0,4,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mcfarland Police Dept,1988,California,6726,CA01505,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mcfarland Police Dept,1989,California,4106,CA01505,6,0,6,5,4,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mcfarland Police Dept,1990,California,7005,CA01505,4,0,4,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mcfarland Police Dept,2010,California,12707,CA01505,7,1,6,3,3,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Mcfarland Police Dept,2011,California,12856,CA01505,11,2,9,8,8,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
+Mcfarland Police Dept,2012,California,13010,CA01505,11,0,11,2,2,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
+Mcfarland Police Dept,2013,California,12288,CA01505,14,0,14,3,3,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,1,0
+Mcfarland Police Dept,2014,California,12346,CA01505,14,0,14,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mcfarland Police Dept,2015,California,13848,CA01505,13,0,13,3,3,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0

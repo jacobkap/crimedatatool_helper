@@ -1,0 +1,21 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Riverside Police Dept,1975,Illinois,10500,IL01696,19,0,19,3,0,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Riverside Police Dept,1976,Illinois,10448,IL01696,18,0,18,3,0,3,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0
+Riverside Police Dept,1977,Illinois,10289,IL01696,19,0,19,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1978,Illinois,9859,IL01696,19,0,19,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1979,Illinois,9522,IL01696,19,0,19,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1980,Illinois,9233,IL01696,18,0,18,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1981,Illinois,9314,IL01696,19,0,19,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1982,Illinois,9309,IL01696,19,0,19,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1983,Illinois,9339,IL01696,19,0,19,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1984,Illinois,9133,IL01696,19,0,19,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1985,Illinois,9152,IL01696,19,0,19,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1986,Illinois,8969,IL01696,19,0,19,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1987,Illinois,8936,IL01696,19,0,19,3,2,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Riverside Police Dept,1988,Illinois,8864,IL01696,19,0,19,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1989,Illinois,9002,IL01696,19,0,19,3,2,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Riverside Police Dept,1990,Illinois,8774,IL01696,19,0,19,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1991,Illinois,8860,IL01696,19,0,19,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1992,Illinois,8927,IL01696,19,0,19,4,4,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1993,Illinois,9075,IL01696,19,0,19,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverside Police Dept,1994,Illinois,9117,IL01696,19,0,19,4,4,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0

@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+St. Clair County Sheriff's Office,1985,Missouri,8737,MO09300,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,1986,Missouri,8766,MO09300,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,1987,Missouri,8461,MO09300,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,1988,Missouri,8459,MO09300,5,1,4,9,4,5,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,0,0,0,0,0,2
+St. Clair County Sheriff's Office,1989,Missouri,8428,MO09300,5,0,5,13,6,7,0,0,0,0,0,0,0,3,0,1,2,0,3,0,1,2,0,0,0,1,0,0,1,0,0,0,0,1
+St. Clair County Sheriff's Office,1990,Missouri,8457,MO09300,6,1,5,14,6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,1991,Missouri,8524,MO09300,8,1,7,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,1992,Missouri,8581,MO09300,9,1,8,16,4,12,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,1994,Missouri,8653,MO09300,13,1,12,13,0,13,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
+St. Clair County Sheriff's Office,1995,Missouri,8807,MO09300,16,2,14,19,4,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,1996,Missouri,8864,MO09300,12,2,10,22,4,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2001,Missouri,9712,MO09300,13,3,10,43,19,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2003,Missouri,7670,MO09300,18,2,16,44,18,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2004,Missouri,6882,MO09300,20,4,16,43,17,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2005,Missouri,6784,MO09300,10,2,8,21,2,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2006,Missouri,6862,MO09300,19,3,16,40,13,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2008,Missouri,6574,MO09300,20,3,17,46,20,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2009,Missouri,6467,MO09300,20,3,17,46,20,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2010,Missouri,7091,MO09300,20,3,17,46,20,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2011,Missouri,7118,MO09300,20,3,17,46,20,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2012,Missouri,6982,MO09300,20,3,17,46,20,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2013,Missouri,6777,MO09300,20,1,19,45,23,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2014,Missouri,6790,MO09300,23,2,21,44,20,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Clair County Sheriff's Office,2015,Missouri,6758,MO09300,20,3,17,42,18,24,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0

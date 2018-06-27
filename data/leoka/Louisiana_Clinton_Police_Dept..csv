@@ -1,0 +1,17 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Clinton Police Dept.,1997,Louisiana,2151,LA01901,5,0,5,0,0,0,0,0,0,0,0,0,0,4,1,0,3,0,4,1,0,3,0,0,1,0,0,0,0,0,2,0,1,0
+Clinton Police Dept.,1998,Louisiana,1977,LA01901,5,0,5,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Clinton Police Dept.,1999,Louisiana,1917,LA01901,6,0,6,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0
+Clinton Police Dept.,2000,Louisiana,1998,LA01901,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Clinton Police Dept.,2003,Louisiana,1971,LA01901,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clinton Police Dept.,2004,Louisiana,1966,LA01901,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clinton Police Dept.,2005,Louisiana,1938,LA01901,4,0,4,0,0,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,1,0,0,0,0,0,0,0,0,0,2
+Clinton Police Dept.,2006,Louisiana,1822,LA01901,7,0,7,1,1,0,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,2,0,0,0,0,0,0,0,0,2,0
+Clinton Police Dept.,2007,Louisiana,1907,LA01901,5,0,5,1,1,0,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,1,0,0,0,0,0,0,2,0,2,0
+Clinton Police Dept.,2008,Louisiana,1878,LA01901,8,1,7,1,1,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
+Clinton Police Dept.,2009,Louisiana,1880,LA01901,7,0,7,1,1,0,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,0,0,0,0,0,5,0,0,1
+Clinton Police Dept.,2010,Louisiana,1653,LA01901,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clinton Police Dept.,2011,Louisiana,1668,LA01901,7,0,7,1,1,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0
+Clinton Police Dept.,2012,Louisiana,1651,LA01901,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clinton Police Dept.,2014,Louisiana,1585,LA01901,9,2,7,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clinton Police Dept.,2015,Louisiana,1576,LA01901,6,0,6,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

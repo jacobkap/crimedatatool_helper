@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Conyers Police Department,1976,Georgia,7953,GA12201,17,1,16,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,1977,Georgia,8059,GA12201,18,1,17,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Conyers Police Department,1985,Georgia,7315,GA12201,21,3,18,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,1992,Georgia,7689,GA12201,35,6,29,14,11,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,1993,Georgia,7972,GA12201,36,5,31,14,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,1994,Georgia,8131,GA12201,37,4,33,12,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,1996,Georgia,8825,GA12201,38,5,33,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,1997,Georgia,8984,GA12201,44,5,39,17,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,1998,Georgia,7920,GA12201,44,5,39,17,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,2001,Georgia,10947,GA12201,40,1,39,19,17,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,2002,Georgia,11177,GA12201,40,1,39,17,15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,2003,Georgia,11961,GA12201,46,4,42,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,2004,Georgia,12234,GA12201,45,4,41,18,15,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,2005,Georgia,12482,GA12201,45,5,40,13,11,2,0,0,0,0,0,0,0,3,3,0,0,0,3,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+Conyers Police Department,2006,Georgia,12597,GA12201,45,4,41,13,11,2,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0
+Conyers Police Department,2007,Georgia,12704,GA12201,46,5,41,14,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,2008,Georgia,13598,GA12201,47,7,40,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,2009,Georgia,13798,GA12201,51,8,43,18,16,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Conyers Police Department,2010,Georgia,15195,GA12201,57,8,49,20,17,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,2011,Georgia,15395,GA12201,58,9,49,21,18,3,0,0,1,0,0,0,1,4,4,0,0,0,5,4,0,0,1,0,0,0,0,0,0,0,0,4,0,1
+Conyers Police Department,2012,Georgia,15455,GA12201,60,10,50,20,17,3,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0
+Conyers Police Department,2013,Georgia,15465,GA12201,63,10,53,20,17,3,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Conyers Police Department,2014,Georgia,15713,GA12201,60,13,47,18,15,3,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,0,0,1,0,3,0,0,0
+Conyers Police Department,2015,Georgia,15838,GA12201,58,12,46,20,15,5,0,0,2,0,0,2,0,5,0,0,3,2,7,0,0,5,2,2,0,0,0,0,1,0,3,0,0,1

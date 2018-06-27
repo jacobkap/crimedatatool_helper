@@ -1,0 +1,26 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Andover Police Department,1975,Massachusetts,24041,MA00502,40,0,40,6,1,5,0,0,5,0,0,5,0,2,0,0,2,0,7,0,0,7,0,0,0,1,0,0,0,0,0,0,2,4
+Andover Police Department,1976,Massachusetts,26000,MA00502,41,0,41,6,3,3,0,0,3,0,0,2,1,1,0,0,0,1,4,0,0,2,2,1,0,2,0,0,0,0,1,0,0,0
+Andover Police Department,1977,Massachusetts,23115,MA00502,40,0,40,7,3,4,0,0,1,0,0,0,1,1,0,0,1,0,2,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+Andover Police Department,1978,Massachusetts,26583,MA00502,40,0,40,7,3,4,0,0,8,0,0,8,0,4,2,0,2,0,12,2,0,10,0,0,0,1,0,0,0,0,9,0,0,2
+Andover Police Department,1979,Massachusetts,27088,MA00502,41,0,41,9,4,5,0,0,8,0,0,8,0,2,0,0,1,1,10,0,0,9,1,0,0,0,0,0,0,0,9,0,0,1
+Andover Police Department,1980,Massachusetts,26367,MA00502,42,1,41,5,3,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Andover Police Department,1981,Massachusetts,26559,MA00502,44,1,43,5,3,2,0,0,1,0,0,1,0,2,0,0,1,1,3,0,0,2,1,1,0,0,0,0,0,0,1,0,0,1
+Andover Police Department,1982,Massachusetts,26610,MA00502,43,1,42,5,3,2,0,0,3,0,0,3,0,7,0,0,6,1,10,0,0,9,1,4,0,1,0,0,2,0,1,0,0,2
+Andover Police Department,1983,Massachusetts,26545,MA00502,45,1,44,13,5,8,0,0,2,0,0,2,0,9,0,0,9,0,11,0,0,11,0,1,0,0,0,0,0,0,2,0,0,8
+Andover Police Department,1984,Massachusetts,26951,MA00502,45,1,44,13,6,7,0,0,3,0,0,3,0,4,0,0,4,0,7,0,0,7,0,0,0,1,0,0,1,0,2,0,2,1
+Andover Police Department,1986,Massachusetts,27364,MA00502,50,2,48,12,5,7,0,0,3,0,0,3,0,3,0,0,3,0,6,0,0,6,0,0,0,1,0,1,1,0,1,0,1,1
+Andover Police Department,1989,Massachusetts,27770,MA00502,50,2,48,14,7,7,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,0,0,2,0,0,2,0,1,0,0,0
+Andover Police Department,1990,Massachusetts,29151,MA00502,50,2,48,16,9,7,0,0,6,0,0,5,1,4,0,0,4,0,10,0,0,9,1,1,0,5,0,0,3,0,0,0,1,0
+Andover Police Department,1992,Massachusetts,29061,MA00502,45,2,43,14,7,7,0,0,2,0,0,2,0,4,0,0,11,0,6,0,0,6,0,0,0,2,0,0,1,0,0,0,0,3
+Andover Police Department,1993,Massachusetts,29856,MA00502,44,2,42,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andover Police Department,1994,Massachusetts,29999,MA00502,46,2,44,15,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andover Police Department,1995,Massachusetts,30874,MA00502,46,2,44,15,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andover Police Department,1997,Massachusetts,31097,MA00502,47,3,44,16,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andover Police Department,1998,Massachusetts,31242,MA00502,50,3,47,17,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andover Police Department,1999,Massachusetts,31567,MA00502,47,3,44,17,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andover Police Department,2001,Massachusetts,31396,MA00502,53,3,50,18,10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andover Police Department,2003,Massachusetts,31846,MA00502,52,3,49,18,11,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andover Police Department,2013,Massachusetts,34529,MA00502,53,2,51,19,7,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andover Police Department,2014,Massachusetts,34882,MA00502,53,2,51,19,8,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andover Police Department,2015,Massachusetts,35562,MA00502,53,2,51,18,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

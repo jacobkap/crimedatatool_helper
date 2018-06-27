@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Rancho Mirage Pd,1991,California,9981,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rancho Mirage Pd,1992,California,10140,CA03317,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,9,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Rancho Mirage Pd,1993,California,9978,CA03317,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,2,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0
+Rancho Mirage Pd,1994,California,10048,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rancho Mirage Pd,1995,California,10407,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Rancho Mirage Pd,1996,California,10502,CA03317,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Rancho Mirage Pd,1997,California,10630,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rancho Mirage Pd,1998,California,11287,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Rancho Mirage Pd,1999,California,11525,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rancho Mirage Pd,2000,California,13249,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Rancho Mirage Pd,2001,California,13495,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
+Rancho Mirage Pd,2002,California,13736,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rancho Mirage Pd,2004,California,15473,CA03317,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,1,0,0,0,0,0,0,3,0,0,0
+Rancho Mirage Pd,2005,California,16338,CA03317,0,0,0,0,0,0,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,3,0,0,0,0,2,0,1,0,0,0
+Rancho Mirage Pd,2006,California,16663,CA03317,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,2,1,6,0,0,5,1,1,0,1,0,0,0,0,3,0,0,1
+Rancho Mirage Pd,2007,California,17293,CA03317,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,1,0,0,0,0,0,0,2,0,0,0
+Rancho Mirage Pd,2008,California,17220,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Rancho Mirage Pd,2009,California,17137,CA03317,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,2,0,4,0,0,3,1,2,0,0,0,0,0,0,1,0,1,0
+Rancho Mirage Pd,2010,California,17218,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Rancho Mirage Pd,2011,California,17420,CA03317,1,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
+Rancho Mirage Pd,2012,California,17778,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rancho Mirage Pd,2013,California,17816,CA03317,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Rancho Mirage Pd,2014,California,17926,CA03317,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0
+Rancho Mirage Pd,2015,California,18156,CA03317,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0

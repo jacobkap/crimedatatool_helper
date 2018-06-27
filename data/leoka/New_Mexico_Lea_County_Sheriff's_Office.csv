@@ -1,0 +1,23 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Lea County Sheriff's Office,1975,New Mexico,8448,NM01300,23,6,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lea County Sheriff's Office,1976,New Mexico,2810,NM01300,23,6,17,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Lea County Sheriff's Office,1977,New Mexico,2990,NM01300,28,8,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lea County Sheriff's Office,1978,New Mexico,7422,NM01300,28,8,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lea County Sheriff's Office,1980,New Mexico,10560,NM01300,16,0,16,9,9,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Lea County Sheriff's Office,1985,New Mexico,15190,NM01300,25,0,25,13,12,1,0,0,0,0,0,0,0,4,2,0,2,0,4,2,0,2,0,0,0,0,0,0,1,0,3,0,0,0
+Lea County Sheriff's Office,1986,New Mexico,12240,NM01300,26,0,26,18,15,3,0,0,2,0,0,2,0,1,0,0,0,1,3,0,0,2,1,0,0,0,0,0,0,0,1,0,0,2
+Lea County Sheriff's Office,1987,New Mexico,11496,NM01300,27,0,27,17,12,5,1,1,2,0,0,2,0,5,1,0,4,0,7,1,0,6,0,1,0,0,0,0,0,0,6,0,0,0
+Lea County Sheriff's Office,1988,New Mexico,10637,NM01300,29,1,28,19,18,1,0,0,3,0,0,3,0,1,0,0,0,1,4,0,0,3,1,0,0,1,0,0,0,0,2,0,0,1
+Lea County Sheriff's Office,1989,New Mexico,9903,NM01300,30,1,29,19,16,3,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+Lea County Sheriff's Office,2002,New Mexico,12383,NM01300,42,4,38,16,14,2,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+Lea County Sheriff's Office,2004,New Mexico,12703,NM01300,41,3,38,14,1,13,0,0,0,0,0,0,0,4,0,1,3,0,4,0,1,3,0,0,0,0,0,0,0,0,1,0,0,3
+Lea County Sheriff's Office,2005,New Mexico,12848,NM01300,38,4,34,16,14,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Lea County Sheriff's Office,2006,New Mexico,12969,NM01300,41,3,38,14,1,13,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,1,0,2,0,1,0
+Lea County Sheriff's Office,2007,New Mexico,12956,NM01300,38,4,34,15,13,2,0,0,0,0,0,0,0,6,2,0,4,0,6,2,0,4,0,1,0,0,0,0,0,0,3,0,0,2
+Lea County Sheriff's Office,2009,New Mexico,13414,NM01300,43,6,37,19,16,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lea County Sheriff's Office,2010,New Mexico,13829,NM01300,45,5,40,21,17,4,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,1,0,0,0,1,0
+Lea County Sheriff's Office,2011,New Mexico,13983,NM01300,38,4,34,12,10,2,0,0,0,0,0,0,0,5,0,1,4,0,5,0,1,4,0,1,0,2,0,0,0,0,0,0,0,2
+Lea County Sheriff's Office,2012,New Mexico,13999,NM01300,49,5,44,11,7,4,0,0,0,0,0,0,0,4,2,0,1,1,4,2,0,1,1,0,0,1,0,0,0,0,3,0,0,0
+Lea County Sheriff's Office,2013,New Mexico,14031,NM01300,41,3,38,14,1,13,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Lea County Sheriff's Office,2014,New Mexico,14410,NM01300,41,3,38,14,1,13,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Lea County Sheriff's Office,2015,New Mexico,14892,NM01300,49,7,42,12,8,4,0,0,1,0,0,0,1,1,0,0,0,1,2,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0

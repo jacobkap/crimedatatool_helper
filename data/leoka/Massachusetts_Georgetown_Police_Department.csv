@@ -1,0 +1,27 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Georgetown Police Department,1977,Massachusetts,5160,MA00507,6,1,5,4,3,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
+Georgetown Police Department,1978,Massachusetts,5936,MA00507,7,1,6,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Georgetown Police Department,1979,Massachusetts,5957,MA00507,7,1,6,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Georgetown Police Department,1980,Massachusetts,5685,MA00507,7,1,6,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0
+Georgetown Police Department,1982,Massachusetts,5737,MA00507,7,1,6,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Georgetown Police Department,1983,Massachusetts,5723,MA00507,7,1,6,4,4,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,1984,Massachusetts,5878,MA00507,7,1,6,4,4,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+Georgetown Police Department,1985,Massachusetts,5923,MA00507,7,1,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,1986,Massachusetts,5962,MA00507,8,1,7,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,1988,Massachusetts,6040,MA00507,9,1,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,1989,Massachusetts,6225,MA00507,9,1,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,1994,Massachusetts,6568,MA00507,10,1,9,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,1995,Massachusetts,6759,MA00507,10,0,10,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,1996,Massachusetts,6779,MA00507,10,0,10,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,1997,Massachusetts,6807,MA00507,10,0,10,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,1998,Massachusetts,7135,MA00507,10,0,10,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,1999,Massachusetts,7418,MA00507,10,0,10,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,2001,Massachusetts,7412,MA00507,10,0,10,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,2003,Massachusetts,7724,MA00507,10,0,10,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,2004,Massachusetts,7806,MA00507,11,0,11,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,2005,Massachusetts,7939,MA00507,11,0,11,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,2007,Massachusetts,8210,MA00507,11,0,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,2008,Massachusetts,8241,MA00507,12,0,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,2013,Massachusetts,8457,MA00507,11,0,11,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown Police Department,2014,Massachusetts,8559,MA00507,11,0,11,3,3,0,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+Georgetown Police Department,2015,Massachusetts,8615,MA00507,11,1,10,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0

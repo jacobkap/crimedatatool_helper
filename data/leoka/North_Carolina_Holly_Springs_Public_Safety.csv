@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Holly Springs Public Safety,1979,North Carolina,701,NC09217,2,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0
+Holly Springs Public Safety,1982,North Carolina,717,NC09217,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,1983,North Carolina,724,NC09217,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,1984,North Carolina,696,NC09217,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,1993,North Carolina,1078,NC09217,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,1994,North Carolina,1097,NC09217,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,1996,North Carolina,1656,NC09217,10,1,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,1997,North Carolina,1679,NC09217,11,2,9,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,1998,North Carolina,4143,NC09217,13,2,11,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,1999,North Carolina,7151,NC09217,16,3,13,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,2000,North Carolina,9192,NC09217,16,3,13,5,4,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Holly Springs Public Safety,2001,North Carolina,9348,NC09217,21,3,18,5,4,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Holly Springs Public Safety,2002,North Carolina,9501,NC09217,23,3,20,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,2003,North Carolina,11944,NC09217,24,2,22,7,6,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Holly Springs Public Safety,2004,North Carolina,12896,NC09217,24,4,20,7,5,2,0,0,0,0,0,0,0,2,0,1,1,0,2,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+Holly Springs Public Safety,2005,North Carolina,13968,NC09217,24,4,20,7,5,2,0,0,0,0,0,0,0,10,0,0,5,5,10,0,0,5,5,0,0,6,0,0,2,0,0,0,1,1
+Holly Springs Public Safety,2006,North Carolina,15532,NC09217,25,4,21,7,5,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
+Holly Springs Public Safety,2009,North Carolina,22639,NC09217,36,7,29,11,8,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
+Holly Springs Public Safety,2010,North Carolina,24661,NC09217,41,8,33,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,2011,North Carolina,24974,NC09217,44,8,36,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,2012,North Carolina,25720,NC09217,43,8,35,9,7,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,1,0,0,0,1
+Holly Springs Public Safety,2013,North Carolina,27557,NC09217,43,8,35,12,9,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Holly Springs Public Safety,2014,North Carolina,30026,NC09217,47,8,39,11,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holly Springs Public Safety,2015,North Carolina,31640,NC09217,47,8,39,13,10,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0

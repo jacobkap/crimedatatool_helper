@@ -1,0 +1,26 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Newport Police Department,1975,Vermont,4662,VT01001,16,3,13,2,0,2,0,0,1,0,0,1,0,2,1,0,1,0,3,1,0,2,0,2,0,0,0,0,0,0,1,0,0,0
+Newport Police Department,1976,Vermont,5000,VT01001,15,2,13,2,0,2,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,3,0,1,0,0,0,0,0,0
+Newport Police Department,1977,Vermont,5135,VT01001,15,2,13,3,0,3,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+Newport Police Department,1978,Vermont,4600,VT01001,15,2,13,3,1,2,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,1,0,1,0,0,0,0,1,0,0,1
+Newport Police Department,1979,Vermont,4755,VT01001,12,0,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,1980,Vermont,4768,VT01001,11,0,11,4,3,1,0,0,6,0,1,5,0,3,0,0,3,0,9,0,1,8,0,1,0,4,0,0,0,0,1,0,2,1
+Newport Police Department,1981,Vermont,4803,VT01001,11,0,11,4,3,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
+Newport Police Department,1983,Vermont,4895,VT01001,11,0,11,4,3,1,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0
+Newport Police Department,1995,Vermont,4391,VT01001,11,0,11,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,1997,Vermont,4421,VT01001,12,0,12,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,1998,Vermont,4441,VT01001,12,0,12,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,1999,Vermont,4378,VT01001,12,0,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2003,Vermont,5066,VT01001,11,0,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2004,Vermont,5111,VT01001,11,0,11,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2005,Vermont,5132,VT01001,10,1,9,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2006,Vermont,5214,VT01001,10,1,9,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2007,Vermont,5329,VT01001,10,1,9,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2008,Vermont,5206,VT01001,10,1,9,2,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Newport Police Department,2009,Vermont,5163,VT01001,11,1,10,2,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Newport Police Department,2010,Vermont,4589,VT01001,11,1,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2011,Vermont,4594,VT01001,10,1,9,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2012,Vermont,4576,VT01001,11,1,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2013,Vermont,4513,VT01001,11,1,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2014,Vermont,4505,VT01001,11,1,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newport Police Department,2015,Vermont,4447,VT01001,12,1,11,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

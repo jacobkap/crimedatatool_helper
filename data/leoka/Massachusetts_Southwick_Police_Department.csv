@@ -1,0 +1,22 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Southwick Police Department,1977,Massachusetts,7028,MA00717,11,0,11,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,1978,Massachusetts,7142,MA00717,11,0,11,4,1,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Southwick Police Department,1979,Massachusetts,7317,MA00717,11,0,11,4,1,3,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
+Southwick Police Department,1980,Massachusetts,7387,MA00717,11,0,11,4,1,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Southwick Police Department,1981,Massachusetts,7441,MA00717,11,0,11,4,1,3,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Southwick Police Department,1982,Massachusetts,7455,MA00717,11,0,11,4,1,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Southwick Police Department,1983,Massachusetts,7436,MA00717,11,0,11,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,1984,Massachusetts,7536,MA00717,11,0,11,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,1985,Massachusetts,7568,MA00717,11,0,11,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,1986,Massachusetts,7679,MA00717,11,0,11,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,1987,Massachusetts,7951,MA00717,11,0,11,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,1988,Massachusetts,7943,MA00717,11,0,11,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,1994,Massachusetts,7810,MA00717,14,0,14,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,1995,Massachusetts,7874,MA00717,14,0,14,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,1998,Massachusetts,8035,MA00717,15,1,14,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,1999,Massachusetts,8349,MA00717,15,1,14,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,2001,Massachusetts,8877,MA00717,16,1,15,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,2003,Massachusetts,9131,MA00717,14,1,13,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,2013,Massachusetts,9597,MA00717,17,0,17,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,2014,Massachusetts,9666,MA00717,17,0,17,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southwick Police Department,2015,Massachusetts,9734,MA00717,17,0,17,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

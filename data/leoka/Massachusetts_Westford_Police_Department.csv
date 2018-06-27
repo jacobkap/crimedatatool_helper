@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Westford Police Department,1975,Massachusetts,10556,MA00950,20,0,20,3,2,1,0,0,0,0,0,0,0,3,0,1,2,0,3,0,1,2,0,1,0,0,0,0,0,0,2,0,0,0
+Westford Police Department,1976,Massachusetts,12951,MA00950,22,0,22,4,3,1,0,0,0,0,0,0,0,3,1,0,2,0,3,1,0,2,0,0,0,0,0,0,2,0,1,0,0,0
+Westford Police Department,1977,Massachusetts,10318,MA00950,21,0,21,5,3,2,0,0,4,0,0,4,0,4,1,0,3,0,8,1,0,7,0,0,0,0,1,0,2,0,3,0,0,2
+Westford Police Department,1978,Massachusetts,13265,MA00950,21,0,21,4,3,1,0,0,2,0,0,1,1,5,2,0,3,0,7,2,0,4,1,0,0,2,0,0,0,0,3,0,1,1
+Westford Police Department,1979,Massachusetts,13802,MA00950,20,0,20,6,4,2,0,0,0,0,0,0,0,5,1,0,4,0,5,1,0,4,0,0,0,0,0,0,2,0,3,0,0,0
+Westford Police Department,1980,Massachusetts,13438,MA00950,21,0,21,6,3,3,0,0,2,0,0,1,1,5,0,0,5,0,7,0,0,6,1,0,0,0,0,0,3,0,4,0,0,0
+Westford Police Department,1981,Massachusetts,13536,MA00950,21,0,21,6,3,3,0,0,1,0,0,1,0,7,0,0,7,0,8,0,0,8,0,2,0,5,0,0,0,0,0,0,1,0
+Westford Police Department,1982,Massachusetts,13562,MA00950,21,0,21,6,2,4,0,0,2,0,0,2,0,7,0,0,5,2,9,0,0,7,2,0,5,2,0,0,0,0,1,0,0,1
+Westford Police Department,1983,Massachusetts,13529,MA00950,22,0,22,6,3,3,0,0,5,0,0,5,0,1,0,0,0,1,6,0,0,5,1,0,0,0,0,0,1,2,1,0,2,0
+Westford Police Department,1984,Massachusetts,14023,MA00950,25,0,25,6,3,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Westford Police Department,1985,Massachusetts,14015,MA00950,26,1,25,6,3,3,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0
+Westford Police Department,1986,Massachusetts,14623,MA00950,25,0,25,7,4,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Westford Police Department,1988,Massachusetts,15324,MA00950,30,1,29,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westford Police Department,1989,Massachusetts,16214,MA00950,30,2,28,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westford Police Department,1992,Massachusetts,16341,MA00950,27,1,26,13,4,9,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westford Police Department,1993,Massachusetts,16625,MA00950,26,1,25,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westford Police Department,1994,Massachusetts,16705,MA00950,26,1,25,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westford Police Department,1995,Massachusetts,16994,MA00950,28,1,27,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westford Police Department,1999,Massachusetts,19648,MA00950,37,1,36,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westford Police Department,2001,Massachusetts,20853,MA00950,40,4,36,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westford Police Department,2003,Massachusetts,21268,MA00950,40,2,38,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westford Police Department,2013,Massachusetts,23196,MA00950,43,1,42,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Westford Police Department,2014,Massachusetts,23654,MA00950,45,1,44,12,7,5,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Westford Police Department,2015,Massachusetts,24121,MA00950,45,1,44,10,6,4,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0

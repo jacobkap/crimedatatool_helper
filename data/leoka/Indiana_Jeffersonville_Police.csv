@@ -1,0 +1,24 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Jeffersonville Police,1975,Indiana,20001,IN01003,38,2,36,1,1,0,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Jeffersonville Police,1976,Indiana,20231,IN01003,38,2,36,1,1,0,0,0,2,0,0,2,0,4,0,1,3,0,6,0,1,5,0,0,0,2,0,0,2,2,0,0,0,0
+Jeffersonville Police,1977,Indiana,22361,IN01003,36,2,34,4,4,0,0,0,0,0,0,0,0,6,0,1,5,0,6,0,1,5,0,0,0,0,0,0,3,1,2,0,0,0
+Jeffersonville Police,1981,Indiana,21261,IN01003,39,1,38,6,6,0,0,0,1,0,0,1,0,6,0,0,6,0,7,0,0,7,0,0,0,1,0,0,0,0,5,0,0,1
+Jeffersonville Police,1982,Indiana,21280,IN01003,44,2,42,6,6,0,0,0,4,0,0,4,0,4,0,0,4,0,8,0,0,8,0,0,0,4,0,0,2,0,2,0,0,0
+Jeffersonville Police,1983,Indiana,21311,IN01003,42,3,39,6,6,0,0,0,2,1,0,1,0,2,0,0,2,0,4,1,0,3,0,0,0,2,0,0,1,0,1,0,0,0
+Jeffersonville Police,1984,Indiana,20920,IN01003,44,2,42,6,6,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,0,1
+Jeffersonville Police,1985,Indiana,20922,IN01003,44,2,42,6,6,0,0,0,0,0,0,0,0,8,1,0,7,0,8,1,0,7,0,0,0,4,0,0,0,0,4,0,0,0
+Jeffersonville Police,1986,Indiana,21397,IN01003,41,2,39,6,6,0,0,0,3,0,0,3,0,4,0,0,4,0,7,0,0,7,0,0,0,2,0,0,0,0,5,0,0,0
+Jeffersonville Police,1987,Indiana,21436,IN01003,41,2,39,8,8,0,0,0,2,0,0,2,0,5,0,0,5,0,7,0,0,7,0,0,0,5,0,0,0,0,2,0,0,0
+Jeffersonville Police,1988,Indiana,21667,IN01003,40,2,38,8,8,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,1,0,0,1,0,3,0,0,0
+Jeffersonville Police,1989,Indiana,21347,IN01003,41,1,40,6,6,0,0,0,4,0,0,3,1,3,0,0,3,0,7,0,0,6,1,0,0,1,0,0,0,0,6,0,0,0
+Jeffersonville Police,1992,Indiana,22304,IN01003,44,2,42,6,6,0,0,0,7,0,0,7,0,1,0,0,10,0,8,0,0,8,0,0,0,3,0,2,1,0,2,0,0,0
+Jeffersonville Police,2000,Indiana,27362,IN01003,49,2,47,8,8,0,0,0,4,0,0,4,0,2,0,0,2,0,6,0,0,6,0,0,0,0,0,0,0,0,2,0,3,1
+Jeffersonville Police,2001,Indiana,27516,IN01003,49,2,47,8,8,0,0,0,3,0,0,3,0,3,0,0,3,0,6,0,0,6,0,0,0,0,0,0,0,0,2,0,2,2
+Jeffersonville Police,2002,Indiana,27715,IN01003,49,2,47,8,7,1,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
+Jeffersonville Police,2003,Indiana,27987,IN01003,55,3,52,9,8,1,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,0,0,1,1,0,0,1,1,0,2,0
+Jeffersonville Police,2004,Indiana,28215,IN01003,55,2,53,8,7,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,1,0,0,0,0,2,0,1,0
+Jeffersonville Police,2005,Indiana,28798,IN01003,54,2,52,8,7,1,0,0,7,0,0,7,0,0,0,0,0,0,7,0,0,7,0,0,0,1,0,0,1,1,2,1,1,0
+Jeffersonville Police,2010,Indiana,44953,IN01003,62,1,61,14,12,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Jeffersonville Police,2011,Indiana,45183,IN01003,74,4,70,14,12,2,0,0,5,0,0,4,1,9,0,0,9,0,14,0,0,13,1,0,0,7,0,0,6,0,0,0,1,0
+Jeffersonville Police,2012,Indiana,45640,IN01003,49,2,47,9,9,0,0,0,13,0,0,13,0,12,0,0,11,1,25,0,0,24,1,0,0,12,0,0,12,0,1,0,0,0
+Jeffersonville Police,2015,Indiana,46764,IN01003,78,6,72,4,4,0,0,0,4,0,0,4,0,13,0,0,11,2,17,0,0,15,2,0,0,6,0,0,4,4,1,0,1,1

@@ -1,0 +1,24 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Dawson Police Department,1975,Georgia,5359,GA13501,16,1,15,3,2,1,0,0,2,0,0,2,0,5,0,0,5,0,7,0,0,7,0,0,0,2,0,0,0,0,1,0,0,4
+Dawson Police Department,1977,Georgia,6000,GA13501,15,0,15,4,0,4,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
+Dawson Police Department,1979,Georgia,5126,GA13501,12,1,11,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Dawson Police Department,1980,Georgia,5746,GA13501,13,1,12,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,1983,Georgia,6097,GA13501,13,2,11,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,1984,Georgia,5946,GA13501,15,2,13,17,4,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,1985,Georgia,6087,GA13501,13,1,12,13,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,1987,Georgia,5514,GA13501,17,2,15,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,1992,Georgia,5517,GA13501,17,3,14,5,3,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,1993,Georgia,5317,GA13501,17,2,15,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,1995,Georgia,5490,GA13501,17,3,14,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,1996,Georgia,5605,GA13501,15,2,13,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,1998,Georgia,5747,GA13501,15,2,13,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,1999,Georgia,5719,GA13501,14,3,11,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,2000,Georgia,5058,GA13501,16,2,14,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,2002,Georgia,5289,GA13501,19,2,17,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,2003,Georgia,5134,GA13501,17,3,14,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,2004,Georgia,5119,GA13501,13,2,11,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,2005,Georgia,5120,GA13501,13,4,9,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,2007,Georgia,4754,GA13501,15,2,13,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,2010,Georgia,4540,GA13501,15,2,13,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,2012,Georgia,4644,GA13501,21,3,18,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dawson Police Department,2013,Georgia,4352,GA13501,15,2,13,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

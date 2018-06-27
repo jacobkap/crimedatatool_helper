@@ -1,0 +1,21 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Wheeling Police Dept,1975,Illinois,18106,IL0169B,38,0,38,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wheeling Police Dept,1976,Illinois,18017,IL0169B,37,0,37,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wheeling Police Dept,1977,Illinois,17743,IL0169B,33,0,33,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wheeling Police Dept,1978,Illinois,19080,IL0169B,35,0,35,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wheeling Police Dept,1979,Illinois,21491,IL0169B,39,0,39,16,6,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wheeling Police Dept,1980,Illinois,23073,IL0169B,39,0,39,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wheeling Police Dept,1981,Illinois,23276,IL0169B,40,0,40,11,6,5,0,0,10,0,0,10,0,12,0,1,10,1,22,0,1,20,1,1,0,5,0,0,3,0,8,0,2,3
+Wheeling Police Dept,1982,Illinois,23262,IL0169B,39,0,39,12,8,4,0,0,6,0,0,6,0,13,0,1,11,1,19,0,1,17,1,3,0,4,0,0,3,0,6,0,1,2
+Wheeling Police Dept,1983,Illinois,23339,IL0169B,38,0,38,12,8,4,0,0,3,0,0,3,0,11,0,0,10,1,14,0,0,13,1,1,0,1,0,1,3,0,5,0,2,1
+Wheeling Police Dept,1984,Illinois,24951,IL0169B,38,0,38,14,10,4,0,0,11,2,0,8,1,5,0,0,5,0,16,2,0,13,1,3,0,2,0,0,1,0,8,2,0,0
+Wheeling Police Dept,1985,Illinois,25004,IL0169B,37,0,37,14,11,3,0,1,0,0,0,0,0,7,0,0,6,1,7,0,0,6,1,4,0,1,0,0,1,0,1,0,0,0
+Wheeling Police Dept,1986,Illinois,25928,IL0169B,40,3,37,16,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wheeling Police Dept,1987,Illinois,26497,IL0169B,40,3,37,17,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wheeling Police Dept,1988,Illinois,26284,IL0169B,47,3,44,17,12,5,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+Wheeling Police Dept,1989,Illinois,28492,IL0169B,47,3,44,17,12,5,0,0,4,0,0,4,0,9,0,0,9,0,13,0,0,13,0,0,0,2,0,0,1,1,8,0,1,0
+Wheeling Police Dept,1990,Illinois,29911,IL0169B,50,2,48,22,16,6,0,0,9,0,0,9,0,5,0,0,5,0,14,0,0,14,0,2,0,0,0,0,2,0,8,0,1,1
+Wheeling Police Dept,1991,Illinois,30205,IL0169B,51,2,49,25,20,5,0,0,3,0,0,3,0,13,0,0,12,1,16,0,0,15,1,1,0,3,1,0,3,0,3,0,2,3
+Wheeling Police Dept,1992,Illinois,30435,IL0169B,52,2,50,25,19,6,0,0,3,0,0,3,0,10,0,0,19,0,13,0,0,13,0,3,0,3,0,0,1,0,6,0,0,0
+Wheeling Police Dept,1993,Illinois,30662,IL0169B,52,2,50,22,17,5,0,0,0,0,0,0,0,16,0,0,16,0,16,0,0,16,0,4,0,2,0,0,4,0,3,0,1,2
+Wheeling Police Dept,1994,Illinois,30806,IL0169B,51,0,51,21,14,7,0,0,1,0,0,1,0,5,0,1,4,0,6,0,1,5,0,0,0,3,0,0,0,0,2,0,1,0

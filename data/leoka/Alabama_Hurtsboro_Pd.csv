@@ -1,0 +1,27 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Hurtsboro Pd,1975,Alabama,973,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1977,Alabama,967,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1978,Alabama,943,AL05702,4,0,4,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1979,Alabama,943,AL05702,4,0,4,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Hurtsboro Pd,1980,Alabama,756,AL05702,4,0,4,2,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Hurtsboro Pd,1982,Alabama,772,AL05702,4,0,4,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0
+Hurtsboro Pd,1984,Alabama,746,AL05702,4,0,4,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1986,Alabama,762,AL05702,4,0,4,2,2,0,0,0,0,0,0,0,0,2,0,1,1,0,2,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0
+Hurtsboro Pd,1989,Alabama,732,AL05702,3,0,3,1,0,1,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,0,0,0,0,0,0,0,1,0,1,1
+Hurtsboro Pd,1990,Alabama,707,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1991,Alabama,715,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1992,Alabama,723,AL05702,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1993,Alabama,674,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1994,Alabama,679,AL05702,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1995,Alabama,703,AL05702,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1997,Alabama,713,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,1999,Alabama,697,AL05702,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,2000,Alabama,592,AL05702,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,2001,Alabama,594,AL05702,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,2002,Alabama,597,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,2005,Alabama,569,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,2006,Alabama,563,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,2007,Alabama,556,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,2008,Alabama,550,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,2009,Alabama,541,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurtsboro Pd,2010,Alabama,553,AL05702,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

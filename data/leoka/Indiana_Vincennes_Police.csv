@@ -1,0 +1,23 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Vincennes Police,1975,Indiana,20914,IN04202,31,0,31,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,1991,Indiana,20094,IN04202,27,2,25,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,1992,Indiana,20280,IN04202,30,2,28,5,2,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,1993,Indiana,19800,IN04202,30,2,28,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,1994,Indiana,19935,IN04202,30,2,28,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,1995,Indiana,19964,IN04202,31,2,29,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,1996,Indiana,20094,IN04202,27,2,25,5,2,3,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
+Vincennes Police,1997,Indiana,20173,IN04202,33,3,30,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,1998,Indiana,19469,IN04202,32,4,28,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,1999,Indiana,19015,IN04202,30,3,27,5,2,3,0,0,1,0,1,0,0,1,0,0,1,0,2,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1
+Vincennes Police,2000,Indiana,18701,IN04202,36,3,33,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,2001,Indiana,18806,IN04202,37,3,34,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,2002,Indiana,18942,IN04202,37,2,35,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,2003,Indiana,18354,IN04202,37,2,35,5,3,2,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Vincennes Police,2004,Indiana,18444,IN04202,36,2,34,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,2005,Indiana,18205,IN04202,37,3,34,5,3,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Vincennes Police,2006,Indiana,18197,IN04202,35,3,32,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,2007,Indiana,17905,IN04202,36,3,33,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,2008,Indiana,17863,IN04202,36,3,33,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,2009,Indiana,17902,IN04202,33,3,30,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,2010,Indiana,18423,IN04202,36,3,33,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vincennes Police,2011,Indiana,18517,IN04202,32,4,28,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,23 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Cedartown Police Department,1977,Georgia,10000,GA11501,20,0,20,4,2,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,1988,Georgia,9151,GA11501,19,2,17,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,1989,Georgia,9286,GA11501,19,2,17,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Cedartown Police Department,1991,Georgia,8156,GA11501,21,2,19,4,4,0,0,0,5,1,0,3,1,3,0,0,3,0,8,1,0,6,1,0,0,0,1,0,0,0,3,0,4,0
+Cedartown Police Department,1992,Georgia,8313,GA11501,21,2,19,4,4,0,0,0,5,1,0,3,1,3,0,0,12,0,8,1,0,6,1,0,0,0,1,0,0,0,3,0,4,0
+Cedartown Police Department,1993,Georgia,8529,GA11501,23,2,21,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,1994,Georgia,8699,GA11501,22,3,19,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,1995,Georgia,8600,GA11501,20,2,18,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,1996,Georgia,8781,GA11501,21,2,19,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,1997,Georgia,8939,GA11501,21,2,19,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,1999,Georgia,7744,GA11501,26,2,24,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2000,Georgia,9470,GA11501,25,2,23,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2001,Georgia,9698,GA11501,23,2,21,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2002,Georgia,9903,GA11501,25,2,23,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2008,Georgia,9915,GA11501,32,2,30,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2009,Georgia,10177,GA11501,22,2,20,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2010,Georgia,9750,GA11501,22,2,20,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2011,Georgia,9878,GA11501,32,2,30,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2012,Georgia,9695,GA11501,33,2,31,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2013,Georgia,9779,GA11501,31,2,29,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2014,Georgia,9788,GA11501,32,2,30,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedartown Police Department,2015,Georgia,9715,GA11501,32,2,30,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

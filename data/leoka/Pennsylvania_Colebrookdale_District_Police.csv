@@ -1,0 +1,26 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Colebrookdale District Police,1983,Pennsylvania,4761,PA00625,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,1984,Pennsylvania,4824,PA00625,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,1985,Pennsylvania,4805,PA00625,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,1986,Pennsylvania,4900,PA00625,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,1987,Pennsylvania,5080,PA00625,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,1990,Pennsylvania,5469,PA00625,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,1992,Pennsylvania,9134,PA00625,10,1,9,0,0,0,0,0,1,0,0,1,0,0,0,0,9,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Colebrookdale District Police,1994,Pennsylvania,12801,PA00625,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,1996,Pennsylvania,12804,PA00625,7,1,6,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Colebrookdale District Police,1997,Pennsylvania,12765,PA00625,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,1998,Pennsylvania,5747,PA00625,7,1,6,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2000,Pennsylvania,5270,PA00625,8,2,6,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Colebrookdale District Police,2002,Pennsylvania,6228,PA00625,9,2,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2003,Pennsylvania,6306,PA00625,9,2,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2004,Pennsylvania,6324,PA00625,9,2,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2006,Pennsylvania,6413,PA00625,9,2,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2007,Pennsylvania,6462,PA00625,10,2,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2008,Pennsylvania,6434,PA00625,10,2,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2009,Pennsylvania,6413,PA00625,10,2,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2010,Pennsylvania,6020,PA00625,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2011,Pennsylvania,6039,PA00625,9,1,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2012,Pennsylvania,6042,PA00625,9,1,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2013,Pennsylvania,6037,PA00625,9,1,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2014,Pennsylvania,6039,PA00625,9,1,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colebrookdale District Police,2015,Pennsylvania,6012,PA00625,9,1,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

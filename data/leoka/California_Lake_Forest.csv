@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Lake Forest,1992,California,56963,CA03043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Forest,1993,California,57545,CA03043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Forest,1994,California,57950,CA03043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Forest,1995,California,60195,CA03043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Forest,1996,California,60745,CA03043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Forest,1997,California,61487,CA03043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Forest,1998,California,75568,CA03043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Forest,1999,California,81094,CA03043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Forest,2000,California,58707,CA03043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Forest,2001,California,77410,CA03043,0,0,0,0,0,0,0,0,4,0,0,4,0,5,0,0,5,0,9,0,0,9,0,0,0,2,0,0,0,0,1,0,5,1
+Lake Forest,2002,California,78790,CA03043,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Lake Forest,2003,California,77749,CA03043,0,0,0,0,0,0,0,0,1,0,0,1,0,11,2,0,9,0,12,2,0,10,0,0,0,1,0,0,0,0,7,2,1,1
+Lake Forest,2004,California,77623,CA03043,0,0,0,0,0,0,0,0,2,0,0,2,0,6,0,0,4,2,8,0,0,6,2,0,0,1,0,0,0,0,1,0,4,2
+Lake Forest,2005,California,77523,CA03043,0,0,0,0,0,0,0,0,1,0,0,0,1,13,0,3,10,0,14,0,3,10,1,1,0,2,0,0,1,0,8,0,2,0
+Lake Forest,2006,California,77100,CA03043,0,0,0,0,0,0,0,0,3,0,0,3,0,7,0,2,4,1,10,0,2,7,1,1,0,2,0,0,0,0,7,0,0,0
+Lake Forest,2007,California,76359,CA03043,0,0,0,0,0,0,0,0,2,0,0,2,0,6,0,0,3,3,8,0,0,5,3,1,0,1,0,0,0,0,3,0,3,0
+Lake Forest,2008,California,75637,CA03043,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,1,0,0,0,0,0,1,1,0,0,0
+Lake Forest,2009,California,75509,CA03043,0,0,0,0,0,0,0,0,1,0,0,1,0,9,0,0,8,1,10,0,0,9,1,3,0,2,0,0,1,0,4,0,0,0
+Lake Forest,2010,California,77264,CA03043,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,8,0,0,8,0,0,0,5,0,0,0,0,1,0,2,0
+Lake Forest,2011,California,78172,CA03043,1,0,1,0,0,0,0,0,2,0,0,2,0,12,0,0,8,4,14,0,0,10,4,0,0,6,0,0,1,0,3,0,4,0
+Lake Forest,2012,California,79166,CA03043,0,0,0,0,0,0,0,0,4,0,0,4,0,3,0,0,3,0,7,0,0,7,0,2,0,3,0,0,0,0,1,0,1,0
+Lake Forest,2013,California,79336,CA03043,0,0,0,0,0,0,0,0,2,0,0,2,0,8,0,0,6,2,10,0,0,8,2,2,0,6,0,0,0,0,1,0,1,0
+Lake Forest,2014,California,79748,CA03043,1,0,1,0,0,0,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,0,0,2,0,0,0,0,2,0,1,1
+Lake Forest,2015,California,80798,CA03043,1,0,1,0,0,0,0,0,1,0,0,1,0,16,2,0,14,0,17,2,0,15,0,3,0,2,0,0,2,0,7,0,3,0

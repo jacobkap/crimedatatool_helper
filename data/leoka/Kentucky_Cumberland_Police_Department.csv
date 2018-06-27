@@ -1,0 +1,24 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Cumberland Police Department,1975,Kentucky,3546,KY04801,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cumberland Police Department,1976,Kentucky,4300,KY04801,5,0,5,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Cumberland Police Department,1977,Kentucky,5200,KY04801,7,0,7,3,0,3,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Cumberland Police Department,1978,Kentucky,5500,KY04801,9,0,9,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cumberland Police Department,1979,Kentucky,3945,KY04801,7,1,6,5,2,3,0,0,1,0,0,1,0,2,1,0,1,0,3,1,0,2,0,0,0,3,0,0,0,0,0,0,0,0
+Cumberland Police Department,1980,Kentucky,3700,KY04801,7,0,7,4,1,3,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+Cumberland Police Department,1981,Kentucky,3720,KY04801,5,0,5,4,1,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Cumberland Police Department,1984,Kentucky,3771,KY04801,8,0,8,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cumberland Police Department,1985,Kentucky,3774,KY04801,7,0,7,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cumberland Police Department,1986,Kentucky,3658,KY04801,7,0,7,2,0,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Cumberland Police Department,1990,Kentucky,3112,KY04801,5,0,5,2,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Cumberland Police Department,1991,Kentucky,3135,KY04801,6,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cumberland Police Department,1992,Kentucky,3170,KY04801,7,0,7,2,2,0,0,0,1,0,0,1,0,1,0,0,9,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1
+Cumberland Police Department,1993,Kentucky,3054,KY04801,6,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cumberland Police Department,1994,Kentucky,3084,KY04801,6,0,6,3,3,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Cumberland Police Department,1995,Kentucky,2988,KY04801,8,0,8,3,2,1,0,0,1,0,0,0,1,2,0,0,0,2,3,0,0,0,3,1,0,0,0,0,0,0,1,0,0,1
+Cumberland Police Department,2009,Kentucky,2327,KY04801,5,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Cumberland Police Department,2010,Kentucky,2237,KY04801,6,0,6,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Cumberland Police Department,2011,Kentucky,2252,KY04801,7,0,7,3,2,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Cumberland Police Department,2012,Kentucky,2226,KY04801,7,0,7,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Cumberland Police Department,2013,Kentucky,2151,KY04801,7,0,7,0,0,0,0,0,0,0,0,0,0,3,1,0,2,0,3,1,0,2,0,0,0,0,0,0,0,0,0,0,1,2
+Cumberland Police Department,2014,Kentucky,2157,KY04801,6,0,6,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Cumberland Police Department,2015,Kentucky,2118,KY04801,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

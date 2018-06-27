@@ -1,0 +1,26 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Brecksville Police Department,1976,Ohio,8389,OH01808,12,0,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brecksville Police Department,1977,Ohio,10100,OH01808,18,0,18,4,4,0,0,0,1,0,0,1,0,9,0,0,9,0,10,0,0,10,0,0,0,1,0,0,8,0,0,0,0,1
+Brecksville Police Department,1978,Ohio,8412,OH01808,18,0,18,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brecksville Police Department,1979,Ohio,8478,OH01808,18,0,18,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Brecksville Police Department,1982,Ohio,10156,OH01808,20,0,20,5,0,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Brecksville Police Department,1983,Ohio,10113,OH01808,21,0,21,4,4,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Brecksville Police Department,1984,Ohio,10207,OH01808,22,0,22,4,4,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,0,2,0,0,0,0,0
+Brecksville Police Department,1985,Ohio,10199,OH01808,21,0,21,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Brecksville Police Department,1986,Ohio,10645,OH01808,21,0,21,3,3,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Brecksville Police Department,1987,Ohio,10677,OH01808,21,0,21,4,4,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0
+Brecksville Police Department,1988,Ohio,10606,OH01808,21,0,21,4,3,1,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,0,0,1,0,3,0,0,0
+Brecksville Police Department,1989,Ohio,11757,OH01808,20,0,20,4,3,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+Brecksville Police Department,1990,Ohio,11818,OH01808,20,0,20,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brecksville Police Department,1991,Ohio,11918,OH01808,24,0,24,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brecksville Police Department,1992,Ohio,12001,OH01808,28,0,28,7,5,2,0,0,1,0,0,1,0,2,0,0,11,0,3,0,0,3,0,0,0,0,0,0,0,2,0,0,0,1
+Brecksville Police Department,1993,Ohio,12137,OH01808,26,0,26,14,4,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brecksville Police Department,1994,Ohio,12149,OH01808,26,0,26,4,3,1,0,0,1,0,0,0,1,3,0,0,2,1,4,0,0,2,2,0,0,0,0,0,0,0,1,0,0,3
+Brecksville Police Department,1995,Ohio,12590,OH01808,26,0,26,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brecksville Police Department,1996,Ohio,12614,OH01808,28,0,28,5,4,1,0,0,1,0,0,1,0,2,0,0,1,1,3,0,0,2,1,0,0,1,0,0,0,0,0,0,0,2
+Brecksville Police Department,1997,Ohio,12628,OH01808,28,0,28,6,5,1,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0
+Brecksville Police Department,1998,Ohio,12585,OH01808,28,0,28,7,6,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Brecksville Police Department,1999,Ohio,12676,OH01808,27,0,27,7,6,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Brecksville Police Department,2000,Ohio,13382,OH01808,28,0,28,7,6,1,0,0,1,0,0,0,1,3,0,0,1,2,4,0,0,1,3,0,0,0,0,0,0,1,0,0,0,3
+Brecksville Police Department,2001,Ohio,13406,OH01808,29,0,29,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brecksville Police Department,2009,Ohio,12792,OH01808,29,0,29,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

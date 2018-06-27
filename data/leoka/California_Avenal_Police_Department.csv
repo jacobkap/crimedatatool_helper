@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Avenal Police Department,1992,California,9926,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,1993,California,11779,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,1994,California,11862,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,1995,California,12161,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,1996,California,12272,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,1997,California,12422,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,1998,California,12084,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,1999,California,11875,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,2000,California,14674,CA01607,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0
+Avenal Police Department,2001,California,14947,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,2002,California,15213,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,2003,California,15494,CA01607,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Avenal Police Department,2004,California,15995,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,2005,California,16792,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,2006,California,16781,CA01607,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
+Avenal Police Department,2007,California,17175,CA01607,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Avenal Police Department,2008,California,17711,CA01607,0,0,0,0,0,0,0,0,2,0,0,2,0,4,0,1,2,1,6,0,1,4,1,0,0,4,0,0,0,0,2,0,0,0
+Avenal Police Department,2009,California,17451,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,1,0,1,2,0,0,0,0,0,0,0
+Avenal Police Department,2010,California,15505,CA01607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,2011,California,15687,CA01607,15,2,13,2,2,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Avenal Police Department,2012,California,15704,CA01607,15,3,12,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,2013,California,14712,CA01607,16,3,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avenal Police Department,2014,California,13914,CA01607,16,4,12,2,2,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0
+Avenal Police Department,2015,California,12859,CA01607,15,3,12,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1

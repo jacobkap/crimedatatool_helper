@@ -1,0 +1,19 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Burbank Police Dept,1975,Illinois,29851,IL0168C,29,2,27,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Burbank Police Dept,1976,Illinois,29704,IL0168C,29,2,27,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burbank Police Dept,1977,Illinois,28857,IL0168C,29,2,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burbank Police Dept,1979,Illinois,29368,IL0168C,29,2,27,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Burbank Police Dept,1980,Illinois,28354,IL0168C,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,2,0,0,0,0,0,0,1,0,0,0
+Burbank Police Dept,1981,Illinois,28604,IL0168C,30,2,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burbank Police Dept,1982,Illinois,28586,IL0168C,32,0,32,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Burbank Police Dept,1983,Illinois,28680,IL0168C,35,2,33,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burbank Police Dept,1984,Illinois,28290,IL0168C,34,1,33,10,8,2,0,0,2,0,0,2,0,7,0,0,6,1,9,0,0,8,1,0,0,4,0,0,0,0,2,0,0,3
+Burbank Police Dept,1985,Illinois,28350,IL0168C,36,1,35,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burbank Police Dept,1986,Illinois,28154,IL0168C,36,2,34,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burbank Police Dept,1987,Illinois,28614,IL0168C,37,1,36,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burbank Police Dept,1988,Illinois,28384,IL0168C,39,1,38,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burbank Police Dept,1989,Illinois,28723,IL0168C,43,3,40,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burbank Police Dept,1990,Illinois,27600,IL0168C,44,3,41,8,4,4,0,0,1,0,0,1,0,5,0,0,3,2,6,0,0,4,2,0,0,0,0,0,0,0,2,0,0,4
+Burbank Police Dept,1991,Illinois,27871,IL0168C,44,2,42,11,5,6,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,0,0,0,4,0,0,0,0,1
+Burbank Police Dept,1992,Illinois,28083,IL0168C,45,2,43,8,5,3,0,0,1,0,0,1,0,4,0,0,13,0,5,0,0,5,0,0,0,0,0,0,4,0,0,0,0,1
+Burbank Police Dept,1994,Illinois,28277,IL0168C,43,2,41,8,6,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0

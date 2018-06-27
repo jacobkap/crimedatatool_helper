@@ -1,0 +1,23 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Silver Bow,1975,Montana,19677,MT04700,34,2,32,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,1976,Montana,18800,MT04700,33,2,31,6,3,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Silver Bow,1983,Montana,39668,MT04700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,1984,Montana,37451,MT04700,47,0,47,23,13,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,1985,Montana,35285,MT04700,42,0,42,27,13,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,1988,Montana,33467,MT04700,40,0,40,26,14,12,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Silver Bow,1991,Montana,34320,MT04700,39,0,39,25,13,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,1992,Montana,34999,MT04700,38,1,37,27,14,13,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,1993,Montana,34833,MT04700,41,1,40,24,13,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,1994,Montana,35538,MT04700,41,1,40,25,14,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,2004,Montana,33543,MT04700,38,2,36,48,22,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,2005,Montana,33407,MT04700,36,3,33,50,22,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,2006,Montana,33298,MT04700,42,3,39,53,24,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver Bow,2007,Montana,32789,MT04700,44,4,40,49,22,27,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Silver Bow,2008,Montana,32493,MT04700,44,6,38,46,21,25,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0
+Silver Bow,2009,Montana,32604,MT04700,46,5,41,48,21,27,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,0,0,3,0,0,2,0,0,0,1,0
+Silver Bow,2010,Montana,34200,MT04700,49,6,43,49,21,28,0,0,2,0,0,2,0,7,0,2,4,1,9,0,2,6,1,0,0,2,0,0,3,1,3,0,0,0
+Silver Bow,2011,Montana,34504,MT04700,50,4,46,49,15,34,0,0,2,0,0,1,1,2,0,0,2,0,4,0,0,3,1,0,0,1,0,0,0,1,0,0,2,0
+Silver Bow,2012,Montana,34622,MT04700,49,5,44,47,18,29,0,0,2,0,0,2,0,7,0,1,6,0,9,0,1,8,0,0,0,3,0,0,1,1,3,0,1,0
+Silver Bow,2013,Montana,34633,MT04700,48,5,43,47,19,28,0,0,2,0,0,2,0,33,0,1,27,5,35,0,1,29,5,1,0,9,0,0,3,0,17,0,2,3
+Silver Bow,2014,Montana,34666,MT04700,49,5,44,47,18,29,0,0,11,0,0,10,1,46,0,0,40,6,57,0,0,50,7,2,0,17,1,0,11,1,17,0,4,4
+Silver Bow,2015,Montana,34817,MT04700,47,5,42,53,20,33,0,0,2,0,0,2,0,43,0,0,39,4,45,0,0,41,4,2,0,19,1,0,6,0,7,0,1,9

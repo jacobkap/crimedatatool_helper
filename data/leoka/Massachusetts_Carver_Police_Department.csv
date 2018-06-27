@@ -1,0 +1,14 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Carver Police Department,1977,Massachusetts,5000,MA01204,12,0,12,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carver Police Department,1978,Massachusetts,5504,MA01204,12,0,12,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carver Police Department,1989,Massachusetts,11435,MA01204,15,1,14,4,2,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
+Carver Police Department,1990,Massachusetts,10590,MA01204,14,1,13,5,3,2,0,0,8,0,0,7,1,4,0,0,3,1,12,0,0,10,2,1,0,4,0,0,2,0,2,0,2,1
+Carver Police Department,1995,Massachusetts,11261,MA01204,13,1,12,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carver Police Department,1997,Massachusetts,11342,MA01204,15,2,13,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carver Police Department,1998,Massachusetts,11474,MA01204,16,2,14,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carver Police Department,1999,Massachusetts,11700,MA01204,16,2,14,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carver Police Department,2001,Massachusetts,11216,MA01204,18,3,15,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carver Police Department,2003,Massachusetts,11477,MA01204,15,4,11,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carver Police Department,2013,Massachusetts,11552,MA01204,15,2,13,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carver Police Department,2014,Massachusetts,11521,MA01204,15,2,13,5,2,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Carver Police Department,2015,Massachusetts,11603,MA01204,16,1,15,5,2,3,0,0,2,0,0,1,1,1,0,0,1,0,3,0,0,2,1,0,0,1,0,0,0,1,0,0,0,1

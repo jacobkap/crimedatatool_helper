@@ -1,0 +1,26 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Missoula Police Department,1975,Montana,32801,MT03201,49,0,49,14,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,1976,Montana,33717,MT03201,49,0,49,13,10,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,1977,Montana,33900,MT03201,49,0,49,13,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,1978,Montana,35000,MT03201,49,1,48,19,13,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,1979,Montana,29996,MT03201,53,2,51,20,13,7,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Missoula Police Department,1980,Montana,30735,MT03201,52,2,50,16,10,6,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
+Missoula Police Department,1983,Montana,32127,MT03201,53,1,52,15,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,1984,Montana,33891,MT03201,53,1,52,15,12,3,0,1,4,1,0,3,0,1,0,0,1,0,5,1,0,4,0,1,0,1,0,0,1,0,2,0,0,0
+Missoula Police Department,1985,Montana,33973,MT03201,56,1,55,14,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,1989,Montana,35693,MT03201,57,1,56,13,12,1,0,0,4,0,0,3,1,2,0,0,2,0,6,0,0,5,1,0,1,0,0,0,2,0,1,0,0,2
+Missoula Police Department,1992,Montana,44256,MT03201,66,3,63,15,11,4,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,1994,Montana,46362,MT03201,70,3,67,16,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,1995,Montana,46106,MT03201,70,3,67,16,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,1999,Montana,52377,MT03201,77,6,71,18,15,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,2005,Montana,62377,MT03201,96,9,87,19,16,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Missoula Police Department,2006,Montana,63526,MT03201,103,12,91,19,15,4,0,0,5,0,0,5,0,41,0,1,38,2,46,0,1,43,2,1,0,35,0,0,1,0,6,0,1,2
+Missoula Police Department,2007,Montana,65037,MT03201,101,13,88,20,16,4,0,0,18,0,1,17,0,41,0,0,36,5,59,0,1,53,5,2,0,32,0,2,1,0,12,0,6,4
+Missoula Police Department,2008,Montana,68445,MT03201,100,15,85,20,16,4,0,0,16,0,0,14,2,32,0,0,30,2,48,0,0,44,4,1,0,15,0,0,4,0,21,0,6,1
+Missoula Police Department,2009,Montana,69479,MT03201,101,14,87,21,15,6,0,0,4,0,0,4,0,16,1,0,14,1,20,1,0,18,1,2,0,6,0,0,1,0,8,0,2,1
+Missoula Police Department,2010,Montana,66788,MT03201,100,12,88,21,15,6,0,0,4,0,0,4,0,3,0,1,2,0,7,0,1,6,0,1,0,1,0,0,0,1,3,0,1,0
+Missoula Police Department,2011,Montana,67381,MT03201,100,12,88,20,14,6,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,0,0,3,0,0,1,0,1,0,0,0
+Missoula Police Department,2012,Montana,67758,MT03201,99,12,87,21,15,6,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0
+Missoula Police Department,2013,Montana,68877,MT03201,102,14,88,23,17,6,0,0,7,0,0,5,2,3,0,0,2,1,10,0,0,7,3,0,0,3,0,0,2,0,3,0,2,0
+Missoula Police Department,2014,Montana,69674,MT03201,104,15,89,22,14,8,0,0,7,0,0,7,0,16,0,0,15,1,23,0,0,22,1,0,0,7,0,2,8,0,2,0,4,0
+Missoula Police Department,2015,Montana,70553,MT03201,103,14,89,22,16,6,0,0,16,0,0,14,2,16,0,2,13,1,32,0,2,27,3,4,0,10,0,1,3,0,10,0,3,1

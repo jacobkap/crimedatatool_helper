@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Washington Terrace Pd,1975,Utah,7787,UT02904,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1976,Utah,9000,UT02904,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1978,Utah,8609,UT02904,10,0,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1979,Utah,8739,UT02904,10,0,10,3,2,1,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,1,0,1,0,0,1
+Washington Terrace Pd,1980,Utah,8217,UT02904,10,0,10,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1981,Utah,8540,UT02904,10,0,10,3,2,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
+Washington Terrace Pd,1982,Utah,8754,UT02904,10,0,10,3,3,0,0,1,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
+Washington Terrace Pd,1983,Utah,9120,UT02904,10,0,10,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1984,Utah,8791,UT02904,10,0,10,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1985,Utah,8757,UT02904,10,0,10,3,3,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0
+Washington Terrace Pd,1987,Utah,8061,UT02904,9,0,9,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1988,Utah,8117,UT02904,9,0,9,2,0,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,2,0,0,0,0,0,0,0
+Washington Terrace Pd,1989,Utah,7708,UT02904,10,1,9,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1990,Utah,8189,UT02904,10,1,9,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1991,Utah,8413,UT02904,10,1,9,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1992,Utah,8617,UT02904,10,1,9,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1993,Utah,8522,UT02904,10,1,9,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1994,Utah,8741,UT02904,11,1,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1995,Utah,8939,UT02904,10,1,9,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1996,Utah,9163,UT02904,12,1,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,1998,Utah,9016,UT02904,13,1,12,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,2000,Utah,8551,UT02904,14,0,14,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,2001,Utah,8691,UT02904,13,0,13,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washington Terrace Pd,2002,Utah,8869,UT02904,13,1,12,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,19 @@
+agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Lebanon Police,1975,Indiana,9793,IN00601,18,0,18,4,0,4,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+Lebanon Police,1976,Indiana,9757,IN00601,17,0,17,4,0,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Lebanon Police,1977,Indiana,9941,IN00601,17,1,16,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lebanon Police,1978,Indiana,9920,IN00601,17,0,17,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lebanon Police,1979,Indiana,10159,IN00601,17,0,17,4,2,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Lebanon Police,1980,Indiana,11411,IN00601,16,0,16,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lebanon Police,1981,Indiana,11421,IN00601,16,0,16,5,2,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Lebanon Police,1982,Indiana,11432,IN00601,16,0,16,4,2,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0
+Lebanon Police,1983,Indiana,11448,IN00601,17,0,17,4,2,2,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,1,0,0,2,0,1,0,0,0
+Lebanon Police,1984,Indiana,12179,IN00601,17,0,17,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Lebanon Police,1985,Indiana,12180,IN00601,17,0,17,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lebanon Police,1986,Indiana,12059,IN00601,17,0,17,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lebanon Police,1987,Indiana,11869,IN00601,17,0,17,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Lebanon Police,1988,Indiana,11965,IN00601,17,0,17,4,0,4,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Lebanon Police,1989,Indiana,11585,IN00601,20,0,20,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lebanon Police,1990,Indiana,12059,IN00601,20,0,20,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lebanon Police,1991,Indiana,12202,IN00601,20,0,20,4,2,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Lebanon Police,1992,Indiana,12315,IN00601,20,0,20,4,2,2,0,0,1,0,0,1,0,0,0,0,9,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
