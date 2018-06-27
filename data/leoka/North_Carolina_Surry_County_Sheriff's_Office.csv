@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Surry County Sheriff's Office,1976,North Carolina,41090,NC08600,22,3,19,5,2,3,0,0,0,0,0,0,0,3,2,0,1,0,3,2,0,1,0,0,0,0,0,0,0,0,2,0,0,1
 Surry County Sheriff's Office,1977,North Carolina,41932,NC08600,32,2,30,17,6,11,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0
 Surry County Sheriff's Office,1978,North Carolina,42434,NC08600,29,2,27,21,7,14,0,0,4,0,0,3,1,1,0,0,1,0,5,0,0,4,1,0,0,0,0,0,0,0,4,0,0,1
+Surry County Sheriff's Office,1979,North Carolina,42976,NC08600,32,2,30,16,9,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Surry County Sheriff's Office,1980,North Carolina,47366,NC08600,29,1,28,19,12,7,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Surry County Sheriff's Office,1981,North Carolina,48236,NC08600,30,2,28,20,10,10,0,0,0,0,0,0,0,5,3,0,2,0,5,3,0,2,0,0,0,1,0,0,0,0,1,0,2,1
 Surry County Sheriff's Office,1982,North Carolina,48786,NC08600,30,2,28,20,10,10,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
@@ -25,10 +25,12 @@ Surry County Sheriff's Office,1999,North Carolina,54462,NC08600,49,5,44,27,14,13
 Surry County Sheriff's Office,2000,North Carolina,55961,NC08600,49,5,44,27,14,13,0,0,0,0,0,0,0,7,0,0,5,2,7,0,0,5,2,1,0,1,0,0,2,0,3,0,0,0
 Surry County Sheriff's Office,2001,North Carolina,56913,NC08600,52,5,47,38,20,18,0,0,0,0,0,0,0,11,0,0,11,0,11,0,0,11,0,0,0,1,1,0,4,0,5,0,0,0
 Surry County Sheriff's Office,2002,North Carolina,57844,NC08600,51,3,48,38,20,18,0,0,0,0,0,0,0,7,0,0,5,2,7,0,0,5,2,0,0,0,0,1,2,0,4,0,0,0
+Surry County Sheriff's Office,2003,North Carolina,57624,NC08600,48,3,45,36,19,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Surry County Sheriff's Office,2004,North Carolina,58058,NC08600,50,4,46,39,21,18,0,0,0,0,0,0,0,6,4,0,2,0,6,4,0,2,0,1,0,0,0,0,0,0,5,0,0,0
 Surry County Sheriff's Office,2005,North Carolina,58070,NC08600,51,4,47,41,20,21,0,0,0,0,0,0,0,12,0,0,12,0,12,0,0,12,0,0,0,3,0,2,0,0,5,0,2,0
 Surry County Sheriff's Office,2006,North Carolina,58260,NC08600,69,7,62,23,16,7,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,0,0,0,0,2,0,0,3,0,0,0
 Surry County Sheriff's Office,2007,North Carolina,58177,NC08600,68,5,63,27,19,8,0,0,1,0,0,0,1,9,1,0,8,0,10,1,0,8,1,3,0,0,0,0,0,0,7,0,0,0
+Surry County Sheriff's Office,2008,North Carolina,57249,NC08600,68,6,62,35,15,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Surry County Sheriff's Office,2009,North Carolina,56466,NC08600,67,9,58,36,21,15,0,0,0,0,0,0,0,7,0,0,6,1,7,0,0,6,1,0,0,0,0,1,0,0,6,0,0,0
 Surry County Sheriff's Office,2010,North Carolina,56301,NC08600,58,5,53,39,20,19,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,0,0,0,0,0,6,0,0,0
 Surry County Sheriff's Office,2011,North Carolina,57014,NC08600,56,6,50,40,20,20,0,0,0,0,0,0,0,11,0,0,10,1,11,0,0,10,1,0,0,2,0,1,0,1,6,0,0,1

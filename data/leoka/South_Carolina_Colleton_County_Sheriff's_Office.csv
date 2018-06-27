@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Colleton County Sheriff's Office,1975,South Carolina,22114,SC01500,11,0,11,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Colleton County Sheriff's Office,1976,South Carolina,22122,SC01500,12,1,11,7,3,4,0,0,3,0,0,1,2,3,1,0,2,0,6,1,0,3,2,2,0,2,0,0,0,0,2,0,0,0
 Colleton County Sheriff's Office,1977,South Carolina,22842,SC01500,11,0,11,9,6,3,0,1,3,2,0,1,0,0,0,0,0,0,3,2,0,1,0,0,0,1,0,0,0,0,2,0,0,0
 Colleton County Sheriff's Office,1978,South Carolina,23142,SC01500,15,0,15,12,7,5,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0
@@ -11,18 +12,20 @@ Colleton County Sheriff's Office,1984,South Carolina,26438,SC01500,17,0,17,12,8,
 Colleton County Sheriff's Office,1985,South Carolina,27327,SC01500,17,0,17,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Colleton County Sheriff's Office,1986,South Carolina,27286,SC01500,18,0,18,14,9,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Colleton County Sheriff's Office,1987,South Carolina,27701,SC01500,19,0,19,15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colleton County Sheriff's Office,1988,South Carolina,27955,SC01500,16,0,16,15,10,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Colleton County Sheriff's Office,1989,South Carolina,28053,SC01500,20,1,19,7,7,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Colleton County Sheriff's Office,1990,South Carolina,28545,SC01500,20,1,19,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Colleton County Sheriff's Office,1991,South Carolina,29145,SC01500,31,2,29,16,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colleton County Sheriff's Office,1992,South Carolina,29497,SC01500,31,2,29,16,14,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Colleton County Sheriff's Office,1993,South Carolina,29917,SC01500,31,1,30,28,21,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Colleton County Sheriff's Office,1994,South Carolina,30089,SC01500,36,4,32,38,28,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Colleton County Sheriff's Office,1995,South Carolina,30210,SC01500,40,4,36,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colleton County Sheriff's Office,1996,South Carolina,30423,SC01500,46,3,43,59,35,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Colleton County Sheriff's Office,1997,South Carolina,30264,SC01500,52,4,48,7,7,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,1,0,0,0,0,1
 Colleton County Sheriff's Office,1998,South Carolina,31172,SC01500,54,9,45,48,37,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Colleton County Sheriff's Office,1999,South Carolina,31465,SC01500,51,7,44,53,42,11,0,0,6,0,0,6,0,3,0,0,1,2,9,0,0,7,2,1,0,8,0,0,0,0,0,0,0,0
 Colleton County Sheriff's Office,2000,South Carolina,31763,SC01500,47,9,38,56,45,11,0,0,5,0,0,3,2,2,0,0,0,2,7,0,0,3,4,1,0,1,0,0,2,0,0,0,0,3
 Colleton County Sheriff's Office,2001,South Carolina,32166,SC01500,48,9,39,63,40,23,0,0,10,0,0,5,5,2,0,0,1,1,12,0,0,6,6,0,0,1,2,0,4,0,3,0,0,2
-Colleton County Sheriff's Office,2002,South Carolina,32517,SC01500,54,9,45,48,37,11,0,0,1,0,0,0,1,4,2,0,0,2,5,2,0,0,3,1,0,0,0,0,0,0,0,2,0,2
-Colleton County Sheriff's Office,2003,South Carolina,32627,SC01500,54,9,45,48,37,11,0,0,7,2,0,4,1,1,0,0,0,1,8,2,0,4,2,2,0,1,0,0,1,0,2,0,0,2
 Colleton County Sheriff's Office,2004,South Carolina,32847,SC01500,67,7,60,66,47,19,0,0,7,0,0,4,3,3,2,0,1,0,10,2,0,5,3,1,2,0,0,0,3,0,3,0,1,0
 Colleton County Sheriff's Office,2005,South Carolina,33116,SC01500,63,11,52,60,37,23,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,1,1,0,0,1,0,0,0,1,0
 Colleton County Sheriff's Office,2006,South Carolina,33152,SC01500,61,11,50,66,45,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

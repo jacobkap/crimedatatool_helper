@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Columbia Police Department,1975,South Carolina,117529,SC04001,210,2,208,71,28,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Columbia Police Department,1976,South Carolina,123000,SC04001,210,7,203,66,27,39,0,0,9,0,0,7,2,14,0,0,13,1,23,0,0,20,3,2,0,9,2,0,2,0,3,0,2,3
 Columbia Police Department,1977,South Carolina,120881,SC04001,207,11,196,71,27,44,0,0,12,0,0,11,1,44,2,3,34,5,56,2,3,45,6,3,1,20,0,1,1,0,21,0,8,1
 Columbia Police Department,1978,South Carolina,114313,SC04001,214,9,205,63,33,30,0,0,22,0,0,20,2,30,5,2,20,3,52,5,2,40,5,2,0,29,3,0,0,0,6,0,6,6
@@ -15,8 +16,11 @@ Columbia Police Department,1988,South Carolina,97609,SC04001,208,29,179,46,25,21
 Columbia Police Department,1989,South Carolina,95982,SC04001,213,27,186,50,31,19,0,0,15,0,1,8,6,95,2,2,86,5,110,2,3,94,11,1,0,54,3,1,12,0,23,2,2,12
 Columbia Police Department,1990,South Carolina,98052,SC04001,226,28,198,52,32,20,0,0,7,1,1,3,2,46,9,0,35,2,53,10,1,38,4,4,0,29,1,0,7,0,10,0,2,0
 Columbia Police Department,1991,South Carolina,99990,SC04001,246,25,221,53,34,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Columbia Police Department,1992,South Carolina,99990,SC04001,263,34,229,51,32,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Columbia Police Department,1993,South Carolina,99929,SC04001,257,35,222,60,35,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Columbia Police Department,1994,South Carolina,100504,SC04001,264,41,223,43,32,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Columbia Police Department,1995,South Carolina,104457,SC04001,284,45,239,36,30,6,0,0,2,0,2,0,0,8,0,0,8,0,10,0,2,8,0,0,0,2,0,0,0,0,6,0,2,0
+Columbia Police Department,1996,South Carolina,105316,SC04001,288,47,241,38,30,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Columbia Police Department,1997,South Carolina,107181,SC04001,284,50,234,37,30,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Columbia Police Department,1998,South Carolina,115344,SC04001,291,47,244,39,34,5,0,0,9,2,0,5,2,18,1,2,14,1,27,3,2,19,3,0,0,2,0,2,3,0,6,0,8,6
 Columbia Police Department,1999,South Carolina,112539,SC04001,289,45,244,40,34,6,0,0,25,0,0,24,1,35,0,1,34,0,60,0,1,58,1,1,1,4,0,0,14,0,23,1,8,8

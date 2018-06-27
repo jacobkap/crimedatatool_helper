@@ -1,15 +1,25 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Jellico Police Department,1978,Tennessee,2655,TN00701,7,0,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
 Jellico Police Department,1979,Tennessee,2669,TN00701,7,0,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Jellico Police Department,1980,Tennessee,2795,TN00701,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jellico Police Department,1981,Tennessee,2835,TN00701,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Jellico Police Department,1982,Tennessee,2860,TN00701,6,0,6,1,1,0,0,0,2,0,0,1,1,10,0,0,9,1,12,0,0,10,2,0,1,2,0,0,0,0,2,0,0,7
 Jellico Police Department,1983,Tennessee,2880,TN00701,7,0,7,1,1,0,0,0,1,0,0,1,0,5,0,0,4,1,6,0,0,5,1,0,0,1,0,0,3,0,1,0,0,1
 Jellico Police Department,1984,Tennessee,2831,TN00701,6,0,6,1,1,0,0,0,3,0,0,3,0,7,0,0,7,0,10,0,0,10,0,0,0,1,0,0,6,0,3,0,0,0
+Jellico Police Department,1985,Tennessee,2858,TN00701,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jellico Police Department,1986,Tennessee,2740,TN00701,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Jellico Police Department,1987,Tennessee,2719,TN00701,6,0,6,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Jellico Police Department,1988,Tennessee,2718,TN00701,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jellico Police Department,1989,Tennessee,2543,TN00701,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jellico Police Department,1990,Tennessee,2447,TN00701,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jellico Police Department,1991,Tennessee,2485,TN00701,6,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Jellico Police Department,1992,Tennessee,2520,TN00701,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jellico Police Department,1993,Tennessee,2420,TN00701,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jellico Police Department,1994,Tennessee,2456,TN00701,7,1,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jellico Police Department,1995,Tennessee,2383,TN00701,7,1,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jellico Police Department,1996,Tennessee,2412,TN00701,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jellico Police Department,1997,Tennessee,2433,TN00701,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jellico Police Department,1998,Tennessee,2657,TN00701,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Jellico Police Department,1999,Tennessee,2674,TN00701,10,0,10,1,1,0,0,0,1,0,0,0,1,2,0,0,0,2,3,0,0,0,3,1,0,2,0,0,0,0,0,0,0,0
 Jellico Police Department,2000,Tennessee,2448,TN00701,10,0,10,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
 Jellico Police Department,2001,Tennessee,2470,TN00701,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

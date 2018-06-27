@@ -1,10 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Allegan County Sheriff's Office,1975,Michigan,48733,MI03103,38,5,33,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allegan County Sheriff's Office,1976,Michigan,49526,MI03103,40,7,33,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Allegan County Sheriff's Office,1977,Michigan,49708,MI03103,63,17,46,2,1,1,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,1,0,0,1,0,0,1
 Allegan County Sheriff's Office,1978,Michigan,52030,MI03103,49,9,40,10,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Allegan County Sheriff's Office,1979,Michigan,51092,MI03103,40,3,37,24,15,9,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
 Allegan County Sheriff's Office,1980,Michigan,60618,MI03103,56,8,48,17,12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Allegan County Sheriff's Office,1981,Michigan,60439,MI03103,40,1,39,30,14,16,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Allegan County Sheriff's Office,1982,Michigan,59837,MI03103,40,1,39,33,17,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Allegan County Sheriff's Office,1983,Michigan,59574,MI03103,40,1,39,33,19,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Allegan County Sheriff's Office,1984,Michigan,59283,MI03103,40,1,39,36,19,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Allegan County Sheriff's Office,1985,Michigan,61146,MI03103,40,1,39,38,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -16,7 +18,9 @@ Allegan County Sheriff's Office,1990,Michigan,65025,MI03103,45,1,44,18,17,1,0,0,
 Allegan County Sheriff's Office,1991,Michigan,65533,MI03103,40,1,39,16,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Allegan County Sheriff's Office,1992,Michigan,66015,MI03103,44,1,43,49,20,29,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Allegan County Sheriff's Office,1993,Michigan,67488,MI03103,48,1,47,39,11,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allegan County Sheriff's Office,1994,Michigan,67616,MI03103,50,2,48,40,13,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Allegan County Sheriff's Office,1995,Michigan,69811,MI03103,52,1,51,37,15,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allegan County Sheriff's Office,1996,Michigan,70139,MI03103,56,1,55,40,18,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Allegan County Sheriff's Office,1997,Michigan,71454,MI03103,56,1,55,49,18,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Allegan County Sheriff's Office,1998,Michigan,73221,MI03103,59,3,56,48,18,30,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Allegan County Sheriff's Office,1999,Michigan,74056,MI03103,70,3,67,45,17,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

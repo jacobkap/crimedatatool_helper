@@ -1,5 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Joliet Police Dept,1975,Illinois,79100,IL09907,156,7,149,49,24,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Joliet Police Dept,1976,Illinois,74140,IL09907,148,5,143,39,18,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joliet Police Dept,1977,Illinois,78271,IL09907,151,6,145,40,19,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Joliet Police Dept,1978,Illinois,73825,IL09907,157,6,151,43,27,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Joliet Police Dept,1979,Illinois,72053,IL09907,158,5,153,49,32,17,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Joliet Police Dept,1980,Illinois,78165,IL09907,166,9,157,41,27,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,3 +19,24 @@ Joliet Police Dept,1991,Illinois,77591,IL09907,189,10,179,42,38,4,0,0,0,0,0,0,0,
 Joliet Police Dept,1992,Illinois,78182,IL09907,193,9,184,47,39,8,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Joliet Police Dept,1993,Illinois,79487,IL09907,198,9,189,44,39,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Joliet Police Dept,1994,Illinois,79860,IL09907,209,12,197,50,42,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joliet Police Dept,1995,Illinois,80019,IL09907,221,9,212,51,47,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,1996,Illinois,80134,IL09907,224,9,215,56,53,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,1997,Illinois,80465,IL09907,235,12,223,62,58,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,1998,Illinois,90866,IL09907,224,12,212,67,61,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,1999,Illinois,92921,IL09907,238,11,227,64,57,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2000,Illinois,106221,IL09907,239,10,229,74,65,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2001,Illinois,106760,IL09907,262,11,251,82,69,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2002,Illinois,107772,IL09907,262,11,251,85,72,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2003,Illinois,118920,IL09907,269,11,258,78,70,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2004,Illinois,124157,IL09907,270,14,256,81,68,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2005,Illinois,130026,IL09907,281,20,261,82,72,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2006,Illinois,136940,IL09907,292,20,272,80,72,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2007,Illinois,148484,IL09907,302,21,281,87,78,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2008,Illinois,149617,IL09907,302,21,281,89,81,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2009,Illinois,151103,IL09907,269,18,251,83,73,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2010,Illinois,147433,IL09907,263,18,245,78,69,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2011,Illinois,147877,IL09907,251,18,233,74,65,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2012,Illinois,148471,IL09907,247,18,229,67,61,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2013,Illinois,148462,IL09907,256,20,236,67,62,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2014,Illinois,147838,IL09907,257,21,236,63,58,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Joliet Police Dept,2015,Illinois,147991,IL09907,272,23,249,67,61,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,

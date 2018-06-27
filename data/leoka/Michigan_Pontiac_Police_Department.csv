@@ -1,9 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Pontiac Police Department,1975,Michigan,86908,MI63673,202,3,199,63,44,19,0,0,21,1,1,16,3,31,7,1,22,1,52,8,2,38,4,5,0,15,0,0,4,2,17,0,3,6
+Pontiac Police Department,1976,Michigan,87846,MI63673,204,4,200,65,41,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pontiac Police Department,1977,Michigan,88697,MI63673,209,2,207,71,39,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pontiac Police Department,1978,Michigan,80430,MI63673,202,4,198,75,41,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pontiac Police Department,1979,Michigan,79387,MI63673,210,6,204,68,41,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pontiac Police Department,1980,Michigan,76270,MI63673,204,7,197,38,25,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pontiac Police Department,1981,Michigan,76046,MI63673,187,7,180,33,23,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pontiac Police Department,1982,Michigan,75285,MI63673,179,9,170,28,20,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pontiac Police Department,1983,Michigan,74954,MI63673,179,10,169,32,26,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pontiac Police Department,1984,Michigan,72830,MI63673,180,13,167,42,36,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pontiac Police Department,1985,Michigan,72938,MI63673,184,12,172,48,39,9,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0
@@ -11,13 +14,20 @@ Pontiac Police Department,1986,Michigan,71493,MI63673,178,12,166,48,38,10,0,0,10
 Pontiac Police Department,1987,Michigan,71377,MI63673,166,11,155,46,39,7,0,0,7,0,1,6,0,0,0,0,0,0,7,0,1,6,0,2,0,3,0,0,2,0,0,0,0,0
 Pontiac Police Department,1988,Michigan,73107,MI63673,167,13,154,46,38,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pontiac Police Department,1989,Michigan,71335,MI63673,165,13,152,47,39,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pontiac Police Department,1990,Michigan,71166,MI63673,162,12,150,44,37,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pontiac Police Department,1991,Michigan,71722,MI63673,161,13,148,51,40,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pontiac Police Department,1992,Michigan,72250,MI63673,155,13,142,45,38,7,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pontiac Police Department,1993,Michigan,69673,MI63673,138,12,126,44,39,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pontiac Police Department,1994,Michigan,69805,MI63673,147,15,132,39,35,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pontiac Police Department,1995,Michigan,67080,MI63673,145,15,130,39,35,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pontiac Police Department,1996,Michigan,67395,MI63673,166,19,147,37,35,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pontiac Police Department,1997,Michigan,68659,MI63673,161,19,142,36,34,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pontiac Police Department,1998,Michigan,71221,MI63673,176,23,153,35,33,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pontiac Police Department,1999,Michigan,69243,MI63673,169,23,146,38,35,3,0,0,1,0,0,1,0,8,0,0,7,1,9,0,0,8,1,2,0,0,0,0,0,0,6,0,0,1
 Pontiac Police Department,2000,Michigan,66337,MI63673,170,23,147,38,35,3,0,0,17,0,0,17,0,28,1,3,23,1,45,1,3,40,1,3,0,7,0,2,3,0,24,0,4,2
 Pontiac Police Department,2001,Michigan,66687,MI63673,163,24,139,49,39,10,0,0,20,0,0,18,2,34,3,0,28,3,54,3,0,46,5,4,0,14,0,1,2,0,32,0,1,0
 Pontiac Police Department,2002,Michigan,67085,MI63673,169,33,136,48,38,10,0,0,14,0,0,14,0,45,0,0,43,2,59,0,0,57,2,1,0,22,0,0,0,0,35,0,1,0
+Pontiac Police Department,2003,Michigan,66331,MI63673,170,33,137,49,37,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pontiac Police Department,2004,Michigan,67369,MI63673,167,34,133,44,35,9,0,0,30,0,0,25,5,15,2,0,12,1,45,2,0,37,6,7,0,2,0,2,7,2,12,0,7,6
 Pontiac Police Department,2005,Michigan,67637,MI63673,138,26,112,28,26,2,0,0,6,0,0,6,0,17,1,0,16,0,23,1,0,22,0,3,0,0,1,1,0,0,16,1,1,0
 Pontiac Police Department,2006,Michigan,67163,MI63673,113,16,97,23,20,3,0,0,5,0,0,5,0,13,0,0,13,0,18,0,0,18,0,1,0,4,0,1,2,0,6,3,0,1
@@ -25,4 +35,3 @@ Pontiac Police Department,2007,Michigan,67059,MI63673,133,16,117,22,19,3,0,0,1,0
 Pontiac Police Department,2008,Michigan,66366,MI63673,72,7,65,23,19,4,0,0,9,0,0,8,1,7,1,0,5,1,16,1,0,13,2,2,0,3,0,1,2,0,6,0,1,1
 Pontiac Police Department,2009,Michigan,65924,MI63673,76,7,69,29,26,3,0,0,5,0,0,4,1,12,3,0,7,2,17,3,0,11,3,8,0,0,1,1,4,0,1,0,2,0
 Pontiac Police Department,2010,Michigan,59515,MI63673,76,9,67,21,19,2,0,0,2,0,0,2,0,15,3,0,9,3,17,3,0,11,3,4,0,3,0,0,1,0,7,0,0,2
-Pontiac Police Department,2011,Michigan,59470,MI63673,176,23,153,35,33,2,0,0,2,0,0,2,0,3,0,1,2,0,5,0,1,4,0,1,0,0,0,0,0,0,3,0,1,0

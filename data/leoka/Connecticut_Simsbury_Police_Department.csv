@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Simsbury Police Department,1975,Connecticut,20600,CT00128,29,1,28,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simsbury Police Department,1976,Connecticut,20000,CT00128,30,1,29,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Simsbury Police Department,1977,Connecticut,20500,CT00128,29,1,28,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Simsbury Police Department,1978,Connecticut,22000,CT00128,29,1,28,2,0,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1
 Simsbury Police Department,1979,Connecticut,21172,CT00128,32,0,32,4,1,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -14,12 +15,14 @@ Simsbury Police Department,1987,Connecticut,22345,CT00128,32,2,30,8,4,4,0,0,0,0,
 Simsbury Police Department,1988,Connecticut,22704,CT00128,33,1,32,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Simsbury Police Department,1989,Connecticut,22632,CT00128,33,1,32,8,4,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Simsbury Police Department,1990,Connecticut,22023,CT00128,34,1,33,8,4,4,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,1,0,1,0,0,0,0,0,0,0,1
+Simsbury Police Department,1991,Connecticut,22048,CT00128,33,1,32,7,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Simsbury Police Department,1992,Connecticut,21980,CT00128,32,1,31,6,3,3,0,0,2,0,0,2,0,2,0,0,11,0,4,0,0,4,0,0,0,2,0,1,0,0,1,0,0,0
 Simsbury Police Department,1993,Connecticut,21884,CT00128,32,1,31,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Simsbury Police Department,1994,Connecticut,21870,CT00128,34,1,33,6,3,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Simsbury Police Department,1995,Connecticut,22046,CT00128,33,1,32,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Simsbury Police Department,1996,Connecticut,22039,CT00128,33,2,31,6,3,3,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1
 Simsbury Police Department,1997,Connecticut,22012,CT00128,33,1,32,6,3,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Simsbury Police Department,1998,Connecticut,21716,CT00128,35,1,34,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Simsbury Police Department,1999,Connecticut,21820,CT00128,33,1,32,8,5,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Simsbury Police Department,2000,Connecticut,23234,CT00128,33,1,32,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Simsbury Police Department,2001,Connecticut,23367,CT00128,34,1,33,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

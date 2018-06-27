@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Algonac Police Department,1975,Michigan,4014,MI74209,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Algonac Police Department,1976,Michigan,3955,MI74209,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Algonac Police Department,1977,Michigan,3983,MI74209,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Algonac Police Department,1978,Michigan,4375,MI74209,8,0,8,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Algonac Police Department,1979,Michigan,4392,MI74209,8,0,8,1,1,0,0,0,4,0,0,4,0,4,0,0,4,0,8,0,0,8,0,0,0,0,0,0,0,0,4,0,0,4
@@ -12,7 +13,12 @@ Algonac Police Department,1985,Michigan,4332,MI74209,6,0,6,1,1,0,0,0,2,0,0,2,0,2
 Algonac Police Department,1986,Michigan,4418,MI74209,6,0,6,1,1,0,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,2,0,0,0,0,0,0,1,0,0,1
 Algonac Police Department,1987,Michigan,4683,MI74209,6,0,6,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
 Algonac Police Department,1988,Michigan,4775,MI74209,6,0,6,1,1,0,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,0,0,0,0,0,2,0,0,3
+Algonac Police Department,1989,Michigan,4877,MI74209,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Algonac Police Department,1990,Michigan,4551,MI74209,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Algonac Police Department,1991,Michigan,4586,MI74209,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Algonac Police Department,1992,Michigan,4619,MI74209,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Algonac Police Department,1995,Michigan,4739,MI74209,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Algonac Police Department,1996,Michigan,4761,MI74209,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Algonac Police Department,1997,Michigan,4850,MI74209,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Algonac Police Department,1998,Michigan,4827,MI74209,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Algonac Police Department,1999,Michigan,4709,MI74209,8,2,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,4 +34,3 @@ Algonac Police Department,2008,Michigan,4571,MI74209,8,1,7,1,1,0,0,0,0,0,0,0,0,0
 Algonac Police Department,2009,Michigan,4532,MI74209,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Algonac Police Department,2010,Michigan,4110,MI74209,7,1,6,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Algonac Police Department,2011,Michigan,4107,MI74209,7,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Algonac Police Department,2012,Michigan,4078,MI74209,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

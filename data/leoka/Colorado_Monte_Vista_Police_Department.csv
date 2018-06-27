@@ -1,5 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Monte Vista Police Department,1975,Colorado,4023,CO05301,16,0,16,5,1,4,0,0,0,0,0,0,0,4,3,0,0,1,4,3,0,0,1,0,0,1,0,0,0,0,3,0,0,0
+Monte Vista Police Department,1976,Colorado,4008,CO05301,17,1,16,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monte Vista Police Department,1977,Colorado,4487,CO05301,17,1,16,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monte Vista Police Department,1978,Colorado,4700,CO05301,17,1,16,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monte Vista Police Department,1979,Colorado,5161,CO05301,18,1,17,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monte Vista Police Department,1980,Colorado,3888,CO05301,17,1,16,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monte Vista Police Department,1981,Colorado,4002,CO05301,17,1,16,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Monte Vista Police Department,1982,Colorado,4113,CO05301,16,1,15,4,4,0,0,0,3,0,1,2,0,2,0,0,2,0,5,0,1,4,0,0,0,0,0,0,0,0,3,0,2,0
 Monte Vista Police Department,1983,Colorado,4239,CO05301,15,1,14,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Monte Vista Police Department,1984,Colorado,4256,CO05301,15,2,13,4,3,1,0,0,4,0,0,3,1,1,0,0,1,0,5,0,0,4,1,0,0,2,0,0,1,0,2,0,0,0
@@ -9,8 +15,10 @@ Monte Vista Police Department,1987,Colorado,4177,CO05301,13,0,13,5,4,1,0,0,0,0,0
 Monte Vista Police Department,1988,Colorado,4167,CO05301,14,0,14,5,4,1,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,1,0,2,0,0,1
 Monte Vista Police Department,1989,Colorado,4150,CO05301,14,0,14,5,4,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Monte Vista Police Department,1990,Colorado,4324,CO05301,14,0,14,5,4,1,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,2,0,0,0,0,0,0,3,0,0,0
+Monte Vista Police Department,1991,Colorado,4432,CO05301,14,1,13,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Monte Vista Police Department,1992,Colorado,4554,CO05301,13,0,13,5,4,1,0,0,0,0,0,0,0,6,2,4,9,0,6,2,4,0,0,0,0,0,0,0,2,0,4,0,0,0
 Monte Vista Police Department,1993,Colorado,4411,CO05301,14,0,14,5,4,1,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,1,0,0,0,0,2,0,1,0,0,0
+Monte Vista Police Department,1994,Colorado,4522,CO05301,13,0,13,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Monte Vista Police Department,1995,Colorado,4489,CO05301,14,0,14,6,4,2,0,0,1,0,0,1,0,2,0,0,1,1,3,0,0,2,1,0,0,0,0,0,1,0,2,0,0,0
 Monte Vista Police Department,1996,Colorado,4580,CO05301,14,0,14,5,3,2,0,0,3,0,0,1,2,1,0,1,0,0,4,0,1,1,2,1,0,0,0,0,1,0,2,0,0,0
 Monte Vista Police Department,1997,Colorado,4663,CO05301,13,0,13,6,4,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1

@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Johnson Police Department,1978,Arkansas,600,AR07209,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Johnson Police Department,1979,Arkansas,643,AR07209,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Johnson Police Department,1980,Arkansas,500,AR07209,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Johnson Police Department,1981,Arkansas,502,AR07209,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -9,5 +10,12 @@ Johnson Police Department,1985,Arkansas,543,AR07209,3,0,3,0,0,0,0,0,0,0,0,0,0,0,
 Johnson Police Department,1986,Arkansas,607,AR07209,3,0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Johnson Police Department,1987,Arkansas,695,AR07209,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Johnson Police Department,1988,Arkansas,711,AR07209,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Johnson Police Department,1989,Arkansas,723,AR07209,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Johnson Police Department,1990,Arkansas,599,AR07209,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Johnson Police Department,1991,Arkansas,604,AR07209,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Johnson Police Department,1992,Arkansas,610,AR07209,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Johnson Police Department,1993,Arkansas,652,AR07209,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Johnson Police Department,1998,Arkansas,1548,AR07209,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Johnson Police Department,2013,Arkansas,3498,AR07209,12,0,12,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Johnson Police Department,2014,Arkansas,3601,AR07209,13,0,13,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
 Johnson Police Department,2015,Arkansas,3654,AR07209,12,0,12,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

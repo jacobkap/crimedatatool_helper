@@ -1,6 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Green Forest Police Department,1977,Arkansas,1800,AR00803,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Green Forest Police Department,1978,Arkansas,1594,AR00803,2,0,2,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Green Forest Police Department,1980,Arkansas,1611,AR00803,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Green Forest Police Department,1979,Arkansas,1552,AR00803,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Green Forest Police Department,1981,Arkansas,1618,AR00803,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Green Forest Police Department,1982,Arkansas,1616,AR00803,4,0,4,1,0,1,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
 Green Forest Police Department,1983,Arkansas,1642,AR00803,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -20,8 +21,12 @@ Green Forest Police Department,1996,Arkansas,2400,AR00803,5,0,5,2,1,1,0,0,0,0,0,
 Green Forest Police Department,1997,Arkansas,2412,AR00803,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Green Forest Police Department,1998,Arkansas,2563,AR00803,6,1,5,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Green Forest Police Department,1999,Arkansas,2599,AR00803,6,0,6,2,1,1,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0
+Green Forest Police Department,2000,Arkansas,2717,AR00803,6,0,6,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Green Forest Police Department,2001,Arkansas,2736,AR00803,5,0,5,2,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Green Forest Police Department,2002,Arkansas,2755,AR00803,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Green Forest Police Department,2003,Arkansas,2826,AR00803,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Green Forest Police Department,2004,Arkansas,2850,AR00803,8,0,8,5,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Green Forest Police Department,2005,Arkansas,2850,AR00803,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Green Forest Police Department,2006,Arkansas,2892,AR00803,6,0,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Green Forest Police Department,2007,Arkansas,2876,AR00803,6,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Green Forest Police Department,2008,Arkansas,3027,AR00803,6,0,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

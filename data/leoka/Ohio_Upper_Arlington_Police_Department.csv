@@ -1,7 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Upper Arlington Police Department,1975,Ohio,39374,OH02509,43,0,43,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,1976,Ohio,41322,OH02509,43,0,43,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Upper Arlington Police Department,1977,Ohio,39469,OH02509,42,0,42,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Upper Arlington Police Department,1978,Ohio,39588,OH02509,46,1,45,4,4,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Upper Arlington Police Department,1979,Ohio,38135,OH02509,45,1,44,3,3,0,0,0,0,0,0,0,0,7,0,1,6,0,7,0,1,6,0,1,0,0,0,0,0,0,3,0,0,3
+Upper Arlington Police Department,1980,Ohio,35624,OH02509,46,0,46,8,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,1981,Ohio,35654,OH02509,43,0,43,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Upper Arlington Police Department,1982,Ohio,35704,OH02509,44,0,44,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Upper Arlington Police Department,1983,Ohio,35555,OH02509,47,1,46,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Upper Arlington Police Department,1984,Ohio,35326,OH02509,47,1,46,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -9,6 +13,8 @@ Upper Arlington Police Department,1985,Ohio,35299,OH02509,43,1,42,8,7,1,0,0,0,0,
 Upper Arlington Police Department,1986,Ohio,36067,OH02509,47,3,44,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Upper Arlington Police Department,1987,Ohio,36174,OH02509,44,3,41,7,7,0,0,0,0,0,0,0,0,3,0,1,2,0,3,0,1,2,0,0,0,0,0,0,1,0,2,0,0,0
 Upper Arlington Police Department,1988,Ohio,37488,OH02509,47,2,45,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Upper Arlington Police Department,1989,Ohio,37160,OH02509,52,3,49,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,1990,Ohio,34128,OH02509,52,3,49,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Upper Arlington Police Department,1991,Ohio,34417,OH02509,51,3,48,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Upper Arlington Police Department,1992,Ohio,34659,OH02509,52,3,49,9,7,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Upper Arlington Police Department,1993,Ohio,36054,OH02509,52,3,49,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -20,3 +26,13 @@ Upper Arlington Police Department,1998,Ohio,33079,OH02509,48,3,45,11,10,1,0,0,0,
 Upper Arlington Police Department,1999,Ohio,31832,OH02509,48,3,45,11,10,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Upper Arlington Police Department,2000,Ohio,33686,OH02509,48,3,45,10,10,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Upper Arlington Police Department,2001,Ohio,33747,OH02509,48,3,45,11,11,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Upper Arlington Police Department,2002,Ohio,33888,OH02509,48,3,45,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,2003,Ohio,32986,OH02509,49,4,45,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,2004,Ohio,32472,OH02509,49,4,45,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,2005,Ohio,31874,OH02509,48,4,44,13,13,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,2006,Ohio,31588,OH02509,49,4,45,13,13,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,2007,Ohio,31009,OH02509,48,3,45,13,13,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,2008,Ohio,31514,OH02509,48,4,44,13,13,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,2009,Ohio,31686,OH02509,50,3,47,13,13,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,2010,Ohio,33771,OH02509,50,3,47,13,13,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Upper Arlington Police Department,2011,Ohio,33796,OH02509,48,3,45,12,12,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

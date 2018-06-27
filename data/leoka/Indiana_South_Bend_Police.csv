@@ -1,6 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+South Bend Police,1975,Indiana,124190,IN07102,253,4,249,34,34,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 South Bend Police,1976,Indiana,121981,IN07102,251,5,246,30,29,1,0,0,20,5,3,10,2,24,0,0,17,7,44,5,3,27,9,6,0,6,4,1,3,0,15,0,4,5
 South Bend Police,1977,Indiana,123867,IN07102,255,5,250,45,35,10,0,0,15,1,0,12,2,35,0,0,31,4,50,1,0,43,6,7,0,5,1,0,3,0,19,0,1,14
+South Bend Police,1978,Indiana,114225,IN07102,256,6,250,34,33,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 South Bend Police,1979,Indiana,115074,IN07102,247,6,241,34,30,4,0,0,14,0,1,12,1,50,4,1,42,3,64,4,2,54,4,13,0,8,0,0,14,0,24,0,0,5
 South Bend Police,1980,Indiana,108168,IN07102,238,5,233,37,33,4,0,0,6,0,0,4,2,8,1,0,7,0,14,1,0,11,2,4,0,2,0,0,0,0,8,0,0,0
 South Bend Police,1981,Indiana,108265,IN07102,228,7,221,44,37,7,0,0,5,0,0,3,2,20,4,2,12,2,25,4,2,15,4,3,0,2,1,0,2,1,9,0,2,5
@@ -11,12 +13,16 @@ South Bend Police,1985,Indiana,107125,IN07102,230,13,217,51,41,10,0,0,4,0,0,4,0,
 South Bend Police,1986,Indiana,107235,IN07102,235,11,224,49,38,11,0,0,3,0,0,2,1,30,1,1,28,0,33,1,1,30,1,6,0,0,0,0,7,0,15,0,3,2
 South Bend Police,1987,Indiana,107724,IN07102,229,16,213,60,41,19,0,0,12,0,1,8,3,26,1,0,25,0,38,1,1,33,3,6,0,1,2,0,6,0,20,0,1,2
 South Bend Police,1988,Indiana,108481,IN07102,225,16,209,54,39,15,0,0,2,0,0,2,0,30,0,2,27,1,32,0,2,29,1,5,0,0,0,0,11,0,14,0,0,2
+South Bend Police,1989,Indiana,106878,IN07102,228,16,212,62,44,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+South Bend Police,1990,Indiana,105511,IN07102,228,16,212,57,41,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+South Bend Police,1991,Indiana,106764,IN07102,230,15,215,65,45,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 South Bend Police,1992,Indiana,107753,IN07102,239,17,222,64,47,17,0,0,16,2,0,14,0,20,3,0,24,1,36,5,0,30,1,10,0,0,0,3,6,0,11,0,3,3
 South Bend Police,1993,Indiana,106971,IN07102,242,17,225,62,46,16,0,0,16,0,0,16,0,14,1,1,12,0,30,1,1,28,0,9,0,0,0,0,3,0,13,1,2,2
 South Bend Police,1994,Indiana,107701,IN07102,239,17,222,77,48,29,0,0,16,0,0,16,0,20,2,0,17,1,36,2,0,33,1,16,0,2,0,0,3,0,9,0,4,2
 South Bend Police,1995,Indiana,106024,IN07102,244,18,226,67,49,18,0,0,27,0,0,26,1,24,0,0,24,0,51,0,0,50,1,15,0,6,2,3,2,1,9,0,3,10
 South Bend Police,1996,Indiana,106718,IN07102,253,20,233,69,50,19,0,0,21,0,0,19,2,66,1,0,60,5,87,1,0,79,7,22,0,7,1,3,3,0,37,0,6,8
 South Bend Police,1997,Indiana,107138,IN07102,253,19,234,71,53,18,0,1,29,0,0,28,1,37,0,0,36,1,66,0,0,64,2,16,0,6,0,1,4,0,23,0,7,9
+South Bend Police,1998,Indiana,102996,IN07102,254,21,233,71,53,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 South Bend Police,1999,Indiana,100154,IN07102,251,23,228,74,54,20,0,0,25,0,0,24,1,21,1,0,16,4,46,1,0,40,5,0,0,4,1,0,6,0,33,0,2,0
 South Bend Police,2000,Indiana,107789,IN07102,259,23,236,73,54,19,0,0,14,0,0,11,3,24,0,0,22,2,38,0,0,33,5,7,0,0,3,0,3,1,16,2,1,5
 South Bend Police,2001,Indiana,108396,IN07102,257,24,233,73,53,20,0,0,24,1,0,20,3,21,1,0,14,6,45,2,0,34,9,12,0,3,0,6,1,0,15,0,1,7
@@ -31,4 +37,6 @@ South Bend Police,2009,Indiana,103326,IN07102,249,23,226,67,50,17,0,0,12,0,0,8,4
 South Bend Police,2010,Indiana,101168,IN07102,259,21,238,69,50,19,0,0,13,0,0,10,3,13,1,0,7,5,26,1,0,17,8,8,0,5,0,0,0,0,11,1,0,1
 South Bend Police,2011,Indiana,101685,IN07102,258,21,237,70,51,19,0,0,22,1,1,14,6,20,3,0,13,4,42,4,1,27,10,20,0,4,0,2,1,0,8,0,0,7
 South Bend Police,2012,Indiana,101398,IN07102,251,22,229,70,52,18,0,0,21,0,0,15,6,28,5,0,15,8,49,5,0,30,14,17,0,5,0,0,1,0,18,0,1,7
+South Bend Police,2013,Indiana,100711,IN07102,252,17,235,70,51,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+South Bend Police,2014,Indiana,100853,IN07102,245,23,222,71,47,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 South Bend Police,2015,Indiana,101240,IN07102,244,23,221,48,36,12,0,0,22,0,0,17,5,11,1,0,4,6,33,1,0,21,11,12,0,3,0,1,1,1,10,0,0,5

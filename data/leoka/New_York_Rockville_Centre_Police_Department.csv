@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Rockville Centre Police Department,1975,New York,28716,NY02909,57,0,57,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rockville Centre Police Department,1976,New York,27985,NY02909,51,0,51,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Rockville Centre Police Department,1977,New York,28792,NY02909,51,0,51,5,5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Rockville Centre Police Department,1978,New York,26655,NY02909,51,1,50,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockville Centre Police Department,1979,New York,26731,NY02909,52,1,51,7,7,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0
@@ -15,14 +16,15 @@ Rockville Centre Police Department,1988,New York,25424,NY02909,53,1,52,10,7,3,0,
 Rockville Centre Police Department,1989,New York,25608,NY02909,53,1,52,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockville Centre Police Department,1990,New York,24727,NY02909,54,1,53,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockville Centre Police Department,1991,New York,24819,NY02909,54,1,53,10,7,3,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,1,0,1,1,0,1,0,0,0,0,0
-Rockville Centre Police Department,1992,New York,24902,NY02909,54,1,53,10,7,3,0,0,11,0,0,11,0,0,0,0,9,0,11,0,0,11,0,1,0,1,1,0,3,0,5,0,0,0
 Rockville Centre Police Department,1993,New York,25017,NY02909,49,1,48,10,7,3,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,0,0,0,1,2,0,0,0,2,0,0,0
 Rockville Centre Police Department,1994,New York,24978,NY02909,49,1,48,9,7,2,0,0,7,0,0,7,0,0,0,0,0,0,7,0,0,7,0,0,0,6,0,0,0,0,1,0,0,0
 Rockville Centre Police Department,1995,New York,25014,NY02909,46,1,45,13,10,3,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0
 Rockville Centre Police Department,1996,New York,25081,NY02909,49,1,48,7,5,2,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,2,0,0,0,0,0,0,1,1
 Rockville Centre Police Department,1997,New York,25014,NY02909,52,1,51,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rockville Centre Police Department,1998,New York,24877,NY02909,51,0,51,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Rockville Centre Police Department,1999,New York,24668,NY02909,52,0,52,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockville Centre Police Department,2000,New York,24568,NY02909,52,0,52,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rockville Centre Police Department,2001,New York,24613,NY02909,51,0,51,9,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Rockville Centre Police Department,2002,New York,24803,NY02909,52,0,52,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockville Centre Police Department,2003,New York,24615,NY02909,51,0,51,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockville Centre Police Department,2004,New York,24444,NY02909,49,0,49,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,7 +35,6 @@ Rockville Centre Police Department,2008,New York,23513,NY02909,51,0,51,10,5,5,0,
 Rockville Centre Police Department,2009,New York,24396,NY02909,49,0,49,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockville Centre Police Department,2010,New York,24023,NY02909,52,0,52,10,5,5,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,2,0,0,0,1,0,0,0
 Rockville Centre Police Department,2011,New York,24131,NY02909,53,0,53,10,5,5,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
-Rockville Centre Police Department,2012,New York,24241,NY02909,51,0,51,8,6,2,0,0,12,0,0,12,0,0,0,0,0,0,12,0,0,12,0,0,0,3,0,0,2,6,1,0,0,0
 Rockville Centre Police Department,2013,New York,24129,NY02909,51,0,51,9,5,4,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0
 Rockville Centre Police Department,2014,New York,24127,NY02909,50,0,50,10,5,5,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,0,0,0,2,0,0,0,0,1,0,0,2
 Rockville Centre Police Department,2015,New York,24227,NY02909,55,1,54,10,6,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0

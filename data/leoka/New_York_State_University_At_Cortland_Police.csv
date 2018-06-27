@@ -1,13 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-State University At Cortland Police,1979,New York,0,NY211UC,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-State University At Cortland Police,1980,New York,0,NY211UC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-State University At Cortland Police,1981,New York,0,NY211UC,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0
-State University At Cortland Police,1982,New York,0,NY211UC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,1983,New York,0,NY211UC,17,1,16,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,1984,New York,0,NY211UC,17,1,16,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,1985,New York,0,NY211UC,17,1,16,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State University At Cortland Police,1986,New York,0,NY211UC,18,1,17,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 State University At Cortland Police,1987,New York,0,NY211UC,18,1,17,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,1988,New York,0,NY211UC,17,0,17,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State University At Cortland Police,1989,New York,0,NY211UC,17,2,15,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 State University At Cortland Police,1990,New York,0,NY211UC,16,1,15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,1991,New York,0,NY211UC,17,1,16,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,1992,New York,0,NY211UC,16,1,15,2,2,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -21,7 +19,6 @@ State University At Cortland Police,1999,New York,0,NY211UC,17,2,15,1,1,0,0,0,0,
 State University At Cortland Police,2000,New York,0,NY211UC,19,2,17,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,2001,New York,0,NY211UC,18,3,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,2002,New York,0,NY211UC,18,3,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-State University At Cortland Police,2003,New York,0,NY211UC,15,2,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,2004,New York,0,NY211UC,18,3,15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,2005,New York,0,NY211UC,18,3,15,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,2006,New York,0,NY211UC,18,3,15,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -31,6 +28,5 @@ State University At Cortland Police,2009,New York,0,NY211UC,19,2,17,5,3,2,0,0,0,
 State University At Cortland Police,2010,New York,0,NY211UC,17,3,14,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,2011,New York,0,NY211UC,19,4,15,6,4,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 State University At Cortland Police,2012,New York,0,NY211UC,18,4,14,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-State University At Cortland Police,2013,New York,0,NY211UC,15,2,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,2014,New York,0,NY211UC,19,4,15,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 State University At Cortland Police,2015,New York,0,NY211UC,19,4,15,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

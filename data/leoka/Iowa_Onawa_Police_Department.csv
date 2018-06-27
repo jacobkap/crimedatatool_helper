@@ -1,7 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Onawa Police Department,1975,Iowa,3399,IA06701,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onawa Police Department,1976,Iowa,3118,IA06701,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onawa Police Department,1977,Iowa,3028,IA06701,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Onawa Police Department,1978,Iowa,3325,IA06701,5,0,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Onawa Police Department,1979,Iowa,3165,IA06701,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Onawa Police Department,1980,Iowa,3267,IA06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Onawa Police Department,1981,Iowa,3255,IA06701,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Onawa Police Department,1982,Iowa,3264,IA06701,5,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Onawa Police Department,1983,Iowa,3264,IA06701,5,0,5,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Onawa Police Department,1984,Iowa,3134,IA06701,5,0,5,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -11,8 +15,12 @@ Onawa Police Department,1987,Iowa,2863,IA06701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Onawa Police Department,1988,Iowa,2852,IA06701,5,0,5,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
 Onawa Police Department,1989,Iowa,2816,IA06701,4,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0
 Onawa Police Department,1990,Iowa,2936,IA06701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Onawa Police Department,1991,Iowa,2955,IA06701,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onawa Police Department,1992,Iowa,2972,IA06701,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onawa Police Department,1993,Iowa,2936,IA06701,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Onawa Police Department,1994,Iowa,2951,IA06701,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Onawa Police Department,1995,Iowa,2952,IA06701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Onawa Police Department,1996,Iowa,2962,IA06701,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Onawa Police Department,1997,Iowa,2962,IA06701,6,0,6,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Onawa Police Department,1998,Iowa,2937,IA06701,6,0,6,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
 Onawa Police Department,1999,Iowa,2886,IA06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -24,7 +32,6 @@ Onawa Police Department,2004,Iowa,3022,IA06701,6,0,6,0,0,0,0,0,1,0,0,1,0,0,0,0,0
 Onawa Police Department,2005,Iowa,3021,IA06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Onawa Police Department,2006,Iowa,2937,IA06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Onawa Police Department,2007,Iowa,2838,IA06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Onawa Police Department,2008,Iowa,2754,IA06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Onawa Police Department,2009,Iowa,2710,IA06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Onawa Police Department,2010,Iowa,2998,IA06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Onawa Police Department,2011,Iowa,3014,IA06701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

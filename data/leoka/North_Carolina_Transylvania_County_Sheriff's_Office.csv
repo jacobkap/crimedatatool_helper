@@ -1,13 +1,19 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Transylvania County Sheriff's Office,1975,North Carolina,15420,NC08800,17,1,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transylvania County Sheriff's Office,1976,North Carolina,15036,NC08800,19,2,17,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Transylvania County Sheriff's Office,1977,North Carolina,15557,NC08800,19,2,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Transylvania County Sheriff's Office,1978,North Carolina,16109,NC08800,19,2,17,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
 Transylvania County Sheriff's Office,1979,North Carolina,16152,NC08800,18,1,17,3,2,1,0,0,1,0,1,0,0,1,0,0,0,1,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
 Transylvania County Sheriff's Office,1980,North Carolina,18030,NC08800,20,1,19,5,4,1,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
 Transylvania County Sheriff's Office,1981,North Carolina,18361,NC08800,20,1,19,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Transylvania County Sheriff's Office,1982,North Carolina,18571,NC08800,21,3,18,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transylvania County Sheriff's Office,1983,North Carolina,18765,NC08800,22,3,19,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Transylvania County Sheriff's Office,1984,North Carolina,19200,NC08800,22,2,20,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Transylvania County Sheriff's Office,1985,North Carolina,19577,NC08800,22,2,20,7,4,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Transylvania County Sheriff's Office,1986,North Carolina,19641,NC08800,25,2,23,9,5,4,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,1,0
+Transylvania County Sheriff's Office,1987,North Carolina,20470,NC08800,25,3,22,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Transylvania County Sheriff's Office,1988,North Carolina,20335,NC08800,28,2,26,9,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Transylvania County Sheriff's Office,1989,North Carolina,20582,NC08800,27,1,26,11,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Transylvania County Sheriff's Office,1990,North Carolina,20132,NC08800,26,1,25,15,11,4,0,0,1,0,0,0,1,4,0,0,4,0,5,0,0,4,1,2,0,2,0,0,0,0,0,0,0,1
 Transylvania County Sheriff's Office,1991,North Carolina,20461,NC08800,30,1,29,15,11,4,0,0,1,1,0,0,0,7,1,1,4,1,8,2,1,4,1,0,0,1,0,0,0,0,5,0,0,2
 Transylvania County Sheriff's Office,1992,North Carolina,20782,NC08800,30,1,29,16,12,4,0,0,0,0,0,0,0,10,1,3,14,0,10,1,3,6,0,0,0,3,0,0,0,0,6,0,0,1
@@ -17,6 +23,7 @@ Transylvania County Sheriff's Office,1995,North Carolina,21631,NC08800,32,1,31,1
 Transylvania County Sheriff's Office,1996,North Carolina,22015,NC08800,34,1,33,16,11,5,0,0,0,0,0,0,0,12,0,0,12,0,12,0,0,12,0,2,0,2,0,0,2,0,6,0,0,0
 Transylvania County Sheriff's Office,1997,North Carolina,22321,NC08800,35,1,34,16,10,6,0,0,0,0,0,0,0,5,2,0,3,0,5,2,0,3,0,0,0,0,0,0,0,0,3,0,0,2
 Transylvania County Sheriff's Office,1998,North Carolina,22712,NC08800,38,1,37,14,10,4,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
+Transylvania County Sheriff's Office,1999,North Carolina,23153,NC08800,38,3,35,14,10,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Transylvania County Sheriff's Office,2000,North Carolina,22545,NC08800,39,2,37,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Transylvania County Sheriff's Office,2001,North Carolina,22928,NC08800,40,2,38,16,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Transylvania County Sheriff's Office,2002,North Carolina,23304,NC08800,41,2,39,16,9,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -26,6 +33,7 @@ Transylvania County Sheriff's Office,2005,North Carolina,23255,NC08800,42,2,40,1
 Transylvania County Sheriff's Office,2006,North Carolina,23441,NC08800,45,1,44,11,10,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Transylvania County Sheriff's Office,2007,North Carolina,23500,NC08800,48,3,45,15,10,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Transylvania County Sheriff's Office,2008,North Carolina,23466,NC08800,52,4,48,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transylvania County Sheriff's Office,2009,North Carolina,23617,NC08800,57,6,51,22,12,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Transylvania County Sheriff's Office,2010,North Carolina,25481,NC08800,58,6,52,20,11,9,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,0,0,0,0,0,0,0,1,0,0,2
 Transylvania County Sheriff's Office,2011,North Carolina,25805,NC08800,61,8,53,17,4,13,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,1,0,0,1,0,2,0,0,0
 Transylvania County Sheriff's Office,2012,North Carolina,25519,NC08800,59,4,55,19,14,5,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,2,0,0,0,0,1,0,3,0,0,0

@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Okeechobee Police Department,1975,Florida,4083,FL04701,14,1,13,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Okeechobee Police Department,1976,Florida,3864,FL04701,12,0,12,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Okeechobee Police Department,1977,Florida,3832,FL04701,11,0,11,5,2,3,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Okeechobee Police Department,1978,Florida,3788,FL04701,13,0,13,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -11,11 +12,15 @@ Okeechobee Police Department,1984,Florida,4833,FL04701,15,0,15,6,5,1,0,0,0,0,0,0
 Okeechobee Police Department,1985,Florida,5005,FL04701,15,0,15,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Okeechobee Police Department,1986,Florida,5395,FL04701,15,0,15,6,6,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
 Okeechobee Police Department,1987,Florida,4778,FL04701,15,0,15,6,6,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,1,0,1,1
+Okeechobee Police Department,1988,Florida,5056,FL04701,16,1,15,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Okeechobee Police Department,1989,Florida,5331,FL04701,16,1,15,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Okeechobee Police Department,1990,Florida,4943,FL04701,15,1,14,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Okeechobee Police Department,1991,Florida,5072,FL04701,16,1,15,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Okeechobee Police Department,1992,Florida,5152,FL04701,16,1,15,6,6,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Okeechobee Police Department,1993,Florida,5170,FL04701,16,0,16,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Okeechobee Police Department,1994,Florida,5273,FL04701,16,0,16,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Okeechobee Police Department,1995,Florida,5196,FL04701,18,0,18,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Okeechobee Police Department,1996,Florida,5281,FL04701,18,1,17,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Okeechobee Police Department,1997,Florida,5374,FL04701,17,1,16,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Okeechobee Police Department,1998,Florida,4997,FL04701,19,1,18,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Okeechobee Police Department,1999,Florida,4806,FL04701,18,1,17,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,6 +37,3 @@ Okeechobee Police Department,2009,Florida,6060,FL04701,20,4,16,6,4,2,0,0,0,0,0,0
 Okeechobee Police Department,2010,Florida,5621,FL04701,20,3,17,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Okeechobee Police Department,2011,Florida,5698,FL04701,20,2,18,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Okeechobee Police Department,2012,Florida,5718,FL04701,20,3,17,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Okeechobee Police Department,2013,Florida,5571,FL04701,19,1,18,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Okeechobee Police Department,2014,Florida,5592,FL04701,19,1,18,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Okeechobee Police Department,2015,Florida,5533,FL04701,19,1,18,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

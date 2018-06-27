@@ -1,5 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Addison Police Dept,1975,Illinois,25645,IL02201,40,0,40,12,7,5,0,0,7,0,2,5,0,4,0,0,4,0,11,0,2,9,0,0,0,0,0,0,4,0,7,0,0,0
+Addison Police Dept,1976,Illinois,28019,IL02201,43,0,43,12,9,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,1977,Illinois,27457,IL02201,45,0,45,13,11,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Addison Police Dept,1978,Illinois,28064,IL02201,45,0,45,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Addison Police Dept,1979,Illinois,28767,IL02201,47,1,46,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Addison Police Dept,1980,Illinois,28228,IL02201,49,1,48,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,4 +17,25 @@ Addison Police Dept,1989,Illinois,30219,IL02201,61,3,58,17,15,2,0,0,0,0,0,0,0,0,
 Addison Police Dept,1990,Illinois,32058,IL02201,63,3,60,20,16,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Addison Police Dept,1991,Illinois,32373,IL02201,63,2,61,22,18,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Addison Police Dept,1992,Illinois,32619,IL02201,58,2,56,21,17,4,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Addison Police Dept,1993,Illinois,32724,IL02201,64,3,61,18,14,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Addison Police Dept,1994,Illinois,32877,IL02201,62,4,58,23,16,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Addison Police Dept,1995,Illinois,33032,IL02201,61,4,57,20,15,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,1996,Illinois,33079,IL02201,59,3,56,19,14,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,1997,Illinois,33215,IL02201,62,4,58,23,18,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,1998,Illinois,34412,IL02201,56,4,52,21,16,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,1999,Illinois,34309,IL02201,66,3,63,21,13,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2000,Illinois,35914,IL02201,66,4,62,26,23,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2001,Illinois,36096,IL02201,63,5,58,23,18,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2002,Illinois,36438,IL02201,63,6,57,25,18,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2003,Illinois,36531,IL02201,64,5,59,26,20,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2004,Illinois,36942,IL02201,60,5,55,24,17,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2005,Illinois,37185,IL02201,66,6,60,37,31,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2006,Illinois,37009,IL02201,66,6,60,25,19,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2007,Illinois,37143,IL02201,66,6,60,25,19,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2008,Illinois,37041,IL02201,72,6,66,29,22,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2009,Illinois,36968,IL02201,72,7,65,28,21,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2010,Illinois,36942,IL02201,68,6,62,26,20,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2011,Illinois,37053,IL02201,65,6,59,29,23,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2012,Illinois,37215,IL02201,65,6,59,33,21,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2014,Illinois,37480,IL02201,62,6,56,35,27,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Addison Police Dept,2015,Illinois,37370,IL02201,67,6,61,40,30,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,

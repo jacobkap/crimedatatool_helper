@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Burke County Sheriff's Office,1975,North Carolina,43458,NC01200,34,2,32,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Burke County Sheriff's Office,1976,North Carolina,42918,NC01200,34,2,32,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Burke County Sheriff's Office,1977,North Carolina,44689,NC01200,44,5,39,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Burke County Sheriff's Office,1978,North Carolina,42909,NC01200,46,6,40,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
@@ -25,8 +26,12 @@ Burke County Sheriff's Office,1998,North Carolina,60754,NC01200,66,7,59,21,8,13,
 Burke County Sheriff's Office,1999,North Carolina,61587,NC01200,72,7,65,23,11,12,0,0,0,0,0,0,0,5,0,0,3,2,5,0,0,3,2,0,0,1,0,0,0,0,3,0,0,1
 Burke County Sheriff's Office,2000,North Carolina,63226,NC01200,73,9,64,23,10,13,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Burke County Sheriff's Office,2001,North Carolina,64302,NC01200,75,9,66,24,11,13,0,0,0,0,0,0,0,7,0,0,4,3,7,0,0,4,3,3,0,0,0,0,0,0,2,0,0,2
+Burke County Sheriff's Office,2002,North Carolina,65356,NC01200,80,6,74,22,12,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Burke County Sheriff's Office,2003,North Carolina,64103,NC01200,82,4,78,21,12,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Burke County Sheriff's Office,2004,North Carolina,64526,NC01200,79,4,75,23,12,11,0,1,0,0,0,0,0,9,0,0,7,2,9,0,0,7,2,5,0,0,0,0,2,0,1,0,0,1
 Burke County Sheriff's Office,2005,North Carolina,64456,NC01200,80,4,76,24,12,12,0,0,1,0,0,1,0,12,0,2,6,4,13,0,2,7,4,6,0,1,0,0,0,1,2,0,0,3
+Burke County Sheriff's Office,2006,North Carolina,64793,NC01200,82,3,79,23,11,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Burke County Sheriff's Office,2007,North Carolina,64982,NC01200,82,3,79,27,11,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Burke County Sheriff's Office,2008,North Carolina,63275,NC01200,86,4,82,29,13,16,0,0,0,0,0,0,0,9,0,0,9,0,9,0,0,9,0,3,0,1,0,0,2,0,2,0,1,0
 Burke County Sheriff's Office,2009,North Carolina,63979,NC01200,87,5,82,29,13,16,0,0,0,0,0,0,0,20,0,0,18,2,20,0,0,18,2,11,0,1,0,0,1,0,5,0,0,2
 Burke County Sheriff's Office,2010,North Carolina,65311,NC01200,89,5,84,29,12,17,0,0,0,0,0,0,0,21,0,0,21,0,21,0,0,21,0,8,0,0,0,0,0,0,11,0,1,1

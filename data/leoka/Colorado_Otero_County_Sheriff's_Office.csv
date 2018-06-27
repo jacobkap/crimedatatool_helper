@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Otero County Sheriff's Office,1975,Colorado,10161,CO04500,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Otero County Sheriff's Office,1976,Colorado,9584,CO04500,14,2,12,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Otero County Sheriff's Office,1977,Colorado,8662,CO04500,14,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1978,Colorado,9456,CO04500,14,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1979,Colorado,8564,CO04500,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -9,7 +10,6 @@ Otero County Sheriff's Office,1982,Colorado,8149,CO04500,14,2,12,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1983,Colorado,8400,CO04500,15,1,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1984,Colorado,8001,CO04500,14,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1985,Colorado,7088,CO04500,14,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Otero County Sheriff's Office,1986,Colorado,8234,CO04500,14,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1987,Colorado,7930,CO04500,16,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1988,Colorado,7738,CO04500,11,1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1989,Colorado,7346,CO04500,16,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,11 +17,21 @@ Otero County Sheriff's Office,1990,Colorado,6795,CO04500,16,1,15,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1991,Colorado,6965,CO04500,16,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1992,Colorado,7156,CO04500,16,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1993,Colorado,6819,CO04500,16,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Otero County Sheriff's Office,1994,Colorado,6991,CO04500,16,1,15,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Otero County Sheriff's Office,1995,Colorado,7022,CO04500,17,3,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,1996,Colorado,7164,CO04500,19,3,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Otero County Sheriff's Office,1997,Colorado,7295,CO04500,19,3,16,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Otero County Sheriff's Office,1998,Colorado,7123,CO04500,19,3,16,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Otero County Sheriff's Office,1999,Colorado,7180,CO04500,19,3,16,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Otero County Sheriff's Office,2000,Colorado,6726,CO04500,22,6,16,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Otero County Sheriff's Office,2001,Colorado,6908,CO04500,22,6,16,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Otero County Sheriff's Office,2002,Colorado,7049,CO04500,22,6,16,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Otero County Sheriff's Office,2003,Colorado,6641,CO04500,22,6,16,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Otero County Sheriff's Office,2004,Colorado,6649,CO04500,20,5,15,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Otero County Sheriff's Office,2005,Colorado,6593,CO04500,20,5,15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,2006,Colorado,6603,CO04500,20,5,15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Otero County Sheriff's Office,2007,Colorado,6591,CO04500,12,1,11,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Otero County Sheriff's Office,2008,Colorado,6209,CO04500,19,5,14,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Otero County Sheriff's Office,2009,Colorado,6191,CO04500,9,1,8,12,6,6,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 Otero County Sheriff's Office,2010,Colorado,6181,CO04500,10,1,9,12,6,6,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,1,0,0,1,0,0,0
 Otero County Sheriff's Office,2011,Colorado,6288,CO04500,9,1,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,5 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Wilkes Barre City Police Department,1975,Pennsylvania,55857,PA04013,101,2,99,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wilkes Barre City Police Department,1976,Pennsylvania,56781,PA04013,90,1,89,8,4,4,0,0,1,0,0,1,0,10,0,0,7,3,11,0,0,8,3,1,0,0,0,0,2,1,7,0,0,0
+Wilkes Barre City Police Department,1977,Pennsylvania,56162,PA04013,95,2,93,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wilkes Barre City Police Department,1978,Pennsylvania,55745,PA04013,92,2,90,7,4,3,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,1,0,2,0,0,0,0,1,0,0,0
 Wilkes Barre City Police Department,1979,Pennsylvania,54528,PA04013,95,2,93,10,5,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Wilkes Barre City Police Department,1980,Pennsylvania,51117,PA04013,94,2,92,11,5,6,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
@@ -9,12 +11,18 @@ Wilkes Barre City Police Department,1983,Pennsylvania,51418,PA04013,92,2,90,15,7
 Wilkes Barre City Police Department,1984,Pennsylvania,50743,PA04013,92,2,90,15,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wilkes Barre City Police Department,1985,Pennsylvania,50540,PA04013,90,2,88,19,11,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wilkes Barre City Police Department,1986,Pennsylvania,49270,PA04013,83,2,81,15,9,6,0,0,0,0,0,0,0,4,4,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+Wilkes Barre City Police Department,1987,Pennsylvania,48079,PA04013,90,2,88,17,10,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wilkes Barre City Police Department,1988,Pennsylvania,48273,PA04013,88,2,86,19,11,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wilkes Barre City Police Department,1989,Pennsylvania,47168,PA04013,90,3,87,12,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wilkes Barre City Police Department,1990,Pennsylvania,47523,PA04013,90,3,87,21,8,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wilkes Barre City Police Department,1991,Pennsylvania,47840,PA04013,90,1,89,14,11,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wilkes Barre City Police Department,1992,Pennsylvania,48031,PA04013,91,2,89,16,12,4,0,0,2,0,0,2,0,0,0,0,9,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
 Wilkes Barre City Police Department,1993,Pennsylvania,47091,PA04013,91,2,89,16,12,4,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Wilkes Barre City Police Department,1994,Pennsylvania,47106,PA04013,80,3,77,15,12,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Wilkes Barre City Police Department,1997,Pennsylvania,45522,PA04013,80,3,77,15,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wilkes Barre City Police Department,1995,Pennsylvania,45720,PA04013,80,3,77,15,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wilkes Barre City Police Department,1998,Pennsylvania,43920,PA04013,76,4,72,9,6,3,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,2,0,0,0,0,0,0,0,1
 Wilkes Barre City Police Department,1999,Pennsylvania,42801,PA04013,70,4,66,6,5,1,0,0,1,0,0,1,0,5,0,0,5,0,6,0,0,6,0,0,0,5,0,0,1,0,0,0,0,0
+Wilkes Barre City Police Department,2000,Pennsylvania,43123,PA04013,68,4,64,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wilkes Barre City Police Department,2002,Pennsylvania,43312,PA04013,78,3,75,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wilkes Barre City Police Department,2003,Pennsylvania,42124,PA04013,88,8,80,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wilkes Barre City Police Department,2004,Pennsylvania,41767,PA04013,79,3,76,10,4,6,0,0,4,0,0,4,0,2,0,0,2,0,6,0,0,6,0,0,0,4,0,0,1,0,0,0,1,0

@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Newton Police Department,1975,Massachusetts,88731,MA00933,231,14,217,20,10,10,0,0,2,0,2,0,0,12,0,0,12,0,14,0,2,12,0,1,0,2,0,0,0,0,10,0,0,1
+Newton Police Department,1976,Massachusetts,89209,MA00933,219,14,205,18,9,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Newton Police Department,1977,Massachusetts,87257,MA00933,215,14,201,16,8,8,0,0,10,0,0,9,1,5,0,0,5,0,15,0,0,14,1,1,0,5,0,0,1,0,8,0,0,0
 Newton Police Department,1978,Massachusetts,88000,MA00933,212,15,197,12,5,7,0,1,11,0,0,11,0,0,0,0,0,0,11,0,0,11,0,0,0,3,0,0,0,0,6,0,2,0
 Newton Police Department,1979,Massachusetts,86953,MA00933,212,14,198,18,11,7,0,0,8,0,0,8,0,6,0,0,5,1,14,0,0,13,1,3,0,3,1,0,0,0,4,0,2,1
@@ -8,7 +9,10 @@ Newton Police Department,1981,Massachusetts,84195,MA00933,204,14,190,20,17,3,0,0
 Newton Police Department,1982,Massachusetts,84355,MA00933,204,14,190,20,16,4,0,0,6,0,0,6,0,11,0,0,6,5,17,0,0,12,5,1,0,0,3,0,0,0,6,0,4,3
 Newton Police Department,1983,Massachusetts,84150,MA00933,204,14,190,20,16,4,0,0,7,0,0,7,0,12,1,1,7,3,19,1,1,14,3,0,0,3,1,0,0,0,11,1,1,2
 Newton Police Department,1984,Massachusetts,83432,MA00933,204,12,192,20,18,2,0,0,11,0,0,8,3,7,2,0,3,2,18,2,0,11,5,0,0,2,3,0,1,0,6,4,0,2
+Newton Police Department,1985,Massachusetts,83381,MA00933,204,12,192,20,18,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Newton Police Department,1986,Massachusetts,82786,MA00933,198,12,186,20,17,3,0,0,5,0,0,5,0,3,0,0,2,1,8,0,0,7,1,1,0,0,2,0,0,0,4,0,0,1
+Newton Police Department,1987,Massachusetts,82465,MA00933,198,12,186,20,17,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newton Police Department,1988,Massachusetts,82756,MA00933,204,11,193,20,16,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Newton Police Department,1989,Massachusetts,82558,MA00933,204,11,193,20,16,4,0,0,1,0,0,0,1,6,0,0,6,0,7,0,0,6,1,2,0,2,0,0,0,0,3,0,0,0
 Newton Police Department,1990,Massachusetts,82585,MA00933,204,13,191,34,31,3,0,0,1,0,0,1,0,10,0,1,8,1,11,0,1,9,1,1,0,0,1,0,0,0,7,0,0,2
 Newton Police Department,1991,Massachusetts,82305,MA00933,186,12,174,20,17,3,0,0,1,0,0,1,0,5,0,1,4,0,6,0,1,5,0,0,0,2,1,1,0,0,2,0,0,0
@@ -20,8 +24,19 @@ Newton Police Department,1996,Massachusetts,86078,MA00933,164,10,154,21,15,6,0,0
 Newton Police Department,1997,Massachusetts,86445,MA00933,152,10,142,24,20,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newton Police Department,1998,Massachusetts,80924,MA00933,158,16,142,23,20,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newton Police Department,1999,Massachusetts,80711,MA00933,158,16,142,23,20,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newton Police Department,2000,Massachusetts,83829,MA00933,161,19,142,25,23,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Newton Police Department,2001,Massachusetts,84228,MA00933,159,19,140,25,22,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newton Police Department,2002,Massachusetts,84868,MA00933,146,16,130,28,21,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Newton Police Department,2003,Massachusetts,83953,MA00933,159,18,141,31,22,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newton Police Department,2004,Massachusetts,84101,MA00933,150,13,137,30,20,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newton Police Department,2005,Massachusetts,83570,MA00933,149,13,136,27,17,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newton Police Department,2006,Massachusetts,83658,MA00933,152,15,137,43,32,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newton Police Department,2007,Massachusetts,82731,MA00933,152,15,137,43,32,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newton Police Department,2008,Massachusetts,83191,MA00933,139,14,125,42,29,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newton Police Department,2009,Massachusetts,84427,MA00933,138,15,123,42,30,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newton Police Department,2010,Massachusetts,85146,MA00933,139,16,123,42,31,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newton Police Department,2011,Massachusetts,85665,MA00933,138,16,122,41,28,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newton Police Department,2012,Massachusetts,86710,MA00933,137,15,122,32,18,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Newton Police Department,2013,Massachusetts,86867,MA00933,131,14,117,42,29,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newton Police Department,2014,Massachusetts,88881,MA00933,144,17,127,19,16,3,0,0,1,0,0,1,0,15,0,0,12,3,16,0,0,13,3,2,0,1,0,0,3,3,7,0,0,0
 Newton Police Department,2015,Massachusetts,89053,MA00933,138,15,123,42,28,14,0,0,3,0,0,2,1,9,0,1,4,4,12,0,1,6,5,4,0,0,0,0,2,0,0,0,6,0

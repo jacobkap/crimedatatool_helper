@@ -1,6 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Canonsburg Borough Police Department,1975,Pennsylvania,11123,PA06301,16,0,16,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canonsburg Borough Police Department,1976,Pennsylvania,11390,PA06301,15,0,15,5,1,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Canonsburg Borough Police Department,1977,Pennsylvania,11268,PA06301,15,0,15,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Canonsburg Borough Police Department,1978,Pennsylvania,11187,PA06301,15,0,15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canonsburg Borough Police Department,1979,Pennsylvania,11303,PA06301,16,0,16,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canonsburg Borough Police Department,1980,Pennsylvania,10465,PA06301,17,0,17,2,2,0,0,0,1,0,0,1,0,1,0,1,0,0,2,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0
@@ -9,6 +10,7 @@ Canonsburg Borough Police Department,1982,Pennsylvania,10500,PA06301,17,0,17,2,2
 Canonsburg Borough Police Department,1983,Pennsylvania,10526,PA06301,13,0,13,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Canonsburg Borough Police Department,1984,Pennsylvania,10292,PA06301,13,0,13,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canonsburg Borough Police Department,1985,Pennsylvania,10251,PA06301,13,0,13,2,2,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Canonsburg Borough Police Department,1986,Pennsylvania,10023,PA06301,13,0,13,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Canonsburg Borough Police Department,1987,Pennsylvania,9768,PA06301,13,0,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canonsburg Borough Police Department,1988,Pennsylvania,9716,PA06301,13,0,13,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Canonsburg Borough Police Department,1989,Pennsylvania,9580,PA06301,13,0,13,2,2,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,0,2,1,0,0,0
@@ -17,15 +19,15 @@ Canonsburg Borough Police Department,1991,Pennsylvania,9261,PA06301,15,0,15,2,2,
 Canonsburg Borough Police Department,1992,Pennsylvania,9298,PA06301,15,0,15,2,2,0,0,0,3,0,0,3,0,3,0,0,12,0,6,0,0,6,0,0,0,1,0,0,0,0,3,0,1,1
 Canonsburg Borough Police Department,1993,Pennsylvania,9369,PA06301,15,0,15,2,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Canonsburg Borough Police Department,1994,Pennsylvania,9372,PA06301,15,0,15,2,2,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Canonsburg Borough Police Department,1995,Pennsylvania,9785,PA06301,15,0,15,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Canonsburg Borough Police Department,1996,Pennsylvania,9771,PA06301,15,0,15,2,2,0,0,0,1,0,0,1,0,2,0,0,1,1,3,0,0,2,1,0,0,1,0,0,1,0,0,0,0,1
+Canonsburg Borough Police Department,1997,Pennsylvania,9741,PA06301,15,0,15,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Canonsburg Borough Police Department,1998,Pennsylvania,8789,PA06301,15,0,15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Canonsburg Borough Police Department,1999,Pennsylvania,8634,PA06301,15,0,15,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Canonsburg Borough Police Department,2000,Pennsylvania,8607,PA06301,15,0,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Canonsburg Borough Police Department,2001,Pennsylvania,8611,PA06301,15,0,15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canonsburg Borough Police Department,2002,Pennsylvania,8644,PA06301,16,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canonsburg Borough Police Department,2003,Pennsylvania,8714,PA06301,16,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canonsburg Borough Police Department,2004,Pennsylvania,8745,PA06301,15,0,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Canonsburg Borough Police Department,2006,Pennsylvania,8818,PA06301,15,0,15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Canonsburg Borough Police Department,2005,Pennsylvania,8842,PA06301,15,0,15,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Canonsburg Borough Police Department,2007,Pennsylvania,8856,PA06301,15,0,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canonsburg Borough Police Department,2008,Pennsylvania,8711,PA06301,15,0,15,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Canonsburg Borough Police Department,2009,Pennsylvania,8730,PA06301,16,0,16,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

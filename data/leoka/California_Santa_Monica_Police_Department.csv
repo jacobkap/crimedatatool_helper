@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Santa Monica Police Department,1975,California,93317,CA01965,133,5,128,60,51,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Santa Monica Police Department,1976,California,93300,CA01965,134,5,129,73,51,22,0,0,19,1,0,13,5,0,0,0,0,0,19,1,0,13,5,6,0,6,1,0,3,0,3,0,0,0
 Santa Monica Police Department,1977,California,94877,CA01965,131,5,126,75,53,22,0,0,24,0,0,23,1,0,0,0,0,0,24,0,0,23,1,2,0,1,2,0,5,5,5,0,0,4
 Santa Monica Police Department,1978,California,90888,CA01965,131,6,125,77,21,56,0,0,13,2,1,9,1,2,0,0,2,0,15,2,1,11,1,3,0,0,1,0,3,2,4,1,0,1
@@ -8,8 +9,10 @@ Santa Monica Police Department,1981,California,90488,CA01965,137,11,126,101,63,3
 Santa Monica Police Department,1982,California,92604,CA01965,145,12,133,107,73,34,0,0,9,0,0,8,1,35,3,1,30,1,44,3,1,38,2,8,0,10,0,0,8,3,3,1,3,8
 Santa Monica Police Department,1983,California,94289,CA01965,143,15,128,115,80,35,0,0,0,0,0,0,0,37,0,0,32,5,37,0,0,32,5,2,0,9,1,0,9,1,6,0,6,3
 Santa Monica Police Department,1984,California,92788,CA01965,142,12,130,124,80,44,0,0,2,1,0,1,0,28,0,0,27,1,30,1,0,28,1,2,2,8,1,0,3,0,2,0,12,0
+Santa Monica Police Department,1985,California,95477,CA01965,146,14,132,115,73,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Santa Monica Police Department,1986,California,96179,CA01965,152,15,137,128,86,42,0,0,0,0,0,0,0,24,0,0,23,1,24,0,0,23,1,0,0,18,0,0,3,0,2,0,1,0
 Santa Monica Police Department,1987,California,95525,CA01965,152,16,136,130,87,43,0,0,4,0,0,3,1,35,0,0,35,0,39,0,0,38,1,4,0,14,0,0,7,0,8,1,2,3
+Santa Monica Police Department,1988,California,97278,CA01965,153,17,136,127,82,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Santa Monica Police Department,1989,California,96550,CA01965,155,17,138,144,89,55,0,0,20,0,0,16,4,54,1,0,46,7,74,1,0,62,11,17,0,11,3,0,24,0,8,0,11,0
 Santa Monica Police Department,1990,California,86905,CA01965,164,21,143,148,89,59,0,0,9,0,1,8,0,56,0,3,47,6,65,0,4,55,6,7,0,16,0,0,18,1,13,0,7,3
 Santa Monica Police Department,1991,California,88715,CA01965,175,25,150,133,85,48,0,0,4,0,0,4,0,56,1,2,44,9,60,1,2,48,9,2,0,8,0,1,25,2,11,0,6,5

@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Hobart Police,1975,Indiana,23463,IN04509,26,0,26,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hobart Police,1976,Indiana,26000,IN04509,26,0,26,6,6,0,0,0,1,0,0,0,1,2,1,0,1,0,3,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1
 Hobart Police,1977,Indiana,22268,IN04509,28,0,28,7,7,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
 Hobart Police,1978,Indiana,22425,IN04509,30,0,30,9,9,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -17,14 +18,23 @@ Hobart Police,1990,Indiana,21822,IN04509,30,0,30,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hobart Police,1991,Indiana,22081,IN04509,31,0,31,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hobart Police,1992,Indiana,22285,IN04509,31,0,31,11,10,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hobart Police,1993,Indiana,21981,IN04509,44,2,42,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hobart Police,1994,Indiana,22131,IN04509,45,2,43,14,11,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hobart Police,1995,Indiana,24428,IN04509,48,2,46,13,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hobart Police,1996,Indiana,24588,IN04509,49,2,47,14,3,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hobart Police,1997,Indiana,24684,IN04509,49,2,47,14,11,3,0,0,0,0,0,0,0,17,0,0,15,2,17,0,0,15,2,2,0,3,0,0,4,0,6,0,2,0
+Hobart Police,1998,Indiana,24626,IN04509,54,2,52,14,12,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hobart Police,1999,Indiana,25025,IN04509,56,1,55,14,12,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hobart Police,2000,Indiana,25363,IN04509,57,56,1,15,4,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hobart Police,2001,Indiana,25506,IN04509,53,1,52,14,10,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hobart Police,2002,Indiana,25691,IN04509,54,1,53,15,11,4,0,0,3,0,0,3,0,5,0,0,5,0,8,0,0,8,0,2,0,2,0,0,0,0,3,0,0,1
+Hobart Police,2003,Indiana,26621,IN04509,55,1,54,15,9,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hobart Police,2004,Indiana,27155,IN04509,56,0,56,15,9,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hobart Police,2005,Indiana,27662,IN04509,55,0,55,16,9,7,0,0,3,0,0,3,0,11,0,0,11,0,14,0,0,14,0,2,0,1,0,0,1,0,6,0,3,1
 Hobart Police,2006,Indiana,27952,IN04509,55,0,55,16,10,6,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
+Hobart Police,2007,Indiana,28428,IN04509,56,0,56,16,14,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hobart Police,2008,Indiana,28139,IN04509,53,0,53,15,13,2,0,0,0,0,0,0,0,11,0,0,11,0,11,0,0,11,0,1,0,2,0,0,1,0,6,0,1,0
 Hobart Police,2009,Indiana,28173,IN04509,55,0,55,15,0,15,0,0,0,0,0,0,0,7,0,0,7,0,7,0,0,7,0,1,0,3,0,0,1,0,2,0,0,0
 Hobart Police,2010,Indiana,29059,IN04509,55,0,55,14,10,4,0,0,1,0,0,1,0,10,0,0,10,0,11,0,0,11,0,0,0,5,0,0,3,0,3,0,0,0
 Hobart Police,2011,Indiana,29207,IN04509,55,0,55,15,9,6,0,0,2,0,0,1,1,8,0,0,8,0,10,0,0,9,1,0,0,3,0,0,4,0,3,0,0,0
-Hobart Police,2013,Indiana,28631,IN04509,54,2,52,14,12,2,0,0,1,0,0,1,0,9,0,0,8,1,10,0,0,9,1,0,0,2,0,0,6,0,0,0,0,2
+Hobart Police,2014,Indiana,28389,IN04509,60,1,59,15,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hobart Police,2015,Indiana,28463,IN04509,58,1,57,8,8,0,0,0,2,0,0,2,0,13,0,0,12,1,15,0,0,14,1,0,0,6,0,2,2,0,4,0,0,1

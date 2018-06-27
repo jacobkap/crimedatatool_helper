@@ -1,15 +1,21 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Minerva Police Department,1975,Ohio,4691,OH07609,6,0,6,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Minerva Police Department,1976,Ohio,4593,OH07609,6,0,6,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Minerva Police Department,1981,Ohio,4544,OH07609,7,0,7,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Minerva Police Department,1982,Ohio,4550,OH07609,8,0,8,5,4,1,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,2,0,0,0,0,0,0,0,1
 Minerva Police Department,1983,Ohio,4530,OH07609,8,0,8,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,1984,Ohio,4517,OH07609,10,1,9,2,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,1985,Ohio,4513,OH07609,9,1,8,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,1986,Ohio,4561,OH07609,7,0,7,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Minerva Police Department,1987,Ohio,4575,OH07609,8,0,8,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Minerva Police Department,1988,Ohio,4538,OH07609,8,0,8,3,0,3,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Minerva Police Department,1989,Ohio,4542,OH07609,9,1,8,4,4,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Minerva Police Department,1990,Ohio,4318,OH07609,10,2,8,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Minerva Police Department,1991,Ohio,4354,OH07609,8,0,8,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Minerva Police Department,1992,Ohio,4384,OH07609,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,1993,Ohio,4344,OH07609,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,1994,Ohio,4348,OH07609,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Minerva Police Department,1995,Ohio,4350,OH07609,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Minerva Police Department,1996,Ohio,4358,OH07609,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,1997,Ohio,4362,OH07609,9,0,9,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,1998,Ohio,4406,OH07609,9,0,9,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,6 +23,8 @@ Minerva Police Department,1999,Ohio,4596,OH07609,9,0,9,5,5,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,2000,Ohio,3934,OH07609,8,0,8,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,2001,Ohio,3941,OH07609,8,0,8,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,2002,Ohio,3958,OH07609,9,0,9,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Minerva Police Department,2003,Ohio,3950,OH07609,9,0,9,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Minerva Police Department,2004,Ohio,3974,OH07609,9,0,9,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Minerva Police Department,2005,Ohio,3993,OH07609,9,0,9,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,2006,Ohio,3981,OH07609,9,0,9,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Minerva Police Department,2007,Ohio,3967,OH07609,9,0,9,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,5 +33,4 @@ Minerva Police Department,2009,Ohio,3903,OH07609,9,1,8,5,5,0,0,0,2,0,0,2,0,1,0,0
 Minerva Police Department,2010,Ohio,3720,OH07609,8,0,8,5,5,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
 Minerva Police Department,2011,Ohio,3723,OH07609,9,0,9,5,5,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
 Minerva Police Department,2012,Ohio,3715,OH07609,9,0,9,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Minerva Police Department,2014,Ohio,3688,OH07609,9,0,9,5,5,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
 Minerva Police Department,2015,Ohio,3693,OH07609,9,0,9,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

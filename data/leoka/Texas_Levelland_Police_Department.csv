@@ -1,10 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Levelland Police Department,1975,Texas,11878,TX11001,13,0,13,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Levelland Police Department,1976,Texas,12800,TX11001,11,0,11,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Levelland Police Department,1977,Texas,13500,TX11001,13,0,13,6,5,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Levelland Police Department,1978,Texas,14500,TX11001,15,0,15,6,5,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 Levelland Police Department,1979,Texas,12470,TX11001,18,1,17,6,5,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Levelland Police Department,1980,Texas,13885,TX11001,17,0,17,6,5,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Levelland Police Department,1981,Texas,14458,TX11001,18,1,17,7,4,3,0,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,0,0,0,1,0,0,1,0,0,0,0,4
+Levelland Police Department,1982,Texas,14973,TX11001,19,1,18,7,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Levelland Police Department,1983,Texas,15408,TX11001,19,0,19,5,4,1,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Levelland Police Department,1984,Texas,15405,TX11001,19,0,19,7,5,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,1,0,0,0,0,0,1
 Levelland Police Department,1985,Texas,15772,TX11001,20,0,20,7,5,2,0,0,10,0,0,9,1,1,0,0,1,0,11,0,0,10,1,0,0,0,0,0,0,0,11,0,0,0
@@ -20,6 +22,7 @@ Levelland Police Department,1994,Texas,15040,TX11001,19,1,18,7,4,3,0,0,1,0,0,1,0
 Levelland Police Department,1995,Texas,14786,TX11001,19,1,18,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Levelland Police Department,1996,Texas,15105,TX11001,18,1,17,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Levelland Police Department,1997,Texas,15350,TX11001,19,1,18,7,5,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Levelland Police Department,1998,Texas,13931,TX11001,20,2,18,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Levelland Police Department,1999,Texas,13792,TX11001,20,2,18,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Levelland Police Department,2000,Texas,12866,TX11001,20,2,18,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Levelland Police Department,2001,Texas,13158,TX11001,20,2,18,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

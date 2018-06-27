@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Mesquite Police Department,1992,Nevada,2064,NV00209,8,0,8,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Mesquite Police Department,1993,Nevada,2526,NV00209,9,0,9,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mesquite Police Department,1994,Nevada,2649,NV00209,10,0,10,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mesquite Police Department,1995,Nevada,3145,NV00209,14,1,13,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,7 +18,6 @@ Mesquite Police Department,2007,Nevada,15660,NV00209,32,2,30,15,8,7,0,0,0,0,0,0,
 Mesquite Police Department,2008,Nevada,16470,NV00209,34,2,32,15,10,5,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0
 Mesquite Police Department,2009,Nevada,17453,NV00209,32,2,30,25,10,15,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Mesquite Police Department,2010,Nevada,15276,NV00209,32,2,30,23,9,14,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Mesquite Police Department,2011,Nevada,15405,NV00209,19,2,17,14,8,6,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Mesquite Police Department,2012,Nevada,15625,NV00209,28,1,27,22,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mesquite Police Department,2013,Nevada,16321,NV00209,28,0,28,22,10,12,0,0,1,1,0,0,0,1,0,0,1,0,2,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0
 Mesquite Police Department,2014,Nevada,16734,NV00209,29,0,29,19,9,10,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0

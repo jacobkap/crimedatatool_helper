@@ -1,6 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Dayton Pd,1975,Washington,2632,WA00701,5,0,5,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Dayton Pd,1976,Washington,2646,WA00701,5,0,5,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dayton Pd,1977,Washington,2650,WA00701,5,0,5,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dayton Pd,1978,Washington,2650,WA00701,5,0,5,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Dayton Pd,1979,Washington,2857,WA00701,4,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dayton Pd,1980,Washington,2588,WA00701,4,0,4,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dayton Pd,1981,Washington,2650,WA00701,3,0,3,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,3 +19,5 @@ Dayton Pd,1991,Washington,2544,WA00701,4,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dayton Pd,1992,Washington,2603,WA00701,3,0,3,2,2,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dayton Pd,1993,Washington,2474,WA00701,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dayton Pd,1994,Washington,2515,WA00701,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dayton Pd,1995,Washington,2605,WA00701,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dayton Pd,1998,Washington,2618,WA00701,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,5 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Kirkwood Police Department,1975,Missouri,31494,MO09543,51,1,50,11,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kirkwood Police Department,1976,Missouri,31740,MO09543,53,1,52,14,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kirkwood Police Department,1977,Missouri,32127,MO09543,53,3,50,12,8,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kirkwood Police Department,1978,Missouri,32366,MO09543,54,4,50,12,8,4,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
 Kirkwood Police Department,1979,Missouri,31499,MO09543,53,4,49,11,9,2,0,0,4,0,0,4,0,3,0,0,3,0,7,0,0,7,0,0,0,3,3,0,0,0,1,0,0,0
 Kirkwood Police Department,1980,Missouri,27965,MO09543,52,3,49,11,7,4,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
@@ -7,9 +9,11 @@ Kirkwood Police Department,1981,Missouri,28175,MO09543,53,4,49,12,8,4,0,0,0,0,0,
 Kirkwood Police Department,1982,Missouri,28249,MO09543,52,4,48,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kirkwood Police Department,1983,Missouri,28357,MO09543,52,4,48,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kirkwood Police Department,1984,Missouri,28170,MO09543,49,4,45,12,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kirkwood Police Department,1985,Missouri,28289,MO09543,49,4,45,12,9,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kirkwood Police Department,1986,Missouri,28316,MO09543,50,3,47,11,9,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Kirkwood Police Department,1987,Missouri,27630,MO09543,46,2,44,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kirkwood Police Department,1988,Missouri,27765,MO09543,49,2,47,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kirkwood Police Department,1989,Missouri,27272,MO09543,50,2,48,14,11,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kirkwood Police Department,1990,Missouri,27291,MO09543,49,2,47,14,12,2,0,0,2,0,0,1,1,1,0,0,1,0,3,0,0,2,1,0,0,2,0,0,0,0,0,0,1,0
 Kirkwood Police Department,1991,Missouri,27509,MO09543,49,1,48,13,11,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0
 Kirkwood Police Department,1992,Missouri,27695,MO09543,55,3,52,14,12,2,0,0,1,0,0,1,0,1,0,0,10,0,2,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0
@@ -33,6 +37,5 @@ Kirkwood Police Department,2009,Missouri,26698,MO09543,55,5,50,10,9,1,0,0,0,0,0,
 Kirkwood Police Department,2010,Missouri,27540,MO09543,59,7,52,12,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kirkwood Police Department,2011,Missouri,27640,MO09543,58,5,53,11,10,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Kirkwood Police Department,2012,Missouri,27586,MO09543,57,5,52,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kirkwood Police Department,2013,Missouri,27557,MO09543,55,5,50,13,12,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Kirkwood Police Department,2014,Missouri,27610,MO09543,59,5,54,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kirkwood Police Department,2015,Missouri,27690,MO09543,61,5,56,17,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

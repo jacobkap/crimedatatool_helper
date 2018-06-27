@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Gulfport Police Department,1975,Florida,11877,FL05205,23,0,23,6,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Gulfport Police Department,1976,Florida,11885,FL05205,20,0,20,6,1,5,0,0,2,0,0,0,2,1,0,0,0,1,3,0,0,0,3,1,0,0,0,0,1,0,0,0,1,0
 Gulfport Police Department,1977,Florida,11732,FL05205,18,0,18,6,1,5,0,0,4,0,0,4,0,8,0,0,7,1,12,0,0,11,1,0,0,0,0,0,6,0,5,0,0,1
 Gulfport Police Department,1978,Florida,11712,FL05205,19,0,19,6,1,5,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,2,0,0,2,0,1,0,0,0
@@ -11,12 +12,16 @@ Gulfport Police Department,1984,Florida,11948,FL05205,22,2,20,6,2,4,0,0,1,0,0,0,
 Gulfport Police Department,1985,Florida,12373,FL05205,22,2,20,6,1,5,0,0,2,1,0,0,1,3,0,0,2,1,5,1,0,2,2,0,0,0,1,0,2,0,2,0,0,0
 Gulfport Police Department,1986,Florida,12485,FL05205,23,2,21,7,2,5,0,0,1,0,0,1,0,3,0,0,2,1,4,0,0,3,1,1,0,1,0,0,0,0,2,0,0,0
 Gulfport Police Department,1987,Florida,11863,FL05205,22,1,21,8,3,5,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,1,1,0,1,0,0,0
+Gulfport Police Department,1988,Florida,11978,FL05205,23,2,21,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gulfport Police Department,1989,Florida,11700,FL05205,23,1,22,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Gulfport Police Department,1990,Florida,11727,FL05205,21,0,21,6,3,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Gulfport Police Department,1991,Florida,12034,FL05205,24,0,24,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gulfport Police Department,1992,Florida,12225,FL05205,28,1,27,8,3,5,0,0,0,0,0,0,0,3,0,0,10,2,3,0,0,1,2,0,0,3,0,0,0,0,0,0,0,0
 Gulfport Police Department,1993,Florida,11588,FL05205,27,1,26,7,3,4,0,0,1,0,0,1,0,3,1,0,2,0,4,1,0,3,0,1,0,0,0,0,1,0,0,0,0,2
 Gulfport Police Department,1994,Florida,11820,FL05205,25,2,23,7,2,5,0,0,4,2,0,1,1,8,0,0,6,2,12,2,0,7,3,2,0,1,0,0,1,0,6,0,0,2
 Gulfport Police Department,1995,Florida,11795,FL05205,29,3,26,9,3,6,0,0,4,0,0,4,0,9,0,0,8,1,13,0,0,12,1,0,0,3,0,0,5,0,1,0,3,1
+Gulfport Police Department,1996,Florida,11989,FL05205,30,3,27,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gulfport Police Department,1997,Florida,12200,FL05205,30,3,27,8,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Gulfport Police Department,1998,Florida,11791,FL05205,30,3,27,10,6,4,0,0,0,0,0,0,0,8,0,0,8,0,8,0,0,8,0,0,0,2,0,0,1,0,5,0,0,0
 Gulfport Police Department,1999,Florida,11700,FL05205,31,2,29,8,5,3,0,0,1,0,0,1,0,6,0,0,6,0,7,0,0,7,0,0,0,0,0,0,2,0,1,0,4,0
 Gulfport Police Department,2000,Florida,12527,FL05205,27,1,26,10,6,4,0,0,3,0,0,3,0,4,0,0,4,0,7,0,0,7,0,1,0,3,0,0,0,0,2,0,1,0
@@ -32,6 +37,3 @@ Gulfport Police Department,2009,Florida,12286,FL05205,28,5,23,9,5,4,0,0,2,0,0,2,
 Gulfport Police Department,2010,Florida,12029,FL05205,29,6,23,9,5,4,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
 Gulfport Police Department,2011,Florida,12193,FL05205,29,6,23,8,5,3,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0
 Gulfport Police Department,2012,Florida,12205,FL05205,30,7,23,4,0,4,0,0,0,0,0,0,0,9,0,0,7,2,9,0,0,7,2,1,0,3,0,0,3,0,1,0,0,1
-Gulfport Police Department,2013,Florida,12081,FL05205,30,3,27,10,6,4,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,1,0,2,0,0,0,0,1,0,0,0
-Gulfport Police Department,2014,Florida,12199,FL05205,30,3,27,10,6,4,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,4,0,0,1,0,0,0,0,0
-Gulfport Police Department,2015,Florida,12242,FL05205,30,3,27,10,6,4,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,0,0,3,0,0,0,0,1,0,2,0

@@ -1,8 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Bowling Green Police Division,1975,Ohio,23426,OH08701,24,0,24,9,0,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bowling Green Police Division,1976,Ohio,23000,OH08701,26,0,26,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bowling Green Police Division,1977,Ohio,26000,OH08701,23,0,23,8,0,8,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Bowling Green Police Division,1978,Ohio,25042,OH08701,21,0,21,9,8,1,0,0,1,0,0,1,0,1,0,1,0,0,2,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0
 Bowling Green Police Division,1979,Ohio,25354,OH08701,24,1,23,9,9,0,0,0,0,0,0,0,0,5,0,0,3,2,5,0,0,3,2,0,0,2,0,0,0,1,1,0,0,1
+Bowling Green Police Division,1980,Ohio,25745,OH08701,24,1,23,9,9,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bowling Green Police Division,1981,Ohio,25767,OH08701,28,1,27,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bowling Green Police Division,1982,Ohio,25803,OH08701,31,2,29,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bowling Green Police Division,1983,Ohio,25695,OH08701,31,2,29,9,9,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,0,0,1,0,2,0
 Bowling Green Police Division,1984,Ohio,25264,OH08701,30,2,28,8,8,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -12,6 +15,7 @@ Bowling Green Police Division,1987,Ohio,24581,OH08701,32,1,31,10,9,1,0,0,1,0,0,1
 Bowling Green Police Division,1988,Ohio,25023,OH08701,29,2,27,10,10,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Bowling Green Police Division,1989,Ohio,25041,OH08701,30,2,28,10,10,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Bowling Green Police Division,1990,Ohio,28176,OH08701,31,2,29,10,1,9,0,0,1,0,0,1,0,3,0,0,0,3,4,0,0,1,3,0,0,1,0,2,0,0,1,0,0,0
+Bowling Green Police Division,1991,Ohio,28414,OH08701,30,3,27,11,10,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bowling Green Police Division,1992,Ohio,28614,OH08701,27,2,25,14,12,2,0,0,2,0,0,2,0,0,0,0,9,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Bowling Green Police Division,1993,Ohio,27607,OH08701,28,2,26,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bowling Green Police Division,1994,Ohio,27634,OH08701,31,2,29,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -26,3 +30,13 @@ Bowling Green Police Division,2002,Ohio,29814,OH08701,43,2,41,14,11,3,0,0,0,0,0,
 Bowling Green Police Division,2003,Ohio,29520,OH08701,42,2,40,15,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bowling Green Police Division,2004,Ohio,29442,OH08701,41,2,39,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bowling Green Police Division,2005,Ohio,29467,OH08701,43,2,41,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bowling Green Police Division,2006,Ohio,29829,OH08701,42,2,40,15,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bowling Green Police Division,2007,Ohio,29733,OH08701,43,2,41,15,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bowling Green Police Division,2008,Ohio,29919,OH08701,43,2,41,15,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bowling Green Police Division,2009,Ohio,29536,OH08701,43,2,41,15,13,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bowling Green Police Division,2010,Ohio,30028,OH08701,43,2,41,15,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bowling Green Police Division,2011,Ohio,30050,OH08701,41,2,39,15,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bowling Green Police Division,2012,Ohio,30219,OH08701,39,2,37,15,11,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bowling Green Police Division,2013,Ohio,31844,OH08701,41,2,39,14,10,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bowling Green Police Division,2014,Ohio,32145,OH08701,41,2,39,15,11,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bowling Green Police Division,2015,Ohio,31878,OH08701,39,2,37,15,10,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,

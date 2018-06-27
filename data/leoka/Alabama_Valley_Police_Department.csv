@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Valley Police Department,1981,Alabama,8540,AL01204,15,0,15,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Valley Police Department,1982,Alabama,8720,AL01204,17,0,17,5,5,0,0,0,4,0,0,4,0,4,1,0,3,0,8,1,0,7,0,0,0,4,0,0,0,1,1,0,0,2
 Valley Police Department,1983,Alabama,8755,AL01204,18,0,18,5,5,0,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,0,0,0,3,0,0,0,1,1
 Valley Police Department,1984,Alabama,9228,AL01204,17,0,17,4,4,0,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0
@@ -7,17 +8,21 @@ Valley Police Department,1986,Alabama,9301,AL01204,18,1,17,5,4,1,0,0,0,0,0,0,0,0
 Valley Police Department,1987,Alabama,9149,AL01204,18,1,17,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Valley Police Department,1988,Alabama,9154,AL01204,16,1,15,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Valley Police Department,1989,Alabama,9090,AL01204,20,2,18,5,5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Valley Police Department,1990,Alabama,8173,AL01204,21,1,20,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Valley Police Department,1991,Alabama,8270,AL01204,22,1,21,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Valley Police Department,1992,Alabama,8365,AL01204,21,1,20,7,7,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Valley Police Department,1993,Alabama,8208,AL01204,22,1,21,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Valley Police Department,1994,Alabama,8270,AL01204,22,1,21,7,7,0,0,0,3,1,1,1,0,0,0,0,0,0,3,1,1,1,0,0,0,0,0,0,0,0,2,0,1,0
 Valley Police Department,1995,Alabama,8321,AL01204,21,1,20,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Valley Police Department,1996,Alabama,8360,AL01204,20,1,19,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Valley Police Department,1997,Alabama,8450,AL01204,21,1,20,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Valley Police Department,1998,Alabama,9324,AL01204,22,2,20,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Valley Police Department,1999,Alabama,9320,AL01204,22,2,20,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Valley Police Department,2000,Alabama,9198,AL01204,23,1,22,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Valley Police Department,2001,Alabama,9234,AL01204,26,2,24,9,9,0,0,0,2,0,0,1,1,2,0,0,2,0,4,0,0,3,1,1,0,0,1,0,1,0,1,0,0,0
 Valley Police Department,2002,Alabama,9279,AL01204,27,2,25,9,9,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Valley Police Department,2003,Alabama,9057,AL01204,26,2,24,8,2,6,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Valley Police Department,2005,Alabama,8917,AL01204,22,2,20,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Valley Police Department,2006,Alabama,9081,AL01204,22,2,20,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Valley Police Department,2004,Alabama,8946,AL01204,28,3,25,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Valley Police Department,2007,Alabama,8871,AL01204,23,3,20,11,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Valley Police Department,2008,Alabama,8774,AL01204,27,3,24,10,8,2,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0
 Valley Police Department,2009,Alabama,10017,AL01204,30,3,27,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,3 +30,5 @@ Valley Police Department,2010,Alabama,9524,AL01204,28,3,25,10,7,3,0,0,0,0,0,0,0,
 Valley Police Department,2011,Alabama,9570,AL01204,24,3,21,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Valley Police Department,2012,Alabama,9486,AL01204,25,2,23,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Valley Police Department,2013,Alabama,9468,AL01204,28,2,26,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Valley Police Department,2014,Alabama,9508,AL01204,27,2,25,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Valley Police Department,2015,Alabama,9451,AL01204,28,2,26,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

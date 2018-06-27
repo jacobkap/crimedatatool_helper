@@ -1,9 +1,16 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Mason Police Department,1975,Ohio,5620,OH08304,9,0,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,1976,Ohio,5578,OH08304,9,0,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Mason Police Department,1977,Ohio,7204,OH08304,10,0,10,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Mason Police Department,1978,Ohio,6801,OH08304,11,1,10,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Mason Police Department,1979,Ohio,7015,OH08304,11,1,10,1,1,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
+Mason Police Department,1980,Ohio,8696,OH08304,12,1,11,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,1981,Ohio,8703,OH08304,12,1,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,1982,Ohio,8716,OH08304,12,1,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Mason Police Department,1983,Ohio,8679,OH08304,14,1,13,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Mason Police Department,1984,Ohio,9532,OH08304,14,1,13,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
 Mason Police Department,1985,Ohio,9525,OH08304,13,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mason Police Department,1986,Ohio,10169,OH08304,15,0,15,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Mason Police Department,1987,Ohio,10199,OH08304,14,0,14,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mason Police Department,1988,Ohio,10759,OH08304,15,0,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mason Police Department,1989,Ohio,12501,OH08304,16,0,16,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
@@ -21,3 +28,15 @@ Mason Police Department,2000,Ohio,22016,OH08304,31,3,28,2,2,0,0,0,0,0,0,0,0,0,0,
 Mason Police Department,2001,Ohio,22056,OH08304,32,3,29,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mason Police Department,2002,Ohio,22148,OH08304,32,3,29,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mason Police Department,2003,Ohio,25689,OH08304,36,3,33,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mason Police Department,2004,Ohio,27363,OH08304,35,3,32,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2005,Ohio,27970,OH08304,37,3,34,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2006,Ohio,28882,OH08304,39,3,36,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2007,Ohio,30640,OH08304,41,3,38,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2008,Ohio,30582,OH08304,43,4,39,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2009,Ohio,30624,OH08304,42,4,38,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2010,Ohio,30712,OH08304,43,4,39,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2011,Ohio,30734,OH08304,41,4,37,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2012,Ohio,31037,OH08304,39,4,35,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2013,Ohio,31204,OH08304,41,4,37,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2014,Ohio,31416,OH08304,42,4,38,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mason Police Department,2015,Ohio,31793,OH08304,42,4,38,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,17 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Presque Isle State Park Pd Presque Isle,1975,Pennsylvania,0,PA02513,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Presque Isle State Park Pd Presque Isle,1976,Pennsylvania,0,PA02513,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,1977,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,1978,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,1979,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Presque Isle State Park Pd Presque Isle,1980,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Presque Isle State Park Pd Presque Isle,1981,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Presque Isle State Park Pd Presque Isle,1982,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Presque Isle State Park Pd Presque Isle,1983,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Presque Isle State Park Pd Presque Isle,1984,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Presque Isle State Park Pd Presque Isle,1985,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Presque Isle State Park Pd Presque Isle,1986,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Presque Isle State Park Pd Presque Isle,1987,Pennsylvania,0,PA02513,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,1988,Pennsylvania,0,PA02513,8,1,7,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,1989,Pennsylvania,0,PA02513,8,1,7,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,1990,Pennsylvania,0,PA02513,8,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -19,6 +10,7 @@ Presque Isle State Park Pd Presque Isle,1991,Pennsylvania,0,PA02513,9,1,8,0,0,0,
 Presque Isle State Park Pd Presque Isle,1992,Pennsylvania,0,PA02513,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,1993,Pennsylvania,0,PA02513,8,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,1994,Pennsylvania,0,PA02513,8,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Presque Isle State Park Pd Presque Isle,1995,Pennsylvania,0,PA02513,8,1,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Presque Isle State Park Pd Presque Isle,1996,Pennsylvania,0,PA02513,8,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,1997,Pennsylvania,0,PA02513,9,1,8,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,1998,Pennsylvania,0,PA02513,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,6 +20,8 @@ Presque Isle State Park Pd Presque Isle,2001,Pennsylvania,0,PA02513,9,3,6,0,0,0,
 Presque Isle State Park Pd Presque Isle,2002,Pennsylvania,0,PA02513,10,3,7,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Presque Isle State Park Pd Presque Isle,2003,Pennsylvania,0,PA02513,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,2004,Pennsylvania,0,PA02513,7,3,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Presque Isle State Park Pd Presque Isle,2009,Pennsylvania,0,PA02513,5,1,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Presque Isle State Park Pd Presque Isle,2011,Pennsylvania,0,PA02513,4,1,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Presque Isle State Park Pd Presque Isle,2012,Pennsylvania,0,PA02513,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,2013,Pennsylvania,0,PA02513,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Presque Isle State Park Pd Presque Isle,2014,Pennsylvania,0,PA02513,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

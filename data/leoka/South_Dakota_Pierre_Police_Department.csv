@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Pierre Police Department,1975,South Dakota,10088,SD03201,23,2,21,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pierre Police Department,1976,South Dakota,10648,SD03201,20,1,19,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pierre Police Department,1977,South Dakota,11999,SD03201,19,0,19,7,4,3,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,0,0,0,0,0,1,0,2,0,0,1
 Pierre Police Department,1978,South Dakota,14500,SD03201,20,0,20,7,4,3,0,0,0,0,0,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0
 Pierre Police Department,1979,South Dakota,11961,SD03201,20,0,20,6,3,3,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
@@ -10,11 +11,17 @@ Pierre Police Department,1983,South Dakota,12170,SD03201,19,0,19,3,2,1,0,0,2,0,0
 Pierre Police Department,1984,South Dakota,12357,SD03201,19,0,19,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierre Police Department,1985,South Dakota,12388,SD03201,19,0,19,3,2,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Pierre Police Department,1986,South Dakota,12441,SD03201,19,0,19,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Pierre Police Department,1987,South Dakota,12632,SD03201,19,0,19,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pierre Police Department,1988,South Dakota,12792,SD03201,19,0,19,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pierre Police Department,1989,South Dakota,12924,SD03201,22,0,22,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pierre Police Department,1990,South Dakota,12906,SD03201,21,0,21,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pierre Police Department,1991,South Dakota,13035,SD03201,23,0,23,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pierre Police Department,1992,South Dakota,13183,SD03201,22,0,22,5,2,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierre Police Department,1993,South Dakota,13371,SD03201,22,0,22,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierre Police Department,1994,South Dakota,13483,SD03201,20,0,20,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierre Police Department,1995,South Dakota,13738,SD03201,21,0,21,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierre Police Department,1996,South Dakota,13794,SD03201,21,0,21,9,4,5,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Pierre Police Department,1997,South Dakota,13907,SD03201,21,0,21,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pierre Police Department,1998,South Dakota,13328,SD03201,21,0,21,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierre Police Department,1999,South Dakota,13176,SD03201,19,0,19,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierre Police Department,2000,South Dakota,13876,SD03201,23,0,23,10,6,4,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
@@ -22,6 +29,7 @@ Pierre Police Department,2001,South Dakota,13908,SD03201,23,0,23,11,6,5,0,0,0,0,
 Pierre Police Department,2002,South Dakota,13990,SD03201,24,1,23,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierre Police Department,2003,South Dakota,14072,SD03201,23,1,22,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierre Police Department,2004,South Dakota,14059,SD03201,23,1,22,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pierre Police Department,2005,South Dakota,14075,SD03201,24,1,23,12,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pierre Police Department,2006,South Dakota,14160,SD03201,23,1,22,11,7,4,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0
 Pierre Police Department,2007,South Dakota,14124,SD03201,25,1,24,13,11,2,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0
 Pierre Police Department,2008,South Dakota,14051,SD03201,25,1,24,12,10,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0

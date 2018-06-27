@@ -1,8 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Harris County Sheriff's Office,1975,Texas,305589,TX10100,561,30,531,97,62,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Harris County Sheriff's Office,1976,Texas,376416,TX10100,573,42,531,92,55,37,0,0,29,1,4,18,6,87,6,0,76,5,116,7,4,94,11,6,0,6,4,0,51,2,24,0,6,17
 Harris County Sheriff's Office,1977,Texas,415371,TX10100,605,41,564,118,75,43,0,0,7,1,0,6,0,81,9,2,63,7,88,10,2,69,7,4,0,36,1,0,13,0,3,1,9,21
 Harris County Sheriff's Office,1978,Texas,275492,TX10100,623,49,574,125,86,39,1,0,2,0,0,2,0,82,7,2,64,9,84,7,2,66,9,5,0,25,2,0,11,0,5,0,18,18
-Harris County Sheriff's Office,1979,Texas,303012,TX10100,605,41,564,118,75,43,0,0,21,4,2,14,1,16,4,1,7,4,37,8,3,21,5,2,0,6,2,0,11,0,6,0,5,5
 Harris County Sheriff's Office,1980,Texas,523049,TX10100,697,74,623,148,101,47,0,0,31,5,0,22,4,17,2,0,14,1,48,7,0,36,5,4,0,8,0,1,9,0,18,2,1,5
 Harris County Sheriff's Office,1981,Texas,533356,TX10100,706,81,625,161,115,46,0,0,3,0,1,2,0,35,4,1,28,2,38,4,2,30,2,4,0,8,1,0,12,1,9,0,2,1
 Harris County Sheriff's Office,1982,Texas,551830,TX10100,735,86,649,244,125,119,0,0,15,0,0,14,1,62,14,1,40,7,77,14,1,54,8,11,0,13,2,3,16,0,14,0,14,4
@@ -37,4 +37,3 @@ Harris County Sheriff's Office,2010,Texas,1564041,TX10100,2307,313,1994,1509,905
 Harris County Sheriff's Office,2011,Texas,1596952,TX10100,2212,301,1911,1493,847,646,1,0,75,1,0,70,4,172,8,1,155,8,247,9,1,225,12,27,1,71,1,0,67,0,43,1,28,8
 Harris County Sheriff's Office,2012,Texas,1622053,TX10100,2139,289,1850,1716,583,1133,0,0,79,1,0,73,5,163,17,1,128,17,242,18,1,201,22,73,3,45,2,0,50,1,41,5,15,7
 Harris County Sheriff's Office,2013,Texas,1697008,TX10100,2144,307,1837,1842,1063,779,0,0,66,0,1,61,4,182,10,7,154,11,248,10,8,215,15,84,3,48,1,0,49,9,30,4,13,7
-Harris County Sheriff's Office,2014,Texas,1757557,TX10100,2540,365,2175,845,561,284,1,0,65,1,1,55,8,154,17,1,121,15,219,18,2,176,23,88,5,26,0,0,55,5,20,4,1,15

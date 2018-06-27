@@ -1,10 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+New Hanover County Sheriff's Office,1975,North Carolina,39445,NC06500,82,11,71,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Hanover County Sheriff's Office,1976,North Carolina,37979,NC06500,87,11,76,0,0,0,0,0,1,0,0,1,0,8,1,0,7,0,9,1,0,8,0,1,0,4,0,0,1,0,2,0,1,0
 New Hanover County Sheriff's Office,1977,North Carolina,39522,NC06500,91,11,80,2,1,1,0,0,0,0,0,0,0,4,2,0,2,0,4,2,0,2,0,1,0,1,0,0,1,0,0,0,0,1
 New Hanover County Sheriff's Office,1978,North Carolina,39557,NC06500,91,12,79,0,0,0,0,0,2,1,0,0,1,3,0,0,3,0,5,1,0,3,1,0,0,1,0,0,4,0,0,0,0,0
 New Hanover County Sheriff's Office,1979,North Carolina,37902,NC06500,86,7,79,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Hanover County Sheriff's Office,1980,North Carolina,53781,NC06500,96,13,83,8,7,1,0,0,0,0,0,0,0,11,0,0,10,1,11,0,0,10,1,0,0,0,0,0,0,0,9,0,2,0
 New Hanover County Sheriff's Office,1981,North Carolina,54768,NC06500,92,13,79,14,13,1,0,0,0,0,0,0,0,27,6,0,18,3,27,6,0,18,3,2,0,4,5,0,2,0,8,0,4,2
+New Hanover County Sheriff's Office,1982,North Carolina,55395,NC06500,92,15,77,23,20,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Hanover County Sheriff's Office,1983,North Carolina,55974,NC06500,100,19,81,25,22,3,0,0,1,0,0,1,0,20,0,0,20,0,21,0,0,21,0,5,0,0,0,0,2,0,5,0,2,7
 New Hanover County Sheriff's Office,1984,North Carolina,58185,NC06500,99,16,83,25,22,3,0,0,0,0,0,0,0,21,0,0,21,0,21,0,0,21,0,2,0,7,0,0,3,0,4,0,0,5
 New Hanover County Sheriff's Office,1985,North Carolina,59491,NC06500,106,20,86,29,23,6,0,0,1,0,0,1,0,10,0,0,10,0,11,0,0,11,0,0,0,2,0,0,5,0,2,0,0,2
@@ -24,6 +26,7 @@ New Hanover County Sheriff's Office,1998,North Carolina,77328,NC06500,206,33,173
 New Hanover County Sheriff's Office,1999,North Carolina,75316,NC06500,213,37,176,73,70,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 New Hanover County Sheriff's Office,2000,North Carolina,75668,NC06500,223,39,184,78,68,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Hanover County Sheriff's Office,2001,North Carolina,76956,NC06500,223,39,184,78,68,10,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+New Hanover County Sheriff's Office,2002,North Carolina,78214,NC06500,233,35,198,29,26,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Hanover County Sheriff's Office,2003,North Carolina,66377,NC06500,263,40,223,47,33,14,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 New Hanover County Sheriff's Office,2004,North Carolina,68540,NC06500,253,40,213,49,32,17,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0
 New Hanover County Sheriff's Office,2005,North Carolina,71684,NC06500,278,51,227,89,43,46,0,0,0,0,0,0,0,8,0,0,8,0,8,0,0,8,0,7,0,0,0,0,0,0,1,0,0,0
@@ -31,6 +34,7 @@ New Hanover County Sheriff's Office,2006,North Carolina,75427,NC06500,265,45,220
 New Hanover County Sheriff's Office,2007,North Carolina,80270,NC06500,275,49,226,116,56,60,0,0,0,0,0,0,0,26,0,1,24,1,26,0,1,24,1,7,0,1,0,0,13,0,4,0,1,0
 New Hanover County Sheriff's Office,2008,North Carolina,82757,NC06500,290,49,241,92,54,38,0,0,0,0,0,0,0,15,2,0,13,0,15,2,0,13,0,3,0,0,0,0,8,0,1,0,3,0
 New Hanover County Sheriff's Office,2009,North Carolina,84037,NC06500,287,50,237,99,55,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New Hanover County Sheriff's Office,2010,North Carolina,85996,NC06500,293,48,245,93,56,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Hanover County Sheriff's Office,2011,North Carolina,87087,NC06500,307,56,251,97,54,43,0,0,0,0,0,0,0,20,1,0,19,0,20,1,0,19,0,17,0,1,0,1,0,0,1,0,0,0
 New Hanover County Sheriff's Office,2012,North Carolina,88381,NC06500,325,61,264,107,66,41,0,0,0,0,0,0,0,13,0,0,13,0,13,0,0,13,0,1,0,0,0,0,4,0,8,0,0,0
 New Hanover County Sheriff's Office,2013,North Carolina,90338,NC06500,337,63,274,118,72,46,0,0,1,0,0,0,1,9,1,0,8,0,10,1,0,8,1,1,0,1,0,0,1,0,4,0,3,0

@@ -2,6 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Boonville Police Department,1975,Missouri,7639,MO02701,12,0,12,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,1976,Missouri,7670,MO02701,12,0,12,5,5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Boonville Police Department,1977,Missouri,7912,MO02701,13,0,13,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boonville Police Department,1978,Missouri,7469,MO02701,15,0,15,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Boonville Police Department,1979,Missouri,7407,MO02701,15,0,15,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,1980,Missouri,6932,MO02701,13,0,13,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,1981,Missouri,6984,MO02701,13,0,13,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -9,9 +10,11 @@ Boonville Police Department,1982,Missouri,7002,MO02701,13,0,13,5,5,0,0,0,2,0,0,2
 Boonville Police Department,1983,Missouri,7028,MO02701,13,0,13,5,5,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0
 Boonville Police Department,1984,Missouri,7044,MO02701,12,0,12,5,0,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,1985,Missouri,7074,MO02701,13,0,13,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boonville Police Department,1986,Missouri,6979,MO02701,12,0,12,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Boonville Police Department,1987,Missouri,7363,MO02701,14,0,14,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,1988,Missouri,7410,MO02701,14,0,14,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,1989,Missouri,7074,MO02701,14,0,14,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Boonville Police Department,1990,Missouri,7095,MO02701,14,1,13,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Boonville Police Department,1991,Missouri,7151,MO02701,13,1,12,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,1992,Missouri,7199,MO02701,14,1,13,5,5,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,1993,Missouri,7230,MO02701,14,1,13,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -22,6 +25,7 @@ Boonville Police Department,1997,Missouri,7738,MO02701,17,1,16,11,10,1,0,0,0,0,0
 Boonville Police Department,1998,Missouri,7679,MO02701,18,1,17,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,1999,Missouri,7635,MO02701,20,2,18,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,2000,Missouri,8202,MO02701,19,2,17,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boonville Police Department,2001,Missouri,8253,MO02701,20,2,18,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Boonville Police Department,2002,Missouri,8316,MO02701,20,1,19,7,6,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Boonville Police Department,2003,Missouri,8485,MO02701,21,1,20,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Police Department,2004,Missouri,8473,MO02701,21,1,20,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,10 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Cheboygan County Sheriff's Office,1975,Michigan,10273,MI16116,13,2,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cheboygan County Sheriff's Office,1976,Michigan,10191,MI16116,12,1,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Cheboygan County Sheriff's Office,1977,Michigan,10169,MI16116,28,2,26,5,2,3,0,0,4,0,0,4,0,2,0,0,2,0,6,0,0,6,0,0,0,3,0,0,3,0,0,0,0,0
 Cheboygan County Sheriff's Office,1978,Michigan,11210,MI16116,24,0,24,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheboygan County Sheriff's Office,1979,Michigan,11795,MI16116,29,0,29,7,5,2,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 Cheboygan County Sheriff's Office,1980,Michigan,13175,MI16116,21,0,21,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheboygan County Sheriff's Office,1981,Michigan,13136,MI16116,22,2,20,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cheboygan County Sheriff's Office,1982,Michigan,13005,MI16116,17,0,17,9,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheboygan County Sheriff's Office,1983,Michigan,12947,MI16116,23,2,21,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Cheboygan County Sheriff's Office,1984,Michigan,13242,MI16116,17,0,17,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheboygan County Sheriff's Office,1985,Michigan,13426,MI16116,15,0,15,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheboygan County Sheriff's Office,1986,Michigan,13242,MI16116,15,1,14,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,6 +20,7 @@ Cheboygan County Sheriff's Office,1992,Michigan,13891,MI16116,13,0,13,12,6,6,0,0
 Cheboygan County Sheriff's Office,1993,Michigan,14330,MI16116,13,0,13,12,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheboygan County Sheriff's Office,1994,Michigan,14357,MI16116,13,0,13,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheboygan County Sheriff's Office,1995,Michigan,14481,MI16116,14,0,14,12,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cheboygan County Sheriff's Office,1996,Michigan,14549,MI16116,14,0,14,12,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Cheboygan County Sheriff's Office,1997,Michigan,14821,MI16116,15,0,15,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheboygan County Sheriff's Office,1998,Michigan,15285,MI16116,15,0,15,20,8,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheboygan County Sheriff's Office,1999,Michigan,15414,MI16116,16,1,15,21,11,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,6 +37,5 @@ Cheboygan County Sheriff's Office,2009,Michigan,18009,MI16116,17,1,16,18,8,10,0,
 Cheboygan County Sheriff's Office,2010,Michigan,17947,MI16116,18,1,17,18,8,10,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0
 Cheboygan County Sheriff's Office,2011,Michigan,17933,MI16116,18,1,17,17,8,9,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Cheboygan County Sheriff's Office,2012,Michigan,17796,MI16116,20,1,19,17,8,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheboygan County Sheriff's Office,2013,Michigan,17694,MI16116,15,0,15,20,8,12,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Cheboygan County Sheriff's Office,2014,Michigan,17603,MI16116,20,1,19,17,8,9,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Cheboygan County Sheriff's Office,2015,Michigan,17550,MI16116,19,1,18,17,8,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

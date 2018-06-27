@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+New London Police,1977,New Hampshire,2287,NH00738,4,0,4,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New London Police,1978,New Hampshire,2921,NH00738,4,0,4,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 New London Police,1979,New Hampshire,3066,NH00738,4,0,4,3,3,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 New London Police,1980,New Hampshire,2893,NH00738,4,0,4,3,2,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
@@ -14,6 +15,16 @@ New London Police,1989,New Hampshire,2968,NH00738,5,0,5,4,3,1,0,0,0,0,0,0,0,0,0,
 New London Police,1990,New Hampshire,3180,NH00738,6,0,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New London Police,1991,New Hampshire,3167,NH00738,6,0,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New London Police,1992,New Hampshire,3184,NH00738,6,0,6,4,3,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New London Police,1993,New Hampshire,3212,NH00738,6,0,6,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New London Police,1994,New Hampshire,3246,NH00738,6,0,6,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New London Police,1995,New Hampshire,3277,NH00738,6,0,6,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New London Police,1996,New Hampshire,3316,NH00738,6,0,6,5,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New London Police,1997,New Hampshire,3347,NH00738,6,0,6,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New London Police,1998,New Hampshire,3607,NH00738,7,0,7,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New London Police,1999,New Hampshire,3718,NH00738,6,0,6,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New London Police,2000,New Hampshire,4116,NH00738,7,0,7,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New London Police,2006,New Hampshire,4480,NH00738,8,1,7,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New London Police,2007,New Hampshire,4510,NH00738,8,1,7,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New London Police,2008,New Hampshire,4524,NH00738,8,1,7,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New London Police,2009,New Hampshire,4509,NH00738,8,1,7,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New London Police,2010,New Hampshire,4397,NH00738,8,1,7,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Benewah County Sheriff's Office,1975,Idaho,7089,ID00500,12,3,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Benewah County Sheriff's Office,1976,Idaho,7021,ID00500,13,3,10,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Benewah County Sheriff's Office,1977,Idaho,8200,ID00500,14,3,11,0,0,0,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,0,0,0,0,0,3,0,1,0
 Benewah County Sheriff's Office,1978,Idaho,7464,ID00500,13,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Benewah County Sheriff's Office,1979,Idaho,4516,ID00500,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -14,9 +15,12 @@ Benewah County Sheriff's Office,1987,Idaho,5973,ID00500,11,5,6,0,0,0,0,0,0,0,0,0
 Benewah County Sheriff's Office,1988,Idaho,8503,ID00500,15,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Benewah County Sheriff's Office,1989,Idaho,8494,ID00500,15,5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Benewah County Sheriff's Office,1990,Idaho,7937,ID00500,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Benewah County Sheriff's Office,1991,Idaho,5671,ID00500,12,6,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Benewah County Sheriff's Office,1992,Idaho,5823,ID00500,12,5,7,0,0,0,0,0,0,0,0,0,0,2,0,0,11,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+Benewah County Sheriff's Office,1993,Idaho,5606,ID00500,14,7,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Benewah County Sheriff's Office,1994,Idaho,5779,ID00500,14,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Benewah County Sheriff's Office,1995,Idaho,5799,ID00500,14,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Benewah County Sheriff's Office,1996,Idaho,5928,ID00500,17,7,10,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Benewah County Sheriff's Office,1997,Idaho,6032,ID00500,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Benewah County Sheriff's Office,1998,Idaho,6412,ID00500,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Benewah County Sheriff's Office,1999,Idaho,6577,ID00500,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

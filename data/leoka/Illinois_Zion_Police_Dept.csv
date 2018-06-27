@@ -1,6 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Zion Police Dept,1975,Illinois,17511,IL04923,36,0,36,12,6,6,0,0,7,0,0,7,0,14,1,0,13,0,21,1,0,20,0,3,0,2,3,0,1,0,6,0,3,3
+Zion Police Dept,1976,Illinois,17736,IL04923,36,0,36,17,9,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Zion Police Dept,1977,Illinois,17160,IL04923,35,0,35,23,10,13,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0
+Zion Police Dept,1978,Illinois,17621,IL04923,37,0,37,21,11,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Zion Police Dept,1979,Illinois,18402,IL04923,38,0,38,20,11,9,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Zion Police Dept,1980,Illinois,17783,IL04923,38,1,37,18,12,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Zion Police Dept,1981,Illinois,17940,IL04923,36,0,36,13,6,7,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
@@ -15,3 +17,24 @@ Zion Police Dept,1989,Illinois,19038,IL04923,37,1,36,16,8,8,0,0,0,0,0,0,0,0,0,0,
 Zion Police Dept,1990,Illinois,19775,IL04923,38,2,36,17,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Zion Police Dept,1991,Illinois,19969,IL04923,36,1,35,18,10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Zion Police Dept,1992,Illinois,20121,IL04923,41,2,39,19,9,10,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zion Police Dept,1993,Illinois,20792,IL04923,39,2,37,16,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,1994,Illinois,20889,IL04923,40,3,37,17,8,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,1995,Illinois,21578,IL04923,41,3,38,16,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,1996,Illinois,21609,IL04923,41,3,38,15,9,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,1997,Illinois,21698,IL04923,41,3,38,15,9,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,1998,Illinois,22832,IL04923,42,3,39,15,8,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,1999,Illinois,22673,IL04923,43,3,40,14,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2000,Illinois,22866,IL04923,43,2,41,14,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2001,Illinois,22982,IL04923,40,2,38,14,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2002,Illinois,23200,IL04923,44,2,42,16,7,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2003,Illinois,23700,IL04923,41,2,39,15,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2004,Illinois,23927,IL04923,44,3,41,12,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2005,Illinois,24180,IL04923,47,2,45,14,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2006,Illinois,24434,IL04923,47,4,43,16,10,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2007,Illinois,25176,IL04923,51,5,46,16,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2008,Illinois,25409,IL04923,48,4,44,16,7,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2010,Illinois,24413,IL04923,45,4,41,13,4,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2011,Illinois,24486,IL04923,47,4,43,13,4,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2012,Illinois,24519,IL04923,45,4,41,13,4,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2014,Illinois,24316,IL04923,47,3,44,14,5,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zion Police Dept,2015,Illinois,24239,IL04923,47,2,45,14,6,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,

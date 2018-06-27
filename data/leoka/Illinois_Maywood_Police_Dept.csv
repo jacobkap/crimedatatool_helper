@@ -1,6 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Maywood Police Dept,1975,Illinois,29100,IL01667,49,0,49,4,3,1,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,1,0,1,0,0,1
 Maywood Police Dept,1976,Illinois,28957,IL01667,47,0,47,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maywood Police Dept,1977,Illinois,28516,IL01667,50,1,49,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,1978,Illinois,27417,IL01667,50,2,48,11,8,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Maywood Police Dept,1979,Illinois,26704,IL01667,53,3,50,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maywood Police Dept,1980,Illinois,27978,IL01667,54,2,52,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maywood Police Dept,1981,Illinois,28224,IL01667,52,1,51,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,4 +17,26 @@ Maywood Police Dept,1989,Illinois,27439,IL01667,59,5,54,12,7,5,0,0,0,0,0,0,0,0,0
 Maywood Police Dept,1990,Illinois,27139,IL01667,62,7,55,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maywood Police Dept,1991,Illinois,27405,IL01667,60,7,53,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maywood Police Dept,1992,Illinois,27613,IL01667,59,7,52,8,5,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maywood Police Dept,1993,Illinois,27998,IL01667,59,7,52,8,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Maywood Police Dept,1994,Illinois,28129,IL01667,54,6,48,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maywood Police Dept,1995,Illinois,27695,IL01667,54,5,49,12,11,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,1996,Illinois,27734,IL01667,61,7,54,9,0,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,1997,Illinois,27848,IL01667,58,8,50,13,12,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,1998,Illinois,26466,IL01667,62,7,55,11,10,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,1999,Illinois,26011,IL01667,57,8,49,24,19,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2000,Illinois,26987,IL01667,56,9,47,22,19,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2001,Illinois,27124,IL01667,54,8,46,13,12,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2002,Illinois,27381,IL01667,53,8,45,19,15,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2003,Illinois,26840,IL01667,52,8,44,20,16,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2004,Illinois,26523,IL01667,60,8,52,19,14,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2005,Illinois,26183,IL01667,55,8,47,21,14,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2006,Illinois,25916,IL01667,56,10,46,22,15,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2007,Illinois,25304,IL01667,57,10,47,14,12,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2008,Illinois,25044,IL01667,59,10,49,17,14,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2009,Illinois,24830,IL01667,59,9,50,17,14,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2010,Illinois,24090,IL01667,55,10,45,11,10,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2011,Illinois,24163,IL01667,60,11,49,13,11,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2012,Illinois,24207,IL01667,56,9,47,14,12,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2013,Illinois,24184,IL01667,52,8,44,14,12,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2014,Illinois,24174,IL01667,54,8,46,15,13,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maywood Police Dept,2015,Illinois,24141,IL01667,50,6,44,12,11,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,

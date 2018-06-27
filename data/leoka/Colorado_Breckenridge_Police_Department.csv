@@ -1,7 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Breckenridge Police Department,1975,Colorado,1200,CO05901,1,0,1,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Breckenridge Police Department,1976,Colorado,1100,CO05901,1,0,1,5,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Breckenridge Police Department,1977,Colorado,1184,CO05901,6,2,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Breckenridge Police Department,1978,Colorado,1658,CO05901,8,1,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Breckenridge Police Department,1979,Colorado,1716,CO05901,11,1,10,2,2,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Breckenridge Police Department,1980,Colorado,807,CO05901,12,1,11,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Breckenridge Police Department,1981,Colorado,831,CO05901,13,1,12,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Breckenridge Police Department,1982,Colorado,854,CO05901,13,1,12,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Breckenridge Police Department,1983,Colorado,880,CO05901,13,1,12,6,6,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
 Breckenridge Police Department,1984,Colorado,966,CO05901,11,0,11,6,6,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,1,0
@@ -11,14 +15,22 @@ Breckenridge Police Department,1987,Colorado,1120,CO05901,15,0,15,6,6,0,0,0,5,0,
 Breckenridge Police Department,1988,Colorado,1098,CO05901,14,0,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Breckenridge Police Department,1989,Colorado,1115,CO05901,14,0,14,7,7,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Breckenridge Police Department,1990,Colorado,1285,CO05901,14,1,13,7,7,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Breckenridge Police Department,1991,Colorado,1317,CO05901,15,1,14,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Breckenridge Police Department,1992,Colorado,1353,CO05901,15,1,14,7,7,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Breckenridge Police Department,1993,Colorado,1509,CO05901,15,0,15,7,7,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Breckenridge Police Department,1994,Colorado,1547,CO05901,16,0,16,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Breckenridge Police Department,1995,Colorado,1675,CO05901,17,1,16,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Breckenridge Police Department,1996,Colorado,1708,CO05901,18,0,18,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Breckenridge Police Department,1997,Colorado,1739,CO05901,19,1,18,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Breckenridge Police Department,1998,Colorado,1746,CO05901,19,1,18,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Breckenridge Police Department,1999,Colorado,1742,CO05901,19,2,17,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Breckenridge Police Department,2000,Colorado,2408,CO05901,17,3,14,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Breckenridge Police Department,2001,Colorado,2473,CO05901,15,2,13,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Breckenridge Police Department,2002,Colorado,2523,CO05901,18,4,14,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Breckenridge Police Department,2003,Colorado,2684,CO05901,22,2,20,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Breckenridge Police Department,2004,Colorado,2700,CO05901,21,4,17,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Breckenridge Police Department,2005,Colorado,2700,CO05901,22,2,20,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Breckenridge Police Department,2006,Colorado,2731,CO05901,22,4,18,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Breckenridge Police Department,2007,Colorado,2822,CO05901,23,3,20,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Breckenridge Police Department,2008,Colorado,3439,CO05901,24,4,20,6,4,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0
 Breckenridge Police Department,2009,Colorado,3493,CO05901,22,4,18,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

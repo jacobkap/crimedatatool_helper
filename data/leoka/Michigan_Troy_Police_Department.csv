@@ -1,10 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Troy Police Department,1975,Michigan,49451,MI63784,78,0,78,23,10,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Troy Police Department,1976,Michigan,60941,MI63784,78,0,78,25,11,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Troy Police Department,1977,Michigan,60000,MI63784,79,0,79,23,12,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Troy Police Department,1978,Michigan,68500,MI63784,84,0,84,25,16,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Troy Police Department,1979,Michigan,62546,MI63784,90,0,90,25,16,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Troy Police Department,1980,Michigan,67003,MI63784,102,0,102,37,22,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Troy Police Department,1981,Michigan,66806,MI63784,106,1,105,32,21,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Troy Police Department,1982,Michigan,66138,MI63784,105,1,104,33,21,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Troy Police Department,1983,Michigan,65847,MI63784,101,1,100,30,19,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Troy Police Department,1984,Michigan,66733,MI63784,101,1,100,40,25,15,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
 Troy Police Department,1985,Michigan,66832,MI63784,107,4,103,41,29,12,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Troy Police Department,1986,Michigan,67897,MI63784,110,6,104,43,29,14,0,0,7,0,0,7,0,3,0,0,3,0,10,0,0,10,0,0,0,0,0,0,2,0,4,0,0,4

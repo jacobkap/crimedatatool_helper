@@ -1,7 +1,10 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Kingman County Sheriff's Office,1975,Kansas,5914,KS04800,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kingman County Sheriff's Office,1976,Kansas,5563,KS04800,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kingman County Sheriff's Office,1977,Kansas,6090,KS04800,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kingman County Sheriff's Office,1978,Kansas,5993,KS04800,4,0,4,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Kingman County Sheriff's Office,1979,Kansas,5321,KS04800,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kingman County Sheriff's Office,1980,Kansas,5385,KS04800,6,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kingman County Sheriff's Office,1981,Kansas,5445,KS04800,6,1,5,0,0,0,3,0,0,0,0,0,0,3,3,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0
 Kingman County Sheriff's Office,1982,Kansas,5507,KS04800,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kingman County Sheriff's Office,1983,Kansas,5545,KS04800,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -14,7 +17,14 @@ Kingman County Sheriff's Office,1989,Kansas,5448,KS04800,5,0,5,1,1,0,0,0,0,0,0,0
 Kingman County Sheriff's Office,1990,Kansas,5096,KS04800,5,0,5,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Kingman County Sheriff's Office,1991,Kansas,5131,KS04800,5,0,5,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1
 Kingman County Sheriff's Office,1992,Kansas,5188,KS04800,5,0,5,1,1,0,0,0,0,0,0,0,0,3,0,0,12,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,1,2
+Kingman County Sheriff's Office,1993,Kansas,5078,KS04800,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kingman County Sheriff's Office,1994,Kansas,5124,KS04800,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kingman County Sheriff's Office,1995,Kansas,5189,KS04800,6,1,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman County Sheriff's Office,1996,Kansas,5203,KS04800,6,1,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman County Sheriff's Office,1997,Kansas,5249,KS04800,7,1,6,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman County Sheriff's Office,1998,Kansas,5373,KS04800,7,1,6,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman County Sheriff's Office,1999,Kansas,5449,KS04800,7,1,6,5,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman County Sheriff's Office,2000,Kansas,5286,KS04800,7,1,6,5,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kingman County Sheriff's Office,2001,Kansas,5298,KS04800,7,1,6,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kingman County Sheriff's Office,2002,Kansas,5340,KS04800,7,1,6,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kingman County Sheriff's Office,2003,Kansas,4646,KS04800,7,1,6,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -23,5 +33,10 @@ Kingman County Sheriff's Office,2005,Kansas,4591,KS04800,7,0,7,9,7,2,0,0,0,0,0,0
 Kingman County Sheriff's Office,2006,Kansas,4492,KS04800,7,0,7,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kingman County Sheriff's Office,2007,Kansas,4316,KS04800,7,1,6,10,10,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Kingman County Sheriff's Office,2008,Kansas,4235,KS04800,7,1,6,10,10,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Kingman County Sheriff's Office,2009,Kansas,4182,KS04800,7,1,6,10,10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kingman County Sheriff's Office,2010,Kansas,4190,KS04800,7,1,6,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kingman County Sheriff's Office,2011,Kansas,4217,KS04800,7,1,6,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman County Sheriff's Office,2012,Kansas,4208,KS04800,7,1,6,12,11,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman County Sheriff's Office,2013,Kansas,4209,KS04800,7,1,6,13,11,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kingman County Sheriff's Office,2014,Kansas,4207,KS04800,8,2,6,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kingman County Sheriff's Office,2015,Kansas,4106,KS04800,8,2,6,12,10,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,

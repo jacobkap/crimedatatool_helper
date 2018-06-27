@@ -1,14 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Suny Institute Of Technology At Utica/rome Police,1977,New York,0,NY232UN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Suny Institute Of Technology At Utica/rome Police,1979,New York,0,NY232UN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Suny Institute Of Technology At Utica/rome Police,1980,New York,0,NY232UN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Suny Institute Of Technology At Utica/rome Police,1981,New York,0,NY232UN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Suny Institute Of Technology At Utica/rome Police,1982,New York,0,NY232UN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,1983,New York,0,NY232UN,10,0,10,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,1984,New York,0,NY232UN,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,1985,New York,0,NY232UN,12,2,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Suny Institute Of Technology At Utica/rome Police,1986,New York,0,NY232UN,12,1,11,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Suny Institute Of Technology At Utica/rome Police,1987,New York,0,NY232UN,10,0,10,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,1988,New York,0,NY232UN,11,0,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Suny Institute Of Technology At Utica/rome Police,1989,New York,0,NY232UN,11,0,11,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Suny Institute Of Technology At Utica/rome Police,1990,New York,0,NY232UN,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,1991,New York,0,NY232UN,13,1,12,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,1992,New York,0,NY232UN,13,2,11,4,4,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,12 +14,18 @@ Suny Institute Of Technology At Utica/rome Police,1994,New York,0,NY232UN,12,1,1
 Suny Institute Of Technology At Utica/rome Police,1995,New York,0,NY232UN,12,1,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,1996,New York,0,NY232UN,12,1,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,1997,New York,0,NY232UN,11,0,11,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Suny Institute Of Technology At Utica/rome Police,1998,New York,0,NY232UN,10,0,10,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Suny Institute Of Technology At Utica/rome Police,1999,New York,0,NY232UN,7,0,7,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Suny Institute Of Technology At Utica/rome Police,2000,New York,0,NY232UN,7,0,7,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Suny Institute Of Technology At Utica/rome Police,2001,New York,0,NY232UN,9,0,9,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Suny Institute Of Technology At Utica/rome Police,2002,New York,0,NY232UN,11,1,10,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suny Institute Of Technology At Utica/rome Police,2004,New York,0,NY232UN,11,1,10,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Suny Institute Of Technology At Utica/rome Police,2005,New York,0,NY232UN,11,1,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Suny Institute Of Technology At Utica/rome Police,2007,New York,0,NY232UN,9,1,8,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Suny Institute Of Technology At Utica/rome Police,2008,New York,0,NY232UN,10,1,9,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,2009,New York,0,NY232UN,10,1,9,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,2010,New York,0,NY232UN,10,1,9,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,2011,New York,0,NY232UN,11,1,10,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Suny Institute Of Technology At Utica/rome Police,2012,New York,0,NY232UN,11,1,10,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Suny Institute Of Technology At Utica/rome Police,2014,New York,0,NY232UN,11,1,10,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Suny Institute Of Technology At Utica/rome Police,2015,New York,0,NY232UN,11,1,10,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

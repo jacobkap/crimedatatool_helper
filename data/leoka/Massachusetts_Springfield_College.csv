@@ -1,5 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Springfield College,1978,Massachusetts,0,MA007CL,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Springfield College,1983,Massachusetts,0,MA007CL,9,3,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield College,1984,Massachusetts,0,MA007CL,9,4,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield College,1985,Massachusetts,0,MA007CL,9,4,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield College,1998,Massachusetts,0,MA007CL,9,4,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Springfield College,2001,Massachusetts,0,MA007CL,14,2,12,15,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springfield College,2002,Massachusetts,0,MA007CL,14,2,12,17,6,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springfield College,2003,Massachusetts,0,MA007CL,17,2,15,15,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -9,6 +12,7 @@ Springfield College,2006,Massachusetts,0,MA007CL,14,2,12,18,7,11,0,0,0,0,0,0,0,0
 Springfield College,2007,Massachusetts,0,MA007CL,13,3,10,18,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springfield College,2008,Massachusetts,0,MA007CL,16,4,12,27,9,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springfield College,2009,Massachusetts,0,MA007CL,13,3,10,25,9,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Springfield College,2010,Massachusetts,0,MA007CL,16,4,12,22,11,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Springfield College,2011,Massachusetts,0,MA007CL,16,4,12,22,8,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springfield College,2012,Massachusetts,0,MA007CL,13,4,9,26,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springfield College,2013,Massachusetts,0,MA007CL,15,5,10,27,13,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

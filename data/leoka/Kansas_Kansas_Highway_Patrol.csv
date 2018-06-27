@@ -1,6 +1,22 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Kansas Highway Patrol,1983,Kansas,0,KSKHP00,421,3,418,137,65,72,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1984,Kansas,0,KSKHP00,428,5,423,143,72,71,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1985,Kansas,0,KSKHP00,433,6,427,156,78,78,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1986,Kansas,0,KSKHP00,440,5,435,158,81,77,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1987,Kansas,0,KSKHP00,439,5,434,156,82,74,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1988,Kansas,0,KSKHP00,546,34,512,221,112,109,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kansas Highway Patrol,1989,Kansas,0,KSKHP00,567,43,524,221,121,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kansas Highway Patrol,1990,Kansas,0,KSKHP00,585,38,547,200,102,98,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1991,Kansas,0,KSKHP00,577,39,538,227,114,113,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1992,Kansas,0,KSKHP00,602,60,542,213,109,104,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1993,Kansas,0,KSKHP00,577,39,538,227,114,113,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kansas Highway Patrol,1994,Kansas,0,KSKHP00,602,60,542,213,109,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kansas Highway Patrol,1995,Kansas,0,KSKHP00,543,33,510,169,90,79,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1996,Kansas,0,KSKHP00,428,5,423,309,127,182,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1997,Kansas,0,KSKHP00,511,32,479,206,107,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1998,Kansas,0,KSKHP00,484,15,469,252,145,107,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,1999,Kansas,0,KSKHP00,475,15,460,239,139,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kansas Highway Patrol,2000,Kansas,0,KSKHP00,478,17,461,249,155,94,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kansas Highway Patrol,2001,Kansas,0,KSKHP00,507,20,487,296,172,124,0,0,18,0,0,18,0,23,2,0,11,10,41,2,0,29,10,1,0,2,0,0,1,0,1,0,0,36
 Kansas Highway Patrol,2002,Kansas,0,KSKHP00,526,20,506,285,168,117,0,0,10,0,0,9,1,18,1,0,17,0,28,1,0,26,1,2,0,4,0,1,10,1,0,0,2,8
 Kansas Highway Patrol,2003,Kansas,0,KSKHP00,526,19,507,273,170,103,0,0,20,0,1,18,1,24,1,3,19,1,44,1,4,37,2,3,0,8,0,0,12,0,0,0,8,13
@@ -8,8 +24,11 @@ Kansas Highway Patrol,2004,Kansas,0,KSKHP00,535,18,517,285,176,109,0,0,2,0,0,2,0
 Kansas Highway Patrol,2005,Kansas,0,KSKHP00,533,18,515,273,179,94,0,0,0,0,0,0,0,32,0,1,23,8,32,0,1,23,8,3,0,6,0,2,1,0,0,0,3,17
 Kansas Highway Patrol,2006,Kansas,0,KSKHP00,540,19,521,293,190,103,0,0,2,0,0,1,1,17,3,1,11,2,19,3,1,12,3,1,0,4,0,1,1,0,0,0,2,10
 Kansas Highway Patrol,2007,Kansas,0,KSKHP00,541,18,523,305,192,113,0,0,1,0,0,1,0,21,1,0,17,3,22,1,0,18,3,1,0,3,0,0,4,0,0,0,3,11
+Kansas Highway Patrol,2008,Kansas,0,KSKHP00,541,17,524,299,183,116,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kansas Highway Patrol,2009,Kansas,0,KSKHP00,542,18,524,303,183,120,0,0,0,0,0,0,0,15,1,1,11,2,15,1,1,11,2,4,0,3,0,0,0,0,0,0,0,8
 Kansas Highway Patrol,2010,Kansas,0,KSKHP00,534,17,517,286,178,108,0,0,0,0,0,0,0,5,1,0,4,0,5,1,0,4,0,0,0,0,0,1,1,0,0,0,2,1
+Kansas Highway Patrol,2011,Kansas,0,KSKHP00,505,16,489,264,159,105,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kansas Highway Patrol,2012,Kansas,0,KSKHP00,506,18,488,277,166,111,0,0,2,0,0,2,0,2,0,0,1,1,4,0,0,3,1,0,0,2,0,0,0,0,0,0,0,2
+Kansas Highway Patrol,2013,Kansas,0,KSKHP00,487,19,468,281,168,113,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Kansas Highway Patrol,2014,Kansas,0,KSKHP00,468,19,449,274,166,108,0,0,7,0,0,4,3,11,2,0,4,5,18,2,0,8,8,1,0,1,0,0,0,0,0,0,3,13
 Kansas Highway Patrol,2015,Kansas,0,KSKHP00,465,17,448,288,175,113,0,0,3,0,0,2,1,15,2,0,5,8,18,2,0,7,9,0,0,2,0,0,2,0,0,0,3,11

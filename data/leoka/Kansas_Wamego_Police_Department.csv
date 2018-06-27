@@ -1,4 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Wamego Police Department,1975,Kansas,2681,KS07502,4,0,4,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wamego Police Department,1976,Kansas,2737,KS07502,4,0,4,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wamego Police Department,1977,Kansas,2891,KS07502,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wamego Police Department,1978,Kansas,2980,KS07502,5,0,5,5,4,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
 Wamego Police Department,1979,Kansas,2870,KS07502,5,0,5,4,2,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Wamego Police Department,1980,Kansas,3157,KS07502,5,0,5,4,2,2,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,2,0,0,1,0,0,0,0,1
@@ -7,13 +10,21 @@ Wamego Police Department,1982,Kansas,3228,KS07502,5,0,5,5,2,3,0,0,3,0,0,2,1,0,0,
 Wamego Police Department,1983,Kansas,3250,KS07502,5,1,4,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wamego Police Department,1984,Kansas,3372,KS07502,5,0,5,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wamego Police Department,1985,Kansas,3389,KS07502,5,0,5,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wamego Police Department,1986,Kansas,3562,KS07502,5,0,5,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wamego Police Department,1987,Kansas,3522,KS07502,5,0,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wamego Police Department,1988,Kansas,3582,KS07502,5,0,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wamego Police Department,1989,Kansas,3776,KS07502,5,0,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wamego Police Department,1990,Kansas,3706,KS07502,5,0,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wamego Police Department,1991,Kansas,3732,KS07502,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wamego Police Department,1992,Kansas,3773,KS07502,6,0,6,5,3,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wamego Police Department,1993,Kansas,4006,KS07502,6,0,6,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wamego Police Department,1994,Kansas,4042,KS07502,6,0,6,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wamego Police Department,1995,Kansas,4454,KS07502,6,1,5,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wamego Police Department,1996,Kansas,4466,KS07502,6,0,6,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wamego Police Department,1997,Kansas,4505,KS07502,6,0,6,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wamego Police Department,1998,Kansas,4118,KS07502,6,0,6,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wamego Police Department,1999,Kansas,4113,KS07502,6,0,6,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wamego Police Department,2000,Kansas,4246,KS07502,6,1,5,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wamego Police Department,2001,Kansas,4256,KS07502,7,2,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wamego Police Department,2002,Kansas,4290,KS07502,6,1,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wamego Police Department,2003,Kansas,4228,KS07502,6,1,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -21,6 +32,9 @@ Wamego Police Department,2004,Kansas,4256,KS07502,7,1,6,5,3,2,0,0,3,0,0,0,3,1,0,
 Wamego Police Department,2005,Kansas,4238,KS07502,7,1,6,5,2,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Wamego Police Department,2006,Kansas,4273,KS07502,7,1,6,4,2,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Wamego Police Department,2007,Kansas,4243,KS07502,7,2,5,5,3,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,1,2,0,0,0
+Wamego Police Department,2008,Kansas,4276,KS07502,8,2,6,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wamego Police Department,2009,Kansas,4317,KS07502,8,2,6,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wamego Police Department,2010,Kansas,4372,KS07502,8,2,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wamego Police Department,2014,Kansas,4654,KS07502,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wamego Police Department,2011,Kansas,4400,KS07502,7,1,6,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wamego Police Department,2012,Kansas,4458,KS07502,8,1,7,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wamego Police Department,2015,Kansas,4622,KS07502,7,1,6,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

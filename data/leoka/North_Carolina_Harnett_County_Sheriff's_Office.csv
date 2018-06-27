@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Harnett County Sheriff's Office,1975,North Carolina,37052,NC04300,21,0,21,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Harnett County Sheriff's Office,1976,North Carolina,36484,NC04300,25,0,25,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harnett County Sheriff's Office,1977,North Carolina,37741,NC04300,26,0,26,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harnett County Sheriff's Office,1978,North Carolina,38033,NC04300,25,0,25,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -12,6 +13,7 @@ Harnett County Sheriff's Office,1985,North Carolina,45053,NC04300,41,3,38,18,11,
 Harnett County Sheriff's Office,1986,North Carolina,45994,NC04300,41,3,38,14,9,5,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
 Harnett County Sheriff's Office,1987,North Carolina,47563,NC04300,44,4,40,22,16,6,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,0,1,0,1,0,0,0
 Harnett County Sheriff's Office,1988,North Carolina,48237,NC04300,44,4,40,25,18,7,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,0,0,0,0,3,0,0,1,0,0,0
+Harnett County Sheriff's Office,1989,North Carolina,47170,NC04300,45,2,43,28,19,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Harnett County Sheriff's Office,1990,North Carolina,49649,NC04300,46,3,43,30,17,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harnett County Sheriff's Office,1991,North Carolina,50460,NC04300,49,3,46,35,21,14,0,0,0,0,0,0,0,7,2,0,4,1,7,2,0,4,1,2,0,1,0,0,0,0,2,0,0,2
 Harnett County Sheriff's Office,1992,North Carolina,51253,NC04300,51,3,48,35,22,13,0,0,1,0,0,0,1,10,1,0,16,1,11,1,0,8,2,1,0,1,0,0,0,0,5,0,0,4
@@ -29,6 +31,9 @@ Harnett County Sheriff's Office,2003,North Carolina,74923,NC04300,84,9,75,46,32,
 Harnett County Sheriff's Office,2004,North Carolina,77266,NC04300,93,7,86,50,36,14,0,0,0,0,0,0,0,15,0,0,14,1,15,0,0,14,1,5,0,0,2,0,0,0,8,0,0,0
 Harnett County Sheriff's Office,2005,North Carolina,79134,NC04300,94,5,89,49,33,16,0,0,0,0,0,0,0,21,1,0,18,2,21,1,0,18,2,8,0,2,0,0,0,0,10,0,0,1
 Harnett County Sheriff's Office,2006,North Carolina,81305,NC04300,100,7,93,56,36,20,0,0,0,0,0,0,0,14,1,2,10,1,14,1,2,10,1,2,0,0,0,0,0,0,9,0,3,0
+Harnett County Sheriff's Office,2007,North Carolina,85148,NC04300,104,7,97,57,38,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Harnett County Sheriff's Office,2008,North Carolina,86774,NC04300,107,6,101,67,41,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Harnett County Sheriff's Office,2009,North Carolina,89824,NC04300,107,6,101,80,45,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Harnett County Sheriff's Office,2010,North Carolina,91354,NC04300,110,4,106,89,50,39,0,0,1,1,0,0,0,13,0,0,13,0,14,1,0,13,0,4,0,0,0,0,0,0,10,0,0,0
 Harnett County Sheriff's Office,2011,North Carolina,92591,NC04300,114,4,110,91,47,44,0,0,0,0,0,0,0,14,0,1,13,0,14,0,1,13,0,2,0,0,0,0,0,1,11,0,0,0
 Harnett County Sheriff's Office,2012,North Carolina,96054,NC04300,119,7,112,96,50,46,0,0,0,0,0,0,0,25,0,1,24,0,25,0,1,24,0,3,0,4,0,0,0,0,16,0,1,1

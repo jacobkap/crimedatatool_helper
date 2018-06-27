@@ -1,6 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Parowan Police Department,1979,Utah,1948,UT01103,2,0,2,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Parowan Police Department,1980,Utah,1840,UT01103,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parowan Police Department,1981,Utah,1912,UT01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parowan Police Department,1982,Utah,1960,UT01103,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,1983,Utah,2041,UT01103,2,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Parowan Police Department,1984,Utah,2013,UT01103,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
@@ -9,17 +10,28 @@ Parowan Police Department,1986,Utah,2011,UT01103,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,1987,Utah,1927,UT01103,2,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Parowan Police Department,1988,Utah,1893,UT01103,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,1989,Utah,1869,UT01103,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Parowan Police Department,1990,Utah,1873,UT01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parowan Police Department,1991,Utah,1924,UT01103,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,1992,Utah,1970,UT01103,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parowan Police Department,1993,Utah,1994,UT01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parowan Police Department,1994,Utah,2045,UT01103,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parowan Police Department,1995,Utah,2250,UT01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parowan Police Department,1996,Utah,2306,UT01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,1997,Utah,2374,UT01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,1998,Utah,2169,UT01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,1999,Utah,2082,UT01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parowan Police Department,2000,Utah,2565,UT01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parowan Police Department,2001,Utah,2607,UT01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parowan Police Department,2002,Utah,2660,UT01103,2,0,2,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parowan Police Department,2003,Utah,2588,UT01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parowan Police Department,2004,Utah,2558,UT01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parowan Police Department,2005,Utah,2632,UT01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parowan Police Department,2006,Utah,2615,UT01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,2007,Utah,2545,UT01103,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,2008,Utah,2638,UT01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,2009,Utah,2615,UT01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parowan Police Department,2010,Utah,2790,UT01103,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parowan Police Department,2011,Utah,2844,UT01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parowan Police Department,2012,Utah,2864,UT01103,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,2013,Utah,2837,UT01103,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parowan Police Department,2014,Utah,2837,UT01103,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Fitzwilliam Police Department,1977,New Hampshire,1627,NH00308,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fitzwilliam Police Department,1978,New Hampshire,1582,NH00308,3,0,3,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
 Fitzwilliam Police Department,1979,New Hampshire,1689,NH00308,3,0,3,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,2,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0
 Fitzwilliam Police Department,1980,New Hampshire,1768,NH00308,3,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0
@@ -14,9 +15,11 @@ Fitzwilliam Police Department,1989,New Hampshire,2428,NH00308,2,0,2,1,1,0,0,0,0,
 Fitzwilliam Police Department,1990,New Hampshire,2011,NH00308,2,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fitzwilliam Police Department,1991,New Hampshire,2003,NH00308,2,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fitzwilliam Police Department,1992,New Hampshire,2013,NH00308,2,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fitzwilliam Police Department,1993,New Hampshire,2031,NH00308,2,0,2,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fitzwilliam Police Department,1994,New Hampshire,2052,NH00308,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fitzwilliam Police Department,1995,New Hampshire,2071,NH00308,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fitzwilliam Police Department,1996,New Hampshire,2096,NH00308,3,0,3,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Fitzwilliam Police Department,1997,New Hampshire,2115,NH00308,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fitzwilliam Police Department,1998,New Hampshire,2048,NH00308,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fitzwilliam Police Department,1999,New Hampshire,2049,NH00308,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fitzwilliam Police Department,2000,New Hampshire,2141,NH00308,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,6 +28,9 @@ Fitzwilliam Police Department,2002,New Hampshire,2209,NH00308,3,0,3,1,1,0,0,0,0,
 Fitzwilliam Police Department,2003,New Hampshire,2246,NH00308,3,0,3,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Fitzwilliam Police Department,2004,New Hampshire,2272,NH00308,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fitzwilliam Police Department,2005,New Hampshire,2296,NH00308,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fitzwilliam Police Department,2006,New Hampshire,2306,NH00308,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fitzwilliam Police Department,2007,New Hampshire,2321,NH00308,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fitzwilliam Police Department,2008,New Hampshire,2311,NH00308,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fitzwilliam Police Department,2009,New Hampshire,2315,NH00308,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fitzwilliam Police Department,2010,New Hampshire,2396,NH00308,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fitzwilliam Police Department,2011,New Hampshire,2399,NH00308,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

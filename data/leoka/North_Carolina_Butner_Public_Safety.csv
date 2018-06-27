@@ -2,13 +2,18 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Butner Public Safety,1975,North Carolina,3680,NC03902,24,0,24,0,0,0,0,0,1,0,1,0,0,2,0,1,1,0,3,0,2,1,0,2,0,0,0,0,0,0,1,0,0,0
 Butner Public Safety,1976,North Carolina,2500,NC03902,24,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Butner Public Safety,1977,North Carolina,2526,NC03902,23,0,23,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Butner Public Safety,1978,North Carolina,4800,NC03902,24,0,24,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Butner Public Safety,1979,North Carolina,4795,NC03902,24,0,24,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Butner Public Safety,1980,North Carolina,3788,NC03902,24,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Butner Public Safety,1981,North Carolina,3858,NC03902,24,0,24,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Butner Public Safety,1982,North Carolina,3902,NC03902,30,4,26,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Butner Public Safety,1983,North Carolina,3942,NC03902,38,4,34,5,4,1,0,0,3,0,1,1,1,0,0,0,0,0,3,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0
 Butner Public Safety,1984,North Carolina,4345,NC03902,37,5,32,6,6,0,0,0,0,0,0,0,0,11,0,1,10,0,11,0,1,10,0,0,0,0,0,8,0,2,1,0,0,0
 Butner Public Safety,1985,North Carolina,4409,NC03902,38,4,34,6,6,0,0,0,1,0,0,1,0,1,0,1,0,0,2,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0
 Butner Public Safety,1986,North Carolina,4528,NC03902,37,4,33,6,6,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,1,1,0,0,0
 Butner Public Safety,1987,North Carolina,4586,NC03902,38,3,35,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Butner Public Safety,1988,North Carolina,4719,NC03902,38,3,35,6,6,0,0,0,2,0,0,1,1,3,0,0,3,0,5,0,0,4,1,2,0,0,0,0,2,1,0,0,0,0
+Butner Public Safety,1989,North Carolina,4780,NC03902,38,1,37,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Butner Public Safety,1990,North Carolina,4780,NC03902,38,1,37,6,6,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,1,0,1,0,0,0
 Butner Public Safety,1991,North Carolina,4858,NC03902,36,1,35,6,6,0,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,0,0,2,0,0,2,0,0,0,0,0
 Butner Public Safety,1992,North Carolina,4934,NC03902,38,1,37,6,6,0,0,0,0,0,0,0,0,7,0,0,15,1,7,0,0,6,1,2,0,3,0,0,1,0,1,0,0,0
@@ -28,6 +33,8 @@ Butner Public Safety,2005,North Carolina,6248,NC03902,39,4,35,5,5,0,0,0,0,0,0,0,
 Butner Public Safety,2006,North Carolina,6373,NC03902,42,5,37,7,5,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Butner Public Safety,2007,North Carolina,6520,NC03902,42,5,37,7,5,2,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,3,0,0,0,0,1,0,1,0,0,0
 Butner Public Safety,2008,North Carolina,6636,NC03902,41,4,37,5,4,1,0,0,0,0,0,0,0,3,0,0,1,2,3,0,0,1,2,0,0,0,0,0,0,0,3,0,0,0
+Butner Public Safety,2009,North Carolina,6146,NC03902,43,5,38,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Butner Public Safety,2010,North Carolina,7591,NC03902,41,4,37,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Butner Public Safety,2011,North Carolina,7687,NC03902,40,5,35,5,4,1,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0
 Butner Public Safety,2012,North Carolina,7673,NC03902,39,4,35,6,6,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,1,0,1,0,0,0,0,3,0,0,0
 Butner Public Safety,2013,North Carolina,7661,NC03902,31,2,29,6,5,1,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0

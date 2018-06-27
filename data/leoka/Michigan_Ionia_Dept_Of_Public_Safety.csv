@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Ionia Dept Of Public Safety,1975,Michigan,6163,MI34491,10,0,10,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Ionia Dept Of Public Safety,1976,Michigan,6230,MI34491,9,0,9,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ionia Dept Of Public Safety,1977,Michigan,6300,MI34491,11,0,11,6,0,6,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Ionia Dept Of Public Safety,1978,Michigan,6406,MI34491,11,0,11,15,1,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ionia Dept Of Public Safety,1979,Michigan,6552,MI34491,10,0,10,9,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,6 +18,10 @@ Ionia Dept Of Public Safety,1990,Michigan,5935,MI34491,17,0,17,5,3,2,0,0,0,0,0,0
 Ionia Dept Of Public Safety,1991,Michigan,5981,MI34491,15,0,15,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ionia Dept Of Public Safety,1992,Michigan,6025,MI34491,16,0,16,2,1,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ionia Dept Of Public Safety,1993,Michigan,6105,MI34491,16,0,16,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ionia Dept Of Public Safety,1994,Michigan,6116,MI34491,16,0,16,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ionia Dept Of Public Safety,1995,Michigan,6208,MI34491,16,1,15,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ionia Dept Of Public Safety,1996,Michigan,6237,MI34491,17,1,16,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ionia Dept Of Public Safety,1997,Michigan,6354,MI34491,17,1,16,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ionia Dept Of Public Safety,1998,Michigan,6622,MI34491,16,0,16,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ionia Dept Of Public Safety,1999,Michigan,10899,MI34491,16,0,16,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ionia Dept Of Public Safety,2000,Michigan,10569,MI34491,18,1,17,2,1,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0

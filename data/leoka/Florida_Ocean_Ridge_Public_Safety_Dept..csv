@@ -1,5 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Ocean Ridge Public Safety Dept.,1975,Florida,1206,FL05024,13,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ocean Ridge Public Safety Dept.,1976,Florida,1213,FL05024,9,0,9,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ocean Ridge Public Safety Dept.,1977,Florida,1205,FL05024,9,0,9,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ocean Ridge Public Safety Dept.,1978,Florida,1201,FL05024,13,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ocean Ridge Public Safety Dept.,1979,Florida,1285,FL05024,15,5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ocean Ridge Public Safety Dept.,1980,Florida,1338,FL05024,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -10,11 +12,16 @@ Ocean Ridge Public Safety Dept.,1984,Florida,1530,FL05024,11,0,11,7,5,2,0,0,2,0,
 Ocean Ridge Public Safety Dept.,1985,Florida,1584,FL05024,11,0,11,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ocean Ridge Public Safety Dept.,1986,Florida,1595,FL05024,12,0,12,7,5,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Ocean Ridge Public Safety Dept.,1987,Florida,1586,FL05024,12,0,12,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ocean Ridge Public Safety Dept.,1988,Florida,1658,FL05024,15,4,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ocean Ridge Public Safety Dept.,1989,Florida,1551,FL05024,10,0,10,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ocean Ridge Public Safety Dept.,1990,Florida,1570,FL05024,12,0,12,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ocean Ridge Public Safety Dept.,1991,Florida,1611,FL05024,11,1,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ocean Ridge Public Safety Dept.,1992,Florida,1636,FL05024,10,0,10,5,5,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ocean Ridge Public Safety Dept.,1993,Florida,1707,FL05024,12,0,12,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ocean Ridge Public Safety Dept.,1994,Florida,1741,FL05024,11,0,11,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Ocean Ridge Public Safety Dept.,1995,Florida,1718,FL05024,12,0,12,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ocean Ridge Public Safety Dept.,1996,Florida,2136,FL05024,11,0,11,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ocean Ridge Public Safety Dept.,1997,Florida,2173,FL05024,11,0,11,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ocean Ridge Public Safety Dept.,1998,Florida,1669,FL05024,11,1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ocean Ridge Public Safety Dept.,1999,Florida,1669,FL05024,11,1,10,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Ocean Ridge Public Safety Dept.,2000,Florida,1636,FL05024,11,1,10,4,3,1,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2

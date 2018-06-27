@@ -1,6 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Romeoville Police Dept,1975,Illinois,15336,IL09913,26,0,26,7,6,1,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,1,0,0,1,0,0,0,0,2
 Romeoville Police Dept,1976,Illinois,15854,IL09913,23,0,23,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Romeoville Police Dept,1977,Illinois,15028,IL09913,27,0,27,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,1978,Illinois,16720,IL09913,27,1,26,14,9,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Romeoville Police Dept,1979,Illinois,17860,IL09913,29,0,29,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Romeoville Police Dept,1980,Illinois,15544,IL09913,29,0,29,15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Romeoville Police Dept,1981,Illinois,15681,IL09913,29,0,29,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,4 +17,23 @@ Romeoville Police Dept,1989,Illinois,14934,IL09913,29,1,28,11,10,1,0,0,0,0,0,0,0
 Romeoville Police Dept,1990,Illinois,14074,IL09913,32,1,31,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Romeoville Police Dept,1991,Illinois,14212,IL09913,37,1,36,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Romeoville Police Dept,1992,Illinois,14320,IL09913,28,1,27,9,8,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Romeoville Police Dept,1993,Illinois,14881,IL09913,28,1,27,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Romeoville Police Dept,1994,Illinois,14950,IL09913,28,1,27,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Romeoville Police Dept,1995,Illinois,14873,IL09913,30,1,29,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,1996,Illinois,14894,IL09913,33,1,32,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,1997,Illinois,14955,IL09913,33,2,31,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,1998,Illinois,16231,IL09913,40,5,35,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,1999,Illinois,19146,IL09913,40,5,35,10,8,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2000,Illinois,21153,IL09913,44,5,39,12,10,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2001,Illinois,21260,IL09913,43,5,38,12,10,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2002,Illinois,21462,IL09913,52,5,47,14,12,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2003,Illinois,28886,IL09913,51,4,47,15,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2004,Illinois,32635,IL09913,57,5,52,18,15,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2005,Illinois,35157,IL09913,56,5,51,18,15,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2006,Illinois,36592,IL09913,64,6,58,20,17,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2007,Illinois,39718,IL09913,63,6,57,21,17,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2008,Illinois,39701,IL09913,69,8,61,23,19,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2009,Illinois,40465,IL09913,68,8,60,20,17,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2010,Illinois,39680,IL09913,61,6,55,20,18,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2011,Illinois,39799,IL09913,62,6,56,23,21,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Romeoville Police Dept,2012,Illinois,39931,IL09913,61,6,55,23,20,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,

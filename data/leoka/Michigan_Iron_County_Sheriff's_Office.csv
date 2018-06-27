@@ -1,10 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Iron County Sheriff's Office,1975,Michigan,6012,MI36136,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Iron County Sheriff's Office,1976,Michigan,6109,MI36136,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Iron County Sheriff's Office,1977,Michigan,6480,MI36136,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron County Sheriff's Office,1978,Michigan,6683,MI36136,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron County Sheriff's Office,1979,Michigan,6971,MI36136,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron County Sheriff's Office,1980,Michigan,6355,MI36136,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron County Sheriff's Office,1981,Michigan,6738,MI36136,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iron County Sheriff's Office,1982,Michigan,6669,MI36136,8,1,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Iron County Sheriff's Office,1983,Michigan,6639,MI36136,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Iron County Sheriff's Office,1984,Michigan,6767,MI36136,8,0,8,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron County Sheriff's Office,1985,Michigan,7236,MI36136,8,0,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Iron County Sheriff's Office,1986,Michigan,7158,MI36136,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,6 +20,7 @@ Iron County Sheriff's Office,1992,Michigan,6741,MI36136,8,1,7,0,0,0,0,0,0,0,0,0,
 Iron County Sheriff's Office,1993,Michigan,6649,MI36136,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron County Sheriff's Office,1994,Michigan,6661,MI36136,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron County Sheriff's Office,1995,Michigan,5410,MI36136,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iron County Sheriff's Office,1996,Michigan,5435,MI36136,8,0,8,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Iron County Sheriff's Office,1997,Michigan,5536,MI36136,8,0,8,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron County Sheriff's Office,1998,Michigan,4000,MI36136,10,0,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron County Sheriff's Office,1999,Michigan,3870,MI36136,9,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

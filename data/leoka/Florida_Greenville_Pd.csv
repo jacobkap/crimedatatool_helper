@@ -1,5 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Greenville Pd,1975,Florida,1233,FL04002,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greenville Pd,1976,Florida,1122,FL04002,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Pd,1977,Florida,1094,FL04002,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Greenville Pd,1978,Florida,994,FL04002,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Pd,1979,Florida,1203,FL04002,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Pd,1980,Florida,1050,FL04002,4,1,3,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,2,0,0,0
@@ -10,7 +12,12 @@ Greenville Pd,1984,Florida,1059,FL04002,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Greenville Pd,1985,Florida,1097,FL04002,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Pd,1986,Florida,1076,FL04002,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Pd,1987,Florida,1102,FL04002,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greenville Pd,1988,Florida,1109,FL04002,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Pd,1989,Florida,1068,FL04002,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Pd,1990,Florida,950,FL04002,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Pd,1991,Florida,974,FL04002,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Pd,1992,Florida,989,FL04002,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Pd,1995,Florida,894,FL04002,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Pd,1996,Florida,908,FL04002,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Greenville Pd,1998,Florida,1006,FL04002,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Greenville Pd,1999,Florida,1006,FL04002,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Greenville Pd,2000,Florida,837,FL04002,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Greenville Pd,2001,Florida,859,FL04002,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

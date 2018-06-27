@@ -2,8 +2,10 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Parkville Police Department,1975,Missouri,1437,MO08301,3,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Parkville Police Department,1976,Missouri,1953,MO08301,3,0,3,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0
 Parkville Police Department,1977,Missouri,1601,MO08301,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parkville Police Department,1978,Missouri,1832,MO08301,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parkville Police Department,1979,Missouri,1780,MO08301,4,0,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parkville Police Department,1980,Missouri,1984,MO08301,6,0,6,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
+Parkville Police Department,1981,Missouri,1999,MO08301,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parkville Police Department,1982,Missouri,2004,MO08301,5,0,5,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Parkville Police Department,1983,Missouri,2011,MO08301,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parkville Police Department,1984,Missouri,2201,MO08301,5,0,5,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
@@ -12,10 +14,12 @@ Parkville Police Department,1986,Missouri,2320,MO08301,5,0,5,1,1,0,0,0,0,0,0,0,0
 Parkville Police Department,1987,Missouri,2377,MO08301,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parkville Police Department,1988,Missouri,2470,MO08301,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parkville Police Department,1989,Missouri,2659,MO08301,6,0,6,1,1,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Parkville Police Department,1990,Missouri,2402,MO08301,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parkville Police Department,1991,Missouri,2421,MO08301,6,0,6,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Parkville Police Department,1992,Missouri,2437,MO08301,6,0,6,1,1,0,0,0,1,0,0,1,0,1,0,0,10,0,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0
 Parkville Police Department,1993,Missouri,2592,MO08301,6,0,6,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Parkville Police Department,1994,Missouri,2613,MO08301,7,0,7,1,1,0,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,0,0,3,0,1,0,0,0
+Parkville Police Department,1995,Missouri,2723,MO08301,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parkville Police Department,1996,Missouri,2740,MO08301,10,0,10,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Parkville Police Department,1997,Missouri,2761,MO08301,10,0,10,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Parkville Police Department,1998,Missouri,3338,MO08301,10,1,9,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0
@@ -24,6 +28,7 @@ Parkville Police Department,2000,Missouri,4059,MO08301,9,0,9,1,1,0,0,0,1,0,0,1,0
 Parkville Police Department,2001,Missouri,4084,MO08301,10,1,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parkville Police Department,2002,Missouri,4116,MO08301,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parkville Police Department,2003,Missouri,4670,MO08301,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parkville Police Department,2004,Missouri,4935,MO08301,14,1,13,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Parkville Police Department,2005,Missouri,5073,MO08301,15,1,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Parkville Police Department,2006,Missouri,5153,MO08301,15,0,15,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Parkville Police Department,2007,Missouri,5276,MO08301,15,2,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

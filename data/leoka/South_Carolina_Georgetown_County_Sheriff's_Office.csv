@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Georgetown County Sheriff's Office,1975,South Carolina,21336,SC02200,18,0,18,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Georgetown County Sheriff's Office,1976,South Carolina,23857,SC02200,16,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Georgetown County Sheriff's Office,1977,South Carolina,21908,SC02200,16,0,16,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Georgetown County Sheriff's Office,1978,South Carolina,23946,SC02200,18,0,18,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,8 +16,11 @@ Georgetown County Sheriff's Office,1988,South Carolina,34699,SC02200,30,1,29,3,3
 Georgetown County Sheriff's Office,1989,South Carolina,35463,SC02200,30,1,29,5,3,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Georgetown County Sheriff's Office,1990,South Carolina,33842,SC02200,30,1,29,5,3,2,0,0,3,0,0,3,0,1,0,1,0,0,4,0,1,3,0,1,0,0,0,0,1,0,1,0,0,1
 Georgetown County Sheriff's Office,1991,South Carolina,34553,SC02200,36,1,35,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Georgetown County Sheriff's Office,1992,South Carolina,34970,SC02200,35,1,34,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Georgetown County Sheriff's Office,1993,South Carolina,36349,SC02200,41,4,37,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Georgetown County Sheriff's Office,1994,South Carolina,36558,SC02200,44,5,39,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Georgetown County Sheriff's Office,1995,South Carolina,37131,SC02200,47,6,41,8,7,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,1,0
+Georgetown County Sheriff's Office,1996,South Carolina,37216,SC02200,51,6,45,50,23,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Georgetown County Sheriff's Office,1997,South Carolina,37829,SC02200,51,7,44,46,25,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Georgetown County Sheriff's Office,1998,South Carolina,40463,SC02200,62,6,56,7,7,0,0,0,4,0,0,4,0,3,2,0,1,0,7,2,0,5,0,0,0,1,0,0,2,0,1,0,2,1
 Georgetown County Sheriff's Office,1999,South Carolina,42025,SC02200,59,9,50,16,9,7,0,0,4,0,0,2,2,8,0,0,3,5,12,0,0,5,7,3,0,5,0,0,0,0,2,0,0,2
@@ -30,7 +34,6 @@ Georgetown County Sheriff's Office,2006,South Carolina,49579,SC02200,74,14,60,15
 Georgetown County Sheriff's Office,2007,South Carolina,50353,SC02200,76,14,62,50,32,18,0,0,2,0,0,1,1,5,0,2,1,2,7,0,2,2,3,2,0,0,0,0,1,0,1,0,1,2
 Georgetown County Sheriff's Office,2008,South Carolina,49829,SC02200,74,13,61,82,52,30,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,0,0,2,0,0,0,0,1,0,1,1
 Georgetown County Sheriff's Office,2009,South Carolina,50092,SC02200,81,12,69,77,37,40,0,0,1,0,0,1,0,3,0,0,2,1,4,0,0,3,1,0,0,2,0,0,1,0,1,0,0,0
-Georgetown County Sheriff's Office,2010,South Carolina,48054,SC02200,62,6,56,7,7,0,0,0,2,0,0,2,0,7,0,0,2,5,9,0,0,4,5,5,0,1,0,0,1,0,2,0,0,0
 Georgetown County Sheriff's Office,2011,South Carolina,48614,SC02200,95,15,80,77,48,29,0,0,1,0,0,1,0,4,0,0,0,4,5,0,0,1,4,4,0,0,0,0,1,0,0,0,0,0
 Georgetown County Sheriff's Office,2012,South Carolina,48376,SC02200,95,13,82,57,31,26,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Georgetown County Sheriff's Office,2013,South Carolina,48500,SC02200,94,11,83,59,31,28,0,0,1,0,0,0,1,2,0,0,2,0,3,0,0,2,1,0,0,0,0,0,1,0,1,0,0,1

@@ -8,7 +8,8 @@ leoka <-
   dplyr::filter(!state %in% c("guam",
                               "canal zone",
                               "puerto rico",
-                              "virgin islands")) %>%
+                              "virgin islands"),
+                record_indicator != "not updated, no police employee data") %>%
   dplyr::mutate(months_reported = paste(jan_month_indicator,
                                         feb_month_indicator,
                                         mar_month_indicator,
@@ -21,7 +22,6 @@ leoka <-
                                         oct_month_indicator,
                                         nov_month_indicator,
                                         dec_month_indicator)) %>%
-  dplyr::filter(!grepl("not reported|deleted", months_reported))  %>%
   dplyr::left_join(crosswalk_agencies) %>%
   dplyr::filter(agency != "NANA") %>%
   dplyr::rename(ORI               = ori) %>%
@@ -62,8 +62,15 @@ leoka <-
                 "disturbance_total_assault",
                 "robbery_total_assault",
                 "susp_pers_total_assault",
-                "traffic_total_assault") %>%
-  dplyr::select(-dplyr::matches("assist|veh|clear|alone"))
+                "traffic_total_assault",
+                "months_reported")
+
+assault_columns <- grep("assault|killed", names(leoka), value = TRUE)
+for (col in assault_columns) {
+  leoka[, col][grepl("not reported|deleted", leoka$months_reported)] <- NA
+}
+leoka$months_reported <- NULL
+
 
 
 z = leoka[!duplicated(leoka$ORI),]

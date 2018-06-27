@@ -1,10 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Beverly Hills Police Department,1975,Michigan,14600,MI63255,25,0,25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beverly Hills Police Department,1976,Michigan,14758,MI63255,25,0,25,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Beverly Hills Police Department,1977,Michigan,14901,MI63255,24,0,24,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beverly Hills Police Department,1978,Michigan,14033,MI63255,26,0,26,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beverly Hills Police Department,1979,Michigan,11840,MI63255,26,0,26,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beverly Hills Police Department,1980,Michigan,8923,MI63255,26,0,26,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beverly Hills Police Department,1981,Michigan,8897,MI63255,26,0,26,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beverly Hills Police Department,1982,Michigan,11448,MI63255,26,0,26,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Beverly Hills Police Department,1983,Michigan,11397,MI63255,26,0,26,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Beverly Hills Police Department,1984,Michigan,11300,MI63255,26,0,26,3,2,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0
 Beverly Hills Police Department,1985,Michigan,11317,MI63255,25,0,25,3,2,1,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,2,0,0,0,0,0
 Beverly Hills Police Department,1986,Michigan,10980,MI63255,26,0,26,2,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
@@ -17,6 +20,7 @@ Beverly Hills Police Department,1992,Michigan,10770,MI63255,27,2,25,4,2,2,0,0,0,
 Beverly Hills Police Department,1993,Michigan,10507,MI63255,27,2,25,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beverly Hills Police Department,1994,Michigan,10526,MI63255,25,2,23,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beverly Hills Police Department,1995,Michigan,10937,MI63255,24,2,22,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beverly Hills Police Department,1996,Michigan,10988,MI63255,25,2,23,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Beverly Hills Police Department,1997,Michigan,11194,MI63255,26,2,24,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beverly Hills Police Department,1998,Michigan,10563,MI63255,27,2,25,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beverly Hills Police Department,1999,Michigan,10338,MI63255,25,2,23,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -2,6 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Freeport Borough Police Department,1975,Pennsylvania,2333,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,1976,Pennsylvania,2394,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,1977,Pennsylvania,2361,PA00303,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freeport Borough Police Department,1978,Pennsylvania,2337,PA00303,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Freeport Borough Police Department,1979,Pennsylvania,3334,PA00303,2,0,2,0,0,0,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0
 Freeport Borough Police Department,1980,Pennsylvania,2362,PA00303,2,0,2,0,0,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,1,0,0,0,1,0
 Freeport Borough Police Department,1981,Pennsylvania,2370,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -10,12 +11,20 @@ Freeport Borough Police Department,1983,Pennsylvania,2375,PA00303,2,0,2,0,0,0,0,
 Freeport Borough Police Department,1984,Pennsylvania,2360,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,1985,Pennsylvania,2351,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,1986,Pennsylvania,2449,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freeport Borough Police Department,1987,Pennsylvania,2379,PA00303,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Freeport Borough Police Department,1988,Pennsylvania,2406,PA00303,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Freeport Borough Police Department,1989,Pennsylvania,2317,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,1990,Pennsylvania,1983,PA00303,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,1991,Pennsylvania,1996,PA00303,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Freeport Borough Police Department,1992,Pennsylvania,2004,PA00303,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,9,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Freeport Borough Police Department,1993,Pennsylvania,2055,PA00303,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Freeport Borough Police Department,1994,Pennsylvania,2055,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Freeport Borough Police Department,1996,Pennsylvania,2096,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freeport Borough Police Department,1995,Pennsylvania,2099,PA00303,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Freeport Borough Police Department,1997,Pennsylvania,2089,PA00303,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Freeport Borough Police Department,1998,Pennsylvania,1904,PA00303,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Freeport Borough Police Department,1999,Pennsylvania,1868,PA00303,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Freeport Borough Police Department,2000,Pennsylvania,1962,PA00303,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Freeport Borough Police Department,2006,Pennsylvania,1856,PA00303,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Freeport Borough Police Department,2007,Pennsylvania,1818,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,2008,Pennsylvania,1805,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,2009,Pennsylvania,1794,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -23,5 +32,4 @@ Freeport Borough Police Department,2010,Pennsylvania,1813,PA00303,2,0,2,0,0,0,0,
 Freeport Borough Police Department,2011,Pennsylvania,1819,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,2012,Pennsylvania,1806,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,2013,Pennsylvania,1785,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Freeport Borough Police Department,2014,Pennsylvania,1773,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Freeport Borough Police Department,2015,Pennsylvania,1756,PA00303,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

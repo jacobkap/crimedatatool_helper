@@ -1,7 +1,10 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Tillamook Police Department,1975,Oregon,4138,OR02904,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tillamook Police Department,1976,Oregon,4219,OR02904,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tillamook Police Department,1977,Oregon,4315,OR02904,9,0,9,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tillamook Police Department,1978,Oregon,4251,OR02904,9,0,9,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tillamook Police Department,1979,Oregon,4617,OR02904,9,0,9,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tillamook Police Department,1980,Oregon,3992,OR02904,9,0,9,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tillamook Police Department,1981,Oregon,4048,OR02904,8,0,8,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tillamook Police Department,1982,Oregon,4051,OR02904,8,0,8,3,3,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Tillamook Police Department,1983,Oregon,4070,OR02904,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -26,6 +29,7 @@ Tillamook Police Department,2001,Oregon,4417,OR02904,10,2,8,2,2,0,0,0,1,0,0,1,0,
 Tillamook Police Department,2002,Oregon,4479,OR02904,9,2,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tillamook Police Department,2003,Oregon,4563,OR02904,9,2,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tillamook Police Department,2004,Oregon,4531,OR02904,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tillamook Police Department,2005,Oregon,4534,OR02904,9,1,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tillamook Police Department,2006,Oregon,4544,OR02904,10,1,9,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tillamook Police Department,2007,Oregon,4435,OR02904,10,1,9,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tillamook Police Department,2008,Oregon,4502,OR02904,10,1,9,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

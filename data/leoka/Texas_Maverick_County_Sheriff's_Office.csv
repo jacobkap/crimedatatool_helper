@@ -1,4 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Maverick County Sheriff's Office,1975,Texas,3249,TX16200,12,0,12,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maverick County Sheriff's Office,1976,Texas,3045,TX16200,11,0,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maverick County Sheriff's Office,1977,Texas,3318,TX16200,11,0,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maverick County Sheriff's Office,1979,Texas,3829,TX16200,15,1,14,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Maverick County Sheriff's Office,1980,Texas,10053,TX16200,14,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maverick County Sheriff's Office,1981,Texas,10468,TX16200,14,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maverick County Sheriff's Office,1982,Texas,10840,TX16200,14,1,13,0,0,0,0,0,2,0,0,2,0,1,1,0,0,0,3,1,0,2,0,0,0,0,0,0,0,0,2,0,0,1
@@ -20,18 +24,13 @@ Maverick County Sheriff's Office,1997,Texas,20415,TX16200,16,0,16,19,2,17,0,0,4,
 Maverick County Sheriff's Office,1998,Texas,19813,TX16200,25,1,24,24,2,22,0,0,3,0,0,3,0,6,3,0,3,0,9,3,0,6,0,2,0,1,0,0,0,0,6,0,0,0
 Maverick County Sheriff's Office,1999,Texas,19698,TX16200,24,2,22,19,1,18,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
 Maverick County Sheriff's Office,2000,Texas,24884,TX16200,28,2,26,29,4,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Maverick County Sheriff's Office,2001,Texas,25448,TX16200,25,1,24,24,2,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maverick County Sheriff's Office,2002,Texas,25992,TX16200,33,2,31,43,7,36,0,0,0,0,0,0,0,3,3,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0
 Maverick County Sheriff's Office,2003,Texas,25536,TX16200,50,5,45,64,9,55,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
 Maverick County Sheriff's Office,2004,Texas,26148,TX16200,40,4,36,48,9,39,0,0,3,0,0,3,0,14,0,0,14,0,17,0,0,17,0,2,0,3,0,0,7,0,5,0,0,0
 Maverick County Sheriff's Office,2005,Texas,26010,TX16200,41,4,37,39,8,31,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,1,0,0,1,0,0,0
 Maverick County Sheriff's Office,2006,Texas,26335,TX16200,41,4,37,51,17,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maverick County Sheriff's Office,2007,Texas,26044,TX16200,49,7,42,52,14,38,0,0,2,0,0,1,1,3,0,0,3,0,5,0,0,4,1,0,0,0,0,0,2,0,3,0,0,0
-Maverick County Sheriff's Office,2008,Texas,25456,TX16200,25,1,24,24,2,22,0,0,0,0,0,0,0,7,0,2,1,4,7,0,2,1,4,0,0,0,0,0,1,0,5,0,0,1
-Maverick County Sheriff's Office,2009,Texas,25767,TX16200,25,1,24,24,2,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maverick County Sheriff's Office,2010,Texas,28010,TX16200,46,5,41,47,10,37,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Maverick County Sheriff's Office,2011,Texas,28600,TX16200,46,5,41,47,10,37,0,0,1,0,0,1,0,3,0,1,2,0,4,0,1,3,0,0,0,0,0,0,0,0,4,0,0,0
-Maverick County Sheriff's Office,2012,Texas,29027,TX16200,25,1,24,24,2,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maverick County Sheriff's Office,2013,Texas,28320,TX16200,31,6,25,50,11,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Maverick County Sheriff's Office,2014,Texas,28676,TX16200,25,1,24,24,2,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Maverick County Sheriff's Office,2015,Texas,28975,TX16200,35,8,27,51,16,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

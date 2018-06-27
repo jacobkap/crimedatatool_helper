@@ -1,7 +1,10 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Pittsfield Township Dept Of Public Safety,1978,Michigan,12000,MI81906,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pittsfield Township Dept Of Public Safety,1979,Michigan,11102,MI81906,9,0,9,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsfield Township Dept Of Public Safety,1980,Michigan,12549,MI81906,9,0,9,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsfield Township Dept Of Public Safety,1981,Michigan,12512,MI81906,10,0,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pittsfield Township Dept Of Public Safety,1982,Michigan,12387,MI81906,11,0,11,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pittsfield Township Dept Of Public Safety,1983,Michigan,12332,MI81906,12,0,12,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pittsfield Township Dept Of Public Safety,1984,Michigan,12796,MI81906,13,0,13,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsfield Township Dept Of Public Safety,1985,Michigan,12815,MI81906,13,0,13,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsfield Township Dept Of Public Safety,1986,Michigan,13225,MI81906,15,1,14,7,5,2,0,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,0,2,0,0,0,0,0,1,2,0,1,0
@@ -12,7 +15,9 @@ Pittsfield Township Dept Of Public Safety,1990,Michigan,17668,MI81906,18,2,16,7,
 Pittsfield Township Dept Of Public Safety,1991,Michigan,17806,MI81906,20,2,18,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsfield Township Dept Of Public Safety,1992,Michigan,17937,MI81906,22,2,20,9,7,2,0,0,1,0,0,1,0,5,0,0,14,0,6,0,0,6,0,0,0,1,0,0,1,0,4,0,0,0
 Pittsfield Township Dept Of Public Safety,1993,Michigan,18020,MI81906,22,2,20,9,8,1,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,2,0,0,0,0,2,0,0,1
+Pittsfield Township Dept Of Public Safety,1994,Michigan,18054,MI81906,22,1,21,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pittsfield Township Dept Of Public Safety,1995,Michigan,18154,MI81906,24,1,23,8,6,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Pittsfield Township Dept Of Public Safety,1996,Michigan,18239,MI81906,27,3,24,9,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pittsfield Township Dept Of Public Safety,1997,Michigan,18581,MI81906,27,3,24,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsfield Township Dept Of Public Safety,1998,Michigan,21725,MI81906,29,2,27,8,5,3,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Pittsfield Township Dept Of Public Safety,1999,Michigan,24099,MI81906,32,3,29,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

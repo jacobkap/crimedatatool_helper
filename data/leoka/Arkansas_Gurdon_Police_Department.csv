@@ -1,6 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Gurdon Police Department,1977,Arkansas,2300,AR01002,3,0,3,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gurdon Police Department,1978,Arkansas,1892,AR01002,6,0,6,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Gurdon Police Department,1979,Arkansas,1887,AR01002,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gurdon Police Department,1980,Arkansas,2697,AR01002,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gurdon Police Department,1981,Arkansas,2709,AR01002,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gurdon Police Department,1982,Arkansas,2705,AR01002,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gurdon Police Department,1983,Arkansas,2748,AR01002,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -20,9 +21,12 @@ Gurdon Police Department,1996,Arkansas,2299,AR01002,4,0,4,1,1,0,0,0,0,0,0,0,0,0,
 Gurdon Police Department,1997,Arkansas,2310,AR01002,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gurdon Police Department,1998,Arkansas,2253,AR01002,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gurdon Police Department,1999,Arkansas,2226,AR01002,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gurdon Police Department,2000,Arkansas,2276,AR01002,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Gurdon Police Department,2001,Arkansas,2292,AR01002,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gurdon Police Department,2002,Arkansas,2307,AR01002,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gurdon Police Department,2003,Arkansas,2270,AR01002,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gurdon Police Department,2004,Arkansas,2298,AR01002,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gurdon Police Department,2005,Arkansas,2274,AR01002,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Gurdon Police Department,2006,Arkansas,2258,AR01002,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gurdon Police Department,2007,Arkansas,2231,AR01002,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gurdon Police Department,2008,Arkansas,2296,AR01002,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

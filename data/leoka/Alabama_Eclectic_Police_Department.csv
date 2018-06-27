@@ -1,13 +1,17 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Eclectic Police Department,1975,Alabama,1325,AL02903,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Eclectic Police Department,1976,Alabama,1388,AL02903,5,0,5,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1977,Alabama,1422,AL02903,4,0,4,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1978,Alabama,1484,AL02903,4,0,4,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1979,Alabama,1332,AL02903,4,0,4,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eclectic Police Department,1980,Alabama,1125,AL02903,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Eclectic Police Department,1981,Alabama,1141,AL02903,5,1,4,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1982,Alabama,1149,AL02903,4,1,3,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1983,Alabama,1153,AL02903,5,1,4,2,0,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
 Eclectic Police Department,1984,Alabama,1103,AL02903,4,0,4,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1985,Alabama,1112,AL02903,4,0,4,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eclectic Police Department,1986,Alabama,1181,AL02903,4,0,4,3,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eclectic Police Department,1987,Alabama,1199,AL02903,4,0,4,3,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Eclectic Police Department,1988,Alabama,1230,AL02903,4,0,4,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1989,Alabama,1324,AL02903,4,0,4,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1990,Alabama,1087,AL02903,4,0,4,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,6 +19,8 @@ Eclectic Police Department,1991,Alabama,1100,AL02903,4,0,4,3,2,1,0,0,0,0,0,0,0,0
 Eclectic Police Department,1992,Alabama,1112,AL02903,4,0,4,3,0,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1993,Alabama,1118,AL02903,4,1,3,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1994,Alabama,1126,AL02903,5,1,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eclectic Police Department,1995,Alabama,1350,AL02903,4,1,3,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eclectic Police Department,1996,Alabama,1356,AL02903,4,1,3,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Eclectic Police Department,1997,Alabama,1370,AL02903,5,1,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1998,Alabama,1315,AL02903,5,1,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,1999,Alabama,1312,AL02903,4,0,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -29,6 +35,8 @@ Eclectic Police Department,2007,Alabama,1148,AL02903,5,1,4,4,3,1,0,0,0,0,0,0,0,0
 Eclectic Police Department,2008,Alabama,1160,AL02903,6,0,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,2009,Alabama,1159,AL02903,5,0,5,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,2010,Alabama,1001,AL02903,5,0,5,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eclectic Police Department,2011,Alabama,1006,AL02903,5,1,4,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Eclectic Police Department,2012,Alabama,1017,AL02903,5,1,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eclectic Police Department,2013,Alabama,1015,AL02903,5,1,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eclectic Police Department,2014,Alabama,1008,AL02903,5,1,4,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Eclectic Police Department,2015,Alabama,1018,AL02903,5,1,4,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

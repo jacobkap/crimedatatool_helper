@@ -1,5 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Bethlehem Police Department,1975,Pennsylvania,86404,PA04803,133,1,132,31,24,7,0,0,14,0,0,9,5,7,0,0,6,1,21,0,0,15,6,1,0,6,0,0,3,0,8,0,1,2
+Bethlehem Police Department,1976,Pennsylvania,68175,PA04803,133,1,132,31,24,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bethlehem Police Department,1977,Pennsylvania,67744,PA04803,132,1,131,31,25,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bethlehem Police Department,1978,Pennsylvania,67551,PA04803,129,1,128,28,23,5,0,0,7,0,0,7,0,4,0,1,3,0,11,0,1,10,0,0,0,1,0,0,1,0,5,0,4,0
 Bethlehem Police Department,1979,Pennsylvania,72536,PA04803,130,1,129,27,23,4,0,0,14,0,0,13,1,8,1,0,6,1,22,1,0,19,2,2,0,4,0,0,4,0,3,0,4,5
 Bethlehem Police Department,1980,Pennsylvania,70410,PA04803,130,1,129,26,22,4,0,0,14,0,0,13,1,8,1,0,6,1,22,1,0,19,2,0,0,7,0,1,1,2,5,0,4,2
@@ -11,12 +13,15 @@ Bethlehem Police Department,1985,Pennsylvania,70066,PA04803,125,4,121,24,21,3,0,
 Bethlehem Police Department,1986,Pennsylvania,69901,PA04803,125,4,121,25,21,4,0,0,16,0,0,16,0,15,0,0,15,0,31,0,0,31,0,0,0,4,2,0,3,0,18,1,1,2
 Bethlehem Police Department,1987,Pennsylvania,70617,PA04803,124,4,120,25,20,5,0,0,7,0,0,7,0,11,0,0,11,0,18,0,0,18,0,1,0,6,0,0,0,0,11,0,0,0
 Bethlehem Police Department,1988,Pennsylvania,72179,PA04803,125,3,122,24,20,4,0,0,9,0,0,9,0,15,0,0,15,0,24,0,0,24,0,0,0,6,0,0,3,0,12,0,2,1
+Bethlehem Police Department,1989,Pennsylvania,72719,PA04803,125,3,122,19,16,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bethlehem Police Department,1990,Pennsylvania,71428,PA04803,125,3,122,19,16,3,0,0,2,0,0,1,1,32,3,1,28,0,34,3,1,29,1,0,0,5,0,0,1,0,20,0,3,5
 Bethlehem Police Department,1991,Pennsylvania,71904,PA04803,128,3,125,22,16,6,0,0,9,0,0,9,0,16,0,0,16,0,25,0,0,25,0,0,0,7,0,4,1,0,12,0,1,0
 Bethlehem Police Department,1992,Pennsylvania,72191,PA04803,130,3,127,23,17,6,0,0,6,0,0,5,1,17,0,0,25,0,23,0,0,22,1,0,0,3,0,0,5,0,15,0,0,0
 Bethlehem Police Department,1993,Pennsylvania,72692,PA04803,131,3,128,24,18,6,0,0,4,0,0,3,1,19,0,0,17,2,23,0,0,20,3,0,0,4,1,0,3,0,11,0,1,3
 Bethlehem Police Department,1994,Pennsylvania,72715,PA04803,134,3,131,24,17,7,0,0,12,0,0,12,0,23,1,0,22,0,35,1,0,34,0,2,0,14,0,0,4,0,12,0,1,2
+Bethlehem Police Department,1995,Pennsylvania,72941,PA04803,136,3,133,23,18,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bethlehem Police Department,1996,Pennsylvania,72843,PA04803,136,3,133,23,18,5,0,0,8,0,0,7,1,11,0,0,10,1,19,0,0,17,2,3,0,10,0,0,2,1,3,0,0,0
+Bethlehem Police Department,1997,Pennsylvania,72625,PA04803,140,2,138,24,15,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bethlehem Police Department,1998,Pennsylvania,70282,PA04803,139,2,137,23,14,9,0,0,7,0,0,5,2,7,0,0,5,2,14,0,0,10,4,1,0,1,1,0,1,0,8,0,2,0
 Bethlehem Police Department,1999,Pennsylvania,69340,PA04803,139,2,137,24,15,9,0,0,4,0,0,4,0,20,0,0,17,3,24,0,0,21,3,0,0,7,0,0,3,6,5,0,1,2
 Bethlehem Police Department,2000,Pennsylvania,71329,PA04803,142,2,140,20,15,5,0,0,7,0,0,6,1,18,0,0,16,2,25,0,0,21,4,1,1,11,0,2,3,0,6,0,1,0
@@ -25,7 +30,6 @@ Bethlehem Police Department,2002,Pennsylvania,71643,PA04803,143,3,140,22,14,8,0,
 Bethlehem Police Department,2003,Pennsylvania,71926,PA04803,140,3,137,23,15,8,0,0,5,0,0,5,0,11,0,0,10,1,16,0,0,15,1,3,0,5,0,0,2,0,2,0,3,1
 Bethlehem Police Department,2004,Pennsylvania,72810,PA04803,144,4,140,17,12,5,0,0,9,0,0,7,2,23,0,4,14,5,32,0,4,21,7,5,0,6,1,2,1,1,14,0,2,0
 Bethlehem Police Department,2005,Pennsylvania,72577,PA04803,141,3,138,22,17,5,0,0,7,0,0,7,0,8,0,0,7,1,15,0,0,14,1,0,0,4,0,0,0,0,3,0,6,2
-Bethlehem Police Department,2006,Pennsylvania,72960,PA04803,139,2,137,23,14,9,0,0,5,1,1,3,0,14,2,0,10,2,19,3,1,13,2,0,0,2,0,0,3,0,9,3,2,0
 Bethlehem Police Department,2007,Pennsylvania,72908,PA04803,151,2,149,23,19,4,0,0,5,0,1,4,0,12,0,0,12,0,17,0,1,16,0,0,0,2,0,0,0,0,14,0,1,0
 Bethlehem Police Department,2008,Pennsylvania,72537,PA04803,151,2,149,23,19,4,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Bethlehem Police Department,2009,Pennsylvania,72349,PA04803,159,5,154,18,14,4,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3

@@ -1,9 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Orchard Park Town Police Department,1975,New York,3723,NY01460,24,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,1976,New York,24441,NY01460,25,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orchard Park Town Police Department,1977,New York,23858,NY01460,25,0,25,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Orchard Park Town Police Department,1978,New York,21284,NY01460,25,0,25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,1979,New York,21687,NY01460,25,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,1980,New York,24353,NY01460,26,1,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orchard Park Town Police Department,1981,New York,24474,NY01460,26,1,25,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Orchard Park Town Police Department,1982,New York,24565,NY01460,26,1,25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,1983,New York,24576,NY01460,26,1,25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,1984,New York,24291,NY01460,26,1,25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -22,7 +24,9 @@ Orchard Park Town Police Department,1996,New York,24909,NY01460,30,1,29,2,2,0,0,
 Orchard Park Town Police Department,1997,New York,24843,NY01460,32,1,31,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,1998,New York,24637,NY01460,31,1,30,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,1999,New York,24444,NY01460,32,1,31,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orchard Park Town Police Department,2000,New York,27637,NY01460,31,0,31,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Orchard Park Town Police Department,2001,New York,27688,NY01460,32,0,32,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orchard Park Town Police Department,2002,New York,27901,NY01460,33,0,33,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Orchard Park Town Police Department,2003,New York,27817,NY01460,32,0,32,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,2004,New York,27885,NY01460,32,0,32,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,2005,New York,27906,NY01460,32,0,32,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -31,8 +35,6 @@ Orchard Park Town Police Department,2007,New York,28208,NY01460,33,0,33,5,4,1,0,
 Orchard Park Town Police Department,2008,New York,28599,NY01460,33,1,32,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,2009,New York,28626,NY01460,32,1,31,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,2010,New York,29054,NY01460,30,1,29,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Orchard Park Town Police Department,2011,New York,29185,NY01460,31,1,30,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,2012,New York,29179,NY01460,29,1,28,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,2013,New York,29386,NY01460,31,3,28,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Orchard Park Town Police Department,2014,New York,29507,NY01460,31,1,30,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orchard Park Town Police Department,2015,New York,29668,NY01460,31,2,29,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

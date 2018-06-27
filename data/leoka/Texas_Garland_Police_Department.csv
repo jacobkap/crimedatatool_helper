@@ -1,10 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Garland Police Department,1975,Texas,89948,TX05711,127,5,122,38,30,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Garland Police Department,1976,Texas,1e+05,TX05711,122,4,118,37,27,10,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Garland Police Department,1977,Texas,138505,TX05711,129,3,126,42,32,10,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,2,0,1,0,0,0
 Garland Police Department,1978,Texas,121289,TX05711,124,3,121,41,33,8,0,0,3,0,0,3,0,3,0,1,2,0,6,0,1,5,0,0,0,1,0,0,0,0,3,0,2,0
 Garland Police Department,1979,Texas,129901,TX05711,141,5,136,48,34,14,0,0,3,0,0,2,1,4,0,1,1,2,7,0,1,3,3,1,0,1,0,0,0,0,3,0,1,1
 Garland Police Department,1980,Texas,138749,TX05711,145,6,139,48,40,8,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,0,1
 Garland Police Department,1981,Texas,144479,TX05711,142,5,137,48,40,8,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Garland Police Department,1982,Texas,149620,TX05711,162,7,155,48,41,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Garland Police Department,1983,Texas,153967,TX05711,158,7,151,53,43,10,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Garland Police Department,1984,Texas,155896,TX05711,166,7,159,54,44,10,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Garland Police Department,1985,Texas,164029,TX05711,173,7,166,61,52,9,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -37,3 +39,4 @@ Garland Police Department,2011,Texas,231650,TX05711,322,20,302,120,83,37,0,0,28,
 Garland Police Department,2012,Texas,234984,TX05711,310,19,291,122,87,35,0,0,19,0,0,17,2,30,1,0,28,1,49,1,0,45,3,7,0,14,1,0,4,1,15,0,4,3
 Garland Police Department,2013,Texas,235683,TX05711,317,19,298,126,86,40,0,0,23,1,0,22,0,33,1,0,31,1,56,2,0,53,1,10,0,10,4,1,6,0,18,0,5,2
 Garland Police Department,2014,Texas,236414,TX05711,316,18,298,126,90,36,0,0,30,0,0,29,1,28,0,2,25,1,58,0,2,54,2,14,1,8,1,0,6,0,15,0,5,8
+Garland Police Department,2015,Texas,237593,TX05711,338,22,316,127,92,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,

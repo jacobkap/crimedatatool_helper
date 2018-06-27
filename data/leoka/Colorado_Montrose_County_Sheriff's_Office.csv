@@ -1,8 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Montrose County Sheriff's Office,1975,Colorado,13424,CO04300,20,2,18,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,1976,Colorado,11659,CO04300,21,2,19,2,2,0,0,0,2,0,0,2,0,1,1,0,0,0,3,1,0,2,0,0,0,0,0,0,2,0,0,0,1,0
+Montrose County Sheriff's Office,1977,Colorado,11253,CO04300,23,3,20,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Montrose County Sheriff's Office,1978,Colorado,9540,CO04300,25,3,22,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,1979,Colorado,11591,CO04300,26,3,23,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Montrose County Sheriff's Office,1980,Colorado,12488,CO04300,26,2,24,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Montrose County Sheriff's Office,1981,Colorado,12855,CO04300,26,3,23,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Montrose County Sheriff's Office,1982,Colorado,13210,CO04300,26,3,23,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,1983,Colorado,13617,CO04300,25,3,22,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,1984,Colorado,13480,CO04300,25,3,22,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,7 +20,7 @@ Montrose County Sheriff's Office,1992,Colorado,14377,CO04300,34,7,27,7,5,2,0,0,1
 Montrose County Sheriff's Office,1993,Colorado,15355,CO04300,36,8,28,8,7,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Montrose County Sheriff's Office,1994,Colorado,15742,CO04300,39,10,29,8,7,1,0,0,2,0,0,1,1,1,0,0,1,0,3,0,0,2,1,0,0,0,0,0,3,0,0,0,0,0
 Montrose County Sheriff's Office,1995,Colorado,16583,CO04300,39,10,29,8,7,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Montrose County Sheriff's Office,1996,Colorado,16919,CO04300,39,10,29,8,7,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Montrose County Sheriff's Office,1998,Colorado,17858,CO04300,43,8,35,58,43,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Montrose County Sheriff's Office,1999,Colorado,18208,CO04300,44,6,38,55,31,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,2000,Colorado,19515,CO04300,68,10,58,30,25,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,2001,Colorado,20043,CO04300,72,13,59,25,18,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

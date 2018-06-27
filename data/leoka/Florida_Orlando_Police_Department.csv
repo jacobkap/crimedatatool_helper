@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Orlando Police Department,1975,Florida,118457,FL04804,364,13,351,254,91,163,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Orlando Police Department,1976,Florida,116848,FL04804,403,13,390,191,69,122,0,0,69,0,0,69,0,112,0,0,108,4,181,0,0,177,4,3,0,46,2,0,9,0,49,0,32,40
 Orlando Police Department,1977,Florida,118374,FL04804,396,17,379,175,100,75,0,0,29,0,1,26,2,50,3,0,45,2,79,3,1,71,4,16,0,8,0,1,6,1,21,2,7,17
 Orlando Police Department,1978,Florida,118393,FL04804,395,22,373,162,100,62,0,0,16,0,0,15,1,22,0,0,22,0,38,0,0,37,1,6,0,4,0,1,7,0,16,0,1,3
@@ -12,12 +13,14 @@ Orlando Police Department,1985,Florida,142025,FL04804,423,61,362,168,117,51,0,0,
 Orlando Police Department,1986,Florida,145882,FL04804,419,63,356,174,118,56,0,0,47,2,0,39,6,94,1,4,77,12,141,3,4,116,18,23,0,32,4,1,12,2,39,0,19,9
 Orlando Police Department,1987,Florida,150250,FL04804,425,56,369,176,127,49,0,0,32,2,0,28,2,132,3,7,101,21,164,5,7,129,23,22,0,60,0,1,7,0,38,0,32,4
 Orlando Police Department,1988,Florida,155673,FL04804,463,64,399,191,134,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orlando Police Department,1989,Florida,160197,FL04804,505,65,440,219,148,71,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Orlando Police Department,1990,Florida,164693,FL04804,512,69,443,222,159,63,0,0,103,6,2,74,21,31,1,0,26,4,134,7,2,100,25,0,0,1,0,0,0,0,0,0,0,133
 Orlando Police Department,1991,Florida,169009,FL04804,545,78,467,240,176,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orlando Police Department,1992,Florida,171694,FL04804,548,77,471,244,61,183,0,0,76,3,2,58,13,139,3,7,107,22,215,6,9,165,35,30,0,60,2,2,15,1,54,0,36,15
 Orlando Police Department,1993,Florida,176748,FL04804,552,82,470,247,185,62,0,0,169,7,5,127,30,40,4,4,21,11,209,11,9,148,41,21,5,51,7,4,6,4,49,0,49,13
 Orlando Police Department,1994,Florida,180288,FL04804,581,90,491,249,188,61,0,0,228,4,8,176,40,73,2,1,59,11,301,6,9,235,51,21,0,70,0,0,65,0,35,0,78,32
 Orlando Police Department,1995,Florida,179649,FL04804,619,103,516,253,191,62,0,0,144,0,4,118,22,189,3,7,154,25,333,3,11,272,47,33,1,72,0,5,41,1,77,0,88,15
+Orlando Police Department,1996,Florida,182616,FL04804,609,106,503,250,190,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Orlando Police Department,1997,Florida,185837,FL04804,619,110,509,261,202,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orlando Police Department,1998,Florida,181527,FL04804,628,116,512,273,202,71,0,0,108,1,2,93,12,283,5,8,241,29,391,6,10,334,41,37,0,119,2,10,74,3,56,0,65,25
 Orlando Police Department,1999,Florida,183547,FL04804,630,123,507,287,220,67,0,0,111,0,0,104,7,332,11,11,275,35,443,11,11,379,42,64,0,117,4,16,43,0,108,1,58,32

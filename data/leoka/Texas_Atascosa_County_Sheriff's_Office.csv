@@ -1,4 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Atascosa County Sheriff's Office,1975,Texas,20507,TX00700,9,1,8,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Atascosa County Sheriff's Office,1976,Texas,9695,TX00700,9,1,8,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Atascosa County Sheriff's Office,1977,Texas,8985,TX00700,12,1,11,1,1,0,0,0,0,0,0,0,0,2,0,1,1,0,2,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1
 Atascosa County Sheriff's Office,1978,Texas,13919,TX00700,8,0,8,4,2,2,0,0,1,0,0,0,1,3,2,1,0,0,4,2,1,0,1,0,0,2,0,0,0,0,2,0,0,0
 Atascosa County Sheriff's Office,1979,Texas,11434,TX00700,13,0,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,3 +37,4 @@ Atascosa County Sheriff's Office,2009,Texas,24173,TX00700,31,4,27,43,25,18,0,0,0
 Atascosa County Sheriff's Office,2010,Texas,26848,TX00700,32,4,28,41,21,20,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,3,0,0,1
 Atascosa County Sheriff's Office,2011,Texas,27414,TX00700,32,3,29,47,26,21,0,0,5,0,0,4,1,0,0,0,0,0,5,0,0,4,1,0,0,1,0,0,1,1,2,0,0,0
 Atascosa County Sheriff's Office,2012,Texas,27652,TX00700,31,2,29,45,26,19,0,0,2,0,0,0,2,2,0,0,2,0,4,0,0,2,2,0,0,2,0,0,0,0,1,0,1,0
+Atascosa County Sheriff's Office,2013,Texas,28124,TX00700,31,1,30,53,25,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,

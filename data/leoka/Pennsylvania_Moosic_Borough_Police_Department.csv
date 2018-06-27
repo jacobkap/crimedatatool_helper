@@ -1,6 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Moosic Borough Police Department,1975,Pennsylvania,4192,PA03523,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Moosic Borough Police Department,1976,Pennsylvania,4236,PA03523,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moosic Borough Police Department,1977,Pennsylvania,4187,PA03523,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Moosic Borough Police Department,1978,Pennsylvania,5423,PA03523,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Moosic Borough Police Department,1979,Pennsylvania,5286,PA03523,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Moosic Borough Police Department,1980,Pennsylvania,5995,PA03523,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,8 +18,13 @@ Moosic Borough Police Department,1990,Pennsylvania,5339,PA03523,3,0,3,0,0,0,0,0,
 Moosic Borough Police Department,1991,Pennsylvania,5374,PA03523,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Moosic Borough Police Department,1992,Pennsylvania,5395,PA03523,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Moosic Borough Police Department,1993,Pennsylvania,5307,PA03523,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moosic Borough Police Department,1994,Pennsylvania,5308,PA03523,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Moosic Borough Police Department,1995,Pennsylvania,5288,PA03523,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Moosic Borough Police Department,1996,Pennsylvania,5280,PA03523,2,0,2,0,0,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,2,1,0,0,0,0,0,0,0,2,0,0,1,0
+Moosic Borough Police Department,1997,Pennsylvania,5264,PA03523,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Moosic Borough Police Department,1998,Pennsylvania,5317,PA03523,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Moosic Borough Police Department,1999,Pennsylvania,5374,PA03523,7,0,7,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,2,0,0,0,0,0,0,2
+Moosic Borough Police Department,2000,Pennsylvania,5575,PA03523,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Moosic Borough Police Department,2003,Pennsylvania,5636,PA03523,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Moosic Borough Police Department,2004,Pennsylvania,5698,PA03523,9,0,9,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Moosic Borough Police Department,2005,Pennsylvania,5717,PA03523,9,0,9,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0

@@ -1,9 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Matagorda County Sheriff's Office,1975,Texas,28222,TX16100,13,1,12,3,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Matagorda County Sheriff's Office,1976,Texas,12134,TX16100,13,1,12,3,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Matagorda County Sheriff's Office,1977,Texas,12176,TX16100,13,1,12,9,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Matagorda County Sheriff's Office,1978,Texas,4823,TX16100,14,1,13,9,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Matagorda County Sheriff's Office,1979,Texas,13233,TX16100,25,6,19,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Matagorda County Sheriff's Office,1980,Texas,15307,TX16100,27,5,22,2,1,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Matagorda County Sheriff's Office,1981,Texas,15939,TX16100,22,4,18,8,3,5,0,0,1,0,0,0,1,2,0,0,2,0,3,0,0,2,1,0,0,1,0,0,1,0,0,0,1,0
+Matagorda County Sheriff's Office,1982,Texas,16506,TX16100,25,4,21,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Matagorda County Sheriff's Office,1983,Texas,16985,TX16100,21,1,20,14,8,6,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,1,0,0,0,0,1,0,1,0,0,0
 Matagorda County Sheriff's Office,1984,Texas,15760,TX16100,22,1,21,15,8,7,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Matagorda County Sheriff's Office,1985,Texas,15204,TX16100,23,1,22,17,9,8,0,0,0,0,0,0,0,4,0,1,1,2,4,0,1,1,2,2,0,0,1,0,1,0,0,0,0,0
@@ -33,7 +36,6 @@ Matagorda County Sheriff's Office,2008,Texas,14167,TX16100,36,3,33,39,23,16,0,0,
 Matagorda County Sheriff's Office,2009,Texas,14361,TX16100,35,3,32,35,20,15,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Matagorda County Sheriff's Office,2010,Texas,14370,TX16100,34,4,30,42,23,19,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
 Matagorda County Sheriff's Office,2011,Texas,14672,TX16100,34,4,30,40,21,19,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
-Matagorda County Sheriff's Office,2012,Texas,14628,TX16100,51,4,47,20,12,8,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Matagorda County Sheriff's Office,2013,Texas,14544,TX16100,35,4,31,41,24,17,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
 Matagorda County Sheriff's Office,2014,Texas,14699,TX16100,39,5,34,39,20,19,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Matagorda County Sheriff's Office,2015,Texas,14605,TX16100,37,4,33,37,21,16,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0

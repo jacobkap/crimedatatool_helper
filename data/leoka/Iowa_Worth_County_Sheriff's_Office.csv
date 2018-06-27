@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Worth County Sheriff's Office,1975,Iowa,8593,IA09800,4,0,4,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Worth County Sheriff's Office,1976,Iowa,9500,IA09800,4,0,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Worth County Sheriff's Office,1977,Iowa,8784,IA09800,3,0,3,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Worth County Sheriff's Office,1978,Iowa,9200,IA09800,4,0,4,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
@@ -14,8 +15,12 @@ Worth County Sheriff's Office,1987,Iowa,8748,IA09800,5,0,5,5,5,0,0,0,0,0,0,0,0,2
 Worth County Sheriff's Office,1988,Iowa,8698,IA09800,5,0,5,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Worth County Sheriff's Office,1989,Iowa,8618,IA09800,5,0,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Worth County Sheriff's Office,1990,Iowa,7991,IA09800,5,0,5,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Worth County Sheriff's Office,1991,Iowa,8043,IA09800,5,0,5,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Worth County Sheriff's Office,1992,Iowa,8091,IA09800,5,0,5,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Worth County Sheriff's Office,1993,Iowa,7890,IA09800,5,0,5,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Worth County Sheriff's Office,1994,Iowa,7932,IA09800,5,0,5,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Worth County Sheriff's Office,1995,Iowa,7910,IA09800,5,0,5,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Worth County Sheriff's Office,1996,Iowa,7937,IA09800,5,0,5,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Worth County Sheriff's Office,1997,Iowa,7937,IA09800,5,0,5,7,5,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
 Worth County Sheriff's Office,1998,Iowa,7791,IA09800,5,0,5,5,4,1,0,0,2,1,0,1,0,0,0,0,0,0,2,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0
 Worth County Sheriff's Office,1999,Iowa,7798,IA09800,5,0,5,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

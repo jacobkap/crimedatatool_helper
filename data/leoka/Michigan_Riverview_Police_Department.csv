@@ -1,8 +1,14 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Riverview Police Department,1975,Michigan,11491,MI82701,25,0,25,2,2,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Riverview Police Department,1976,Michigan,14800,MI82701,24,0,24,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Riverview Police Department,1977,Michigan,14305,MI82701,25,0,25,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverview Police Department,1978,Michigan,12909,MI82701,25,1,24,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Riverview Police Department,1979,Michigan,13961,MI82701,26,1,25,4,4,0,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,3,0,0,0,0,1,0,0,0,0,1
 Riverview Police Department,1980,Michigan,14534,MI82701,26,1,25,3,3,0,0,0,5,0,0,5,0,3,0,0,3,0,8,0,0,8,0,1,0,1,0,0,2,0,2,0,0,2
+Riverview Police Department,1981,Michigan,14491,MI82701,26,1,25,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Riverview Police Department,1982,Michigan,14346,MI82701,26,1,25,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Riverview Police Department,1983,Michigan,14282,MI82701,26,1,25,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Riverview Police Department,1984,Michigan,14054,MI82701,26,1,25,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Riverview Police Department,1985,Michigan,14075,MI82701,26,1,25,4,3,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
 Riverview Police Department,1986,Michigan,14222,MI82701,26,1,25,3,2,1,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,0,0,0,3,0,1,0,0,0
 Riverview Police Department,1987,Michigan,14068,MI82701,26,1,25,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -13,6 +19,8 @@ Riverview Police Department,1991,Michigan,14002,MI82701,28,2,26,4,3,1,0,0,0,0,0,
 Riverview Police Department,1992,Michigan,14105,MI82701,27,2,25,4,3,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Riverview Police Department,1993,Michigan,13807,MI82701,26,2,24,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Riverview Police Department,1994,Michigan,13833,MI82701,28,2,26,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Riverview Police Department,1995,Michigan,13560,MI82701,27,2,25,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Riverview Police Department,1996,Michigan,13623,MI82701,27,2,25,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Riverview Police Department,1997,Michigan,13878,MI82701,28,3,25,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Riverview Police Department,1998,Michigan,14244,MI82701,27,3,24,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Riverview Police Department,1999,Michigan,14867,MI82701,29,3,26,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

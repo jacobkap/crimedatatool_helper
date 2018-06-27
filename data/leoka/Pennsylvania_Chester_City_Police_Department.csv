@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Chester City Police Department,1975,Pennsylvania,50214,PA02304,143,0,143,33,8,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Chester City Police Department,1976,Pennsylvania,49106,PA02304,140,0,140,26,8,18,0,0,14,2,2,7,3,26,3,0,22,1,40,4,2,30,4,1,0,15,3,0,10,0,8,0,0,3
 Chester City Police Department,1977,Pennsylvania,48839,PA02304,129,0,129,29,11,18,0,0,24,0,0,23,1,15,0,0,15,0,39,0,0,38,1,0,0,11,1,0,14,1,5,1,5,1
 Chester City Police Department,1978,Pennsylvania,48745,PA02304,132,1,131,37,20,17,0,0,22,1,0,21,0,27,3,0,24,0,49,0,0,49,0,0,0,9,4,0,17,0,11,3,1,4
@@ -10,17 +11,20 @@ Chester City Police Department,1983,Pennsylvania,45974,PA02304,102,0,102,14,7,7,
 Chester City Police Department,1984,Pennsylvania,45045,PA02304,101,0,101,16,8,8,0,0,24,0,0,24,0,35,0,0,35,0,59,0,0,59,0,0,0,18,5,0,10,0,20,3,2,1
 Chester City Police Department,1985,Pennsylvania,44864,PA02304,90,0,90,15,7,8,0,0,29,0,1,27,1,28,0,0,28,0,57,0,1,55,1,0,0,19,4,0,8,2,17,5,2,0
 Chester City Police Department,1986,Pennsylvania,44029,PA02304,89,0,89,15,7,8,0,0,26,0,0,25,1,25,0,0,25,0,51,0,0,50,1,0,0,14,5,0,6,0,17,1,6,2
+Chester City Police Department,1987,Pennsylvania,43852,PA02304,86,0,86,16,7,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Chester City Police Department,1988,Pennsylvania,44396,PA02304,89,0,89,18,10,8,0,0,27,0,0,24,3,53,0,0,52,1,80,0,0,76,4,0,0,44,1,0,11,0,24,0,0,0
+Chester City Police Department,1989,Pennsylvania,42704,PA02304,102,3,99,18,10,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Chester City Police Department,1990,Pennsylvania,41856,PA02304,105,5,100,16,11,5,0,0,56,0,0,47,9,111,1,1,106,3,167,0,0,156,11,0,0,28,8,16,21,1,79,3,3,8
 Chester City Police Department,1991,Pennsylvania,42135,PA02304,105,5,100,20,12,8,0,0,39,0,0,37,2,88,0,0,87,1,127,0,0,124,3,0,0,43,9,1,8,0,47,0,9,10
 Chester City Police Department,1992,Pennsylvania,42303,PA02304,90,5,85,10,8,2,0,0,32,0,0,28,4,71,0,0,66,5,103,0,1,94,8,1,0,27,6,2,5,2,35,0,11,14
 Chester City Police Department,1993,Pennsylvania,41278,PA02304,86,4,82,10,8,2,0,1,34,0,0,34,0,100,0,0,100,0,134,1,0,133,0,9,0,35,2,8,1,2,58,0,11,8
 Chester City Police Department,1994,Pennsylvania,41291,PA02304,101,7,94,10,8,2,0,0,41,0,0,41,0,129,0,0,129,0,170,0,0,170,0,0,0,45,2,2,2,4,95,2,7,11
+Chester City Police Department,1995,Pennsylvania,39532,PA02304,99,7,92,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Chester City Police Department,1996,Pennsylvania,39479,PA02304,99,7,92,8,7,1,0,0,36,0,0,36,0,171,0,0,171,0,207,0,1,203,3,0,0,35,2,0,0,5,96,0,34,35
-Chester City Police Department,1997,Pennsylvania,39360,PA02304,99,7,92,8,7,1,0,0,46,0,0,45,1,109,0,3,106,0,155,2,4,144,5,6,0,17,2,0,4,0,64,0,38,24
 Chester City Police Department,1998,Pennsylvania,40329,PA02304,99,8,91,8,7,1,0,0,29,0,0,28,1,88,0,0,88,0,117,0,1,105,11,2,0,13,0,0,0,0,33,0,41,28
 Chester City Police Department,1999,Pennsylvania,40196,PA02304,106,9,97,9,8,1,0,0,34,0,0,31,3,43,0,0,37,6,77,0,0,68,9,4,0,4,0,3,3,5,35,0,18,5
 Chester City Police Department,2000,Pennsylvania,36854,PA02304,103,10,93,7,7,0,0,0,21,0,0,18,3,43,1,0,41,1,64,1,0,59,4,0,0,12,4,5,3,1,19,0,13,7
+Chester City Police Department,2001,Pennsylvania,36872,PA02304,105,10,95,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Chester City Police Department,2002,Pennsylvania,37016,PA02304,103,11,92,10,9,1,0,0,5,0,0,3,2,2,0,0,1,1,7,0,0,4,3,0,0,1,0,0,2,0,1,0,1,2
 Chester City Police Department,2003,Pennsylvania,37149,PA02304,102,11,91,8,8,0,0,0,8,0,0,6,2,2,0,0,2,0,10,0,0,8,2,0,0,6,0,1,1,0,0,0,0,2
 Chester City Police Department,2004,Pennsylvania,37139,PA02304,96,9,87,10,8,2,0,0,1,0,0,1,0,14,0,0,14,0,15,0,0,15,0,0,0,1,0,1,3,0,9,0,0,1

@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Killeen Police Department,1975,Texas,40597,TX01404,81,1,80,28,23,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Killeen Police Department,1976,Texas,45358,TX01404,74,2,72,25,23,2,0,0,6,0,0,5,1,14,4,1,8,1,20,4,1,13,2,4,0,6,0,2,1,0,4,1,1,1
 Killeen Police Department,1977,Texas,46666,TX01404,81,4,77,30,28,2,0,0,3,1,0,1,1,4,0,0,4,0,7,1,0,5,1,5,0,0,0,0,0,0,2,0,0,0
 Killeen Police Department,1978,Texas,53000,TX01404,80,6,74,36,30,6,0,0,1,0,0,1,0,8,0,0,6,2,9,0,0,7,2,5,0,0,0,0,0,0,0,0,1,3
@@ -19,6 +20,7 @@ Killeen Police Department,1992,Texas,66038,TX01404,122,7,115,36,31,5,0,0,13,0,1,
 Killeen Police Department,1993,Texas,67884,TX01404,128,8,120,36,29,7,0,0,15,0,0,13,2,4,0,0,3,1,19,0,0,16,3,1,2,4,0,0,3,1,4,1,2,1
 Killeen Police Department,1994,Texas,69190,TX01404,129,8,121,38,33,5,0,0,11,3,0,8,0,5,1,1,3,0,16,4,1,11,0,0,0,4,0,0,4,0,4,0,3,1
 Killeen Police Department,1995,Texas,84416,TX01404,134,8,126,37,33,4,0,0,6,0,0,5,1,1,0,0,1,0,7,0,0,6,1,0,0,2,0,0,2,0,0,0,2,1
+Killeen Police Department,1996,Texas,86237,TX01404,136,10,126,37,35,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Killeen Police Department,1997,Texas,87639,TX01404,141,11,130,37,33,4,0,0,16,0,0,13,3,11,0,0,7,4,27,0,0,20,7,0,0,14,0,4,1,0,4,0,2,2
 Killeen Police Department,1998,Texas,79650,TX01404,134,13,121,29,25,4,0,0,14,0,0,12,2,24,0,0,24,0,38,0,0,36,2,5,0,12,0,0,1,1,14,1,1,3
 Killeen Police Department,1999,Texas,81882,TX01404,140,19,121,41,35,6,0,0,8,0,0,7,1,12,0,0,11,1,20,0,0,18,2,1,0,10,2,0,2,1,4,0,0,0
@@ -37,3 +39,4 @@ Killeen Police Department,2011,Texas,130613,TX01404,227,38,189,89,64,25,0,0,23,0
 Killeen Police Department,2012,Texas,131965,TX01404,229,37,192,85,62,23,0,0,7,1,0,4,2,6,2,1,2,1,13,3,1,6,3,1,0,4,0,0,0,0,4,0,3,1
 Killeen Police Department,2013,Texas,136539,TX01404,235,37,198,83,63,20,0,1,15,1,0,12,2,4,0,1,3,0,19,1,1,15,2,1,2,5,0,0,2,0,6,0,2,1
 Killeen Police Department,2014,Texas,139211,TX01404,235,41,194,87,59,28,0,0,17,3,0,13,1,8,0,5,2,1,25,3,5,15,2,0,2,10,0,0,0,3,6,0,4,0
+Killeen Police Department,2015,Texas,140497,TX01404,261,42,219,83,58,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,

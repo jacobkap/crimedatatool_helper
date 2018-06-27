@@ -1,6 +1,10 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Alamosa County Sheriff's Office,1975,Colorado,4865,CO00200,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alamosa County Sheriff's Office,1976,Colorado,4695,CO00200,6,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Alamosa County Sheriff's Office,1977,Colorado,4765,CO00200,6,1,5,4,2,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
+Alamosa County Sheriff's Office,1978,Colorado,4318,CO00200,6,1,5,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Alamosa County Sheriff's Office,1979,Colorado,3386,CO00200,7,1,6,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Alamosa County Sheriff's Office,1980,Colorado,4920,CO00200,14,1,13,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Alamosa County Sheriff's Office,1981,Colorado,5065,CO00200,16,2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alamosa County Sheriff's Office,1982,Colorado,5205,CO00200,7,1,6,8,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alamosa County Sheriff's Office,1983,Colorado,5365,CO00200,16,3,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +19,10 @@ Alamosa County Sheriff's Office,1991,Colorado,6189,CO00200,26,7,19,6,5,1,0,0,2,0
 Alamosa County Sheriff's Office,1992,Colorado,6359,CO00200,24,7,17,5,4,1,0,0,4,0,0,4,0,0,0,0,9,0,4,0,0,4,0,0,0,0,0,0,2,0,2,0,0,0
 Alamosa County Sheriff's Office,1993,Colorado,6538,CO00200,26,7,19,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alamosa County Sheriff's Office,1994,Colorado,6703,CO00200,20,3,17,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alamosa County Sheriff's Office,1995,Colorado,6592,CO00200,26,3,23,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alamosa County Sheriff's Office,1996,Colorado,6725,CO00200,24,4,20,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Alamosa County Sheriff's Office,1997,Colorado,6848,CO00200,25,4,21,7,6,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Alamosa County Sheriff's Office,1998,Colorado,6715,CO00200,28,5,23,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Alamosa County Sheriff's Office,1999,Colorado,6916,CO00200,26,5,21,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alamosa County Sheriff's Office,2000,Colorado,7006,CO00200,27,3,24,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alamosa County Sheriff's Office,2001,Colorado,7195,CO00200,23,4,19,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

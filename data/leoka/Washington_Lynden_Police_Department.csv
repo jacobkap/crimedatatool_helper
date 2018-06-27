@@ -1,6 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Lynden Police Department,1975,Washington,3575,WA03705,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lynden Police Department,1976,Washington,3673,WA03705,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lynden Police Department,1977,Washington,3655,WA03705,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lynden Police Department,1978,Washington,3735,WA03705,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lynden Police Department,1979,Washington,3778,WA03705,5,0,5,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2
 Lynden Police Department,1980,Washington,4015,WA03705,5,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Lynden Police Department,1981,Washington,4111,WA03705,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lynden Police Department,1982,Washington,4144,WA03705,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lynden Police Department,1983,Washington,4197,WA03705,6,0,6,1,1,0,0,0,1,0,0,1,0,4,0,4,0,0,5,0,4,1,0,0,0,0,0,0,0,4,0,0,0,1
 Lynden Police Department,1984,Washington,4297,WA03705,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,6 +22,7 @@ Lynden Police Department,1994,Washington,6335,WA03705,9,0,9,3,2,1,0,0,0,0,0,0,0,
 Lynden Police Department,1995,Washington,6558,WA03705,10,1,9,3,2,1,0,0,1,0,0,0,1,2,0,0,2,0,3,0,0,2,1,0,0,0,1,0,0,0,0,0,2,0
 Lynden Police Department,1996,Washington,6681,WA03705,11,1,10,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lynden Police Department,1997,Washington,6773,WA03705,11,1,10,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Lynden Police Department,1998,Washington,8162,WA03705,11,1,10,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lynden Police Department,1999,Washington,8719,WA03705,12,1,11,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Lynden Police Department,2000,Washington,9020,WA03705,13,1,12,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Lynden Police Department,2001,Washington,9164,WA03705,13,1,12,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

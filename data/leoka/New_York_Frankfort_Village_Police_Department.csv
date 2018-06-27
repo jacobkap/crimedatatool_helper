@@ -1,12 +1,16 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Frankfort Village Police Department,1975,New York,3231,NY02121,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Frankfort Village Police Department,1976,New York,3500,NY02121,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,1977,New York,3537,NY02121,5,0,5,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0
 Frankfort Village Police Department,1978,New York,3147,NY02121,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,1979,New York,3192,NY02121,5,0,5,1,0,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,1980,New York,2989,NY02121,5,0,5,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,1981,New York,3004,NY02121,5,0,5,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,2,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0
-Frankfort Village Police Department,1984,New York,3025,NY02121,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Frankfort Village Police Department,1985,New York,3033,NY02121,5,0,5,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Frankfort Village Police Department,1982,New York,3015,NY02121,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frankfort Village Police Department,1983,New York,3016,NY02121,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frankfort Village Police Department,1991,New York,2703,NY02121,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frankfort Village Police Department,1992,New York,2712,NY02121,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frankfort Village Police Department,1993,New York,2688,NY02121,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Frankfort Village Police Department,1994,New York,2683,NY02121,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,1995,New York,2767,NY02121,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,1996,New York,2774,NY02121,4,0,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -15,11 +19,13 @@ Frankfort Village Police Department,1998,New York,2583,NY02121,4,0,4,0,0,0,0,0,0
 Frankfort Village Police Department,1999,New York,2506,NY02121,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,2000,New York,2537,NY02121,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,2001,New York,2542,NY02121,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Frankfort Village Police Department,2002,New York,2561,NY02121,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,2003,New York,2482,NY02121,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,2004,New York,2467,NY02121,4,0,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Frankfort Village Police Department,2006,New York,2459,NY02121,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frankfort Village Police Department,2005,New York,2470,NY02121,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frankfort Village Police Department,2007,New York,2409,NY02121,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frankfort Village Police Department,2008,New York,2363,NY02121,4,1,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Frankfort Village Police Department,2009,New York,2343,NY02121,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frankfort Village Police Department,2010,New York,2598,NY02121,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Frankfort Village Police Department,2011,New York,2610,NY02121,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,2012,New York,2598,NY02121,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frankfort Village Police Department,2013,New York,2579,NY02121,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

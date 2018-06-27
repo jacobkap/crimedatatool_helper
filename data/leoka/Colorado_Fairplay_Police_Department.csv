@@ -1,4 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Fairplay Police Department,1979,Colorado,517,CO04701,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairplay Police Department,1980,Colorado,430,CO04701,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairplay Police Department,1981,Colorado,443,CO04701,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fairplay Police Department,1982,Colorado,455,CO04701,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairplay Police Department,1983,Colorado,469,CO04701,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairplay Police Department,1984,Colorado,546,CO04701,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -8,11 +11,21 @@ Fairplay Police Department,1987,Colorado,565,CO04701,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 Fairplay Police Department,1988,Colorado,583,CO04701,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairplay Police Department,1989,Colorado,563,CO04701,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairplay Police Department,1990,Colorado,387,CO04701,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fairplay Police Department,1991,Colorado,396,CO04701,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fairplay Police Department,1992,Colorado,406,CO04701,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairplay Police Department,1993,Colorado,449,CO04701,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Fairplay Police Department,1994,Colorado,460,CO04701,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fairplay Police Department,1995,Colorado,568,CO04701,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Fairplay Police Department,1996,Colorado,579,CO04701,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairplay Police Department,1997,Colorado,589,CO04701,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairplay Police Department,1998,Colorado,586,CO04701,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairplay Police Department,1999,Colorado,581,CO04701,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairplay Police Department,2000,Colorado,610,CO04701,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairplay Police Department,2001,Colorado,627,CO04701,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairplay Police Department,2002,Colorado,639,CO04701,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fairplay Police Department,2010,Colorado,679,CO04701,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairplay Police Department,2011,Colorado,691,CO04701,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairplay Police Department,2012,Colorado,684,CO04701,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairplay Police Department,2013,Colorado,667,CO04701,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairplay Police Department,2014,Colorado,670,CO04701,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fairplay Police Department,2015,Colorado,679,CO04701,3,1,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

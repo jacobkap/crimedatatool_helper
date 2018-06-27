@@ -1,5 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Bloomingdale Police Dept,1975,Illinois,8788,IL02203,13,1,12,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bloomingdale Police Dept,1976,Illinois,8841,IL02203,11,1,10,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bloomingdale Police Dept,1977,Illinois,9936,IL02203,17,1,16,9,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bloomingdale Police Dept,1978,Illinois,11276,IL02203,18,1,17,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police Dept,1979,Illinois,10599,IL02203,19,2,17,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police Dept,1980,Illinois,12458,IL02203,23,2,21,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7,6 +9,7 @@ Bloomingdale Police Dept,1981,Illinois,12567,IL02203,24,2,22,9,8,1,0,0,0,0,0,0,0
 Bloomingdale Police Dept,1982,Illinois,12560,IL02203,25,2,23,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police Dept,1983,Illinois,12601,IL02203,25,3,22,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police Dept,1984,Illinois,13357,IL02203,28,2,26,12,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bloomingdale Police Dept,1985,Illinois,13385,IL02203,27,2,25,14,13,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bloomingdale Police Dept,1986,Illinois,13480,IL02203,29,1,28,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police Dept,1987,Illinois,13640,IL02203,29,1,28,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police Dept,1988,Illinois,13843,IL02203,31,1,30,14,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -14,4 +17,24 @@ Bloomingdale Police Dept,1989,Illinois,14532,IL02203,34,1,33,12,9,3,0,0,0,0,0,0,
 Bloomingdale Police Dept,1990,Illinois,16614,IL02203,38,1,37,16,12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police Dept,1991,Illinois,16777,IL02203,38,1,37,16,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police Dept,1992,Illinois,16904,IL02203,38,0,38,17,14,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bloomingdale Police Dept,1993,Illinois,19337,IL02203,42,1,41,17,15,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bloomingdale Police Dept,1994,Illinois,19427,IL02203,43,1,42,17,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bloomingdale Police Dept,1995,Illinois,20799,IL02203,45,1,44,18,14,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,1996,Illinois,20828,IL02203,46,2,44,17,15,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,1997,Illinois,20914,IL02203,47,2,45,17,14,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,1998,Illinois,19843,IL02203,45,3,42,16,11,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,1999,Illinois,20133,IL02203,49,4,45,16,12,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2000,Illinois,21675,IL02203,46,3,43,15,13,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2001,Illinois,21785,IL02203,48,3,45,16,14,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2002,Illinois,21991,IL02203,49,4,45,17,14,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2003,Illinois,22000,IL02203,47,3,44,16,13,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2004,Illinois,21905,IL02203,48,4,44,16,13,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2005,Illinois,21989,IL02203,48,4,44,16,12,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2006,Illinois,22042,IL02203,46,5,41,17,13,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2007,Illinois,21995,IL02203,48,5,43,17,13,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2008,Illinois,21917,IL02203,47,5,42,17,13,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2009,Illinois,21855,IL02203,47,5,42,17,13,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2010,Illinois,22018,IL02203,43,4,39,16,12,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2011,Illinois,22084,IL02203,45,5,40,15,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2012,Illinois,22177,IL02203,44,5,39,13,12,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police Dept,2013,Illinois,22301,IL02203,45,5,40,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,21 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Whitaker Police Dept,1979,Pennsylvania,1583,PA00299,0,0,0,0,0,0,0,0,3,0,0,3,0,1,1,0,0,0,4,1,0,3,0,0,0,0,0,0,0,0,3,0,0,1
 Whitaker Police Dept,1980,Pennsylvania,1623,PA00299,2,0,2,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
 Whitaker Police Dept,1981,Pennsylvania,1628,PA00299,2,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
+Whitaker Police Dept,1982,Pennsylvania,1628,PA00299,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Whitaker Police Dept,1983,Pennsylvania,1632,PA00299,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Whitaker Police Dept,1984,Pennsylvania,1595,PA00299,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Whitaker Police Dept,1985,Pennsylvania,1569,PA00299,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Whitaker Police Dept,1986,Pennsylvania,1563,PA00299,2,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-Whitaker Police Dept,1994,Pennsylvania,1411,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,1996,Pennsylvania,1404,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,1997,Pennsylvania,1399,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Whitaker Police Dept,1987,Pennsylvania,1506,PA00299,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Whitaker Police Dept,1988,Pennsylvania,1499,PA00299,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Whitaker Police Dept,1998,Pennsylvania,1319,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,1999,Pennsylvania,1290,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,2007,Pennsylvania,1224,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,2008,Pennsylvania,1214,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,2009,Pennsylvania,1204,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,2010,Pennsylvania,1271,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,2011,Pennsylvania,1275,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,2012,Pennsylvania,1275,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,2013,Pennsylvania,1271,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,2014,Pennsylvania,1270,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Whitaker Police Dept,2015,Pennsylvania,1260,PA00299,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

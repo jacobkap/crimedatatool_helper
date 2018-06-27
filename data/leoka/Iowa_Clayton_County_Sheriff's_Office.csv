@@ -1,7 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Clayton County Sheriff's Office,1975,Iowa,20583,IA02200,5,1,4,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Clayton County Sheriff's Office,1976,Iowa,20867,IA02200,4,1,3,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Clayton County Sheriff's Office,1977,Iowa,22000,IA02200,4,0,4,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clayton County Sheriff's Office,1978,Iowa,23678,IA02200,5,0,5,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Clayton County Sheriff's Office,1979,Iowa,20652,IA02200,6,0,6,4,2,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,1980,Iowa,21091,IA02200,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clayton County Sheriff's Office,1981,Iowa,21013,IA02200,7,0,7,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Clayton County Sheriff's Office,1982,Iowa,21071,IA02200,7,0,7,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Clayton County Sheriff's Office,1983,Iowa,21071,IA02200,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,1984,Iowa,20966,IA02200,7,0,7,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,1985,Iowa,21011,IA02200,7,0,7,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -10,8 +15,12 @@ Clayton County Sheriff's Office,1987,Iowa,20578,IA02200,8,0,8,6,6,0,0,0,0,0,0,0,
 Clayton County Sheriff's Office,1988,Iowa,20396,IA02200,8,0,8,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,1989,Iowa,20241,IA02200,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,1990,Iowa,19054,IA02200,9,1,8,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clayton County Sheriff's Office,1991,Iowa,19179,IA02200,10,1,9,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Clayton County Sheriff's Office,1992,Iowa,19295,IA02200,10,1,9,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Clayton County Sheriff's Office,1993,Iowa,18808,IA02200,10,1,9,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Clayton County Sheriff's Office,1994,Iowa,16638,IA02200,10,1,9,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,1995,Iowa,16654,IA02200,10,1,9,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clayton County Sheriff's Office,1996,Iowa,16712,IA02200,9,1,8,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Clayton County Sheriff's Office,1997,Iowa,16712,IA02200,8,1,7,13,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,1998,Iowa,16571,IA02200,9,1,8,11,10,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Clayton County Sheriff's Office,1999,Iowa,18768,IA02200,10,1,9,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -27,7 +36,5 @@ Clayton County Sheriff's Office,2008,Iowa,17607,IA02200,11,1,10,15,12,3,0,0,0,0,
 Clayton County Sheriff's Office,2009,Iowa,17428,IA02200,12,1,11,15,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,2010,Iowa,18129,IA02200,12,1,11,15,4,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,2011,Iowa,18224,IA02200,13,0,13,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Clayton County Sheriff's Office,2012,Iowa,18084,IA02200,9,1,8,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Clayton County Sheriff's Office,2013,Iowa,17798,IA02200,9,1,8,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,2014,Iowa,17730,IA02200,11,0,11,17,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton County Sheriff's Office,2015,Iowa,17603,IA02200,12,0,12,15,12,3,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0

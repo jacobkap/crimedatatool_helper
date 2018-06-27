@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Multnomah County Sheriff's Office,1975,Oregon,150287,OR02600,230,8,222,165,48,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Multnomah County Sheriff's Office,1976,Oregon,154175,OR02600,216,10,206,48,36,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Multnomah County Sheriff's Office,1977,Oregon,144100,OR02600,223,11,212,66,48,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Multnomah County Sheriff's Office,1978,Oregon,147389,OR02600,219,13,206,56,39,17,0,0,21,0,1,16,4,48,0,2,43,3,69,0,3,59,7,2,0,11,2,1,6,1,32,0,4,10
 Multnomah County Sheriff's Office,1979,Oregon,103984,OR02600,223,14,209,70,49,21,0,0,2,0,0,1,1,7,0,0,7,0,9,0,0,8,1,0,0,2,0,1,0,0,4,0,1,1
@@ -27,7 +28,6 @@ Multnomah County Sheriff's Office,2000,Oregon,19683,OR02600,102,10,92,29,20,9,0,
 Multnomah County Sheriff's Office,2001,Oregon,19981,OR02600,102,10,92,29,20,9,0,0,2,0,0,2,0,8,0,0,8,0,10,0,0,10,0,0,0,2,0,0,4,0,3,0,1,0
 Multnomah County Sheriff's Office,2002,Oregon,20256,OR02600,97,9,88,25,16,9,0,0,5,0,0,5,0,3,0,0,3,0,8,0,0,8,0,0,0,1,0,0,5,0,1,0,0,1
 Multnomah County Sheriff's Office,2003,Oregon,20153,OR02600,93,8,85,30,26,4,0,0,11,0,0,9,2,7,0,0,4,3,18,0,0,13,5,1,0,0,0,0,13,0,1,0,2,1
-Multnomah County Sheriff's Office,2004,Oregon,19964,OR02600,105,6,99,57,39,18,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
 Multnomah County Sheriff's Office,2005,Oregon,19592,OR02600,93,9,84,33,30,3,0,0,2,0,0,2,0,2,1,1,0,0,4,1,1,2,0,1,0,1,0,0,1,0,0,0,0,1
 Multnomah County Sheriff's Office,2006,Oregon,19565,OR02600,93,9,84,33,30,3,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,2,0,1,0,0,1
 Multnomah County Sheriff's Office,2007,Oregon,24291,OR02600,86,7,79,729,255,474,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,1,0,0,0,0,0,0,0,0,1,3
@@ -38,3 +38,4 @@ Multnomah County Sheriff's Office,2011,Oregon,21052,OR02600,105,9,96,628,222,406
 Multnomah County Sheriff's Office,2012,Oregon,21345,OR02600,102,7,95,634,213,421,0,0,2,0,0,2,0,4,0,1,3,0,6,0,1,5,0,1,0,1,0,0,1,1,1,0,1,0
 Multnomah County Sheriff's Office,2013,Oregon,23424,OR02600,116,22,94,630,212,418,0,0,5,0,0,5,0,6,0,0,4,2,11,0,0,9,2,0,0,1,0,0,9,1,0,0,0,0
 Multnomah County Sheriff's Office,2014,Oregon,24669,OR02600,104,7,97,633,208,425,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Multnomah County Sheriff's Office,2015,Oregon,26359,OR02600,99,8,91,670,196,474,,,,,,,,,,,,,,,,,,,,,,,,,,,,

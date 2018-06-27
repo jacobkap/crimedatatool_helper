@@ -1,8 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Federal Heights Police Department,1975,Colorado,1733,CO00108,11,1,10,5,5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Federal Heights Police Department,1976,Colorado,1537,CO00108,10,1,9,7,6,1,0,0,3,2,0,1,0,2,0,0,2,0,5,2,0,3,0,0,0,1,2,0,2,0,0,0,0,0
+Federal Heights Police Department,1977,Colorado,1791,CO00108,12,1,11,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Federal Heights Police Department,1978,Colorado,8000,CO00108,13,1,12,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,1979,Colorado,6884,CO00108,15,1,14,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Federal Heights Police Department,1980,Colorado,7815,CO00108,15,1,14,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Federal Heights Police Department,1981,Colorado,8045,CO00108,16,1,15,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Federal Heights Police Department,1982,Colorado,8267,CO00108,16,1,15,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,1983,Colorado,8522,CO00108,15,0,15,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,1984,Colorado,8401,CO00108,16,0,16,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -12,11 +15,13 @@ Federal Heights Police Department,1987,Colorado,8021,CO00108,16,0,16,9,8,1,0,0,0
 Federal Heights Police Department,1988,Colorado,7992,CO00108,16,0,16,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,1989,Colorado,7858,CO00108,17,1,16,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,1990,Colorado,9342,CO00108,16,2,14,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Federal Heights Police Department,1991,Colorado,9576,CO00108,17,2,15,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Federal Heights Police Department,1992,Colorado,9839,CO00108,19,2,17,9,9,0,0,0,1,0,0,1,0,0,0,0,9,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Federal Heights Police Department,1993,Colorado,10221,CO00108,19,2,17,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,1994,Colorado,10478,CO00108,19,2,17,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,1995,Colorado,10485,CO00108,20,2,18,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,1996,Colorado,10697,CO00108,23,3,20,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Federal Heights Police Department,1997,Colorado,10892,CO00108,20,1,19,9,9,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Federal Heights Police Department,1998,Colorado,11013,CO00108,24,1,23,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,1999,Colorado,11820,CO00108,21,0,21,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,2000,Colorado,12065,CO00108,22,3,19,11,10,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -26,7 +31,6 @@ Federal Heights Police Department,2003,Colorado,12228,CO00108,25,3,22,12,11,1,0,
 Federal Heights Police Department,2004,Colorado,11982,CO00108,25,3,22,12,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,2005,Colorado,11973,CO00108,24,4,20,12,11,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Federal Heights Police Department,2006,Colorado,11927,CO00108,24,4,20,9,9,0,0,0,0,0,0,0,0,2,1,0,0,1,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1
-Federal Heights Police Department,2007,Colorado,11697,CO00108,24,1,23,7,7,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Federal Heights Police Department,2008,Colorado,11620,CO00108,24,3,21,10,7,3,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1
 Federal Heights Police Department,2009,Colorado,11695,CO00108,24,3,21,10,5,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Federal Heights Police Department,2010,Colorado,11467,CO00108,24,3,21,12,6,6,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1

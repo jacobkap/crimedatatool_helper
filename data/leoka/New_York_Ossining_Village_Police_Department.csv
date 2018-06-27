@@ -1,12 +1,19 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Ossining Village Police Department,1975,New York,22000,NY05905,46,0,46,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ossining Village Police Department,1976,New York,21124,NY05905,46,0,46,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ossining Village Police Department,1977,New York,20808,NY05905,46,0,46,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ossining Village Police Department,1978,New York,22000,NY05905,45,1,44,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
 Ossining Village Police Department,1979,New York,19203,NY05905,44,0,44,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ossining Village Police Department,1980,New York,20228,NY05905,37,0,37,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Ossining Village Police Department,1981,New York,20329,NY05905,41,1,40,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ossining Village Police Department,1982,New York,20404,NY05905,43,1,42,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ossining Village Police Department,1983,New York,20413,NY05905,42,1,41,5,4,1,0,0,3,0,0,2,1,0,0,0,0,0,3,0,0,2,1,0,0,0,0,0,0,0,2,0,1,0
 Ossining Village Police Department,1985,New York,20889,NY05905,43,1,42,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ossining Village Police Department,1986,New York,21420,NY05905,43,1,42,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ossining Village Police Department,1987,New York,21333,NY05905,45,1,44,6,6,0,0,0,3,0,0,3,0,3,0,1,1,1,6,0,1,4,1,2,0,2,0,0,1,0,1,0,0,0
 Ossining Village Police Department,1988,New York,21388,NY05905,48,1,47,5,4,1,0,0,6,0,0,6,0,1,1,0,0,0,7,1,0,6,0,0,0,2,1,0,1,0,2,0,1,0
+Ossining Village Police Department,1989,New York,21569,NY05905,48,1,47,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ossining Village Police Department,1990,New York,22582,NY05905,48,1,47,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ossining Village Police Department,1991,New York,22666,NY05905,48,1,47,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ossining Village Police Department,1992,New York,22742,NY05905,48,1,47,7,4,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ossining Village Police Department,1993,New York,23035,NY05905,49,1,48,5,2,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
@@ -14,6 +21,7 @@ Ossining Village Police Department,1994,New York,22999,NY05905,50,1,49,8,4,4,0,0
 Ossining Village Police Department,1995,New York,22671,NY05905,51,2,49,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ossining Village Police Department,1996,New York,22732,NY05905,51,2,49,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ossining Village Police Department,1997,New York,22671,NY05905,53,2,51,7,4,3,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ossining Village Police Department,1998,New York,22908,NY05905,52,1,51,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ossining Village Police Department,1999,New York,23037,NY05905,53,1,52,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ossining Village Police Department,2000,New York,24010,NY05905,55,2,53,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ossining Village Police Department,2001,New York,24054,NY05905,55,2,53,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

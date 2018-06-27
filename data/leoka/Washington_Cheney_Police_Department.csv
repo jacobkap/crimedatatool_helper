@@ -1,12 +1,24 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Cheney Police Department,1975,Washington,6682,WA03201,10,1,9,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Cheney Police Department,1976,Washington,6887,WA03201,7,1,6,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheney Police Department,1977,Washington,6800,WA03201,11,1,10,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Cheney Police Department,1978,Washington,7091,WA03201,11,2,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheney Police Department,1979,Washington,7475,WA03201,11,1,10,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Cheney Police Department,1980,Washington,7610,WA03201,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheney Police Department,1981,Washington,7793,WA03201,10,1,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheney Police Department,1982,Washington,7854,WA03201,10,1,9,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0
 Cheney Police Department,1983,Washington,7955,WA03201,10,1,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cheney Police Department,1984,Washington,7725,WA03201,10,1,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheney Police Department,1985,Washington,7831,WA03201,9,1,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheney Police Department,1986,Washington,7790,WA03201,10,1,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheney Police Department,1987,Washington,7739,WA03201,11,1,10,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheney Police Department,1988,Washington,7711,WA03201,11,2,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheney Police Department,1989,Washington,7785,WA03201,11,2,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheney Police Department,1990,Washington,7723,WA03201,11,2,9,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheney Police Department,1991,Washington,7963,WA03201,11,2,9,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Cheney Police Department,1992,Washington,8150,WA03201,11,1,10,1,1,0,0,0,1,0,0,1,0,3,0,0,12,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
 Cheney Police Department,1993,Washington,8320,WA03201,11,1,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cheney Police Department,1994,Washington,8459,WA03201,12,2,10,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Cheney Police Department,1995,Washington,9013,WA03201,12,1,11,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheney Police Department,1996,Washington,9182,WA03201,9,1,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheney Police Department,1997,Washington,9309,WA03201,12,1,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

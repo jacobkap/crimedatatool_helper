@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Bayou La Batre Police Department,1976,Alabama,2817,AL00206,11,0,11,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bayou La Batre Police Department,1977,Alabama,3031,AL00206,12,0,12,5,2,3,0,0,0,0,0,0,0,7,0,1,6,0,7,0,1,6,0,1,0,2,0,0,0,0,2,0,1,1
 Bayou La Batre Police Department,1978,Alabama,3000,AL00206,11,1,10,1,1,0,0,0,1,0,0,1,0,6,0,0,5,1,7,0,0,6,1,1,0,1,0,0,0,0,4,0,0,1
 Bayou La Batre Police Department,1979,Alabama,2710,AL00206,9,0,9,1,1,0,0,0,2,0,0,2,0,7,0,0,7,0,9,0,0,9,0,3,0,3,2,0,0,0,1,0,0,0
@@ -12,8 +13,15 @@ Bayou La Batre Police Department,1986,Alabama,2199,AL00206,11,0,11,5,4,1,0,0,0,0
 Bayou La Batre Police Department,1987,Alabama,2186,AL00206,11,0,11,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bayou La Batre Police Department,1988,Alabama,2254,AL00206,11,0,11,4,3,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Bayou La Batre Police Department,1989,Alabama,2207,AL00206,11,0,11,5,4,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Bayou La Batre Police Department,1990,Alabama,2456,AL00206,11,0,11,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bayou La Batre Police Department,1991,Alabama,2485,AL00206,11,0,11,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bayou La Batre Police Department,1992,Alabama,2513,AL00206,11,0,11,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bayou La Batre Police Department,1993,Alabama,2394,AL00206,12,0,12,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bayou La Batre Police Department,1994,Alabama,2412,AL00206,11,0,11,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bayou La Batre Police Department,1995,Alabama,2434,AL00206,12,0,12,5,4,1,0,0,2,0,0,2,0,3,0,0,2,1,5,0,0,4,1,0,0,0,0,0,3,0,1,0,0,1
+Bayou La Batre Police Department,1996,Alabama,2445,AL00206,12,0,12,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bayou La Batre Police Department,1997,Alabama,2471,AL00206,13,0,13,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bayou La Batre Police Department,1998,Alabama,2494,AL00206,17,0,17,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bayou La Batre Police Department,1999,Alabama,2466,AL00206,17,0,17,5,4,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Bayou La Batre Police Department,2000,Alabama,2313,AL00206,16,0,16,5,4,1,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
 Bayou La Batre Police Department,2001,Alabama,2322,AL00206,19,0,19,6,6,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,2,1
@@ -26,4 +34,8 @@ Bayou La Batre Police Department,2007,Alabama,2761,AL00206,13,0,13,5,5,0,0,0,1,0
 Bayou La Batre Police Department,2008,Alabama,2716,AL00206,11,0,11,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bayou La Batre Police Department,2009,Alabama,2886,AL00206,14,1,13,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bayou La Batre Police Department,2010,Alabama,2558,AL00206,14,1,13,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bayou La Batre Police Department,2011,Alabama,2570,AL00206,15,0,15,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bayou La Batre Police Department,2012,Alabama,2565,AL00206,14,0,14,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Bayou La Batre Police Department,2013,Alabama,2647,AL00206,14,0,14,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bayou La Batre Police Department,2014,Alabama,2626,AL00206,15,1,14,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bayou La Batre Police Department,2015,Alabama,2621,AL00206,15,2,13,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

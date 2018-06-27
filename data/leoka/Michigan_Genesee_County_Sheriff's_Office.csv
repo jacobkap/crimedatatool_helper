@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Genesee County Sheriff's Office,1975,Michigan,87623,MI25125,194,9,185,31,19,12,0,0,13,0,0,12,1,19,0,0,17,2,32,0,0,29,3,8,0,7,0,0,1,0,6,0,5,5
+Genesee County Sheriff's Office,1976,Michigan,84315,MI25125,125,9,116,22,16,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Genesee County Sheriff's Office,1977,Michigan,67458,MI25125,132,12,120,17,13,4,0,0,3,0,2,1,0,23,2,0,19,2,26,2,2,20,2,1,0,5,0,0,0,0,17,0,1,2
 Genesee County Sheriff's Office,1978,Michigan,44139,MI25125,137,14,123,20,16,4,0,0,3,0,1,2,0,3,0,1,2,0,6,0,2,4,0,0,0,2,0,0,0,0,3,0,1,0
 Genesee County Sheriff's Office,1979,Michigan,84486,MI25125,110,3,107,68,30,38,0,0,1,0,0,1,0,21,2,1,18,0,22,2,1,19,0,1,0,0,0,12,0,0,6,1,1,1
@@ -18,6 +19,8 @@ Genesee County Sheriff's Office,1991,Michigan,34573,MI25125,93,8,85,132,52,80,0,
 Genesee County Sheriff's Office,1992,Michigan,34827,MI25125,99,11,88,136,45,91,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Genesee County Sheriff's Office,1993,Michigan,34801,MI25125,100,13,87,135,56,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Genesee County Sheriff's Office,1994,Michigan,34867,MI25125,116,17,99,111,55,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genesee County Sheriff's Office,1995,Michigan,48376,MI25125,130,18,112,110,57,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Genesee County Sheriff's Office,1996,Michigan,48603,MI25125,132,20,112,106,58,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Genesee County Sheriff's Office,1997,Michigan,49514,MI25125,136,27,109,99,53,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Genesee County Sheriff's Office,1998,Michigan,50696,MI25125,135,23,112,105,56,49,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,2,0,1,0,0,0,0,0,0,0,1
 Genesee County Sheriff's Office,1999,Michigan,52512,MI25125,110,19,91,144,60,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,6 +28,7 @@ Genesee County Sheriff's Office,2000,Michigan,60671,MI25125,136,27,109,143,68,75
 Genesee County Sheriff's Office,2001,Michigan,60992,MI25125,143,26,117,136,70,66,0,0,4,0,0,4,0,3,0,0,1,2,7,0,0,5,2,0,0,0,0,0,3,0,0,0,1,3
 Genesee County Sheriff's Office,2002,Michigan,61352,MI25125,143,27,116,136,65,71,0,0,7,0,2,4,1,4,0,0,4,0,11,0,2,8,1,0,0,1,0,2,6,0,2,0,0,0
 Genesee County Sheriff's Office,2003,Michigan,60813,MI25125,142,28,114,121,59,62,0,0,2,0,0,2,0,3,0,0,2,1,5,0,0,4,1,1,0,0,0,0,2,0,0,0,1,1
+Genesee County Sheriff's Office,2004,Michigan,53554,MI25125,145,30,115,129,55,74,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Genesee County Sheriff's Office,2005,Michigan,54153,MI25125,142,31,111,129,53,76,0,0,2,0,0,2,0,6,0,0,5,1,8,0,0,7,1,2,0,0,0,0,4,0,0,0,0,2
 Genesee County Sheriff's Office,2006,Michigan,54344,MI25125,115,17,98,157,61,96,0,0,4,1,0,3,0,2,1,0,1,0,6,2,0,4,0,0,0,1,0,0,3,0,1,0,1,0
 Genesee County Sheriff's Office,2007,Michigan,52635,MI25125,144,30,114,109,37,72,0,0,1,0,0,1,0,5,3,0,2,0,6,3,0,3,0,1,0,0,0,0,1,0,1,1,1,1

@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Guilderland Town Police Department,1975,New York,20812,NY00152,7,0,7,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Guilderland Town Police Department,1976,New York,25000,NY00152,7,0,7,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Guilderland Town Police Department,1977,New York,23200,NY00152,8,1,7,7,7,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Guilderland Town Police Department,1978,New York,21837,NY00152,9,2,7,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -9,14 +10,23 @@ Guilderland Town Police Department,1982,New York,25404,NY00152,10,2,8,9,6,3,0,0,
 Guilderland Town Police Department,1983,New York,25415,NY00152,12,2,10,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Guilderland Town Police Department,1984,New York,25169,NY00152,14,2,12,9,5,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Guilderland Town Police Department,1985,New York,25236,NY00152,14,2,12,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guilderland Town Police Department,1986,New York,25002,NY00152,17,2,15,13,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Guilderland Town Police Department,1987,New York,24804,NY00152,17,2,15,13,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Guilderland Town Police Department,1988,New York,24830,NY00152,21,2,19,9,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Guilderland Town Police Department,1989,New York,24947,NY00152,21,2,19,11,9,2,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 Guilderland Town Police Department,1990,New York,27245,NY00152,24,2,22,13,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Guilderland Town Police Department,1991,New York,27347,NY00152,24,2,22,13,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Guilderland Town Police Department,1992,New York,27439,NY00152,24,2,22,13,8,5,0,0,1,0,0,0,1,0,0,0,9,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Guilderland Town Police Department,1993,New York,27572,NY00152,23,2,21,10,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Guilderland Town Police Department,1994,New York,27529,NY00152,23,2,21,10,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Guilderland Town Police Department,1995,New York,27478,NY00152,28,2,26,13,8,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Guilderland Town Police Department,1996,New York,27552,NY00152,29,2,27,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guilderland Town Police Department,1997,New York,27479,NY00152,28,1,27,11,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Guilderland Town Police Department,1998,New York,29351,NY00152,30,1,29,14,8,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Guilderland Town Police Department,1999,New York,28340,NY00152,30,1,29,15,8,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Guilderland Town Police Department,2000,New York,30951,NY00152,32,1,31,16,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Guilderland Town Police Department,2001,New York,31008,NY00152,30,1,29,14,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guilderland Town Police Department,2002,New York,31246,NY00152,34,1,33,15,8,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Guilderland Town Police Department,2003,New York,32949,NY00152,35,2,33,15,8,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Guilderland Town Police Department,2004,New York,33128,NY00152,36,3,33,16,8,8,0,0,3,0,0,3,0,5,0,0,5,0,8,0,0,8,0,0,0,2,0,0,1,0,2,0,3,0
 Guilderland Town Police Department,2005,New York,33129,NY00152,36,3,33,16,8,8,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Guilderland Town Police Department,2006,New York,33078,NY00152,36,3,33,16,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

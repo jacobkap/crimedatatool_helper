@@ -1,9 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 San Bernardino County Sheriff's Office,1975,California,303571,CA03600,580,19,561,164,124,40,0,1,15,0,0,15,0,27,7,1,15,4,42,7,1,30,4,4,1,6,1,1,6,0,17,0,2,4
+San Bernardino County Sheriff's Office,1976,California,326210,CA03600,593,21,572,177,129,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 San Bernardino County Sheriff's Office,1977,California,332519,CA03600,608,24,584,182,134,48,0,0,39,3,3,17,16,64,8,8,37,11,103,11,11,54,27,5,8,10,3,11,7,2,42,1,6,8
 San Bernardino County Sheriff's Office,1978,California,363790,CA03600,679,44,635,202,151,51,0,0,50,5,3,30,12,96,7,3,68,18,146,12,6,98,30,5,3,20,1,2,22,1,64,3,9,16
 San Bernardino County Sheriff's Office,1979,California,375303,CA03600,690,45,645,238,185,53,0,0,57,4,0,39,14,88,21,6,51,10,145,25,6,90,24,10,1,35,1,3,7,0,54,3,11,20
 San Bernardino County Sheriff's Office,1980,California,404130,CA03600,757,53,704,236,193,43,0,0,79,3,6,61,9,64,9,1,43,11,143,12,7,104,20,4,1,14,5,3,21,3,62,3,10,17
+San Bernardino County Sheriff's Office,1981,California,414886,CA03600,804,74,730,218,167,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 San Bernardino County Sheriff's Office,1982,California,424591,CA03600,811,72,739,239,176,63,0,0,44,0,6,31,7,53,7,3,25,18,97,7,9,56,25,9,0,24,0,2,9,0,40,1,3,9
 San Bernardino County Sheriff's Office,1983,California,432318,CA03600,802,82,720,227,172,55,0,0,49,1,2,41,5,59,6,2,42,9,108,7,4,83,14,7,0,12,1,0,13,0,45,7,12,11
 San Bernardino County Sheriff's Office,1984,California,359712,CA03600,781,67,714,272,203,69,0,0,35,1,1,29,4,46,3,1,31,11,81,4,2,60,15,7,0,10,1,0,5,0,37,0,12,9
@@ -18,6 +20,7 @@ San Bernardino County Sheriff's Office,1992,California,292498,CA03600,1295,218,1
 San Bernardino County Sheriff's Office,1993,California,312479,CA03600,1186,154,1032,426,213,213,0,0,22,2,1,19,0,53,2,0,50,1,75,4,1,69,1,19,0,0,0,0,28,2,17,0,4,5
 San Bernardino County Sheriff's Office,1994,California,314681,CA03600,912,130,782,764,518,246,0,0,36,0,0,26,10,38,1,0,32,5,74,1,0,58,15,10,0,10,0,1,26,0,11,1,9,6
 San Bernardino County Sheriff's Office,1995,California,295278,CA03600,1128,147,981,792,542,250,0,0,32,0,2,25,5,58,2,2,44,10,90,2,4,69,15,6,0,8,1,1,30,0,21,1,8,14
+San Bernardino County Sheriff's Office,1996,California,297979,CA03600,1193,146,1047,940,631,309,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 San Bernardino County Sheriff's Office,1997,California,301623,CA03600,1227,193,1034,957,661,296,0,0,45,3,0,37,5,37,1,0,27,9,82,4,0,64,14,4,0,13,1,3,24,0,21,0,5,11
 San Bernardino County Sheriff's Office,1998,California,279907,CA03600,1279,185,1094,1031,711,320,0,0,45,1,3,38,3,45,1,0,36,8,90,2,3,74,11,8,0,5,0,0,48,0,14,0,7,8
 San Bernardino County Sheriff's Office,1999,California,285757,CA03600,1443,196,1247,1131,794,337,0,0,31,0,0,26,5,43,9,3,21,10,74,9,3,47,15,4,0,8,2,1,30,6,18,0,2,3

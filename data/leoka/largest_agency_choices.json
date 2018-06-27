@@ -36,6 +36,10 @@
     "agency": "Birmingham Police Department"
   },
   {
+    "state": "Tennessee",
+    "agency": "Memphis Police Department"
+  },
+  {
     "state": "Louisiana",
     "agency": "New Orleans Police Department"
   },
@@ -60,14 +64,6 @@
     "agency": "Miami-dade (county) Police Department"
   },
   {
-    "state": "Ohio",
-    "agency": "Columbus Police Department"
-  },
-  {
-    "state": "Tennessee",
-    "agency": "Memphis Police Department"
-  },
-  {
     "state": "Arizona",
     "agency": "Phoenix Police Department"
   },
@@ -76,20 +72,8 @@
     "agency": "Connecticut State Police"
   },
   {
-    "state": "Texas",
-    "agency": "Houston Police Department"
-  },
-  {
     "state": "Montana",
     "agency": "Billings Police Department"
-  },
-  {
-    "state": "New Mexico",
-    "agency": "Albuquerque Police Department"
-  },
-  {
-    "state": "Oregon",
-    "agency": "Portland Police Bureau"
   },
   {
     "state": "Alaska",
@@ -160,6 +144,10 @@
     "agency": "Manchester Police Department"
   },
   {
+    "state": "New Mexico",
+    "agency": "Albuquerque Police Department"
+  },
+  {
     "state": "New York",
     "agency": "New York City Police Department"
   },
@@ -172,8 +160,16 @@
     "agency": "Fargo Police Department"
   },
   {
+    "state": "Ohio",
+    "agency": "Columbus Police Department"
+  },
+  {
     "state": "Oklahoma",
     "agency": "Oklahoma City Police Department"
+  },
+  {
+    "state": "Oregon",
+    "agency": "Portland Police Bureau"
   },
   {
     "state": "Rhode Island",
@@ -186,6 +182,10 @@
   {
     "state": "South Dakota",
     "agency": "Sioux Falls Police Department"
+  },
+  {
+    "state": "Texas",
+    "agency": "Houston Police Department"
   },
   {
     "state": "Virginia",

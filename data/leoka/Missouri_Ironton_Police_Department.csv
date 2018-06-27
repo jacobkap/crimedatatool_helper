@@ -1,9 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Ironton Police Department,1975,Missouri,1567,MO04701,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ironton Police Department,1976,Missouri,1539,MO04701,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ironton Police Department,1977,Missouri,1600,MO04701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ironton Police Department,1978,Missouri,1828,MO04701,4,0,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Ironton Police Department,1979,Missouri,1783,MO04701,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ironton Police Department,1980,Missouri,1734,MO04701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ironton Police Department,1981,Missouri,1747,MO04701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ironton Police Department,1982,Missouri,1752,MO04701,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ironton Police Department,1983,Missouri,1758,MO04701,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ironton Police Department,1984,Missouri,1781,MO04701,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ironton Police Department,1985,Missouri,1789,MO04701,4,0,4,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Ironton Police Department,1986,Missouri,1787,MO04701,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -20,6 +24,7 @@ Ironton Police Department,1996,Missouri,1590,MO04701,4,0,4,0,0,0,0,0,0,0,0,0,0,0
 Ironton Police Department,1997,Missouri,1602,MO04701,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ironton Police Department,1998,Missouri,1537,MO04701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ironton Police Department,1999,Missouri,1482,MO04701,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ironton Police Department,2000,Missouri,1471,MO04701,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ironton Police Department,2001,Missouri,1480,MO04701,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ironton Police Department,2002,Missouri,1491,MO04701,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
 Ironton Police Department,2003,Missouri,1409,MO04701,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

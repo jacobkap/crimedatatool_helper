@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Crawford County Sheriff's Office,1975,Kansas,12623,KS01900,6,0,6,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crawford County Sheriff's Office,1976,Kansas,12856,KS01900,10,0,10,10,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Crawford County Sheriff's Office,1977,Kansas,12514,KS01900,10,0,10,5,4,1,0,1,5,1,0,4,0,1,0,0,1,0,6,1,0,4,1,2,0,0,0,2,0,0,1,0,1,0
 Crawford County Sheriff's Office,1978,Kansas,12634,KS01900,12,0,12,4,4,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,0,0,0,2
 Crawford County Sheriff's Office,1979,Kansas,12821,KS01900,14,0,14,9,9,0,0,0,3,0,0,3,0,7,1,0,6,0,10,1,0,9,0,2,0,2,0,0,4,0,0,0,2,0
@@ -9,13 +10,21 @@ Crawford County Sheriff's Office,1982,Kansas,12266,KS01900,16,3,13,2,2,0,0,0,2,0
 Crawford County Sheriff's Office,1983,Kansas,12352,KS01900,12,1,11,7,7,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Crawford County Sheriff's Office,1984,Kansas,12270,KS01900,12,1,11,7,7,0,0,0,1,0,0,1,0,3,0,0,2,1,4,0,0,3,1,0,0,0,0,0,0,0,2,0,0,2
 Crawford County Sheriff's Office,1985,Kansas,11662,KS01900,19,1,18,8,8,0,0,0,4,0,0,4,0,5,3,0,2,0,9,3,0,6,0,0,0,1,0,0,3,0,5,0,0,0
+Crawford County Sheriff's Office,1986,Kansas,12390,KS01900,17,1,16,14,9,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Crawford County Sheriff's Office,1987,Kansas,11019,KS01900,17,1,16,14,9,5,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Crawford County Sheriff's Office,1988,Kansas,10936,KS01900,17,1,16,19,10,9,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
 Crawford County Sheriff's Office,1989,Kansas,11068,KS01900,18,1,17,17,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,1990,Kansas,9325,KS01900,18,1,17,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,1991,Kansas,8925,KS01900,17,1,16,16,9,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,1992,Kansas,9025,KS01900,18,1,17,21,14,7,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crawford County Sheriff's Office,1993,Kansas,8898,KS01900,9,0,9,12,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Crawford County Sheriff's Office,1994,Kansas,8978,KS01900,34,6,28,19,14,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crawford County Sheriff's Office,1995,Kansas,8813,KS01900,24,3,21,28,18,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crawford County Sheriff's Office,1996,Kansas,8837,KS01900,19,1,18,32,19,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crawford County Sheriff's Office,1997,Kansas,8916,KS01900,21,1,20,34,19,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crawford County Sheriff's Office,1998,Kansas,9301,KS01900,21,1,20,39,20,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crawford County Sheriff's Office,1999,Kansas,9204,KS01900,26,3,23,37,17,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crawford County Sheriff's Office,2000,Kansas,9585,KS01900,25,2,23,40,19,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Crawford County Sheriff's Office,2001,Kansas,9607,KS01900,26,3,23,40,19,21,0,0,1,0,0,1,0,12,0,0,11,1,13,0,0,12,1,5,0,0,0,0,3,0,3,0,1,1
 Crawford County Sheriff's Office,2002,Kansas,9684,KS01900,31,3,28,34,18,16,0,0,2,0,0,2,0,7,0,0,7,0,9,0,0,9,0,1,0,3,0,0,5,0,0,0,0,0
 Crawford County Sheriff's Office,2003,Kansas,9597,KS01900,30,3,27,36,17,19,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,0,0,0,4,0,0,0,0,0
@@ -28,5 +37,6 @@ Crawford County Sheriff's Office,2009,Kansas,10184,KS01900,34,3,31,36,20,16,0,0,
 Crawford County Sheriff's Office,2010,Kansas,9650,KS01900,33,3,30,35,20,15,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Crawford County Sheriff's Office,2011,Kansas,9712,KS01900,32,3,29,37,18,19,0,0,4,0,0,3,1,4,0,0,3,1,8,0,0,6,2,2,0,4,0,0,0,0,2,0,0,0
 Crawford County Sheriff's Office,2012,Kansas,9719,KS01900,31,3,28,36,18,18,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,2,0,0,0,0,2,0,0,0
+Crawford County Sheriff's Office,2013,Kansas,9716,KS01900,29,3,26,37,19,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Crawford County Sheriff's Office,2014,Kansas,9673,KS01900,30,3,27,26,10,16,0,0,0,0,0,0,0,3,1,0,1,1,3,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1
 Crawford County Sheriff's Office,2015,Kansas,9624,KS01900,32,2,30,38,17,21,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,2,0,0,0,0,2,0,0,0,0,1

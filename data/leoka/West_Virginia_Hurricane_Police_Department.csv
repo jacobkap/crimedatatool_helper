@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Hurricane Police Department,1975,West Virginia,3824,WV04001,10,1,9,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hurricane Police Department,1976,West Virginia,5000,WV04001,11,1,10,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Hurricane Police Department,1977,West Virginia,4848,WV04001,7,0,7,4,1,3,0,0,3,1,1,1,0,1,0,0,1,0,4,1,1,2,0,0,0,3,0,0,0,0,1,0,0,0
 Hurricane Police Department,1978,West Virginia,4947,WV04001,7,0,7,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -6,6 +7,7 @@ Hurricane Police Department,1979,West Virginia,4967,WV04001,6,0,6,3,2,1,0,0,0,0,
 Hurricane Police Department,1980,West Virginia,3654,WV04001,5,0,5,4,3,1,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Hurricane Police Department,1981,West Virginia,3692,WV04001,5,0,5,3,2,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
 Hurricane Police Department,1982,West Virginia,3687,WV04001,6,0,6,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurricane Police Department,1983,West Virginia,3719,WV04001,8,0,8,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hurricane Police Department,1984,West Virginia,3887,WV04001,6,0,6,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hurricane Police Department,1985,West Virginia,3855,WV04001,7,0,7,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hurricane Police Department,1986,West Virginia,4038,WV04001,7,0,7,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -21,16 +23,18 @@ Hurricane Police Department,1995,West Virginia,5557,WV04001,10,0,10,4,3,1,0,0,0,
 Hurricane Police Department,1996,West Virginia,5550,WV04001,11,0,11,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hurricane Police Department,1997,West Virginia,5519,WV04001,12,0,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hurricane Police Department,1998,West Virginia,5386,WV04001,14,0,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurricane Police Department,1999,West Virginia,5358,WV04001,15,0,15,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hurricane Police Department,2000,West Virginia,5222,WV04001,14,0,14,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hurricane Police Department,2001,West Virginia,5203,WV04001,12,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hurricane Police Department,2002,West Virginia,5204,WV04001,14,0,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hurricane Police Department,2003,West Virginia,5504,WV04001,14,0,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hurricane Police Department,2004,West Virginia,5639,WV04001,11,0,11,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Hurricane Police Department,2005,West Virginia,5793,WV04001,12,0,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hurricane Police Department,2008,West Virginia,6255,WV04001,14,0,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurricane Police Department,2006,West Virginia,5973,WV04001,12,0,12,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hurricane Police Department,2007,West Virginia,6179,WV04001,14,0,14,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Hurricane Police Department,2009,West Virginia,6435,WV04001,16,1,15,2,2,0,0,0,0,0,0,0,0,6,0,0,5,1,6,0,0,5,1,0,0,1,0,0,0,0,3,0,0,2
 Hurricane Police Department,2010,West Virginia,6284,WV04001,15,0,15,2,2,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0
 Hurricane Police Department,2011,West Virginia,6292,WV04001,15,0,15,2,2,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Hurricane Police Department,2012,West Virginia,6333,WV04001,16,0,16,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hurricane Police Department,2013,West Virginia,6382,WV04001,16,0,16,2,2,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,4,0,0,0,0,0,0,1,0,0,0
-Hurricane Police Department,2014,West Virginia,6417,WV04001,14,0,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hurricane Police Department,2015,West Virginia,6421,WV04001,16,0,16,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

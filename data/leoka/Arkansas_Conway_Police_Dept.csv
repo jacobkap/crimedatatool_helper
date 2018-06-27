@@ -1,5 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Conway Police Dept,1975,Arkansas,18000,AR02301,20,0,20,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Conway Police Dept,1976,Arkansas,17665,AR02301,26,2,24,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Conway Police Dept,1977,Arkansas,18804,AR02301,23,0,23,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Conway Police Dept,1978,Arkansas,18805,AR02301,30,3,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Conway Police Dept,1979,Arkansas,18866,AR02301,27,0,27,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Conway Police Dept,1980,Arkansas,20275,AR02301,26,0,26,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -22,6 +24,7 @@ Conway Police Dept,1996,Arkansas,34734,AR02301,82,5,77,17,13,4,0,0,0,0,0,0,0,0,0
 Conway Police Dept,1997,Arkansas,34913,AR02301,84,5,79,19,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Conway Police Dept,1998,Arkansas,37245,AR02301,96,6,90,19,14,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Conway Police Dept,1999,Arkansas,39366,AR02301,98,5,93,21,17,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Conway Police Dept,2000,Arkansas,43167,AR02301,90,6,84,19,15,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Conway Police Dept,2001,Arkansas,43469,AR02301,93,7,86,20,4,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Conway Police Dept,2002,Arkansas,43759,AR02301,95,7,88,23,18,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Conway Police Dept,2003,Arkansas,46180,AR02301,97,9,88,31,28,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

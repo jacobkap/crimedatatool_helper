@@ -1,10 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Mckenzie Police Department,1975,Tennessee,4930,TN00903,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mckenzie Police Department,1976,Tennessee,5048,TN00903,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mckenzie Police Department,1977,Tennessee,5330,TN00903,10,0,10,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Mckenzie Police Department,1978,Tennessee,5070,TN00903,9,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mckenzie Police Department,1979,Tennessee,5036,TN00903,9,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mckenzie Police Department,1980,Tennessee,5288,TN00903,9,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mckenzie Police Department,1981,Tennessee,5363,TN00903,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mckenzie Police Department,1982,Tennessee,5410,TN00903,10,0,10,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Mckenzie Police Department,1983,Tennessee,5448,TN00903,10,0,10,3,1,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Mckenzie Police Department,1984,Tennessee,5379,TN00903,11,0,11,3,2,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0
 Mckenzie Police Department,1985,Tennessee,5431,TN00903,10,0,10,3,0,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -18,6 +20,8 @@ Mckenzie Police Department,1992,Tennessee,5321,TN00903,12,0,12,3,3,0,0,0,2,0,0,2
 Mckenzie Police Department,1993,Tennessee,5197,TN00903,12,0,12,4,4,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Mckenzie Police Department,1994,Tennessee,5274,TN00903,13,0,13,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mckenzie Police Department,1995,Tennessee,5384,TN00903,12,0,12,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Mckenzie Police Department,1996,Tennessee,5448,TN00903,11,1,10,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mckenzie Police Department,1997,Tennessee,5497,TN00903,12,1,11,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Mckenzie Police Department,1998,Tennessee,5451,TN00903,13,1,12,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mckenzie Police Department,1999,Tennessee,5296,TN00903,14,1,13,5,3,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Mckenzie Police Department,2000,Tennessee,5295,TN00903,16,1,15,5,4,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0

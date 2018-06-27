@@ -1,9 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Wright County Sheriff's Office,1975,Iowa,7468,IA09900,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wright County Sheriff's Office,1976,Iowa,7456,IA09900,5,0,5,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,1977,Iowa,6968,IA09900,25,0,25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,1978,Iowa,6352,IA09900,5,0,5,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,1979,Iowa,7195,IA09900,7,0,7,5,3,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1
 Wright County Sheriff's Office,1980,Iowa,6406,IA09900,5,0,5,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
+Wright County Sheriff's Office,1981,Iowa,6382,IA09900,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wright County Sheriff's Office,1982,Iowa,6399,IA09900,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wright County Sheriff's Office,1983,Iowa,6399,IA09900,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,1984,Iowa,6351,IA09900,5,0,5,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Wright County Sheriff's Office,1985,Iowa,6322,IA09900,5,0,5,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
@@ -12,8 +15,12 @@ Wright County Sheriff's Office,1987,Iowa,6064,IA09900,5,0,5,1,1,0,0,0,0,0,0,0,0,
 Wright County Sheriff's Office,1988,Iowa,5938,IA09900,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,1989,Iowa,6002,IA09900,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,1990,Iowa,5395,IA09900,5,0,5,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Wright County Sheriff's Office,1991,Iowa,5430,IA09900,5,0,5,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wright County Sheriff's Office,1992,Iowa,5463,IA09900,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wright County Sheriff's Office,1993,Iowa,5397,IA09900,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wright County Sheriff's Office,1994,Iowa,5425,IA09900,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,1995,Iowa,5172,IA09900,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wright County Sheriff's Office,1996,Iowa,5190,IA09900,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Wright County Sheriff's Office,1997,Iowa,5190,IA09900,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,1998,Iowa,5370,IA09900,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,1999,Iowa,5331,IA09900,6,0,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -31,5 +38,4 @@ Wright County Sheriff's Office,2010,Iowa,4420,IA09900,8,0,8,12,8,4,0,0,0,0,0,0,0
 Wright County Sheriff's Office,2011,Iowa,4443,IA09900,8,0,8,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,2012,Iowa,4383,IA09900,8,0,8,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,2013,Iowa,4349,IA09900,8,0,8,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wright County Sheriff's Office,2014,Iowa,4346,IA09900,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wright County Sheriff's Office,2015,Iowa,4272,IA09900,9,0,9,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

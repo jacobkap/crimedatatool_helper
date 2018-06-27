@@ -1,6 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Fort Wayne Police,1975,Indiana,183837,IN00201,312,8,304,26,15,11,0,0,18,1,0,16,1,0,0,0,0,0,18,1,0,16,1,0,0,10,0,0,3,0,0,1,3,1
 Fort Wayne Police,1976,Indiana,189200,IN00201,309,7,302,25,17,8,0,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,0,1,0,1,0,0,0,0,4,0,0,0
+Fort Wayne Police,1977,Indiana,182855,IN00201,304,9,295,27,18,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fort Wayne Police,1978,Indiana,185366,IN00201,297,9,288,30,20,10,0,0,21,0,0,20,1,0,0,0,0,0,21,0,0,20,1,8,0,4,0,0,0,0,4,0,1,4
 Fort Wayne Police,1979,Indiana,183912,IN00201,300,8,292,22,18,4,0,0,11,0,0,10,1,17,0,0,17,0,28,0,0,27,1,0,0,19,0,0,4,0,4,0,0,1
 Fort Wayne Police,1980,Indiana,171039,IN00201,294,6,288,35,11,24,0,0,4,0,0,4,0,2,0,0,2,0,6,0,0,6,0,1,0,4,0,0,1,0,0,0,0,0
@@ -10,6 +11,7 @@ Fort Wayne Police,1983,Indiana,171599,IN00201,316,18,298,29,24,5,0,0,9,0,0,8,1,3
 Fort Wayne Police,1984,Indiana,167955,IN00201,305,18,287,28,6,22,0,0,0,0,0,0,0,15,0,0,14,1,15,0,0,14,1,0,0,3,0,0,3,0,5,0,1,3
 Fort Wayne Police,1985,Indiana,165428,IN00201,308,23,285,26,20,6,0,0,19,0,1,17,1,0,0,0,0,0,19,0,1,17,1,1,0,4,1,0,4,0,9,0,0,0
 Fort Wayne Police,1986,Indiana,165599,IN00201,316,28,288,41,33,8,0,0,27,1,0,22,4,3,0,0,3,0,30,1,0,25,4,2,0,1,0,0,0,0,20,0,1,6
+Fort Wayne Police,1987,Indiana,173761,IN00201,314,28,286,34,31,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fort Wayne Police,1988,Indiana,178214,IN00201,313,28,285,34,33,1,0,0,19,1,0,16,2,5,0,0,5,0,24,1,0,21,2,2,0,2,1,0,0,0,16,0,0,3
 Fort Wayne Police,1989,Indiana,180975,IN00201,309,33,276,37,34,3,0,0,27,0,0,26,1,1,0,0,1,0,28,0,0,27,1,2,0,7,0,0,1,0,16,0,1,1
 Fort Wayne Police,1990,Indiana,173072,IN00201,306,32,274,39,36,3,0,0,15,0,0,11,4,14,0,0,13,1,29,0,0,24,5,4,0,1,0,2,4,0,14,0,2,2

@@ -83,7 +83,7 @@ for (selected_ori in unique(arrests$ORI)) {
                    file = paste0(state, "_", agency, ".csv"))
 }
 
-for (selected_state in unique(arrests$state)) {
+for (selected_state in unique(arrests$state))) {
   temp   <- arrests[state %in% selected_state]
   agency <- unique(temp$agency)
   agency <- jsonlite::toJSON(agency, pretty = FALSE)

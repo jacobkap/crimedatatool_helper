@@ -1,4 +1,19 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Michigan State Police,1977,Michigan,0,MI33001,0,0,0,0,0,0,0,0,69,2,2,59,6,82,12,0,62,8,151,14,2,121,14,12,0,44,1,0,22,1,33,2,5,31
-Michigan State Police,1978,Michigan,0,MI33001,0,0,0,0,0,0,1,0,71,1,0,62,8,115,8,2,91,14,186,9,2,153,22,16,0,43,1,0,24,6,36,1,6,53
-Michigan State Police,1979,Michigan,0,MI33001,0,0,0,0,0,0,0,0,87,2,3,74,8,134,11,5,101,17,221,13,8,175,25,7,0,48,8,4,13,5,40,4,8,84
+Michigan State Police,1983,Michigan,0,MI33001,2138,52,2086,1020,437,583,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1984,Michigan,0,MI33001,2007,53,1954,892,431,461,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1985,Michigan,0,MI33001,2044,65,1979,925,459,466,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1986,Michigan,0,MI33001,2144,92,2052,897,450,447,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1987,Michigan,0,MI33001,2203,136,2067,987,514,473,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1988,Michigan,0,MI33001,2215,151,2064,969,515,454,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1989,Michigan,0,MI33001,2241,169,2072,1021,545,476,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1990,Michigan,0,MI33001,2255,183,2072,942,500,442,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1991,Michigan,0,MI33001,2124,176,1948,922,481,441,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1992,Michigan,0,MI33001,1981,171,1810,922,485,437,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1993,Michigan,0,MI33001,1938,189,1749,978,509,469,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1994,Michigan,0,MI33001,1991,221,1770,959,509,450,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1995,Michigan,0,MI33001,2164,248,1916,992,515,477,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1996,Michigan,0,MI33001,2102,284,1818,992,514,478,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1997,Michigan,0,MI33001,2086,256,1830,919,481,438,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1998,Michigan,0,MI33001,2174,271,1903,993,521,472,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,1999,Michigan,0,MI33001,2176,262,1914,1078,580,498,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Michigan State Police,2000,Michigan,0,MI33001,2083,259,1824,1076,579,497,,,,,,,,,,,,,,,,,,,,,,,,,,,,

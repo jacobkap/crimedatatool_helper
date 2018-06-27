@@ -1,7 +1,9 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Van Buren County Sheriff's Office,1978,Arkansas,11076,AR07100,10,2,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Buren County Sheriff's Office,1979,Arkansas,11769,AR07100,9,2,7,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1980,Arkansas,13395,AR07100,8,2,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Van Buren County Sheriff's Office,1981,Arkansas,12478,AR07100,11,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Van Buren County Sheriff's Office,1982,Arkansas,12458,AR07100,8,3,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Buren County Sheriff's Office,1983,Arkansas,12659,AR07100,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1984,Arkansas,13199,AR07100,5,0,5,6,3,3,0,0,1,1,0,0,0,2,2,0,0,0,3,3,0,0,0,0,0,0,0,0,0,1,2,0,0,0
 Van Buren County Sheriff's Office,1985,Arkansas,13745,AR07100,5,0,5,6,3,3,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
@@ -19,11 +21,15 @@ Van Buren County Sheriff's Office,1996,Arkansas,14975,AR07100,8,0,8,6,2,4,0,0,2,
 Van Buren County Sheriff's Office,1997,Arkansas,15052,AR07100,8,0,8,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1998,Arkansas,15636,AR07100,9,0,9,14,4,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1999,Arkansas,15630,AR07100,12,4,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Van Buren County Sheriff's Office,2000,Arkansas,16192,AR07100,8,1,7,12,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Buren County Sheriff's Office,2001,Arkansas,16305,AR07100,10,1,9,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Van Buren County Sheriff's Office,2002,Arkansas,11754,AR07100,14,0,14,13,4,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Van Buren County Sheriff's Office,2003,Arkansas,11641,AR07100,15,0,15,13,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Buren County Sheriff's Office,2004,Arkansas,11711,AR07100,13,1,12,14,6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,2005,Arkansas,11863,AR07100,13,1,12,15,7,8,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Van Buren County Sheriff's Office,2006,Arkansas,11838,AR07100,13,1,12,15,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,2007,Arkansas,11927,AR07100,14,0,14,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Van Buren County Sheriff's Office,2008,Arkansas,11809,AR07100,17,0,17,12,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Buren County Sheriff's Office,2009,Arkansas,11853,AR07100,15,0,15,19,9,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,2010,Arkansas,12538,AR07100,13,0,13,19,9,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,2011,Arkansas,12632,AR07100,14,0,14,18,6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

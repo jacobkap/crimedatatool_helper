@@ -1,15 +1,20 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+University Of Alabama - Huntsville Police Dept,1988,Alabama,0,AL04707,10,1,9,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+University Of Alabama - Huntsville Police Dept,1989,Alabama,0,AL04707,10,1,9,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 University Of Alabama - Huntsville Police Dept,1990,Alabama,0,AL04707,11,1,10,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+University Of Alabama - Huntsville Police Dept,1991,Alabama,0,AL04707,11,1,10,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+University Of Alabama - Huntsville Police Dept,1992,Alabama,0,AL04707,10,1,9,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 University Of Alabama - Huntsville Police Dept,1993,Alabama,0,AL04707,10,1,9,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,1994,Alabama,0,AL04707,10,1,9,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,1995,Alabama,0,AL04707,9,0,9,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+University Of Alabama - Huntsville Police Dept,1996,Alabama,0,AL04707,9,0,9,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 University Of Alabama - Huntsville Police Dept,1997,Alabama,0,AL04707,9,0,9,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,1998,Alabama,0,AL04707,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,1999,Alabama,0,AL04707,7,0,7,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+University Of Alabama - Huntsville Police Dept,2000,Alabama,0,AL04707,11,0,11,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 University Of Alabama - Huntsville Police Dept,2001,Alabama,0,AL04707,10,0,10,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,2002,Alabama,0,AL04707,11,0,11,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,2003,Alabama,0,AL04707,11,0,11,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-University Of Alabama - Huntsville Police Dept,2004,Alabama,0,AL04707,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,2005,Alabama,0,AL04707,12,0,12,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,2006,Alabama,0,AL04707,12,1,11,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,2007,Alabama,0,AL04707,12,1,11,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,6 +22,7 @@ University Of Alabama - Huntsville Police Dept,2008,Alabama,0,AL04707,11,1,10,4,
 University Of Alabama - Huntsville Police Dept,2009,Alabama,0,AL04707,13,1,12,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,2010,Alabama,0,AL04707,13,2,11,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,2011,Alabama,0,AL04707,13,2,11,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+University Of Alabama - Huntsville Police Dept,2012,Alabama,0,AL04707,15,2,13,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 University Of Alabama - Huntsville Police Dept,2013,Alabama,0,AL04707,18,2,16,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,2014,Alabama,0,AL04707,16,3,13,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Alabama - Huntsville Police Dept,2015,Alabama,0,AL04707,16,4,12,7,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

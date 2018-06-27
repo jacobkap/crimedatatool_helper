@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Tuscaloosa Police Department,1975,Alabama,71200,AL06301,138,6,132,20,14,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tuscaloosa Police Department,1976,Alabama,70000,AL06301,135,8,127,22,15,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tuscaloosa Police Department,1977,Alabama,70589,AL06301,143,8,135,30,20,10,0,0,3,1,0,1,1,9,0,0,7,2,12,1,0,8,3,0,0,7,0,0,0,1,1,1,0,2
 Tuscaloosa Police Department,1978,Alabama,73500,AL06301,150,9,141,41,15,26,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,0,1
 Tuscaloosa Police Department,1979,Alabama,70954,AL06301,147,8,139,45,24,21,0,2,1,0,1,0,0,4,0,1,2,1,5,0,2,2,1,0,0,0,0,0,1,0,2,0,1,1
@@ -13,11 +14,16 @@ Tuscaloosa Police Department,1986,Alabama,74302,AL06301,152,13,139,44,31,13,0,0,
 Tuscaloosa Police Department,1987,Alabama,74389,AL06301,152,12,140,49,36,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tuscaloosa Police Department,1988,Alabama,76153,AL06301,157,13,144,52,38,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tuscaloosa Police Department,1989,Alabama,74344,AL06301,168,13,155,55,36,19,0,0,1,0,0,1,0,5,4,0,1,0,6,4,0,2,0,1,0,0,0,0,2,0,0,0,0,3
+Tuscaloosa Police Department,1990,Alabama,77759,AL06301,174,17,157,56,37,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuscaloosa Police Department,1991,Alabama,78690,AL06301,177,17,160,55,36,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tuscaloosa Police Department,1992,Alabama,79594,AL06301,187,16,171,56,38,18,0,0,2,1,1,0,0,3,0,0,10,0,5,1,1,3,0,1,0,0,0,0,0,0,4,0,0,0
 Tuscaloosa Police Department,1993,Alabama,79664,AL06301,196,19,177,55,34,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tuscaloosa Police Department,1994,Alabama,80272,AL06301,193,18,175,56,35,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tuscaloosa Police Department,1995,Alabama,80440,AL06301,194,19,175,57,37,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tuscaloosa Police Department,1996,Alabama,80818,AL06301,201,19,182,57,36,21,0,0,9,0,0,6,3,7,1,0,5,1,16,1,0,11,4,0,0,0,0,0,2,0,8,0,3,3
 Tuscaloosa Police Department,1997,Alabama,81688,AL06301,204,19,185,59,36,23,0,0,2,0,0,2,0,1,0,0,0,1,3,0,0,2,1,1,0,0,0,1,0,0,1,0,0,0
+Tuscaloosa Police Department,1998,Alabama,83995,AL06301,213,21,192,57,36,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuscaloosa Police Department,1999,Alabama,83718,AL06301,228,21,207,61,37,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tuscaloosa Police Department,2000,Alabama,77906,AL06301,219,19,200,59,38,21,0,0,11,0,1,9,1,14,0,0,8,6,25,0,1,17,7,2,1,3,1,0,1,0,7,0,6,4
 Tuscaloosa Police Department,2001,Alabama,78208,AL06301,232,20,212,67,44,23,0,0,10,0,1,8,1,15,0,0,14,1,25,0,1,22,2,1,0,5,2,0,2,2,7,1,0,5
 Tuscaloosa Police Department,2002,Alabama,78596,AL06301,236,16,220,67,45,22,0,0,15,0,0,14,1,31,4,0,23,4,46,4,0,37,5,8,0,10,2,4,4,0,8,0,4,6
@@ -29,6 +35,7 @@ Tuscaloosa Police Department,2007,Alabama,83811,AL06301,265,14,251,75,48,27,0,0,
 Tuscaloosa Police Department,2008,Alabama,90157,AL06301,262,15,247,75,48,27,0,0,7,0,0,5,2,3,0,0,2,1,10,0,0,7,3,1,0,4,0,1,0,0,3,0,1,0
 Tuscaloosa Police Department,2009,Alabama,91688,AL06301,279,16,263,67,50,17,0,0,11,0,1,10,0,0,0,0,0,0,11,0,1,10,0,1,0,4,0,1,0,0,4,0,1,0
 Tuscaloosa Police Department,2010,Alabama,90468,AL06301,282,18,264,73,51,22,0,0,6,0,0,5,1,0,0,0,0,0,6,0,0,5,1,1,0,3,0,1,0,0,0,0,0,1
+Tuscaloosa Police Department,2011,Alabama,90903,AL06301,284,18,266,74,55,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tuscaloosa Police Department,2012,Alabama,91973,AL06301,285,20,265,81,52,29,0,0,5,0,0,5,0,8,2,0,6,0,13,2,0,11,0,7,0,0,1,0,0,0,4,0,0,1
 Tuscaloosa Police Department,2013,Alabama,94126,AL06301,285,21,264,76,52,24,0,0,4,0,0,4,0,3,1,0,0,2,7,1,0,4,2,0,0,5,0,0,0,0,0,0,0,2
 Tuscaloosa Police Department,2014,Alabama,96412,AL06301,286,20,266,74,53,21,0,0,8,0,0,6,2,2,1,0,1,0,10,1,0,7,2,0,0,6,0,1,0,0,2,0,1,0

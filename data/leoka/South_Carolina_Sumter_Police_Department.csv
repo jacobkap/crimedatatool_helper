@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Sumter Police Department,1975,South Carolina,23765,SC04301,52,4,48,12,8,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Sumter Police Department,1976,South Carolina,27102,SC04301,51,1,50,12,7,5,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,2,0,0,0,2,0,0,1
 Sumter Police Department,1977,South Carolina,28316,SC04301,52,1,51,19,13,6,0,0,4,1,3,0,0,1,0,0,1,0,5,1,3,1,0,0,0,1,0,0,0,0,4,0,0,0
 Sumter Police Department,1978,South Carolina,28000,SC04301,53,2,51,19,15,4,0,0,3,0,0,2,1,1,0,0,1,0,4,0,0,3,1,0,0,2,0,0,1,0,1,0,0,0
@@ -15,8 +16,11 @@ Sumter Police Department,1988,South Carolina,29850,SC04301,64,6,58,27,23,4,0,0,4
 Sumter Police Department,1989,South Carolina,31242,SC04301,64,5,59,26,22,4,0,0,3,0,0,3,0,15,1,1,13,0,18,1,1,16,0,0,0,0,0,0,4,0,10,1,1,2
 Sumter Police Department,1990,South Carolina,41943,SC04301,66,6,60,27,24,3,0,0,0,0,0,0,0,21,7,0,14,0,21,7,0,14,0,0,0,4,5,0,0,0,3,6,3,0
 Sumter Police Department,1991,South Carolina,42824,SC04301,72,12,60,27,25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sumter Police Department,1992,South Carolina,43341,SC04301,69,9,60,30,29,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sumter Police Department,1993,South Carolina,42932,SC04301,72,13,59,32,26,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Sumter Police Department,1994,South Carolina,43179,SC04301,74,12,62,31,25,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sumter Police Department,1995,South Carolina,42878,SC04301,89,13,76,32,26,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sumter Police Department,1996,South Carolina,43181,SC04301,89,15,74,34,31,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Sumter Police Department,1997,South Carolina,43893,SC04301,86,19,67,42,35,7,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
 Sumter Police Department,1998,South Carolina,39216,SC04301,92,24,68,40,35,5,0,0,2,0,0,1,1,8,0,0,8,0,10,0,0,9,1,1,0,0,0,0,0,0,7,0,0,2
 Sumter Police Department,1999,South Carolina,41044,SC04301,95,24,71,44,37,7,0,0,0,0,0,0,0,13,0,0,12,1,13,0,0,12,1,0,0,1,0,0,0,0,8,0,3,1

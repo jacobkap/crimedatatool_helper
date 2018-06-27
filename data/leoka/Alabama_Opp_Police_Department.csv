@@ -1,4 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Opp Police Department,1975,Alabama,6841,AL02302,13,0,13,6,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Opp Police Department,1976,Alabama,6705,AL02302,12,0,12,5,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Opp Police Department,1977,Alabama,7300,AL02302,13,0,13,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Opp Police Department,1978,Alabama,7500,AL02302,13,1,12,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Opp Police Department,1979,Alabama,6763,AL02302,14,1,13,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -12,10 +14,17 @@ Opp Police Department,1986,Alabama,7263,AL02302,16,1,15,5,2,3,0,0,0,0,0,0,0,0,0,
 Opp Police Department,1987,Alabama,7013,AL02302,17,1,16,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Opp Police Department,1988,Alabama,7074,AL02302,18,1,17,5,2,3,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 Opp Police Department,1989,Alabama,7033,AL02302,16,1,15,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opp Police Department,1990,Alabama,6985,AL02302,18,2,16,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Opp Police Department,1991,Alabama,7068,AL02302,19,2,17,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Opp Police Department,1992,Alabama,7149,AL02302,19,2,17,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Opp Police Department,1993,Alabama,7055,AL02302,19,1,18,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Opp Police Department,1994,Alabama,7108,AL02302,19,1,18,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Opp Police Department,1995,Alabama,7090,AL02302,20,1,19,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Opp Police Department,1996,Alabama,7123,AL02302,20,1,19,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Opp Police Department,1997,Alabama,7199,AL02302,20,1,19,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Opp Police Department,1998,Alabama,6954,AL02302,19,1,18,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opp Police Department,1999,Alabama,6961,AL02302,22,1,21,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Opp Police Department,2000,Alabama,6607,AL02302,24,1,23,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Opp Police Department,2001,Alabama,6633,AL02302,21,1,20,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Opp Police Department,2002,Alabama,6665,AL02302,22,1,21,6,4,2,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Opp Police Department,2003,Alabama,6453,AL02302,20,1,19,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -27,4 +36,6 @@ Opp Police Department,2008,Alabama,6662,AL02302,22,2,20,7,6,1,0,0,1,0,0,1,0,0,0,
 Opp Police Department,2009,Alabama,6555,AL02302,20,1,19,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Opp Police Department,2010,Alabama,6659,AL02302,20,1,19,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Opp Police Department,2011,Alabama,6691,AL02302,21,1,20,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Opp Police Department,2014,Alabama,6699,AL02302,19,1,18,7,4,3,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,1,0
+Opp Police Department,2012,Alabama,6738,AL02302,20,1,19,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Opp Police Department,2013,Alabama,6698,AL02302,23,1,22,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Opp Police Department,2015,Alabama,6681,AL02302,17,1,16,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,

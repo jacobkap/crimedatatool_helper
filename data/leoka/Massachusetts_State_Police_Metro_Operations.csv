@@ -1,13 +1,2 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-State Police Metro Operations,1978,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,16,0,0,13,3,3,1,0,2,0,19,1,0,15,3,0,1,10,0,0,1,0,1,0,3,3
-State Police Metro Operations,1979,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,11,0,0,10,1,5,0,0,5,0,16,0,0,15,1,0,0,7,0,0,3,0,0,0,0,6
-State Police Metro Operations,1980,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,16,0,0,16,0,8,0,0,8,0,24,0,0,24,0,0,0,8,0,0,13,0,0,0,0,3
-State Police Metro Operations,1981,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,7,0,0,7,0,43,0,0,36,7,50,0,0,43,7,1,0,14,0,10,5,0,0,0,0,20
-State Police Metro Operations,1982,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,5,0,0,5,0,46,0,0,41,5,51,0,0,46,5,0,0,6,1,22,2,0,0,0,2,18
-State Police Metro Operations,1983,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,5,0,0,3,2,55,0,0,51,4,67,1,0,58,8,0,0,9,0,36,4,0,0,1,0,17
-State Police Metro Operations,1984,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,3,0,1,1,1,57,3,4,43,7,60,3,5,44,8,0,0,0,0,54,0,0,0,0,0,6
-State Police Metro Operations,1985,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,1,0,1,0,0,67,2,10,36,19,68,2,11,36,19,2,0,7,0,20,0,0,0,1,0,38
-State Police Metro Operations,1986,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,1,0,0,1,0,34,7,4,19,4,35,7,4,20,4,4,0,2,0,26,0,0,0,1,0,2
-State Police Metro Operations,1990,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,3,5,8,0,0,3,5,0,0,6,0,0,1,0,0,0,1,0
-State Police Metro Operations,1991,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,14,0,0,8,6,25,0,1,22,2,39,0,1,30,8,0,0,14,0,15,1,0,0,0,0,9
-State Police Metro Operations,1992,Massachusetts,0,MA01306,0,0,0,0,0,0,0,0,14,0,0,8,6,25,0,1,22,2,39,0,1,30,8,0,0,14,0,15,1,0,0,0,0,9
+State Police Metro Operations,1998,Massachusetts,0,MA01306,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

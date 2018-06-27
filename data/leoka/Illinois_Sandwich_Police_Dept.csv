@@ -1,6 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Sandwich Police Dept,1975,Illinois,5093,IL01903,7,0,7,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sandwich Police Dept,1976,Illinois,5323,IL01903,7,0,7,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sandwich Police Dept,1977,Illinois,4991,IL01903,7,0,7,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,1978,Illinois,5612,IL01903,8,0,8,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Sandwich Police Dept,1979,Illinois,5575,IL01903,9,0,9,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sandwich Police Dept,1980,Illinois,5142,IL01903,8,0,8,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sandwich Police Dept,1981,Illinois,5187,IL01903,11,0,11,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,4 +17,22 @@ Sandwich Police Dept,1989,Illinois,6293,IL01903,7,0,7,6,6,0,0,0,0,0,0,0,0,0,0,0,
 Sandwich Police Dept,1990,Illinois,5567,IL01903,10,0,10,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sandwich Police Dept,1991,Illinois,5621,IL01903,10,0,10,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sandwich Police Dept,1992,Illinois,5663,IL01903,10,0,10,6,5,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sandwich Police Dept,1993,Illinois,5960,IL01903,10,0,10,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Sandwich Police Dept,1994,Illinois,5988,IL01903,10,0,10,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sandwich Police Dept,1995,Illinois,6204,IL01903,11,0,11,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,1996,Illinois,6212,IL01903,11,1,10,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,1997,Illinois,6237,IL01903,11,1,10,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,1998,Illinois,6126,IL01903,11,1,10,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,1999,Illinois,6085,IL01903,11,2,9,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2000,Illinois,6509,IL01903,12,1,11,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2001,Illinois,6542,IL01903,12,1,11,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2002,Illinois,6604,IL01903,13,0,13,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2003,Illinois,6715,IL01903,12,0,12,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2004,Illinois,6852,IL01903,13,0,13,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2005,Illinois,6877,IL01903,13,0,13,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2006,Illinois,7056,IL01903,13,0,13,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2007,Illinois,7156,IL01903,13,0,13,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2008,Illinois,7423,IL01903,16,0,16,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2009,Illinois,7424,IL01903,16,0,16,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2010,Illinois,7421,IL01903,14,0,14,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sandwich Police Dept,2011,Illinois,7443,IL01903,14,0,14,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,12 +1,19 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Fairlawn Police Department,1975,Ohio,6500,OH07704,13,0,13,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
+Fairlawn Police Department,1976,Ohio,5816,OH07704,13,0,13,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fairlawn Police Department,1977,Ohio,5595,OH07704,11,0,11,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fairlawn Police Department,1978,Ohio,7100,OH07704,11,0,11,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fairlawn Police Department,1979,Ohio,6719,OH07704,11,0,11,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fairlawn Police Department,1980,Ohio,6105,OH07704,11,0,11,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairlawn Police Department,1981,Ohio,6110,OH07704,14,0,14,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fairlawn Police Department,1982,Ohio,6119,OH07704,14,0,14,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Fairlawn Police Department,1983,Ohio,6093,OH07704,14,0,14,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fairlawn Police Department,1984,Ohio,6134,OH07704,15,0,15,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairlawn Police Department,1985,Ohio,6129,OH07704,16,0,16,5,4,1,0,0,1,0,0,0,1,2,0,0,2,0,3,0,0,2,1,1,0,0,0,0,0,0,1,0,0,1
 Fairlawn Police Department,1986,Ohio,6185,OH07704,13,0,13,6,4,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Fairlawn Police Department,1987,Ohio,6203,OH07704,14,1,13,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fairlawn Police Department,1988,Ohio,6192,OH07704,14,1,13,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairlawn Police Department,1989,Ohio,6230,OH07704,12,0,12,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fairlawn Police Department,1990,Ohio,5779,OH07704,16,0,16,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairlawn Police Department,1991,Ohio,5827,OH07704,16,0,16,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairlawn Police Department,1992,Ohio,5868,OH07704,17,0,17,5,5,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -16,6 +23,7 @@ Fairlawn Police Department,1995,Ohio,6439,OH07704,20,0,20,8,8,0,0,0,2,0,0,2,0,0,
 Fairlawn Police Department,1996,Ohio,6451,OH07704,21,0,21,8,8,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Fairlawn Police Department,1997,Ohio,6458,OH07704,21,0,21,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairlawn Police Department,1998,Ohio,6081,OH07704,21,0,21,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fairlawn Police Department,1999,Ohio,6354,OH07704,22,1,21,9,9,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Fairlawn Police Department,2000,Ohio,7307,OH07704,22,1,21,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairlawn Police Department,2001,Ohio,7320,OH07704,22,1,21,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairlawn Police Department,2002,Ohio,7351,OH07704,22,1,21,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -27,3 +35,6 @@ Fairlawn Police Department,2007,Ohio,7138,OH07704,24,1,23,10,7,3,0,0,0,0,0,0,0,0
 Fairlawn Police Department,2008,Ohio,7050,OH07704,24,1,23,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairlawn Police Department,2009,Ohio,7000,OH07704,24,1,23,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fairlawn Police Department,2010,Ohio,7437,OH07704,23,1,22,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fairlawn Police Department,2011,Ohio,7442,OH07704,21,1,20,9,3,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairlawn Police Department,2013,Ohio,7376,OH07704,20,1,19,10,7,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fairlawn Police Department,2015,Ohio,7419,OH07704,22,2,20,9,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,

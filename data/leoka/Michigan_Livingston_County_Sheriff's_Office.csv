@@ -1,11 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Livingston County Sheriff's Office,1975,Michigan,53084,MI47147,52,5,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Livingston County Sheriff's Office,1976,Michigan,58033,MI47147,52,5,47,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Livingston County Sheriff's Office,1977,Michigan,60913,MI47147,55,5,50,7,3,4,0,0,3,2,1,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,2,0,0,0,0,0,0,1
 Livingston County Sheriff's Office,1978,Michigan,63795,MI47147,52,4,48,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Livingston County Sheriff's Office,1979,Michigan,66288,MI47147,52,4,48,13,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Livingston County Sheriff's Office,1980,Michigan,63256,MI47147,55,4,51,20,19,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Livingston County Sheriff's Office,1981,Michigan,63071,MI47147,58,9,49,19,17,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Livingston County Sheriff's Office,1982,Michigan,62440,MI47147,60,9,51,18,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Livingston County Sheriff's Office,1983,Michigan,62165,MI47147,53,5,48,28,22,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Livingston County Sheriff's Office,1984,Michigan,62838,MI47147,55,6,49,27,22,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Livingston County Sheriff's Office,1985,Michigan,63493,MI47147,52,6,46,25,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Livingston County Sheriff's Office,1986,Michigan,63590,MI47147,63,11,52,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -16,7 +18,9 @@ Livingston County Sheriff's Office,1990,Michigan,72536,MI47147,59,5,54,26,22,4,0
 Livingston County Sheriff's Office,1991,Michigan,73103,MI47147,58,6,52,24,20,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Livingston County Sheriff's Office,1992,Michigan,73641,MI47147,58,6,52,27,23,4,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Livingston County Sheriff's Office,1993,Michigan,78420,MI47147,68,11,57,19,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Livingston County Sheriff's Office,1994,Michigan,75632,MI47147,56,5,51,27,22,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Livingston County Sheriff's Office,1995,Michigan,80758,MI47147,53,6,47,32,22,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Livingston County Sheriff's Office,1996,Michigan,81138,MI47147,56,6,50,43,24,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Livingston County Sheriff's Office,1997,Michigan,82660,MI47147,90,15,75,18,16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Livingston County Sheriff's Office,1998,Michigan,89088,MI47147,90,15,75,18,16,2,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
 Livingston County Sheriff's Office,1999,Michigan,94378,MI47147,65,4,61,52,24,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

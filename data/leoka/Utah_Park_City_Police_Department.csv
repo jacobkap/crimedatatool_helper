@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Park City Police Department,1975,Utah,1357,UT02205,7,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Park City Police Department,1976,Utah,1376,UT02205,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Park City Police Department,1977,Utah,4000,UT02205,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Park City Police Department,1978,Utah,4700,UT02205,8,0,8,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Park City Police Department,1979,Utah,3011,UT02205,9,0,9,3,2,1,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,0,0,0,0,1,0,0,2,0,0,0
@@ -12,6 +13,7 @@ Park City Police Department,1985,Utah,3415,UT02205,15,1,14,7,7,0,0,0,1,0,0,1,0,2
 Park City Police Department,1986,Utah,3956,UT02205,15,1,14,6,0,6,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Park City Police Department,1987,Utah,4288,UT02205,15,2,13,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Park City Police Department,1988,Utah,4443,UT02205,16,1,15,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Park City Police Department,1989,Utah,4910,UT02205,15,1,14,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Park City Police Department,1990,Utah,4468,UT02205,16,2,14,10,9,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
 Park City Police Department,1991,Utah,4590,UT02205,16,1,15,8,6,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Park City Police Department,1992,Utah,4701,UT02205,16,2,14,8,6,2,0,0,1,0,0,1,0,0,0,0,9,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -36,4 +38,5 @@ Park City Police Department,2010,Utah,7558,UT02205,30,3,27,11,10,1,0,0,0,0,0,0,0
 Park City Police Department,2011,Utah,7704,UT02205,30,3,27,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Park City Police Department,2012,Utah,7928,UT02205,31,2,29,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Park City Police Department,2013,Utah,7957,UT02205,39,2,37,12,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Park City Police Department,2014,Utah,8048,UT02205,33,2,31,12,10,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Park City Police Department,2015,Utah,8169,UT02205,29,2,27,12,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

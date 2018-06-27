@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Grosse Pointe Park Dept Of Public Safety,1975,Michigan,15535,MI82448,31,0,31,3,0,3,0,0,4,0,0,3,1,0,0,0,0,0,4,0,0,3,1,0,0,2,0,0,1,0,1,0,0,0
+Grosse Pointe Park Dept Of Public Safety,1976,Michigan,15604,MI82448,31,0,31,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Grosse Pointe Park Dept Of Public Safety,1977,Michigan,16000,MI82448,32,0,32,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1978,Michigan,13133,MI82448,32,0,32,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1979,Michigan,14382,MI82448,32,0,32,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,7 +18,9 @@ Grosse Pointe Park Dept Of Public Safety,1990,Michigan,12857,MI82448,43,2,41,3,3
 Grosse Pointe Park Dept Of Public Safety,1991,Michigan,12957,MI82448,43,1,42,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1992,Michigan,13052,MI82448,43,1,42,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1993,Michigan,12990,MI82448,43,1,42,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grosse Pointe Park Dept Of Public Safety,1994,Michigan,13014,MI82448,45,1,44,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Grosse Pointe Park Dept Of Public Safety,1995,Michigan,12672,MI82448,43,1,42,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grosse Pointe Park Dept Of Public Safety,1996,Michigan,12731,MI82448,42,1,41,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Grosse Pointe Park Dept Of Public Safety,1997,Michigan,12969,MI82448,45,0,45,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1998,Michigan,12864,MI82448,45,0,45,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1999,Michigan,13099,MI82448,45,0,45,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

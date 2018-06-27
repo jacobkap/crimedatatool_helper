@@ -1,8 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Elmore County Sheriff's Office,1975,Alabama,28150,AL02900,9,0,9,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Elmore County Sheriff's Office,1976,Alabama,30167,AL02900,9,0,9,2,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,1977,Alabama,30924,AL02900,9,1,8,4,1,3,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 Elmore County Sheriff's Office,1978,Alabama,27817,AL02900,9,1,8,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Elmore County Sheriff's Office,1979,Alabama,28951,AL02900,9,1,8,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,1980,Alabama,30553,AL02900,12,1,11,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,1981,Alabama,30985,AL02900,12,1,11,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,1982,Alabama,32212,AL02900,14,1,13,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -13,12 +13,18 @@ Elmore County Sheriff's Office,1986,Alabama,32664,AL02900,13,1,12,9,5,4,0,0,0,0,
 Elmore County Sheriff's Office,1987,Alabama,32425,AL02900,13,1,12,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,1988,Alabama,33273,AL02900,14,1,13,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,1989,Alabama,32095,AL02900,14,1,13,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Elmore County Sheriff's Office,1990,Alabama,33549,AL02900,13,1,12,11,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Elmore County Sheriff's Office,1991,Alabama,33950,AL02900,13,1,12,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,1992,Alabama,34340,AL02900,16,0,16,19,10,9,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,1993,Alabama,36426,AL02900,17,0,17,19,12,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elmore County Sheriff's Office,1994,Alabama,36704,AL02900,17,0,17,19,8,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Elmore County Sheriff's Office,1995,Alabama,37708,AL02900,21,0,21,31,16,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Elmore County Sheriff's Office,1996,Alabama,37885,AL02900,21,0,21,34,17,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Elmore County Sheriff's Office,1997,Alabama,38293,AL02900,26,0,26,39,21,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,1998,Alabama,40112,AL02900,26,0,26,30,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elmore County Sheriff's Office,1999,Alabama,38900,AL02900,25,0,25,40,22,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Elmore County Sheriff's Office,2000,Alabama,43179,AL02900,27,0,27,39,20,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elmore County Sheriff's Office,2001,Alabama,43347,AL02900,28,0,28,42,17,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Elmore County Sheriff's Office,2002,Alabama,43562,AL02900,27,0,27,43,23,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,2003,Alabama,44286,AL02900,29,0,29,44,20,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,2004,Alabama,45004,AL02900,30,0,30,42,17,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,6 +34,8 @@ Elmore County Sheriff's Office,2007,Alabama,45709,AL02900,32,0,32,47,22,25,0,0,0
 Elmore County Sheriff's Office,2008,Alabama,46254,AL02900,33,0,33,49,20,29,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2
 Elmore County Sheriff's Office,2009,Alabama,46551,AL02900,37,0,37,47,19,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,2010,Alabama,51152,AL02900,41,0,41,47,22,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elmore County Sheriff's Office,2011,Alabama,51399,AL02900,46,0,46,47,23,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Elmore County Sheriff's Office,2012,Alabama,51910,AL02900,48,1,47,47,23,24,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,2013,Alabama,51583,AL02900,50,1,49,52,26,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elmore County Sheriff's Office,2014,Alabama,51345,AL02900,50,1,49,51,25,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elmore County Sheriff's Office,2015,Alabama,50889,AL02900,48,1,47,57,27,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,

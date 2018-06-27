@@ -1,27 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Mission Viejo,1990,California,72820,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mission Viejo,1991,California,74336,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mission Viejo,1992,California,75527,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mission Viejo,1993,California,76822,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mission Viejo,1994,California,77363,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mission Viejo,1995,California,84234,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mission Viejo,1996,California,85004,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mission Viejo,1997,California,86043,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mission Viejo,1998,California,87528,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mission Viejo,1999,California,96838,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mission Viejo,2000,California,93102,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mission Viejo,2001,California,94832,CA03035,0,0,0,0,0,0,0,0,2,0,0,2,0,3,1,0,2,0,5,1,0,4,0,0,0,0,0,0,1,2,2,0,0,0
-Mission Viejo,2002,California,96522,CA03035,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
-Mission Viejo,2003,California,97317,CA03035,0,0,0,0,0,0,0,0,1,0,0,1,0,7,0,0,6,1,8,0,0,7,1,1,0,1,0,0,0,0,1,0,5,0
-Mission Viejo,2004,California,96936,CA03035,0,0,0,0,0,0,0,0,1,0,0,1,0,8,0,0,4,4,9,0,0,5,4,1,0,1,0,0,0,0,2,0,2,3
-Mission Viejo,2005,California,96892,CA03035,0,0,0,0,0,0,0,0,2,0,0,2,0,10,0,0,9,1,12,0,0,11,1,3,0,3,0,1,0,0,3,1,0,1
-Mission Viejo,2006,California,95837,CA03035,0,0,0,0,0,0,0,0,2,0,0,1,1,4,0,0,4,0,6,0,0,5,1,1,0,0,0,0,0,0,4,0,1,0
-Mission Viejo,2007,California,95095,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,2,4,0,0,2,2,0,0,1,0,0,1,0,0,0,1,1
-Mission Viejo,2008,California,94702,CA03035,0,0,0,0,0,0,0,0,1,0,0,1,0,5,2,0,3,0,6,2,0,4,0,1,0,0,0,0,1,0,2,2,0,0
-Mission Viejo,2009,California,94552,CA03035,0,0,0,0,0,0,0,0,2,0,0,1,1,6,0,1,4,1,8,0,1,5,2,0,0,1,0,0,2,0,3,0,2,0
-Mission Viejo,2010,California,93305,CA03035,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,2,1,4,0,1,2,1,0,0,1,0,0,0,0,2,0,1,0
 Mission Viejo,2011,California,94402,CA03035,1,0,1,0,0,0,0,0,3,0,0,3,0,5,0,0,4,1,8,0,0,7,1,0,0,6,0,0,1,0,0,0,1,0
-Mission Viejo,2012,California,95599,CA03035,0,0,0,0,0,0,0,0,2,0,0,2,0,3,0,0,2,1,5,0,0,4,1,2,0,2,0,0,0,0,1,0,0,0
-Mission Viejo,2013,California,95895,CA03035,0,0,0,0,0,0,0,0,1,0,0,1,0,7,0,0,7,0,9,0,0,9,0,3,0,3,0,0,0,0,1,0,2,0
 Mission Viejo,2014,California,97124,CA03035,1,0,1,0,0,0,0,0,6,0,0,5,1,8,0,0,8,0,14,0,0,13,1,2,0,5,0,0,0,0,6,0,1,0
 Mission Viejo,2015,California,98217,CA03035,1,0,1,0,0,0,0,0,2,0,0,2,0,7,0,0,5,2,9,0,0,7,2,0,0,0,0,0,0,0,7,0,1,1

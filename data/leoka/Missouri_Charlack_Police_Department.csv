@@ -2,9 +2,11 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Charlack Police Department,1975,Missouri,1882,MO09512,11,1,10,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0
 Charlack Police Department,1976,Missouri,2000,MO09512,7,1,6,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Charlack Police Department,1977,Missouri,1700,MO09512,6,1,5,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
+Charlack Police Department,1978,Missouri,2007,MO09512,8,1,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Charlack Police Department,1979,Missouri,1988,MO09512,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Charlack Police Department,1980,Missouri,1533,MO09512,8,1,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Charlack Police Department,1981,Missouri,1544,MO09512,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Charlack Police Department,1982,Missouri,1549,MO09512,8,1,7,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Charlack Police Department,1983,Missouri,1554,MO09512,6,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Charlack Police Department,1984,Missouri,1574,MO09512,6,0,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Charlack Police Department,1985,Missouri,1581,MO09512,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
@@ -16,10 +18,14 @@ Charlack Police Department,1990,Missouri,1388,MO09512,8,0,8,3,3,0,0,0,0,0,0,0,0,
 Charlack Police Department,1991,Missouri,1399,MO09512,8,0,8,1,1,0,0,0,2,0,0,2,0,1,0,0,0,1,3,0,0,2,1,0,0,0,0,0,0,0,1,0,1,1
 Charlack Police Department,1992,Missouri,1408,MO09512,9,0,9,1,1,0,0,0,3,0,0,2,1,1,0,0,9,1,4,0,0,2,2,0,0,0,0,0,0,0,1,0,2,1
 Charlack Police Department,1993,Missouri,1483,MO09512,8,0,8,2,2,0,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,0,0,0,0,0,0,0,1,0,3,1
+Charlack Police Department,1994,Missouri,1495,MO09512,9,0,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Charlack Police Department,1995,Missouri,1440,MO09512,10,0,10,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Charlack Police Department,1996,Missouri,1449,MO09512,11,0,11,2,2,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1
 Charlack Police Department,1997,Missouri,1460,MO09512,12,0,12,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Charlack Police Department,1998,Missouri,1311,MO09512,12,0,12,0,0,0,0,0,4,0,0,4,0,2,0,0,2,0,6,0,0,6,0,0,0,0,1,0,0,0,4,0,1,0
+Charlack Police Department,1999,Missouri,1268,MO09512,11,0,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Charlack Police Department,2000,Missouri,1431,MO09512,9,0,9,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Charlack Police Department,2001,Missouri,1440,MO09512,8,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Charlack Police Department,2002,Missouri,1451,MO09512,9,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Charlack Police Department,2003,Missouri,1417,MO09512,8,0,8,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Charlack Police Department,2004,Missouri,1405,MO09512,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

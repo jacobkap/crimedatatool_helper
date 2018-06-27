@@ -1,10 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 New Rochelle Police Department,1975,New York,76627,NY05904,194,5,189,16,11,5,0,0,6,0,1,5,0,3,0,0,2,1,9,0,1,7,1,1,0,1,0,1,1,1,4,0,0,0
 New Rochelle Police Department,1976,New York,73575,NY05904,183,5,178,15,10,5,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,0,1
+New Rochelle Police Department,1977,New York,72474,NY05904,178,5,173,38,22,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Rochelle Police Department,1978,New York,69461,NY05904,179,7,172,40,22,18,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,0,0,0,0,1,1
 New Rochelle Police Department,1979,New York,69339,NY05904,183,7,176,17,12,5,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
 New Rochelle Police Department,1980,New York,70519,NY05904,181,7,174,17,12,5,0,0,7,0,0,6,1,2,0,0,1,1,9,0,0,7,2,0,0,6,0,0,0,0,0,0,2,1
 New Rochelle Police Department,1981,New York,70871,NY05904,187,9,178,13,8,5,0,0,3,0,0,2,1,1,1,0,0,0,4,1,0,2,1,0,0,2,0,0,0,0,0,1,1,0
+New Rochelle Police Department,1982,New York,71133,NY05904,187,11,176,34,23,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Rochelle Police Department,1983,New York,71165,NY05904,190,14,176,29,18,11,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,1,0,1,0,0,0,0,0,0,2,0
 New Rochelle Police Department,1984,New York,71481,NY05904,178,14,164,40,28,12,0,0,3,0,0,2,1,1,0,0,1,0,4,0,0,3,1,1,0,3,0,0,0,0,0,0,0,0
 New Rochelle Police Department,1985,New York,71672,NY05904,182,17,165,35,22,13,0,0,8,0,0,8,0,1,0,0,1,0,9,0,0,9,0,1,0,1,0,1,0,0,5,0,1,0
@@ -20,6 +22,7 @@ New Rochelle Police Department,1995,New York,66642,NY05904,179,14,165,49,31,18,0
 New Rochelle Police Department,1996,New York,66821,NY05904,177,14,163,43,26,17,0,0,8,0,0,7,1,0,0,0,0,0,8,0,0,7,1,0,0,0,1,0,2,0,5,0,0,0
 New Rochelle Police Department,1997,New York,66644,NY05904,175,15,160,43,26,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Rochelle Police Department,1998,New York,67723,NY05904,179,15,164,44,27,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New Rochelle Police Department,1999,New York,67304,NY05904,186,14,172,48,26,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Rochelle Police Department,2000,New York,72182,NY05904,183,14,169,50,26,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Rochelle Police Department,2001,New York,72315,NY05904,187,13,174,51,27,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Rochelle Police Department,2002,New York,72870,NY05904,178,16,162,56,30,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

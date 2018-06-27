@@ -1,4 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Justice Police Dept,1975,Illinois,9543,IL01655,16,3,13,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,1976,Illinois,9496,IL01655,16,3,13,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,1977,Illinois,9352,IL01655,21,3,18,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,1978,Illinois,9306,IL01655,21,3,18,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Justice Police Dept,1979,Illinois,9207,IL01655,20,1,19,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Justice Police Dept,1980,Illinois,10517,IL01655,23,1,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Justice Police Dept,1981,Illinois,10610,IL01655,18,1,17,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -13,4 +17,22 @@ Justice Police Dept,1989,Illinois,11552,IL01655,19,1,18,1,0,1,0,0,0,0,0,0,0,0,0,
 Justice Police Dept,1990,Illinois,11137,IL01655,19,0,19,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Justice Police Dept,1991,Illinois,11246,IL01655,22,0,22,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Justice Police Dept,1992,Illinois,11331,IL01655,22,0,22,5,3,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Justice Police Dept,1993,Illinois,11632,IL01655,29,0,29,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Justice Police Dept,1994,Illinois,11686,IL01655,29,0,29,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Justice Police Dept,1995,Illinois,12166,IL01655,30,0,30,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,1996,Illinois,12183,IL01655,29,1,28,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,1997,Illinois,12233,IL01655,23,0,23,9,9,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,1998,Illinois,11562,IL01655,25,1,24,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,1999,Illinois,11607,IL01655,27,1,26,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2000,Illinois,12193,IL01655,25,1,24,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2001,Illinois,12255,IL01655,25,1,24,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2002,Illinois,12371,IL01655,26,1,25,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2003,Illinois,12349,IL01655,27,1,26,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2004,Illinois,12512,IL01655,26,0,26,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2005,Illinois,12698,IL01655,28,0,28,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2006,Illinois,12760,IL01655,28,0,28,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2007,Illinois,12673,IL01655,26,0,26,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2008,Illinois,12567,IL01655,24,0,24,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2009,Illinois,12481,IL01655,25,0,25,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2010,Illinois,12926,IL01655,24,0,24,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Justice Police Dept,2011,Illinois,12965,IL01655,24,0,24,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,

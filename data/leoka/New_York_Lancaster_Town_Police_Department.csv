@@ -1,11 +1,16 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Lancaster Town Police Department,1975,New York,9481,NY01467,20,0,20,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lancaster Town Police Department,1976,New York,9269,NY01467,18,0,18,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lancaster Town Police Department,1977,New York,9048,NY01467,20,0,20,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lancaster Town Police Department,1978,New York,9472,NY01467,19,0,19,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lancaster Town Police Department,1979,New York,9460,NY01467,19,0,19,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lancaster Town Police Department,1980,New York,10026,NY01467,21,0,21,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lancaster Town Police Department,1981,New York,10076,NY01467,21,0,21,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lancaster Town Police Department,1982,New York,10113,NY01467,21,0,21,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,1983,New York,10117,NY01467,21,0,21,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,1984,New York,13241,NY01467,21,0,21,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,1985,New York,13276,NY01467,21,0,21,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lancaster Town Police Department,1986,New York,9821,NY01467,21,0,21,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lancaster Town Police Department,1987,New York,9536,NY01467,21,0,21,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,1988,New York,9475,NY01467,23,0,23,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,1989,New York,9843,NY01467,23,0,23,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -13,11 +18,15 @@ Lancaster Town Police Department,1990,New York,13949,NY01467,24,0,24,4,4,0,0,0,0
 Lancaster Town Police Department,1991,New York,14001,NY01467,24,0,24,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,1992,New York,14048,NY01467,27,0,27,5,5,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,1993,New York,14116,NY01467,29,0,29,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lancaster Town Police Department,1994,New York,14094,NY01467,30,0,30,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lancaster Town Police Department,1995,New York,14068,NY01467,31,0,31,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,1996,New York,14105,NY01467,33,0,33,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,1997,New York,14067,NY01467,33,0,33,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Lancaster Town Police Department,1998,New York,13675,NY01467,33,0,33,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lancaster Town Police Department,1999,New York,13575,NY01467,33,0,33,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lancaster Town Police Department,2000,New York,21641,NY01467,33,0,33,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lancaster Town Police Department,2001,New York,21681,NY01467,32,0,32,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lancaster Town Police Department,2002,New York,21847,NY01467,31,0,31,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lancaster Town Police Department,2003,New York,22422,NY01467,46,1,45,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,2004,New York,22852,NY01467,46,2,44,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Town Police Department,2005,New York,23116,NY01467,47,2,45,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

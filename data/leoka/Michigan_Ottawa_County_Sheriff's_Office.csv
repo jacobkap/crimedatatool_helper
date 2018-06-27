@@ -1,11 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Ottawa County Sheriff's Office,1975,Michigan,82853,MI70170,65,8,57,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ottawa County Sheriff's Office,1976,Michigan,84053,MI70170,59,1,58,24,11,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ottawa County Sheriff's Office,1977,Michigan,79603,MI70170,54,2,52,9,9,0,0,0,2,1,0,1,0,2,0,0,1,1,4,1,0,2,1,0,0,0,0,0,1,0,1,0,1,1
 Ottawa County Sheriff's Office,1978,Michigan,91316,MI70170,66,3,63,14,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ottawa County Sheriff's Office,1979,Michigan,95260,MI70170,63,3,60,19,9,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ottawa County Sheriff's Office,1980,Michigan,105939,MI70170,61,3,58,21,11,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ottawa County Sheriff's Office,1981,Michigan,105627,MI70170,58,2,56,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ottawa County Sheriff's Office,1982,Michigan,104570,MI70170,62,2,60,25,10,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ottawa County Sheriff's Office,1983,Michigan,104110,MI70170,80,7,73,12,10,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ottawa County Sheriff's Office,1984,Michigan,107493,MI70170,63,2,61,28,15,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ottawa County Sheriff's Office,1985,Michigan,113298,MI70170,65,2,63,26,15,11,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Ottawa County Sheriff's Office,1986,Michigan,112104,MI70170,92,14,78,6,6,0,0,0,2,0,0,1,1,4,0,0,4,0,6,0,0,5,1,0,0,3,0,0,0,0,3,0,0,0
@@ -18,6 +20,7 @@ Ottawa County Sheriff's Office,1992,Michigan,131750,MI70170,62,1,61,6,6,0,0,0,0,
 Ottawa County Sheriff's Office,1993,Michigan,137780,MI70170,68,1,67,33,15,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ottawa County Sheriff's Office,1994,Michigan,138041,MI70170,66,2,64,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ottawa County Sheriff's Office,1995,Michigan,141798,MI70170,75,5,70,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ottawa County Sheriff's Office,1996,Michigan,142465,MI70170,81,6,75,11,9,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ottawa County Sheriff's Office,1997,Michigan,145137,MI70170,87,5,82,13,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ottawa County Sheriff's Office,1998,Michigan,148122,MI70170,91,5,86,13,12,1,0,0,6,0,0,5,1,2,0,1,1,0,8,0,1,6,1,1,0,0,0,0,1,1,4,0,1,0
 Ottawa County Sheriff's Office,1999,Michigan,154074,MI70170,98,7,91,13,12,1,0,0,2,0,0,2,0,7,0,0,7,0,9,0,0,9,0,0,0,7,0,0,0,0,2,0,0,0

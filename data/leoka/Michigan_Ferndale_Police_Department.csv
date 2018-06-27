@@ -1,10 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Ferndale Police Department,1975,Michigan,32158,MI63394,54,0,54,10,3,7,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Ferndale Police Department,1976,Michigan,32505,MI63394,54,0,54,8,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ferndale Police Department,1977,Michigan,32820,MI63394,53,0,53,9,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1978,Michigan,28500,MI63394,54,0,54,13,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1979,Michigan,26965,MI63394,53,0,53,6,3,3,0,0,5,1,1,3,0,0,0,0,0,0,5,1,1,3,0,2,0,2,0,0,0,0,1,0,0,0
 Ferndale Police Department,1980,Michigan,26202,MI63394,53,0,53,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1981,Michigan,26125,MI63394,51,0,51,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ferndale Police Department,1982,Michigan,25864,MI63394,51,0,51,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ferndale Police Department,1983,Michigan,25750,MI63394,50,0,50,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ferndale Police Department,1984,Michigan,25436,MI63394,49,0,49,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1985,Michigan,25474,MI63394,49,0,49,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1986,Michigan,25379,MI63394,49,0,49,9,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,6 +20,7 @@ Ferndale Police Department,1992,Michigan,25466,MI63394,53,1,52,7,5,2,0,0,0,0,0,0
 Ferndale Police Department,1993,Michigan,24207,MI63394,53,1,52,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1994,Michigan,24252,MI63394,52,1,51,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1995,Michigan,23351,MI63394,52,1,51,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ferndale Police Department,1996,Michigan,23460,MI63394,50,1,49,10,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ferndale Police Department,1997,Michigan,23900,MI63394,52,1,51,10,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1998,Michigan,24746,MI63394,52,1,51,10,4,6,0,0,0,0,0,0,0,4,1,0,1,2,4,1,0,1,2,1,0,0,0,0,0,0,0,0,1,2
 Ferndale Police Department,1999,Michigan,24574,MI63394,52,1,51,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -24,6 +28,7 @@ Ferndale Police Department,2000,Michigan,22105,MI63394,53,1,52,11,6,5,0,0,5,0,0,
 Ferndale Police Department,2001,Michigan,22221,MI63394,49,0,49,9,4,5,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,1,0,0,0,0,0,0,3,0,0,0
 Ferndale Police Department,2002,Michigan,22354,MI63394,48,0,48,10,5,5,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Ferndale Police Department,2003,Michigan,21922,MI63394,47,0,47,9,5,4,0,0,3,0,0,0,3,3,0,0,2,1,6,0,0,2,4,0,0,0,0,0,0,0,2,2,2,0
+Ferndale Police Department,2004,Michigan,21763,MI63394,45,0,45,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Ferndale Police Department,2005,Michigan,21684,MI63394,47,2,45,9,5,4,0,0,0,0,0,0,0,8,0,0,8,0,8,0,0,8,0,0,0,0,0,0,1,0,6,0,1,0
 Ferndale Police Department,2006,Michigan,21407,MI63394,48,3,45,8,3,5,0,0,0,0,0,0,0,4,0,2,1,1,4,0,2,1,1,0,0,0,0,0,0,0,3,1,0,0
 Ferndale Police Department,2007,Michigan,21207,MI63394,45,3,42,9,3,6,0,0,1,0,0,1,0,4,0,0,2,2,5,0,0,3,2,3,0,0,0,0,0,0,2,0,0,0

@@ -1,8 +1,10 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Jennings Police Department,1975,Louisiana,12012,LA02702,27,6,21,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Jennings Police Department,1976,Louisiana,12040,LA02702,26,4,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jennings Police Department,1977,Louisiana,12038,LA02702,26,4,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jennings Police Department,1978,Louisiana,12101,LA02702,26,5,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jennings Police Department,1979,Louisiana,12649,LA02702,28,6,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jennings Police Department,1980,Louisiana,12425,LA02702,23,7,16,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Jennings Police Department,1981,Louisiana,12737,LA02702,25,8,17,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
 Jennings Police Department,1982,Louisiana,12906,LA02702,30,10,20,0,0,0,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,0,0,2,0,0,0,0,3,0,0,0
 Jennings Police Department,1983,Louisiana,13130,LA02702,28,9,19,0,0,0,0,0,0,0,0,0,0,3,1,0,2,0,3,1,0,2,0,0,0,1,0,0,0,1,1,0,0,0
@@ -27,6 +29,13 @@ Jennings Police Department,2001,Louisiana,10977,LA02702,35,7,28,8,4,4,0,0,10,0,0
 Jennings Police Department,2002,Louisiana,11019,LA02702,32,8,24,8,3,5,0,0,9,0,0,4,5,12,0,0,8,4,21,0,0,12,9,0,0,0,3,0,0,0,12,0,1,5
 Jennings Police Department,2003,Louisiana,10818,LA02702,32,8,24,6,3,3,0,0,4,0,0,4,0,5,0,1,4,0,9,0,1,8,0,6,0,0,2,0,0,0,1,0,0,0
 Jennings Police Department,2004,Louisiana,10758,LA02702,21,4,17,11,8,3,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,1,0,0,0,0,0,0,4,0,0,0
+Jennings Police Department,2005,Louisiana,10693,LA02702,26,8,18,9,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jennings Police Department,2006,Louisiana,10097,LA02702,26,4,22,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Jennings Police Department,2007,Louisiana,10577,LA02702,34,11,23,2,2,0,0,0,0,0,0,0,0,4,0,0,1,3,4,0,0,1,3,0,0,0,0,0,0,0,1,0,0,3
 Jennings Police Department,2008,Louisiana,10496,LA02702,23,3,20,12,8,4,0,0,1,0,0,1,0,4,0,0,2,2,5,0,0,3,2,2,0,0,0,0,0,0,2,0,1,0
 Jennings Police Department,2009,Louisiana,10483,LA02702,25,3,22,10,7,3,0,0,2,0,0,2,0,11,1,0,9,1,13,1,0,11,1,1,0,1,0,0,2,0,4,1,2,2
+Jennings Police Department,2010,Louisiana,10383,LA02702,23,2,21,12,8,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jennings Police Department,2011,Louisiana,10478,LA02702,25,2,23,12,8,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jennings Police Department,2012,Louisiana,10477,LA02702,37,10,27,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jennings Police Department,2014,Louisiana,10138,LA02702,26,4,22,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jennings Police Department,2015,Louisiana,10133,LA02702,25,3,22,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

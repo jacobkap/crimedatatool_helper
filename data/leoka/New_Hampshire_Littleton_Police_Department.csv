@@ -2,8 +2,10 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Littleton Police Department,1975,New Hampshire,5500,NH00550,9,0,9,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Littleton Police Department,1976,New Hampshire,5500,NH00550,9,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Littleton Police Department,1977,New Hampshire,6053,NH00550,9,0,9,2,1,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,2,0,0,0,0,0
+Littleton Police Department,1978,New Hampshire,5577,NH00550,9,0,9,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Littleton Police Department,1979,New Hampshire,5620,NH00550,9,1,8,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Littleton Police Department,1980,New Hampshire,5554,NH00550,8,1,7,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Littleton Police Department,1981,New Hampshire,5650,NH00550,8,0,8,3,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Littleton Police Department,1982,New Hampshire,5746,NH00550,9,0,9,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Littleton Police Department,1983,New Hampshire,5794,NH00550,9,0,9,2,1,1,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,0,0,0,0,0,6,0,0,0
 Littleton Police Department,1984,New Hampshire,5806,NH00550,8,0,8,4,3,1,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,0,0,0,0,3,0,0,2
@@ -11,11 +13,17 @@ Littleton Police Department,1985,New Hampshire,5931,NH00550,8,0,8,4,3,1,0,0,0,0,
 Littleton Police Department,1986,New Hampshire,5972,NH00550,9,0,9,4,4,0,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,0,0,0,0,0,0,0,2,0,1,1
 Littleton Police Department,1987,New Hampshire,5877,NH00550,9,0,9,4,4,0,0,0,0,0,0,0,0,7,2,0,5,0,7,2,0,5,0,1,0,1,0,0,1,0,4,0,0,0
 Littleton Police Department,1988,New Hampshire,6113,NH00550,10,1,9,1,1,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,1,0,1,0,0,0,0,2,0,0,1
+Littleton Police Department,1989,New Hampshire,5886,NH00550,9,1,8,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Littleton Police Department,1990,New Hampshire,5827,NH00550,9,1,8,1,1,0,0,0,2,0,0,2,0,3,0,0,2,1,5,0,0,4,1,2,0,0,1,0,2,0,0,0,0,0
+Littleton Police Department,1991,New Hampshire,5804,NH00550,9,1,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Littleton Police Department,1992,New Hampshire,5835,NH00550,9,1,8,1,1,0,0,0,0,0,0,0,0,5,0,0,12,0,5,0,0,5,0,0,0,0,0,0,0,0,3,0,0,2
 Littleton Police Department,1993,New Hampshire,5887,NH00550,9,1,8,1,1,0,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,0,0,0,0,0,0,0,2,0,0,1
 Littleton Police Department,1994,New Hampshire,5949,NH00550,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Littleton Police Department,1995,New Hampshire,6006,NH00550,10,1,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Littleton Police Department,1996,New Hampshire,6079,NH00550,10,1,9,2,2,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Littleton Police Department,1997,New Hampshire,6136,NH00550,9,1,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Littleton Police Department,1998,New Hampshire,6117,NH00550,10,0,10,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Littleton Police Department,1999,New Hampshire,6084,NH00550,11,0,11,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Littleton Police Department,2000,New Hampshire,5845,NH00550,12,1,11,1,1,0,0,0,0,0,0,0,0,5,0,0,3,2,5,0,0,3,2,2,0,1,0,0,0,0,2,0,0,0
 Littleton Police Department,2001,New Hampshire,5956,NH00550,11,1,10,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
 Littleton Police Department,2002,New Hampshire,6030,NH00550,11,1,10,3,2,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
@@ -28,5 +36,7 @@ Littleton Police Department,2008,New Hampshire,6215,NH00550,8,1,7,1,1,0,0,0,0,0,
 Littleton Police Department,2009,New Hampshire,6221,NH00550,11,1,10,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Littleton Police Department,2010,New Hampshire,5928,NH00550,13,1,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Littleton Police Department,2011,New Hampshire,5936,NH00550,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Littleton Police Department,2012,New Hampshire,5924,NH00550,9,0,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Littleton Police Department,2013,New Hampshire,5930,NH00550,9,0,9,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Littleton Police Department,2014,New Hampshire,5957,NH00550,10,0,10,2,2,0,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,0,0,3,0,0,1
 Littleton Police Department,2015,New Hampshire,5962,NH00550,10,0,10,2,2,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,0,0,0,2,0,0,0

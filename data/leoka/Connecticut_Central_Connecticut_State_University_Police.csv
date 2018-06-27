@@ -1,9 +1,4 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Central Connecticut State University Police,1978,Connecticut,0,CT00190,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Central Connecticut State University Police,1979,Connecticut,0,CT00190,0,0,0,0,0,0,0,0,13,0,0,11,2,1,0,0,1,0,14,0,0,12,2,1,0,3,0,0,3,0,2,0,1,4
-Central Connecticut State University Police,1980,Connecticut,0,CT00190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Central Connecticut State University Police,1981,Connecticut,0,CT00190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Central Connecticut State University Police,1982,Connecticut,0,CT00190,0,0,0,0,0,0,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,1,0,0,0,0,2,0,2,0,0,0
 Central Connecticut State University Police,1983,Connecticut,0,CT00190,24,0,24,8,4,4,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,1,0,0,0,0,0,0,0,0,0,2
 Central Connecticut State University Police,1984,Connecticut,0,CT00190,24,2,22,6,4,2,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,3,0,0,0,0,0,0,0,0,1,0
 Central Connecticut State University Police,1985,Connecticut,0,CT00190,24,2,22,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -22,14 +17,18 @@ Central Connecticut State University Police,1997,Connecticut,0,CT00190,18,2,16,5
 Central Connecticut State University Police,1998,Connecticut,0,CT00190,21,2,19,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Central Connecticut State University Police,1999,Connecticut,0,CT00190,22,2,20,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Central Connecticut State University Police,2000,Connecticut,0,CT00190,22,3,19,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Connecticut State University Police,2001,Connecticut,0,CT00190,22,3,19,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Central Connecticut State University Police,2002,Connecticut,0,CT00190,21,3,18,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Central Connecticut State University Police,2003,Connecticut,0,CT00190,22,3,19,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Connecticut State University Police,2004,Connecticut,0,CT00190,21,3,18,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Central Connecticut State University Police,2005,Connecticut,0,CT00190,22,2,20,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Central Connecticut State University Police,2006,Connecticut,0,CT00190,20,2,18,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Central Connecticut State University Police,2007,Connecticut,0,CT00190,22,2,20,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Connecticut State University Police,2008,Connecticut,0,CT00190,20,2,18,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Central Connecticut State University Police,2009,Connecticut,0,CT00190,20,1,19,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Central Connecticut State University Police,2010,Connecticut,0,CT00190,21,1,20,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Central Connecticut State University Police,2011,Connecticut,0,CT00190,20,1,19,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Central Connecticut State University Police,2012,Connecticut,0,CT00190,21,1,20,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Central Connecticut State University Police,2013,Connecticut,0,CT00190,21,2,19,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Central Connecticut State University Police,2014,Connecticut,0,CT00190,21,2,19,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Central Connecticut State University Police,2015,Connecticut,0,CT00190,20,2,18,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,

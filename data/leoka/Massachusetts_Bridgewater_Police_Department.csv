@@ -1,4 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Bridgewater Police Department,1975,Massachusetts,13613,MA01202,21,1,20,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,1976,Massachusetts,13686,MA01202,24,1,23,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bridgewater Police Department,1977,Massachusetts,10444,MA01202,23,1,22,2,2,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,0,0,2,0,3,0,0,0
 Bridgewater Police Department,1978,Massachusetts,13922,MA01202,23,1,22,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Bridgewater Police Department,1979,Massachusetts,13881,MA01202,26,1,25,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
@@ -18,8 +20,23 @@ Bridgewater Police Department,1992,Massachusetts,21182,MA01202,28,1,27,1,1,0,0,0
 Bridgewater Police Department,1993,Massachusetts,21812,MA01202,29,1,28,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgewater Police Department,1994,Massachusetts,21917,MA01202,29,1,28,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgewater Police Department,1995,Massachusetts,22596,MA01202,31,1,30,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bridgewater Police Department,1996,Massachusetts,22662,MA01202,30,1,29,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bridgewater Police Department,1997,Massachusetts,22758,MA01202,33,2,31,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgewater Police Department,1998,Massachusetts,24083,MA01202,37,2,35,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgewater Police Department,1999,Massachusetts,24648,MA01202,37,2,35,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bridgewater Police Department,2000,Massachusetts,25185,MA01202,40,2,38,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bridgewater Police Department,2001,Massachusetts,25305,MA01202,38,2,36,3,2,1,0,0,1,0,0,1,0,2,0,0,1,1,3,0,0,2,1,1,0,0,0,0,1,0,1,0,0,0
+Bridgewater Police Department,2002,Massachusetts,25498,MA01202,38,3,35,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bridgewater Police Department,2003,Massachusetts,25642,MA01202,35,3,32,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bridgewater Police Department,2004,Massachusetts,25076,MA01202,36,3,33,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2005,Massachusetts,25652,MA01202,34,3,31,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2006,Massachusetts,25875,MA01202,35,3,32,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2007,Massachusetts,25767,MA01202,35,3,32,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2008,Massachusetts,25546,MA01202,34,3,31,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2009,Massachusetts,25765,MA01202,26,3,23,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2010,Massachusetts,26563,MA01202,26,3,23,18,1,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2011,Massachusetts,26725,MA01202,21,3,18,28,10,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2012,Massachusetts,26923,MA01202,30,3,27,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2013,Massachusetts,27034,MA01202,35,3,32,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2014,Massachusetts,26533,MA01202,38,3,35,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgewater Police Department,2015,Massachusetts,27682,MA01202,39,4,35,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

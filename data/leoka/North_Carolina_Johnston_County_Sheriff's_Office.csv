@@ -1,4 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Johnston County Sheriff's Office,1976,North Carolina,42174,NC05100,15,1,14,8,1,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Johnston County Sheriff's Office,1977,North Carolina,43541,NC05100,18,1,17,11,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Johnston County Sheriff's Office,1978,North Carolina,41879,NC05100,17,0,17,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Johnston County Sheriff's Office,1979,North Carolina,44010,NC05100,20,1,19,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Johnston County Sheriff's Office,1980,North Carolina,47016,NC05100,20,1,19,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,6 +30,7 @@ Johnston County Sheriff's Office,2003,North Carolina,96791,NC05100,90,6,84,74,42
 Johnston County Sheriff's Office,2004,North Carolina,100615,NC05100,93,6,87,77,47,30,0,0,0,0,0,0,0,14,1,0,13,0,14,1,0,13,0,5,0,6,0,0,0,0,2,0,0,1
 Johnston County Sheriff's Office,2005,North Carolina,103943,NC05100,99,9,90,76,50,26,0,0,0,0,0,0,0,18,1,0,14,3,18,1,0,14,3,2,0,6,0,0,0,0,4,0,0,6
 Johnston County Sheriff's Office,2006,North Carolina,107655,NC05100,99,9,90,78,54,24,0,0,0,0,0,0,0,7,0,0,6,1,7,0,0,6,1,2,0,3,0,0,0,0,2,0,0,0
+Johnston County Sheriff's Office,2007,North Carolina,112758,NC05100,107,11,96,80,57,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Johnston County Sheriff's Office,2008,North Carolina,115538,NC05100,98,9,89,70,47,23,0,0,1,0,0,1,0,19,0,3,13,3,20,0,3,14,3,1,0,7,0,0,1,0,9,0,0,2
 Johnston County Sheriff's Office,2009,North Carolina,119512,NC05100,95,11,84,77,47,30,0,0,0,0,0,0,0,14,1,0,11,2,14,1,0,11,2,2,0,3,0,0,0,0,9,0,0,0
 Johnston County Sheriff's Office,2010,North Carolina,124144,NC05100,104,11,93,77,47,30,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,0,0,0,1,0,3,0,1,1

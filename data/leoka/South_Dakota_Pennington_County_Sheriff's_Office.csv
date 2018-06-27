@@ -1,4 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Pennington County Sheriff's Office,1975,South Dakota,17274,SD05100,25,2,23,19,12,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pennington County Sheriff's Office,1976,South Dakota,19334,SD05100,29,2,27,19,13,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pennington County Sheriff's Office,1977,South Dakota,19361,SD05100,25,2,23,20,13,7,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,0,0,2,0,0,0,0,1,0,1,1
 Pennington County Sheriff's Office,1978,South Dakota,18093,SD05100,27,1,26,10,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pennington County Sheriff's Office,1979,South Dakota,19070,SD05100,36,1,35,26,16,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -13,10 +15,14 @@ Pennington County Sheriff's Office,1987,South Dakota,23680,SD05100,30,1,29,44,22
 Pennington County Sheriff's Office,1988,South Dakota,24946,SD05100,29,1,28,50,23,27,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Pennington County Sheriff's Office,1989,South Dakota,26289,SD05100,29,1,28,69,32,37,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
 Pennington County Sheriff's Office,1990,South Dakota,26820,SD05100,34,3,31,71,34,37,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Pennington County Sheriff's Office,1991,South Dakota,24382,SD05100,35,4,31,30,21,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pennington County Sheriff's Office,1992,South Dakota,24713,SD05100,36,2,34,10,8,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pennington County Sheriff's Office,1993,South Dakota,25314,SD05100,37,2,35,12,9,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pennington County Sheriff's Office,1994,South Dakota,25526,SD05100,40,2,38,70,30,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pennington County Sheriff's Office,1995,South Dakota,26203,SD05100,43,4,39,68,33,35,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Pennington County Sheriff's Office,1996,South Dakota,26310,SD05100,45,3,42,66,34,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pennington County Sheriff's Office,1997,South Dakota,26525,SD05100,49,5,44,67,38,29,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Pennington County Sheriff's Office,1998,South Dakota,26433,SD05100,52,6,46,68,32,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pennington County Sheriff's Office,1999,South Dakota,27017,SD05100,52,7,45,98,39,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pennington County Sheriff's Office,2000,South Dakota,26117,SD05100,61,9,52,93,43,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pennington County Sheriff's Office,2001,South Dakota,26177,SD05100,57,7,50,94,42,52,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0

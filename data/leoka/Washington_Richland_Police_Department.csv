@@ -1,5 +1,9 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Richland Police Department,1975,Washington,29003,WA00302,35,2,33,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Richland Police Department,1976,Washington,30009,WA00302,35,2,33,9,7,2,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,1,0,0,0,0,0,0,0,0,0,3
+Richland Police Department,1977,Washington,31050,WA00302,40,1,39,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Richland Police Department,1978,Washington,32347,WA00302,40,0,40,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Richland Police Department,1979,Washington,34463,WA00302,43,0,43,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Richland Police Department,1980,Washington,33512,WA00302,43,0,43,13,7,6,0,0,9,0,0,9,0,0,0,0,0,0,9,0,0,9,0,0,0,3,0,0,0,0,0,0,6,0
 Richland Police Department,1981,Washington,34316,WA00302,42,0,42,12,7,5,0,0,6,0,0,5,1,1,0,0,0,1,7,0,0,5,2,0,0,0,0,0,0,1,2,0,2,2
 Richland Police Department,1982,Washington,34585,WA00302,43,0,43,12,7,5,0,0,3,1,0,2,0,0,0,0,0,0,3,1,0,2,0,0,0,1,0,0,1,0,0,0,1,0
@@ -7,6 +11,7 @@ Richland Police Department,1983,Washington,35033,WA00302,42,0,42,12,7,5,0,0,1,0,
 Richland Police Department,1984,Washington,35691,WA00302,43,1,42,11,7,4,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
 Richland Police Department,1985,Washington,36182,WA00302,43,0,43,7,5,2,0,0,0,0,0,0,0,4,1,0,3,0,4,1,0,3,0,0,0,1,0,0,1,0,2,0,0,0
 Richland Police Department,1986,Washington,33916,WA00302,43,0,43,7,5,2,0,0,2,0,0,0,2,2,1,0,1,0,4,1,0,1,2,0,0,0,0,0,0,0,3,1,0,0
+Richland Police Department,1987,Washington,33131,WA00302,41,0,41,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Richland Police Department,1988,Washington,33336,WA00302,41,0,41,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Richland Police Department,1989,Washington,33279,WA00302,42,1,41,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Richland Police Department,1990,Washington,32315,WA00302,42,1,41,6,4,2,0,0,0,0,0,0,0,3,2,0,1,0,3,2,0,1,0,0,0,0,0,0,0,0,3,0,0,0

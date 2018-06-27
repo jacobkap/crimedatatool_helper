@@ -1,4 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Colby Police Department,1975,Kansas,4756,KS09701,9,0,9,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Colby Police Department,1976,Kansas,5100,KS09701,9,0,9,5,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Colby Police Department,1977,Kansas,5188,KS09701,9,0,9,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Colby Police Department,1978,Kansas,5113,KS09701,8,0,8,5,3,2,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,2,0,0,1,0,0,0
 Colby Police Department,1979,Kansas,5340,KS09701,9,0,9,5,4,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
 Colby Police Department,1980,Kansas,5549,KS09701,9,0,9,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7,13 +10,21 @@ Colby Police Department,1982,Kansas,5674,KS09701,11,1,10,4,3,1,0,0,1,0,0,0,1,0,0
 Colby Police Department,1983,Kansas,5714,KS09701,12,1,11,4,3,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Colby Police Department,1984,Kansas,5666,KS09701,12,0,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Colby Police Department,1985,Kansas,5694,KS09701,12,0,12,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Colby Police Department,1986,Kansas,5983,KS09701,14,4,10,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Colby Police Department,1987,Kansas,5636,KS09701,14,4,10,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Colby Police Department,1988,Kansas,5493,KS09701,15,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Colby Police Department,1989,Kansas,5518,KS09701,15,5,10,0,0,0,0,0,1,0,0,1,0,2,1,0,0,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,3
 Colby Police Department,1990,Kansas,5396,KS09701,15,4,11,0,0,0,0,0,2,0,0,2,0,2,1,0,1,0,4,1,0,3,0,0,0,2,0,0,0,0,0,0,1,1
 Colby Police Department,1991,Kansas,5433,KS09701,16,5,11,0,0,0,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,0,0,2,0,1,1
 Colby Police Department,1992,Kansas,5493,KS09701,16,5,11,0,0,0,0,0,2,0,0,2,0,3,0,0,12,0,5,0,0,5,0,0,0,0,0,0,0,0,2,0,0,3
+Colby Police Department,1993,Kansas,5492,KS09701,16,5,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Colby Police Department,1994,Kansas,5541,KS09701,11,0,11,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colby Police Department,1995,Kansas,5649,KS09701,11,0,11,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Colby Police Department,1996,Kansas,5664,KS09701,11,0,11,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Colby Police Department,1997,Kansas,5714,KS09701,11,0,11,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Colby Police Department,1998,Kansas,5508,KS09701,11,0,11,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Colby Police Department,1999,Kansas,5369,KS09701,11,0,11,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Colby Police Department,2000,Kansas,5450,KS09701,11,0,11,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Colby Police Department,2001,Kansas,5463,KS09701,12,0,12,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Colby Police Department,2002,Kansas,5506,KS09701,12,0,12,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Colby Police Department,2003,Kansas,5379,KS09701,18,5,13,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Bangor Police Department,1975,Maine,33429,ME01001,62,0,62,16,4,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bangor Police Department,1976,Maine,32205,ME01001,60,1,59,16,4,12,0,0,2,0,1,1,0,18,1,0,17,0,20,1,1,18,0,0,0,0,1,0,0,0,18,0,1,0
 Bangor Police Department,1977,Maine,37500,ME01001,61,1,60,16,5,11,0,0,3,0,0,3,0,18,0,0,18,0,21,0,0,21,0,2,0,1,0,1,2,0,13,0,1,1
 Bangor Police Department,1978,Maine,31566,ME01001,65,1,64,15,4,11,0,0,4,0,0,4,0,28,1,0,27,0,32,1,0,31,0,3,0,12,0,0,4,0,11,0,1,1
@@ -21,6 +22,8 @@ Bangor Police Department,1994,Maine,32249,ME01001,63,1,62,14,7,7,0,0,2,0,1,1,0,1
 Bangor Police Department,1995,Maine,32029,ME01001,63,0,63,14,7,7,0,0,3,0,0,3,0,17,0,0,17,0,20,0,0,20,0,3,0,0,1,0,3,0,12,0,1,0
 Bangor Police Department,1996,Maine,32080,ME01001,65,1,64,13,7,6,0,0,2,0,0,2,0,12,0,0,12,0,14,0,0,14,0,3,0,0,0,0,0,0,10,0,1,0
 Bangor Police Department,1997,Maine,32054,ME01001,66,1,65,13,8,5,0,0,0,0,0,0,0,15,1,0,14,0,15,1,0,14,0,0,1,2,0,0,3,0,8,0,0,1
+Bangor Police Department,1998,Maine,31569,ME01001,68,1,67,13,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bangor Police Department,1999,Maine,30724,ME01001,69,1,68,13,8,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Bangor Police Department,2000,Maine,31473,ME01001,69,1,68,17,13,4,0,0,9,0,0,9,0,21,0,0,20,1,30,0,0,29,1,2,0,1,0,0,0,4,22,0,0,1
 Bangor Police Department,2001,Maine,31763,ME01001,71,1,70,16,11,5,0,0,7,0,1,6,0,8,0,0,8,0,15,0,1,14,0,5,0,4,0,0,0,1,5,0,0,0
 Bangor Police Department,2002,Maine,31956,ME01001,73,2,71,15,7,8,0,0,1,0,0,1,0,11,0,0,11,0,12,0,0,11,1,2,0,3,0,0,0,0,7,0,0,0

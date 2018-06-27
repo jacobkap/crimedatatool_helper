@@ -1,5 +1,10 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+New Shoreham Police Department,1975,Rhode Island,486,RI00509,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Shoreham Police Department,1976,Rhode Island,462,RI00509,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New Shoreham Police Department,1977,Rhode Island,486,RI00509,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New Shoreham Police Department,1978,Rhode Island,739,RI00509,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New Shoreham Police Department,1979,Rhode Island,712,RI00509,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New Shoreham Police Department,1980,Rhode Island,610,RI00509,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Shoreham Police Department,1981,Rhode Island,614,RI00509,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Shoreham Police Department,1982,Rhode Island,618,RI00509,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Shoreham Police Department,1983,Rhode Island,616,RI00509,2,0,2,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -10,6 +15,7 @@ New Shoreham Police Department,1987,Rhode Island,769,RI00509,3,0,3,0,0,0,0,0,0,0
 New Shoreham Police Department,1988,Rhode Island,776,RI00509,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Shoreham Police Department,1989,Rhode Island,804,RI00509,3,0,3,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Shoreham Police Department,1990,Rhode Island,836,RI00509,3,0,3,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New Shoreham Police Department,1991,Rhode Island,836,RI00509,3,0,3,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Shoreham Police Department,1992,Rhode Island,836,RI00509,3,0,3,4,4,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Shoreham Police Department,1993,Rhode Island,854,RI00509,3,0,3,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Shoreham Police Department,1994,Rhode Island,851,RI00509,3,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -23,6 +29,8 @@ New Shoreham Police Department,2001,Rhode Island,1020,RI00509,4,0,4,5,5,0,0,0,0,
 New Shoreham Police Department,2002,Rhode Island,1031,RI00509,4,0,4,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Shoreham Police Department,2003,Rhode Island,1039,RI00509,4,0,4,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Shoreham Police Department,2004,Rhode Island,1040,RI00509,4,0,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New Shoreham Police Department,2005,Rhode Island,1042,RI00509,5,0,5,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+New Shoreham Police Department,2006,Rhode Island,1037,RI00509,4,0,4,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 New Shoreham Police Department,2007,Rhode Island,1023,RI00509,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Shoreham Police Department,2008,Rhode Island,1014,RI00509,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 New Shoreham Police Department,2009,Rhode Island,1036,RI00509,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

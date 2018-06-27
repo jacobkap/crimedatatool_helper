@@ -1,14 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-University Of Utah Police Dept,1975,Utah,0,UT01807,29,1,28,15,5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-University Of Utah Police Dept,1976,Utah,0,UT01807,29,1,28,15,5,10,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
-University Of Utah Police Dept,1977,Utah,0,UT01807,29,1,28,15,5,10,0,0,5,0,1,2,2,2,0,0,2,0,7,0,1,4,2,2,0,0,0,1,0,2,1,0,1,0
-University Of Utah Police Dept,1979,Utah,0,UT01807,29,1,28,15,5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-University Of Utah Police Dept,1980,Utah,0,UT01807,29,1,28,15,5,10,0,0,1,0,0,1,0,5,0,0,3,2,6,0,0,4,2,4,0,0,0,0,1,0,0,0,0,1
-University Of Utah Police Dept,1981,Utah,0,UT01807,29,1,28,15,5,10,0,0,1,0,0,1,0,5,0,0,5,0,6,0,0,6,0,3,0,0,0,0,1,0,0,0,0,2
-University Of Utah Police Dept,1982,Utah,0,UT01807,29,1,28,15,5,10,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,1,0,1,0,2,0
 University Of Utah Police Dept,1983,Utah,0,UT01807,31,1,30,38,11,27,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,3,0,0,0,0,0,0,1,0,0,0
 University Of Utah Police Dept,1984,Utah,0,UT01807,31,2,29,38,11,27,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 University Of Utah Police Dept,1985,Utah,0,UT01807,30,3,27,47,15,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+University Of Utah Police Dept,1986,Utah,0,UT01807,30,4,26,18,10,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 University Of Utah Police Dept,1987,Utah,0,UT01807,30,3,27,53,19,34,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,1,0
 University Of Utah Police Dept,1988,Utah,0,UT01807,30,3,27,35,13,22,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 University Of Utah Police Dept,1989,Utah,0,UT01807,33,5,28,48,16,32,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
@@ -18,6 +12,7 @@ University Of Utah Police Dept,1992,Utah,0,UT01807,32,3,29,9,9,0,0,0,1,0,0,1,0,2
 University Of Utah Police Dept,1993,Utah,0,UT01807,35,4,31,9,7,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 University Of Utah Police Dept,1994,Utah,0,UT01807,36,4,32,9,6,3,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 University Of Utah Police Dept,1995,Utah,0,UT01807,36,4,32,9,7,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+University Of Utah Police Dept,1996,Utah,0,UT01807,36,4,32,9,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 University Of Utah Police Dept,1997,Utah,0,UT01807,35,4,31,34,10,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Utah Police Dept,1998,Utah,0,UT01807,33,3,30,40,14,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Utah Police Dept,1999,Utah,0,UT01807,34,3,31,50,33,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

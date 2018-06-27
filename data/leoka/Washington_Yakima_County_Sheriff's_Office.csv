@@ -1,12 +1,15 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Yakima County Sheriff's Office,1975,Washington,77181,WA03900,87,15,72,25,20,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Yakima County Sheriff's Office,1976,Washington,79242,WA03900,96,17,79,18,14,4,0,0,4,0,0,4,0,7,1,0,5,1,11,1,0,9,1,0,0,0,0,0,4,0,4,0,2,1
 Yakima County Sheriff's Office,1977,Washington,82996,WA03900,107,16,91,22,18,4,0,0,3,0,0,2,1,5,1,0,4,0,8,1,0,6,1,0,0,3,0,0,2,0,1,0,1,1
+Yakima County Sheriff's Office,1978,Washington,78963,WA03900,59,0,59,64,32,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Yakima County Sheriff's Office,1979,Washington,82397,WA03900,61,1,60,67,31,36,0,0,11,0,0,11,0,7,1,1,5,0,18,1,1,16,0,2,0,0,1,0,4,1,5,0,3,2
 Yakima County Sheriff's Office,1980,Washington,91054,WA03900,131,32,99,5,0,5,0,0,5,1,0,4,0,11,2,0,6,3,16,3,0,10,3,2,1,1,0,0,6,0,5,0,0,1
 Yakima County Sheriff's Office,1981,Washington,93238,WA03900,72,4,68,78,35,43,0,0,2,0,0,2,0,12,2,6,4,0,14,2,6,6,0,2,0,0,0,0,1,0,9,0,1,1
 Yakima County Sheriff's Office,1982,Washington,93967,WA03900,72,4,68,78,35,43,0,0,12,0,0,12,0,8,0,0,8,0,20,0,0,20,0,5,0,2,0,0,5,0,3,0,0,5
 Yakima County Sheriff's Office,1983,Washington,95184,WA03900,69,4,65,85,37,48,0,0,2,0,0,2,0,11,5,0,5,1,13,5,0,7,1,2,0,0,0,0,0,0,10,0,1,0
 Yakima County Sheriff's Office,1984,Washington,90488,WA03900,68,2,66,120,55,65,0,0,3,0,0,1,2,9,0,1,7,1,12,0,1,8,3,3,0,1,1,0,2,2,2,0,0,1
+Yakima County Sheriff's Office,1985,Washington,92583,WA03900,72,2,70,129,62,67,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Yakima County Sheriff's Office,1986,Washington,95746,WA03900,67,2,65,121,63,58,0,0,1,0,0,1,0,24,0,0,24,0,25,0,0,25,0,3,0,2,2,0,8,0,9,0,0,1
 Yakima County Sheriff's Office,1987,Washington,98347,WA03900,67,2,65,25,24,1,0,0,1,0,0,1,0,5,0,0,5,0,6,0,0,6,0,0,0,0,0,0,4,0,1,0,1,0
 Yakima County Sheriff's Office,1988,Washington,98215,WA03900,68,2,66,30,29,1,0,0,0,0,0,0,0,9,1,1,6,1,9,1,1,6,1,2,0,1,0,0,0,0,6,0,0,0

@@ -1,14 +1,20 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Covington Police Department,1976,Ohio,3000,OH05506,3,0,3,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,1977,Ohio,2878,OH05506,3,0,3,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Covington Police Department,1978,Ohio,2578,OH05506,2,0,2,3,3,0,0,0,3,0,0,3,0,6,0,1,5,0,9,0,1,8,0,1,0,0,0,6,0,0,0,0,0,2
 Covington Police Department,1979,Ohio,2695,OH05506,4,0,4,3,2,1,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,2,0,0,0,0,0,0,0,1
+Covington Police Department,1980,Ohio,2615,OH05506,4,0,4,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,1981,Ohio,2617,OH05506,4,0,4,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Covington Police Department,1982,Ohio,2621,OH05506,4,0,4,3,3,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Covington Police Department,1983,Ohio,2610,OH05506,4,0,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Covington Police Department,1984,Ohio,2539,OH05506,4,0,4,3,0,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Covington Police Department,1985,Ohio,2537,OH05506,4,0,4,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Covington Police Department,1986,Ohio,2509,OH05506,4,0,4,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
 Covington Police Department,1987,Ohio,2516,OH05506,4,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
 Covington Police Department,1988,Ohio,2558,OH05506,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Covington Police Department,1989,Ohio,2502,OH05506,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Covington Police Department,1990,Ohio,2603,OH05506,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covington Police Department,1991,Ohio,2625,OH05506,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Covington Police Department,1992,Ohio,2643,OH05506,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Covington Police Department,1993,Ohio,2568,OH05506,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Covington Police Department,1994,Ohio,2570,OH05506,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -21,3 +27,13 @@ Covington Police Department,2000,Ohio,2559,OH05506,5,0,5,1,0,1,0,0,0,0,0,0,0,0,0
 Covington Police Department,2001,Ohio,2564,OH05506,5,0,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Covington Police Department,2002,Ohio,2574,OH05506,5,0,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Covington Police Department,2003,Ohio,2556,OH05506,5,0,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covington Police Department,2004,Ohio,2560,OH05506,5,0,5,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,2005,Ohio,2564,OH05506,5,0,5,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,2006,Ohio,2578,OH05506,5,0,5,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,2009,Ohio,2623,OH05506,5,0,5,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,2010,Ohio,2584,OH05506,5,0,5,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,2011,Ohio,2586,OH05506,5,0,5,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,2012,Ohio,2593,OH05506,4,0,4,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,2013,Ohio,2596,OH05506,5,0,5,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,2014,Ohio,2606,OH05506,5,0,5,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Covington Police Department,2015,Ohio,2624,OH05506,5,0,5,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,

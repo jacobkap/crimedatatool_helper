@@ -1,11 +1,18 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Portsmouth Police Department,1975,Ohio,28510,OH07302,44,0,44,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,1976,Ohio,28166,OH07302,49,3,46,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Portsmouth Police Department,1977,Ohio,28253,OH07302,50,3,47,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Portsmouth Police Department,1978,Ohio,25148,OH07302,46,0,46,6,2,4,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
 Portsmouth Police Department,1979,Ohio,24906,OH07302,46,0,46,3,3,0,0,0,2,0,0,0,2,2,0,0,0,2,4,0,0,0,4,0,0,0,0,0,0,0,2,0,0,2
+Portsmouth Police Department,1980,Ohio,25993,OH07302,46,0,46,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,1981,Ohio,26015,OH07302,43,0,43,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,1982,Ohio,26051,OH07302,37,0,37,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Portsmouth Police Department,1983,Ohio,25942,OH07302,39,0,39,5,5,0,0,0,4,0,0,3,1,0,0,0,0,0,4,0,0,3,1,1,1,0,0,0,0,0,2,0,0,0
 Portsmouth Police Department,1984,Ohio,25006,OH07302,38,0,38,5,5,0,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,0,0,0,2,0,0,0,0,3,0,0,0
 Portsmouth Police Department,1985,Ohio,24987,OH07302,37,0,37,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Portsmouth Police Department,1986,Ohio,24446,OH07302,35,0,35,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Portsmouth Police Department,1987,Ohio,24519,OH07302,31,0,31,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,1988,Ohio,23868,OH07302,34,0,34,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Portsmouth Police Department,1989,Ohio,22660,OH07302,41,0,41,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Portsmouth Police Department,1990,Ohio,22676,OH07302,41,0,41,3,3,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Portsmouth Police Department,1991,Ohio,22868,OH07302,41,1,40,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -23,3 +30,12 @@ Portsmouth Police Department,2002,Ohio,21034,OH07302,41,2,39,4,4,0,0,0,3,0,0,3,0
 Portsmouth Police Department,2003,Ohio,20465,OH07302,43,3,40,4,4,0,0,0,8,0,0,7,1,11,0,0,7,4,19,0,0,14,5,0,0,1,0,0,2,0,6,6,2,2
 Portsmouth Police Department,2004,Ohio,19953,OH07302,41,3,38,4,4,0,0,0,2,0,0,2,0,7,0,0,6,1,9,0,0,8,1,2,0,6,0,0,0,0,0,0,0,1
 Portsmouth Police Department,2005,Ohio,20109,OH07302,38,2,36,4,4,0,0,0,3,0,0,3,0,5,0,0,5,0,8,0,0,8,0,0,0,4,0,0,3,0,1,0,0,0
+Portsmouth Police Department,2007,Ohio,20030,OH07302,40,3,37,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,2008,Ohio,20043,OH07302,41,3,38,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,2009,Ohio,20235,OH07302,41,3,38,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,2010,Ohio,20226,OH07302,42,3,39,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,2011,Ohio,20241,OH07302,39,3,36,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,2012,Ohio,20170,OH07302,35,2,33,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,2013,Ohio,20322,OH07302,38,2,36,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,2014,Ohio,20476,OH07302,38,2,36,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Portsmouth Police Department,2015,Ohio,20346,OH07302,40,2,38,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,6 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Brownsville Police Department,1975,Tennessee,8583,TN03801,13,0,13,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Brownsville Police Department,1976,Tennessee,8627,TN03801,13,0,13,1,1,0,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,0,0,0,0,0,0,0,0,0,0,3
 Brownsville Police Department,1977,Tennessee,8929,TN03801,15,0,15,5,5,0,0,0,1,0,0,1,0,2,1,0,1,0,3,1,0,2,0,0,1,0,1,0,0,0,0,0,0,1
+Brownsville Police Department,1978,Tennessee,8583,TN03801,15,0,15,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Brownsville Police Department,1979,Tennessee,8513,TN03801,15,0,15,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 Brownsville Police Department,1980,Tennessee,9298,TN03801,16,1,15,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brownsville Police Department,1981,Tennessee,9430,TN03801,15,0,15,6,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -10,12 +12,16 @@ Brownsville Police Department,1984,Tennessee,9720,TN03801,15,0,15,6,5,1,0,0,0,0,
 Brownsville Police Department,1985,Tennessee,9813,TN03801,15,0,15,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brownsville Police Department,1986,Tennessee,9985,TN03801,16,1,15,6,5,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Brownsville Police Department,1987,Tennessee,10341,TN03801,18,1,17,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsville Police Department,1988,Tennessee,10365,TN03801,18,0,18,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brownsville Police Department,1989,Tennessee,10424,TN03801,18,0,18,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Brownsville Police Department,1990,Tennessee,10019,TN03801,23,1,22,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsville Police Department,1991,Tennessee,10174,TN03801,22,1,21,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Brownsville Police Department,1992,Tennessee,10319,TN03801,21,1,20,6,5,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brownsville Police Department,1993,Tennessee,10442,TN03801,23,1,22,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brownsville Police Department,1994,Tennessee,10597,TN03801,25,1,24,2,2,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0
 Brownsville Police Department,1995,Tennessee,10611,TN03801,25,1,24,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brownsville Police Department,1996,Tennessee,10740,TN03801,30,2,28,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brownsville Police Department,1997,Tennessee,10836,TN03801,29,2,27,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Brownsville Police Department,1998,Tennessee,10302,TN03801,28,2,26,3,3,0,0,0,1,0,0,0,1,2,0,0,0,2,3,0,0,0,3,1,0,0,0,0,0,0,2,0,0,0
 Brownsville Police Department,1999,Tennessee,10100,TN03801,29,1,28,5,1,4,0,0,6,0,0,6,0,8,1,0,6,1,14,1,0,12,1,0,1,4,0,0,3,0,6,0,0,0
 Brownsville Police Department,2000,Tennessee,10748,TN03801,30,0,30,5,4,1,0,0,10,1,0,6,3,10,0,0,4,6,20,1,0,10,9,0,0,10,2,0,2,0,6,0,0,0

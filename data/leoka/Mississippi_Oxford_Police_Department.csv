@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Oxford Police Department,1975,Mississippi,15495,MS03601,25,3,22,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Oxford Police Department,1976,Mississippi,9569,MS03601,26,4,22,2,2,0,0,0,2,0,0,0,2,7,0,0,7,0,9,0,0,7,2,0,0,1,0,0,1,0,2,2,2,1
 Oxford Police Department,1977,Mississippi,13000,MS03601,22,0,22,8,6,2,0,0,0,0,0,0,0,3,1,0,2,0,3,1,0,2,0,1,0,0,0,0,0,0,0,0,0,2
 Oxford Police Department,1978,Mississippi,10169,MS03601,31,5,26,1,1,0,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,0,0,0,0,0,2,0,0,4
@@ -14,8 +15,7 @@ Oxford Police Department,1987,Mississippi,9400,MS03601,30,2,28,3,3,0,0,0,0,0,0,0
 Oxford Police Department,1988,Mississippi,9470,MS03601,34,1,33,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oxford Police Department,1989,Mississippi,9685,MS03601,36,1,35,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oxford Police Department,1990,Mississippi,9984,MS03601,36,1,35,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford Police Department,1992,Mississippi,10141,MS03601,38,0,38,6,4,2,0,0,4,0,0,3,1,0,0,0,9,0,4,0,0,3,1,1,0,1,0,0,0,0,2,0,0,0
-Oxford Police Department,1993,Mississippi,10275,MS03601,38,0,38,6,4,2,0,0,1,1,0,0,0,2,2,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+Oxford Police Department,1991,Mississippi,10056,MS03601,38,0,38,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Oxford Police Department,1994,Mississippi,10376,MS03601,39,0,39,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oxford Police Department,1995,Mississippi,10197,MS03601,39,0,39,6,4,2,0,0,1,0,0,0,1,1,0,0,1,0,2,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0
 Oxford Police Department,1996,Mississippi,10268,MS03601,43,0,43,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -24,6 +24,7 @@ Oxford Police Department,1998,Mississippi,11984,MS03601,43,0,43,7,6,1,0,0,0,0,0,
 Oxford Police Department,1999,Mississippi,12169,MS03601,49,1,48,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oxford Police Department,2000,Mississippi,11756,MS03601,49,0,49,8,8,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Oxford Police Department,2001,Mississippi,11811,MS03601,50,1,49,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oxford Police Department,2002,Mississippi,11868,MS03601,48,1,47,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Oxford Police Department,2003,Mississippi,12528,MS03601,50,2,48,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oxford Police Department,2004,Mississippi,12857,MS03601,50,2,48,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oxford Police Department,2005,Mississippi,13384,MS03601,49,2,47,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,6 +33,6 @@ Oxford Police Department,2007,Mississippi,14362,MS03601,50,2,48,8,7,1,0,0,0,0,0,
 Oxford Police Department,2008,Mississippi,15334,MS03601,60,3,57,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oxford Police Department,2009,Mississippi,17719,MS03601,58,2,56,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oxford Police Department,2010,Mississippi,18916,MS03601,59,2,57,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oxford Police Department,2011,Mississippi,18987,MS03601,58,2,56,10,8,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Oxford Police Department,2012,Mississippi,19435,MS03601,63,2,61,12,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford Police Department,2014,Mississippi,21372,MS03601,43,0,43,7,6,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Oxford Police Department,2015,Mississippi,22520,MS03601,65,4,61,11,8,3,0,0,2,0,0,1,1,1,0,0,1,0,3,0,0,2,1,1,0,2,0,0,0,0,0,0,0,0

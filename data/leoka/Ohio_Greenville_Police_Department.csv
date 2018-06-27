@@ -2,6 +2,9 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Greenville Police Department,1975,Ohio,13923,OH01901,18,0,18,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1976,Ohio,14076,OH01901,19,1,18,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1977,Ohio,13500,OH01901,22,2,20,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greenville Police Department,1978,Ohio,13866,OH01901,18,0,18,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Police Department,1980,Ohio,13002,OH01901,18,0,18,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Police Department,1981,Ohio,13013,OH01901,18,0,18,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Greenville Police Department,1982,Ohio,13031,OH01901,18,0,18,7,6,1,0,0,3,0,0,3,0,6,0,0,6,0,9,0,0,9,0,0,0,3,0,0,4,0,2,0,0,0
 Greenville Police Department,1983,Ohio,12976,OH01901,22,0,22,4,4,0,0,0,6,0,0,6,0,1,0,0,0,1,7,0,0,6,1,1,0,2,0,0,0,0,2,0,0,2
 Greenville Police Department,1984,Ohio,12623,OH01901,22,0,22,4,0,4,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,0,1,0,0,0,1
@@ -14,6 +17,11 @@ Greenville Police Department,1990,Ohio,12863,OH01901,22,2,20,6,5,1,0,0,3,0,0,2,1
 Greenville Police Department,1991,Ohio,12971,OH01901,22,1,21,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1992,Ohio,13062,OH01901,22,1,21,8,7,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1993,Ohio,12954,OH01901,23,2,21,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greenville Police Department,1994,Ohio,12966,OH01901,22,1,21,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Police Department,1995,Ohio,12870,OH01901,22,1,21,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Police Department,1996,Ohio,12895,OH01901,25,1,24,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Police Department,1997,Ohio,12909,OH01901,25,1,24,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Police Department,1998,Ohio,12931,OH01901,24,1,23,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Greenville Police Department,1999,Ohio,13154,OH01901,25,1,24,6,5,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Greenville Police Department,2000,Ohio,13294,OH01901,24,1,23,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,2001,Ohio,13318,OH01901,25,1,24,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,6 +36,4 @@ Greenville Police Department,2009,Ohio,12908,OH01901,24,2,22,7,7,0,0,0,0,0,0,0,0
 Greenville Police Department,2010,Ohio,13227,OH01901,24,2,22,6,6,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
 Greenville Police Department,2011,Ohio,13237,OH01901,22,2,20,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,2012,Ohio,13188,OH01901,20,2,18,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Greenville Police Department,2013,Ohio,13064,OH01901,24,1,23,5,4,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Greenville Police Department,2014,Ohio,13036,OH01901,24,1,23,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,2015,Ohio,12990,OH01901,22,2,20,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Springfield Police Dept,1975,Illinois,92000,IL08402,154,3,151,66,33,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Springfield Police Dept,1976,Illinois,93686,IL08402,169,5,164,78,45,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springfield Police Dept,1977,Illinois,90154,IL08402,167,4,163,64,35,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springfield Police Dept,1978,Illinois,88583,IL08402,177,6,171,80,44,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -19,6 +20,23 @@ Springfield Police Dept,1992,Illinois,107070,IL08402,208,9,199,49,25,24,0,0,0,0,
 Springfield Police Dept,1993,Illinois,107198,IL08402,214,10,204,49,24,25,0,0,25,0,0,22,3,26,0,3,21,2,51,0,3,43,5,39,0,0,1,0,0,0,8,0,0,3
 Springfield Police Dept,1994,Illinois,107701,IL08402,224,10,214,51,25,26,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,4,0,0,0,0,0,0,0,0,0,1
 Springfield Police Dept,1995,Illinois,106641,IL08402,239,10,229,53,26,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Springfield Police Dept,1996,Illinois,106794,IL08402,258,10,248,50,26,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Springfield Police Dept,1997,Illinois,107236,IL08402,251,11,240,44,25,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springfield Police Dept,1998,Illinois,114333,IL08402,265,13,252,50,27,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springfield Police Dept,1999,Illinois,117905,IL08402,266,15,251,46,25,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Springfield Police Dept,2000,Illinois,111454,IL08402,263,16,247,50,31,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2001,Illinois,112019,IL08402,281,27,254,49,31,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2002,Illinois,113081,IL08402,272,28,244,50,31,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2003,Illinois,112304,IL08402,270,25,245,47,31,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2004,Illinois,114125,IL08402,270,26,244,49,35,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2005,Illinois,115187,IL08402,268,24,244,46,32,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2006,Illinois,116290,IL08402,271,28,243,43,30,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2007,Illinois,117185,IL08402,267,28,239,47,31,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2008,Illinois,117762,IL08402,269,31,238,49,33,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2009,Illinois,117973,IL08402,268,30,238,49,33,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2010,Illinois,116250,IL08402,251,27,224,42,28,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2011,Illinois,116600,IL08402,240,27,213,39,27,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2012,Illinois,117131,IL08402,249,28,221,38,25,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2013,Illinois,117351,IL08402,239,29,210,39,26,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2014,Illinois,117134,IL08402,232,27,205,35,24,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springfield Police Dept,2015,Illinois,116875,IL08402,241,27,214,29,23,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,

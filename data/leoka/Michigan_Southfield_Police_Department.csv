@@ -1,10 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Southfield Police Department,1975,Michigan,79543,MI63751,135,2,133,25,14,11,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Southfield Police Department,1976,Michigan,83000,MI63751,145,2,143,38,25,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Southfield Police Department,1977,Michigan,84000,MI63751,146,2,144,40,26,14,0,0,5,0,0,5,0,6,2,0,2,2,11,2,0,7,2,3,0,1,0,0,0,0,4,0,2,1
 Southfield Police Department,1978,Michigan,84850,MI63751,143,2,141,39,27,12,0,0,2,0,0,2,0,8,0,0,8,0,10,0,0,10,0,4,1,1,0,0,0,0,3,0,1,0
 Southfield Police Department,1979,Michigan,75730,MI63751,138,2,136,43,28,15,0,0,3,0,0,3,0,4,0,0,2,2,7,0,0,5,2,0,0,1,1,0,0,0,3,0,0,2
 Southfield Police Department,1980,Michigan,75500,MI63751,143,2,141,45,30,15,0,0,0,0,0,0,0,5,2,0,2,1,5,2,0,2,1,0,0,2,0,0,0,0,0,1,1,1
 Southfield Police Department,1981,Michigan,75278,MI63751,143,2,141,34,24,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southfield Police Department,1982,Michigan,74525,MI63751,140,2,138,39,10,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Southfield Police Department,1983,Michigan,74197,MI63751,138,2,136,40,31,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Southfield Police Department,1984,Michigan,72985,MI63751,142,3,139,37,28,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Southfield Police Department,1985,Michigan,73093,MI63751,150,7,143,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Southfield Police Department,1986,Michigan,73943,MI63751,151,7,144,47,37,10,0,0,5,0,0,5,0,4,0,0,4,0,9,0,0,9,0,1,0,1,0,0,0,0,3,0,2,2
@@ -17,6 +20,7 @@ Southfield Police Department,1992,Michigan,76882,MI63751,156,11,145,40,28,12,0,0
 Southfield Police Department,1993,Michigan,81465,MI63751,155,13,142,42,33,9,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,0,0,1,0,0,2
 Southfield Police Department,1994,Michigan,81619,MI63751,157,14,143,51,36,15,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,0,0,0,0,1,0,0,0,0,1,3
 Southfield Police Department,1995,Michigan,80234,MI63751,159,15,144,46,32,14,0,0,7,0,0,7,0,7,0,0,5,2,14,0,0,12,2,2,0,0,0,2,1,0,3,0,1,5
+Southfield Police Department,1996,Michigan,80611,MI63751,160,16,144,46,12,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Southfield Police Department,1997,Michigan,82123,MI63751,158,16,142,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Southfield Police Department,1998,Michigan,76995,MI63751,160,17,143,0,0,0,0,0,4,0,0,3,1,0,0,0,0,0,4,0,0,3,1,0,0,0,0,0,0,0,3,0,0,1
 Southfield Police Department,1999,Michigan,75460,MI63751,154,15,139,36,28,8,0,0,2,0,0,1,1,1,0,0,1,0,3,0,0,2,1,2,0,1,0,0,0,0,0,0,0,0

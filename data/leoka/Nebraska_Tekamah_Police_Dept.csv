@@ -1,6 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Tekamah Police Dept,1975,Nebraska,1828,NB01103,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tekamah Police Dept,1976,Nebraska,1867,NB01103,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tekamah Police Dept,1977,Nebraska,1850,NB01103,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,1978,Nebraska,1774,NB01103,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tekamah Police Dept,1979,Nebraska,1820,NB01103,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tekamah Police Dept,1980,Nebraska,1886,NB01103,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tekamah Police Dept,1981,Nebraska,1901,NB01103,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -11,12 +13,27 @@ Tekamah Police Dept,1985,Nebraska,1842,NB01103,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tekamah Police Dept,1986,Nebraska,1844,NB01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tekamah Police Dept,1987,Nebraska,1756,NB01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tekamah Police Dept,1988,Nebraska,1747,NB01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tekamah Police Dept,1989,Nebraska,1780,NB01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tekamah Police Dept,1990,Nebraska,1852,NB01103,4,0,4,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,2,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0
 Tekamah Police Dept,1991,Nebraska,1869,NB01103,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Tekamah Police Dept,1992,Nebraska,1884,NB01103,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,10,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Tekamah Police Dept,1993,Nebraska,1797,NB01103,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tekamah Police Dept,1994,Nebraska,1814,NB01103,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tekamah Police Dept,1995,Nebraska,1956,NB01103,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tekamah Police Dept,1996,Nebraska,1973,NB01103,3,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Tekamah Police Dept,1997,Nebraska,1978,NB01103,3,0,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Tekamah Police Dept,1998,Nebraska,1895,NB01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Tekamah Police Dept,1999,Nebraska,1934,NB01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tekamah Police Dept,2000,Nebraska,1892,NB01103,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tekamah Police Dept,2002,Nebraska,1912,NB01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2003,Nebraska,1861,NB01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2004,Nebraska,1850,NB01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2006,Nebraska,1824,NB01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2007,Nebraska,1773,NB01103,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2008,Nebraska,1706,NB01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2009,Nebraska,1701,NB01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2010,Nebraska,1736,NB01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2011,Nebraska,1751,NB01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2012,Nebraska,1734,NB01103,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2014,Nebraska,1719,NB01103,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tekamah Police Dept,2015,Nebraska,1718,NB01103,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

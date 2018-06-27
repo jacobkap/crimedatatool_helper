@@ -1,10 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Van Buren County Sheriff's Office,1975,Michigan,35722,MI80180,23,4,19,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+Van Buren County Sheriff's Office,1976,Michigan,35293,MI80180,23,5,18,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Buren County Sheriff's Office,1977,Michigan,33961,MI80180,22,2,20,3,3,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Van Buren County Sheriff's Office,1978,Michigan,36046,MI80180,20,0,20,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1979,Michigan,38236,MI80180,26,2,24,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1980,Michigan,42480,MI80180,24,0,24,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1981,Michigan,42355,MI80180,16,0,16,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Van Buren County Sheriff's Office,1982,Michigan,41932,MI80180,14,0,14,17,6,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Buren County Sheriff's Office,1983,Michigan,41747,MI80180,15,0,15,18,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1984,Michigan,39335,MI80180,15,0,15,18,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1985,Michigan,39779,MI80180,15,1,14,17,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -18,12 +20,14 @@ Van Buren County Sheriff's Office,1992,Michigan,46824,MI80180,27,2,25,24,15,9,0,
 Van Buren County Sheriff's Office,1993,Michigan,47891,MI80180,32,3,29,24,16,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1994,Michigan,47981,MI80180,35,4,31,27,12,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1995,Michigan,49075,MI80180,34,4,30,26,16,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Van Buren County Sheriff's Office,1996,Michigan,49306,MI80180,33,3,30,29,19,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Buren County Sheriff's Office,1997,Michigan,50230,MI80180,34,4,30,34,26,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1998,Michigan,51034,MI80180,36,4,32,31,10,21,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,1999,Michigan,51392,MI80180,43,4,39,39,28,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Buren County Sheriff's Office,2000,Michigan,52517,MI80180,41,5,36,38,23,15,0,0,2,0,0,2,0,2,0,0,1,1,4,0,0,3,1,1,0,0,0,0,1,0,1,0,0,1
 Van Buren County Sheriff's Office,2001,Michigan,52793,MI80180,43,4,39,35,21,14,0,0,2,0,0,2,0,3,0,0,1,2,5,0,0,3,2,0,0,2,0,0,0,0,1,0,0,2
 Van Buren County Sheriff's Office,2002,Michigan,53109,MI80180,42,4,38,41,24,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Van Buren County Sheriff's Office,2003,Michigan,54683,MI80180,46,5,41,43,23,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Buren County Sheriff's Office,2004,Michigan,55371,MI80180,50,5,45,45,24,21,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,1,0,1,0,0,1
 Van Buren County Sheriff's Office,2005,Michigan,55495,MI80180,49,5,44,44,22,22,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
 Van Buren County Sheriff's Office,2006,Michigan,55654,MI80180,49,4,45,53,24,29,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,3,0,0,0,0,2,0,0,0

@@ -1,8 +1,14 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Starkville Police Department,1975,Mississippi,12565,MS05301,24,3,21,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Starkville Police Department,1976,Mississippi,14500,MS05301,23,3,20,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Starkville Police Department,1977,Mississippi,13500,MS05301,24,3,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Starkville Police Department,1978,Mississippi,12587,MS05301,28,5,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Starkville Police Department,1979,Mississippi,12529,MS05301,31,6,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Starkville Police Department,1980,Mississippi,15139,MS05301,24,2,22,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Starkville Police Department,1981,Mississippi,15251,MS05301,28,1,27,6,5,1,0,0,1,0,0,1,0,1,1,0,0,0,2,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+Starkville Police Department,1982,Mississippi,15377,MS05301,28,1,27,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Starkville Police Department,1983,Mississippi,15594,MS05301,27,0,27,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Starkville Police Department,1984,Mississippi,16835,MS05301,27,1,26,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Starkville Police Department,1985,Mississippi,16933,MS05301,27,2,25,8,4,4,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,1,0,1,0,0,0
 Starkville Police Department,1986,Mississippi,16893,MS05301,30,2,28,9,5,4,0,0,1,1,0,0,0,5,0,1,4,0,6,1,1,4,0,0,0,1,1,0,2,0,1,0,0,1
 Starkville Police Department,1987,Mississippi,16629,MS05301,25,0,25,6,4,2,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,3,0,1,0,0,0
@@ -19,6 +25,7 @@ Starkville Police Department,1997,Mississippi,19985,MS05301,37,3,34,13,13,0,0,0,
 Starkville Police Department,1998,Mississippi,20094,MS05301,39,4,35,13,12,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
 Starkville Police Department,1999,Mississippi,20305,MS05301,35,2,33,15,13,2,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
 Starkville Police Department,2000,Mississippi,21869,MS05301,37,1,36,18,16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Starkville Police Department,2001,Mississippi,21972,MS05301,39,2,37,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Starkville Police Department,2002,Mississippi,22078,MS05301,43,1,42,7,7,0,0,0,2,0,0,1,1,1,0,0,1,0,3,0,0,2,1,0,0,0,0,1,2,0,0,0,0,0
 Starkville Police Department,2003,Mississippi,22277,MS05301,44,1,43,7,6,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,2,1,0,1,0,0,0
 Starkville Police Department,2004,Mississippi,22588,MS05301,44,3,41,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,7 +35,6 @@ Starkville Police Department,2007,Mississippi,22663,MS05301,52,5,47,9,8,1,0,0,0,
 Starkville Police Department,2008,Mississippi,24099,MS05301,48,5,43,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Starkville Police Department,2009,Mississippi,24444,MS05301,49,4,45,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Starkville Police Department,2010,Mississippi,23888,MS05301,53,7,46,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Starkville Police Department,2011,Mississippi,23978,MS05301,39,4,35,13,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Starkville Police Department,2012,Mississippi,23978,MS05301,60,8,52,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Starkville Police Department,2013,Mississippi,24519,MS05301,51,7,44,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Starkville Police Department,2014,Mississippi,24990,MS05301,39,4,35,13,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Starkville Police Department,2015,Mississippi,25131,MS05301,55,7,48,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

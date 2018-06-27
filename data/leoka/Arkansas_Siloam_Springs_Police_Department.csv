@@ -1,4 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Siloam Springs Police Department,1975,Arkansas,7738,AR00403,14,1,13,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Siloam Springs Police Department,1976,Arkansas,6400,AR00403,15,1,14,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Siloam Springs Police Department,1977,Arkansas,7000,AR00403,16,1,15,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Siloam Springs Police Department,1978,Arkansas,7105,AR00403,11,1,10,4,2,2,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
 Siloam Springs Police Department,1979,Arkansas,7470,AR00403,13,1,12,4,2,2,0,0,2,1,0,1,0,0,0,0,0,0,2,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0
@@ -22,6 +24,7 @@ Siloam Springs Police Department,1996,Arkansas,9157,AR00403,25,2,23,16,10,6,0,0,
 Siloam Springs Police Department,1997,Arkansas,9204,AR00403,27,1,26,17,10,7,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,2,0,1,0,0,0
 Siloam Springs Police Department,1998,Arkansas,10406,AR00403,29,1,28,18,13,5,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Siloam Springs Police Department,1999,Arkansas,10789,AR00403,29,1,28,18,11,7,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Siloam Springs Police Department,2000,Arkansas,10843,AR00403,29,2,27,20,13,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Siloam Springs Police Department,2001,Arkansas,10919,AR00403,30,1,29,17,12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Siloam Springs Police Department,2002,Arkansas,10991,AR00403,26,1,25,17,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Siloam Springs Police Department,2003,Arkansas,11660,AR00403,25,1,24,15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

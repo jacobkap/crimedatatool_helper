@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Clarksville Police,1975,Indiana,14035,IN01002,24,0,24,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Clarksville Police,1976,Indiana,16000,IN01002,25,0,25,4,4,0,0,0,1,0,0,1,0,2,1,0,1,0,3,1,0,2,0,0,0,1,0,0,1,0,1,0,0,0
 Clarksville Police,1977,Indiana,17000,IN01002,29,0,29,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clarksville Police,1978,Indiana,16032,IN01002,26,0,26,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -9,8 +10,10 @@ Clarksville Police,1982,Indiana,15129,IN01002,28,0,28,5,5,0,0,0,4,0,1,3,0,2,0,0,
 Clarksville Police,1983,Indiana,15151,IN01002,30,1,29,6,6,0,0,0,3,0,0,3,0,5,1,0,4,0,8,1,0,7,0,0,0,0,0,0,2,0,4,0,0,2
 Clarksville Police,1984,Indiana,15017,IN01002,30,1,29,6,6,0,0,0,2,0,1,1,0,5,0,0,5,0,7,0,1,6,0,1,0,2,0,0,1,0,1,0,2,0
 Clarksville Police,1985,Indiana,15018,IN01002,28,0,28,6,6,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Clarksville Police,1986,Indiana,15091,IN01002,25,0,25,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Clarksville Police,1987,Indiana,14552,IN01002,25,1,24,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clarksville Police,1988,Indiana,14709,IN01002,25,1,24,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clarksville Police,1989,Indiana,14604,IN01002,25,1,24,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Clarksville Police,1990,Indiana,19833,IN01002,29,1,28,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clarksville Police,1991,Indiana,20068,IN01002,32,1,31,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clarksville Police,1992,Indiana,20254,IN01002,33,2,31,8,7,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,5 +36,3 @@ Clarksville Police,2009,Indiana,21921,IN01002,38,2,36,8,1,7,0,0,0,0,0,0,0,0,0,0,
 Clarksville Police,2010,Indiana,21724,IN01002,39,1,38,8,7,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 Clarksville Police,2011,Indiana,21835,IN01002,40,1,39,8,7,1,0,0,0,0,0,0,0,3,0,0,1,2,3,0,0,1,2,0,0,0,0,0,2,0,0,0,1,0
 Clarksville Police,2012,Indiana,22057,IN01002,41,0,41,9,8,1,0,0,2,1,0,1,0,8,2,1,5,0,10,3,1,6,0,0,0,0,0,0,1,0,7,0,0,2
-Clarksville Police,2014,Indiana,21858,IN01002,35,2,33,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Clarksville Police,2015,Indiana,21911,IN01002,35,2,33,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

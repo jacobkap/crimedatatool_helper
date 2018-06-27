@@ -1,11 +1,4 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-University Of Texas Health Science Center Police,1975,Texas,0,TX10129,17,2,15,25,4,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-University Of Texas Health Science Center Police,1976,Texas,0,TX10129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-University Of Texas Health Science Center Police,1977,Texas,0,TX10129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-University Of Texas Health Science Center Police,1978,Texas,0,TX10129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-University Of Texas Health Science Center Police,1979,Texas,0,TX10129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-University Of Texas Health Science Center Police,1980,Texas,0,TX10129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-University Of Texas Health Science Center Police,1981,Texas,0,TX10129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Texas Health Science Center Police,1983,Texas,0,TX10129,41,9,32,93,36,57,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 University Of Texas Health Science Center Police,1984,Texas,0,TX10129,42,10,32,92,37,55,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 University Of Texas Health Science Center Police,1985,Texas,0,TX10129,37,10,27,111,45,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -29,7 +22,6 @@ University Of Texas Health Science Center Police,2002,Texas,0,TX10129,68,12,56,1
 University Of Texas Health Science Center Police,2003,Texas,0,TX10129,82,13,69,164,63,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Texas Health Science Center Police,2004,Texas,0,TX10129,84,14,70,228,81,147,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,1,0,1,0
 University Of Texas Health Science Center Police,2005,Texas,0,TX10129,84,15,69,235,82,153,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,0,0,1,0,0,1,0
-University Of Texas Health Science Center Police,2006,Texas,0,TX10129,61,12,49,125,46,79,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 University Of Texas Health Science Center Police,2007,Texas,0,TX10129,91,14,77,235,101,134,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1
 University Of Texas Health Science Center Police,2008,Texas,0,TX10129,96,18,78,264,113,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of Texas Health Science Center Police,2009,Texas,0,TX10129,87,15,72,229,100,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

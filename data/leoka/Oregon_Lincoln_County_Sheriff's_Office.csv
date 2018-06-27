@@ -2,6 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Lincoln County Sheriff's Office,1975,Oregon,13401,OR02100,16,0,16,22,17,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lincoln County Sheriff's Office,1976,Oregon,14173,OR02100,19,3,16,8,8,0,0,0,1,0,0,1,0,2,1,0,1,0,3,1,0,2,0,1,0,1,0,0,1,0,0,0,0,0
 Lincoln County Sheriff's Office,1977,Oregon,13829,OR02100,17,0,17,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lincoln County Sheriff's Office,1978,Oregon,15532,OR02100,19,0,19,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lincoln County Sheriff's Office,1979,Oregon,17215,OR02100,15,0,15,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lincoln County Sheriff's Office,1980,Oregon,19330,OR02100,20,0,20,8,8,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0
 Lincoln County Sheriff's Office,1981,Oregon,18314,OR02100,20,0,20,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -9,6 +10,7 @@ Lincoln County Sheriff's Office,1982,Oregon,18309,OR02100,21,0,21,9,9,0,0,0,4,0,
 Lincoln County Sheriff's Office,1983,Oregon,18398,OR02100,18,0,18,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lincoln County Sheriff's Office,1984,Oregon,18507,OR02100,17,0,17,3,2,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
 Lincoln County Sheriff's Office,1985,Oregon,18832,OR02100,20,1,19,5,4,1,0,0,2,0,0,2,0,5,1,0,4,0,7,1,0,6,0,0,0,3,0,0,0,1,2,0,0,1
+Lincoln County Sheriff's Office,1986,Oregon,18653,OR02100,19,1,18,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lincoln County Sheriff's Office,1987,Oregon,18124,OR02100,20,1,19,6,4,2,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,1,0,3,0,0,0,0,1,0,0,0
 Lincoln County Sheriff's Office,1988,Oregon,18360,OR02100,20,1,19,8,6,2,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,3,0,0,2,0,0,0,0,0
 Lincoln County Sheriff's Office,1989,Oregon,19092,OR02100,22,1,21,9,7,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -19,9 +21,15 @@ Lincoln County Sheriff's Office,1993,Oregon,21405,OR02100,23,1,22,3,2,1,0,0,1,0,
 Lincoln County Sheriff's Office,1994,Oregon,21786,OR02100,24,1,23,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lincoln County Sheriff's Office,1995,Oregon,22637,OR02100,24,1,23,6,5,1,0,0,3,0,0,3,0,1,1,0,0,0,4,1,0,3,0,1,0,0,0,0,0,0,2,0,0,1
 Lincoln County Sheriff's Office,1996,Oregon,23091,OR02100,22,1,21,5,5,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Lincoln County Sheriff's Office,1997,Oregon,23372,OR02100,24,1,23,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lincoln County Sheriff's Office,1998,Oregon,25587,OR02100,27,1,26,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lincoln County Sheriff's Office,1999,Oregon,25490,OR02100,28,2,26,3,3,0,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1
+Lincoln County Sheriff's Office,2000,Oregon,24038,OR02100,28,2,26,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lincoln County Sheriff's Office,2001,Oregon,24400,OR02100,28,2,26,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lincoln County Sheriff's Office,2002,Oregon,24742,OR02100,26,2,24,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lincoln County Sheriff's Office,2003,Oregon,24487,OR02100,26,2,24,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lincoln County Sheriff's Office,2004,Oregon,24549,OR02100,26,2,24,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lincoln County Sheriff's Office,2005,Oregon,25020,OR02100,28,2,26,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Lincoln County Sheriff's Office,2006,Oregon,25286,OR02100,29,2,27,55,21,34,0,0,1,0,0,0,1,1,0,0,0,1,2,0,0,0,2,0,0,0,0,0,1,0,1,0,0,0
 Lincoln County Sheriff's Office,2007,Oregon,24885,OR02100,27,2,25,60,26,34,0,0,1,0,0,0,1,3,0,0,0,3,4,0,0,0,4,1,0,1,1,0,0,1,0,0,0,0
 Lincoln County Sheriff's Office,2008,Oregon,24828,OR02100,30,2,28,64,28,36,0,0,8,0,0,1,7,1,0,0,1,0,9,0,0,2,7,3,0,1,0,0,4,0,1,0,0,0

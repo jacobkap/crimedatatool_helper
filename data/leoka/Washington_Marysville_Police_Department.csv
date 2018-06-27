@@ -1,6 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Marysville Police Department,1975,Washington,4249,WA03105,11,0,11,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marysville Police Department,1976,Washington,4742,WA03105,8,0,8,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marysville Police Department,1977,Washington,4720,WA03105,11,0,11,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marysville Police Department,1978,Washington,4820,WA03105,10,0,10,6,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marysville Police Department,1979,Washington,4922,WA03105,10,0,10,6,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Marysville Police Department,1980,Washington,5071,WA03105,10,0,10,6,3,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Marysville Police Department,1981,Washington,5193,WA03105,11,0,11,5,3,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Marysville Police Department,1982,Washington,5233,WA03105,12,0,12,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marysville Police Department,1983,Washington,5300,WA03105,11,0,11,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Marysville Police Department,1984,Washington,6199,WA03105,14,0,14,6,4,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0
 Marysville Police Department,1985,Washington,6284,WA03105,14,0,14,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marysville Police Department,1986,Washington,6535,WA03105,15,0,15,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -10,7 +17,9 @@ Marysville Police Department,1989,Washington,7959,WA03105,20,1,19,8,6,2,0,0,0,0,
 Marysville Police Department,1990,Washington,10328,WA03105,19,2,17,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marysville Police Department,1991,Washington,10649,WA03105,22,2,20,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marysville Police Department,1992,Washington,10899,WA03105,23,2,21,14,14,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marysville Police Department,1993,Washington,11548,WA03105,23,2,21,16,15,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Marysville Police Department,1994,Washington,11741,WA03105,24,3,21,16,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marysville Police Department,1995,Washington,11906,WA03105,25,3,22,20,15,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Marysville Police Department,1996,Washington,12129,WA03105,26,3,23,23,16,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marysville Police Department,1997,Washington,12297,WA03105,30,3,27,23,17,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marysville Police Department,1998,Washington,17601,WA03105,31,4,27,21,6,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

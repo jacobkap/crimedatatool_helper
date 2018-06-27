@@ -1,10 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Durand Police Department,1975,Michigan,4667,MI78358,8,0,8,4,4,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Durand Police Department,1976,Michigan,4630,MI78358,8,0,8,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Durand Police Department,1977,Michigan,4641,MI78358,7,0,7,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Durand Police Department,1978,Michigan,4600,MI78358,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Durand Police Department,1979,Michigan,4375,MI78358,6,0,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Durand Police Department,1980,Michigan,4241,MI78358,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Durand Police Department,1981,Michigan,4229,MI78358,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Durand Police Department,1982,Michigan,4186,MI78358,5,0,5,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Durand Police Department,1983,Michigan,4167,MI78358,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Durand Police Department,1984,Michigan,4041,MI78358,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Durand Police Department,1985,Michigan,4047,MI78358,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -16,12 +18,17 @@ Durand Police Department,1990,Michigan,4283,MI78358,5,0,5,0,0,0,0,0,0,0,0,0,0,0,
 Durand Police Department,1991,Michigan,4316,MI78358,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Durand Police Department,1992,Michigan,4347,MI78358,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Durand Police Department,1993,Michigan,4295,MI78358,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Durand Police Department,1994,Michigan,4303,MI78358,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Durand Police Department,1995,Michigan,4259,MI78358,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Durand Police Department,1996,Michigan,4279,MI78358,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Durand Police Department,1997,Michigan,4359,MI78358,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Durand Police Department,1998,Michigan,4137,MI78358,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Durand Police Department,1999,Michigan,4460,MI78358,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Durand Police Department,2000,Michigan,3933,MI78358,5,0,5,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Durand Police Department,2001,Michigan,3954,MI78358,6,0,6,0,0,0,0,0,2,0,0,2,0,1,1,0,0,0,3,1,0,2,0,0,0,0,0,0,0,0,3,0,0,0
 Durand Police Department,2002,Michigan,3977,MI78358,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Durand Police Department,2003,Michigan,3893,MI78358,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Durand Police Department,2004,Michigan,3901,MI78358,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Durand Police Department,2005,Michigan,3904,MI78358,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Durand Police Department,2006,Michigan,3858,MI78358,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Durand Police Department,2007,Michigan,3836,MI78358,6,0,6,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0

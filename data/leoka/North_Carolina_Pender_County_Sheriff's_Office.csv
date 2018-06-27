@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Pender County Sheriff's Office,1975,North Carolina,18013,NC07100,11,0,11,7,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pender County Sheriff's Office,1976,North Carolina,17545,NC07100,11,0,11,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,1977,North Carolina,19058,NC07100,11,0,11,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,1978,North Carolina,19361,NC07100,11,0,11,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -6,8 +7,14 @@ Pender County Sheriff's Office,1979,North Carolina,19961,NC07100,8,1,7,6,2,4,0,0
 Pender County Sheriff's Office,1980,North Carolina,19902,NC07100,9,1,8,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,1981,North Carolina,20267,NC07100,9,1,8,8,5,3,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0
 Pender County Sheriff's Office,1982,North Carolina,20499,NC07100,9,1,8,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pender County Sheriff's Office,1983,North Carolina,20713,NC07100,12,3,9,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pender County Sheriff's Office,1984,North Carolina,20927,NC07100,10,1,9,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pender County Sheriff's Office,1985,North Carolina,21663,NC07100,15,2,13,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pender County Sheriff's Office,1986,North Carolina,21867,NC07100,11,3,8,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pender County Sheriff's Office,1987,North Carolina,22637,NC07100,19,2,17,10,7,3,0,0,1,0,0,1,0,7,5,0,2,0,8,5,0,3,0,0,0,0,0,0,0,0,7,0,1,0
 Pender County Sheriff's Office,1988,North Carolina,23834,NC07100,20,1,19,11,7,4,0,0,0,0,0,0,0,13,3,1,9,0,13,3,1,9,0,1,0,2,0,0,2,0,8,0,0,0
+Pender County Sheriff's Office,1989,North Carolina,24390,NC07100,22,1,21,12,8,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pender County Sheriff's Office,1990,North Carolina,25732,NC07100,29,5,24,11,8,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pender County Sheriff's Office,1991,North Carolina,26152,NC07100,27,1,26,24,20,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,1992,North Carolina,26563,NC07100,30,5,25,17,16,1,0,0,0,0,0,0,0,6,0,0,12,1,6,0,0,5,1,1,0,3,0,0,0,0,2,0,0,0
 Pender County Sheriff's Office,1993,North Carolina,28070,NC07100,29,5,24,19,16,3,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,1,0,0,0,0,1,0,2,0,0,0
@@ -17,12 +24,17 @@ Pender County Sheriff's Office,1996,North Carolina,29596,NC07100,33,6,27,19,14,5
 Pender County Sheriff's Office,1997,North Carolina,30008,NC07100,31,3,28,23,15,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,1998,North Carolina,33842,NC07100,31,3,28,24,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,1999,North Carolina,35169,NC07100,40,4,36,23,16,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pender County Sheriff's Office,2000,North Carolina,36155,NC07100,37,3,34,10,10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pender County Sheriff's Office,2001,North Carolina,36770,NC07100,42,6,36,31,20,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pender County Sheriff's Office,2002,North Carolina,37372,NC07100,39,7,32,31,22,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pender County Sheriff's Office,2003,North Carolina,37941,NC07100,42,7,35,32,24,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,2004,North Carolina,38774,NC07100,39,5,34,32,24,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,2005,North Carolina,40150,NC07100,48,6,42,33,22,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,2006,North Carolina,41506,NC07100,44,6,38,32,20,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,2007,North Carolina,43974,NC07100,49,7,42,34,25,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pender County Sheriff's Office,2008,North Carolina,44775,NC07100,55,8,47,36,26,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pender County Sheriff's Office,2009,North Carolina,45865,NC07100,57,8,49,40,32,8,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Pender County Sheriff's Office,2010,North Carolina,46416,NC07100,57,8,49,38,31,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pender County Sheriff's Office,2011,North Carolina,47005,NC07100,58,8,50,46,33,13,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,1,0,1,0,1,1,0,1,0,0,0
 Pender County Sheriff's Office,2012,North Carolina,47943,NC07100,61,7,54,49,35,14,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0
 Pender County Sheriff's Office,2013,North Carolina,48882,NC07100,63,8,55,46,32,14,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0

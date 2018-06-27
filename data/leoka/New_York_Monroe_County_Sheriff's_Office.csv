@@ -1,23 +1,26 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Monroe County Sheriff's Office,1975,New York,163358,NY02700,213,5,208,24,10,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Monroe County Sheriff's Office,1976,New York,140509,NY02700,343,21,322,49,22,27,0,0,13,0,0,11,2,5,0,0,5,0,18,0,0,16,2,2,0,4,0,0,4,0,7,0,1,0
 Monroe County Sheriff's Office,1977,New York,113412,NY02700,354,20,334,57,27,30,0,0,16,0,0,16,0,5,0,0,5,0,21,0,0,21,0,2,0,2,0,0,9,1,3,0,3,1
 Monroe County Sheriff's Office,1978,New York,156658,NY02700,345,20,325,67,34,33,0,0,18,0,2,13,3,15,1,0,14,0,33,1,2,27,3,4,0,4,0,0,6,1,9,0,3,6
 Monroe County Sheriff's Office,1979,New York,176616,NY02700,360,28,332,75,44,31,0,0,17,0,0,16,1,9,0,0,9,0,26,0,0,25,1,1,0,9,0,0,6,0,5,0,0,5
 Monroe County Sheriff's Office,1980,New York,189386,NY02700,219,6,213,65,38,27,0,0,29,0,2,25,2,12,0,0,11,1,41,0,2,36,3,6,0,4,0,0,12,1,11,0,1,6
 Monroe County Sheriff's Office,1981,New York,190330,NY02700,215,4,211,73,43,30,0,0,15,0,0,13,2,17,1,0,16,0,32,1,0,29,2,4,0,9,1,0,4,0,10,0,1,3
+Monroe County Sheriff's Office,1982,New York,191033,NY02700,227,4,223,38,25,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Monroe County Sheriff's Office,1983,New York,191119,NY02700,224,5,219,42,26,16,0,0,22,0,1,20,1,6,0,0,6,0,28,0,1,26,1,3,1,5,1,0,4,1,6,0,3,4
 Monroe County Sheriff's Office,1984,New York,194591,NY02700,232,5,227,30,17,13,0,0,19,0,0,14,5,18,0,0,17,1,37,0,0,31,6,8,0,6,0,0,6,1,6,0,3,7
 Monroe County Sheriff's Office,1985,New York,195152,NY02700,232,5,227,30,17,13,0,0,29,0,2,19,8,6,0,0,6,0,35,0,2,25,8,6,0,7,0,0,13,1,3,0,3,2
 Monroe County Sheriff's Office,1986,New York,196051,NY02700,231,7,224,68,44,24,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Monroe County Sheriff's Office,1987,New York,190485,NY02700,237,5,232,71,48,23,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Monroe County Sheriff's Office,1988,New York,189845,NY02700,237,5,232,71,48,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Monroe County Sheriff's Office,1989,New York,194300,NY02700,237,5,232,71,48,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Monroe County Sheriff's Office,1990,New York,201543,NY02700,282,8,274,50,28,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Monroe County Sheriff's Office,1991,New York,202298,NY02700,243,8,235,52,32,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Monroe County Sheriff's Office,1992,New York,202981,NY02700,236,8,228,55,35,20,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Monroe County Sheriff's Office,1993,New York,208853,NY02700,234,8,226,41,24,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Monroe County Sheriff's Office,1994,New York,213676,NY02700,239,8,231,41,23,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monroe County Sheriff's Office,1995,New York,211903,NY02700,228,11,217,44,26,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Monroe County Sheriff's Office,1996,New York,212475,NY02700,264,11,253,63,44,19,0,0,18,1,1,16,0,9,0,0,9,0,27,1,1,25,0,2,0,6,0,0,0,6,9,0,0,4
+Monroe County Sheriff's Office,1997,New York,211914,NY02700,264,10,254,68,48,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Monroe County Sheriff's Office,1998,New York,212628,NY02700,264,10,254,69,48,21,0,0,7,0,0,7,0,0,0,0,0,0,7,0,0,7,0,1,0,2,0,1,0,0,2,0,0,1
 Monroe County Sheriff's Office,1999,New York,221147,NY02700,264,10,254,69,48,21,0,0,9,0,1,8,0,0,0,0,0,0,9,0,1,8,0,0,0,4,0,0,0,1,3,0,0,1
 Monroe County Sheriff's Office,2000,New York,227301,NY02700,269,15,254,69,48,21,0,0,13,0,0,11,2,0,0,0,0,0,13,0,0,11,2,0,0,5,0,0,1,3,1,0,1,2

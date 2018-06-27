@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Walterboro Police Department,1975,South Carolina,6476,SC01501,19,0,19,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Walterboro Police Department,1976,South Carolina,6478,SC01501,18,0,18,4,0,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Walterboro Police Department,1977,South Carolina,6689,SC01501,20,2,18,5,5,0,0,0,6,0,0,6,0,2,0,0,1,1,8,0,0,7,1,1,0,2,0,0,1,0,4,0,0,0
 Walterboro Police Department,1978,South Carolina,6307,SC01501,15,1,14,5,5,0,0,0,3,0,0,3,0,4,0,1,3,0,7,0,1,6,0,0,0,1,0,0,0,0,1,0,4,1
@@ -15,8 +16,11 @@ Walterboro Police Department,1988,South Carolina,7215,SC01501,21,0,21,9,7,2,0,0,
 Walterboro Police Department,1989,South Carolina,7026,SC01501,21,1,20,9,7,2,0,0,3,0,3,0,0,1,0,0,1,0,4,0,3,1,0,0,0,0,0,0,0,0,4,0,0,0
 Walterboro Police Department,1990,South Carolina,5492,SC01501,21,1,20,9,7,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,1,0,0
 Walterboro Police Department,1991,South Carolina,5607,SC01501,22,1,21,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walterboro Police Department,1992,South Carolina,5674,SC01501,22,1,21,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Walterboro Police Department,1993,South Carolina,5736,SC01501,20,1,19,11,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Walterboro Police Department,1994,South Carolina,5769,SC01501,22,1,21,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walterboro Police Department,1995,South Carolina,5868,SC01501,24,2,22,8,7,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Walterboro Police Department,1996,South Carolina,5909,SC01501,27,2,25,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Walterboro Police Department,1997,South Carolina,6006,SC01501,26,2,24,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walterboro Police Department,1998,South Carolina,5614,SC01501,28,3,25,9,8,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
 Walterboro Police Department,1999,South Carolina,5388,SC01501,28,3,25,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -29,7 +33,6 @@ Walterboro Police Department,2005,South Carolina,5591,SC01501,22,2,20,9,6,3,0,0,
 Walterboro Police Department,2006,South Carolina,5634,SC01501,20,0,20,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walterboro Police Department,2007,South Carolina,5601,SC01501,24,3,21,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walterboro Police Department,2008,South Carolina,5777,SC01501,23,4,19,7,7,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-Walterboro Police Department,2009,South Carolina,5825,SC01501,28,3,25,9,8,1,0,0,2,0,1,0,1,0,0,0,0,0,2,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0
 Walterboro Police Department,2010,South Carolina,5398,SC01501,28,4,24,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walterboro Police Department,2011,South Carolina,5461,SC01501,30,4,26,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walterboro Police Department,2012,South Carolina,5411,SC01501,32,4,28,13,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

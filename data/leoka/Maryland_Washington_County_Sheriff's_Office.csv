@@ -1,9 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Washington County Sheriff's Office,1975,Maryland,63281,MD02200,36,2,34,6,5,1,0,0,1,1,0,0,0,2,2,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+Washington County Sheriff's Office,1976,Maryland,65321,MD02200,34,2,32,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Washington County Sheriff's Office,1977,Maryland,67615,MD02200,38,3,35,11,11,0,0,0,0,0,0,0,0,8,1,0,7,0,8,1,0,7,0,2,0,1,0,0,0,0,5,0,0,0
 Washington County Sheriff's Office,1978,Maryland,66297,MD02200,41,5,36,6,6,0,0,0,4,0,0,4,0,10,2,0,8,0,14,2,0,12,0,0,0,1,0,0,3,1,9,0,0,0
 Washington County Sheriff's Office,1979,Maryland,66295,MD02200,42,4,38,5,5,0,0,0,1,1,0,0,0,7,0,0,7,0,8,1,0,7,0,1,0,1,0,0,5,0,1,0,0,0
 Washington County Sheriff's Office,1980,Maryland,72242,MD02200,41,1,40,5,5,0,0,0,5,0,0,2,3,10,0,0,9,1,15,0,0,11,4,2,0,3,0,0,1,0,4,0,1,4
+Washington County Sheriff's Office,1981,Maryland,73427,MD02200,26,1,25,31,7,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Washington County Sheriff's Office,1982,Maryland,73497,MD02200,30,1,29,22,7,15,0,0,4,0,0,2,2,6,0,0,6,0,10,0,0,8,2,0,0,1,0,0,5,0,2,0,0,2
 Washington County Sheriff's Office,1983,Maryland,76105,MD02200,33,1,32,34,12,22,0,0,3,0,0,3,0,3,0,0,3,0,6,0,0,6,0,0,0,0,0,0,2,0,3,0,0,1
 Washington County Sheriff's Office,1984,Maryland,77175,MD02200,33,1,32,67,19,48,0,0,1,0,0,1,0,6,1,0,5,0,7,1,0,6,0,0,0,0,0,0,1,0,5,0,1,0
@@ -37,3 +39,4 @@ Washington County Sheriff's Office,2011,Maryland,100859,MD02200,93,4,89,145,41,1
 Washington County Sheriff's Office,2012,Maryland,101385,MD02200,91,5,86,151,43,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Washington County Sheriff's Office,2013,Maryland,101064,MD02200,92,5,87,149,41,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Washington County Sheriff's Office,2014,Maryland,101521,MD02200,95,4,91,151,38,113,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,2,0,2,0,0,0,0,2,0,0,0
+Washington County Sheriff's Office,2015,Maryland,101095,MD02200,102,5,97,152,39,113,,,,,,,,,,,,,,,,,,,,,,,,,,,,

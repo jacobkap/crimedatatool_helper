@@ -1,7 +1,9 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Westchester County Department Of Public Safety,1975,New York,46282,NY05900,170,10,160,14,14,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Westchester County Department Of Public Safety,1976,New York,0,NY05900,177,15,162,18,18,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Westchester County Department Of Public Safety,1977,New York,0,NY05900,177,15,162,17,17,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Westchester County Department Of Public Safety,1978,New York,0,NY05900,161,12,149,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Westchester County Department Of Public Safety,1979,New York,0,NY05900,161,12,149,18,18,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-Westchester County Department Of Public Safety,1980,New York,0,NY05900,161,12,149,18,18,0,0,0,3,0,0,3,0,3,3,0,0,0,6,3,0,3,0,1,0,0,0,0,0,0,0,3,0,2
 Westchester County Department Of Public Safety,1981,New York,0,NY05900,199,8,191,18,15,3,0,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,0,0,0,3,0,0,0,0,0,0,0,3
 Westchester County Department Of Public Safety,1982,New York,0,NY05900,200,2,198,18,14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Westchester County Department Of Public Safety,1983,New York,0,NY05900,216,6,210,13,9,4,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
@@ -14,7 +16,7 @@ Westchester County Department Of Public Safety,1989,New York,0,NY05900,282,19,26
 Westchester County Department Of Public Safety,1990,New York,0,NY05900,273,17,256,50,30,20,0,0,11,0,0,11,0,3,0,0,3,0,14,0,0,14,0,0,0,4,0,0,0,0,8,0,0,2
 Westchester County Department Of Public Safety,1991,New York,0,NY05900,273,17,256,50,30,20,0,0,8,0,0,8,0,0,0,0,0,0,8,0,0,8,0,1,0,3,0,0,1,0,2,0,0,1
 Westchester County Department Of Public Safety,1992,New York,0,NY05900,250,17,233,46,27,19,0,0,9,0,0,8,1,0,0,0,9,0,9,0,0,8,1,2,0,2,0,0,1,0,2,0,0,2
-Westchester County Department Of Public Safety,1994,New York,24429,NY05900,250,17,233,46,27,19,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Westchester County Department Of Public Safety,1993,New York,0,NY05900,250,17,233,46,27,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Westchester County Department Of Public Safety,1995,New York,44879,NY05900,232,19,213,50,33,17,0,0,5,0,0,4,1,0,0,0,0,0,5,0,0,4,1,1,0,0,0,0,0,0,0,0,0,4
 Westchester County Department Of Public Safety,1996,New York,45000,NY05900,231,21,210,52,34,18,0,0,5,1,0,4,0,1,0,0,1,0,6,1,0,5,0,0,0,2,0,0,1,0,2,0,1,0
 Westchester County Department Of Public Safety,1997,New York,44881,NY05900,229,20,209,49,30,19,0,0,6,0,0,5,1,0,0,0,0,0,6,0,0,5,1,0,0,0,0,0,1,0,0,0,0,5
@@ -34,5 +36,4 @@ Westchester County Department Of Public Safety,2010,New York,56830,NY05900,257,2
 Westchester County Department Of Public Safety,2011,New York,62517,NY05900,264,20,244,73,38,35,0,0,19,0,0,19,0,1,0,0,1,0,20,0,0,20,0,0,0,13,0,0,2,2,0,0,1,2
 Westchester County Department Of Public Safety,2012,New York,63012,NY05900,262,20,242,72,36,36,0,0,6,0,0,5,1,0,0,0,0,0,6,0,0,5,1,0,0,2,0,0,0,0,3,0,0,1
 Westchester County Department Of Public Safety,2013,New York,64896,NY05900,266,21,245,71,35,36,0,0,21,0,0,20,1,0,0,0,0,0,21,0,0,20,1,2,0,11,0,0,2,2,1,0,0,3
-Westchester County Department Of Public Safety,2014,New York,65730,NY05900,230,20,210,59,38,21,0,0,8,0,0,8,0,0,0,0,0,0,8,0,0,8,0,0,0,4,0,0,3,1,0,0,0,0
 Westchester County Department Of Public Safety,2015,New York,62788,NY05900,291,23,268,69,34,35,0,0,9,0,0,9,0,0,0,0,0,0,9,0,0,9,0,0,0,2,0,0,0,4,0,0,0,3

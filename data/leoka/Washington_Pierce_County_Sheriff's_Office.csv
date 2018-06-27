@@ -1,4 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Pierce County Sheriff's Office,1975,Washington,223137,WA02700,134,0,134,29,17,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pierce County Sheriff's Office,1976,Washington,220692,WA02700,137,0,137,35,17,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pierce County Sheriff's Office,1977,Washington,227068,WA02700,139,0,139,18,6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pierce County Sheriff's Office,1978,Washington,242482,WA02700,150,0,150,61,17,44,0,0,3,0,0,2,1,2,1,0,1,0,5,1,0,3,1,0,0,0,0,0,2,0,1,0,0,2
 Pierce County Sheriff's Office,1979,Washington,240757,WA02700,147,0,147,73,19,54,0,0,9,0,1,7,1,9,3,0,5,1,18,3,1,12,2,2,0,2,0,0,4,2,3,0,1,4
@@ -8,6 +10,7 @@ Pierce County Sheriff's Office,1982,Washington,279915,WA02700,155,1,154,75,24,51
 Pierce County Sheriff's Office,1983,Washington,283541,WA02700,161,1,160,89,30,59,0,0,12,1,0,9,2,22,9,0,9,4,34,10,0,18,6,9,0,10,0,1,0,5,5,1,2,1
 Pierce County Sheriff's Office,1984,Washington,297574,WA02700,171,5,166,133,40,93,1,0,9,0,0,8,1,37,10,3,19,5,46,10,3,27,6,8,0,12,0,1,2,4,12,0,0,7
 Pierce County Sheriff's Office,1985,Washington,303767,WA02700,171,4,167,128,36,92,0,0,10,0,0,9,1,24,3,1,20,0,34,3,1,29,1,6,0,13,0,3,0,1,6,0,0,5
+Pierce County Sheriff's Office,1986,Washington,308196,WA02700,173,7,166,36,19,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pierce County Sheriff's Office,1987,Washington,321581,WA02700,172,7,165,48,25,23,0,0,5,0,0,4,1,12,0,0,9,3,17,0,0,13,4,4,0,5,0,0,0,1,4,0,1,2
 Pierce County Sheriff's Office,1988,Washington,328735,WA02700,219,13,206,37,27,10,0,0,8,0,1,6,1,15,1,1,12,1,23,1,2,18,2,4,0,9,0,0,1,1,6,0,1,1
 Pierce County Sheriff's Office,1989,Washington,341538,WA02700,225,13,212,32,19,13,0,0,12,1,0,9,2,16,1,1,13,1,28,2,1,22,3,1,0,12,1,1,0,2,8,0,1,2
@@ -16,6 +19,7 @@ Pierce County Sheriff's Office,1991,Washington,351506,WA02700,238,13,225,33,22,1
 Pierce County Sheriff's Office,1992,Washington,359873,WA02700,242,13,229,40,24,16,0,0,12,0,0,9,3,25,4,0,16,5,37,4,0,25,8,3,1,23,0,1,1,2,1,0,0,5
 Pierce County Sheriff's Office,1993,Washington,370371,WA02700,246,11,235,40,25,15,0,0,8,0,0,7,1,37,4,1,23,9,45,4,1,30,10,4,0,21,0,0,3,3,9,0,2,3
 Pierce County Sheriff's Office,1994,Washington,376574,WA02700,286,16,270,75,42,33,0,0,22,0,1,17,4,68,6,3,43,16,90,6,4,60,20,12,0,33,2,1,2,9,11,0,2,18
+Pierce County Sheriff's Office,1995,Washington,383400,WA02700,284,16,268,47,31,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pierce County Sheriff's Office,1996,Washington,390600,WA02700,291,15,276,51,33,18,0,0,10,0,0,9,1,57,3,3,42,9,67,3,3,51,10,2,5,42,0,0,1,7,2,2,0,6
 Pierce County Sheriff's Office,1997,Washington,396037,WA02700,298,19,279,51,43,8,0,0,23,2,0,16,5,58,2,1,40,15,81,4,1,56,20,3,0,47,0,2,0,9,9,0,3,8
 Pierce County Sheriff's Office,1998,Washington,303218,WA02700,202,8,194,54,46,8,0,0,8,0,0,8,0,28,1,0,21,6,36,1,0,29,6,4,0,18,0,0,0,1,8,0,1,4

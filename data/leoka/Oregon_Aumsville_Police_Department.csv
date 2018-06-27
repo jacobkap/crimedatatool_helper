@@ -1,6 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Aumsville Police Department,1975,Oregon,1415,OR02412,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Aumsville Police Department,1976,Oregon,1469,OR02412,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aumsville Police Department,1977,Oregon,1520,OR02412,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aumsville Police Department,1978,Oregon,1582,OR02412,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Aumsville Police Department,1979,Oregon,1662,OR02412,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Aumsville Police Department,1980,Oregon,1432,OR02412,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Aumsville Police Department,1981,Oregon,1452,OR02412,2,0,2,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -8,6 +10,8 @@ Aumsville Police Department,1982,Oregon,1453,OR02412,3,0,3,1,1,0,0,0,0,0,0,0,0,0
 Aumsville Police Department,1983,Oregon,1460,OR02412,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aumsville Police Department,1984,Oregon,1436,OR02412,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aumsville Police Department,1985,Oregon,1443,OR02412,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Aumsville Police Department,1986,Oregon,1504,OR02412,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aumsville Police Department,1987,Oregon,1515,OR02412,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Aumsville Police Department,1988,Oregon,1525,OR02412,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aumsville Police Department,1989,Oregon,1641,OR02412,3,0,3,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Aumsville Police Department,1990,Oregon,1650,OR02412,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -20,7 +24,11 @@ Aumsville Police Department,1996,Oregon,2070,OR02412,5,0,5,1,1,0,0,0,0,0,0,0,0,0
 Aumsville Police Department,1997,Oregon,2095,OR02412,5,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aumsville Police Department,1998,Oregon,2151,OR02412,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aumsville Police Department,1999,Oregon,2260,OR02412,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Aumsville Police Department,2004,Oregon,3135,OR02412,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aumsville Police Department,2000,Oregon,3003,OR02412,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aumsville Police Department,2001,Oregon,3048,OR02412,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aumsville Police Department,2002,Oregon,3091,OR02412,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aumsville Police Department,2003,Oregon,3120,OR02412,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aumsville Police Department,2005,Oregon,3209,OR02412,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Aumsville Police Department,2006,Oregon,3255,OR02412,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aumsville Police Department,2007,Oregon,3378,OR02412,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aumsville Police Department,2008,Oregon,3440,OR02412,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

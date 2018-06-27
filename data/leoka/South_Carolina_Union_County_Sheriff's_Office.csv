@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Union County Sheriff's Office,1975,South Carolina,17352,SC04400,21,1,20,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Union County Sheriff's Office,1976,South Carolina,16337,SC04400,25,1,24,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Union County Sheriff's Office,1977,South Carolina,16580,SC04400,23,1,22,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0
 Union County Sheriff's Office,1978,South Carolina,16940,SC04400,22,1,21,1,1,0,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
@@ -15,8 +16,11 @@ Union County Sheriff's Office,1988,South Carolina,19294,SC04400,22,1,21,5,5,0,0,
 Union County Sheriff's Office,1989,South Carolina,19326,SC04400,23,1,22,7,6,1,0,0,3,0,2,1,0,2,0,0,2,0,5,0,2,3,0,0,0,0,0,0,0,2,2,0,0,1
 Union County Sheriff's Office,1990,South Carolina,19296,SC04400,24,1,23,8,7,1,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,2,0,0,0
 Union County Sheriff's Office,1991,South Carolina,19701,SC04400,24,1,23,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union County Sheriff's Office,1992,South Carolina,19938,SC04400,25,1,24,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Union County Sheriff's Office,1993,South Carolina,19702,SC04400,26,1,25,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Union County Sheriff's Office,1994,South Carolina,19815,SC04400,26,1,25,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Union County Sheriff's Office,1995,South Carolina,19142,SC04400,26,1,25,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union County Sheriff's Office,1996,South Carolina,18785,SC04400,25,1,24,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Union County Sheriff's Office,1997,South Carolina,19094,SC04400,27,0,27,17,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Union County Sheriff's Office,1998,South Carolina,19518,SC04400,28,1,27,13,9,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Union County Sheriff's Office,1999,South Carolina,19581,SC04400,28,1,27,13,9,4,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0

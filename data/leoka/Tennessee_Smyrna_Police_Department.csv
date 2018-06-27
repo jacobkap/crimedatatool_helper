@@ -1,15 +1,18 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Smyrna Police Department,1975,Tennessee,6711,TN07502,15,4,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Smyrna Police Department,1976,Tennessee,7052,TN07502,14,2,12,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Smyrna Police Department,1977,Tennessee,7042,TN07502,14,2,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smyrna Police Department,1978,Tennessee,7371,TN07502,12,0,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smyrna Police Department,1979,Tennessee,7720,TN07502,10,0,10,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smyrna Police Department,1980,Tennessee,36848,TN07502,13,1,12,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smyrna Police Department,1981,Tennessee,8976,TN07502,11,1,10,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Smyrna Police Department,1982,Tennessee,9056,TN07502,16,1,15,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Smyrna Police Department,1983,Tennessee,9122,TN07502,18,1,17,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Smyrna Police Department,1984,Tennessee,10141,TN07502,17,1,16,4,2,2,0,0,3,1,0,2,0,4,0,0,4,0,7,1,0,6,0,0,0,2,0,0,1,0,4,0,0,0
 Smyrna Police Department,1985,Tennessee,10238,TN07502,18,1,17,4,2,2,0,0,3,0,0,2,1,5,1,0,3,1,8,1,0,5,2,1,0,2,0,0,2,1,1,0,0,1
 Smyrna Police Department,1986,Tennessee,11616,TN07502,19,1,18,6,5,1,0,0,2,0,0,2,0,7,1,0,6,0,9,1,0,8,0,0,0,2,0,0,4,0,0,0,0,3
 Smyrna Police Department,1987,Tennessee,13758,TN07502,22,1,21,6,4,2,0,0,0,0,0,0,0,11,0,1,9,1,11,0,1,9,1,0,0,1,0,0,2,0,7,0,0,1
+Smyrna Police Department,1988,Tennessee,14408,TN07502,22,1,21,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Smyrna Police Department,1989,Tennessee,16883,TN07502,23,2,21,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smyrna Police Department,1990,Tennessee,13647,TN07502,24,2,22,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smyrna Police Department,1991,Tennessee,13859,TN07502,24,3,21,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -18,8 +21,10 @@ Smyrna Police Department,1993,Tennessee,15581,TN07502,25,2,23,10,9,1,0,0,0,0,0,0
 Smyrna Police Department,1994,Tennessee,15813,TN07502,33,2,31,14,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smyrna Police Department,1995,Tennessee,17123,TN07502,34,1,33,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smyrna Police Department,1996,Tennessee,17331,TN07502,44,6,38,17,15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smyrna Police Department,1997,Tennessee,17487,TN07502,46,7,39,19,17,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Smyrna Police Department,1998,Tennessee,21701,TN07502,46,5,41,19,17,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smyrna Police Department,1999,Tennessee,22907,TN07502,49,7,42,21,18,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smyrna Police Department,2000,Tennessee,25569,TN07502,50,6,44,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Smyrna Police Department,2001,Tennessee,25797,TN07502,53,6,47,21,19,2,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0
 Smyrna Police Department,2002,Tennessee,26054,TN07502,55,6,49,21,18,3,0,0,1,0,0,1,0,8,1,0,7,0,9,1,0,8,0,0,0,0,1,0,4,0,3,0,1,0
 Smyrna Police Department,2003,Tennessee,29047,TN07502,57,7,50,22,20,2,0,0,0,0,0,0,0,13,0,0,11,2,13,0,0,11,2,0,0,1,4,0,6,0,0,0,0,2

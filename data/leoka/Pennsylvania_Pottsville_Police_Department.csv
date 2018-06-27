@@ -1,6 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Pottsville Police Department,1975,Pennsylvania,18923,PA05407,33,0,33,5,4,1,0,0,6,0,0,6,0,2,0,0,2,0,8,0,0,8,0,0,0,5,0,0,0,0,0,0,3,0
 Pottsville Police Department,1976,Pennsylvania,19522,PA05407,31,0,31,7,6,1,0,0,4,0,0,4,0,7,0,0,7,0,11,0,0,11,0,0,0,1,0,0,0,0,7,0,1,2
+Pottsville Police Department,1977,Pennsylvania,19236,PA05407,35,0,35,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pottsville Police Department,1978,Pennsylvania,19021,PA05407,34,0,34,4,4,0,0,0,2,0,0,1,1,2,0,0,2,0,4,0,0,3,1,3,0,0,0,0,0,0,1,0,0,0
 Pottsville Police Department,1979,Pennsylvania,18240,PA05407,33,0,33,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pottsville Police Department,1980,Pennsylvania,18807,PA05407,32,0,32,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -9,18 +10,24 @@ Pottsville Police Department,1982,Pennsylvania,18870,PA05407,32,0,32,4,3,1,0,0,1
 Pottsville Police Department,1983,Pennsylvania,18917,PA05407,31,0,31,4,2,2,0,0,6,0,4,2,0,2,1,1,0,0,8,1,5,2,0,0,0,1,0,4,0,0,3,0,0,0
 Pottsville Police Department,1984,Pennsylvania,17822,PA05407,31,0,31,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pottsville Police Department,1985,Pennsylvania,17751,PA05407,29,0,29,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pottsville Police Department,1986,Pennsylvania,17334,PA05407,26,0,26,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pottsville Police Department,1987,Pennsylvania,17117,PA05407,26,0,26,3,1,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Pottsville Police Department,1988,Pennsylvania,17036,PA05407,27,0,27,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pottsville Police Department,1989,Pennsylvania,16532,PA05407,29,0,29,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pottsville Police Department,1990,Pennsylvania,16603,PA05407,28,0,28,4,3,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Pottsville Police Department,1991,Pennsylvania,16713,PA05407,29,0,29,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pottsville Police Department,1992,Pennsylvania,16780,PA05407,29,0,29,4,3,1,0,0,7,0,0,7,0,1,0,0,10,0,8,0,0,7,1,3,0,0,0,0,0,0,5,0,0,0
 Pottsville Police Department,1993,Pennsylvania,16751,PA05407,29,0,29,4,3,1,0,0,2,1,0,1,0,2,1,0,1,0,4,1,1,2,0,3,0,0,0,0,0,0,1,0,0,0
+Pottsville Police Department,1994,Pennsylvania,16756,PA05407,29,0,29,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pottsville Police Department,1995,Pennsylvania,16630,PA05407,28,0,28,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pottsville Police Department,1996,Pennsylvania,16607,PA05407,29,0,29,1,1,0,0,0,5,0,0,5,0,1,0,0,1,0,6,0,0,6,0,0,0,0,0,0,3,1,1,0,1,0
 Pottsville Police Department,1997,Pennsylvania,16557,PA05407,31,0,31,1,1,0,0,0,7,0,0,7,0,0,0,0,0,0,7,0,0,7,0,0,0,2,0,0,2,0,2,0,1,0
 Pottsville Police Department,1998,Pennsylvania,15703,PA05407,31,0,31,1,1,0,0,0,3,0,1,2,0,1,0,0,1,0,4,0,1,3,0,0,0,2,0,0,2,0,0,0,0,0
+Pottsville Police Department,1999,Pennsylvania,15364,PA05407,31,1,30,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pottsville Police Department,2000,Pennsylvania,15549,PA05407,32,1,31,1,1,0,0,0,8,0,0,8,0,2,0,0,1,1,10,0,0,9,1,0,0,2,0,0,3,0,4,0,0,1
 Pottsville Police Department,2001,Pennsylvania,15557,PA05407,30,1,29,1,1,0,0,0,5,0,0,5,0,31,0,4,22,5,36,0,4,27,5,1,0,7,0,0,7,4,15,0,0,2
 Pottsville Police Department,2002,Pennsylvania,15617,PA05407,32,1,31,1,1,0,0,0,5,0,0,5,0,7,0,0,7,0,12,0,0,12,0,0,0,3,3,0,1,0,5,0,0,0
 Pottsville Police Department,2003,Pennsylvania,15204,PA05407,31,1,30,1,1,0,0,0,4,0,0,4,0,9,0,0,7,2,13,0,0,11,2,0,0,4,0,0,1,0,5,0,0,3
-Pottsville Police Department,2004,Pennsylvania,15040,PA05407,31,0,31,1,1,0,0,0,4,0,0,2,2,6,0,0,5,1,10,0,0,7,3,3,0,2,0,0,0,0,5,0,0,0
 Pottsville Police Department,2005,Pennsylvania,14909,PA05407,28,0,28,1,1,0,0,0,4,0,0,4,0,12,0,0,10,2,16,0,0,14,2,0,0,3,1,0,3,3,3,0,2,1
 Pottsville Police Department,2006,Pennsylvania,14777,PA05407,27,0,27,1,1,0,0,0,6,0,0,5,1,4,0,0,4,0,10,0,0,9,1,0,0,1,0,0,0,2,5,0,2,0
 Pottsville Police Department,2008,Pennsylvania,14416,PA05407,28,1,27,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0

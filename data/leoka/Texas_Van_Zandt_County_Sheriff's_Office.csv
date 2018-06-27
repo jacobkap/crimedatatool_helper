@@ -1,5 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Van Zandt County Sheriff's Office,1975,Texas,27917,TX23400,12,0,12,1,0,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,1,0,0,3,0,0,0,0,0
+Van Zandt County Sheriff's Office,1976,Texas,20255,TX23400,12,0,12,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Zandt County Sheriff's Office,1977,Texas,18468,TX23400,10,1,9,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Zandt County Sheriff's Office,1978,Texas,18384,TX23400,13,1,12,7,1,6,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,1,0,3,0,0,0,0,0,0,0,0
 Van Zandt County Sheriff's Office,1979,Texas,18840,TX23400,14,0,14,10,5,5,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,1,0,0,0,0,0,0,1,0
@@ -18,6 +19,7 @@ Van Zandt County Sheriff's Office,1991,Texas,26800,TX23400,22,1,21,12,7,5,0,0,1,
 Van Zandt County Sheriff's Office,1992,Texas,27274,TX23400,25,1,24,23,14,9,0,0,1,1,0,0,0,4,1,0,11,0,5,2,0,3,0,1,0,1,0,0,0,0,3,0,0,0
 Van Zandt County Sheriff's Office,1993,Texas,27703,TX23400,21,1,20,25,14,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Zandt County Sheriff's Office,1994,Texas,28236,TX23400,23,4,19,24,15,9,0,0,0,0,0,0,0,3,2,0,1,0,3,2,0,1,0,0,0,0,0,0,0,0,2,0,1,0
+Van Zandt County Sheriff's Office,1995,Texas,29042,TX23400,22,4,18,20,13,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Van Zandt County Sheriff's Office,1996,Texas,29668,TX23400,23,4,19,25,14,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Zandt County Sheriff's Office,1997,Texas,30150,TX23400,19,1,18,34,19,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Van Zandt County Sheriff's Office,1998,Texas,30454,TX23400,32,4,28,30,20,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

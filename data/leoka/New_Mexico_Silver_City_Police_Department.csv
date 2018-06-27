@@ -1,13 +1,16 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Silver City Police Department,1975,New Mexico,8901,NM00901,19,2,17,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Silver City Police Department,1976,New Mexico,12000,NM00901,18,1,17,4,2,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
+Silver City Police Department,1977,New Mexico,10476,NM00901,18,1,17,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Silver City Police Department,1978,New Mexico,12500,NM00901,18,2,16,6,3,3,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Silver City Police Department,1979,New Mexico,10193,NM00901,18,2,16,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Silver City Police Department,1980,New Mexico,9887,NM00901,21,3,18,6,4,2,0,0,7,4,1,1,1,4,0,0,4,0,11,4,1,5,1,0,0,0,0,0,0,0,8,0,0,3
 Silver City Police Department,1981,New Mexico,10128,NM00901,21,2,19,8,6,2,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3
 Silver City Police Department,1982,New Mexico,10372,NM00901,21,3,18,7,5,2,0,0,1,0,0,1,0,4,2,0,2,0,5,2,0,3,0,0,0,0,0,0,1,0,0,0,0,4
 Silver City Police Department,1983,New Mexico,10677,NM00901,24,2,22,6,4,2,0,0,1,0,0,1,0,2,0,1,1,0,3,0,1,2,0,0,0,0,0,0,0,0,3,0,0,0
 Silver City Police Department,1984,New Mexico,11262,NM00901,23,1,22,8,5,3,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,1,0,0,0,0,0,0,2,0,0,1
 Silver City Police Department,1985,New Mexico,11470,NM00901,23,2,21,9,4,5,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Silver City Police Department,1986,New Mexico,11442,NM00901,22,1,21,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Silver City Police Department,1987,New Mexico,11343,NM00901,23,2,21,7,5,2,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 Silver City Police Department,1988,New Mexico,11300,NM00901,23,2,21,8,6,2,0,0,2,0,0,2,0,4,0,1,2,1,6,0,1,4,1,0,0,1,1,0,0,0,3,0,1,0
 Silver City Police Department,1989,New Mexico,11428,NM00901,23,2,21,7,5,2,0,0,0,0,0,0,0,6,0,1,5,0,6,0,1,5,0,1,0,2,0,0,0,0,3,0,0,0
@@ -21,7 +24,8 @@ Silver City Police Department,1996,New Mexico,11917,NM00901,29,3,26,9,5,4,0,0,0,
 Silver City Police Department,1997,New Mexico,12035,NM00901,30,2,28,12,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Silver City Police Department,1998,New Mexico,12307,NM00901,31,4,27,6,4,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
 Silver City Police Department,1999,New Mexico,12084,NM00901,27,3,24,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Silver City Police Department,2001,New Mexico,10604,NM00901,31,4,27,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver City Police Department,2000,New Mexico,10545,NM00901,27,3,24,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Silver City Police Department,2002,New Mexico,10754,NM00901,27,5,22,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Silver City Police Department,2003,New Mexico,10321,NM00901,26,4,22,5,3,2,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 Silver City Police Department,2004,New Mexico,10206,NM00901,29,3,26,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Silver City Police Department,2005,New Mexico,10042,NM00901,30,3,27,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -31,4 +35,5 @@ Silver City Police Department,2008,New Mexico,9915,NM00901,30,3,27,5,3,2,0,0,3,0
 Silver City Police Department,2009,New Mexico,10310,NM00901,30,2,28,5,3,2,0,0,2,0,0,2,0,8,0,0,8,0,10,0,0,10,0,3,0,0,0,0,0,0,3,0,2,2
 Silver City Police Department,2010,New Mexico,10315,NM00901,33,4,29,5,3,2,0,0,6,0,0,6,0,6,0,0,4,2,12,0,0,10,2,1,0,0,0,0,0,0,10,0,0,1
 Silver City Police Department,2011,New Mexico,10430,NM00901,34,4,30,4,3,1,0,0,0,0,0,0,0,12,0,0,10,2,12,0,0,10,2,4,0,0,0,0,0,0,5,0,2,1
-Silver City Police Department,2012,New Mexico,10285,NM00901,31,4,27,6,4,2,0,0,0,0,0,0,0,6,0,0,5,1,6,0,0,5,1,1,0,0,0,0,0,0,5,0,0,0
+Silver City Police Department,2014,New Mexico,10273,NM00901,33,3,30,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Silver City Police Department,2015,New Mexico,10148,NM00901,33,3,30,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,6 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Rensselaer Police Dept,1975,New York,10113,NY04101,25,0,25,0,0,0,0,0,6,0,0,6,0,1,0,0,1,0,7,0,0,7,0,1,0,1,0,0,2,0,2,0,1,0
 Rensselaer Police Dept,1976,New York,10134,NY04101,26,0,26,1,1,0,0,0,6,0,0,6,0,2,0,2,0,0,8,0,2,6,0,0,0,0,0,0,1,0,2,0,5,0
+Rensselaer Police Dept,1977,New York,9814,NY04101,24,0,24,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Rensselaer Police Dept,1978,New York,9695,NY04101,22,0,22,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Rensselaer Police Dept,1979,New York,9000,NY04101,26,0,26,1,1,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
 Rensselaer Police Dept,1980,New York,9006,NY04101,27,0,27,2,2,0,0,0,2,1,0,1,0,6,0,0,6,0,8,1,0,7,0,0,0,0,0,0,3,0,2,0,2,1
@@ -9,12 +10,12 @@ Rensselaer Police Dept,1982,New York,9084,NY04101,27,0,27,2,2,0,0,0,3,0,0,3,0,5,
 Rensselaer Police Dept,1983,New York,9088,NY04101,26,0,26,2,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Rensselaer Police Dept,1984,New York,9001,NY04101,25,0,25,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rensselaer Police Dept,1985,New York,9025,NY04101,23,0,23,1,1,0,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,1,0,0,2,0,0,0,0,1
+Rensselaer Police Dept,1986,New York,8855,NY04101,25,0,25,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Rensselaer Police Dept,1987,New York,8836,NY04101,26,0,26,5,3,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1
 Rensselaer Police Dept,1988,New York,8828,NY04101,26,0,26,7,4,3,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Rensselaer Police Dept,1989,New York,8800,NY04101,27,0,27,7,4,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Rensselaer Police Dept,1990,New York,8255,NY04101,26,0,26,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rensselaer Police Dept,1991,New York,8285,NY04101,26,0,26,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rensselaer Police Dept,1992,New York,8313,NY04101,26,0,26,5,3,2,0,0,2,0,0,2,0,1,0,0,10,0,3,0,0,3,0,0,0,0,0,0,2,0,0,0,1,0
 Rensselaer Police Dept,1993,New York,8480,NY04101,26,0,26,6,4,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0
 Rensselaer Police Dept,1994,New York,8466,NY04101,27,0,27,6,3,3,0,0,5,0,0,3,2,1,0,0,1,0,6,0,0,4,2,1,0,0,0,0,3,2,0,0,0,0
 Rensselaer Police Dept,1995,New York,8500,NY04101,28,0,28,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -24,13 +25,10 @@ Rensselaer Police Dept,1998,New York,7953,NY04101,28,1,27,7,3,4,0,0,1,0,0,1,0,0,
 Rensselaer Police Dept,1999,New York,7750,NY04101,28,1,27,7,3,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Rensselaer Police Dept,2000,New York,7761,NY04101,27,1,26,6,4,2,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,0,0,0,2,0,1,0,0,1
 Rensselaer Police Dept,2001,New York,7775,NY04101,25,1,24,5,3,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Rensselaer Police Dept,2002,New York,7835,NY04101,28,1,27,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rensselaer Police Dept,2003,New York,7692,NY04101,28,1,27,7,3,4,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Rensselaer Police Dept,2004,New York,7758,NY04101,21,1,20,7,4,3,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,0,3,0,0,0,0,0,0,2,0,0,0
 Rensselaer Police Dept,2005,New York,7795,NY04101,24,1,23,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rensselaer Police Dept,2006,New York,7880,NY04101,25,1,24,6,4,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Rensselaer Police Dept,2007,New York,7822,NY04101,27,1,26,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rensselaer Police Dept,2008,New York,7926,NY04101,28,1,27,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rensselaer Police Dept,2009,New York,7906,NY04101,24,1,23,5,3,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Rensselaer Police Dept,2010,New York,9392,NY04101,26,2,24,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rensselaer Police Dept,2011,New York,9434,NY04101,24,2,22,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

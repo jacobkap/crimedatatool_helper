@@ -1,4 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Pittsboro Police Department,1975,North Carolina,1460,NC01902,6,1,5,14,3,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pittsboro Police Department,1976,North Carolina,1482,NC01902,6,1,5,14,3,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pittsboro Police Department,1977,North Carolina,1510,NC01902,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pittsboro Police Department,1978,North Carolina,1544,NC01902,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsboro Police Department,1979,North Carolina,1447,NC01902,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsboro Police Department,1980,North Carolina,1333,NC01902,5,0,5,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1
@@ -21,6 +24,7 @@ Pittsboro Police Department,1996,North Carolina,1835,NC01902,7,0,7,0,0,0,0,0,0,0
 Pittsboro Police Department,1997,North Carolina,1860,NC01902,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsboro Police Department,1998,North Carolina,1766,NC01902,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsboro Police Department,1999,North Carolina,1981,NC01902,7,0,7,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
+Pittsboro Police Department,2000,North Carolina,2226,NC01902,9,0,9,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Pittsboro Police Department,2001,North Carolina,2264,NC01902,9,0,9,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Pittsboro Police Department,2002,North Carolina,2301,NC01902,9,0,9,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
 Pittsboro Police Department,2003,North Carolina,2377,NC01902,10,0,10,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0

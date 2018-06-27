@@ -1,10 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Iron River Police Department,1975,Michigan,2703,MI36493,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iron River Police Department,1976,Michigan,2747,MI36493,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Iron River Police Department,1977,Michigan,2891,MI36493,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron River Police Department,1978,Michigan,2620,MI36493,7,0,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Iron River Police Department,1979,Michigan,2577,MI36493,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron River Police Department,1980,Michigan,2425,MI36493,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron River Police Department,1981,Michigan,2418,MI36493,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iron River Police Department,1982,Michigan,2394,MI36493,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Iron River Police Department,1983,Michigan,2383,MI36493,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron River Police Department,1984,Michigan,2399,MI36493,6,0,6,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Iron River Police Department,1985,Michigan,2403,MI36493,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -18,6 +20,7 @@ Iron River Police Department,1992,Michigan,2126,MI36493,5,0,5,0,0,0,0,0,0,0,0,0,
 Iron River Police Department,1993,Michigan,2059,MI36493,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron River Police Department,1994,Michigan,2062,MI36493,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron River Police Department,1995,Michigan,2014,MI36493,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iron River Police Department,1996,Michigan,2023,MI36493,7,2,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Iron River Police Department,1997,Michigan,2060,MI36493,7,2,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron River Police Department,1998,Michigan,2040,MI36493,7,2,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Iron River Police Department,1999,Michigan,2001,MI36493,7,2,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

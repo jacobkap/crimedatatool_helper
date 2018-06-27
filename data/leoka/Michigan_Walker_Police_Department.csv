@@ -1,4 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Walker Police Department,1975,Michigan,14000,MI41802,18,0,18,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Walker Police Department,1976,Michigan,13348,MI41802,18,0,18,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Walker Police Department,1977,Michigan,14250,MI41802,18,0,18,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1978,Michigan,14500,MI41802,18,0,18,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1979,Michigan,13560,MI41802,18,0,18,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,6 +17,10 @@ Walker Police Department,1989,Michigan,16359,MI41802,28,2,26,8,3,5,0,0,0,0,0,0,0
 Walker Police Department,1990,Michigan,17279,MI41802,29,2,27,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1991,Michigan,17414,MI41802,29,2,27,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1992,Michigan,17542,MI41802,29,2,27,7,4,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walker Police Department,1993,Michigan,17945,MI41802,29,2,27,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Walker Police Department,1994,Michigan,17979,MI41802,29,2,27,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Walker Police Department,1995,Michigan,18940,MI41802,31,2,29,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Walker Police Department,1996,Michigan,19029,MI41802,33,2,31,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Walker Police Department,1997,Michigan,19385,MI41802,33,2,31,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1998,Michigan,19182,MI41802,33,3,30,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1999,Michigan,19907,MI41802,34,3,31,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

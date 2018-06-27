@@ -1,8 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Santa Clara County Sheriff's Office,1975,California,198349,CA04300,546,44,502,164,124,40,0,0,9,0,0,7,2,0,0,0,0,0,9,0,0,6,3,0,0,1,1,0,5,0,1,0,0,1
+Santa Clara County Sheriff's Office,1976,California,148065,CA04300,600,47,553,169,130,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Santa Clara County Sheriff's Office,1977,California,150880,CA04300,614,58,556,155,107,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Santa Clara County Sheriff's Office,1978,California,130446,CA04300,658,68,590,139,104,35,0,0,71,0,0,69,2,0,0,0,0,0,71,0,0,69,2,1,0,1,0,0,66,0,1,0,0,2
 Santa Clara County Sheriff's Office,1979,California,127028,CA04300,615,62,553,146,113,33,0,0,118,0,0,111,7,5,0,0,5,0,123,0,0,116,7,1,0,11,2,0,69,1,21,0,3,15
 Santa Clara County Sheriff's Office,1980,California,132043,CA04300,630,66,564,148,116,32,0,0,83,0,0,79,4,66,0,1,65,0,149,0,1,144,4,23,0,6,0,0,64,2,32,0,7,15
+Santa Clara County Sheriff's Office,1981,California,135554,CA04300,649,80,569,144,113,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Santa Clara County Sheriff's Office,1982,California,138728,CA04300,618,85,533,159,123,36,0,0,72,0,0,63,9,65,5,0,53,7,137,5,0,116,16,25,2,2,1,0,74,1,19,0,6,7
 Santa Clara County Sheriff's Office,1983,California,141252,CA04300,616,90,526,164,119,45,0,0,78,0,0,76,2,46,0,0,37,9,124,0,0,113,11,8,0,4,0,1,85,1,11,0,5,9
 Santa Clara County Sheriff's Office,1984,California,119301,CA04300,651,95,556,177,145,32,0,0,46,0,0,41,5,49,0,2,39,8,95,0,2,80,13,14,0,0,0,0,65,0,6,0,5,5
@@ -17,6 +20,7 @@ Santa Clara County Sheriff's Office,1992,California,110142,CA04300,417,63,354,11
 Santa Clara County Sheriff's Office,1993,California,108035,CA04300,407,62,345,97,77,20,0,0,2,0,0,2,0,19,1,0,11,7,21,1,0,13,7,2,0,1,0,1,1,0,6,1,4,5
 Santa Clara County Sheriff's Office,1994,California,108796,CA04300,414,62,352,124,108,16,0,0,3,0,0,2,1,10,1,0,7,2,13,1,0,9,3,1,0,1,0,0,0,0,6,0,2,3
 Santa Clara County Sheriff's Office,1995,California,107464,CA04300,415,57,358,110,86,24,0,0,7,1,0,3,3,15,2,1,11,1,22,3,1,14,4,4,2,1,0,0,2,0,7,0,0,6
+Santa Clara County Sheriff's Office,1996,California,108447,CA04300,403,51,352,119,95,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Santa Clara County Sheriff's Office,1997,California,109773,CA04300,407,51,356,126,98,28,0,0,6,0,0,3,3,22,1,0,16,5,28,1,0,19,8,0,0,0,0,1,12,0,10,0,2,3
 Santa Clara County Sheriff's Office,1998,California,98665,CA04300,432,52,380,117,93,24,0,0,13,0,0,11,2,21,0,0,17,4,34,0,0,28,6,2,0,0,0,0,22,0,3,0,6,1
 Santa Clara County Sheriff's Office,1999,California,108886,CA04300,491,65,426,131,103,28,0,0,2,0,0,1,1,25,0,1,15,9,27,0,1,16,10,0,0,2,0,0,17,0,3,0,4,1

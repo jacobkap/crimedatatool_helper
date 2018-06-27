@@ -1,4 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Butler County Sheriff's Office,1975,Kansas,20631,KS00800,13,0,13,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Butler County Sheriff's Office,1976,Kansas,20639,KS00800,11,0,11,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Butler County Sheriff's Office,1977,Kansas,22782,KS00800,22,4,18,0,0,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,2,0,0,0,0,1
 Butler County Sheriff's Office,1978,Kansas,24224,KS00800,24,4,20,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -13,10 +14,16 @@ Butler County Sheriff's Office,1986,Kansas,21667,KS00800,28,0,28,6,2,4,0,0,0,0,0
 Butler County Sheriff's Office,1987,Kansas,22129,KS00800,32,4,28,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Butler County Sheriff's Office,1988,Kansas,20956,KS00800,35,4,31,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Butler County Sheriff's Office,1989,Kansas,21267,KS00800,35,4,31,2,2,0,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0
-Butler County Sheriff's Office,1990,Kansas,21036,KS00800,35,4,31,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Butler County Sheriff's Office,1991,Kansas,21183,KS00800,26,1,25,14,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Butler County Sheriff's Office,1992,Kansas,21420,KS00800,29,1,28,19,8,11,0,0,1,0,0,1,0,5,0,0,11,1,6,0,0,5,1,0,0,1,0,0,2,0,1,0,0,2
+Butler County Sheriff's Office,1993,Kansas,22686,KS00800,29,1,28,19,8,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Butler County Sheriff's Office,1994,Kansas,22892,KS00800,42,2,40,12,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Butler County Sheriff's Office,1995,Kansas,23380,KS00800,36,1,35,14,4,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Butler County Sheriff's Office,1996,Kansas,23443,KS00800,46,1,45,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Butler County Sheriff's Office,1997,Kansas,23652,KS00800,36,1,35,14,6,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Butler County Sheriff's Office,1998,Kansas,26064,KS00800,38,1,37,15,6,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Butler County Sheriff's Office,1999,Kansas,26822,KS00800,53,4,49,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Butler County Sheriff's Office,2000,Kansas,26889,KS00800,41,3,38,15,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Butler County Sheriff's Office,2001,Kansas,26952,KS00800,45,3,42,16,9,7,0,0,4,0,0,3,1,3,0,0,0,3,7,0,0,3,4,0,0,2,0,0,0,0,0,0,1,4
 Butler County Sheriff's Office,2002,Kansas,27164,KS00800,47,2,45,21,10,11,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,2,0,0,0,0,1
 Butler County Sheriff's Office,2003,Kansas,25260,KS00800,47,1,46,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,6 +32,7 @@ Butler County Sheriff's Office,2005,Kansas,25354,KS00800,47,1,46,52,22,30,0,0,0,
 Butler County Sheriff's Office,2006,Kansas,25434,KS00800,48,1,47,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Butler County Sheriff's Office,2007,Kansas,25413,KS00800,44,1,43,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Butler County Sheriff's Office,2008,Kansas,25216,KS00800,49,1,48,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Butler County Sheriff's Office,2009,Kansas,25097,KS00800,51,1,50,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Butler County Sheriff's Office,2010,Kansas,26279,KS00800,59,2,57,54,21,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Butler County Sheriff's Office,2011,Kansas,26445,KS00800,64,3,61,46,22,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Butler County Sheriff's Office,2012,Kansas,26389,KS00800,57,3,54,56,24,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

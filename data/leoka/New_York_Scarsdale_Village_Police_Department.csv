@@ -1,14 +1,22 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Scarsdale Village Police Department,1975,New York,19740,NY05910,45,0,45,3,2,1,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1
 Scarsdale Village Police Department,1976,New York,18954,NY05910,43,1,42,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scarsdale Village Police Department,1977,New York,18670,NY05910,43,1,42,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Scarsdale Village Police Department,1978,New York,18722,NY05910,44,1,43,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,1979,New York,18609,NY05910,43,1,42,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,1980,New York,17625,NY05910,43,1,42,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,1981,New York,17713,NY05910,50,1,49,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,1982,New York,17778,NY05910,42,1,41,8,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,1983,New York,17786,NY05910,43,0,43,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scarsdale Village Police Department,1986,New York,17661,NY05910,43,0,43,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Scarsdale Village Police Department,1987,New York,17713,NY05910,43,0,43,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,1988,New York,17758,NY05910,44,1,43,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scarsdale Village Police Department,1989,New York,17580,NY05910,44,1,43,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scarsdale Village Police Department,1990,New York,16987,NY05910,44,1,43,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scarsdale Village Police Department,1991,New York,17050,NY05910,44,1,43,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scarsdale Village Police Department,1992,New York,17107,NY05910,169,11,158,44,18,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scarsdale Village Police Department,1993,New York,16959,NY05910,41,0,41,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scarsdale Village Police Department,1994,New York,16932,NY05910,41,0,41,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Scarsdale Village Police Department,1995,New York,16935,NY05910,39,0,39,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,1996,New York,16980,NY05910,39,1,38,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,1997,New York,16935,NY05910,40,1,39,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -16,6 +24,7 @@ Scarsdale Village Police Department,1998,New York,17025,NY05910,43,1,42,4,3,1,0,
 Scarsdale Village Police Department,1999,New York,17823,NY05910,39,1,38,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,2000,New York,17823,NY05910,39,1,38,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,2001,New York,17856,NY05910,39,1,38,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scarsdale Village Police Department,2002,New York,17993,NY05910,38,1,37,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Scarsdale Village Police Department,2003,New York,17989,NY05910,39,1,38,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,2004,New York,17964,NY05910,45,3,42,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarsdale Village Police Department,2005,New York,17914,NY05910,39,3,36,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

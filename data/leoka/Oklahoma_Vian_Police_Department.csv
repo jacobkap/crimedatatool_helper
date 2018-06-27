@@ -1,10 +1,13 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
+Vian Police Department,1975,Oklahoma,1200,OK06816,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Vian Police Department,1976,Oklahoma,1249,OK06816,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Vian Police Department,1977,Oklahoma,1500,OK06816,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vian Police Department,1978,Oklahoma,1385,OK06816,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Vian Police Department,1979,Oklahoma,1361,OK06816,4,0,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Vian Police Department,1980,Oklahoma,1498,OK06816,4,0,4,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Vian Police Department,1981,Oklahoma,1546,OK06816,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Vian Police Department,1982,Oklahoma,1586,OK06816,4,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vian Police Department,1983,Oklahoma,1646,OK06816,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Vian Police Department,1984,Oklahoma,1638,OK06816,4,0,4,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Vian Police Department,1985,Oklahoma,1639,OK06816,4,0,4,2,0,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Vian Police Department,1986,Oklahoma,1639,OK06816,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -20,6 +23,7 @@ Vian Police Department,1995,Oklahoma,1359,OK06816,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,
 Vian Police Department,1996,Oklahoma,1368,OK06816,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Vian Police Department,1997,Oklahoma,1374,OK06816,4,0,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Vian Police Department,1998,Oklahoma,1465,OK06816,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vian Police Department,1999,Oklahoma,1437,OK06816,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Vian Police Department,2000,Oklahoma,1362,OK06816,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Vian Police Department,2001,Oklahoma,1366,OK06816,4,0,4,2,1,1,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,4,0,0,0,0,1,0,0,0
 Vian Police Department,2002,Oklahoma,1379,OK06816,4,0,4,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
