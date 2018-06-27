@@ -96,6 +96,15 @@ for (selected_state in unique(leoka$state)) {
   write(agency, paste0(selected_state, "_agency_choices.json"))
 
 }
+
+setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")
+largest_agency <- leoka %>%
+  dplyr::group_by(state) %>%
+  dplyr::top_n(1, population) %>%
+  dplyr::select(state, agency)
+largest_agency <- jsonlite::toJSON(largest_agency, pretty = TRUE)
+write(largest_agency, "largest_agency_choices.json")
+
 rm(leoka); gc()
 
 
