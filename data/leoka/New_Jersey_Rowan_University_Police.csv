@@ -1,9 +1,10 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Rowan University Police,2008,New Jersey,0,NJ00826,22,4,18,34,14,20,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Rowan University Police,2009,New Jersey,0,NJ00826,22,4,18,40,16,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rowan University Police,2010,New Jersey,0,NJ00826,23,4,19,39,15,24,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Rowan University Police,2011,New Jersey,0,NJ00826,22,4,18,38,14,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rowan University Police,2012,New Jersey,0,NJ00826,24,4,20,47,12,35,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,1,0,1,0
-Rowan University Police,2013,New Jersey,0,NJ00826,34,6,28,58,14,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rowan University Police,2014,New Jersey,0,NJ00826,34,6,28,55,14,41,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,1,0,0,2,0,0,0
+Rowan University Police,2016,New Jersey,0,NJ00826,32,4,28,53,15,38,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,3,0,0,0,0,0,0,1,0,0,1
 Rowan University Police,2015,New Jersey,0,NJ00826,35,6,29,71,20,51,0,0,5,0,0,5,0,6,0,0,6,0,11,0,0,11,0,1,0,0,0,0,2,0,3,0,2,3
+Rowan University Police,2014,New Jersey,0,NJ00826,34,6,28,55,14,41,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,1,0,0,2,0,0,0
+Rowan University Police,2013,New Jersey,0,NJ00826,34,6,28,58,14,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rowan University Police,2012,New Jersey,0,NJ00826,24,4,20,47,12,35,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,1,0,1,0
+Rowan University Police,2011,New Jersey,0,NJ00826,22,4,18,38,14,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rowan University Police,2010,New Jersey,0,NJ00826,23,4,19,39,15,24,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Rowan University Police,2009,New Jersey,0,NJ00826,22,4,18,40,16,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rowan University Police,2008,New Jersey,0,NJ00826,22,4,18,34,14,20,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0

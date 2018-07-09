@@ -1,89 +1,5 @@
 [
   {
-    "state": "Michigan",
-    "agency": "Detroit Police Department"
-  },
-  {
-    "state": "District of Columbia",
-    "agency": "Washington Metropolitan Police Department"
-  },
-  {
-    "state": "Wisconsin",
-    "agency": "Milwaukee Police Department"
-  },
-  {
-    "state": "Alabama",
-    "agency": "Birmingham Police Department"
-  },
-  {
-    "state": "Illinois",
-    "agency": "Chicago Police Dept"
-  },
-  {
-    "state": "Louisiana",
-    "agency": "New Orleans Police Department"
-  },
-  {
-    "state": "New Jersey",
-    "agency": "Newark Police"
-  },
-  {
-    "state": "Pennsylvania",
-    "agency": "Philadelphia Police Department"
-  },
-  {
-    "state": "West Virginia",
-    "agency": "Kanawha County Sheriff's Office"
-  },
-  {
-    "state": "Mississippi",
-    "agency": "Jackson Police Department"
-  },
-  {
-    "state": "Florida",
-    "agency": "Miami-dade (county) Police Department"
-  },
-  {
-    "state": "Vermont",
-    "agency": "Vermont State Police"
-  },
-  {
-    "state": "New York",
-    "agency": "New York City Police Department"
-  },
-  {
-    "state": "Utah",
-    "agency": "Unified Police Department Of Greater Salt Lake"
-  },
-  {
-    "state": "Tennessee",
-    "agency": "Memphis Police Department"
-  },
-  {
-    "state": "Arizona",
-    "agency": "Phoenix Police Department"
-  },
-  {
-    "state": "Connecticut",
-    "agency": "Connecticut State Police"
-  },
-  {
-    "state": "Missouri",
-    "agency": "Kansas City Police Department"
-  },
-  {
-    "state": "Nebraska",
-    "agency": "Omaha Police Dept"
-  },
-  {
-    "state": "Alaska",
-    "agency": "Anchorage Police Department"
-  },
-  {
-    "state": "Montana",
-    "agency": "Billings Police Department"
-  },
-  {
     "state": "Arkansas",
     "agency": "Little Rock Police Department"
   },
@@ -96,16 +12,8 @@
     "agency": "Denver Police Department"
   },
   {
-    "state": "Delaware",
-    "agency": "New Castle County Police Department"
-  },
-  {
     "state": "Georgia",
     "agency": "Gwinnett County Police Department"
-  },
-  {
-    "state": "Hawaii",
-    "agency": "Honolulu (city And County) Police Department"
   },
   {
     "state": "Iowa",
@@ -144,16 +52,20 @@
     "agency": "Minneapolis Police Department"
   },
   {
+    "state": "Montana",
+    "agency": "Billings Police Department"
+  },
+  {
+    "state": "Nebraska",
+    "agency": "Omaha Police Dept"
+  },
+  {
     "state": "North Carolina",
     "agency": "Charlotte - Mecklenburg Police Department"
   },
   {
     "state": "North Dakota",
     "agency": "Fargo Police Department"
-  },
-  {
-    "state": "New Hampshire",
-    "agency": "Manchester Police Department"
   },
   {
     "state": "New Mexico",
@@ -176,10 +88,6 @@
     "agency": "Portland Police Bureau"
   },
   {
-    "state": "Rhode Island",
-    "agency": "Providence Police Department"
-  },
-  {
     "state": "South Carolina",
     "agency": "Greenville County Sheriff's Office"
   },
@@ -192,15 +100,107 @@
     "agency": "Houston Police Department"
   },
   {
-    "state": "Virginia",
-    "agency": "Fairfax County Police Department"
-  },
-  {
     "state": "Washington",
     "agency": "Seattle Police Department"
   },
   {
     "state": "Wyoming",
     "agency": "Cheyenne Police Department"
+  },
+  {
+    "state": "Delaware",
+    "agency": "New Castle County Police Department"
+  },
+  {
+    "state": "Hawaii",
+    "agency": "Honolulu (city And County) Police Department"
+  },
+  {
+    "state": "New Hampshire",
+    "agency": "Manchester Police Department"
+  },
+  {
+    "state": "Rhode Island",
+    "agency": "Providence Police Department"
+  },
+  {
+    "state": "Virginia",
+    "agency": "Fairfax County Police Department"
+  },
+  {
+    "state": "Alaska",
+    "agency": "Anchorage Police Department"
+  },
+  {
+    "state": "Arizona",
+    "agency": "Phoenix Police Department"
+  },
+  {
+    "state": "Connecticut",
+    "agency": "Connecticut State Police"
+  },
+  {
+    "state": "Missouri",
+    "agency": "Kansas City Police Department"
+  },
+  {
+    "state": "Tennessee",
+    "agency": "Memphis Police Department"
+  },
+  {
+    "state": "New York",
+    "agency": "New York City Police Department"
+  },
+  {
+    "state": "Utah",
+    "agency": "Unified Police Department Of Greater Salt Lake"
+  },
+  {
+    "state": "Florida",
+    "agency": "Miami-dade (county) Police Department"
+  },
+  {
+    "state": "Vermont",
+    "agency": "Vermont State Police"
+  },
+  {
+    "state": "Mississippi",
+    "agency": "Jackson Police Department"
+  },
+  {
+    "state": "West Virginia",
+    "agency": "Kanawha County Sheriff's Office"
+  },
+  {
+    "state": "Alabama",
+    "agency": "Birmingham Police Department"
+  },
+  {
+    "state": "Illinois",
+    "agency": "Chicago Police Dept"
+  },
+  {
+    "state": "Louisiana",
+    "agency": "New Orleans Police Department"
+  },
+  {
+    "state": "New Jersey",
+    "agency": "Newark Police"
+  },
+  {
+    "state": "Pennsylvania",
+    "agency": "Philadelphia Police Department"
+  },
+  {
+    "state": "Wisconsin",
+    "agency": "Milwaukee Police Department"
+  },
+  {
+    "state": "District of Columbia",
+    "agency": "Washington Metropolitan Police Department"
+  },
+  {
+    "state": "Michigan",
+    "agency": "Detroit Police Department"
   }
 ]

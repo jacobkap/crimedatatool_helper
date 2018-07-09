@@ -1,8 +1,8 @@
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_simple_1980_2015.rda")
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_simple_1980_2016.rda")
 source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
 
 arrests <-
-  asr_simple_1980_2015 %>%
+  asr_simple_1980_2016 %>%
   dplyr::filter(!state %in% c("guam",
                               "canal zone",
                               "puerto rico",
@@ -59,7 +59,7 @@ arrests <-
                 dplyr::matches("vagrancy"),
                 dplyr::matches("vandalism"),
                 dplyr::matches("weapons"))
-rm(asr_simple_1980_2015); gc()
+rm(asr_simple_1980_2016); gc()
 
 z = arrests[!duplicated(arrests$ORI),]
 z$temp <- paste(z$agency, z$state)
@@ -71,7 +71,7 @@ arrests$state <- gsub(" Of ", " of ", arrests$state)
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/arrests")
 arrests <- data.table::data.table(arrests)
-for (selected_ori in unique(arrests$ORI)) {
+for (selected_ori in sort(unique(arrests$ORI))) {
   temp   <- arrests[ORI %in% selected_ori]
   state  <- unique(temp$state)
   agency <- unique(temp$agency)
@@ -81,9 +81,10 @@ for (selected_ori in unique(arrests$ORI)) {
   agency <- gsub("_+", "_", agency)
   data.table::fwrite(temp,
                    file = paste0(state, "_", agency, ".csv"))
+  message(selected_ori)
 }
 
-for (selected_state in unique(arrests$state))) {
+for (selected_state in unique(arrests$state)) {
   temp   <- arrests[state %in% selected_state]
   agency <- unique(temp$agency)
   agency <- jsonlite::toJSON(agency, pretty = FALSE)

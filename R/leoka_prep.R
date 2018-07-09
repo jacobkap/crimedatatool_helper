@@ -1,10 +1,10 @@
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA/leoka_yearly_1975_2015.rda")
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA/leoka_yearly_1975_2016.rda")
 source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
 library(tidyverse)
 
 
 leoka <-
-  leoka_yearly_1975_2015 %>%
+  leoka_yearly_1975_2016 %>%
   dplyr::filter(!state %in% c("guam",
                               "canal zone",
                               "puerto rico",
@@ -83,7 +83,7 @@ leoka$state       <- gsub(" Of ", " of ", leoka$state)
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")
 leoka <- data.table::data.table(leoka)
-for (selected_ori in unique(leoka$ORI)) {
+for (selected_ori in sort(unique(leoka$ORI))) {
   temp   <- leoka[ORI %in% selected_ori]
   state  <- unique(temp$state)
   agency <- unique(temp$agency)

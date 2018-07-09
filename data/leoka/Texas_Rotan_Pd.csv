@@ -1,14 +1,14 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Rotan Pd,1975,Texas,2663,TX07601,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Rotan Pd,1976,Texas,2321,TX07601,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rotan Pd,1977,Texas,3000,TX07601,4,0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-Rotan Pd,1978,Texas,2220,TX07601,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rotan Pd,1979,Texas,2262,TX07601,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rotan Pd,1980,Texas,2244,TX07601,4,0,4,0,0,0,0,0,1,0,0,1,0,2,2,0,0,0,3,2,0,1,0,0,0,0,0,0,0,0,1,0,0,2
-Rotan Pd,1981,Texas,2337,TX07601,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rotan Pd,1982,Texas,2420,TX07601,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rotan Pd,1983,Texas,2490,TX07601,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rotan Pd,1984,Texas,2339,TX07601,2,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
-Rotan Pd,1985,Texas,2395,TX07601,3,0,3,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
-Rotan Pd,1986,Texas,2372,TX07601,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Rotan Pd,1998,Texas,1764,TX07601,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rotan Pd,1986,Texas,2372,TX07601,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rotan Pd,1985,Texas,2395,TX07601,3,0,3,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Rotan Pd,1984,Texas,2339,TX07601,2,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
+Rotan Pd,1983,Texas,2490,TX07601,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rotan Pd,1982,Texas,2420,TX07601,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rotan Pd,1981,Texas,2337,TX07601,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rotan Pd,1980,Texas,2244,TX07601,4,0,4,0,0,0,0,0,1,0,0,1,0,2,2,0,0,0,3,2,0,1,0,0,0,0,0,0,0,0,1,0,0,2
+Rotan Pd,1979,Texas,2262,TX07601,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rotan Pd,1978,Texas,2220,TX07601,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rotan Pd,1977,Texas,3000,TX07601,4,0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Rotan Pd,1976,Texas,2321,TX07601,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rotan Pd,1975,Texas,2663,TX07601,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
