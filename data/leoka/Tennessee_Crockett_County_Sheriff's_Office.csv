@@ -15,7 +15,7 @@ Crockett County Sheriff's Office,2004,Tennessee,8018,TN01700,12,1,11,18,8,10,0,0
 Crockett County Sheriff's Office,2003,Tennessee,8006,TN01700,12,1,11,18,8,10,0,0,0,0,0,0,0,8,1,2,3,2,8,1,2,3,2,0,0,0,0,0,3,0,4,0,0,1
 Crockett County Sheriff's Office,2002,Tennessee,8259,TN01700,12,1,11,17,9,8,0,0,2,0,0,2,0,2,0,0,1,1,4,0,0,3,1,0,0,0,0,0,1,0,1,2,0,0
 Crockett County Sheriff's Office,2001,Tennessee,8178,TN01700,14,1,13,16,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crockett County Sheriff's Office,2000,Tennessee,8104,TN01700,14,1,13,16,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crockett County Sheriff's Office,2e3,Tennessee,8104,TN01700,14,1,13,16,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crockett County Sheriff's Office,1999,Tennessee,9984,TN01700,12,1,11,15,7,8,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Crockett County Sheriff's Office,1998,Tennessee,9839,TN01700,12,0,12,15,6,9,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Crockett County Sheriff's Office,1997,Tennessee,12084,TN01700,10,0,10,15,7,8,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -24,11 +24,11 @@ Crockett County Sheriff's Office,1995,Tennessee,11832,TN01700,10,0,10,11,7,4,0,0
 Crockett County Sheriff's Office,1994,Tennessee,11962,TN01700,10,0,10,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crockett County Sheriff's Office,1993,Tennessee,11787,TN01700,9,0,9,11,7,4,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,0,0,4,0,0,0,0,1,0,0,0
 Crockett County Sheriff's Office,1992,Tennessee,12087,TN01700,10,0,10,11,7,4,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crockett County Sheriff's Office,1991,Tennessee,11917,TN01700,9,0,9,11,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Crockett County Sheriff's Office,1990,Tennessee,11735,TN01700,10,0,10,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Crockett County Sheriff's Office,1989,Tennessee,12725,TN01700,9,0,9,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Crockett County Sheriff's Office,1988,Tennessee,12847,TN01700,9,0,9,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Crockett County Sheriff's Office,1987,Tennessee,12908,TN01700,10,0,10,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crockett County Sheriff's Office,1991,Tennessee,11917,TN01700,9,0,9,11,7,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Crockett County Sheriff's Office,1990,Tennessee,11735,TN01700,10,0,10,8,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Crockett County Sheriff's Office,1989,Tennessee,12725,TN01700,9,0,9,6,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Crockett County Sheriff's Office,1988,Tennessee,12847,TN01700,9,0,9,7,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Crockett County Sheriff's Office,1987,Tennessee,12908,TN01700,10,0,10,8,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Crockett County Sheriff's Office,1986,Tennessee,12893,TN01700,8,0,8,7,4,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Crockett County Sheriff's Office,1985,Tennessee,10128,TN01700,8,0,8,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crockett County Sheriff's Office,1984,Tennessee,10294,TN01700,7,0,7,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

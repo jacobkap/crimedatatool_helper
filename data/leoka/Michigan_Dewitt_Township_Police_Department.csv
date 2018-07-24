@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Dewitt Township Police Department,2016,Michigan,14686,MI19857,16,1,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,2015,Michigan,14786,MI19857,15,1,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,2014,Michigan,14633,MI19857,15,1,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Dewitt Township Police Department,2013,Michigan,14494,MI19857,15,0,15,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dewitt Township Police Department,2013,Michigan,14494,MI19857,15,0,15,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Dewitt Township Police Department,2012,Michigan,14348,MI19857,15,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,2011,Michigan,14310,MI19857,15,0,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,2010,Michigan,14321,MI19857,15,0,15,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
@@ -15,11 +15,11 @@ Dewitt Township Police Department,2004,Michigan,13001,MI19857,13,1,12,1,1,0,0,0,
 Dewitt Township Police Department,2003,Michigan,12911,MI19857,15,2,13,1,1,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
 Dewitt Township Police Department,2002,Michigan,12280,MI19857,15,2,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,2001,Michigan,12207,MI19857,16,2,14,1,1,0,0,0,4,0,1,3,0,8,0,2,6,0,12,0,3,9,0,0,0,1,0,0,0,0,11,0,0,0
-Dewitt Township Police Department,2000,Michigan,12143,MI19857,16,2,14,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dewitt Township Police Department,2e3,Michigan,12143,MI19857,16,2,14,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,1999,Michigan,11753,MI19857,16,2,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,1998,Michigan,11579,MI19857,15,1,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,1997,Michigan,10986,MI19857,13,1,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Dewitt Township Police Department,1996,Michigan,10784,MI19857,13,1,12,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dewitt Township Police Department,1996,Michigan,10784,MI19857,13,1,12,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Dewitt Township Police Department,1995,Michigan,10734,MI19857,12,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,1994,Michigan,10675,MI19857,10,0,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,1993,Michigan,10655,MI19857,10,0,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Dewitt Township Police Department,1980,Michigan,10013,MI19857,12,1,11,6,3,3,0,0,
 Dewitt Township Police Department,1979,Michigan,10439,MI19857,11,1,10,1,1,0,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
 Dewitt Township Police Department,1978,Michigan,10591,MI19857,6,1,5,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Dewitt Township Police Department,1977,Michigan,10341,MI19857,11,0,11,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
-Dewitt Township Police Department,1976,Michigan,12000,MI19857,9,0,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dewitt Township Police Department,1976,Michigan,12e3,MI19857,9,0,9,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Dewitt Township Police Department,1975,Michigan,10653,MI19857,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

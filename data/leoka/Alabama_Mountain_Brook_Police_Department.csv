@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Mountain Brook Police Department,2016,Alabama,20737,AL00103,56,5,51,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mountain Brook Police Department,2015,Alabama,20801,AL00103,52,4,48,16,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mountain Brook Police Department,2014,Alabama,20330,AL00103,52,4,48,16,14,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mountain Brook Police Department,2014,Alabama,20330,AL00103,52,4,48,16,14,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mountain Brook Police Department,2013,Alabama,20354,AL00103,51,4,47,17,15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mountain Brook Police Department,2012,Alabama,20511,AL00103,50,3,47,14,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mountain Brook Police Department,2011,Alabama,20511,AL00103,49,3,46,13,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,11 +15,11 @@ Mountain Brook Police Department,2004,Alabama,20068,AL00103,50,2,48,11,3,8,0,0,1
 Mountain Brook Police Department,2003,Alabama,20215,AL00103,48,1,47,10,8,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
 Mountain Brook Police Department,2002,Alabama,20787,AL00103,47,1,46,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mountain Brook Police Department,2001,Alabama,20684,AL00103,51,2,49,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mountain Brook Police Department,2000,Alabama,20604,AL00103,47,2,45,13,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mountain Brook Police Department,1999,Alabama,18573,AL00103,46,2,44,13,11,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mountain Brook Police Department,2e3,Alabama,20604,AL00103,47,2,45,13,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mountain Brook Police Department,1999,Alabama,18573,AL00103,46,2,44,13,11,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mountain Brook Police Department,1998,Alabama,19070,AL00103,49,1,48,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mountain Brook Police Department,1997,Alabama,20619,AL00103,45,1,44,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mountain Brook Police Department,1996,Alabama,20400,AL00103,47,1,46,15,4,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mountain Brook Police Department,1996,Alabama,20400,AL00103,47,1,46,15,4,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mountain Brook Police Department,1995,Alabama,20305,AL00103,46,0,46,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mountain Brook Police Department,1994,Alabama,20520,AL00103,46,0,46,12,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mountain Brook Police Department,1993,Alabama,20365,AL00103,48,0,48,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Mountain Brook Police Department,1980,Alabama,18221,AL00103,46,1,45,10,6,4,0,0,1
 Mountain Brook Police Department,1979,Alabama,21167,AL00103,47,1,46,9,5,4,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1
 Mountain Brook Police Department,1978,Alabama,20769,AL00103,46,1,45,8,6,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Mountain Brook Police Department,1977,Alabama,22009,AL00103,44,0,44,8,4,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Mountain Brook Police Department,1976,Alabama,23000,AL00103,43,0,43,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mountain Brook Police Department,1976,Alabama,23e3,AL00103,43,0,43,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mountain Brook Police Department,1975,Alabama,20072,AL00103,43,0,43,5,3,2,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,0,0,1,0,0,2,0,0,0,2,0

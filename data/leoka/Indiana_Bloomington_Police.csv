@@ -1,5 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Bloomington Police,2015,Indiana,84015,IN05301,95,8,87,55,39,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomington Police,2015,Indiana,84015,IN05301,95,8,87,55,39,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bloomington Police,2014,Indiana,83075,IN05301,100,12,88,44,33,11,0,0,16,0,0,16,0,25,0,0,25,0,41,0,0,41,0,2,0,13,0,0,1,5,18,0,1,1
 Bloomington Police,2013,Indiana,82415,IN05301,95,11,84,32,27,5,0,0,3,0,0,3,0,19,0,0,18,1,22,0,0,21,1,1,0,6,0,0,1,6,8,0,0,0
 Bloomington Police,2011,Indiana,80816,IN05301,97,12,85,34,28,6,0,0,5,0,0,4,1,16,0,0,15,1,21,0,0,19,2,0,0,9,0,0,1,1,6,0,3,1
@@ -13,7 +13,7 @@ Bloomington Police,2004,Indiana,71120,IN05301,82,13,69,36,29,7,0,0,2,0,0,2,0,7,0
 Bloomington Police,2003,Indiana,70403,IN05301,80,13,67,37,30,7,0,0,6,0,0,6,0,11,0,0,9,2,17,0,0,15,2,3,0,3,0,0,3,0,8,0,0,0
 Bloomington Police,2002,Indiana,70186,IN05301,78,13,65,30,24,6,0,0,5,0,0,4,1,13,0,0,13,0,18,0,0,17,1,2,0,6,0,2,0,0,5,0,0,3
 Bloomington Police,2001,Indiana,69681,IN05301,80,13,67,28,22,6,0,0,7,0,2,4,1,14,0,0,14,0,21,0,2,18,1,2,1,4,0,0,0,1,12,0,1,0
-Bloomington Police,2000,Indiana,69291,IN05301,79,14,65,27,22,5,0,0,4,0,0,4,0,16,0,0,15,1,20,0,0,19,1,1,0,2,0,0,3,0,9,0,1,4
+Bloomington Police,2e3,Indiana,69291,IN05301,79,14,65,27,22,5,0,0,4,0,0,4,0,16,0,0,15,1,20,0,0,19,1,1,0,2,0,0,3,0,9,0,1,4
 Bloomington Police,1999,Indiana,65547,IN05301,76,12,64,30,24,6,0,0,1,0,0,1,0,21,0,0,20,1,22,0,0,21,1,0,0,3,1,0,4,0,1,0,12,1
 Bloomington Police,1998,Indiana,67300,IN05301,72,10,62,24,20,4,0,0,4,0,0,4,0,14,0,0,14,0,18,0,0,18,0,1,0,1,0,0,1,0,3,0,9,3
 Bloomington Police,1997,Indiana,63777,IN05301,68,8,60,23,19,4,0,0,4,0,0,4,0,10,0,0,10,0,14,0,0,14,0,1,0,0,0,0,5,0,1,0,7,0
@@ -21,21 +21,21 @@ Bloomington Police,1996,Indiana,63527,IN05301,64,7,57,22,18,4,0,0,2,0,0,2,0,7,0,
 Bloomington Police,1995,Indiana,63114,IN05301,64,7,57,23,17,6,0,0,2,0,0,2,0,11,0,0,11,0,13,0,0,13,0,0,0,0,0,0,3,0,3,0,6,1
 Bloomington Police,1994,Indiana,62524,IN05301,61,5,56,21,17,4,0,0,8,2,0,6,0,7,0,0,7,0,15,2,0,13,0,0,0,2,1,1,1,0,7,0,3,0
 Bloomington Police,1993,Indiana,62100,IN05301,61,5,56,21,17,4,0,0,0,0,0,0,0,7,0,0,7,0,7,0,0,7,0,1,0,0,0,0,5,0,1,0,0,0
-Bloomington Police,1992,Indiana,61921,IN05301,61,5,56,22,19,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bloomington Police,1991,Indiana,61353,IN05301,59,5,54,22,18,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bloomington Police,1990,Indiana,60633,IN05301,60,6,54,20,17,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomington Police,1992,Indiana,61921,IN05301,61,5,56,22,19,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bloomington Police,1991,Indiana,61353,IN05301,59,5,54,22,18,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bloomington Police,1990,Indiana,60633,IN05301,60,6,54,20,17,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bloomington Police,1989,Indiana,55205,IN05301,60,6,54,23,18,5,0,0,4,0,0,4,0,2,0,0,2,0,6,0,0,6,0,0,0,1,0,0,1,0,4,0,0,0
 Bloomington Police,1988,Indiana,53901,IN05301,57,5,52,21,19,2,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,0,0,0,0,2,0
-Bloomington Police,1987,Indiana,52761,IN05301,55,4,51,20,17,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bloomington Police,1986,Indiana,52277,IN05301,52,3,49,21,2,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bloomington Police,1985,Indiana,53151,IN05301,55,3,52,20,18,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomington Police,1987,Indiana,52761,IN05301,55,4,51,20,17,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bloomington Police,1986,Indiana,52277,IN05301,52,3,49,21,2,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bloomington Police,1985,Indiana,53151,IN05301,55,3,52,20,18,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bloomington Police,1984,Indiana,53147,IN05301,53,2,51,21,19,2,0,0,0,0,0,0,0,9,0,0,9,0,9,0,0,9,0,1,0,0,0,0,0,0,7,0,1,0
 Bloomington Police,1983,Indiana,52036,IN05301,57,2,55,23,20,3,0,0,3,0,0,2,1,10,0,0,10,0,13,0,0,12,1,1,0,1,0,0,2,0,6,0,3,0
 Bloomington Police,1982,Indiana,51961,IN05301,54,2,52,22,3,19,0,0,4,0,0,4,0,10,0,1,9,0,14,0,1,13,0,0,0,7,0,0,0,0,7,0,0,0
 Bloomington Police,1981,Indiana,51914,IN05301,57,2,55,26,5,21,0,0,12,0,0,11,1,11,0,0,11,0,23,0,0,22,1,5,0,7,0,0,1,0,9,0,1,0
 Bloomington Police,1980,Indiana,51867,IN05301,60,2,58,26,22,4,0,0,5,0,0,2,3,8,0,0,8,0,13,0,0,10,3,1,0,1,0,0,0,1,6,0,2,2
 Bloomington Police,1979,Indiana,51024,IN05301,64,3,61,25,21,4,0,0,7,0,0,7,0,11,0,0,11,0,18,0,0,18,0,1,0,6,0,1,0,0,8,0,2,0
-Bloomington Police,1978,Indiana,48000,IN05301,57,3,54,24,21,3,0,0,1,0,0,1,0,26,0,0,25,1,27,0,0,26,1,1,0,14,0,0,3,0,4,0,0,5
+Bloomington Police,1978,Indiana,48e3,IN05301,57,3,54,24,21,3,0,0,1,0,0,1,0,26,0,0,25,1,27,0,0,26,1,1,0,14,0,0,3,0,4,0,0,5
 Bloomington Police,1977,Indiana,49974,IN05301,58,3,55,23,19,4,0,0,1,0,0,1,0,20,0,0,20,0,21,0,0,21,0,0,0,17,1,0,3,0,0,0,0,0
-Bloomington Police,1976,Indiana,50000,IN05301,61,4,57,24,20,4,0,0,5,0,0,4,1,14,0,0,13,1,19,0,0,17,2,0,0,7,0,0,6,0,6,0,0,0
-Bloomington Police,1975,Indiana,49999,IN05301,57,4,53,20,18,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomington Police,1976,Indiana,5e4,IN05301,61,4,57,24,20,4,0,0,5,0,0,4,1,14,0,0,13,1,19,0,0,17,2,0,0,7,0,0,6,0,6,0,0,0
+Bloomington Police,1975,Indiana,49999,IN05301,57,4,53,20,18,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

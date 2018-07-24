@@ -15,14 +15,14 @@ Walker Police Department,2004,Michigan,23283,MI41802,38,6,32,9,6,3,0,0,1,0,0,1,0
 Walker Police Department,2003,Michigan,23108,MI41802,38,6,32,9,6,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Walker Police Department,2002,Michigan,22088,MI41802,37,5,32,9,6,3,0,0,0,0,0,0,0,4,0,0,1,3,4,0,0,1,3,0,0,0,0,1,0,0,3,0,0,0
 Walker Police Department,2001,Michigan,21957,MI41802,37,6,31,6,4,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Walker Police Department,2000,Michigan,21842,MI41802,36,6,30,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walker Police Department,2e3,Michigan,21842,MI41802,36,6,30,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1999,Michigan,19907,MI41802,34,3,31,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1998,Michigan,19182,MI41802,33,3,30,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1997,Michigan,19385,MI41802,33,2,31,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Walker Police Department,1996,Michigan,19029,MI41802,33,2,31,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Walker Police Department,1995,Michigan,18940,MI41802,31,2,29,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Walker Police Department,1994,Michigan,17979,MI41802,29,2,27,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Walker Police Department,1993,Michigan,17945,MI41802,29,2,27,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Walker Police Department,1996,Michigan,19029,MI41802,33,2,31,7,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Walker Police Department,1995,Michigan,18940,MI41802,31,2,29,7,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Walker Police Department,1994,Michigan,17979,MI41802,29,2,27,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Walker Police Department,1993,Michigan,17945,MI41802,29,2,27,7,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Walker Police Department,1992,Michigan,17542,MI41802,29,2,27,7,4,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1991,Michigan,17414,MI41802,29,2,27,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1990,Michigan,17279,MI41802,29,2,27,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Walker Police Department,1980,Michigan,15097,MI41802,18,0,18,2,2,0,0,0,0,0,0,0,0
 Walker Police Department,1979,Michigan,13560,MI41802,18,0,18,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1978,Michigan,14500,MI41802,18,0,18,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walker Police Department,1977,Michigan,14250,MI41802,18,0,18,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Walker Police Department,1976,Michigan,13348,MI41802,18,0,18,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Walker Police Department,1975,Michigan,14000,MI41802,18,0,18,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Walker Police Department,1976,Michigan,13348,MI41802,18,0,18,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Walker Police Department,1975,Michigan,14e3,MI41802,18,0,18,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -15,7 +15,7 @@ Holbrook Police Department,2004,Arizona,5244,AZ00901,15,1,14,8,4,4,0,0,6,0,0,6,0
 Holbrook Police Department,2003,Arizona,5163,AZ00901,18,1,17,8,3,5,0,0,2,0,0,2,0,2,0,0,1,1,4,0,0,3,1,0,0,0,0,0,0,0,2,0,1,1
 Holbrook Police Department,2002,Arizona,5229,AZ00901,17,1,16,7,5,2,0,0,6,0,0,6,0,1,0,0,1,0,7,0,0,7,0,0,0,4,0,0,1,0,2,0,0,0
 Holbrook Police Department,2001,Arizona,5086,AZ00901,17,1,16,5,4,1,0,0,1,0,0,1,0,9,0,0,9,0,10,0,0,10,0,0,0,0,0,0,6,0,4,0,0,0
-Holbrook Police Department,2000,Arizona,4917,AZ00901,19,0,19,7,5,2,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,1,0,0,0,0,1,0,1,0,0,1
+Holbrook Police Department,2e3,Arizona,4917,AZ00901,19,0,19,7,5,2,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,1,0,0,0,0,1,0,1,0,0,1
 Holbrook Police Department,1999,Arizona,5805,AZ00901,17,1,16,5,5,0,0,0,3,0,0,3,0,3,0,0,3,0,6,0,0,6,0,0,0,2,0,0,2,0,2,0,0,0
 Holbrook Police Department,1998,Arizona,5698,AZ00901,18,0,18,5,5,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,1,0,0,0,0,2,0,0,0,0,0
 Holbrook Police Department,1997,Arizona,4800,AZ00901,17,2,15,5,5,0,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,0,0,0,0,0,4,0,0,1
@@ -27,7 +27,7 @@ Holbrook Police Department,1992,Arizona,4898,AZ00901,15,1,14,5,5,0,0,0,3,0,0,0,3
 Holbrook Police Department,1991,Arizona,4794,AZ00901,15,1,14,5,5,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Holbrook Police Department,1990,Arizona,4686,AZ00901,15,1,14,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Holbrook Police Department,1989,Arizona,5537,AZ00901,15,1,14,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Holbrook Police Department,1988,Arizona,5692,AZ00901,15,1,14,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Holbrook Police Department,1988,Arizona,5692,AZ00901,15,1,14,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Holbrook Police Department,1987,Arizona,5521,AZ00901,15,1,14,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Holbrook Police Department,1986,Arizona,6247,AZ00901,16,1,15,5,5,0,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0
 Holbrook Police Department,1985,Arizona,6369,AZ00901,16,1,15,5,5,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,3,0,1,0,0,0
@@ -39,5 +39,5 @@ Holbrook Police Department,1980,Arizona,5768,AZ00901,16,1,15,6,6,0,0,0,4,0,0,3,1
 Holbrook Police Department,1979,Arizona,5584,AZ00901,26,6,20,0,0,0,0,0,5,0,0,3,2,0,0,0,0,0,5,0,0,3,2,0,0,0,0,2,1,0,0,0,0,2
 Holbrook Police Department,1978,Arizona,5286,AZ00901,21,4,17,2,2,0,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,1,0,2,0,1,0
 Holbrook Police Department,1977,Arizona,5355,AZ00901,21,6,15,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Holbrook Police Department,1976,Arizona,5465,AZ00901,23,5,18,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Holbrook Police Department,1976,Arizona,5465,AZ00901,23,5,18,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Holbrook Police Department,1975,Arizona,5096,AZ00901,23,5,18,2,2,0,0,0,1,0,0,1,0,6,1,0,5,0,7,1,0,6,0,1,0,1,0,0,1,0,1,0,0,3

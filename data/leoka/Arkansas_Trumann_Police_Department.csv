@@ -10,12 +10,12 @@ Trumann Police Department,2009,Arkansas,6781,AR05602,14,0,14,8,6,2,1,0,0,0,0,0,0
 Trumann Police Department,2008,Arkansas,6792,AR05602,15,0,15,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Trumann Police Department,2007,Arkansas,6821,AR05602,16,0,16,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Trumann Police Department,2006,Arkansas,7001,AR05602,15,0,15,7,5,2,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,1,0,0,1,0,0,0,1,0,1,0
-Trumann Police Department,2005,Arkansas,6949,AR05602,15,0,15,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Trumann Police Department,2004,Arkansas,6941,AR05602,14,0,14,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Trumann Police Department,2005,Arkansas,6949,AR05602,15,0,15,7,5,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trumann Police Department,2004,Arkansas,6941,AR05602,14,0,14,7,5,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Trumann Police Department,2003,Arkansas,6888,AR05602,15,0,15,15,5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Trumann Police Department,2002,Arkansas,6984,AR05602,15,0,15,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Trumann Police Department,2001,Arkansas,6937,AR05602,15,0,15,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Trumann Police Department,2000,Arkansas,6889,AR05602,13,0,13,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Trumann Police Department,2e3,Arkansas,6889,AR05602,13,0,13,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Trumann Police Department,1999,Arkansas,6553,AR05602,15,0,15,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Trumann Police Department,1998,Arkansas,6488,AR05602,15,0,15,5,2,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Trumann Police Department,1997,Arkansas,6780,AR05602,15,0,15,5,2,3,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
@@ -37,7 +37,7 @@ Trumann Police Department,1982,Arkansas,6044,AR05602,12,2,10,0,0,0,0,0,0,0,0,0,0
 Trumann Police Department,1981,Arkansas,6052,AR05602,14,3,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Trumann Police Department,1980,Arkansas,6026,AR05602,14,3,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Trumann Police Department,1979,Arkansas,6917,AR05602,13,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Trumann Police Department,1978,Arkansas,7000,AR05602,13,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trumann Police Department,1978,Arkansas,7e3,AR05602,13,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Trumann Police Department,1977,Arkansas,5911,AR05602,10,2,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Trumann Police Department,1976,Arkansas,6402,AR05602,10,2,8,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Trumann Police Department,1975,Arkansas,6594,AR05602,12,2,10,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Trumann Police Department,1976,Arkansas,6402,AR05602,10,2,8,2,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trumann Police Department,1975,Arkansas,6594,AR05602,12,2,10,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -15,16 +15,16 @@ Bruceton Police Department,2004,Tennessee,1523,TN00902,4,0,4,0,0,0,0,0,0,0,0,0,0
 Bruceton Police Department,2003,Tennessee,1529,TN00902,4,0,4,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
 Bruceton Police Department,2002,Tennessee,1583,TN00902,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Bruceton Police Department,2001,Tennessee,1568,TN00902,5,0,5,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0
-Bruceton Police Department,2000,Tennessee,1554,TN00902,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bruceton Police Department,2e3,Tennessee,1554,TN00902,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bruceton Police Department,1999,Tennessee,1538,TN00902,5,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Bruceton Police Department,1998,Tennessee,1566,TN00902,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bruceton Police Department,1997,Tennessee,1549,TN00902,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bruceton Police Department,1996,Tennessee,1536,TN00902,5,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Bruceton Police Department,1995,Tennessee,1518,TN00902,5,0,5,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Bruceton Police Department,1994,Tennessee,1606,TN00902,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
-Bruceton Police Department,1993,Tennessee,1583,TN00902,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bruceton Police Department,1993,Tennessee,1583,TN00902,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bruceton Police Department,1992,Tennessee,1633,TN00902,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bruceton Police Department,1991,Tennessee,1610,TN00902,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bruceton Police Department,1991,Tennessee,1610,TN00902,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bruceton Police Department,1990,Tennessee,1586,TN00902,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bruceton Police Department,1989,Tennessee,1504,TN00902,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bruceton Police Department,1988,Tennessee,1560,TN00902,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,4 +37,4 @@ Bruceton Police Department,1982,Tennessee,1617,TN00902,3,0,3,0,0,0,0,0,0,0,0,0,0
 Bruceton Police Department,1981,Tennessee,1602,TN00902,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bruceton Police Department,1980,Tennessee,1580,TN00902,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bruceton Police Department,1979,Tennessee,1424,TN00902,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bruceton Police Department,1978,Tennessee,1444,TN00902,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bruceton Police Department,1978,Tennessee,1444,TN00902,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

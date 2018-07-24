@@ -15,7 +15,7 @@ Columbia Heights Police Department,2004,Minnesota,18579,MN00204,22,0,22,7,6,1,0,
 Columbia Heights Police Department,2003,Minnesota,18719,MN00204,22,0,22,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Columbia Heights Police Department,2002,Minnesota,18897,MN00204,24,0,24,7,5,2,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,1,0,0,0,0,1,0,0
 Columbia Heights Police Department,2001,Minnesota,18719,MN00204,24,0,24,8,5,3,0,0,3,3,0,0,0,4,4,0,0,0,7,7,0,0,0,0,1,0,0,0,0,0,6,0,0,0
-Columbia Heights Police Department,2000,Minnesota,18520,MN00204,22,0,22,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Columbia Heights Police Department,2e3,Minnesota,18520,MN00204,22,0,22,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Columbia Heights Police Department,1999,Minnesota,18479,MN00204,25,0,25,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Columbia Heights Police Department,1998,Minnesota,18859,MN00204,25,0,25,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Columbia Heights Police Department,1997,Minnesota,18647,MN00204,24,0,24,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,6 +38,6 @@ Columbia Heights Police Department,1981,Minnesota,20072,MN00204,20,0,20,4,3,1,0,
 Columbia Heights Police Department,1980,Minnesota,19931,MN00204,20,0,20,4,3,1,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,0,0,0,0,2,0,2,0
 Columbia Heights Police Department,1979,Minnesota,24445,MN00204,19,0,19,4,2,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0
 Columbia Heights Police Department,1978,Minnesota,21300,MN00204,19,0,19,5,2,3,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1
-Columbia Heights Police Department,1977,Minnesota,22975,MN00204,19,0,19,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Columbia Heights Police Department,1976,Minnesota,22324,MN00204,19,0,19,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Columbia Heights Police Department,1977,Minnesota,22975,MN00204,19,0,19,6,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Columbia Heights Police Department,1976,Minnesota,22324,MN00204,19,0,19,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Columbia Heights Police Department,1975,Minnesota,22674,MN00204,18,0,18,3,1,2,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1

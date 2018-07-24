@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Cambridge Police Department,2016,Maryland,12524,MD01001,46,2,44,3,3,0,0,0,3,0,0,3,0,5,0,0,4,1,8,0,0,7,1,6,0,0,0,0,0,0,1,0,0,1
-Cambridge Police Department,2015,Maryland,12606,MD01001,43,1,42,12,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cambridge Police Department,2015,Maryland,12606,MD01001,43,1,42,12,7,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cambridge Police Department,2014,Maryland,12669,MD01001,41,2,39,13,7,6,0,0,4,0,0,4,0,8,0,0,7,1,12,0,0,11,1,5,0,0,0,0,1,0,5,0,1,0
 Cambridge Police Department,2013,Maryland,12530,MD01001,45,2,43,11,8,3,0,0,4,0,0,4,0,21,0,1,16,4,25,0,1,20,4,10,0,4,0,0,1,0,6,0,1,3
 Cambridge Police Department,2012,Maryland,12454,MD01001,46,2,44,12,10,2,0,0,4,1,0,2,1,22,5,0,17,0,26,6,0,19,1,6,1,8,0,0,0,0,10,0,0,1
@@ -15,7 +15,7 @@ Cambridge Police Department,2004,Maryland,10877,MD01001,44,4,40,11,8,3,0,0,3,0,0
 Cambridge Police Department,2003,Maryland,10892,MD01001,42,3,39,11,8,3,0,0,1,0,0,1,0,23,0,0,21,2,24,0,0,22,2,0,0,4,2,0,0,0,11,0,4,3
 Cambridge Police Department,2002,Maryland,11244,MD01001,45,3,42,9,5,4,0,0,11,0,0,11,0,13,0,0,13,0,24,0,0,24,0,0,0,5,1,0,1,0,7,0,5,5
 Cambridge Police Department,2001,Maryland,11073,MD01001,41,2,39,11,7,4,0,0,3,0,0,3,0,15,0,0,14,1,18,0,0,17,1,1,0,4,0,0,0,1,4,0,5,3
-Cambridge Police Department,2000,Maryland,10911,MD01001,38,2,36,10,7,3,0,0,2,0,0,2,0,11,0,0,10,1,13,0,0,12,1,0,0,4,0,0,0,0,8,0,1,0
+Cambridge Police Department,2e3,Maryland,10911,MD01001,38,2,36,10,7,3,0,0,2,0,0,2,0,11,0,0,10,1,13,0,0,12,1,0,0,4,0,0,0,0,8,0,1,0
 Cambridge Police Department,1999,Maryland,10811,MD01001,45,4,41,10,7,3,0,0,7,0,0,6,1,15,1,1,12,1,22,1,1,18,2,1,0,6,1,0,0,0,11,0,3,0
 Cambridge Police Department,1998,Maryland,11024,MD01001,43,4,39,10,7,3,0,0,5,0,0,4,1,9,0,0,8,1,14,0,0,12,2,1,0,0,0,0,2,1,7,0,2,1
 Cambridge Police Department,1997,Maryland,11876,MD01001,43,3,40,12,8,4,0,0,8,1,0,7,0,17,0,0,17,0,25,1,0,24,0,3,0,5,0,0,2,0,12,0,2,1
@@ -39,5 +39,5 @@ Cambridge Police Department,1980,Maryland,11699,MD01001,32,1,31,8,4,4,0,0,1,0,0,
 Cambridge Police Department,1979,Maryland,11694,MD01001,34,1,33,10,5,5,0,0,1,0,0,1,0,3,0,1,2,0,4,0,1,3,0,1,0,1,0,0,0,0,2,0,0,0
 Cambridge Police Department,1978,Maryland,11590,MD01001,32,1,31,8,3,5,0,0,3,0,0,2,1,2,0,0,2,0,5,0,0,5,0,1,0,4,0,0,0,0,0,0,0,0
 Cambridge Police Department,1977,Maryland,12500,MD01001,32,1,31,6,3,3,0,0,1,0,0,1,0,5,0,0,5,0,6,0,0,6,0,2,0,1,0,0,1,0,1,0,0,1
-Cambridge Police Department,1976,Maryland,12000,MD01001,36,1,35,6,3,3,0,0,0,0,0,0,0,4,0,1,0,3,4,0,1,0,3,0,0,0,0,0,0,0,3,0,1,0
+Cambridge Police Department,1976,Maryland,12e3,MD01001,36,1,35,6,3,3,0,0,0,0,0,0,0,4,0,1,0,3,4,0,1,0,3,0,0,0,0,0,0,0,3,0,1,0
 Cambridge Police Department,1975,Maryland,12046,MD01001,35,1,34,7,4,3,0,0,2,0,0,2,0,7,0,0,5,2,9,0,0,7,2,2,0,0,0,0,1,0,4,0,0,2

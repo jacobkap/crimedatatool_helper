@@ -13,9 +13,9 @@ Jefferson County Sheriff's Office,2004,Texas,34164,TX12300,126,11,115,259,122,13
 Jefferson County Sheriff's Office,2003,Texas,33866,TX12300,94,12,82,293,130,163,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Jefferson County Sheriff's Office,2002,Texas,35170,TX12300,97,20,77,306,131,175,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
 Jefferson County Sheriff's Office,2001,Texas,34438,TX12300,97,15,82,312,132,180,0,0,2,0,0,2,0,2,0,0,1,1,4,0,0,3,1,0,0,4,0,0,0,0,0,0,0,0
-Jefferson County Sheriff's Office,2000,Texas,33674,TX12300,96,15,81,312,140,172,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Jefferson County Sheriff's Office,2e3,Texas,33674,TX12300,96,15,81,312,140,172,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
 Jefferson County Sheriff's Office,1999,Texas,18337,TX12300,94,11,83,312,122,190,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-Jefferson County Sheriff's Office,1998,Texas,16551,TX12300,94,11,83,311,119,192,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jefferson County Sheriff's Office,1998,Texas,16551,TX12300,94,11,83,311,119,192,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jefferson County Sheriff's Office,1997,Texas,23038,TX12300,90,12,78,296,119,177,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
 Jefferson County Sheriff's Office,1996,Texas,22670,TX12300,85,14,71,299,113,186,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Jefferson County Sheriff's Office,1995,Texas,22192,TX12300,86,13,73,319,114,205,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
@@ -30,7 +30,7 @@ Jefferson County Sheriff's Office,1987,Texas,20511,TX12300,62,3,59,126,41,85,0,0
 Jefferson County Sheriff's Office,1986,Texas,23873,TX12300,165,22,143,21,19,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jefferson County Sheriff's Office,1985,Texas,16257,TX12300,106,8,98,192,60,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jefferson County Sheriff's Office,1984,Texas,23833,TX12300,169,22,147,24,22,2,0,0,4,0,0,3,1,1,0,0,0,1,5,0,0,3,2,0,0,3,0,0,0,0,0,0,2,0
-Jefferson County Sheriff's Office,1983,Texas,22046,TX12300,67,6,61,20,19,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jefferson County Sheriff's Office,1983,Texas,22046,TX12300,67,6,61,20,19,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jefferson County Sheriff's Office,1982,Texas,21424,TX12300,148,20,128,18,17,1,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
 Jefferson County Sheriff's Office,1981,Texas,16908,TX12300,127,15,112,17,15,2,0,0,4,0,0,3,1,2,0,2,0,0,6,0,2,3,1,1,0,3,0,0,1,0,1,0,0,0
 Jefferson County Sheriff's Office,1980,Texas,19867,TX12300,106,12,94,20,12,8,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,1,0,0,0,0,0,0,2,0,0,0

@@ -15,9 +15,9 @@ Pleasant Hill Police Department,2004,Missouri,6230,MO01905,11,0,11,4,4,0,0,0,0,0
 Pleasant Hill Police Department,2003,Missouri,6053,MO01905,11,0,11,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pleasant Hill Police Department,2002,Missouri,5659,MO01905,10,0,10,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pleasant Hill Police Department,2001,Missouri,5616,MO01905,10,0,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pleasant Hill Police Department,2000,Missouri,5582,MO01905,10,0,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pleasant Hill Police Department,2e3,Missouri,5582,MO01905,10,0,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pleasant Hill Police Department,1999,Missouri,5073,MO01905,10,0,10,6,4,2,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
-Pleasant Hill Police Department,1998,Missouri,4813,MO01905,10,0,10,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pleasant Hill Police Department,1998,Missouri,4813,MO01905,10,0,10,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Pleasant Hill Police Department,1997,Missouri,4459,MO01905,8,0,8,4,4,0,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
 Pleasant Hill Police Department,1996,Missouri,4424,MO01905,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pleasant Hill Police Department,1995,Missouri,4396,MO01905,8,1,7,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -27,7 +27,7 @@ Pleasant Hill Police Department,1992,Missouri,3883,MO01905,6,0,6,5,5,0,0,0,0,0,0
 Pleasant Hill Police Department,1991,Missouri,3857,MO01905,6,0,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pleasant Hill Police Department,1990,Missouri,3827,MO01905,6,0,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pleasant Hill Police Department,1989,Missouri,3582,MO01905,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pleasant Hill Police Department,1988,Missouri,3517,MO01905,7,1,6,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pleasant Hill Police Department,1988,Missouri,3517,MO01905,7,1,6,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Pleasant Hill Police Department,1987,Missouri,3405,MO01905,5,0,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pleasant Hill Police Department,1986,Missouri,3289,MO01905,6,1,5,4,4,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3
 Pleasant Hill Police Department,1985,Missouri,3423,MO01905,5,0,5,6,6,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,1,0,0,1
@@ -35,6 +35,6 @@ Pleasant Hill Police Department,1984,Missouri,3409,MO01905,5,0,5,8,7,1,0,0,0,0,0
 Pleasant Hill Police Department,1983,Missouri,3340,MO01905,4,0,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pleasant Hill Police Department,1982,Missouri,3328,MO01905,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pleasant Hill Police Department,1981,Missouri,3320,MO01905,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pleasant Hill Police Department,1980,Missouri,3295,MO01905,5,0,5,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pleasant Hill Police Department,1979,Missouri,3357,MO01905,5,0,5,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pleasant Hill Police Department,1980,Missouri,3295,MO01905,5,0,5,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pleasant Hill Police Department,1979,Missouri,3357,MO01905,5,0,5,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Pleasant Hill Police Department,1978,Missouri,3920,MO01905,5,0,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

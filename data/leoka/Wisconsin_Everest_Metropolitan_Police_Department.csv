@@ -1,5 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Everest Metropolitan Police Department,2016,Wisconsin,17318,WI03713,25,4,21,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Everest Metropolitan Police Department,2016,Wisconsin,17318,WI03713,25,4,21,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Everest Metropolitan Police Department,2015,Wisconsin,17160,WI03713,25,4,21,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Everest Metropolitan Police Department,2014,Wisconsin,17100,WI03713,25,3,22,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Everest Metropolitan Police Department,2013,Wisconsin,17093,WI03713,25,3,22,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,9 +15,9 @@ Everest Metropolitan Police Department,2004,Wisconsin,14986,WI03713,24,2,22,3,3,
 Everest Metropolitan Police Department,2003,Wisconsin,14772,WI03713,24,3,21,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Everest Metropolitan Police Department,2002,Wisconsin,14401,WI03713,23,3,20,2,2,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Everest Metropolitan Police Department,2001,Wisconsin,14297,WI03713,22,2,20,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Everest Metropolitan Police Department,2000,Wisconsin,14196,WI03713,23,2,21,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Everest Metropolitan Police Department,2e3,Wisconsin,14196,WI03713,23,2,21,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Everest Metropolitan Police Department,1999,Wisconsin,30125,WI03713,24,2,22,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Everest Metropolitan Police Department,1998,Wisconsin,29970,WI03713,21,2,19,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Everest Metropolitan Police Department,1998,Wisconsin,29970,WI03713,21,2,19,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Everest Metropolitan Police Department,1997,Wisconsin,14355,WI03713,21,2,19,2,2,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
 Everest Metropolitan Police Department,1996,Wisconsin,14328,WI03713,21,2,19,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Everest Metropolitan Police Department,1995,Wisconsin,28479,WI03713,19,1,18,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

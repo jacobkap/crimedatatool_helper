@@ -9,18 +9,18 @@ Fayette County Sheriff's Office,2005,Alabama,11523,AL03200,10,0,10,5,1,4,0,0,0,0
 Fayette County Sheriff's Office,2004,Alabama,11493,AL03200,10,0,10,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,2003,Alabama,11457,AL03200,10,0,10,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,2001,Alabama,11607,AL03200,19,4,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fayette County Sheriff's Office,2000,Alabama,11562,AL03200,19,4,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fayette County Sheriff's Office,2e3,Alabama,11562,AL03200,19,4,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1999,Alabama,13423,AL03200,7,0,7,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1998,Alabama,11656,AL03200,12,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1997,Alabama,11616,AL03200,12,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fayette County Sheriff's Office,1996,Alabama,11493,AL03200,12,1,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fayette County Sheriff's Office,1996,Alabama,11493,AL03200,12,1,11,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Fayette County Sheriff's Office,1995,Alabama,11440,AL03200,12,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1994,Alabama,11509,AL03200,10,0,10,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1993,Alabama,11422,AL03200,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1992,Alabama,9584,AL03200,8,0,8,2,0,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1991,Alabama,9476,AL03200,12,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1990,Alabama,9364,AL03200,7,0,7,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fayette County Sheriff's Office,1989,Alabama,13154,AL03200,7,0,7,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fayette County Sheriff's Office,1989,Alabama,13154,AL03200,7,0,7,5,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Fayette County Sheriff's Office,1988,Alabama,13676,AL03200,7,0,7,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1987,Alabama,13562,AL03200,7,0,7,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1986,Alabama,13713,AL03200,7,0,7,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -34,4 +34,4 @@ Fayette County Sheriff's Office,1979,Alabama,11253,AL03200,6,0,6,4,0,4,0,0,0,0,0
 Fayette County Sheriff's Office,1978,Alabama,10686,AL03200,6,0,6,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1977,Alabama,10370,AL03200,6,1,5,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fayette County Sheriff's Office,1976,Alabama,11891,AL03200,6,0,6,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fayette County Sheriff's Office,1975,Alabama,11674,AL03200,6,0,6,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fayette County Sheriff's Office,1975,Alabama,11674,AL03200,6,0,6,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -15,7 +15,7 @@ Pacific County Sheriff's Office,2004,Washington,14210,WA02500,15,0,15,4,4,0,0,0,
 Pacific County Sheriff's Office,2003,Washington,13932,WA02500,16,1,15,4,4,0,0,0,1,0,0,1,0,5,0,0,5,0,6,0,0,6,0,1,0,1,1,0,0,0,2,0,0,1
 Pacific County Sheriff's Office,2002,Washington,14384,WA02500,16,1,15,4,4,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0
 Pacific County Sheriff's Office,2001,Washington,14192,WA02500,15,1,14,3,3,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
-Pacific County Sheriff's Office,2000,Washington,13969,WA02500,16,1,15,4,4,0,0,0,1,0,0,1,0,4,1,0,3,0,5,1,0,4,0,1,0,0,0,0,0,0,4,0,0,0
+Pacific County Sheriff's Office,2e3,Washington,13969,WA02500,16,1,15,4,4,0,0,0,1,0,0,1,0,4,1,0,3,0,5,1,0,4,0,1,0,0,0,0,0,0,4,0,0,0
 Pacific County Sheriff's Office,1999,Washington,14178,WA02500,16,1,15,3,3,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,2,0,0,0,0,0,0,0,0,2,0
 Pacific County Sheriff's Office,1998,Washington,14332,WA02500,16,1,15,3,3,0,0,0,1,0,0,0,1,4,0,0,4,0,5,0,0,4,1,2,0,0,0,0,1,0,2,0,0,0
 Pacific County Sheriff's Office,1997,Washington,14243,WA02500,15,1,14,3,3,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0
@@ -29,10 +29,10 @@ Pacific County Sheriff's Office,1990,Washington,13194,WA02500,12,0,12,9,7,2,0,0,
 Pacific County Sheriff's Office,1989,Washington,12271,WA02500,11,0,11,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pacific County Sheriff's Office,1988,Washington,11765,WA02500,10,0,10,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pacific County Sheriff's Office,1987,Washington,10910,WA02500,4,0,4,13,8,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Pacific County Sheriff's Office,1986,Washington,11508,WA02500,8,0,8,12,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pacific County Sheriff's Office,1985,Washington,11258,WA02500,15,0,15,9,9,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pacific County Sheriff's Office,1986,Washington,11508,WA02500,8,0,8,12,7,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pacific County Sheriff's Office,1985,Washington,11258,WA02500,15,0,15,9,9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Pacific County Sheriff's Office,1984,Washington,11299,WA02500,15,0,15,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pacific County Sheriff's Office,1983,Washington,11227,WA02500,17,0,17,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pacific County Sheriff's Office,1983,Washington,11227,WA02500,17,0,17,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Pacific County Sheriff's Office,1982,Washington,11084,WA02500,17,0,17,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pacific County Sheriff's Office,1981,Washington,10997,WA02500,17,0,17,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pacific County Sheriff's Office,1980,Washington,10740,WA02500,12,0,12,13,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -40,4 +40,4 @@ Pacific County Sheriff's Office,1979,Washington,9725,WA02500,13,0,13,10,7,3,0,0,
 Pacific County Sheriff's Office,1978,Washington,9622,WA02500,11,0,11,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pacific County Sheriff's Office,1977,Washington,10527,WA02500,11,0,11,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pacific County Sheriff's Office,1976,Washington,10628,WA02500,14,2,12,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pacific County Sheriff's Office,1975,Washington,13031,WA02500,14,2,12,6,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pacific County Sheriff's Office,1975,Washington,13031,WA02500,14,2,12,6,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

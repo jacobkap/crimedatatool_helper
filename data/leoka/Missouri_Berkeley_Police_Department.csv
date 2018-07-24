@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Berkeley Police Department,2016,Missouri,9063,MO09507,27,4,23,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Berkeley Police Department,2015,Missouri,9074,MO09507,30,6,24,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Berkeley Police Department,2016,Missouri,9063,MO09507,27,4,23,8,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Berkeley Police Department,2015,Missouri,9074,MO09507,30,6,24,8,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Berkeley Police Department,2014,Missouri,9093,MO09507,30,4,26,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Berkeley Police Department,2013,Missouri,8946,MO09507,37,6,31,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Berkeley Police Department,2012,Missouri,8993,MO09507,46,5,41,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Berkeley Police Department,2004,Missouri,9954,MO09507,47,3,44,10,8,2,0,0,1,0,0,1
 Berkeley Police Department,2003,Missouri,10016,MO09507,46,2,44,11,9,2,0,0,0,0,0,0,0,4,1,0,2,1,4,1,0,2,1,0,0,0,0,0,1,0,1,0,1,1
 Berkeley Police Department,2002,Missouri,10202,MO09507,44,2,42,11,9,2,0,0,2,0,0,2,0,6,0,0,3,3,8,0,0,5,3,0,0,0,0,0,0,0,2,0,5,1
 Berkeley Police Department,2001,Missouri,10125,MO09507,44,2,42,11,8,3,0,0,6,0,0,6,0,1,0,0,1,0,7,0,0,7,0,0,0,0,0,0,0,0,5,0,1,1
-Berkeley Police Department,2000,Missouri,10063,MO09507,39,2,37,13,10,3,0,0,1,1,0,0,0,3,0,0,3,0,4,1,0,3,0,0,0,0,0,0,0,0,3,0,0,1
+Berkeley Police Department,2e3,Missouri,10063,MO09507,39,2,37,13,10,3,0,0,1,1,0,0,0,3,0,0,3,0,4,1,0,3,0,0,0,0,0,0,0,0,3,0,0,1
 Berkeley Police Department,1999,Missouri,10489,MO09507,41,2,39,11,7,4,0,0,3,0,0,2,1,5,0,0,5,0,8,0,0,7,1,0,0,0,0,0,1,0,3,0,2,2
 Berkeley Police Department,1998,Missouri,10706,MO09507,40,3,37,9,7,2,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0
 Berkeley Police Department,1997,Missouri,12992,MO09507,34,2,32,10,8,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
@@ -26,7 +26,7 @@ Berkeley Police Department,1993,Missouri,12792,MO09507,43,2,41,11,9,2,0,0,1,0,0,
 Berkeley Police Department,1992,Missouri,12634,MO09507,37,4,33,11,9,2,0,0,1,0,0,1,0,11,0,0,19,0,12,0,0,12,0,1,0,1,0,0,0,0,6,0,3,1
 Berkeley Police Department,1991,Missouri,12549,MO09507,42,5,37,10,8,2,0,0,3,0,0,3,0,4,0,0,4,0,7,0,0,7,0,1,0,0,0,0,0,0,3,0,2,1
 Berkeley Police Department,1990,Missouri,12450,MO09507,41,4,37,10,8,2,0,0,0,0,0,0,0,16,1,0,15,0,16,1,0,15,0,1,0,2,0,0,0,0,9,0,4,0
-Berkeley Police Department,1989,Missouri,16456,MO09507,39,3,36,9,2,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Berkeley Police Department,1989,Missouri,16456,MO09507,39,3,36,9,2,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Berkeley Police Department,1988,Missouri,17106,MO09507,38,2,36,9,7,2,0,0,4,0,0,3,1,13,0,0,13,0,17,0,0,16,1,1,0,1,1,1,0,0,7,0,6,0
 Berkeley Police Department,1987,Missouri,17023,MO09507,42,2,40,8,6,2,0,0,3,0,0,2,1,19,0,0,18,1,22,0,0,20,2,1,0,1,0,0,1,0,14,0,2,3
 Berkeley Police Department,1986,Missouri,16683,MO09507,38,1,37,8,6,2,0,0,1,0,0,1,0,9,0,0,9,0,10,0,0,10,0,1,0,1,0,0,0,0,6,0,2,0
@@ -37,7 +37,7 @@ Berkeley Police Department,1982,Missouri,16211,MO09507,43,2,41,8,5,3,0,0,3,0,0,3
 Berkeley Police Department,1981,Missouri,16168,MO09507,45,2,43,10,7,3,0,0,3,0,0,3,0,8,0,0,8,0,11,0,0,11,0,2,0,1,0,1,0,0,7,0,0,0
 Berkeley Police Department,1980,Missouri,16048,MO09507,44,2,42,10,7,3,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,2,0,2,0
 Berkeley Police Department,1979,Missouri,16548,MO09507,45,2,43,12,8,4,0,0,4,0,0,3,1,4,0,0,4,0,8,0,0,7,1,0,0,2,0,0,0,0,5,0,0,1
-Berkeley Police Department,1978,Missouri,20000,MO09507,40,3,37,12,8,4,0,0,2,0,0,2,0,10,0,0,10,0,12,0,0,12,0,4,0,0,0,0,1,0,5,0,1,1
+Berkeley Police Department,1978,Missouri,2e4,MO09507,40,3,37,12,8,4,0,0,2,0,0,2,0,10,0,0,10,0,12,0,0,12,0,4,0,0,0,0,1,0,5,0,1,1
 Berkeley Police Department,1977,Missouri,20244,MO09507,40,1,39,9,6,3,0,0,6,0,0,6,0,10,0,1,8,1,16,0,1,14,1,2,0,2,0,0,0,0,9,0,0,3
 Berkeley Police Department,1976,Missouri,20006,MO09507,40,1,39,7,5,2,0,0,12,0,0,12,0,5,0,0,4,1,17,0,0,16,1,1,0,2,2,0,0,0,12,0,0,0
 Berkeley Police Department,1975,Missouri,19851,MO09507,38,0,38,8,6,2,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,2,0,0,0,0,0,0,0,2

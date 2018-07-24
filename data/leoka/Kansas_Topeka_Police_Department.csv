@@ -1,12 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Topeka Police Department,2016,Kansas,127166,KS08901,282,32,250,52,34,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Topeka Police Department,2015,Kansas,127096,KS08901,285,30,255,47,35,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Topeka Police Department,2016,Kansas,127166,KS08901,282,32,250,52,34,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Topeka Police Department,2015,Kansas,127096,KS08901,285,30,255,47,35,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Topeka Police Department,2014,Kansas,127673,KS08901,287,30,257,60,42,18,0,0,12,0,0,12,0,75,2,3,64,6,87,2,3,76,6,8,0,3,2,1,0,7,49,0,3,14
-Topeka Police Department,2013,Kansas,128009,KS08901,295,30,265,62,46,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Topeka Police Department,2012,Kansas,128843,KS08901,290,29,261,63,45,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Topeka Police Department,2013,Kansas,128009,KS08901,295,30,265,62,46,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Topeka Police Department,2012,Kansas,128843,KS08901,290,29,261,63,45,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Topeka Police Department,2011,Kansas,128283,KS08901,290,26,264,63,44,19,0,0,13,0,0,13,0,91,3,4,71,13,104,3,4,84,13,11,0,1,2,0,0,1,50,1,24,14
 Topeka Police Department,2010,Kansas,127473,KS08901,281,27,254,64,44,20,0,0,18,0,0,18,0,82,3,1,67,11,100,3,1,85,11,2,0,10,1,0,0,0,70,1,7,9
-Topeka Police Department,2009,Kansas,123449,KS08901,283,27,256,71,50,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Topeka Police Department,2009,Kansas,123449,KS08901,283,27,256,71,50,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Topeka Police Department,2008,Kansas,122554,KS08901,283,25,258,73,50,23,0,0,16,0,0,14,2,81,4,0,68,9,97,4,0,82,11,26,0,1,0,0,1,0,48,0,10,11
 Topeka Police Department,2007,Kansas,121885,KS08901,277,25,252,51,41,10,0,0,14,0,0,11,3,108,1,1,97,9,122,1,1,108,12,20,0,10,4,3,1,0,62,0,8,14
 Topeka Police Department,2006,Kansas,122807,KS08901,294,26,268,55,43,12,0,0,18,0,0,14,4,62,1,2,43,16,80,1,2,57,20,6,0,7,0,0,0,1,40,1,12,13
@@ -15,14 +15,14 @@ Topeka Police Department,2004,Kansas,122545,KS08901,293,27,266,58,50,8,0,0,9,0,0
 Topeka Police Department,2003,Kansas,122446,KS08901,277,21,256,48,41,7,0,0,21,0,0,18,3,67,2,2,56,7,88,2,2,74,10,19,1,4,1,0,1,1,42,2,3,14
 Topeka Police Department,2002,Kansas,123627,KS08901,286,21,265,58,50,8,0,0,19,0,0,17,2,99,1,1,92,5,118,1,1,109,7,20,0,1,1,0,1,0,66,0,10,19
 Topeka Police Department,2001,Kansas,122660,KS08901,277,21,256,55,47,8,0,0,13,0,1,11,1,83,0,4,69,10,96,0,5,80,11,21,0,7,3,0,1,1,48,0,4,11
-Topeka Police Department,2000,Kansas,122377,KS08901,286,21,265,56,48,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Topeka Police Department,2e3,Kansas,122377,KS08901,286,21,265,56,48,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Topeka Police Department,1999,Kansas,120108,KS08901,286,16,270,54,45,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Topeka Police Department,1998,Kansas,121352,KS08901,292,16,276,51,42,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Topeka Police Department,1997,Kansas,122581,KS08901,276,13,263,49,43,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Topeka Police Department,1996,Kansas,121495,KS08901,272,14,258,81,55,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Topeka Police Department,1996,Kansas,121495,KS08901,272,14,258,81,55,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Topeka Police Department,1995,Kansas,121165,KS08901,272,13,259,90,72,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Topeka Police Department,1994,Kansas,122121,KS08901,268,12,256,94,67,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Topeka Police Department,1993,Kansas,121021,KS08901,248,11,237,95,71,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Topeka Police Department,1993,Kansas,121021,KS08901,248,11,237,95,71,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Topeka Police Department,1992,Kansas,122079,KS08901,257,11,246,98,68,30,0,0,8,0,0,5,3,56,0,2,54,7,64,0,2,52,10,12,0,4,2,0,0,0,31,0,3,12
 Topeka Police Department,1991,Kansas,120725,KS08901,255,10,245,106,70,36,0,0,7,0,1,5,1,69,2,2,62,3,76,2,3,67,4,12,0,3,2,0,2,0,38,1,5,13
 Topeka Police Department,1990,Kansas,119883,KS08901,253,10,243,96,62,34,0,0,4,1,0,0,3,73,3,0,68,2,77,4,0,68,5,20,0,2,1,0,1,1,32,4,8,8
@@ -33,7 +33,7 @@ Topeka Police Department,1984,Kansas,121449,KS08901,224,5,219,77,46,31,0,0,8,0,0
 Topeka Police Department,1983,Kansas,119504,KS08901,217,5,212,85,49,36,0,0,12,0,0,8,4,37,3,2,28,4,49,3,2,36,8,7,0,8,2,0,4,1,22,0,0,5
 Topeka Police Department,1982,Kansas,118667,KS08901,216,3,213,82,44,38,0,0,15,2,2,10,1,64,3,3,52,6,79,5,5,62,7,6,0,4,0,0,6,0,48,0,6,9
 Topeka Police Department,1981,Kansas,117336,KS08901,218,4,214,84,46,38,0,0,21,1,2,12,6,37,3,2,24,8,58,4,4,36,14,12,0,4,3,0,2,1,23,0,6,7
-Topeka Police Department,1980,Kansas,116044,KS08901,225,4,221,87,41,46,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Topeka Police Department,1980,Kansas,116044,KS08901,225,4,221,87,41,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Topeka Police Department,1979,Kansas,124591,KS08901,230,5,225,87,49,38,0,0,8,0,0,5,3,61,2,2,54,3,69,2,2,59,6,2,0,10,0,0,5,0,40,0,5,7
 Topeka Police Department,1978,Kansas,143549,KS08901,224,5,219,86,45,41,0,0,20,0,0,17,3,55,11,1,36,7,75,11,1,53,10,4,0,10,2,2,13,0,32,1,4,7
 Topeka Police Department,1977,Kansas,141601,KS08901,215,3,212,80,40,40,0,0,9,0,1,8,0,70,2,1,59,8,79,2,2,67,8,4,1,27,1,0,9,0,28,1,6,2

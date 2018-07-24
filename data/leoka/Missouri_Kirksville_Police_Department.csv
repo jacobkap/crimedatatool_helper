@@ -15,7 +15,7 @@ Kirksville Police Department,2004,Missouri,17308,MO00101,23,1,22,3,2,1,0,0,0,0,0
 Kirksville Police Department,2003,Missouri,17379,MO00101,26,1,25,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kirksville Police Department,2002,Missouri,17223,MO00101,26,1,25,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Kirksville Police Department,2001,Missouri,17093,MO00101,27,1,26,11,9,2,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,2,0,0,0,0,0,0,1,0,1,0
-Kirksville Police Department,2000,Missouri,16988,MO00101,24,0,24,7,7,0,0,0,3,0,0,3,0,6,0,0,6,0,9,0,0,9,0,1,0,1,0,0,1,0,6,0,0,0
+Kirksville Police Department,2e3,Missouri,16988,MO00101,24,0,24,7,7,0,0,0,3,0,0,3,0,6,0,0,6,0,9,0,0,9,0,1,0,1,0,0,1,0,6,0,0,0
 Kirksville Police Department,1999,Missouri,17072,MO00101,25,1,24,6,6,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Kirksville Police Department,1998,Missouri,17118,MO00101,24,1,23,7,6,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Kirksville Police Department,1997,Missouri,17690,MO00101,22,1,21,8,7,1,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,1,0,0,0,0,0,0,5,0,0,0
@@ -28,9 +28,9 @@ Kirksville Police Department,1991,Missouri,17289,MO00101,22,1,21,7,5,2,0,0,0,0,0
 Kirksville Police Department,1990,Missouri,17152,MO00101,22,1,21,6,4,2,0,0,0,0,0,0,0,10,0,0,10,0,10,0,0,10,0,1,0,0,0,0,0,0,9,0,0,0
 Kirksville Police Department,1989,Missouri,15432,MO00101,22,2,20,6,4,2,0,0,1,1,0,0,0,1,0,0,1,0,2,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0
 Kirksville Police Department,1988,Missouri,15855,MO00101,23,1,22,7,5,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-Kirksville Police Department,1987,Missouri,16127,MO00101,25,0,25,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kirksville Police Department,1986,Missouri,17238,MO00101,23,0,23,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kirksville Police Department,1985,Missouri,17467,MO00101,22,1,21,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kirksville Police Department,1987,Missouri,16127,MO00101,25,0,25,6,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kirksville Police Department,1986,Missouri,17238,MO00101,23,0,23,7,5,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kirksville Police Department,1985,Missouri,17467,MO00101,22,1,21,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kirksville Police Department,1984,Missouri,17394,MO00101,22,1,21,5,5,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Kirksville Police Department,1983,Missouri,17431,MO00101,25,6,19,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
 Kirksville Police Department,1982,Missouri,17365,MO00101,20,0,20,4,3,1,0,0,1,0,0,1,0,8,0,0,7,1,9,0,0,8,1,0,0,0,2,0,0,0,3,0,3,1
@@ -38,6 +38,6 @@ Kirksville Police Department,1981,Missouri,17319,MO00101,24,3,21,0,0,0,0,0,2,0,1
 Kirksville Police Department,1980,Missouri,17191,MO00101,19,0,19,4,2,2,0,0,2,0,0,2,0,4,0,1,2,1,6,0,1,4,1,0,0,2,0,0,0,0,3,0,1,0
 Kirksville Police Department,1979,Missouri,15694,MO00101,24,3,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kirksville Police Department,1978,Missouri,15651,MO00101,29,2,27,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kirksville Police Department,1977,Missouri,16864,MO00101,24,1,23,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kirksville Police Department,1976,Missouri,17020,MO00101,23,1,22,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kirksville Police Department,1975,Missouri,16348,MO00101,19,1,18,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kirksville Police Department,1977,Missouri,16864,MO00101,24,1,23,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kirksville Police Department,1976,Missouri,17020,MO00101,23,1,22,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kirksville Police Department,1975,Missouri,16348,MO00101,19,1,18,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

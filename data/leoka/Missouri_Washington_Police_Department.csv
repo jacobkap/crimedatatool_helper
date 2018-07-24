@@ -14,9 +14,9 @@ Washington Police Department,2005,Missouri,14066,MO03608,28,1,27,3,3,0,0,0,1,0,0
 Washington Police Department,2004,Missouri,13728,MO03608,27,2,25,3,3,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,1,0,1,0
 Washington Police Department,2003,Missouri,13537,MO03608,26,2,24,4,3,1,0,0,2,2,0,0,0,2,1,0,1,0,4,3,0,1,0,1,0,1,0,0,0,0,2,0,0,0
 Washington Police Department,2002,Missouri,13426,MO03608,25,2,23,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Washington Police Department,2001,Missouri,13325,MO03608,25,2,23,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Washington Police Department,2000,Missouri,13243,MO03608,24,1,23,4,3,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0
-Washington Police Department,1999,Missouri,12349,MO03608,23,1,22,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Washington Police Department,2001,Missouri,13325,MO03608,25,2,23,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Washington Police Department,2e3,Missouri,13243,MO03608,24,1,23,4,3,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0
+Washington Police Department,1999,Missouri,12349,MO03608,23,1,22,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Washington Police Department,1998,Missouri,12499,MO03608,24,1,23,4,4,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,2,0,0,0,0,0,0,2,0,0,0
 Washington Police Department,1997,Missouri,11598,MO03608,21,1,20,5,4,1,0,0,1,0,0,1,0,6,0,0,6,0,7,0,0,7,0,1,0,0,0,3,0,0,3,0,0,0
 Washington Police Department,1996,Missouri,11506,MO03608,20,1,19,5,4,1,0,0,0,0,0,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0
@@ -28,8 +28,8 @@ Washington Police Department,1991,Missouri,10789,MO03608,21,1,20,5,3,2,0,0,0,0,0
 Washington Police Department,1990,Missouri,10704,MO03608,21,1,20,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Washington Police Department,1989,Missouri,10505,MO03608,20,1,19,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Washington Police Department,1988,Missouri,10508,MO03608,19,1,18,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Washington Police Department,1987,Missouri,10285,MO03608,19,1,18,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Washington Police Department,1986,Missouri,9871,MO03608,19,1,18,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Washington Police Department,1987,Missouri,10285,MO03608,19,1,18,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Washington Police Department,1986,Missouri,9871,MO03608,19,1,18,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Washington Police Department,1985,Missouri,9609,MO03608,18,1,17,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Washington Police Department,1984,Missouri,9569,MO03608,18,1,17,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Washington Police Department,1983,Missouri,9389,MO03608,17,1,16,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,5 +38,5 @@ Washington Police Department,1981,Missouri,9329,MO03608,17,0,17,6,6,0,0,0,0,0,0,
 Washington Police Department,1980,Missouri,9260,MO03608,17,0,17,6,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Washington Police Department,1978,Missouri,9079,MO03608,16,1,15,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Washington Police Department,1977,Missouri,10401,MO03608,16,1,15,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Washington Police Department,1976,Missouri,9800,MO03608,16,1,15,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Washington Police Department,1976,Missouri,9800,MO03608,16,1,15,4,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Washington Police Department,1975,Missouri,9834,MO03608,15,1,14,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

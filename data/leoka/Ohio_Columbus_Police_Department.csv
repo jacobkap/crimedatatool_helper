@@ -1,16 +1,16 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Columbus Police Department,2015,Ohio,847745,OHCOP00,1855,197,1658,350,252,98,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Columbus Police Department,2014,Ohio,830811,OHCOP00,1852,210,1642,351,255,96,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Columbus Police Department,2013,Ohio,816364,OHCOP00,1862,214,1648,319,235,84,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Columbus Police Department,2012,Ohio,797384,OHCOP00,1823,211,1612,315,233,82,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Columbus Police Department,2011,Ohio,787609,OHCOP00,1805,211,1594,309,228,81,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Columbus Police Department,2009,Ohio,759391,OHCOP00,1878,224,1654,301,225,76,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Columbus Police Department,2006,Ohio,731547,OHCOP00,1829,222,1607,349,262,87,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Columbus Police Department,2005,Ohio,730329,OHCOP00,1792,220,1572,344,262,82,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Columbus Police Department,2015,Ohio,847745,OHCOP00,1855,197,1658,350,252,98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Columbus Police Department,2014,Ohio,830811,OHCOP00,1852,210,1642,351,255,96,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Columbus Police Department,2013,Ohio,816364,OHCOP00,1862,214,1648,319,235,84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Columbus Police Department,2012,Ohio,797384,OHCOP00,1823,211,1612,315,233,82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Columbus Police Department,2011,Ohio,787609,OHCOP00,1805,211,1594,309,228,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Columbus Police Department,2009,Ohio,759391,OHCOP00,1878,224,1654,301,225,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Columbus Police Department,2006,Ohio,731547,OHCOP00,1829,222,1607,349,262,87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Columbus Police Department,2005,Ohio,730329,OHCOP00,1792,220,1572,344,262,82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Columbus Police Department,2003,Ohio,726151,OHCOP00,1789,244,1545,361,276,85,0,0,46,0,1,36,9,38,1,0,30,7,84,1,1,66,16,3,1,18,1,1,8,2,23,4,9,14
 Columbus Police Department,2002,Ohio,715739,OHCOP00,1811,247,1564,380,296,84,0,0,51,0,0,41,10,48,4,4,30,10,99,4,4,71,20,6,1,31,1,1,13,6,22,1,7,10
 Columbus Police Department,2001,Ohio,712748,OHCOP00,1816,252,1564,380,293,87,1,0,53,1,1,46,5,51,1,2,41,7,104,2,3,87,12,8,1,23,5,1,12,4,30,5,5,10
-Columbus Police Department,2000,Ohio,711470,OHCOP00,1756,245,1511,386,295,91,0,0,43,1,2,32,8,41,4,3,24,10,84,5,5,56,18,11,0,8,0,2,3,3,27,2,15,13
+Columbus Police Department,2e3,Ohio,711470,OHCOP00,1756,245,1511,386,295,91,0,0,43,1,2,32,8,41,4,3,24,10,84,5,5,56,18,11,0,8,0,2,3,3,27,2,15,13
 Columbus Police Department,1999,Ohio,673401,OHCOP00,1774,239,1535,401,308,93,0,0,69,0,1,63,5,79,18,6,41,14,148,18,7,104,19,14,4,37,3,0,8,11,50,1,12,8
 Columbus Police Department,1998,Ohio,661227,OHCOP00,1769,240,1529,397,306,91,0,0,106,2,0,92,12,80,13,6,48,13,186,15,6,140,25,16,3,36,0,5,17,4,57,7,19,22
 Columbus Police Department,1997,Ohio,641338,OHCOP00,1719,224,1495,389,299,90,0,0,134,4,0,118,12,138,11,6,111,10,272,15,6,229,22,30,0,52,4,4,25,17,65,4,25,46
@@ -20,7 +20,7 @@ Columbus Police Department,1994,Ohio,647860,OHCOP00,1507,187,1320,366,280,86,0,0
 Columbus Police Department,1993,Ohio,646933,OHCOP00,1543,195,1348,357,269,88,0,1,151,6,4,132,9,294,14,3,264,13,445,20,7,396,22,36,4,106,4,7,39,9,153,3,48,36
 Columbus Police Department,1992,Ohio,643028,OHCOP00,1436,170,1266,339,256,83,0,0,182,1,3,174,4,247,4,1,233,9,429,5,4,407,13,15,2,127,3,7,28,17,134,5,48,43
 Columbus Police Department,1991,Ohio,638533,OHCOP00,1403,167,1236,338,250,88,1,0,179,10,4,158,7,324,7,3,303,11,503,17,7,461,18,33,8,145,8,15,35,11,160,7,45,36
-Columbus Police Department,1990,Ohio,632910,OHCOP00,1394,167,1227,341,250,91,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Columbus Police Department,1990,Ohio,632910,OHCOP00,1394,167,1227,341,250,91,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Columbus Police Department,1989,Ohio,572341,OHCOP00,1335,165,1170,335,254,81,0,0,216,3,4,201,8,345,6,5,318,16,561,9,9,519,24,40,3,159,15,15,46,16,188,3,46,30
 Columbus Police Department,1988,Ohio,588428,OHCOP00,1335,160,1175,335,256,79,0,0,151,0,2,137,12,236,4,4,215,13,387,4,6,352,25,29,0,92,10,0,54,10,125,5,16,46
 Columbus Police Department,1987,Ohio,567800,OHCOP00,1281,147,1134,322,240,82,0,0,155,1,2,143,9,201,2,2,184,13,356,3,4,327,22,12,3,113,8,3,35,11,109,7,14,41
@@ -29,7 +29,7 @@ Columbus Police Department,1985,Ohio,565682,OHCOP00,1223,128,1095,319,212,107,0,
 Columbus Police Department,1984,Ohio,568609,OHCOP00,1160,105,1055,327,219,108,0,0,152,0,3,140,9,170,4,7,156,3,322,4,10,296,12,15,3,79,6,1,63,8,105,1,19,22
 Columbus Police Department,1983,Ohio,561328,OHCOP00,1191,109,1082,330,213,117,0,0,116,2,1,106,7,155,8,2,141,4,271,10,3,247,11,10,0,75,4,3,50,14,71,1,13,30
 Columbus Police Department,1982,Ohio,563680,OHCOP00,1216,112,1104,337,217,120,0,0,162,6,6,140,10,198,6,5,179,8,360,12,11,319,18,20,2,81,4,4,77,11,107,5,17,32
-Columbus Police Department,1981,Ohio,562896,OHCOP00,1050,89,961,340,210,130,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Columbus Police Department,1981,Ohio,562896,OHCOP00,1050,89,961,340,210,130,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Columbus Police Department,1980,Ohio,562416,OHCOP00,968,60,908,317,187,130,1,0,111,6,2,97,6,170,8,0,151,11,281,14,2,248,17,15,3,67,7,0,44,10,76,4,23,32
 Columbus Police Department,1979,Ohio,534052,OHCOP00,914,40,874,289,181,108,0,0,139,3,3,118,15,204,13,5,164,22,343,16,8,281,38,13,3,85,8,15,38,5,100,10,19,47
 Columbus Police Department,1978,Ohio,578338,OHCOP00,883,24,859,257,170,87,0,0,102,2,1,91,8,125,3,1,110,11,227,5,2,201,19,10,1,55,4,0,41,2,78,4,8,24

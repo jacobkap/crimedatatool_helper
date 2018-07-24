@@ -12,9 +12,9 @@ Carlin Police Department,2006,Nevada,2153,NV00402,4,0,4,1,1,0,0,0,0,0,0,0,0,1,0,
 Carlin Police Department,2005,Nevada,2140,NV00402,5,0,5,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0
 Carlin Police Department,2004,Nevada,2146,NV00402,5,0,5,2,2,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Carlin Police Department,2003,Nevada,2156,NV00402,6,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Carlin Police Department,2002,Nevada,2351,NV00402,5,0,5,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlin Police Department,2002,Nevada,2351,NV00402,5,0,5,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Carlin Police Department,2001,Nevada,2278,NV00402,5,0,5,2,2,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0
-Carlin Police Department,2000,Nevada,2161,NV00402,4,0,4,2,2,0,0,0,0,0,0,0,0,3,0,3,0,0,3,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0
+Carlin Police Department,2e3,Nevada,2161,NV00402,4,0,4,2,2,0,0,0,0,0,0,0,0,3,0,3,0,0,3,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0
 Carlin Police Department,1999,Nevada,2801,NV00402,5,1,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Carlin Police Department,1998,Nevada,2926,NV00402,6,1,5,2,2,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 Carlin Police Department,1997,Nevada,3244,NV00402,5,1,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -31,7 +31,7 @@ Carlin Police Department,1987,Nevada,1577,NV00402,4,1,3,0,0,0,0,0,0,0,0,0,0,2,0,
 Carlin Police Department,1986,Nevada,1517,NV00402,4,0,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Carlin Police Department,1985,Nevada,1610,NV00402,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Carlin Police Department,1984,Nevada,1567,NV00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Carlin Police Department,1983,Nevada,1354,NV00402,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlin Police Department,1983,Nevada,1354,NV00402,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Carlin Police Department,1982,Nevada,1339,NV00402,4,0,4,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0
 Carlin Police Department,1981,Nevada,1284,NV00402,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Carlin Police Department,1980,Nevada,1216,NV00402,5,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0

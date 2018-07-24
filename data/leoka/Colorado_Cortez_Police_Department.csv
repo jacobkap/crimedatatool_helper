@@ -15,7 +15,7 @@ Cortez Police Department,2004,Colorado,8272,CO04201,28,2,26,21,20,1,0,0,1,0,0,1,
 Cortez Police Department,2003,Colorado,8217,CO04201,26,1,25,22,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cortez Police Department,2002,Colorado,8358,CO04201,28,2,26,21,20,1,0,0,5,0,1,3,1,0,0,0,0,0,5,0,1,3,1,0,0,0,0,0,0,0,5,0,0,0
 Cortez Police Department,2001,Colorado,8193,CO04201,28,2,26,23,22,1,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1
-Cortez Police Department,2000,Colorado,7977,CO04201,28,2,26,22,22,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Cortez Police Department,2e3,Colorado,7977,CO04201,28,2,26,22,22,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Cortez Police Department,1999,Colorado,9218,CO04201,28,2,26,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cortez Police Department,1998,Colorado,9082,CO04201,24,2,22,22,20,2,0,0,3,3,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0
 Cortez Police Department,1997,Colorado,8293,CO04201,24,2,22,17,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -24,7 +24,7 @@ Cortez Police Department,1995,Colorado,7983,CO04201,22,2,20,12,11,1,0,0,3,0,0,3,
 Cortez Police Department,1994,Colorado,7907,CO04201,22,2,20,11,10,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Cortez Police Department,1993,Colorado,7713,CO04201,22,2,20,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cortez Police Department,1992,Colorado,7671,CO04201,22,1,21,11,10,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cortez Police Department,1991,Colorado,7466,CO04201,21,1,20,11,10,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cortez Police Department,1991,Colorado,7466,CO04201,21,1,20,11,10,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cortez Police Department,1990,Colorado,7284,CO04201,21,1,20,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cortez Police Department,1989,Colorado,8169,CO04201,21,1,20,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cortez Police Department,1988,Colorado,8277,CO04201,21,1,20,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,9 +35,9 @@ Cortez Police Department,1984,Colorado,7939,CO04201,21,1,20,8,7,1,0,0,0,0,0,0,0,
 Cortez Police Department,1983,Colorado,7637,CO04201,21,1,20,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cortez Police Department,1982,Colorado,7409,CO04201,20,1,19,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cortez Police Department,1981,Colorado,7210,CO04201,19,1,18,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cortez Police Department,1980,Colorado,7004,CO04201,17,2,15,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cortez Police Department,1980,Colorado,7004,CO04201,17,2,15,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cortez Police Department,1979,Colorado,7105,CO04201,15,0,15,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cortez Police Department,1978,Colorado,7000,CO04201,15,1,14,8,8,0,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
-Cortez Police Department,1977,Colorado,8500,CO04201,14,0,14,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Cortez Police Department,1976,Colorado,7600,CO04201,12,0,12,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cortez Police Department,1978,Colorado,7e3,CO04201,15,1,14,8,8,0,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Cortez Police Department,1977,Colorado,8500,CO04201,14,0,14,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cortez Police Department,1976,Colorado,7600,CO04201,12,0,12,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cortez Police Department,1975,Colorado,6800,CO04201,12,0,12,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

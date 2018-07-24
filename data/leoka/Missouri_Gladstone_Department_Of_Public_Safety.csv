@@ -15,7 +15,7 @@ Gladstone Department Of Public Safety,2004,Missouri,27327,MO02404,42,5,37,16,13,
 Gladstone Department Of Public Safety,2003,Missouri,26929,MO02404,42,5,37,12,10,2,0,0,2,0,0,2,0,10,0,0,8,2,12,0,0,10,2,3,0,4,0,0,1,0,3,0,0,1
 Gladstone Department Of Public Safety,2002,Missouri,26729,MO02404,40,5,35,13,12,1,0,0,0,0,0,0,0,7,0,0,6,1,7,0,0,6,1,1,0,1,0,0,1,0,1,0,0,3
 Gladstone Department Of Public Safety,2001,Missouri,26528,MO02404,46,6,40,11,9,2,0,0,0,0,0,0,0,9,1,0,8,0,9,1,0,8,0,3,0,1,0,0,0,0,4,0,1,0
-Gladstone Department Of Public Safety,2000,Missouri,26365,MO02404,51,5,46,13,11,2,0,0,0,0,0,0,0,14,5,0,9,0,14,5,0,9,0,5,0,2,0,0,2,0,5,0,0,0
+Gladstone Department Of Public Safety,2e3,Missouri,26365,MO02404,51,5,46,13,11,2,0,0,0,0,0,0,0,14,5,0,9,0,14,5,0,9,0,5,0,2,0,0,2,0,5,0,0,0
 Gladstone Department Of Public Safety,1999,Missouri,28197,MO02404,51,4,47,10,7,3,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,1,0,3,0,0,2,0,0,0,0,0
 Gladstone Department Of Public Safety,1998,Missouri,28609,MO02404,51,5,46,10,7,3,0,0,0,0,0,0,0,7,0,0,7,0,7,0,0,7,0,2,0,1,0,0,0,0,2,0,0,2
 Gladstone Department Of Public Safety,1997,Missouri,28324,MO02404,49,5,44,20,8,12,0,0,0,0,0,0,0,8,0,0,7,1,8,0,0,7,1,1,0,0,1,0,0,0,2,0,0,4
@@ -27,7 +27,7 @@ Gladstone Department Of Public Safety,1992,Missouri,26631,MO02404,52,3,49,11,8,3
 Gladstone Department Of Public Safety,1991,Missouri,26452,MO02404,52,3,49,9,6,3,0,0,2,0,0,2,0,6,1,0,5,0,8,1,0,7,0,0,0,3,0,0,3,0,0,1,0,1
 Gladstone Department Of Public Safety,1990,Missouri,26243,MO02404,51,2,49,11,9,2,0,0,2,0,0,1,1,13,0,2,9,2,15,0,2,10,3,0,0,0,0,0,1,0,13,0,0,1
 Gladstone Department Of Public Safety,1989,Missouri,28968,MO02404,47,2,45,9,9,0,0,0,3,0,0,3,0,15,0,0,14,1,18,0,0,17,1,0,0,0,0,0,3,0,12,0,1,2
-Gladstone Department Of Public Safety,1988,Missouri,28507,MO02404,46,2,44,10,8,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gladstone Department Of Public Safety,1988,Missouri,28507,MO02404,46,2,44,10,8,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gladstone Department Of Public Safety,1987,Missouri,27822,MO02404,40,1,39,10,9,1,0,0,1,0,0,1,0,5,0,0,3,2,6,0,0,4,2,0,0,0,0,0,0,0,3,0,1,2
 Gladstone Department Of Public Safety,1986,Missouri,26354,MO02404,41,1,40,10,9,1,0,0,1,1,0,0,0,4,0,0,4,0,5,1,0,4,0,1,0,0,0,0,0,0,2,0,1,1
 Gladstone Department Of Public Safety,1985,Missouri,25709,MO02404,43,2,41,10,1,9,0,0,3,0,0,2,1,7,0,0,6,1,10,0,0,8,2,0,0,1,0,0,4,0,2,0,1,2
@@ -38,6 +38,6 @@ Gladstone Department Of Public Safety,1981,Missouri,25078,MO02404,43,1,42,10,8,2
 Gladstone Department Of Public Safety,1980,Missouri,24892,MO02404,39,0,39,12,7,5,0,0,2,0,0,2,0,7,0,0,5,2,9,0,0,7,2,0,0,1,0,0,2,0,3,0,2,1
 Gladstone Department Of Public Safety,1979,Missouri,31074,MO02404,41,3,38,9,4,5,0,0,2,1,0,1,0,5,2,0,2,1,7,3,0,3,1,0,0,1,0,0,0,0,3,0,1,2
 Gladstone Department Of Public Safety,1978,Missouri,30156,MO02404,44,1,43,10,9,1,0,0,2,0,0,2,0,7,0,0,5,2,9,0,0,7,2,0,0,1,0,0,4,0,4,0,0,0
-Gladstone Department Of Public Safety,1977,Missouri,28000,MO02404,44,1,43,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Gladstone Department Of Public Safety,1976,Missouri,27000,MO02404,41,0,41,7,6,1,0,0,1,0,0,1,0,5,0,0,4,1,6,0,0,5,1,0,0,1,0,0,1,0,2,0,1,1
+Gladstone Department Of Public Safety,1977,Missouri,28e3,MO02404,44,1,43,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gladstone Department Of Public Safety,1976,Missouri,27e3,MO02404,41,0,41,7,6,1,0,0,1,0,0,1,0,5,0,0,4,1,6,0,0,5,1,0,0,1,0,0,1,0,2,0,1,1
 Gladstone Department Of Public Safety,1975,Missouri,25378,MO02404,41,1,40,8,6,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1

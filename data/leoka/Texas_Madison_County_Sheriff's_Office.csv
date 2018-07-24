@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Madison County Sheriff's Office,2016,Texas,9331,TX15700,13,1,12,18,11,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Madison County Sheriff's Office,2015,Texas,9258,TX15700,13,1,12,19,12,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Madison County Sheriff's Office,2014,Texas,9328,TX15700,12,1,11,15,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Madison County Sheriff's Office,2013,Texas,9261,TX15700,11,0,11,11,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Madison County Sheriff's Office,2013,Texas,9261,TX15700,11,0,11,11,7,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Madison County Sheriff's Office,2012,Texas,9459,TX15700,12,1,11,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Madison County Sheriff's Office,2011,Texas,9463,TX15700,10,0,10,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Madison County Sheriff's Office,2010,Texas,9268,TX15700,10,0,10,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Madison County Sheriff's Office,2004,Texas,8774,TX15700,7,0,7,15,10,5,0,0,0,0,0,
 Madison County Sheriff's Office,2003,Texas,9055,TX15700,7,0,7,15,0,15,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Madison County Sheriff's Office,2002,Texas,9171,TX15700,8,0,8,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Madison County Sheriff's Office,2001,Texas,8981,TX15700,9,0,9,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Madison County Sheriff's Office,2000,Texas,8781,TX15700,6,0,6,13,9,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Madison County Sheriff's Office,2e3,Texas,8781,TX15700,6,0,6,13,9,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Madison County Sheriff's Office,1999,Texas,8180,TX15700,8,0,8,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Madison County Sheriff's Office,1998,Texas,8137,TX15700,8,0,8,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Madison County Sheriff's Office,1997,Texas,8168,TX15700,8,0,8,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

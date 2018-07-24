@@ -1,11 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Dry Ridge Pd,2016,Kentucky,2208,KY04102,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dry Ridge Pd,2009,Kentucky,2245,KY04102,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Dry Ridge Pd,2000,Kentucky,1995,KY04102,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Dry Ridge Pd,1999,Kentucky,1984,KY04102,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Dry Ridge Pd,1998,Kentucky,1936,KY04102,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Dry Ridge Pd,1997,Kentucky,2663,KY04102,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Dry Ridge Pd,1996,Kentucky,2647,KY04102,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dry Ridge Pd,2e3,Kentucky,1995,KY04102,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dry Ridge Pd,1999,Kentucky,1984,KY04102,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dry Ridge Pd,1998,Kentucky,1936,KY04102,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dry Ridge Pd,1997,Kentucky,2663,KY04102,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dry Ridge Pd,1996,Kentucky,2647,KY04102,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Dry Ridge Pd,1995,Kentucky,2631,KY04102,4,0,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Dry Ridge Pd,1994,Kentucky,1927,KY04102,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dry Ridge Pd,1993,Kentucky,1908,KY04102,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -13,8 +13,8 @@ Dry Ridge Pd,1992,Kentucky,1631,KY04102,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,
 Dry Ridge Pd,1991,Kentucky,1613,KY04102,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dry Ridge Pd,1990,Kentucky,1601,KY04102,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dry Ridge Pd,1989,Kentucky,1592,KY04102,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Dry Ridge Pd,1988,Kentucky,1508,KY04102,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Dry Ridge Pd,1987,Kentucky,1500,KY04102,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dry Ridge Pd,1988,Kentucky,1508,KY04102,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dry Ridge Pd,1987,Kentucky,1500,KY04102,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Dry Ridge Pd,1986,Kentucky,1477,KY04102,3,1,2,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dry Ridge Pd,1985,Kentucky,1365,KY04102,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Dry Ridge Pd,1984,Kentucky,1364,KY04102,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

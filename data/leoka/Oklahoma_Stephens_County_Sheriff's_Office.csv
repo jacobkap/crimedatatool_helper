@@ -6,7 +6,7 @@ Stephens County Sheriff's Office,2013,Oklahoma,15373,OK06900,20,1,19,45,24,21,0,
 Stephens County Sheriff's Office,2012,Oklahoma,15439,OK06900,18,0,18,46,26,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stephens County Sheriff's Office,2011,Oklahoma,15455,OK06900,22,1,21,38,24,14,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Stephens County Sheriff's Office,2010,Oklahoma,15292,OK06900,18,1,17,28,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Stephens County Sheriff's Office,2009,Oklahoma,15059,OK06900,15,0,15,28,14,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stephens County Sheriff's Office,2009,Oklahoma,15059,OK06900,15,0,15,28,14,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stephens County Sheriff's Office,2008,Oklahoma,14760,OK06900,13,1,12,3,3,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
 Stephens County Sheriff's Office,2007,Oklahoma,14923,OK06900,11,1,10,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
 Stephens County Sheriff's Office,2006,Oklahoma,14722,OK06900,8,1,7,24,13,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Stephens County Sheriff's Office,2004,Oklahoma,14505,OK06900,9,1,8,22,11,11,0,0,
 Stephens County Sheriff's Office,2003,Oklahoma,14550,OK06900,10,1,9,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stephens County Sheriff's Office,2002,Oklahoma,14711,OK06900,10,1,9,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stephens County Sheriff's Office,2001,Oklahoma,14568,OK06900,10,1,9,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Stephens County Sheriff's Office,2000,Oklahoma,14529,OK06900,10,0,10,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stephens County Sheriff's Office,2e3,Oklahoma,14529,OK06900,10,0,10,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stephens County Sheriff's Office,1999,Oklahoma,15532,OK06900,9,1,8,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stephens County Sheriff's Office,1998,Oklahoma,15299,OK06900,9,0,9,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stephens County Sheriff's Office,1997,Oklahoma,15237,OK06900,9,1,8,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,8 +33,8 @@ Stephens County Sheriff's Office,1986,Oklahoma,15257,OK06900,9,1,8,1,1,0,0,0,0,0
 Stephens County Sheriff's Office,1985,Oklahoma,13393,OK06900,10,0,10,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stephens County Sheriff's Office,1984,Oklahoma,15537,OK06900,8,0,8,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stephens County Sheriff's Office,1983,Oklahoma,15159,OK06900,8,0,8,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Stephens County Sheriff's Office,1982,Oklahoma,14603,OK06900,8,0,8,7,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Stephens County Sheriff's Office,1981,Oklahoma,14240,OK06900,8,0,8,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stephens County Sheriff's Office,1982,Oklahoma,14603,OK06900,8,0,8,7,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Stephens County Sheriff's Office,1981,Oklahoma,14240,OK06900,8,0,8,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stephens County Sheriff's Office,1980,Oklahoma,13795,OK06900,8,0,8,6,2,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Stephens County Sheriff's Office,1979,Oklahoma,12812,OK06900,9,1,8,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Stephens County Sheriff's Office,1978,Oklahoma,10074,OK06900,14,1,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

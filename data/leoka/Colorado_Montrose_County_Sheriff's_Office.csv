@@ -15,9 +15,9 @@ Montrose County Sheriff's Office,2004,Colorado,20366,CO04300,51,6,45,48,27,21,0,
 Montrose County Sheriff's Office,2003,Colorado,20099,CO04300,47,6,41,55,29,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,2002,Colorado,20446,CO04300,73,9,64,31,22,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,2001,Colorado,20043,CO04300,72,13,59,25,18,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Montrose County Sheriff's Office,2000,Colorado,19515,CO04300,68,10,58,30,25,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Montrose County Sheriff's Office,2e3,Colorado,19515,CO04300,68,10,58,30,25,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,1999,Colorado,18208,CO04300,44,6,38,55,31,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Montrose County Sheriff's Office,1998,Colorado,17858,CO04300,43,8,35,58,43,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Montrose County Sheriff's Office,1998,Colorado,17858,CO04300,43,8,35,58,43,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Montrose County Sheriff's Office,1995,Colorado,16583,CO04300,39,10,29,8,7,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Montrose County Sheriff's Office,1994,Colorado,15742,CO04300,39,10,29,8,7,1,0,0,2,0,0,1,1,1,0,0,1,0,3,0,0,2,1,0,0,0,0,0,3,0,0,0,0,0
 Montrose County Sheriff's Office,1993,Colorado,15355,CO04300,36,8,28,8,7,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
@@ -32,10 +32,10 @@ Montrose County Sheriff's Office,1985,Colorado,13051,CO04300,25,3,22,2,1,1,0,0,0
 Montrose County Sheriff's Office,1984,Colorado,13480,CO04300,25,3,22,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,1983,Colorado,13617,CO04300,25,3,22,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,1982,Colorado,13210,CO04300,26,3,23,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Montrose County Sheriff's Office,1981,Colorado,12855,CO04300,26,3,23,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Montrose County Sheriff's Office,1980,Colorado,12488,CO04300,26,2,24,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Montrose County Sheriff's Office,1981,Colorado,12855,CO04300,26,3,23,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Montrose County Sheriff's Office,1980,Colorado,12488,CO04300,26,2,24,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Montrose County Sheriff's Office,1979,Colorado,11591,CO04300,26,3,23,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Montrose County Sheriff's Office,1978,Colorado,9540,CO04300,25,3,22,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Montrose County Sheriff's Office,1977,Colorado,11253,CO04300,23,3,20,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Montrose County Sheriff's Office,1977,Colorado,11253,CO04300,23,3,20,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Montrose County Sheriff's Office,1976,Colorado,11659,CO04300,21,2,19,2,2,0,0,0,2,0,0,2,0,1,1,0,0,0,3,1,0,2,0,0,0,0,0,0,2,0,0,0,1,0
 Montrose County Sheriff's Office,1975,Colorado,13424,CO04300,20,2,18,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

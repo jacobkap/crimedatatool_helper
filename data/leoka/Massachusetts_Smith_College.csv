@@ -2,8 +2,8 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Smith College,2015,Massachusetts,0,MA00826,13,4,9,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smith College,2014,Massachusetts,0,MA00826,14,4,10,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Smith College,2013,Massachusetts,0,MA00826,14,4,10,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Smith College,2012,Massachusetts,0,MA00826,14,4,10,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Smith College,2011,Massachusetts,0,MA00826,14,2,12,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Smith College,2010,Massachusetts,0,MA00826,16,4,12,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Smith College,2009,Massachusetts,0,MA00826,14,3,11,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Smith College,2008,Massachusetts,0,MA00826,15,6,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Smith College,2012,Massachusetts,0,MA00826,14,4,10,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Smith College,2011,Massachusetts,0,MA00826,14,2,12,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Smith College,2010,Massachusetts,0,MA00826,16,4,12,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Smith College,2009,Massachusetts,0,MA00826,14,3,11,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Smith College,2008,Massachusetts,0,MA00826,15,6,9,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

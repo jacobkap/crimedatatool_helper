@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Henderson Police Department,2015,Texas,13574,TX20101,31,3,28,10,10,0,0,0,1,0,0,1,0,6,0,0,6,0,7,0,0,7,0,0,0,2,0,0,0,1,4,0,0,0
 Henderson Police Department,2014,Texas,13693,TX20101,30,2,28,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henderson Police Department,2013,Texas,13837,TX20101,33,3,30,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Henderson Police Department,2012,Texas,14019,TX20101,30,3,27,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Henderson Police Department,2012,Texas,14019,TX20101,30,3,27,8,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Henderson Police Department,2011,Texas,14001,TX20101,33,2,31,8,8,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Henderson Police Department,2010,Texas,13712,TX20101,34,1,33,8,8,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,0,1
 Henderson Police Department,2009,Texas,11675,TX20101,31,2,29,8,8,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
@@ -14,7 +14,7 @@ Henderson Police Department,2004,Texas,11255,TX20101,33,3,30,9,8,1,0,0,2,0,0,2,0
 Henderson Police Department,2003,Texas,11323,TX20101,40,4,36,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henderson Police Department,2002,Texas,11775,TX20101,41,4,37,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henderson Police Department,2001,Texas,11529,TX20101,38,3,35,8,6,2,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0
-Henderson Police Department,2000,Texas,11273,TX20101,31,2,29,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Henderson Police Department,2e3,Texas,11273,TX20101,31,2,29,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henderson Police Department,1999,Texas,11442,TX20101,32,2,30,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henderson Police Department,1998,Texas,11476,TX20101,29,3,26,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henderson Police Department,1997,Texas,12433,TX20101,28,3,25,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -31,12 +31,12 @@ Henderson Police Department,1987,Texas,12037,TX20101,22,5,17,5,5,0,0,0,1,0,0,1,0
 Henderson Police Department,1986,Texas,12491,TX20101,20,5,15,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Henderson Police Department,1985,Texas,12168,TX20101,21,5,16,4,4,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Henderson Police Department,1984,Texas,11885,TX20101,22,4,18,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Henderson Police Department,1983,Texas,12578,TX20101,21,4,17,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Henderson Police Department,1982,Texas,12223,TX20101,22,4,18,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Henderson Police Department,1983,Texas,12578,TX20101,21,4,17,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Henderson Police Department,1982,Texas,12223,TX20101,22,4,18,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Henderson Police Department,1981,Texas,11803,TX20101,21,4,17,4,4,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
 Henderson Police Department,1980,Texas,11335,TX20101,19,3,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Henderson Police Department,1979,Texas,11616,TX20101,21,2,19,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Henderson Police Department,1979,Texas,11616,TX20101,21,2,19,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Henderson Police Department,1978,Texas,11115,TX20101,19,2,17,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henderson Police Department,1977,Texas,13176,TX20101,19,2,17,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Henderson Police Department,1976,Texas,13000,TX20101,17,2,15,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Henderson Police Department,1975,Texas,12000,TX20101,18,2,16,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Henderson Police Department,1976,Texas,13e3,TX20101,17,2,15,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Henderson Police Department,1975,Texas,12e3,TX20101,18,2,16,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -15,7 +15,7 @@ Lewis County Sheriff's Office,2004,Washington,42716,WA02100,41,2,39,17,17,0,0,0,
 Lewis County Sheriff's Office,2003,Washington,42101,WA02100,41,2,39,17,17,0,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,0,0,2,0,0,0,0,1,0,0,0
 Lewis County Sheriff's Office,2002,Washington,42055,WA02100,40,2,38,17,17,0,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,0,0,0,0,0,0,0,5,0,0,0
 Lewis County Sheriff's Office,2001,Washington,41493,WA02100,39,2,37,17,17,0,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,1,0,0,0,0,0,0,2,0,0,0
-Lewis County Sheriff's Office,2000,Washington,40843,WA02100,44,2,42,15,15,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,1,0,1,0,0,1,0,1,0,0,0
+Lewis County Sheriff's Office,2e3,Washington,40843,WA02100,44,2,42,15,15,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,1,0,1,0,0,1,0,1,0,0,0
 Lewis County Sheriff's Office,1999,Washington,43102,WA02100,41,2,39,14,14,0,0,0,0,0,0,0,0,8,0,0,8,0,8,0,0,8,0,0,0,3,0,0,1,0,3,0,0,1
 Lewis County Sheriff's Office,1998,Washington,42340,WA02100,43,2,41,15,15,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Lewis County Sheriff's Office,1997,Washington,41112,WA02100,45,2,43,14,14,0,0,0,0,0,0,0,0,6,0,0,5,1,6,0,0,5,1,0,0,4,0,0,0,0,1,0,0,1
@@ -29,7 +29,7 @@ Lewis County Sheriff's Office,1990,Washington,35829,WA02100,42,0,42,12,12,0,0,0,
 Lewis County Sheriff's Office,1989,Washington,39271,WA02100,44,1,43,15,15,0,0,0,3,0,0,3,0,2,1,0,1,0,5,1,0,4,0,0,0,0,0,0,1,0,3,0,0,1
 Lewis County Sheriff's Office,1988,Washington,38747,WA02100,41,1,40,13,13,0,0,0,1,0,0,1,0,5,1,0,4,0,6,1,0,5,0,0,0,1,0,0,2,2,0,0,1,0
 Lewis County Sheriff's Office,1987,Washington,38450,WA02100,39,1,38,10,10,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,2,0,0,0,0,3,0,0,0
-Lewis County Sheriff's Office,1986,Washington,38203,WA02100,39,1,38,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lewis County Sheriff's Office,1986,Washington,38203,WA02100,39,1,38,11,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lewis County Sheriff's Office,1985,Washington,37141,WA02100,37,0,37,11,11,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0
 Lewis County Sheriff's Office,1984,Washington,38659,WA02100,35,0,35,10,10,0,0,0,3,0,0,3,0,6,0,0,6,0,9,0,0,9,0,0,0,3,0,0,6,0,0,0,0,0
 Lewis County Sheriff's Office,1983,Washington,38789,WA02100,45,4,41,13,13,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,1,0,0,0,0,0,0,1
@@ -40,4 +40,4 @@ Lewis County Sheriff's Office,1979,Washington,33595,WA02100,43,5,38,5,5,0,0,0,0,
 Lewis County Sheriff's Office,1978,Washington,33975,WA02100,43,5,38,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lewis County Sheriff's Office,1977,Washington,33425,WA02100,44,3,41,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lewis County Sheriff's Office,1976,Washington,33777,WA02100,40,3,37,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lewis County Sheriff's Office,1975,Washington,30426,WA02100,41,4,37,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lewis County Sheriff's Office,1975,Washington,30426,WA02100,41,4,37,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

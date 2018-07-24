@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Boonville Village Police Department,2016,New York,2034,NY03221,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Village Police Department,2015,New York,2049,NY03221,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Village Police Department,2013,New York,2054,NY03221,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Boonville Village Police Department,2012,New York,2080,NY03221,3,1,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Boonville Village Police Department,2012,New York,2080,NY03221,3,1,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Boonville Village Police Department,2011,New York,2081,NY03221,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Village Police Department,2010,New York,2072,NY03221,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Village Police Department,2009,New York,2032,NY03221,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -11,8 +11,8 @@ Boonville Village Police Department,2007,New York,2074,NY03221,2,0,2,0,0,0,0,0,0
 Boonville Village Police Department,2006,New York,2101,NY03221,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Boonville Village Police Department,2005,New York,2112,NY03221,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Village Police Department,2003,New York,2122,NY03221,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Boonville Village Police Department,2002,New York,2158,NY03221,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Boonville Village Police Department,2000,New York,2138,NY03221,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Boonville Village Police Department,2002,New York,2158,NY03221,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Boonville Village Police Department,2e3,New York,2138,NY03221,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Boonville Village Police Department,1999,New York,1935,NY03221,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Village Police Department,1998,New York,1980,NY03221,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Boonville Village Police Department,1997,New York,2319,NY03221,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,4 +36,4 @@ Boonville Village Police Department,1979,New York,2449,NY03221,3,0,3,0,0,0,0,0,0
 Boonville Village Police Department,1978,New York,2500,NY03221,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
 Boonville Village Police Department,1977,New York,2362,NY03221,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Boonville Village Police Department,1976,New York,2414,NY03221,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Boonville Village Police Department,1975,New York,2412,NY03221,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Boonville Village Police Department,1975,New York,2412,NY03221,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

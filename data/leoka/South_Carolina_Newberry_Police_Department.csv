@@ -15,15 +15,15 @@ Newberry Police Department,2004,South Carolina,10738,SC03601,28,4,24,4,4,0,0,0,3
 Newberry Police Department,2003,South Carolina,10790,SC03601,25,3,22,4,4,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Newberry Police Department,2002,South Carolina,10831,SC03601,25,2,23,4,4,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Newberry Police Department,2001,South Carolina,10714,SC03601,25,1,24,4,4,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-Newberry Police Department,2000,South Carolina,10580,SC03601,28,1,27,4,4,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+Newberry Police Department,2e3,South Carolina,10580,SC03601,28,1,27,4,4,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
 Newberry Police Department,1999,South Carolina,9988,SC03601,25,1,24,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Newberry Police Department,1998,South Carolina,10384,SC03601,27,1,26,4,4,0,0,0,1,0,0,1,0,5,0,0,5,0,6,0,0,6,0,0,0,0,0,0,2,0,4,0,0,0
 Newberry Police Department,1997,South Carolina,10858,SC03601,26,0,26,3,3,0,0,0,1,0,0,1,0,1,0,1,0,0,2,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0
-Newberry Police Department,1996,South Carolina,10682,SC03601,24,0,24,3,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newberry Police Department,1996,South Carolina,10682,SC03601,24,0,24,3,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Newberry Police Department,1995,South Carolina,10607,SC03601,24,0,24,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newberry Police Department,1994,South Carolina,10775,SC03601,25,0,25,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newberry Police Department,1993,South Carolina,10714,SC03601,27,2,25,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Newberry Police Department,1992,South Carolina,10893,SC03601,27,2,25,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newberry Police Department,1993,South Carolina,10714,SC03601,27,2,25,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Newberry Police Department,1992,South Carolina,10893,SC03601,27,2,25,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Newberry Police Department,1991,South Carolina,10763,SC03601,27,2,25,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newberry Police Department,1990,South Carolina,10542,SC03601,22,2,20,4,3,1,0,0,0,0,0,0,0,8,0,0,8,0,8,0,0,8,0,0,0,3,0,0,0,0,4,0,0,1
 Newberry Police Department,1989,South Carolina,10002,SC03601,21,3,18,3,2,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,2,0,0,0,0,0,0,1,0,0,1
@@ -39,5 +39,5 @@ Newberry Police Department,1980,South Carolina,9795,SC03601,25,1,24,3,2,1,0,0,1,
 Newberry Police Department,1979,South Carolina,9605,SC03601,25,1,24,4,3,1,0,0,0,0,0,0,0,17,0,0,16,1,17,0,0,16,1,0,0,10,0,0,0,0,1,0,5,1
 Newberry Police Department,1978,South Carolina,9165,SC03601,22,1,21,5,4,1,0,0,1,0,1,0,0,7,1,0,5,1,8,1,1,5,1,1,0,1,2,0,1,0,3,0,0,0
 Newberry Police Department,1977,South Carolina,10281,SC03601,19,1,18,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newberry Police Department,1976,South Carolina,10000,SC03601,22,1,21,4,1,3,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
-Newberry Police Department,1975,South Carolina,9571,SC03601,22,1,21,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newberry Police Department,1976,South Carolina,1e4,SC03601,22,1,21,4,1,3,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
+Newberry Police Department,1975,South Carolina,9571,SC03601,22,1,21,4,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

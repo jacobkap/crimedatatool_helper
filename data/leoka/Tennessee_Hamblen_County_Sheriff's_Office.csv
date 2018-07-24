@@ -15,7 +15,7 @@ Hamblen County Sheriff's Office,2004,Tennessee,34059,TN03200,63,9,54,1,1,0,0,0,4
 Hamblen County Sheriff's Office,2003,Tennessee,33753,TN03200,57,10,47,3,3,0,0,0,2,0,0,0,2,9,0,0,7,2,11,0,0,7,4,0,0,1,0,0,6,0,3,0,1,0
 Hamblen County Sheriff's Office,2002,Tennessee,33798,TN03200,60,11,49,1,1,0,0,0,2,0,0,2,0,9,0,0,7,2,11,0,0,9,2,0,0,0,0,0,8,1,1,0,1,0
 Hamblen County Sheriff's Office,2001,Tennessee,33464,TN03200,59,7,52,5,5,0,0,0,3,0,0,1,2,8,0,0,6,2,11,0,0,7,4,0,0,3,0,0,7,0,1,0,0,0
-Hamblen County Sheriff's Office,2000,Tennessee,33169,TN03200,51,7,44,6,6,0,0,0,6,0,2,3,1,9,0,0,8,1,15,0,2,11,2,1,0,2,0,0,4,0,6,0,0,2
+Hamblen County Sheriff's Office,2e3,Tennessee,33169,TN03200,51,7,44,6,6,0,0,0,6,0,2,3,1,9,0,0,8,1,15,0,2,11,2,1,0,2,0,0,4,0,6,0,0,2
 Hamblen County Sheriff's Office,1999,Tennessee,31284,TN03200,49,8,41,4,4,0,0,0,2,0,0,2,0,6,1,0,5,0,8,1,0,7,0,0,0,2,0,0,1,0,4,0,1,0
 Hamblen County Sheriff's Office,1998,Tennessee,32015,TN03200,26,2,24,24,9,15,0,0,3,0,0,3,0,3,0,0,2,1,6,0,0,5,1,0,0,0,0,0,3,0,2,0,1,0
 Hamblen County Sheriff's Office,1997,Tennessee,31672,TN03200,18,1,17,23,9,14,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
@@ -24,7 +24,7 @@ Hamblen County Sheriff's Office,1995,Tennessee,31012,TN03200,41,4,37,4,4,0,0,0,0
 Hamblen County Sheriff's Office,1994,Tennessee,30747,TN03200,48,4,44,4,4,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Hamblen County Sheriff's Office,1993,Tennessee,30296,TN03200,42,4,38,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hamblen County Sheriff's Office,1992,Tennessee,29970,TN03200,38,4,34,4,4,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hamblen County Sheriff's Office,1991,Tennessee,29547,TN03200,37,5,32,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hamblen County Sheriff's Office,1991,Tennessee,29547,TN03200,37,5,32,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hamblen County Sheriff's Office,1990,Tennessee,29095,TN03200,34,5,29,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hamblen County Sheriff's Office,1989,Tennessee,31182,TN03200,38,5,33,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hamblen County Sheriff's Office,1988,Tennessee,33434,TN03200,33,4,29,3,3,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
@@ -38,5 +38,5 @@ Hamblen County Sheriff's Office,1981,Tennessee,30002,TN03200,31,0,31,3,3,0,0,0,1
 Hamblen County Sheriff's Office,1980,Tennessee,29583,TN03200,31,0,31,3,3,0,0,0,1,0,0,1,0,1,1,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0
 Hamblen County Sheriff's Office,1979,Tennessee,24235,TN03200,27,1,26,3,3,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0
 Hamblen County Sheriff's Office,1978,Tennessee,23587,TN03200,24,3,21,2,2,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0
-Hamblen County Sheriff's Office,1977,Tennessee,22604,TN03200,20,1,19,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Hamblen County Sheriff's Office,1976,Tennessee,22155,TN03200,20,1,19,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hamblen County Sheriff's Office,1977,Tennessee,22604,TN03200,20,1,19,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hamblen County Sheriff's Office,1976,Tennessee,22155,TN03200,20,1,19,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

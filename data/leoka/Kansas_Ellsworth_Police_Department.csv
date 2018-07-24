@@ -1,9 +1,9 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Ellsworth Police Department,2016,Kansas,3043,KS02701,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ellsworth Police Department,2016,Kansas,3043,KS02701,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ellsworth Police Department,2015,Kansas,3064,KS02701,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,2014,Kansas,3065,KS02701,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ellsworth Police Department,2013,Kansas,3113,KS02701,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ellsworth Police Department,2012,Kansas,3129,KS02701,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ellsworth Police Department,2013,Kansas,3113,KS02701,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ellsworth Police Department,2012,Kansas,3129,KS02701,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ellsworth Police Department,2011,Kansas,3140,KS02701,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,2010,Kansas,3120,KS02701,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,2009,Kansas,2847,KS02701,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,19 +15,19 @@ Ellsworth Police Department,2004,Kansas,2900,KS02701,6,0,6,1,1,0,0,0,0,0,0,0,0,1
 Ellsworth Police Department,2003,Kansas,2931,KS02701,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,2002,Kansas,2995,KS02701,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,2001,Kansas,2972,KS02701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ellsworth Police Department,2000,Kansas,2965,KS02701,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ellsworth Police Department,1999,Kansas,2624,KS02701,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ellsworth Police Department,1998,Kansas,2662,KS02701,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ellsworth Police Department,1997,Kansas,2871,KS02701,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ellsworth Police Department,1996,Kansas,2846,KS02701,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ellsworth Police Department,1995,Kansas,2839,KS02701,6,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ellsworth Police Department,2e3,Kansas,2965,KS02701,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ellsworth Police Department,1999,Kansas,2624,KS02701,5,0,5,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ellsworth Police Department,1998,Kansas,2662,KS02701,5,0,5,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ellsworth Police Department,1997,Kansas,2871,KS02701,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ellsworth Police Department,1996,Kansas,2846,KS02701,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ellsworth Police Department,1995,Kansas,2839,KS02701,6,1,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ellsworth Police Department,1994,Kansas,2377,KS02701,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ellsworth Police Department,1993,Kansas,2356,KS02701,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ellsworth Police Department,1993,Kansas,2356,KS02701,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ellsworth Police Department,1992,Kansas,2335,KS02701,5,0,5,0,0,0,0,0,0,0,0,0,0,8,0,0,17,0,8,0,0,8,0,2,0,4,0,0,0,0,1,0,0,1
 Ellsworth Police Department,1991,Kansas,2310,KS02701,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,1990,Kansas,2294,KS02701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,1989,Kansas,2356,KS02701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ellsworth Police Department,1988,Kansas,2314,KS02701,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ellsworth Police Department,1988,Kansas,2314,KS02701,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ellsworth Police Department,1987,Kansas,2395,KS02701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,1986,Kansas,2402,KS02701,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,1985,Kansas,2418,KS02701,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,4 +35,4 @@ Ellsworth Police Department,1984,Kansas,2406,KS02701,4,0,4,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,1983,Kansas,2547,KS02701,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ellsworth Police Department,1982,Kansas,2530,KS02701,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Ellsworth Police Department,1976,Kansas,2549,KS02701,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ellsworth Police Department,1975,Kansas,2566,KS02701,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ellsworth Police Department,1975,Kansas,2566,KS02701,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -9,13 +9,13 @@ Cheverly Police Department,2010,Maryland,6173,MD01705,16,2,14,3,2,1,0,0,1,0,0,1,
 Cheverly Police Department,2009,Maryland,6365,MD01705,14,1,13,2,1,1,0,0,1,0,0,1,0,7,0,0,4,3,8,0,0,5,3,0,0,3,0,0,2,0,1,0,0,2
 Cheverly Police Department,2008,Maryland,6466,MD01705,13,1,12,2,1,1,0,0,2,0,0,1,1,14,0,0,12,2,16,0,0,13,3,0,0,8,0,0,0,0,3,0,0,5
 Cheverly Police Department,2007,Maryland,6614,MD01705,15,1,14,2,1,1,0,0,0,0,0,0,0,8,0,0,8,0,8,0,0,8,0,0,0,4,0,0,0,0,2,0,1,1
-Cheverly Police Department,2006,Maryland,6686,MD01705,12,1,11,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheverly Police Department,2006,Maryland,6686,MD01705,12,1,11,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cheverly Police Department,2005,Maryland,6712,MD01705,13,1,12,2,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Cheverly Police Department,2004,Maryland,6704,MD01705,13,1,12,2,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Cheverly Police Department,2003,Maryland,6683,MD01705,10,1,9,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheverly Police Department,2002,Maryland,6630,MD01705,13,2,11,2,1,1,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
 Cheverly Police Department,2001,Maryland,6529,MD01705,12,2,10,2,1,1,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0
-Cheverly Police Department,2000,Maryland,6433,MD01705,11,2,9,2,1,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,0,0,0,2
+Cheverly Police Department,2e3,Maryland,6433,MD01705,11,2,9,2,1,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,0,0,0,2
 Cheverly Police Department,1999,Maryland,6504,MD01705,12,3,9,2,1,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,1,2
 Cheverly Police Department,1998,Maryland,6478,MD01705,11,3,8,2,1,1,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,0,0,0,0,1,0,3,1
 Cheverly Police Department,1997,Maryland,6587,MD01705,12,3,9,2,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -34,7 +34,7 @@ Cheverly Police Department,1985,Maryland,5928,MD01705,8,0,8,0,0,0,0,0,0,0,0,0,0,
 Cheverly Police Department,1984,Maryland,5870,MD01705,8,0,8,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1
 Cheverly Police Department,1983,Maryland,5825,MD01705,8,0,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Cheverly Police Department,1982,Maryland,5773,MD01705,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheverly Police Department,1981,Maryland,5767,MD01705,8,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheverly Police Department,1981,Maryland,5767,MD01705,8,0,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cheverly Police Department,1980,Maryland,5674,MD01705,8,0,8,2,2,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
 Cheverly Police Department,1979,Maryland,5719,MD01705,7,0,7,0,0,0,0,0,1,0,0,0,1,4,1,0,3,0,5,1,0,3,1,0,1,0,0,0,1,0,0,0,2,1
 Cheverly Police Department,1978,Maryland,5733,MD01705,7,0,7,0,0,0,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,0,0,2,0,0,0,0,1,0,0,2

@@ -11,13 +11,13 @@ Ridgefield Police Department,2008,Connecticut,23893,CT00118,42,3,39,5,3,2,0,0,0,
 Ridgefield Police Department,2007,Connecticut,24040,CT00118,43,3,40,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ridgefield Police Department,2006,Connecticut,24172,CT00118,42,3,39,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ridgefield Police Department,2005,Connecticut,24281,CT00118,42,3,39,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ridgefield Police Department,2004,Connecticut,24271,CT00118,42,3,39,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ridgefield Police Department,2004,Connecticut,24271,CT00118,42,3,39,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ridgefield Police Department,2003,Connecticut,24213,CT00118,39,3,36,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ridgefield Police Department,2002,Connecticut,24025,CT00118,39,3,36,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ridgefield Police Department,2001,Connecticut,23778,CT00118,39,3,36,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ridgefield Police Department,2000,Connecticut,23643,CT00118,38,3,35,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ridgefield Police Department,2001,Connecticut,23778,CT00118,39,3,36,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ridgefield Police Department,2e3,Connecticut,23643,CT00118,38,3,35,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ridgefield Police Department,1999,Connecticut,22217,CT00118,39,3,36,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ridgefield Police Department,1998,Connecticut,21768,CT00118,40,3,37,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ridgefield Police Department,1998,Connecticut,21768,CT00118,40,3,37,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ridgefield Police Department,1997,Connecticut,21202,CT00118,36,3,33,5,3,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Ridgefield Police Department,1996,Connecticut,21228,CT00118,37,3,34,5,3,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Ridgefield Police Department,1995,Connecticut,21235,CT00118,36,2,34,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,6 +38,6 @@ Ridgefield Police Department,1981,Connecticut,20273,CT00118,33,1,32,5,3,2,0,0,2,
 Ridgefield Police Department,1980,Connecticut,20035,CT00118,32,2,30,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ridgefield Police Department,1979,Connecticut,21236,CT00118,31,1,30,5,3,2,0,0,6,0,1,5,0,0,0,0,0,0,6,0,1,5,0,0,0,1,0,0,0,0,4,0,1,0
 Ridgefield Police Department,1978,Connecticut,20631,CT00118,31,1,30,4,3,1,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,2,0,0,1,0,1,0,0,0
-Ridgefield Police Department,1977,Connecticut,18966,CT00118,30,1,29,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ridgefield Police Department,1977,Connecticut,18966,CT00118,30,1,29,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ridgefield Police Department,1976,Connecticut,19751,CT00118,30,1,29,3,2,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Ridgefield Police Department,1975,Connecticut,19439,CT00118,29,1,28,3,2,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1

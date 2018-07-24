@@ -15,7 +15,7 @@ Imperial County Sheriff's Office,2004,California,32975,CA01300,160,22,138,78,58,
 Imperial County Sheriff's Office,2003,California,33058,CA01300,173,22,151,86,64,22,0,0,7,0,0,6,1,43,1,0,32,10,50,1,0,38,11,0,0,2,0,0,11,0,21,0,7,9
 Imperial County Sheriff's Office,2002,California,33977,CA01300,187,23,164,89,65,24,0,0,3,0,0,3,0,11,0,0,10,1,14,0,0,13,1,3,0,0,0,0,5,0,4,0,2,0
 Imperial County Sheriff's Office,2001,California,33383,CA01300,108,6,102,151,81,70,0,0,1,0,0,0,1,12,0,0,8,4,13,0,0,8,5,1,0,0,0,0,5,0,2,1,0,4
-Imperial County Sheriff's Office,2000,California,32773,CA01300,104,6,98,152,85,67,0,0,1,0,0,1,0,7,0,0,7,0,8,0,0,8,0,0,0,0,0,0,5,1,2,0,0,0
+Imperial County Sheriff's Office,2e3,California,32773,CA01300,104,6,98,152,85,67,0,0,1,0,0,1,0,7,0,0,7,0,8,0,0,8,0,0,0,0,0,0,5,1,2,0,0,0
 Imperial County Sheriff's Office,1999,California,35702,CA01300,91,5,86,146,74,72,0,0,7,0,0,7,0,2,0,0,2,0,9,0,0,9,0,0,0,0,0,0,7,0,2,0,0,0
 Imperial County Sheriff's Office,1998,California,35226,CA01300,70,4,66,40,32,8,0,0,12,1,0,10,1,7,0,1,6,0,19,1,1,16,1,2,0,0,0,0,14,0,2,0,1,0
 Imperial County Sheriff's Office,1997,California,33574,CA01300,91,18,73,35,29,6,0,0,2,0,0,2,0,13,0,0,10,3,15,0,0,12,3,1,0,1,0,0,7,0,4,0,0,2
@@ -26,12 +26,12 @@ Imperial County Sheriff's Office,1993,California,31611,CA01300,129,11,118,93,66,
 Imperial County Sheriff's Office,1992,California,28376,CA01300,129,11,118,93,66,27,0,0,0,0,0,0,0,15,0,0,24,0,15,0,0,15,0,0,0,1,0,0,11,0,2,0,0,1
 Imperial County Sheriff's Office,1991,California,27929,CA01300,129,11,118,93,66,27,0,0,3,0,0,2,1,11,0,0,10,1,14,0,0,12,2,0,0,1,0,0,8,0,4,0,0,1
 Imperial County Sheriff's Office,1990,California,27360,CA01300,66,4,62,37,27,10,0,0,3,0,0,3,0,15,0,0,13,2,18,0,0,16,2,0,0,1,0,0,4,0,10,0,1,2
-Imperial County Sheriff's Office,1989,California,31318,CA01300,115,14,101,74,41,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Imperial County Sheriff's Office,1988,California,31138,CA01300,56,3,53,33,25,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Imperial County Sheriff's Office,1989,California,31318,CA01300,115,14,101,74,41,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Imperial County Sheriff's Office,1988,California,31138,CA01300,56,3,53,33,25,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Imperial County Sheriff's Office,1987,California,30636,CA01300,113,10,103,72,52,20,0,0,3,0,0,3,0,20,0,0,16,4,23,0,0,19,4,2,0,10,0,0,6,0,2,0,1,2
 Imperial County Sheriff's Office,1986,California,30089,CA01300,107,11,96,84,52,32,0,0,4,0,0,3,1,13,0,1,9,3,17,0,1,12,4,2,0,5,0,0,2,0,7,0,1,0
 Imperial County Sheriff's Office,1985,California,29933,CA01300,108,6,102,74,45,29,0,0,0,0,0,0,0,14,0,3,10,1,14,0,3,10,1,1,0,0,0,0,0,1,12,0,0,0
-Imperial County Sheriff's Office,1984,California,28315,CA01300,112,6,106,74,48,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Imperial County Sheriff's Office,1984,California,28315,CA01300,112,6,106,74,48,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Imperial County Sheriff's Office,1983,California,28286,CA01300,108,7,101,70,44,26,0,0,0,0,0,0,0,18,2,0,9,7,18,2,0,9,7,2,0,7,0,0,7,1,1,0,0,0
 Imperial County Sheriff's Office,1982,California,27781,CA01300,124,13,111,68,35,33,0,0,0,0,0,0,0,10,0,0,9,1,10,0,0,9,1,0,0,2,0,0,5,0,1,0,1,1
 Imperial County Sheriff's Office,1981,California,27145,CA01300,128,9,119,65,38,27,0,0,1,0,0,1,0,13,0,0,11,2,14,0,0,12,2,1,0,1,0,0,10,0,0,0,2,0

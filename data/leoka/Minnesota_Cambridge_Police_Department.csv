@@ -15,7 +15,7 @@ Cambridge Police Department,2004,Minnesota,6434,MN03001,11,1,10,2,2,0,0,0,0,0,0,
 Cambridge Police Department,2003,Minnesota,5925,MN03001,10,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cambridge Police Department,2002,Minnesota,5632,MN03001,10,1,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cambridge Police Department,2001,Minnesota,5579,MN03001,10,1,9,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
-Cambridge Police Department,2000,Minnesota,5520,MN03001,9,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cambridge Police Department,2e3,Minnesota,5520,MN03001,9,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cambridge Police Department,1999,Minnesota,5506,MN03001,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cambridge Police Department,1998,Minnesota,5549,MN03001,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cambridge Police Department,1997,Minnesota,6337,MN03001,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Cambridge Police Department,1980,Minnesota,3609,MN03001,6,0,6,1,1,0,0,0,0,0,0,0,
 Cambridge Police Department,1979,Minnesota,2585,MN03001,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cambridge Police Department,1978,Minnesota,3177,MN03001,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cambridge Police Department,1977,Minnesota,3272,MN03001,6,0,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge Police Department,1976,Minnesota,3144,MN03001,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cambridge Police Department,1976,Minnesota,3144,MN03001,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cambridge Police Department,1975,Minnesota,3136,MN03001,5,0,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0

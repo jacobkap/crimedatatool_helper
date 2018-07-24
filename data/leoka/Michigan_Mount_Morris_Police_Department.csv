@@ -15,13 +15,13 @@ Mount Morris Police Department,2004,Michigan,3362,MI25598,8,0,8,1,1,0,0,0,0,0,0,
 Mount Morris Police Department,2003,Michigan,3399,MI25598,8,0,8,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Mount Morris Police Department,2002,Michigan,3230,MI25598,8,1,7,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Mount Morris Police Department,2001,Michigan,3211,MI25598,8,1,7,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Mount Morris Police Department,2000,Michigan,3194,MI25598,7,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mount Morris Police Department,2e3,Michigan,3194,MI25598,7,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mount Morris Police Department,1999,Michigan,3158,MI25598,7,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mount Morris Police Department,1998,Michigan,3240,MI25598,7,1,6,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Mount Morris Police Department,1997,Michigan,3390,MI25598,6,1,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mount Morris Police Department,1996,Michigan,3328,MI25598,6,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Mount Morris Police Department,1995,Michigan,3313,MI25598,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Mount Morris Police Department,1994,Michigan,3330,MI25598,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mount Morris Police Department,1996,Michigan,3328,MI25598,6,1,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mount Morris Police Department,1995,Michigan,3313,MI25598,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mount Morris Police Department,1994,Michigan,3330,MI25598,5,0,5,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mount Morris Police Department,1993,Michigan,3324,MI25598,5,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mount Morris Police Department,1992,Michigan,3341,MI25598,5,0,5,1,1,0,0,0,0,0,0,0,0,3,0,0,12,0,3,0,0,3,0,0,0,0,0,1,0,0,1,0,0,1
 Mount Morris Police Department,1991,Michigan,3317,MI25598,5,0,5,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
@@ -37,7 +37,7 @@ Mount Morris Police Department,1982,Michigan,3706,MI25598,5,0,5,3,3,0,0,0,2,0,0,
 Mount Morris Police Department,1981,Michigan,3743,MI25598,6,0,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mount Morris Police Department,1980,Michigan,3754,MI25598,6,0,6,3,3,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Mount Morris Police Department,1979,Michigan,4083,MI25598,6,0,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mount Morris Police Department,1978,Michigan,5000,MI25598,7,0,7,3,3,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,0,0,0,2,0,0,0
+Mount Morris Police Department,1978,Michigan,5e3,MI25598,7,0,7,3,3,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,0,0,0,2,0,0,0
 Mount Morris Police Department,1977,Michigan,4600,MI25598,7,0,7,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mount Morris Police Department,1976,Michigan,5000,MI25598,7,0,7,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mount Morris Police Department,1976,Michigan,5e3,MI25598,7,0,7,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mount Morris Police Department,1975,Michigan,4468,MI25598,7,0,7,3,0,3,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,1,0,0,0,0,3,0,0,0

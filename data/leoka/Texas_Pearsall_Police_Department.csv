@@ -15,7 +15,7 @@ Pearsall Police Department,2004,Texas,7252,TX08201,10,0,10,2,1,1,0,0,0,0,0,0,0,2
 Pearsall Police Department,2003,Texas,7215,TX08201,10,0,10,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Pearsall Police Department,2002,Texas,7475,TX08201,10,0,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pearsall Police Department,2001,Texas,7319,TX08201,10,0,10,2,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Pearsall Police Department,2000,Texas,7157,TX08201,10,1,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pearsall Police Department,2e3,Texas,7157,TX08201,10,1,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pearsall Police Department,1999,Texas,7444,TX08201,11,1,10,2,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Pearsall Police Department,1998,Texas,7626,TX08201,11,1,10,2,1,1,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,3,0,0,0,0,0,0,0,0,0,1
 Pearsall Police Department,1997,Texas,7674,TX08201,10,1,9,1,1,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,0,1
@@ -32,12 +32,12 @@ Pearsall Police Department,1987,Texas,7941,TX08201,8,0,8,0,0,0,0,0,0,0,0,0,0,1,1
 Pearsall Police Department,1986,Texas,8221,TX08201,5,0,5,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,1,0,0,1,0,0,0
 Pearsall Police Department,1985,Texas,8122,TX08201,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pearsall Police Department,1984,Texas,7933,TX08201,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pearsall Police Department,1983,Texas,8262,TX08201,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pearsall Police Department,1983,Texas,8262,TX08201,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Pearsall Police Department,1982,Texas,8029,TX08201,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pearsall Police Department,1981,Texas,7754,TX08201,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pearsall Police Department,1980,Texas,7446,TX08201,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pearsall Police Department,1979,Texas,6895,TX08201,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pearsall Police Department,1978,Texas,6800,TX08201,3,0,3,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pearsall Police Department,1977,Texas,8000,TX08201,3,0,3,2,1,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,2,0,0,1,0,0,0,0,0
-Pearsall Police Department,1976,Texas,6436,TX08201,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pearsall Police Department,1975,Texas,5629,TX08201,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pearsall Police Department,1977,Texas,8e3,TX08201,3,0,3,2,1,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,2,0,0,1,0,0,0,0,0
+Pearsall Police Department,1976,Texas,6436,TX08201,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pearsall Police Department,1975,Texas,5629,TX08201,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

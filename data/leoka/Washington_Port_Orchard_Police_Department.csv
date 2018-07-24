@@ -15,9 +15,9 @@ Port Orchard Police Department,2004,Washington,7996,WA01804,19,1,18,2,2,0,0,0,0,
 Port Orchard Police Department,2003,Washington,7941,WA01804,19,1,18,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Port Orchard Police Department,2002,Washington,7922,WA01804,18,1,17,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Port Orchard Police Department,2001,Washington,7815,WA01804,17,2,15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Orchard Police Department,2000,Washington,7693,WA01804,15,1,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Port Orchard Police Department,2e3,Washington,7693,WA01804,15,1,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Port Orchard Police Department,1999,Washington,6452,WA01804,14,1,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Orchard Police Department,1998,Washington,6449,WA01804,15,0,15,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Port Orchard Police Department,1998,Washington,6449,WA01804,15,0,15,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Port Orchard Police Department,1997,Washington,6020,WA01804,14,0,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Port Orchard Police Department,1996,Washington,5938,WA01804,13,0,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Port Orchard Police Department,1995,Washington,5829,WA01804,13,0,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,10 +25,10 @@ Port Orchard Police Department,1994,Washington,5703,WA01804,12,0,12,1,1,0,0,0,0,
 Port Orchard Police Department,1993,Washington,5610,WA01804,11,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Port Orchard Police Department,1992,Washington,5258,WA01804,11,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Port Orchard Police Department,1991,Washington,5138,WA01804,11,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Orchard Police Department,1990,Washington,4984,WA01804,11,0,11,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Port Orchard Police Department,1990,Washington,4984,WA01804,11,0,11,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Port Orchard Police Department,1989,Washington,4958,WA01804,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Port Orchard Police Department,1988,Washington,5253,WA01804,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Orchard Police Department,1987,Washington,5095,WA01804,11,1,10,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Port Orchard Police Department,1987,Washington,5095,WA01804,11,1,10,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Port Orchard Police Department,1986,Washington,4982,WA01804,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Port Orchard Police Department,1985,Washington,4894,WA01804,11,1,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Port Orchard Police Department,1984,Washington,4828,WA01804,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -40,4 +40,4 @@ Port Orchard Police Department,1979,Washington,4701,WA01804,7,0,7,3,3,0,0,0,3,1,
 Port Orchard Police Department,1978,Washington,4295,WA01804,7,0,7,3,3,0,0,0,2,0,0,0,2,2,0,1,1,0,4,0,1,1,2,0,0,0,0,0,1,0,1,0,0,2
 Port Orchard Police Department,1977,Washington,4526,WA01804,7,0,7,3,3,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,0,0,0,0,0,2
 Port Orchard Police Department,1976,Washington,4250,WA01804,5,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Orchard Police Department,1975,Washington,4122,WA01804,6,0,6,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Port Orchard Police Department,1975,Washington,4122,WA01804,6,0,6,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

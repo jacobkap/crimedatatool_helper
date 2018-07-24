@@ -11,11 +11,11 @@ Wolcott Police Department,2008,Connecticut,16557,CT00166,24,1,23,9,8,1,0,0,1,0,0
 Wolcott Police Department,2007,Connecticut,16419,CT00166,24,1,23,9,8,1,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0
 Wolcott Police Department,2006,Connecticut,16203,CT00166,24,1,23,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wolcott Police Department,2005,Connecticut,16198,CT00166,24,1,23,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolcott Police Department,2004,Connecticut,16117,CT00166,24,1,23,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wolcott Police Department,2004,Connecticut,16117,CT00166,24,1,23,9,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Wolcott Police Department,2003,Connecticut,15786,CT00166,25,1,24,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wolcott Police Department,2002,Connecticut,15461,CT00166,24,1,23,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolcott Police Department,2001,Connecticut,15302,CT00166,24,1,23,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Wolcott Police Department,2000,Connecticut,15215,CT00166,24,1,23,8,1,7,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
+Wolcott Police Department,2001,Connecticut,15302,CT00166,24,1,23,8,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wolcott Police Department,2e3,Connecticut,15215,CT00166,24,1,23,8,1,7,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Wolcott Police Department,1999,Connecticut,14717,CT00166,26,1,25,7,7,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Wolcott Police Department,1998,Connecticut,14158,CT00166,26,1,25,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wolcott Police Department,1997,Connecticut,13848,CT00166,25,0,25,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -29,7 +29,7 @@ Wolcott Police Department,1990,Connecticut,13700,CT00166,21,1,20,8,8,0,0,0,0,0,0
 Wolcott Police Department,1989,Connecticut,13305,CT00166,23,1,22,6,6,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
 Wolcott Police Department,1988,Connecticut,13114,CT00166,23,1,22,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Wolcott Police Department,1987,Connecticut,12950,CT00166,21,1,20,6,5,1,0,0,1,0,0,0,1,1,0,0,0,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
-Wolcott Police Department,1986,Connecticut,12955,CT00166,21,2,19,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wolcott Police Department,1986,Connecticut,12955,CT00166,21,2,19,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Wolcott Police Department,1985,Connecticut,12978,CT00166,20,0,20,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wolcott Police Department,1984,Connecticut,12897,CT00166,20,0,20,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Wolcott Police Department,1983,Connecticut,13128,CT00166,20,1,19,4,4,0,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,0,0,1,0,0,0,0,5,0,0,0
@@ -39,5 +39,5 @@ Wolcott Police Department,1980,Connecticut,12949,CT00166,21,1,20,1,1,0,0,0,0,0,0
 Wolcott Police Department,1979,Connecticut,13282,CT00166,20,1,19,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wolcott Police Department,1978,Connecticut,13295,CT00166,19,1,18,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wolcott Police Department,1977,Connecticut,13860,CT00166,21,1,20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolcott Police Department,1976,Connecticut,14000,CT00166,18,1,17,3,1,2,0,0,2,1,1,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0
-Wolcott Police Department,1975,Connecticut,12926,CT00166,17,1,16,7,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wolcott Police Department,1976,Connecticut,14e3,CT00166,18,1,17,3,1,2,0,0,2,1,1,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0
+Wolcott Police Department,1975,Connecticut,12926,CT00166,17,1,16,7,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

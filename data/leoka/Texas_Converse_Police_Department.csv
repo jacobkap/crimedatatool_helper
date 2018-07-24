@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Converse Police Department,2016,Texas,22782,TX01505,36,5,31,15,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Converse Police Department,2015,Texas,21773,TX01505,34,5,29,14,11,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Converse Police Department,2015,Texas,21773,TX01505,34,5,29,14,11,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Converse Police Department,2014,Texas,20833,TX01505,34,5,29,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Converse Police Department,2013,Texas,20115,TX01505,32,5,27,13,10,3,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
 Converse Police Department,2012,Texas,18922,TX01505,33,6,27,11,9,2,0,0,1,0,0,0,1,1,0,0,0,1,2,0,0,0,2,0,0,0,0,0,0,0,1,0,0,1
@@ -15,9 +15,9 @@ Converse Police Department,2004,Texas,12168,TX01505,26,2,24,4,3,1,0,0,1,0,0,1,0,
 Converse Police Department,2003,Texas,12125,TX01505,23,2,21,3,3,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,1,0,0,0,1,0,0,1,0,0,0
 Converse Police Department,2002,Texas,12021,TX01505,26,2,24,6,4,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
 Converse Police Department,2001,Texas,11769,TX01505,23,3,20,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Converse Police Department,2000,Texas,11508,TX01505,23,3,20,4,4,0,0,0,0,0,0,0,0,2,0,1,1,0,2,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0
+Converse Police Department,2e3,Texas,11508,TX01505,23,3,20,4,4,0,0,0,0,0,0,0,0,2,0,1,1,0,2,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0
 Converse Police Department,1999,Texas,11579,TX01505,23,3,20,2,2,0,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0
-Converse Police Department,1998,Texas,11248,TX01505,18,3,15,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Converse Police Department,1998,Texas,11248,TX01505,18,3,15,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Converse Police Department,1997,Texas,12039,TX01505,20,3,17,2,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Converse Police Department,1996,Texas,11847,TX01505,20,4,16,2,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Converse Police Department,1995,Texas,11597,TX01505,18,4,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,7 +37,7 @@ Converse Police Department,1982,Texas,5357,TX01505,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0
 Converse Police Department,1981,Texas,5173,TX01505,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Converse Police Department,1980,Texas,4968,TX01505,9,0,9,1,1,0,0,0,1,0,0,0,1,1,0,1,0,0,2,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0
 Converse Police Department,1979,Texas,3319,TX01505,10,0,10,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-Converse Police Department,1978,Texas,5000,TX01505,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Converse Police Department,1978,Texas,5e3,TX01505,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Converse Police Department,1977,Texas,4801,TX01505,8,0,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Converse Police Department,1976,Texas,1375,TX01505,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Converse Police Department,1975,Texas,1404,TX01505,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Converse Police Department,1975,Texas,1404,TX01505,7,0,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

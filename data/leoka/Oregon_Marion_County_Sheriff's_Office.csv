@@ -5,17 +5,17 @@ Marion County Sheriff's Office,2014,Oregon,96068,OR02400,89,7,82,253,110,143,0,0
 Marion County Sheriff's Office,2013,Oregon,95393,OR02400,91,9,82,248,117,131,0,0,3,0,0,2,1,2,0,0,2,0,5,0,0,4,1,0,0,0,0,0,4,0,1,0,0,0
 Marion County Sheriff's Office,2012,Oregon,93953,OR02400,96,10,86,242,112,130,0,0,2,0,0,2,0,4,0,0,3,1,6,0,0,5,1,4,0,0,0,0,1,0,0,0,0,1
 Marion County Sheriff's Office,2011,Oregon,93217,OR02400,85,7,78,251,126,125,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,1,0,1,0,2,0,0,0
-Marion County Sheriff's Office,2010,Oregon,92234,OR02400,85,7,78,251,126,125,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marion County Sheriff's Office,2010,Oregon,92234,OR02400,85,7,78,251,126,125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Marion County Sheriff's Office,2009,Oregon,92101,OR02400,87,9,78,240,119,121,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
 Marion County Sheriff's Office,2008,Oregon,92363,OR02400,93,9,84,256,134,122,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,0,1
 Marion County Sheriff's Office,2007,Oregon,93021,OR02400,94,10,84,246,135,111,0,0,1,0,0,0,1,4,0,0,2,2,5,0,0,2,3,0,0,0,0,0,1,0,1,0,1,2
 Marion County Sheriff's Office,2006,Oregon,92088,OR02400,88,9,79,238,128,110,0,0,13,0,0,11,2,9,0,1,8,0,22,0,1,19,2,0,0,0,0,1,5,0,11,0,2,3
 Marion County Sheriff's Office,2005,Oregon,90707,OR02400,85,7,78,21,21,0,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,1,0,0,1,0,0,0,1,0,0,1
 Marion County Sheriff's Office,2004,Oregon,89791,OR02400,74,6,68,22,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Marion County Sheriff's Office,2003,Oregon,89189,OR02400,77,7,70,24,24,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Marion County Sheriff's Office,2002,Oregon,89330,OR02400,74,7,67,20,18,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Marion County Sheriff's Office,2001,Oregon,88097,OR02400,73,7,66,22,22,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Marion County Sheriff's Office,2000,Oregon,86791,OR02400,84,5,79,30,29,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marion County Sheriff's Office,2003,Oregon,89189,OR02400,77,7,70,24,24,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marion County Sheriff's Office,2002,Oregon,89330,OR02400,74,7,67,20,18,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marion County Sheriff's Office,2001,Oregon,88097,OR02400,73,7,66,22,22,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marion County Sheriff's Office,2e3,Oregon,86791,OR02400,84,5,79,30,29,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Marion County Sheriff's Office,1999,Oregon,90931,OR02400,75,5,70,30,28,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marion County Sheriff's Office,1998,Oregon,89082,OR02400,79,6,73,23,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marion County Sheriff's Office,1997,Oregon,87725,OR02400,69,4,65,29,27,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,7 +28,7 @@ Marion County Sheriff's Office,1991,Oregon,79005,OR02400,71,5,66,24,23,1,0,0,5,0
 Marion County Sheriff's Office,1990,Oregon,76851,OR02400,79,6,73,24,23,1,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,0,0,1,0,0,2,0,2,0,0,0
 Marion County Sheriff's Office,1989,Oregon,83566,OR02400,77,6,71,25,24,1,0,0,8,0,0,7,1,2,1,0,1,0,10,1,0,8,1,0,0,0,0,0,3,1,5,0,1,0
 Marion County Sheriff's Office,1988,Oregon,81474,OR02400,59,2,57,16,15,1,0,0,1,0,0,1,0,2,1,0,1,0,3,1,0,2,0,0,1,0,0,0,0,0,0,0,0,2
-Marion County Sheriff's Office,1987,Oregon,80916,OR02400,59,2,57,16,15,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marion County Sheriff's Office,1987,Oregon,80916,OR02400,59,2,57,16,15,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Marion County Sheriff's Office,1986,Oregon,80207,OR02400,48,1,47,12,10,2,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,1,0,1,0,1,1
 Marion County Sheriff's Office,1985,Oregon,79639,OR02400,48,2,46,13,10,3,0,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,0,2,0,0,0,0,3,0,1,0,0,0
 Marion County Sheriff's Office,1984,Oregon,78433,OR02400,48,2,46,12,10,2,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,1,0,1,0,0,0,0,2,0,0,1
@@ -40,4 +40,4 @@ Marion County Sheriff's Office,1979,Oregon,76357,OR02400,51,2,49,38,15,23,0,0,12
 Marion County Sheriff's Office,1978,Oregon,72742,OR02400,57,4,53,17,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marion County Sheriff's Office,1977,Oregon,69160,OR02400,58,2,56,61,29,32,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Marion County Sheriff's Office,1976,Oregon,69835,OR02400,70,13,57,5,4,1,0,0,3,0,0,2,1,2,0,0,2,0,5,0,0,4,1,1,0,0,0,0,1,0,1,0,0,2
-Marion County Sheriff's Office,1975,Oregon,71592,OR02400,52,1,51,19,14,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marion County Sheriff's Office,1975,Oregon,71592,OR02400,52,1,51,19,14,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

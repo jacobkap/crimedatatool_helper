@@ -15,14 +15,14 @@ Rupert Police Department,2004,Idaho,5456,ID03401,14,1,13,1,1,0,0,0,1,0,0,1,0,1,0
 Rupert Police Department,2003,Idaho,5504,ID03401,15,1,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rupert Police Department,2002,Idaho,5851,ID03401,16,0,16,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rupert Police Department,2001,Idaho,5763,ID03401,14,0,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rupert Police Department,2000,Idaho,5645,ID03401,14,0,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rupert Police Department,2e3,Idaho,5645,ID03401,14,0,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rupert Police Department,1999,Idaho,5516,ID03401,13,0,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rupert Police Department,1998,Idaho,5759,ID03401,13,0,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rupert Police Department,1997,Idaho,6339,ID03401,13,0,13,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-Rupert Police Department,1996,Idaho,6229,ID03401,13,0,13,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rupert Police Department,1996,Idaho,6229,ID03401,13,0,13,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rupert Police Department,1995,Idaho,6093,ID03401,13,0,13,1,1,0,0,0,0,0,0,0,0,3,1,0,2,0,3,1,0,2,0,0,0,0,0,0,0,0,2,0,0,1
-Rupert Police Department,1994,Idaho,5989,ID03401,14,0,14,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rupert Police Department,1993,Idaho,5810,ID03401,13,0,13,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rupert Police Department,1994,Idaho,5989,ID03401,14,0,14,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rupert Police Department,1993,Idaho,5810,ID03401,13,0,13,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rupert Police Department,1992,Idaho,5780,ID03401,13,0,13,1,1,0,0,0,4,0,0,4,0,2,0,0,11,0,6,0,0,6,0,0,0,2,0,0,0,0,4,0,0,0
 Rupert Police Department,1991,Idaho,5629,ID03401,12,0,12,2,2,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
 Rupert Police Department,1990,Idaho,5455,ID03401,12,0,12,1,1,0,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,2,0,0,0,0,2,0,0,0
@@ -34,7 +34,7 @@ Rupert Police Department,1985,Idaho,5609,ID03401,11,0,11,1,1,0,0,0,0,0,0,0,0,1,0
 Rupert Police Department,1984,Idaho,5586,ID03401,11,0,11,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Rupert Police Department,1983,Idaho,5722,ID03401,11,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rupert Police Department,1982,Idaho,5584,ID03401,12,1,11,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Rupert Police Department,1981,Idaho,5549,ID03401,12,1,11,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rupert Police Department,1981,Idaho,5549,ID03401,12,1,11,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rupert Police Department,1980,Idaho,5460,ID03401,13,1,12,1,1,0,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,0,0,1,0,0,0,0,1,0,0,3
 Rupert Police Department,1979,Idaho,6017,ID03401,13,1,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rupert Police Department,1978,Idaho,5300,ID03401,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

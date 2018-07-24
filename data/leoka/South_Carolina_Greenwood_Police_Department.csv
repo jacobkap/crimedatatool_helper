@@ -15,15 +15,15 @@ Greenwood Police Department,2004,South Carolina,22525,SC02401,52,5,47,9,8,1,0,0,
 Greenwood Police Department,2003,South Carolina,22397,SC02401,53,6,47,9,8,1,0,0,11,0,0,10,1,13,0,0,13,0,24,0,0,23,1,1,0,13,0,1,1,0,8,0,0,0
 Greenwood Police Department,2002,South Carolina,22595,SC02401,51,5,46,8,8,0,0,0,3,3,0,0,0,4,0,0,4,0,7,3,0,4,0,3,0,1,0,0,0,0,0,0,3,0
 Greenwood Police Department,2001,South Carolina,22352,SC02401,52,5,47,9,8,1,0,0,2,2,0,0,0,2,0,0,2,0,4,2,0,2,0,0,0,2,0,0,0,0,2,0,0,0
-Greenwood Police Department,2000,South Carolina,22071,SC02401,51,5,46,7,6,1,0,0,1,0,0,1,0,9,0,0,9,0,10,0,0,10,0,6,0,3,1,0,0,0,0,0,0,0
+Greenwood Police Department,2e3,South Carolina,22071,SC02401,51,5,46,7,6,1,0,0,1,0,0,1,0,9,0,0,9,0,10,0,0,10,0,6,0,3,1,0,0,0,0,0,0,0
 Greenwood Police Department,1999,South Carolina,19789,SC02401,54,4,50,8,7,1,0,0,1,0,0,1,0,4,0,0,3,1,5,0,0,4,1,1,0,2,0,0,1,0,1,0,0,0
 Greenwood Police Department,1998,South Carolina,20096,SC02401,48,3,45,9,8,1,0,0,4,0,0,3,1,4,0,0,4,0,8,0,0,7,1,0,0,2,0,0,3,1,0,0,0,2
 Greenwood Police Department,1997,South Carolina,23768,SC02401,50,3,47,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Greenwood Police Department,1996,South Carolina,23383,SC02401,52,6,46,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenwood Police Department,1996,South Carolina,23383,SC02401,52,6,46,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Greenwood Police Department,1995,South Carolina,23219,SC02401,56,5,51,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenwood Police Department,1994,South Carolina,22604,SC02401,52,5,47,8,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Greenwood Police Department,1993,South Carolina,22475,SC02401,52,7,45,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Greenwood Police Department,1992,South Carolina,21500,SC02401,51,4,47,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenwood Police Department,1993,South Carolina,22475,SC02401,52,7,45,9,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greenwood Police Department,1992,South Carolina,21500,SC02401,51,4,47,9,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Greenwood Police Department,1991,South Carolina,21244,SC02401,51,3,48,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenwood Police Department,1990,South Carolina,20807,SC02401,53,3,50,13,11,2,0,0,1,0,1,0,0,4,0,1,3,0,5,0,2,3,0,0,0,0,0,0,1,1,3,0,0,0
 Greenwood Police Department,1989,South Carolina,22798,SC02401,44,3,41,11,9,2,0,0,1,0,0,0,1,9,0,0,8,1,10,0,0,8,2,1,0,2,0,0,0,0,7,0,0,0
@@ -39,5 +39,5 @@ Greenwood Police Department,1980,South Carolina,21568,SC02401,45,1,44,16,12,4,0,
 Greenwood Police Department,1979,South Carolina,26034,SC02401,44,1,43,14,10,4,0,0,7,2,0,3,2,19,2,0,16,1,26,4,0,19,3,1,0,4,2,0,9,0,6,0,1,3
 Greenwood Police Department,1978,South Carolina,26562,SC02401,45,1,44,17,12,5,0,0,1,0,0,1,0,12,3,2,6,1,13,3,2,7,1,0,0,3,0,0,1,0,7,0,0,2
 Greenwood Police Department,1977,South Carolina,22794,SC02401,44,0,44,17,11,6,0,0,1,0,1,0,0,5,0,1,3,1,6,0,2,3,1,2,0,0,0,0,0,0,4,0,0,0
-Greenwood Police Department,1976,South Carolina,22000,SC02401,46,0,46,15,9,6,0,0,3,0,0,3,0,9,0,1,7,1,12,0,1,10,1,1,0,3,0,0,0,1,7,0,0,0
-Greenwood Police Department,1975,South Carolina,22500,SC02401,48,0,48,16,10,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenwood Police Department,1976,South Carolina,22e3,SC02401,46,0,46,15,9,6,0,0,3,0,0,3,0,9,0,1,7,1,12,0,1,10,1,1,0,3,0,0,0,1,7,0,0,0
+Greenwood Police Department,1975,South Carolina,22500,SC02401,48,0,48,16,10,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

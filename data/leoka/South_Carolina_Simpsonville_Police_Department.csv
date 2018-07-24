@@ -15,15 +15,15 @@ Simpsonville Police Department,2004,South Carolina,14962,SC02305,35,1,34,10,9,1,
 Simpsonville Police Department,2003,South Carolina,14843,SC02305,36,3,33,10,9,1,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,2,0,0,0,0,1
 Simpsonville Police Department,2002,South Carolina,14692,SC02305,37,4,33,9,8,1,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,1,0,0,0,1,1,0,1,0
 Simpsonville Police Department,2001,South Carolina,14534,SC02305,36,4,32,10,9,1,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,2,0,0,1,0,0,0,0,0
-Simpsonville Police Department,2000,South Carolina,14352,SC02305,35,3,32,9,8,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Simpsonville Police Department,2e3,South Carolina,14352,SC02305,35,3,32,9,8,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Simpsonville Police Department,1999,South Carolina,11812,SC02305,31,2,29,6,5,1,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,0,0,0,0,1,0,1,2
 Simpsonville Police Department,1998,South Carolina,12022,SC02305,32,3,29,9,8,1,0,0,3,0,0,2,1,2,1,0,1,0,5,1,0,3,1,1,0,1,1,0,0,0,1,0,0,1
 Simpsonville Police Department,1997,South Carolina,13299,SC02305,32,2,30,7,7,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Simpsonville Police Department,1996,South Carolina,13084,SC02305,29,2,27,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Simpsonville Police Department,1996,South Carolina,13084,SC02305,29,2,27,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Simpsonville Police Department,1995,South Carolina,12993,SC02305,28,2,26,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Simpsonville Police Department,1994,South Carolina,13498,SC02305,27,1,26,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Simpsonville Police Department,1993,South Carolina,13421,SC02305,27,1,26,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Simpsonville Police Department,1992,South Carolina,12098,SC02305,25,1,24,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Simpsonville Police Department,1993,South Carolina,13421,SC02305,27,1,26,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Simpsonville Police Department,1992,South Carolina,12098,SC02305,25,1,24,8,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Simpsonville Police Department,1991,South Carolina,11954,SC02305,23,2,21,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Simpsonville Police Department,1990,South Carolina,11708,SC02305,20,1,19,9,7,2,0,0,1,0,0,1,0,3,1,0,1,1,4,1,0,2,1,0,0,0,0,0,0,0,2,1,0,1
 Simpsonville Police Department,1989,South Carolina,15064,SC02305,20,1,19,6,5,1,0,0,1,0,0,0,1,3,0,0,2,1,4,0,0,2,2,0,0,0,0,0,0,0,2,0,0,2
@@ -39,5 +39,5 @@ Simpsonville Police Department,1980,South Carolina,9012,SC02305,12,1,11,6,4,2,0,
 Simpsonville Police Department,1979,South Carolina,7404,SC02305,12,1,11,5,4,1,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
 Simpsonville Police Department,1978,South Carolina,7700,SC02305,11,0,11,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Simpsonville Police Department,1977,South Carolina,7200,SC02305,12,0,12,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Simpsonville Police Department,1976,South Carolina,7000,SC02305,12,0,12,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Simpsonville Police Department,1975,South Carolina,5544,SC02305,12,0,12,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Simpsonville Police Department,1976,South Carolina,7e3,SC02305,12,0,12,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simpsonville Police Department,1975,South Carolina,5544,SC02305,12,0,12,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

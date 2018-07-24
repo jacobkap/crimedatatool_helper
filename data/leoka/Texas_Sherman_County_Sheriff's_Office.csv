@@ -6,7 +6,7 @@ Sherman County Sheriff's Office,2012,Texas,1036,TX21100,10,3,7,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,2011,Texas,1039,TX21100,5,0,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,2010,Texas,1017,TX21100,5,0,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,2009,Texas,1002,TX21100,5,0,5,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sherman County Sheriff's Office,2008,Texas,1000,TX21100,5,0,5,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sherman County Sheriff's Office,2008,Texas,1e3,TX21100,5,0,5,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,2007,Texas,1023,TX21100,4,0,4,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,2006,Texas,1110,TX21100,4,0,4,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,2005,Texas,1143,TX21100,4,0,4,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -14,7 +14,7 @@ Sherman County Sheriff's Office,2004,Texas,1174,TX21100,4,0,4,5,4,1,0,0,1,0,0,0,
 Sherman County Sheriff's Office,2003,Texas,1232,TX21100,4,0,4,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,2002,Texas,1247,TX21100,3,0,3,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,2001,Texas,1222,TX21100,4,0,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sherman County Sheriff's Office,2000,Texas,1195,TX21100,4,0,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sherman County Sheriff's Office,2e3,Texas,1195,TX21100,4,0,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,1999,Texas,1166,TX21100,4,0,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,1998,Texas,1170,TX21100,4,0,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,1997,Texas,1139,TX21100,4,0,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,6 +37,6 @@ Sherman County Sheriff's Office,1981,Texas,3309,TX21100,4,0,4,5,5,0,0,0,0,0,0,0,
 Sherman County Sheriff's Office,1980,Texas,3178,TX21100,4,0,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,1979,Texas,3806,TX21100,5,1,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sherman County Sheriff's Office,1978,Texas,3815,TX21100,5,1,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sherman County Sheriff's Office,1977,Texas,3712,TX21100,3,0,3,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sherman County Sheriff's Office,1976,Texas,3409,TX21100,3,0,3,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sherman County Sheriff's Office,1975,Texas,3655,TX21100,3,0,3,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sherman County Sheriff's Office,1977,Texas,3712,TX21100,3,0,3,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sherman County Sheriff's Office,1976,Texas,3409,TX21100,3,0,3,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sherman County Sheriff's Office,1975,Texas,3655,TX21100,3,0,3,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

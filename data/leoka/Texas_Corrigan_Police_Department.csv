@@ -14,7 +14,7 @@ Corrigan Police Department,2004,Texas,1923,TX18704,6,0,6,3,3,0,0,0,0,0,0,0,0,1,0
 Corrigan Police Department,2003,Texas,1884,TX18704,6,0,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Corrigan Police Department,2002,Texas,1798,TX18704,6,1,5,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Corrigan Police Department,2001,Texas,1760,TX18704,7,1,6,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Corrigan Police Department,2000,Texas,1721,TX18704,7,0,7,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Corrigan Police Department,2e3,Texas,1721,TX18704,7,0,7,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Corrigan Police Department,1999,Texas,2634,TX18704,8,0,8,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Corrigan Police Department,1998,Texas,2531,TX18704,8,0,8,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Corrigan Police Department,1997,Texas,1805,TX18704,6,0,6,4,4,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -31,8 +31,8 @@ Corrigan Police Department,1987,Texas,1963,TX18704,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0
 Corrigan Police Department,1986,Texas,2055,TX18704,5,0,5,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Corrigan Police Department,1985,Texas,1987,TX18704,5,1,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Corrigan Police Department,1984,Texas,1941,TX18704,5,1,4,4,4,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-Corrigan Police Department,1983,Texas,1965,TX18704,5,1,4,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Corrigan Police Department,1982,Texas,1910,TX18704,5,1,4,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corrigan Police Department,1983,Texas,1965,TX18704,5,1,4,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Corrigan Police Department,1982,Texas,1910,TX18704,5,1,4,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Corrigan Police Department,1981,Texas,1844,TX18704,4,1,3,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Corrigan Police Department,1980,Texas,1771,TX18704,4,1,3,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Corrigan Police Department,1979,Texas,1508,TX18704,3,0,3,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0

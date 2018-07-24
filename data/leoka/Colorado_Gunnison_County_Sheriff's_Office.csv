@@ -15,7 +15,7 @@ Gunnison County Sheriff's Office,2004,Colorado,6554,CO02600,12,0,12,14,8,6,0,0,0
 Gunnison County Sheriff's Office,2003,Colorado,6574,CO02600,12,0,12,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gunnison County Sheriff's Office,2002,Colorado,6613,CO02600,12,0,12,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gunnison County Sheriff's Office,2001,Colorado,6483,CO02600,11,0,11,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gunnison County Sheriff's Office,2000,Colorado,6311,CO02600,11,0,11,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gunnison County Sheriff's Office,2e3,Colorado,6311,CO02600,11,0,11,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gunnison County Sheriff's Office,1999,Colorado,5801,CO02600,11,0,11,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gunnison County Sheriff's Office,1998,Colorado,5668,CO02600,13,0,13,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gunnison County Sheriff's Office,1997,Colorado,5281,CO02600,11,0,11,12,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,12 +32,12 @@ Gunnison County Sheriff's Office,1987,Colorado,3450,CO02600,13,2,11,0,0,0,0,0,0,
 Gunnison County Sheriff's Office,1986,Colorado,3712,CO02600,13,3,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gunnison County Sheriff's Office,1985,Colorado,3011,CO02600,12,2,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gunnison County Sheriff's Office,1984,Colorado,3782,CO02600,11,0,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gunnison County Sheriff's Office,1983,Colorado,3982,CO02600,11,0,11,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Gunnison County Sheriff's Office,1982,Colorado,3863,CO02600,12,1,11,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Gunnison County Sheriff's Office,1981,Colorado,3759,CO02600,13,1,12,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Gunnison County Sheriff's Office,1980,Colorado,3652,CO02600,13,1,12,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gunnison County Sheriff's Office,1983,Colorado,3982,CO02600,11,0,11,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gunnison County Sheriff's Office,1982,Colorado,3863,CO02600,12,1,11,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gunnison County Sheriff's Office,1981,Colorado,3759,CO02600,13,1,12,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gunnison County Sheriff's Office,1980,Colorado,3652,CO02600,13,1,12,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gunnison County Sheriff's Office,1979,Colorado,2084,CO02600,11,1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gunnison County Sheriff's Office,1978,Colorado,2331,CO02600,9,1,8,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
-Gunnison County Sheriff's Office,1977,Colorado,3266,CO02600,8,1,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gunnison County Sheriff's Office,1977,Colorado,3266,CO02600,8,1,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gunnison County Sheriff's Office,1976,Colorado,3630,CO02600,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gunnison County Sheriff's Office,1975,Colorado,3115,CO02600,9,1,8,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0

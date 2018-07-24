@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Sedona Police Department,2016,Arizona,10457,AZ01314,22,2,20,15,10,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sedona Police Department,2016,Arizona,10457,AZ01314,22,2,20,15,10,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sedona Police Department,2015,Arizona,10340,AZ01314,24,3,21,13,8,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Sedona Police Department,2014,Arizona,10127,AZ01314,26,3,23,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sedona Police Department,2014,Arizona,10127,AZ01314,26,3,23,9,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sedona Police Department,2013,Arizona,10036,AZ01314,22,3,19,10,8,2,0,0,3,0,0,3,0,3,0,0,3,0,6,0,0,6,0,6,0,0,0,0,0,0,0,0,0,0
 Sedona Police Department,2012,Arizona,10173,AZ01314,24,3,21,9,7,2,0,0,9,0,0,9,0,4,0,0,4,0,13,0,0,13,0,7,0,2,0,0,0,0,3,0,1,0
 Sedona Police Department,2011,Arizona,10173,AZ01314,25,3,22,10,8,2,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,3,0,1,0,0,0,0,0,0,0,0
@@ -11,11 +11,11 @@ Sedona Police Department,2008,Arizona,11580,AZ01314,29,6,23,11,7,4,0,0,0,0,0,0,0
 Sedona Police Department,2007,Arizona,11484,AZ01314,28,4,24,9,6,3,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0
 Sedona Police Department,2006,Arizona,11649,AZ01314,28,5,23,9,6,3,0,0,5,0,0,5,0,5,0,0,4,1,10,0,0,9,1,0,0,2,0,0,3,0,5,0,0,0
 Sedona Police Department,2005,Arizona,11444,AZ01314,23,4,19,8,5,3,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
-Sedona Police Department,2004,Arizona,11224,AZ01314,22,2,20,9,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sedona Police Department,2004,Arizona,11224,AZ01314,22,2,20,9,6,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sedona Police Department,2003,Arizona,11002,AZ01314,24,3,21,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sedona Police Department,2002,Arizona,10839,AZ01314,26,4,22,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sedona Police Department,2002,Arizona,10839,AZ01314,26,4,22,9,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sedona Police Department,2001,Arizona,10543,AZ01314,29,4,25,10,8,2,0,0,1,0,0,1,0,2,0,0,0,2,3,0,0,1,2,0,0,0,0,0,2,0,0,0,0,1
-Sedona Police Department,2000,Arizona,10192,AZ01314,24,4,20,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sedona Police Department,2e3,Arizona,10192,AZ01314,24,4,20,10,9,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sedona Police Department,1999,Arizona,10138,AZ01314,23,4,19,9,7,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Sedona Police Department,1998,Arizona,9633,AZ01314,22,3,19,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sedona Police Department,1998,Arizona,9633,AZ01314,22,3,19,7,5,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sedona Police Department,1997,Arizona,9266,AZ01314,21,3,18,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

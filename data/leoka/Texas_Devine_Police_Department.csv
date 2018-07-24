@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Devine Police Department,2016,Texas,4775,TX16302,9,2,7,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devine Police Department,2015,Texas,4636,TX16302,10,2,8,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devine Police Department,2014,Texas,4587,TX16302,10,2,8,4,2,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Devine Police Department,2013,Texas,4464,TX16302,9,2,7,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Devine Police Department,2013,Texas,4464,TX16302,9,2,7,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Devine Police Department,2012,Texas,4452,TX16302,9,3,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devine Police Department,2011,Texas,4442,TX16302,9,3,6,2,2,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,0,1
 Devine Police Department,2010,Texas,4350,TX16302,9,3,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Devine Police Department,2004,Texas,4397,TX16302,9,1,8,2,2,0,0,0,0,0,0,0,0,0,0,0
 Devine Police Department,2003,Texas,4349,TX16302,9,1,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devine Police Department,2002,Texas,4324,TX16302,8,1,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devine Police Department,2001,Texas,4234,TX16302,8,1,7,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Devine Police Department,2000,Texas,4140,TX16302,7,1,6,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Devine Police Department,2e3,Texas,4140,TX16302,7,1,6,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Devine Police Department,1999,Texas,5204,TX16302,8,1,7,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devine Police Department,1998,Texas,5136,TX16302,7,1,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devine Police Department,1997,Texas,4616,TX16302,9,1,8,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,10 +32,10 @@ Devine Police Department,1987,Texas,4207,TX16302,5,0,5,5,5,0,0,0,0,0,0,0,0,1,1,0
 Devine Police Department,1986,Texas,4190,TX16302,4,0,4,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devine Police Department,1985,Texas,4114,TX16302,4,0,4,6,0,6,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,1,0,0,1,0,0,0
 Devine Police Department,1984,Texas,4018,TX16302,4,0,4,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Devine Police Department,1983,Texas,4129,TX16302,5,1,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Devine Police Department,1982,Texas,4013,TX16302,5,1,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Devine Police Department,1983,Texas,4129,TX16302,5,1,4,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devine Police Department,1982,Texas,4013,TX16302,5,1,4,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Devine Police Department,1981,Texas,3875,TX16302,4,0,4,1,1,0,0,0,2,0,0,0,2,6,0,0,5,1,8,0,0,5,3,2,0,1,0,0,0,0,0,0,0,5
 Devine Police Department,1980,Texas,3721,TX16302,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devine Police Department,1979,Texas,3821,TX16302,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Devine Police Department,1978,Texas,3748,TX16302,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Devine Police Department,1977,Texas,2995,TX16302,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Devine Police Department,1978,Texas,3748,TX16302,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devine Police Department,1977,Texas,2995,TX16302,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -15,7 +15,7 @@ Seward Police Dept,2004,Alaska,2909,AK00108,15,4,11,7,5,2,0,0,0,0,0,0,0,0,0,0,0,
 Seward Police Dept,2003,Alaska,2917,AK00108,10,1,9,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Seward Police Dept,2002,Alaska,2906,AK00108,9,1,8,12,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Seward Police Dept,2001,Alaska,2866,AK00108,8,1,7,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Seward Police Dept,2000,Alaska,2830,AK00108,9,1,8,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seward Police Dept,2e3,Alaska,2830,AK00108,9,1,8,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Seward Police Dept,1999,Alaska,3300,AK00108,9,1,8,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Seward Police Dept,1998,Alaska,3173,AK00108,9,1,8,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Seward Police Dept,1997,Alaska,2994,AK00108,9,1,8,12,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -29,12 +29,12 @@ Seward Police Dept,1990,Alaska,2699,AK00108,8,0,8,11,8,3,0,0,0,0,0,0,0,2,0,1,1,0
 Seward Police Dept,1989,Alaska,2150,AK00108,9,0,9,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Seward Police Dept,1988,Alaska,2093,AK00108,10,0,10,9,6,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Seward Police Dept,1987,Alaska,2143,AK00108,7,0,7,6,5,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
-Seward Police Dept,1986,Alaska,2169,AK00108,7,0,7,11,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Seward Police Dept,1986,Alaska,2169,AK00108,7,0,7,11,7,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Seward Police Dept,1985,Alaska,2322,AK00108,9,0,9,11,7,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-Seward Police Dept,1984,Alaska,2293,AK00108,8,0,8,11,7,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Seward Police Dept,1984,Alaska,2293,AK00108,8,0,8,11,7,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Seward Police Dept,1983,Alaska,2204,AK00108,8,0,8,14,8,6,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
-Seward Police Dept,1982,Alaska,2016,AK00108,13,1,12,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Seward Police Dept,1981,Alaska,1897,AK00108,8,0,8,9,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Seward Police Dept,1982,Alaska,2016,AK00108,13,1,12,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Seward Police Dept,1981,Alaska,1897,AK00108,8,0,8,9,6,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Seward Police Dept,1980,Alaska,1842,AK00108,9,0,9,7,5,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Seward Police Dept,1979,Alaska,1713,AK00108,8,0,8,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Seward Police Dept,1978,Alaska,2460,AK00108,9,0,9,8,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Seward Police Dept,1978,Alaska,2460,AK00108,9,0,9,8,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

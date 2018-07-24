@@ -15,11 +15,11 @@ Milford Police Department,2004,Michigan,15699,MI63585,19,2,17,7,7,0,0,0,0,0,0,0,
 Milford Police Department,2003,Michigan,15575,MI63585,18,2,16,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,2002,Michigan,15443,MI63585,18,2,16,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,2001,Michigan,15351,MI63585,17,2,15,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Milford Police Department,2000,Michigan,15271,MI63585,17,2,15,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Milford Police Department,2e3,Michigan,15271,MI63585,17,2,15,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,1999,Michigan,6455,MI63585,16,1,15,6,4,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
 Milford Police Department,1998,Michigan,6411,MI63585,16,1,15,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,1997,Michigan,6257,MI63585,14,1,13,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Milford Police Department,1996,Michigan,6142,MI63585,13,1,12,7,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Milford Police Department,1996,Michigan,6142,MI63585,13,1,12,7,2,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Milford Police Department,1995,Michigan,6114,MI63585,12,1,11,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,1994,Michigan,6031,MI63585,12,1,11,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,1993,Michigan,6020,MI63585,12,1,11,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,10 +32,10 @@ Milford Police Department,1987,Michigan,5145,MI63585,10,0,10,5,3,2,0,0,2,0,0,2,0
 Milford Police Department,1986,Michigan,5014,MI63585,9,0,9,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,1985,Michigan,4991,MI63585,10,0,10,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,1984,Michigan,4984,MI63585,10,0,10,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Milford Police Department,1983,Michigan,4957,MI63585,10,0,10,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Milford Police Department,1982,Michigan,4979,MI63585,10,0,10,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Milford Police Department,1983,Michigan,4957,MI63585,10,0,10,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Milford Police Department,1982,Michigan,4979,MI63585,10,0,10,6,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Milford Police Department,1981,Michigan,5029,MI63585,15,0,15,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,1980,Michigan,5044,MI63585,17,0,17,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,1978,Michigan,7082,MI63585,11,0,11,5,3,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Milford Police Department,1977,Michigan,4999,MI63585,10,0,10,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Milford Police Department,1976,Michigan,4951,MI63585,10,0,10,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Milford Police Department,1976,Michigan,4951,MI63585,10,0,10,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -15,7 +15,7 @@ Arlington Police Department,2004,Washington,14075,WA03101,25,3,22,4,3,1,0,0,0,0,
 Arlington Police Department,2003,Washington,13504,WA03101,22,1,21,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Arlington Police Department,2002,Washington,12060,WA03101,19,2,17,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Arlington Police Department,2001,Washington,11900,WA03101,19,2,17,4,3,1,0,0,0,0,0,0,0,8,0,0,7,1,8,0,0,7,1,0,0,0,0,0,0,0,8,0,0,0
-Arlington Police Department,2000,Washington,11713,WA03101,19,2,17,4,2,2,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
+Arlington Police Department,2e3,Washington,11713,WA03101,19,2,17,4,2,2,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
 Arlington Police Department,1999,Washington,6577,WA03101,14,1,13,2,1,1,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0
 Arlington Police Department,1998,Washington,5964,WA03101,13,1,12,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Arlington Police Department,1997,Washington,5065,WA03101,11,1,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -26,13 +26,13 @@ Arlington Police Department,1993,Washington,4481,WA03101,10,0,10,1,1,0,0,0,0,0,0
 Arlington Police Department,1992,Washington,4259,WA03101,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Arlington Police Department,1991,Washington,4162,WA03101,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Arlington Police Department,1990,Washington,4037,WA03101,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Arlington Police Department,1989,Washington,3677,WA03101,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Arlington Police Department,1989,Washington,3677,WA03101,8,0,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Arlington Police Department,1988,Washington,3580,WA03101,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Arlington Police Department,1987,Washington,3437,WA03101,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Arlington Police Department,1986,Washington,3339,WA03101,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Arlington Police Department,1985,Washington,3340,WA03101,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Arlington Police Department,1984,Washington,3295,WA03101,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Arlington Police Department,1985,Washington,3340,WA03101,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arlington Police Department,1984,Washington,3295,WA03101,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Arlington Police Department,1983,Washington,3422,WA03101,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Arlington Police Department,1982,Washington,3379,WA03101,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Arlington Police Department,1981,Washington,3353,WA03101,6,0,6,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Arlington Police Department,1980,Washington,3274,WA03101,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Arlington Police Department,1980,Washington,3274,WA03101,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

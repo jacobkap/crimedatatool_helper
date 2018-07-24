@@ -15,12 +15,12 @@ Newburgh City Police Department,2004,New York,28467,NY03502,83,5,78,14,10,4,0,0,
 Newburgh City Police Department,2003,New York,28430,NY03502,93,5,88,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,2002,New York,28529,NY03502,88,4,84,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,2001,New York,28311,NY03502,89,4,85,13,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newburgh City Police Department,2000,New York,28259,NY03502,88,2,86,15,10,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Newburgh City Police Department,2e3,New York,28259,NY03502,88,2,86,15,10,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Newburgh City Police Department,1999,New York,26145,NY03502,93,4,89,17,9,8,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
 Newburgh City Police Department,1998,New York,26525,NY03502,94,4,90,15,8,7,0,0,3,0,1,2,0,1,0,1,0,0,4,0,2,2,0,2,0,1,1,0,0,0,0,0,0,0
 Newburgh City Police Department,1997,New York,25659,NY03502,95,4,91,15,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,1996,New York,25727,NY03502,78,3,75,14,6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newburgh City Police Department,1995,New York,25658,NY03502,78,2,76,16,8,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newburgh City Police Department,1995,New York,25658,NY03502,78,2,76,16,8,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Newburgh City Police Department,1994,New York,26218,NY03502,67,1,66,15,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,1993,New York,26259,NY03502,74,2,72,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,1992,New York,26642,NY03502,74,2,72,9,7,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -29,7 +29,7 @@ Newburgh City Police Department,1990,New York,26454,NY03502,68,2,66,11,8,3,0,0,0
 Newburgh City Police Department,1989,New York,24656,NY03502,67,2,65,12,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,1988,New York,25007,NY03502,72,2,70,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,1987,New York,24443,NY03502,65,1,64,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newburgh City Police Department,1986,New York,24282,NY03502,65,1,64,14,10,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newburgh City Police Department,1986,New York,24282,NY03502,65,1,64,14,10,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Newburgh City Police Department,1985,New York,23904,NY03502,68,1,67,15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,1984,New York,23840,NY03502,70,2,68,12,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,1983,New York,23327,NY03502,72,2,70,12,8,4,0,0,18,0,0,17,1,2,0,0,2,0,20,0,0,19,1,1,0,8,0,0,2,0,6,0,3,0
@@ -37,7 +37,7 @@ Newburgh City Police Department,1982,New York,23317,NY03502,64,1,63,13,9,4,0,0,6
 Newburgh City Police Department,1981,New York,23231,NY03502,53,1,52,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,1980,New York,23116,NY03502,55,1,54,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,1979,New York,26800,NY03502,54,1,53,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newburgh City Police Department,1978,New York,27000,NY03502,55,1,54,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newburgh City Police Department,1977,New York,28276,NY03502,73,1,72,13,9,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newburgh City Police Department,1978,New York,27e3,NY03502,55,1,54,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newburgh City Police Department,1977,New York,28276,NY03502,73,1,72,13,9,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Newburgh City Police Department,1976,New York,27145,NY03502,81,1,80,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Newburgh City Police Department,1975,New York,26565,NY03502,87,1,86,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

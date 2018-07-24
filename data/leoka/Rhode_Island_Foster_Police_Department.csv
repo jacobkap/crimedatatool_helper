@@ -15,7 +15,7 @@ Foster Police Department,2004,Rhode Island,4494,RI00413,7,0,7,4,4,0,0,0,0,0,0,0,
 Foster Police Department,2003,Rhode Island,4451,RI00413,7,0,7,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Foster Police Department,2002,Rhode Island,4361,RI00413,7,0,7,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Foster Police Department,2001,Rhode Island,4317,RI00413,7,0,7,9,8,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Foster Police Department,2000,Rhode Island,4274,RI00413,7,0,7,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Foster Police Department,2e3,Rhode Island,4274,RI00413,7,0,7,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Foster Police Department,1999,Rhode Island,4420,RI00413,7,0,7,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Foster Police Department,1998,Rhode Island,4382,RI00413,7,0,7,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Foster Police Department,1997,Rhode Island,4436,RI00413,7,0,7,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -24,7 +24,7 @@ Foster Police Department,1995,Rhode Island,4450,RI00413,6,0,6,4,4,0,0,0,0,0,0,0,
 Foster Police Department,1994,Rhode Island,4256,RI00413,6,0,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Foster Police Department,1993,Rhode Island,4269,RI00413,6,0,6,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Foster Police Department,1992,Rhode Island,4322,RI00413,7,0,7,4,4,0,0,0,0,0,0,0,0,6,1,0,14,0,6,1,0,5,0,0,0,2,0,0,0,0,1,0,2,1
-Foster Police Department,1991,Rhode Island,4318,RI00413,8,0,8,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Foster Police Department,1991,Rhode Island,4318,RI00413,8,0,8,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Foster Police Department,1990,Rhode Island,4316,RI00413,8,0,8,4,3,1,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,0,0,0,0,0,1,0,0,0,0,2
 Foster Police Department,1989,Rhode Island,4323,RI00413,7,0,7,4,3,1,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,2,0,1,0,0,1,0,0,0,2,0
 Foster Police Department,1988,Rhode Island,3946,RI00413,7,0,7,3,2,1,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,1,0,0,2,0,2,0,0,0
@@ -36,8 +36,8 @@ Foster Police Department,1983,Rhode Island,3378,RI00413,6,0,6,3,3,0,0,0,2,0,0,2,
 Foster Police Department,1982,Rhode Island,3389,RI00413,6,0,6,3,3,0,0,0,2,0,0,1,1,5,0,0,4,1,7,0,0,5,2,0,0,1,0,1,1,0,3,0,0,1
 Foster Police Department,1981,Rhode Island,3368,RI00413,6,0,6,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Foster Police Department,1980,Rhode Island,3346,RI00413,5,0,5,1,0,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,1,0,1,0,0,0,0,1,0,1,0
-Foster Police Department,1979,Rhode Island,3381,RI00413,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Foster Police Department,1978,Rhode Island,3119,RI00413,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Foster Police Department,1979,Rhode Island,3381,RI00413,5,0,5,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Foster Police Department,1978,Rhode Island,3119,RI00413,4,0,4,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Foster Police Department,1977,Rhode Island,2612,RI00413,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Foster Police Department,1976,Rhode Island,2629,RI00413,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Foster Police Department,1975,Rhode Island,2600,RI00413,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Foster Police Department,1975,Rhode Island,2600,RI00413,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

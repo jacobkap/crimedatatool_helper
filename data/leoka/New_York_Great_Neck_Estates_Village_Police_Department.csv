@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Great Neck Estates Village Police Department,2016,New York,2839,NY02933,12,1,11,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,2015,New York,2824,NY02933,12,1,11,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Great Neck Estates Village Police Department,2014,New York,2809,NY02933,12,1,11,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Great Neck Estates Village Police Department,2014,New York,2809,NY02933,12,1,11,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Great Neck Estates Village Police Department,2013,New York,2794,NY02933,13,1,12,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,2012,New York,2788,NY02933,12,1,11,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,2011,New York,2773,NY02933,13,1,12,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -12,11 +12,11 @@ Great Neck Estates Village Police Department,2007,New York,2711,NY02933,13,1,12,
 Great Neck Estates Village Police Department,2006,New York,2745,NY02933,12,1,11,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,2005,New York,2756,NY02933,13,1,12,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,2004,New York,2751,NY02933,13,1,12,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Great Neck Estates Village Police Department,2003,New York,2771,NY02933,13,1,12,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Great Neck Estates Village Police Department,2003,New York,2771,NY02933,13,1,12,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Great Neck Estates Village Police Department,2002,New York,2783,NY02933,12,1,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,2001,New York,2761,NY02933,12,1,11,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Great Neck Estates Village Police Department,2000,New York,2756,NY02933,13,1,12,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Great Neck Estates Village Police Department,1999,New York,2788,NY02933,13,1,12,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Great Neck Estates Village Police Department,2e3,New York,2756,NY02933,13,1,12,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Great Neck Estates Village Police Department,1999,New York,2788,NY02933,13,1,12,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Great Neck Estates Village Police Department,1998,New York,2808,NY02933,13,1,12,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,1997,New York,2731,NY02933,14,1,13,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,1996,New York,2739,NY02933,13,0,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,12 +25,12 @@ Great Neck Estates Village Police Department,1994,New York,2784,NY02933,13,0,13,
 Great Neck Estates Village Police Department,1993,New York,2789,NY02933,13,0,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,1992,New York,2809,NY02933,14,0,14,1,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,1991,New York,2800,NY02933,14,0,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Great Neck Estates Village Police Department,1990,New York,2790,NY02933,14,0,14,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Great Neck Estates Village Police Department,1990,New York,2790,NY02933,14,0,14,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Great Neck Estates Village Police Department,1989,New York,3017,NY02933,14,0,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,1988,New York,2997,NY02933,14,0,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Great Neck Estates Village Police Department,1987,New York,3009,NY02933,14,0,14,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Great Neck Estates Village Police Department,1987,New York,3009,NY02933,14,0,14,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Great Neck Estates Village Police Department,1986,New York,2982,NY02933,14,0,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Great Neck Estates Village Police Department,1985,New York,2958,NY02933,14,0,14,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Great Neck Estates Village Police Department,1985,New York,2958,NY02933,14,0,14,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Great Neck Estates Village Police Department,1984,New York,2950,NY02933,13,0,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,1983,New York,2946,NY02933,13,0,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Great Neck Estates Village Police Department,1982,New York,2945,NY02933,12,0,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
@@ -40,4 +40,4 @@ Great Neck Estates Village Police Department,1979,New York,2928,NY02933,13,0,13,
 Great Neck Estates Village Police Department,1978,New York,2966,NY02933,13,0,13,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0
 Great Neck Estates Village Police Department,1977,New York,2997,NY02933,13,0,13,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Great Neck Estates Village Police Department,1976,New York,3015,NY02933,13,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Great Neck Estates Village Police Department,1975,New York,3094,NY02933,13,0,13,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Great Neck Estates Village Police Department,1975,New York,3094,NY02933,13,0,13,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

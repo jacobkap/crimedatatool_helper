@@ -3,7 +3,7 @@ Midfield Police Department,2015,Alabama,5240,AL00107,15,2,13,4,1,3,0,0,0,0,0,0,0
 Midfield Police Department,2014,Alabama,5265,AL00107,15,2,13,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Midfield Police Department,2013,Alabama,5310,AL00107,12,1,11,4,2,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Midfield Police Department,2012,Alabama,5392,AL00107,12,1,11,4,2,2,0,0,3,0,0,0,3,0,0,0,0,0,3,0,0,0,3,2,0,0,0,0,0,0,0,0,1,0
-Midfield Police Department,2011,Alabama,5391,AL00107,12,1,11,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Midfield Police Department,2011,Alabama,5391,AL00107,12,1,11,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Midfield Police Department,2010,Alabama,5365,AL00107,11,2,9,4,3,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Midfield Police Department,2009,Alabama,5139,AL00107,7,1,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Midfield Police Department,2008,Alabama,5158,AL00107,12,1,11,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -12,11 +12,11 @@ Midfield Police Department,2006,Alabama,5367,AL00107,15,1,14,4,3,1,0,0,0,0,0,0,0
 Midfield Police Department,2004,Alabama,5476,AL00107,11,1,10,4,4,0,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0
 Midfield Police Department,2003,Alabama,5525,AL00107,13,1,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Midfield Police Department,2001,Alabama,5648,AL00107,17,1,16,4,4,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
-Midfield Police Department,2000,Alabama,5626,AL00107,17,1,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Midfield Police Department,1999,Alabama,5171,AL00107,16,1,15,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Midfield Police Department,1998,Alabama,5323,AL00107,16,1,15,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Midfield Police Department,1997,Alabama,5526,AL00107,16,1,15,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Midfield Police Department,1996,Alabama,5468,AL00107,12,0,12,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Midfield Police Department,2e3,Alabama,5626,AL00107,17,1,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Midfield Police Department,1999,Alabama,5171,AL00107,16,1,15,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Midfield Police Department,1998,Alabama,5323,AL00107,16,1,15,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Midfield Police Department,1997,Alabama,5526,AL00107,16,1,15,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Midfield Police Department,1996,Alabama,5468,AL00107,12,0,12,4,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Midfield Police Department,1995,Alabama,5443,AL00107,12,0,12,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Midfield Police Department,1994,Alabama,5735,AL00107,12,0,12,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Midfield Police Department,1993,Alabama,5692,AL00107,10,0,10,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,6 +35,6 @@ Midfield Police Department,1981,Alabama,6667,AL00107,14,0,14,4,0,4,0,0,0,0,0,0,0
 Midfield Police Department,1980,Alabama,6574,AL00107,13,0,13,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Midfield Police Department,1979,Alabama,6718,AL00107,13,0,13,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Midfield Police Department,1978,Alabama,6810,AL00107,13,0,13,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Midfield Police Department,1977,Alabama,8000,AL00107,13,0,13,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Midfield Police Department,1977,Alabama,8e3,AL00107,13,0,13,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Midfield Police Department,1976,Alabama,7250,AL00107,13,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Midfield Police Department,1975,Alabama,7236,AL00107,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

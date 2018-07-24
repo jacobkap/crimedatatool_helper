@@ -15,14 +15,14 @@ Belding Police Department,2004,Michigan,5871,MI34244,9,3,6,2,1,1,0,0,0,0,0,0,0,0
 Belding Police Department,2003,Michigan,5818,MI34244,9,3,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Belding Police Department,2002,Michigan,5943,MI34244,9,2,7,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Belding Police Department,2001,Michigan,5908,MI34244,9,2,7,2,1,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,2,1
-Belding Police Department,2000,Michigan,5877,MI34244,11,2,9,2,1,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
+Belding Police Department,2e3,Michigan,5877,MI34244,11,2,9,2,1,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Belding Police Department,1999,Michigan,6158,MI34244,11,1,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Belding Police Department,1998,Michigan,6200,MI34244,10,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Belding Police Department,1997,Michigan,6621,MI34244,9,1,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Belding Police Department,1996,Michigan,6500,MI34244,9,1,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Belding Police Department,1995,Michigan,6470,MI34244,9,1,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Belding Police Department,1994,Michigan,6241,MI34244,8,1,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Belding Police Department,1993,Michigan,6230,MI34244,8,1,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Belding Police Department,1997,Michigan,6621,MI34244,9,1,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Belding Police Department,1996,Michigan,6500,MI34244,9,1,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Belding Police Department,1995,Michigan,6470,MI34244,9,1,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Belding Police Department,1994,Michigan,6241,MI34244,8,1,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Belding Police Department,1993,Michigan,6230,MI34244,8,1,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Belding Police Department,1992,Michigan,6059,MI34244,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Belding Police Department,1991,Michigan,6015,MI34244,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Belding Police Department,1990,Michigan,5969,MI34244,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Belding Police Department,1980,Michigan,5647,MI34244,8,0,8,0,0,0,0,0,0,0,0,0,0,1
 Belding Police Department,1979,Michigan,5609,MI34244,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Belding Police Department,1978,Michigan,5637,MI34244,7,0,7,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Belding Police Department,1977,Michigan,5861,MI34244,7,0,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Belding Police Department,1976,Michigan,5757,MI34244,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Belding Police Department,1976,Michigan,5757,MI34244,7,0,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Belding Police Department,1975,Michigan,5695,MI34244,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

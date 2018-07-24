@@ -1,16 +1,16 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Norwood Police Department,2011,Ohio,19221,OH03128,48,1,47,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Norwood Police Department,2010,Ohio,19207,OH03128,52,1,51,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Norwood Police Department,2009,Ohio,20207,OH03128,54,1,53,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Norwood Police Department,2008,Ohio,19923,OH03128,52,1,51,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Norwood Police Department,2007,Ohio,19255,OH03128,52,1,51,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Norwood Police Department,2006,Ohio,20021,OH03128,50,2,48,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Norwood Police Department,2005,Ohio,20414,OH03128,50,2,48,8,2,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Norwood Police Department,2011,Ohio,19221,OH03128,48,1,47,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norwood Police Department,2010,Ohio,19207,OH03128,52,1,51,8,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norwood Police Department,2009,Ohio,20207,OH03128,54,1,53,8,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norwood Police Department,2008,Ohio,19923,OH03128,52,1,51,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norwood Police Department,2007,Ohio,19255,OH03128,52,1,51,6,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norwood Police Department,2006,Ohio,20021,OH03128,50,2,48,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norwood Police Department,2005,Ohio,20414,OH03128,50,2,48,8,2,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Norwood Police Department,2004,Ohio,20823,OH03128,52,2,50,0,0,0,0,0,4,0,0,4,0,3,0,0,1,2,7,0,0,5,2,0,0,7,0,0,0,0,0,0,0,0
 Norwood Police Department,2003,Ohio,21012,OH03128,51,2,49,2,2,0,0,0,8,0,0,6,2,5,0,0,5,0,13,0,0,11,2,0,0,12,0,0,1,0,0,0,0,0
 Norwood Police Department,2002,Ohio,21805,OH03128,48,2,46,2,2,0,0,0,11,0,0,11,0,2,0,0,1,1,13,0,0,12,1,0,0,12,0,0,0,0,0,0,1,0
 Norwood Police Department,2001,Ohio,21714,OH03128,49,2,47,1,1,0,0,0,4,0,0,4,0,4,0,2,2,0,8,0,2,6,0,0,0,8,0,0,0,0,0,0,0,0
-Norwood Police Department,2000,Ohio,21675,OH03128,45,1,44,7,1,6,0,0,8,0,0,7,1,6,0,0,6,0,14,0,0,13,1,0,0,8,1,3,2,0,0,0,0,0
+Norwood Police Department,2e3,Ohio,21675,OH03128,45,1,44,7,1,6,0,0,8,0,0,7,1,6,0,0,6,0,14,0,0,13,1,0,0,8,1,3,2,0,0,0,0,0
 Norwood Police Department,1999,Ohio,21540,OH03128,47,1,46,1,1,0,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,3,0,0,1,0,1,0,1,0
 Norwood Police Department,1998,Ohio,22133,OH03128,46,1,45,1,1,0,0,0,0,0,0,0,0,8,0,0,8,0,8,0,0,8,0,0,0,2,0,0,5,1,0,0,0,0
 Norwood Police Department,1997,Ohio,22544,OH03128,47,1,46,1,1,0,0,0,0,0,0,0,0,16,0,0,10,6,16,0,0,10,6,1,0,5,0,0,4,0,2,0,1,3
@@ -29,10 +29,10 @@ Norwood Police Department,1985,Ohio,25777,OH03128,53,1,52,2,2,0,0,0,0,0,0,0,0,28
 Norwood Police Department,1984,Ohio,25797,OH03128,51,1,50,3,2,1,0,0,0,0,0,0,0,14,0,0,14,0,14,0,0,14,0,0,0,2,0,0,11,0,1,0,0,0
 Norwood Police Department,1983,Ohio,26075,OH03128,51,1,50,1,1,0,0,0,0,0,0,0,0,28,0,0,27,1,28,0,0,27,1,0,0,4,0,1,6,0,12,0,3,2
 Norwood Police Department,1982,Ohio,26185,OH03128,51,1,50,1,1,0,0,0,1,0,1,0,0,28,0,0,28,0,29,0,1,28,0,0,0,3,1,0,17,0,5,0,3,0
-Norwood Police Department,1981,Ohio,26148,OH03128,47,0,47,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Norwood Police Department,1981,Ohio,26148,OH03128,47,0,47,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Norwood Police Department,1980,Ohio,26126,OH03128,48,0,48,1,1,0,0,0,4,0,0,4,0,35,0,0,35,0,39,0,0,39,0,2,0,4,0,0,9,0,22,0,2,0
 Norwood Police Department,1979,Ohio,25582,OH03128,55,0,55,2,2,0,0,0,13,0,0,12,1,24,0,0,22,2,37,0,0,34,3,0,0,6,1,4,10,0,11,0,1,4
 Norwood Police Department,1978,Ohio,25326,OH03128,56,0,56,2,2,0,0,0,5,0,0,5,0,5,0,0,4,1,10,0,0,9,1,0,0,1,0,0,2,0,4,0,0,3
-Norwood Police Department,1977,Ohio,27000,OH03128,52,0,52,2,2,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
+Norwood Police Department,1977,Ohio,27e3,OH03128,52,0,52,2,2,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
 Norwood Police Department,1976,Ohio,29356,OH03128,52,0,52,2,2,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
 Norwood Police Department,1975,Ohio,27686,OH03128,54,0,54,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

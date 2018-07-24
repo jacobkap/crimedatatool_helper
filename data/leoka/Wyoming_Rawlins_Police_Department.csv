@@ -15,11 +15,11 @@ Rawlins Police Department,2004,Wyoming,8756,WY00401,21,1,20,12,10,2,0,0,0,0,0,0,
 Rawlins Police Department,2003,Wyoming,8733,WY00401,19,1,18,11,9,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Rawlins Police Department,2002,Wyoming,8624,WY00401,21,2,19,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rawlins Police Department,2001,Wyoming,8549,WY00401,21,1,20,10,10,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Rawlins Police Department,2000,Wyoming,8538,WY00401,21,1,20,10,10,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+Rawlins Police Department,2e3,Wyoming,8538,WY00401,21,1,20,10,10,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Rawlins Police Department,1999,Wyoming,8723,WY00401,21,1,20,10,10,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,0,0,2,0,2,0,0,1
-Rawlins Police Department,1998,Wyoming,8901,WY00401,19,1,18,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rawlins Police Department,1998,Wyoming,8901,WY00401,19,1,18,11,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rawlins Police Department,1997,Wyoming,9315,WY00401,19,1,18,12,12,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,0,1
-Rawlins Police Department,1996,Wyoming,9335,WY00401,20,0,20,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rawlins Police Department,1996,Wyoming,9335,WY00401,20,0,20,11,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rawlins Police Department,1995,Wyoming,9316,WY00401,20,0,20,12,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rawlins Police Department,1994,Wyoming,9376,WY00401,19,0,19,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rawlins Police Department,1993,Wyoming,9258,WY00401,19,0,19,11,10,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
@@ -37,7 +37,7 @@ Rawlins Police Department,1982,Wyoming,12294,WY00401,27,1,26,11,9,2,0,0,0,0,0,0,
 Rawlins Police Department,1981,Wyoming,12049,WY00401,25,2,23,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rawlins Police Department,1980,Wyoming,11485,WY00401,31,4,27,10,9,1,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,0,0,0,1,0,3,0,0,0
 Rawlins Police Department,1979,Wyoming,11326,WY00401,23,2,21,11,9,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
-Rawlins Police Department,1978,Wyoming,13550,WY00401,18,2,16,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rawlins Police Department,1977,Wyoming,14000,WY00401,16,0,16,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rawlins Police Department,1978,Wyoming,13550,WY00401,18,2,16,8,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rawlins Police Department,1977,Wyoming,14e3,WY00401,16,0,16,8,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rawlins Police Department,1976,Wyoming,13500,WY00401,16,0,16,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rawlins Police Department,1975,Wyoming,11000,WY00401,16,0,16,5,5,0,0,0,3,1,0,0,2,2,2,0,0,0,5,3,0,1,1,0,0,0,0,0,0,0,2,0,3,0
+Rawlins Police Department,1975,Wyoming,11e3,WY00401,16,0,16,5,5,0,0,0,3,1,0,0,2,2,2,0,0,0,5,3,0,1,1,0,0,0,0,0,0,0,2,0,3,0

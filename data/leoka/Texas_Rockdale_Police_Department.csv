@@ -15,7 +15,7 @@ Rockdale Police Department,2004,Texas,6125,TX16602,11,1,10,5,4,1,0,0,0,0,0,0,0,0
 Rockdale Police Department,2003,Texas,5524,TX16602,10,1,9,4,3,1,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0
 Rockdale Police Department,2002,Texas,5681,TX16602,11,2,9,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockdale Police Department,2001,Texas,5562,TX16602,11,2,9,5,5,0,0,0,2,0,0,2,0,1,0,0,0,1,3,0,0,2,1,0,0,0,0,0,2,0,0,0,0,1
-Rockdale Police Department,2000,Texas,5439,TX16602,10,1,9,4,4,0,0,0,2,0,0,2,0,1,0,0,0,1,3,0,0,2,1,0,0,0,0,0,2,0,0,0,0,1
+Rockdale Police Department,2e3,Texas,5439,TX16602,10,1,9,4,4,0,0,0,2,0,0,2,0,1,0,0,0,1,3,0,0,2,1,0,0,0,0,0,2,0,0,0,0,1
 Rockdale Police Department,1999,Texas,5486,TX16602,9,2,7,6,5,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Rockdale Police Department,1998,Texas,5580,TX16602,10,2,8,5,3,2,0,0,1,0,0,0,1,1,0,0,1,0,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1
 Rockdale Police Department,1997,Texas,5759,TX16602,9,1,8,5,4,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0
@@ -32,12 +32,12 @@ Rockdale Police Department,1987,Texas,5978,TX16602,9,2,7,7,3,4,0,0,2,0,0,2,0,0,0
 Rockdale Police Department,1986,Texas,6062,TX16602,8,2,6,3,3,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Rockdale Police Department,1985,Texas,6015,TX16602,7,1,6,7,6,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Rockdale Police Department,1984,Texas,5875,TX16602,6,0,6,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rockdale Police Department,1983,Texas,6180,TX16602,6,0,6,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rockdale Police Department,1982,Texas,6006,TX16602,6,0,6,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rockdale Police Department,1983,Texas,6180,TX16602,6,0,6,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rockdale Police Department,1982,Texas,6006,TX16602,6,0,6,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rockdale Police Department,1981,Texas,5800,TX16602,5,0,5,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockdale Police Department,1980,Texas,5570,TX16602,6,0,6,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockdale Police Department,1979,Texas,5001,TX16602,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockdale Police Department,1978,Texas,5244,TX16602,6,0,6,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rockdale Police Department,1977,Texas,5200,TX16602,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rockdale Police Department,1976,Texas,5000,TX16602,11,4,7,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0
-Rockdale Police Department,1975,Texas,5000,TX16602,6,0,6,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Rockdale Police Department,1976,Texas,5e3,TX16602,11,4,7,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0
+Rockdale Police Department,1975,Texas,5e3,TX16602,6,0,6,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0

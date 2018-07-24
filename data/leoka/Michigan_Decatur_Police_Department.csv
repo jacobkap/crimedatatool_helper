@@ -15,13 +15,13 @@ Decatur Police Department,2004,Michigan,1888,MI80345,4,0,4,0,0,0,0,0,0,0,0,0,0,0
 Decatur Police Department,2003,Michigan,1822,MI80345,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Decatur Police Department,2002,Michigan,1859,MI80345,4,0,4,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
 Decatur Police Department,2001,Michigan,1848,MI80345,4,0,4,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
-Decatur Police Department,2000,Michigan,1838,MI80345,4,0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Decatur Police Department,1999,Michigan,1767,MI80345,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Decatur Police Department,2e3,Michigan,1838,MI80345,4,0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Decatur Police Department,1999,Michigan,1767,MI80345,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Decatur Police Department,1998,Michigan,1807,MI80345,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Decatur Police Department,1997,Michigan,1925,MI80345,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Decatur Police Department,1996,Michigan,1890,MI80345,4,1,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Decatur Police Department,1996,Michigan,1890,MI80345,4,1,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Decatur Police Department,1995,Michigan,1882,MI80345,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Decatur Police Department,1994,Michigan,1843,MI80345,4,1,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Decatur Police Department,1994,Michigan,1843,MI80345,4,1,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Decatur Police Department,1993,Michigan,1840,MI80345,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Decatur Police Department,1992,Michigan,1786,MI80345,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Decatur Police Department,1991,Michigan,1773,MI80345,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,7 +37,7 @@ Decatur Police Department,1982,Michigan,1886,MI80345,4,1,3,0,0,0,0,0,1,0,0,0,1,0
 Decatur Police Department,1981,Michigan,1905,MI80345,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Decatur Police Department,1980,Michigan,1911,MI80345,5,1,4,1,1,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0
 Decatur Police Department,1979,Michigan,1802,MI80345,4,1,3,1,1,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,0,0,1,0,1,1
-Decatur Police Department,1978,Michigan,2000,MI80345,4,1,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Decatur Police Department,1978,Michigan,2e3,MI80345,4,1,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Decatur Police Department,1977,Michigan,2250,MI80345,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Decatur Police Department,1976,Michigan,1815,MI80345,3,1,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Decatur Police Department,1976,Michigan,1815,MI80345,3,1,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Decatur Police Department,1975,Michigan,1926,MI80345,4,1,3,0,0,0,0,0,2,0,0,2,0,3,0,0,1,2,5,0,0,3,2,0,0,0,0,0,0,0,5,0,0,0

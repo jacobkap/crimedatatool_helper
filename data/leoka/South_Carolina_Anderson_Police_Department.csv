@@ -14,15 +14,15 @@ Anderson Police Department,2005,South Carolina,26064,SC00401,86,5,81,28,17,11,0,
 Anderson Police Department,2004,South Carolina,25877,SC00401,87,9,78,32,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anderson Police Department,2003,South Carolina,25940,SC00401,90,8,82,29,17,12,0,0,2,0,0,2,0,4,1,0,2,1,6,1,0,4,1,0,0,0,0,0,0,0,3,0,2,1
 Anderson Police Department,2002,South Carolina,26120,SC00401,86,7,79,47,16,31,0,0,1,0,0,1,0,4,0,0,3,1,5,0,0,4,1,0,0,0,0,0,0,0,2,0,1,2
-Anderson Police Department,2000,South Carolina,25514,SC00401,81,7,74,30,18,12,0,0,4,1,0,3,0,6,0,0,5,1,10,1,0,8,1,1,0,2,0,0,0,0,3,0,0,4
+Anderson Police Department,2e3,South Carolina,25514,SC00401,81,7,74,30,18,12,0,0,4,1,0,3,0,6,0,0,5,1,10,1,0,8,1,1,0,2,0,0,0,0,3,0,0,4
 Anderson Police Department,1999,South Carolina,26437,SC00401,80,6,74,28,16,12,0,0,3,0,0,3,0,9,1,0,7,1,12,1,0,10,1,0,0,0,0,0,0,0,11,0,0,1
 Anderson Police Department,1998,South Carolina,27297,SC00401,79,6,73,26,20,6,0,0,4,0,0,4,0,14,1,0,13,0,18,1,0,17,0,1,0,0,1,0,0,0,13,0,0,3
 Anderson Police Department,1997,South Carolina,30499,SC00401,77,4,73,26,20,6,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Anderson Police Department,1996,South Carolina,30005,SC00401,73,4,69,23,17,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Anderson Police Department,1996,South Carolina,30005,SC00401,73,4,69,23,17,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Anderson Police Department,1995,South Carolina,29795,SC00401,64,4,60,23,19,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Anderson Police Department,1994,South Carolina,28403,SC00401,64,4,60,23,19,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Anderson Police Department,1993,South Carolina,28241,SC00401,64,2,62,23,17,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Anderson Police Department,1992,South Carolina,27056,SC00401,64,2,62,23,17,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Anderson Police Department,1993,South Carolina,28241,SC00401,64,2,62,23,17,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anderson Police Department,1992,South Carolina,27056,SC00401,64,2,62,23,17,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Anderson Police Department,1991,South Carolina,26734,SC00401,63,2,61,22,17,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anderson Police Department,1990,South Carolina,26184,SC00401,64,2,62,22,18,4,0,0,0,0,0,0,0,9,0,0,8,1,9,0,0,8,1,2,0,1,0,0,1,0,3,0,2,0
 Anderson Police Department,1989,South Carolina,29824,SC00401,64,2,62,23,5,18,0,0,1,0,0,1,0,6,1,0,4,1,7,1,0,5,1,0,0,2,0,0,0,0,3,0,0,2
@@ -38,5 +38,5 @@ Anderson Police Department,1980,South Carolina,27819,SC00401,59,0,59,15,10,5,0,0
 Anderson Police Department,1979,South Carolina,30328,SC00401,61,0,61,12,9,3,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,2,0,1,0,0,0,0,2,0,0,0
 Anderson Police Department,1978,South Carolina,32500,SC00401,61,0,61,21,9,12,0,0,9,0,1,5,3,6,1,0,5,0,15,1,1,10,3,0,0,5,0,0,0,0,3,1,5,1
 Anderson Police Department,1977,South Carolina,31900,SC00401,59,0,59,10,7,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
-Anderson Police Department,1976,South Carolina,30000,SC00401,62,0,62,10,6,4,0,0,0,0,0,0,0,8,3,0,4,1,8,3,0,4,1,0,0,4,0,0,0,0,3,0,1,0
-Anderson Police Department,1975,South Carolina,31000,SC00401,62,0,62,11,8,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Anderson Police Department,1976,South Carolina,3e4,SC00401,62,0,62,10,6,4,0,0,0,0,0,0,0,8,3,0,4,1,8,3,0,4,1,0,0,4,0,0,0,0,3,0,1,0
+Anderson Police Department,1975,South Carolina,31e3,SC00401,62,0,62,11,8,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

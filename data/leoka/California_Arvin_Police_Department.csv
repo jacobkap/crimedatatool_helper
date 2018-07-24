@@ -15,7 +15,7 @@ Arvin Police Department,2004,California,14171,CA01501,11,2,9,7,4,3,0,0,3,0,0,1,2
 Arvin Police Department,2003,California,13797,CA01501,10,1,9,6,3,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Arvin Police Department,2002,California,13432,CA01501,10,1,9,8,4,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Arvin Police Department,2001,California,13197,CA01501,13,1,12,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Arvin Police Department,2000,California,12956,CA01501,14,0,14,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arvin Police Department,2e3,California,12956,CA01501,14,0,14,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Arvin Police Department,1999,California,11331,CA01501,12,0,12,7,0,7,0,0,1,0,0,1,0,2,0,2,0,0,3,0,2,1,0,0,0,0,0,0,0,0,2,0,1,0
 Arvin Police Department,1998,California,10979,CA01501,12,0,12,6,6,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Arvin Police Department,1997,California,10431,CA01501,11,0,11,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,9 +35,9 @@ Arvin Police Department,1984,California,7600,CA01501,11,0,11,5,4,1,0,0,6,0,0,6,0
 Arvin Police Department,1983,California,7260,CA01501,12,0,12,7,6,1,0,0,3,0,0,2,1,5,0,0,5,0,8,0,0,7,1,0,0,3,0,0,0,0,4,0,0,1
 Arvin Police Department,1982,California,7131,CA01501,11,0,11,6,5,1,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,0,0,2,0,0,0,0,3
 Arvin Police Department,1981,California,6968,CA01501,10,0,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Arvin Police Department,1980,California,6787,CA01501,12,0,12,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Arvin Police Department,1979,California,6271,CA01501,12,0,12,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Arvin Police Department,1980,California,6787,CA01501,12,0,12,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arvin Police Department,1979,California,6271,CA01501,12,0,12,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Arvin Police Department,1978,California,6149,CA01501,12,0,12,6,6,0,0,0,8,0,0,8,0,7,0,0,7,0,15,0,0,15,0,0,0,2,2,3,1,0,0,0,0,7
-Arvin Police Department,1977,California,6022,CA01501,13,0,13,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Arvin Police Department,1976,California,5925,CA01501,11,0,11,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Arvin Police Department,1977,California,6022,CA01501,13,0,13,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arvin Police Department,1976,California,5925,CA01501,11,0,11,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Arvin Police Department,1975,California,5343,CA01501,9,0,9,4,3,1,0,0,0,0,0,0,0,7,0,0,7,0,7,0,0,7,0,1,0,0,0,0,0,0,4,0,2,0

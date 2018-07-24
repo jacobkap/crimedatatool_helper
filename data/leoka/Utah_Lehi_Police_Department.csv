@@ -14,7 +14,7 @@ Lehi Police Department,2004,Utah,23638,UT02502,26,1,25,3,3,0,0,0,0,0,0,0,0,0,0,0
 Lehi Police Department,2003,Utah,22173,UT02502,24,2,22,2,2,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
 Lehi Police Department,2002,Utah,19736,UT02502,24,2,22,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lehi Police Department,2001,Utah,19340,UT02502,22,2,20,5,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lehi Police Department,2000,Utah,19028,UT02502,20,2,18,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lehi Police Department,2e3,Utah,19028,UT02502,20,2,18,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lehi Police Department,1999,Utah,15516,UT02502,18,1,17,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
 Lehi Police Department,1998,Utah,14432,UT02502,17,1,16,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lehi Police Department,1997,Utah,11400,UT02502,15,1,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -24,7 +24,7 @@ Lehi Police Department,1994,Utah,9382,UT02502,12,1,11,1,1,0,0,0,0,0,0,0,0,0,0,0,
 Lehi Police Department,1993,Utah,9146,UT02502,10,1,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lehi Police Department,1992,Utah,8917,UT02502,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lehi Police Department,1991,Utah,8706,UT02502,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lehi Police Department,1990,Utah,8475,UT02502,9,0,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lehi Police Department,1990,Utah,8475,UT02502,9,0,9,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lehi Police Department,1989,Utah,8334,UT02502,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lehi Police Department,1988,Utah,8196,UT02502,9,0,9,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Lehi Police Department,1987,Utah,8172,UT02502,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,8 +35,8 @@ Lehi Police Department,1983,Utah,7599,UT02502,8,0,8,1,0,1,0,0,0,0,0,0,0,1,0,0,1,
 Lehi Police Department,1982,Utah,7294,UT02502,8,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lehi Police Department,1981,Utah,7116,UT02502,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lehi Police Department,1980,Utah,6847,UT02502,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lehi Police Department,1979,Utah,6818,UT02502,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lehi Police Department,1979,Utah,6818,UT02502,8,0,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lehi Police Department,1978,Utah,6500,UT02502,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lehi Police Department,1977,Utah,6050,UT02502,1,0,1,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lehi Police Department,1976,Utah,6029,UT02502,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lehi Police Department,1977,Utah,6050,UT02502,1,0,1,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lehi Police Department,1976,Utah,6029,UT02502,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lehi Police Department,1975,Utah,5605,UT02502,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

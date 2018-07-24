@@ -3,7 +3,7 @@ Diamondville Police Dept,2016,Wyoming,738,WY01203,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,
 Diamondville Police Dept,2015,Wyoming,741,WY01203,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,2014,Wyoming,733,WY01203,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,2013,Wyoming,724,WY01203,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Diamondville Police Dept,2012,Wyoming,746,WY01203,2,0,2,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Diamondville Police Dept,2012,Wyoming,746,WY01203,2,0,2,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Diamondville Police Dept,2011,Wyoming,743,WY01203,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,2010,Wyoming,737,WY01203,3,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,2009,Wyoming,657,WY01203,3,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,9 +15,9 @@ Diamondville Police Dept,2004,Wyoming,709,WY01203,3,1,2,1,1,0,0,0,0,0,0,0,0,0,0,
 Diamondville Police Dept,2003,Wyoming,708,WY01203,3,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,2002,Wyoming,723,WY01203,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,2001,Wyoming,717,WY01203,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Diamondville Police Dept,2000,Wyoming,716,WY01203,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diamondville Police Dept,2e3,Wyoming,716,WY01203,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,1999,Wyoming,886,WY01203,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Diamondville Police Dept,1998,Wyoming,893,WY01203,2,0,2,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Diamondville Police Dept,1998,Wyoming,893,WY01203,2,0,2,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Diamondville Police Dept,1997,Wyoming,865,WY01203,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,1996,Wyoming,867,WY01203,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,1995,Wyoming,866,WY01203,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -30,6 +30,6 @@ Diamondville Police Dept,1989,Wyoming,1060,WY01203,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,1988,Wyoming,1053,WY01203,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,1987,Wyoming,1101,WY01203,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,1986,Wyoming,1066,WY01203,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Diamondville Police Dept,1985,Wyoming,1151,WY01203,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Diamondville Police Dept,1985,Wyoming,1151,WY01203,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Diamondville Police Dept,1984,Wyoming,1156,WY01203,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Diamondville Police Dept,1983,Wyoming,1023,WY01203,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

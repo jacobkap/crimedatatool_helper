@@ -6,14 +6,14 @@ Point Pleasant Police Department,2012,West Virginia,4343,WV02701,9,0,9,1,1,0,0,0
 Point Pleasant Police Department,2011,West Virginia,4356,WV02701,9,0,9,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Point Pleasant Police Department,2010,West Virginia,4350,WV02701,9,0,9,1,1,0,0,0,1,0,0,1,0,5,0,0,5,0,6,0,0,6,0,4,0,0,0,0,0,0,2,0,0,0
 Point Pleasant Police Department,2009,West Virginia,4432,WV02701,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Point Pleasant Police Department,2007,West Virginia,4459,WV02701,10,0,10,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Point Pleasant Police Department,2006,West Virginia,4485,WV02701,10,0,10,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Point Pleasant Police Department,2007,West Virginia,4459,WV02701,10,0,10,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Point Pleasant Police Department,2006,West Virginia,4485,WV02701,10,0,10,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Point Pleasant Police Department,2005,West Virginia,4539,WV02701,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Point Pleasant Police Department,2004,West Virginia,4585,WV02701,9,0,9,1,1,0,0,0,1,0,1,0,0,1,0,0,1,0,2,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0
 Point Pleasant Police Department,2003,West Virginia,4595,WV02701,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Point Pleasant Police Department,2002,West Virginia,4620,WV02701,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Point Pleasant Police Department,2001,West Virginia,4621,WV02701,10,0,10,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-Point Pleasant Police Department,2000,West Virginia,4637,WV02701,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Point Pleasant Police Department,2e3,West Virginia,4637,WV02701,8,0,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Point Pleasant Police Department,1999,West Virginia,5026,WV02701,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Point Pleasant Police Department,1998,West Virginia,5085,WV02701,7,0,7,1,1,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,1,0,0,0,0,0,0,1,0,1,0
 Point Pleasant Police Department,1997,West Virginia,4802,WV02701,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,6 +36,6 @@ Point Pleasant Police Department,1981,West Virginia,5721,WV02701,10,0,10,1,1,0,0
 Point Pleasant Police Department,1980,West Virginia,5662,WV02701,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Point Pleasant Police Department,1979,West Virginia,6071,WV02701,8,0,8,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
 Point Pleasant Police Department,1978,West Virginia,6124,WV02701,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Point Pleasant Police Department,1977,West Virginia,8000,WV02701,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Point Pleasant Police Department,1977,West Virginia,8e3,WV02701,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Point Pleasant Police Department,1976,West Virginia,7574,WV02701,8,0,8,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
 Point Pleasant Police Department,1975,West Virginia,7200,WV02701,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

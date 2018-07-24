@@ -13,14 +13,14 @@ West Lafayette Police,2004,Indiana,30037,IN07902,44,5,39,15,9,6,0,0,8,0,0,8,0,3,
 West Lafayette Police,2003,Indiana,29254,IN07902,44,6,38,14,9,5,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,0,0,0,3,0,0,0,0,2,0,0,0
 West Lafayette Police,2002,Indiana,29150,IN07902,40,4,36,16,11,5,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,2,0,0,0,0,1,0,0,1
 West Lafayette Police,2001,Indiana,28940,IN07902,39,4,35,13,8,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-West Lafayette Police,2000,Indiana,28778,IN07902,37,4,33,12,6,6,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-West Lafayette Police,1999,Indiana,28182,IN07902,40,4,36,12,8,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-West Lafayette Police,1998,Indiana,27368,IN07902,40,5,35,11,8,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+West Lafayette Police,2e3,Indiana,28778,IN07902,37,4,33,12,6,6,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+West Lafayette Police,1999,Indiana,28182,IN07902,40,4,36,12,8,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+West Lafayette Police,1998,Indiana,27368,IN07902,40,5,35,11,8,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 West Lafayette Police,1997,Indiana,25258,IN07902,39,5,34,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 West Lafayette Police,1996,Indiana,25159,IN07902,39,5,34,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-West Lafayette Police,1995,Indiana,24996,IN07902,36,5,31,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-West Lafayette Police,1994,Indiana,26524,IN07902,36,4,32,10,8,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-West Lafayette Police,1993,Indiana,26345,IN07902,35,4,31,11,8,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+West Lafayette Police,1995,Indiana,24996,IN07902,36,5,31,9,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+West Lafayette Police,1994,Indiana,26524,IN07902,36,4,32,10,8,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+West Lafayette Police,1993,Indiana,26345,IN07902,35,4,31,11,8,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 West Lafayette Police,1992,Indiana,26457,IN07902,36,4,32,10,8,2,0,0,1,0,0,1,0,0,0,0,9,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 West Lafayette Police,1991,Indiana,26214,IN07902,36,4,32,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 West Lafayette Police,1990,Indiana,25907,IN07902,33,3,30,8,6,2,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
@@ -37,5 +37,5 @@ West Lafayette Police,1980,Indiana,21197,IN07902,27,0,27,5,3,2,0,0,2,0,0,2,0,0,0
 West Lafayette Police,1979,Indiana,21471,IN07902,27,0,27,5,3,2,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,3,0,0,0,1,0,0,0,0
 West Lafayette Police,1978,Indiana,20322,IN07902,27,0,27,4,3,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 West Lafayette Police,1977,Indiana,20762,IN07902,27,0,27,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-West Lafayette Police,1976,Indiana,20372,IN07902,26,0,26,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+West Lafayette Police,1976,Indiana,20372,IN07902,26,0,26,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 West Lafayette Police,1975,Indiana,22761,IN07902,27,0,27,3,0,3,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,2,0,0,0,0,0,0,0,0,0,1

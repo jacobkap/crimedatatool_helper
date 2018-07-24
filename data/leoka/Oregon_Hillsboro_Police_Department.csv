@@ -1,11 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Hillsboro Police Department,2016,Oregon,104440,OR03403,133,24,109,52,35,17,0,0,14,0,0,14,0,4,0,0,2,2,18,0,0,16,2,7,0,4,0,6,0,0,1,0,0,0
-Hillsboro Police Department,2015,Oregon,101206,OR03403,128,25,103,44,33,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hillsboro Police Department,2015,Oregon,101206,OR03403,128,25,103,44,33,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hillsboro Police Department,2014,Oregon,98635,OR03403,130,24,106,49,33,16,0,0,2,1,0,1,0,1,0,0,1,0,3,1,0,2,0,0,0,1,0,0,0,0,1,0,0,1
 Hillsboro Police Department,2013,Oregon,96313,OR03403,131,25,106,49,36,13,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,1,0,1,0,1,0
 Hillsboro Police Department,2012,Oregon,94119,OR03403,131,25,106,47,41,6,0,0,5,0,0,5,0,7,0,0,7,0,12,0,0,12,0,1,0,9,0,0,1,0,1,0,0,0
 Hillsboro Police Department,2011,Oregon,92586,OR03403,120,22,98,44,34,10,0,0,5,0,0,5,0,10,0,0,10,0,15,0,0,15,0,2,0,9,0,0,4,0,0,0,0,0
-Hillsboro Police Department,2010,Oregon,91611,OR03403,130,22,108,51,46,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hillsboro Police Department,2010,Oregon,91611,OR03403,130,22,108,51,46,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hillsboro Police Department,2009,Oregon,96563,OR03403,126,22,104,44,33,11,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0
 Hillsboro Police Department,2008,Oregon,94373,OR03403,115,24,91,36,26,10,0,0,4,0,0,4,0,3,0,0,3,0,7,0,0,7,0,0,0,4,0,0,1,0,2,0,0,0
 Hillsboro Police Department,2007,Oregon,90439,OR03403,115,24,91,36,26,10,0,0,8,0,0,8,0,3,0,0,3,0,11,0,0,11,0,0,0,4,0,0,1,0,4,0,1,1
@@ -13,14 +13,14 @@ Hillsboro Police Department,2006,Oregon,85919,OR03403,115,22,93,35,28,7,0,0,1,0,
 Hillsboro Police Department,2005,Oregon,82912,OR03403,110,22,88,37,28,9,0,0,4,0,0,4,0,5,0,0,4,1,9,0,0,8,1,4,0,2,0,0,1,0,0,0,1,1
 Hillsboro Police Department,2004,Oregon,78473,OR03403,109,24,85,33,26,7,0,0,1,0,0,0,1,3,0,0,3,0,4,0,0,3,1,0,0,0,0,0,2,0,1,0,0,1
 Hillsboro Police Department,2003,Oregon,76766,OR03403,104,21,83,38,31,7,0,0,3,0,0,3,0,5,0,0,4,1,8,0,0,7,1,0,0,1,0,0,2,0,2,0,1,2
-Hillsboro Police Department,2002,Oregon,72240,OR03403,109,20,89,36,30,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Hillsboro Police Department,2001,Oregon,71242,OR03403,97,14,83,33,29,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Hillsboro Police Department,2000,Oregon,70186,OR03403,90,13,77,28,24,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hillsboro Police Department,2002,Oregon,72240,OR03403,109,20,89,36,30,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hillsboro Police Department,2001,Oregon,71242,OR03403,97,14,83,33,29,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hillsboro Police Department,2e3,Oregon,70186,OR03403,90,13,77,28,24,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hillsboro Police Department,1999,Oregon,61747,OR03403,81,11,70,25,21,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hillsboro Police Department,1998,Oregon,54356,OR03403,70,10,60,25,24,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hillsboro Police Department,1997,Oregon,46730,OR03403,61,8,53,22,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hillsboro Police Department,1996,Oregon,46169,OR03403,54,7,47,18,15,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Hillsboro Police Department,1995,Oregon,45262,OR03403,48,2,46,12,11,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hillsboro Police Department,1996,Oregon,46169,OR03403,54,7,47,18,15,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hillsboro Police Department,1995,Oregon,45262,OR03403,48,2,46,12,11,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hillsboro Police Department,1994,Oregon,42756,OR03403,48,2,46,12,11,1,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,1,0,1,1
 Hillsboro Police Department,1993,Oregon,42008,OR03403,50,2,48,11,9,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,0,1
 Hillsboro Police Department,1992,Oregon,39296,OR03403,48,2,46,9,9,0,0,0,4,0,0,3,1,8,0,1,13,1,12,0,1,9,2,1,0,0,0,0,4,0,4,0,0,3
@@ -35,7 +35,7 @@ Hillsboro Police Department,1984,Oregon,29312,OR03403,36,2,34,4,4,0,0,0,2,0,0,2,
 Hillsboro Police Department,1983,Oregon,31271,OR03403,35,2,33,4,4,0,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,0,0,0,1,0,3,0,1,0
 Hillsboro Police Department,1982,Oregon,31119,OR03403,36,2,34,5,5,0,0,0,8,0,0,7,1,6,0,0,5,1,14,0,0,12,2,1,0,3,1,1,5,0,3,0,0,0
 Hillsboro Police Department,1981,Oregon,31095,OR03403,36,2,34,4,4,0,0,0,5,1,0,3,1,12,0,1,11,0,17,1,1,14,1,0,0,4,0,0,2,0,6,0,0,5
-Hillsboro Police Department,1980,Oregon,30666,OR03403,34,2,32,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hillsboro Police Department,1980,Oregon,30666,OR03403,34,2,32,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hillsboro Police Department,1979,Oregon,23053,OR03403,29,2,27,6,6,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
 Hillsboro Police Department,1978,Oregon,25458,OR03403,28,2,26,6,6,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,1,1,0,0,0,0,0
 Hillsboro Police Department,1977,Oregon,22077,OR03403,25,2,23,3,3,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0

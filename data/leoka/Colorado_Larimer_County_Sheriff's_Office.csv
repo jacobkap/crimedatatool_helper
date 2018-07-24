@@ -15,12 +15,12 @@ Larimer County Sheriff's Office,2004,Colorado,73851,CO03500,148,16,132,233,108,1
 Larimer County Sheriff's Office,2003,Colorado,74050,CO03500,232,28,204,138,96,42,0,0,10,0,0,9,1,7,0,0,7,0,17,0,0,16,1,3,0,0,0,0,3,0,3,0,4,4
 Larimer County Sheriff's Office,2002,Colorado,75136,CO03500,221,24,197,133,96,37,0,0,6,0,0,5,1,4,0,0,3,1,10,0,0,8,2,5,0,1,0,0,0,0,2,0,0,2
 Larimer County Sheriff's Office,2001,Colorado,73655,CO03500,200,23,177,156,92,64,0,0,2,0,0,1,1,6,1,0,2,3,8,1,0,3,4,6,0,1,0,0,0,0,0,0,0,1
-Larimer County Sheriff's Office,2000,Colorado,71714,CO03500,90,3,87,193,96,97,0,0,4,0,0,4,0,3,0,0,0,3,7,0,0,4,3,1,0,0,2,1,0,0,2,0,0,1
+Larimer County Sheriff's Office,2e3,Colorado,71714,CO03500,90,3,87,193,96,97,0,0,4,0,0,4,0,3,0,0,0,3,7,0,0,4,3,1,0,0,2,1,0,0,2,0,0,1
 Larimer County Sheriff's Office,1999,Colorado,68199,CO03500,92,6,86,220,113,107,0,0,3,0,0,2,1,1,0,0,0,1,4,0,0,2,2,1,0,1,0,0,1,0,1,0,0,0
 Larimer County Sheriff's Office,1998,Colorado,67089,CO03500,90,3,87,193,96,97,0,0,8,0,0,8,0,1,0,0,1,0,9,0,0,9,0,8,0,0,0,0,0,0,0,0,0,1
 Larimer County Sheriff's Office,1997,Colorado,66132,CO03500,93,6,87,160,85,75,0,0,2,0,0,1,1,1,0,0,0,1,3,0,0,1,2,2,0,0,0,0,0,0,0,0,0,1
 Larimer County Sheriff's Office,1996,Colorado,64943,CO03500,80,4,76,158,80,78,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,2,0,1,0,0,1,0,1,0,0,0
-Larimer County Sheriff's Office,1995,Colorado,63653,CO03500,80,3,77,150,69,81,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Larimer County Sheriff's Office,1995,Colorado,63653,CO03500,80,3,77,150,69,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Larimer County Sheriff's Office,1994,Colorado,60895,CO03500,144,22,122,77,52,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Larimer County Sheriff's Office,1993,Colorado,59396,CO03500,144,22,122,77,52,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Larimer County Sheriff's Office,1992,Colorado,57775,CO03500,136,20,116,91,58,33,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -34,9 +34,9 @@ Larimer County Sheriff's Office,1985,Colorado,56401,CO03500,113,21,92,53,44,9,0,
 Larimer County Sheriff's Office,1984,Colorado,53785,CO03500,115,25,90,58,46,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Larimer County Sheriff's Office,1983,Colorado,52045,CO03500,108,21,87,56,43,13,0,0,5,0,0,5,0,1,0,0,1,0,6,0,0,6,0,0,0,1,0,0,2,0,1,0,1,1
 Larimer County Sheriff's Office,1982,Colorado,50487,CO03500,93,16,77,34,21,13,0,0,2,0,0,2,0,7,0,0,7,0,9,0,0,9,0,0,0,0,0,0,5,0,1,0,2,1
-Larimer County Sheriff's Office,1981,Colorado,49052,CO03500,92,16,76,33,23,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Larimer County Sheriff's Office,1981,Colorado,49052,CO03500,92,16,76,33,23,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Larimer County Sheriff's Office,1979,Colorado,38102,CO03500,85,16,69,5,5,0,0,0,5,0,0,5,0,4,0,0,4,0,9,0,0,9,0,0,0,2,0,0,3,0,2,0,0,2
 Larimer County Sheriff's Office,1978,Colorado,17383,CO03500,64,9,55,8,5,3,0,2,1,0,0,1,0,5,0,1,1,3,6,0,1,2,3,0,0,0,0,0,0,0,4,0,1,1
 Larimer County Sheriff's Office,1977,Colorado,18686,CO03500,63,8,55,6,5,1,0,0,4,0,0,2,2,1,0,0,1,0,5,0,0,3,2,1,0,1,0,0,2,0,0,0,0,1
-Larimer County Sheriff's Office,1976,Colorado,25624,CO03500,63,8,55,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Larimer County Sheriff's Office,1976,Colorado,25624,CO03500,63,8,55,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Larimer County Sheriff's Office,1975,Colorado,33621,CO03500,62,9,53,3,2,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0

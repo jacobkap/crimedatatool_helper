@@ -14,7 +14,7 @@ Hereford Police Department,2004,Texas,14670,TX05901,20,1,19,6,6,0,0,0,3,0,0,2,1,
 Hereford Police Department,2003,Texas,14647,TX05901,21,2,19,6,6,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Hereford Police Department,2002,Texas,15246,TX05901,21,2,19,6,6,0,0,0,1,0,0,1,0,5,0,0,5,0,6,0,0,6,0,1,0,4,0,0,0,1,0,0,0,0
 Hereford Police Department,2001,Texas,14928,TX05901,23,2,21,6,6,0,0,0,3,0,0,2,1,3,0,1,2,0,6,0,1,4,1,0,0,3,0,0,0,0,2,1,0,0
-Hereford Police Department,2000,Texas,14597,TX05901,26,2,24,7,5,2,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,2,1,0,0,1,1,0,0,0
+Hereford Police Department,2e3,Texas,14597,TX05901,26,2,24,7,5,2,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,2,1,0,0,1,1,0,0,0
 Hereford Police Department,1999,Texas,14878,TX05901,26,3,23,6,4,2,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,0,1
 Hereford Police Department,1998,Texas,15355,TX05901,27,2,25,6,4,2,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,0,0,1,0,0,0,0,3,0,0,0
 Hereford Police Department,1997,Texas,15709,TX05901,26,1,25,7,4,3,0,0,1,0,0,0,1,2,0,1,1,0,3,0,1,1,1,0,0,2,0,0,0,0,1,0,0,0
@@ -31,12 +31,12 @@ Hereford Police Department,1987,Texas,14925,TX05901,23,1,22,6,2,4,0,0,0,0,0,0,0,
 Hereford Police Department,1986,Texas,16031,TX05901,23,1,22,6,2,4,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,0,0,0,0,0,0,0,4,0,0,1
 Hereford Police Department,1985,Texas,16152,TX05901,22,1,21,6,2,4,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,0,0,1,0,0,2,0,1,0,0,1
 Hereford Police Department,1984,Texas,15776,TX05901,22,0,22,6,2,4,0,0,1,0,0,1,0,5,0,1,3,1,6,0,1,4,1,0,0,0,0,0,2,1,2,0,0,1
-Hereford Police Department,1983,Texas,17553,TX05901,21,0,21,6,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Hereford Police Department,1982,Texas,17058,TX05901,21,0,21,6,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hereford Police Department,1983,Texas,17553,TX05901,21,0,21,6,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hereford Police Department,1982,Texas,17058,TX05901,21,0,21,6,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hereford Police Department,1981,Texas,16472,TX05901,21,0,21,8,3,5,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Hereford Police Department,1980,Texas,15819,TX05901,20,0,20,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hereford Police Department,1979,Texas,15675,TX05901,20,0,20,6,3,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Hereford Police Department,1978,Texas,16000,TX05901,19,0,19,6,3,3,0,0,7,0,0,5,2,0,0,0,0,0,7,0,0,5,2,1,1,0,0,0,2,0,2,1,0,0
+Hereford Police Department,1978,Texas,16e3,TX05901,19,0,19,6,3,3,0,0,7,0,0,5,2,0,0,0,0,0,7,0,0,5,2,1,1,0,0,0,2,0,2,1,0,0
 Hereford Police Department,1977,Texas,16500,TX05901,19,0,19,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hereford Police Department,1976,Texas,18000,TX05901,18,0,18,5,2,3,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1
-Hereford Police Department,1975,Texas,15100,TX05901,18,0,18,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hereford Police Department,1976,Texas,18e3,TX05901,18,0,18,5,2,3,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1
+Hereford Police Department,1975,Texas,15100,TX05901,18,0,18,4,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

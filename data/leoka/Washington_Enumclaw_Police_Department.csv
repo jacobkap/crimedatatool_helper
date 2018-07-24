@@ -15,12 +15,12 @@ Enumclaw Police Department,2004,Washington,11069,WA01704,20,0,20,7,7,0,0,0,0,0,0
 Enumclaw Police Department,2003,Washington,11126,WA01704,17,1,16,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Enumclaw Police Department,2002,Washington,11446,WA01704,19,1,18,11,6,5,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Enumclaw Police Department,2001,Washington,11293,WA01704,19,1,18,12,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Enumclaw Police Department,2000,Washington,11116,WA01704,19,1,18,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enumclaw Police Department,2e3,Washington,11116,WA01704,19,1,18,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Enumclaw Police Department,1999,Washington,9715,WA01704,18,1,17,11,6,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Enumclaw Police Department,1998,Washington,9749,WA01704,17,1,16,11,5,6,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,0,0,0,1,0,0,1
 Enumclaw Police Department,1997,Washington,9187,WA01704,18,1,17,11,5,6,0,0,1,0,0,1,0,3,0,0,2,1,4,0,0,3,1,0,0,1,0,0,2,0,1,0,0,0
 Enumclaw Police Department,1996,Washington,9061,WA01704,22,1,21,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Enumclaw Police Department,1995,Washington,8894,WA01704,17,1,16,11,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Enumclaw Police Department,1995,Washington,8894,WA01704,17,1,16,11,6,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Enumclaw Police Department,1994,Washington,8479,WA01704,16,1,15,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Enumclaw Police Department,1993,Washington,8340,WA01704,16,1,15,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Enumclaw Police Department,1992,Washington,7626,WA01704,15,0,15,10,8,2,0,0,0,0,0,0,0,1,0,0,10,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -32,7 +32,7 @@ Enumclaw Police Department,1987,Washington,6132,WA01704,9,0,9,3,3,0,0,0,0,0,0,0,
 Enumclaw Police Department,1986,Washington,6087,WA01704,11,0,11,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Enumclaw Police Department,1985,Washington,5985,WA01704,11,0,11,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Enumclaw Police Department,1984,Washington,5904,WA01704,11,0,11,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Enumclaw Police Department,1983,Washington,5664,WA01704,10,0,10,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Enumclaw Police Department,1983,Washington,5664,WA01704,10,0,10,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Enumclaw Police Department,1982,Washington,5592,WA01704,10,0,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Enumclaw Police Department,1981,Washington,5549,WA01704,11,0,11,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Enumclaw Police Department,1980,Washington,5419,WA01704,11,0,11,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Massachusetts College Of Art,2016,Massachusetts,0,MA01338,11,0,11,20,5,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Massachusetts College Of Art,2015,Massachusetts,0,MA01338,8,1,7,21,5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Massachusetts College Of Art,2014,Massachusetts,0,MA01338,10,2,8,18,4,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Massachusetts College Of Art,2013,Massachusetts,0,MA01338,9,2,7,21,4,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Massachusetts College Of Art,2013,Massachusetts,0,MA01338,9,2,7,21,4,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Massachusetts College Of Art,2012,Massachusetts,0,MA01338,9,1,8,21,4,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Massachusetts College Of Art,2011,Massachusetts,0,MA01338,8,1,7,22,3,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Massachusetts College Of Art,2010,Massachusetts,0,MA01338,8,1,7,15,2,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Massachusetts College Of Art,2004,Massachusetts,0,MA01338,3,0,3,17,5,12,0,0,0,0,
 Massachusetts College Of Art,2003,Massachusetts,0,MA01338,8,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Massachusetts College Of Art,2002,Massachusetts,0,MA01338,5,0,5,16,3,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Massachusetts College Of Art,2001,Massachusetts,0,MA01338,7,0,7,17,4,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Massachusetts College Of Art,2000,Massachusetts,0,MA01338,7,0,7,17,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Massachusetts College Of Art,2e3,Massachusetts,0,MA01338,7,0,7,17,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Massachusetts College Of Art,1999,Massachusetts,0,MA01338,6,1,5,18,3,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Massachusetts College Of Art,1998,Massachusetts,0,MA01338,4,0,4,21,5,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Massachusetts College Of Art,1997,Massachusetts,0,MA01338,8,1,7,20,5,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

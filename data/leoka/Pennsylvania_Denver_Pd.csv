@@ -2,8 +2,8 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Denver Pd,2015,Pennsylvania,3870,PA03620,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Denver Pd,2014,Pennsylvania,3867,PA03620,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Denver Pd,1998,Pennsylvania,3159,PA03620,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Denver Pd,1995,Pennsylvania,2970,PA03620,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Denver Pd,1994,Pennsylvania,2959,PA03620,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Denver Pd,1995,Pennsylvania,2970,PA03620,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denver Pd,1994,Pennsylvania,2959,PA03620,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Denver Pd,1993,Pennsylvania,2959,PA03620,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Denver Pd,1992,Pennsylvania,2891,PA03620,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Denver Pd,1991,Pennsylvania,2880,PA03620,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -18,8 +18,8 @@ Denver Pd,1983,Pennsylvania,2030,PA03620,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Denver Pd,1982,Pennsylvania,2025,PA03620,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Denver Pd,1981,Pennsylvania,2025,PA03620,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Denver Pd,1980,Pennsylvania,2018,PA03620,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Denver Pd,1979,Pennsylvania,2389,PA03620,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Denver Pd,1978,Pennsylvania,2316,PA03620,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Denver Pd,1979,Pennsylvania,2389,PA03620,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denver Pd,1978,Pennsylvania,2316,PA03620,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Denver Pd,1977,Pennsylvania,2312,PA03620,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Denver Pd,1976,Pennsylvania,2316,PA03620,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Denver Pd,1975,Pennsylvania,2338,PA03620,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Denver Pd,1976,Pennsylvania,2316,PA03620,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Denver Pd,1975,Pennsylvania,2338,PA03620,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

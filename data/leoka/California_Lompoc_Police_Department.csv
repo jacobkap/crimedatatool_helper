@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Lompoc Police Department,2016,California,44541,CA04202,45,3,42,23,18,5,0,0,7,0,0,7,0,15,0,0,15,0,22,0,0,22,0,5,0,2,0,0,2,0,8,0,4,1
-Lompoc Police Department,2015,California,44446,CA04202,42,1,41,19,14,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lompoc Police Department,2015,California,44446,CA04202,42,1,41,19,14,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lompoc Police Department,2014,California,43809,CA04202,47,2,45,22,17,5,0,0,7,0,0,7,0,6,0,0,5,1,13,0,0,12,1,5,0,0,0,0,3,1,4,0,0,0
 Lompoc Police Department,2013,California,43581,CA04202,46,2,44,22,15,7,0,0,8,0,0,8,0,8,0,0,8,0,16,0,0,16,0,2,0,3,0,0,3,0,8,0,0,0
 Lompoc Police Department,2012,California,43120,CA04202,48,3,45,22,16,6,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,2,0,0,0,0,0,0,1,0,0,0
@@ -15,7 +15,7 @@ Lompoc Police Department,2004,California,41642,CA04202,48,5,43,20,14,6,0,0,0,0,0
 Lompoc Police Department,2003,California,41823,CA04202,47,4,43,21,14,7,0,0,1,0,0,1,0,13,0,0,11,2,14,0,0,12,2,1,0,0,0,0,3,0,5,0,2,3
 Lompoc Police Department,2002,California,42613,CA04202,47,4,43,21,14,7,0,0,3,0,0,3,0,2,0,1,1,0,5,0,1,4,0,0,0,0,0,0,1,1,2,0,0,1
 Lompoc Police Department,2001,California,41867,CA04202,48,4,44,19,13,6,0,0,1,0,0,1,0,9,0,0,8,1,10,0,0,9,1,1,0,0,0,0,3,1,3,0,1,1
-Lompoc Police Department,2000,California,41103,CA04202,47,3,44,21,15,6,0,0,0,0,0,0,0,9,0,1,6,2,9,0,1,6,2,0,0,0,0,0,4,0,2,0,2,1
+Lompoc Police Department,2e3,California,41103,CA04202,47,3,44,21,15,6,0,0,0,0,0,0,0,9,0,1,6,2,9,0,1,6,2,0,0,0,0,0,4,0,2,0,2,1
 Lompoc Police Department,1999,California,41772,CA04202,45,2,43,19,14,5,0,0,1,0,0,1,0,7,0,0,6,1,8,0,0,7,1,0,0,1,0,0,2,0,3,0,1,1
 Lompoc Police Department,1998,California,41995,CA04202,43,2,41,17,12,5,0,0,1,0,0,1,0,12,0,0,12,0,13,0,0,13,0,0,0,0,0,0,7,0,5,0,1,0
 Lompoc Police Department,1997,California,42619,CA04202,44,1,43,17,12,5,0,0,3,0,0,2,1,8,0,0,8,0,11,0,0,10,1,0,0,1,0,1,1,0,4,0,3,1

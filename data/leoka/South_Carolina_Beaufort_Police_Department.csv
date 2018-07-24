@@ -14,15 +14,15 @@ Beaufort Police Department,2004,South Carolina,12528,SC00701,46,5,41,5,4,1,0,0,2
 Beaufort Police Department,2003,South Carolina,12601,SC00701,45,6,39,5,4,1,0,0,0,0,0,0,0,3,0,1,2,0,3,0,1,2,0,0,0,1,0,0,1,0,1,0,0,0
 Beaufort Police Department,2002,South Carolina,13257,SC00701,48,5,43,6,5,1,0,0,4,0,0,3,1,4,1,0,3,0,8,1,0,6,1,0,0,0,0,0,3,0,3,1,0,1
 Beaufort Police Department,2001,South Carolina,13115,SC00701,48,6,42,6,5,1,0,0,1,0,1,0,0,2,0,0,2,0,3,0,1,2,0,0,0,0,0,0,0,0,3,0,0,0
-Beaufort Police Department,2000,South Carolina,12950,SC00701,44,6,38,6,5,1,0,0,1,0,0,1,0,4,0,0,3,1,5,0,0,4,1,0,0,1,0,0,0,0,3,0,0,1
+Beaufort Police Department,2e3,South Carolina,12950,SC00701,44,6,38,6,5,1,0,0,1,0,0,1,0,4,0,0,3,1,5,0,0,4,1,0,0,1,0,0,0,0,3,0,0,1
 Beaufort Police Department,1999,South Carolina,10085,SC00701,44,4,40,6,5,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
 Beaufort Police Department,1998,South Carolina,10299,SC00701,44,5,39,6,5,1,0,0,2,0,0,2,0,6,0,0,6,0,8,0,0,8,0,1,0,1,0,0,2,0,3,0,1,0
 Beaufort Police Department,1997,South Carolina,11023,SC00701,42,5,37,6,5,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Beaufort Police Department,1996,South Carolina,10845,SC00701,43,4,39,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Beaufort Police Department,1996,South Carolina,10845,SC00701,43,4,39,6,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beaufort Police Department,1995,South Carolina,10769,SC00701,40,4,36,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beaufort Police Department,1994,South Carolina,10155,SC00701,36,5,31,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Beaufort Police Department,1993,South Carolina,10097,SC00701,33,2,31,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Beaufort Police Department,1992,South Carolina,9895,SC00701,33,3,30,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Beaufort Police Department,1993,South Carolina,10097,SC00701,33,2,31,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Beaufort Police Department,1992,South Carolina,9895,SC00701,33,3,30,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beaufort Police Department,1991,South Carolina,9777,SC00701,33,3,30,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beaufort Police Department,1990,South Carolina,9576,SC00701,32,4,28,3,3,0,0,1,0,0,0,0,0,5,3,0,1,1,5,3,0,1,1,0,0,0,0,0,3,0,2,0,0,0
 Beaufort Police Department,1989,South Carolina,8899,SC00701,31,5,26,4,3,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
@@ -38,5 +38,5 @@ Beaufort Police Department,1980,South Carolina,8651,SC00701,27,3,24,13,3,10,0,0,
 Beaufort Police Department,1979,South Carolina,8916,SC00701,26,1,25,12,10,2,0,0,0,0,0,0,0,12,1,0,10,1,12,1,0,10,1,0,0,0,1,0,7,0,3,0,0,1
 Beaufort Police Department,1978,South Carolina,9070,SC00701,23,2,21,9,9,0,0,0,2,0,0,2,0,4,0,1,3,0,6,0,1,5,0,0,0,0,0,0,1,0,3,0,2,0
 Beaufort Police Department,1977,South Carolina,10906,SC00701,24,3,21,10,9,1,0,0,1,0,0,1,0,8,0,0,8,0,9,0,0,9,0,0,0,5,0,0,0,0,3,0,0,1
-Beaufort Police Department,1976,South Carolina,11000,SC00701,21,2,19,13,9,4,0,0,0,0,0,0,0,6,0,2,3,1,6,0,2,3,1,0,0,2,0,0,0,0,3,0,0,1
+Beaufort Police Department,1976,South Carolina,11e3,SC00701,21,2,19,13,9,4,0,0,0,0,0,0,0,6,0,2,3,1,6,0,2,3,1,0,0,2,0,0,0,0,3,0,0,1
 Beaufort Police Department,1975,South Carolina,11069,SC00701,23,2,21,11,8,3,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,1,0,0,0,0,3,0,0,0

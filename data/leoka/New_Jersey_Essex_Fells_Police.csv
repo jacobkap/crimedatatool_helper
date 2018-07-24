@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Essex Fells Police,2016,New Jersey,2157,NJ00707,13,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Essex Fells Police,2015,New Jersey,2087,NJ00707,13,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Essex Fells Police,2014,New Jersey,2123,NJ00707,12,1,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Essex Fells Police,2014,New Jersey,2123,NJ00707,12,1,11,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Essex Fells Police,2013,New Jersey,2210,NJ00707,13,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Essex Fells Police,2012,New Jersey,2126,NJ00707,12,1,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Essex Fells Police,2011,New Jersey,2120,NJ00707,13,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Essex Fells Police,2004,New Jersey,2171,NJ00707,13,0,13,4,0,4,0,0,0,0,0,0,0,0,0,
 Essex Fells Police,2003,New Jersey,2176,NJ00707,13,0,13,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Essex Fells Police,2002,New Jersey,2207,NJ00707,13,0,13,4,1,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 Essex Fells Police,2001,New Jersey,2180,NJ00707,12,0,12,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Essex Fells Police,2000,New Jersey,2162,NJ00707,12,0,12,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Essex Fells Police,2e3,New Jersey,2162,NJ00707,12,0,12,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Essex Fells Police,1999,New Jersey,2075,NJ00707,12,0,12,4,1,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Essex Fells Police,1998,New Jersey,2021,NJ00707,11,0,11,5,1,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Essex Fells Police,1997,New Jersey,2191,NJ00707,11,0,11,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -24,7 +24,7 @@ Essex Fells Police,1995,New Jersey,2163,NJ00707,11,0,11,3,0,3,0,0,0,0,0,0,0,0,0,
 Essex Fells Police,1994,New Jersey,2180,NJ00707,11,0,11,2,0,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
 Essex Fells Police,1993,New Jersey,2174,NJ00707,11,0,11,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Essex Fells Police,1992,New Jersey,2155,NJ00707,11,0,11,2,0,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Essex Fells Police,1991,New Jersey,2147,NJ00707,11,0,11,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Essex Fells Police,1991,New Jersey,2147,NJ00707,11,0,11,2,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Essex Fells Police,1990,New Jersey,2139,NJ00707,11,0,11,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Essex Fells Police,1989,New Jersey,2324,NJ00707,10,0,10,2,1,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Essex Fells Police,1988,New Jersey,2352,NJ00707,11,0,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -15,15 +15,15 @@ Walhalla Police Department,2004,South Carolina,3857,SC03702,14,0,14,1,1,0,0,0,0,
 Walhalla Police Department,2003,South Carolina,3875,SC03702,14,0,14,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Walhalla Police Department,2002,South Carolina,3891,SC03702,12,0,12,2,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Walhalla Police Department,2001,South Carolina,3849,SC03702,14,2,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Walhalla Police Department,2000,South Carolina,3801,SC03702,14,2,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Walhalla Police Department,2e3,South Carolina,3801,SC03702,14,2,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walhalla Police Department,1999,South Carolina,4073,SC03702,13,2,11,2,2,0,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,1,0,0,0,0,1,0,1,0,0,1
 Walhalla Police Department,1998,South Carolina,4116,SC03702,13,1,12,2,2,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
 Walhalla Police Department,1997,South Carolina,4538,SC03702,11,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Walhalla Police Department,1996,South Carolina,4465,SC03702,11,0,11,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Walhalla Police Department,1995,South Carolina,4434,SC03702,12,1,11,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Walhalla Police Department,1996,South Carolina,4465,SC03702,11,0,11,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Walhalla Police Department,1995,South Carolina,4434,SC03702,12,1,11,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Walhalla Police Department,1994,South Carolina,4013,SC03702,11,0,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Walhalla Police Department,1993,South Carolina,3991,SC03702,10,0,10,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Walhalla Police Department,1992,South Carolina,3879,SC03702,12,0,12,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Walhalla Police Department,1993,South Carolina,3991,SC03702,10,0,10,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Walhalla Police Department,1992,South Carolina,3879,SC03702,12,0,12,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Walhalla Police Department,1991,South Carolina,3833,SC03702,12,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walhalla Police Department,1990,South Carolina,3755,SC03702,12,0,12,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Walhalla Police Department,1989,South Carolina,4181,SC03702,11,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Walhalla Police Department,1980,South Carolina,3973,SC03702,10,0,10,2,2,0,0,0,0,
 Walhalla Police Department,1979,South Carolina,3585,SC03702,11,0,11,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Walhalla Police Department,1978,South Carolina,3529,SC03702,11,0,11,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Walhalla Police Department,1977,South Carolina,4200,SC03702,11,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Walhalla Police Department,1976,South Carolina,3800,SC03702,10,0,10,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Walhalla Police Department,1976,South Carolina,3800,SC03702,10,0,10,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Walhalla Police Department,1975,South Carolina,3937,SC03702,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

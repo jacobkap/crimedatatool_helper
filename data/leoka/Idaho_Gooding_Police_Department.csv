@@ -15,16 +15,16 @@ Gooding Police Department,2004,Idaho,3388,ID02401,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,
 Gooding Police Department,2003,Idaho,3397,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gooding Police Department,2002,Idaho,3508,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gooding Police Department,2001,Idaho,3455,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gooding Police Department,2000,Idaho,3384,ID02401,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gooding Police Department,2e3,Idaho,3384,ID02401,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gooding Police Department,1999,Idaho,3203,ID02401,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gooding Police Department,1998,Idaho,3250,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Gooding Police Department,1997,Idaho,3449,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gooding Police Department,1996,Idaho,3390,ID02401,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gooding Police Department,1996,Idaho,3390,ID02401,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gooding Police Department,1995,Idaho,3316,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gooding Police Department,1994,Idaho,3257,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gooding Police Department,1993,Idaho,3160,ID02401,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gooding Police Department,1993,Idaho,3160,ID02401,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gooding Police Department,1992,Idaho,2988,ID02401,7,0,7,0,0,0,0,0,1,0,0,1,0,3,0,0,12,0,4,0,0,4,0,0,0,0,0,0,1,0,0,0,0,3
-Gooding Police Department,1991,Idaho,2910,ID02401,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gooding Police Department,1991,Idaho,2910,ID02401,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gooding Police Department,1990,Idaho,2820,ID02401,7,0,7,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Gooding Police Department,1989,Idaho,2862,ID02401,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gooding Police Department,1988,Idaho,2799,ID02401,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Gooding Police Department,1980,Idaho,2953,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,
 Gooding Police Department,1979,Idaho,3127,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gooding Police Department,1978,Idaho,2972,ID02401,7,0,7,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Gooding Police Department,1977,Idaho,2800,ID02401,4,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0
-Gooding Police Department,1976,Idaho,3000,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gooding Police Department,1976,Idaho,3e3,ID02401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gooding Police Department,1975,Idaho,2927,ID02401,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

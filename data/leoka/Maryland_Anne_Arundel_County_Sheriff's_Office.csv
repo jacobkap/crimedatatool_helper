@@ -15,9 +15,9 @@ Anne Arundel County Sheriff's Office,2004,Maryland,0,MD00200,56,6,50,25,23,2,0,0
 Anne Arundel County Sheriff's Office,2003,Maryland,0,MD00200,74,6,68,26,22,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,2002,Maryland,0,MD00200,74,6,68,26,22,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,2001,Maryland,0,MD00200,72,6,66,25,21,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Anne Arundel County Sheriff's Office,2000,Maryland,0,MD00200,67,7,60,22,18,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anne Arundel County Sheriff's Office,2e3,Maryland,0,MD00200,67,7,60,22,18,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,1999,Maryland,0,MD00200,68,8,60,23,18,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Anne Arundel County Sheriff's Office,1998,Maryland,0,MD00200,67,7,60,22,17,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Anne Arundel County Sheriff's Office,1998,Maryland,0,MD00200,67,7,60,22,17,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Anne Arundel County Sheriff's Office,1997,Maryland,0,MD00200,58,7,51,15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,1996,Maryland,0,MD00200,41,4,37,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,1995,Maryland,0,MD00200,37,5,32,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,7 +28,7 @@ Anne Arundel County Sheriff's Office,1991,Maryland,0,MD00200,31,3,28,4,4,0,0,0,9
 Anne Arundel County Sheriff's Office,1990,Maryland,0,MD00200,30,3,27,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,1989,Maryland,0,MD00200,25,4,21,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Anne Arundel County Sheriff's Office,1988,Maryland,0,MD00200,29,4,25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Anne Arundel County Sheriff's Office,1987,Maryland,0,MD00200,28,3,25,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Anne Arundel County Sheriff's Office,1987,Maryland,0,MD00200,28,3,25,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Anne Arundel County Sheriff's Office,1986,Maryland,0,MD00200,24,3,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,1985,Maryland,0,MD00200,24,3,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,1984,Maryland,0,MD00200,29,3,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,5 +38,5 @@ Anne Arundel County Sheriff's Office,1981,Maryland,0,MD00200,24,2,22,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,1980,Maryland,0,MD00200,30,3,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,1979,Maryland,0,MD00200,19,2,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Anne Arundel County Sheriff's Office,1978,Maryland,0,MD00200,26,2,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Anne Arundel County Sheriff's Office,1977,Maryland,0,MD00200,26,2,24,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Anne Arundel County Sheriff's Office,1975,Maryland,0,MD00200,350,4,346,97,63,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Anne Arundel County Sheriff's Office,1977,Maryland,0,MD00200,26,2,24,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anne Arundel County Sheriff's Office,1975,Maryland,0,MD00200,350,4,346,97,63,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

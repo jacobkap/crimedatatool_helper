@@ -15,7 +15,7 @@ Grant County Sheriff's Office,2004,Washington,39636,WA01300,43,0,43,14,13,1,0,0,
 Grant County Sheriff's Office,2003,Washington,40093,WA01300,43,0,43,15,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grant County Sheriff's Office,2002,Washington,39418,WA01300,43,0,43,15,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grant County Sheriff's Office,2001,Washington,38892,WA01300,43,0,43,15,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grant County Sheriff's Office,2000,Washington,38283,WA01300,41,0,41,15,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grant County Sheriff's Office,2e3,Washington,38283,WA01300,41,0,41,15,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grant County Sheriff's Office,1999,Washington,37891,WA01300,41,0,41,15,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grant County Sheriff's Office,1998,Washington,37606,WA01300,41,0,41,15,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grant County Sheriff's Office,1997,Washington,31683,WA01300,37,0,37,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,11 +28,11 @@ Grant County Sheriff's Office,1991,Washington,31617,WA01300,33,0,33,5,5,0,0,0,0,
 Grant County Sheriff's Office,1990,Washington,30664,WA01300,32,1,31,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grant County Sheriff's Office,1989,Washington,29204,WA01300,30,1,29,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grant County Sheriff's Office,1988,Washington,28886,WA01300,27,1,26,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grant County Sheriff's Office,1987,Washington,28860,WA01300,29,2,27,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Grant County Sheriff's Office,1986,Washington,28141,WA01300,29,1,28,22,6,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grant County Sheriff's Office,1987,Washington,28860,WA01300,29,2,27,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Grant County Sheriff's Office,1986,Washington,28141,WA01300,29,1,28,22,6,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Grant County Sheriff's Office,1985,Washington,28386,WA01300,30,1,29,16,9,7,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
 Grant County Sheriff's Office,1984,Washington,26460,WA01300,30,1,29,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grant County Sheriff's Office,1983,Washington,25835,WA01300,29,1,28,14,8,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grant County Sheriff's Office,1983,Washington,25835,WA01300,29,1,28,14,8,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Grant County Sheriff's Office,1982,Washington,25505,WA01300,30,1,29,13,7,6,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Grant County Sheriff's Office,1981,Washington,25304,WA01300,33,1,32,8,8,0,0,0,4,0,0,4,0,2,1,0,1,0,6,1,0,5,0,2,0,0,1,0,1,0,1,1,0,0
 Grant County Sheriff's Office,1980,Washington,24713,WA01300,26,1,25,11,7,4,0,0,3,0,0,3,0,1,1,0,0,0,4,1,0,3,0,0,0,0,1,0,2,0,1,0,0,0

@@ -15,7 +15,7 @@ Neosho Police Department,2004,Missouri,10808,MO07303,25,1,24,3,3,0,0,0,0,0,0,0,0
 Neosho Police Department,2003,Missouri,10657,MO07303,26,1,25,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Neosho Police Department,2002,Missouri,10650,MO07303,24,1,23,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Neosho Police Department,2001,Missouri,10570,MO07303,22,0,22,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Neosho Police Department,2000,Missouri,10505,MO07303,25,0,25,3,3,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Neosho Police Department,2e3,Missouri,10505,MO07303,25,0,25,3,3,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Neosho Police Department,1999,Missouri,9583,MO07303,24,0,24,2,2,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
 Neosho Police Department,1998,Missouri,9558,MO07303,21,2,19,2,2,0,0,0,7,0,0,7,0,2,0,0,2,0,9,0,0,9,0,0,0,0,0,0,0,0,9,0,0,0
 Neosho Police Department,1997,Missouri,9857,MO07303,22,2,20,2,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -24,11 +24,11 @@ Neosho Police Department,1995,Missouri,9716,MO07303,20,2,18,2,2,0,0,0,1,0,0,1,0,
 Neosho Police Department,1994,Missouri,9553,MO07303,19,2,17,7,5,2,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,1,0,0,0,0,1,0,2,0,0,1
 Neosho Police Department,1993,Missouri,9474,MO07303,19,2,17,7,5,2,0,0,0,0,0,0,0,9,0,0,9,0,9,0,0,9,0,6,0,0,0,0,1,0,1,0,0,1
 Neosho Police Department,1992,Missouri,9391,MO07303,19,2,17,6,4,2,0,0,0,0,0,0,0,10,0,0,18,0,10,0,0,10,0,4,0,0,0,0,0,0,6,0,0,0
-Neosho Police Department,1991,Missouri,9328,MO07303,19,2,17,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Neosho Police Department,1991,Missouri,9328,MO07303,19,2,17,7,5,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Neosho Police Department,1990,Missouri,9254,MO07303,19,2,17,10,6,4,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,1,0,1,0,0,1
 Neosho Police Department,1989,Missouri,10054,MO07303,20,3,17,7,5,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,1,0,0,2,0,0,0
 Neosho Police Department,1988,Missouri,9951,MO07303,20,3,17,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Neosho Police Department,1987,Missouri,9862,MO07303,19,3,16,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Neosho Police Department,1987,Missouri,9862,MO07303,19,3,16,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Neosho Police Department,1986,Missouri,10074,MO07303,20,3,17,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Neosho Police Department,1985,Missouri,9684,MO07303,22,3,19,2,2,0,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,0,0,0,2,0,0,0,0,0,0,0,3
 Neosho Police Department,1984,Missouri,9643,MO07303,22,3,19,2,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -38,6 +38,6 @@ Neosho Police Department,1981,Missouri,9561,MO07303,21,2,19,1,1,0,0,0,0,0,0,0,0,
 Neosho Police Department,1980,Missouri,9490,MO07303,14,0,14,6,3,3,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1
 Neosho Police Department,1979,Missouri,8155,MO07303,19,2,17,1,1,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
 Neosho Police Department,1978,Missouri,10560,MO07303,17,2,15,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Neosho Police Department,1977,Missouri,10000,MO07303,16,2,14,1,1,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
+Neosho Police Department,1977,Missouri,1e4,MO07303,16,2,14,1,1,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
 Neosho Police Department,1976,Missouri,9500,MO07303,16,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Neosho Police Department,1975,Missouri,8325,MO07303,16,1,15,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0

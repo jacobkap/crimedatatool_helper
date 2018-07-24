@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Marana Police Department,2016,Arizona,42808,AZ01009,88,13,75,28,22,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marana Police Department,2015,Arizona,41302,AZ01009,85,8,77,28,21,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Marana Police Department,2014,Arizona,39245,AZ01009,79,8,71,34,27,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marana Police Department,2014,Arizona,39245,AZ01009,79,8,71,34,27,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Marana Police Department,2012,Arizona,35617,AZ01009,79,8,71,24,17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marana Police Department,2011,Arizona,35456,AZ01009,78,8,70,26,20,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marana Police Department,2010,Arizona,34961,AZ01009,74,7,67,25,21,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
@@ -14,7 +14,7 @@ Marana Police Department,2004,Arizona,20927,AZ01009,60,9,51,18,15,3,0,0,1,0,0,1,
 Marana Police Department,2003,Arizona,18495,AZ01009,57,10,47,18,16,2,0,0,1,0,0,1,0,9,0,0,9,0,10,0,0,10,0,0,0,4,0,0,0,0,2,0,0,4
 Marana Police Department,2002,Arizona,14417,AZ01009,52,9,43,17,15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marana Police Department,2001,Arizona,14023,AZ01009,49,8,41,15,13,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Marana Police Department,2000,Arizona,13556,AZ01009,51,11,40,15,13,2,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,1,0,0,0,0,0,0,2,0,0,1
+Marana Police Department,2e3,Arizona,13556,AZ01009,51,11,40,15,13,2,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,1,0,0,0,0,0,0,2,0,0,1
 Marana Police Department,1999,Arizona,7366,AZ01009,51,8,43,14,12,2,0,0,2,2,0,0,0,4,2,0,2,0,6,4,0,2,0,0,0,0,0,0,0,0,6,0,0,0
 Marana Police Department,1998,Arizona,5949,AZ01009,41,4,37,11,10,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
 Marana Police Department,1997,Arizona,2565,AZ01009,39,2,37,12,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

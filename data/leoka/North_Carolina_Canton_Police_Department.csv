@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Canton Police Department,2016,North Carolina,4188,NC04401,13,0,13,5,5,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
-Canton Police Department,2015,North Carolina,4148,NC04401,14,1,13,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Canton Police Department,2015,North Carolina,4148,NC04401,14,1,13,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Canton Police Department,2014,North Carolina,4129,NC04401,13,1,12,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Canton Police Department,2013,North Carolina,4164,NC04401,13,1,12,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canton Police Department,2012,North Carolina,4256,NC04401,12,0,12,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -15,9 +15,9 @@ Canton Police Department,2004,North Carolina,4020,NC04401,12,0,12,5,5,0,0,0,0,0,
 Canton Police Department,2003,North Carolina,4014,NC04401,11,0,11,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canton Police Department,2002,North Carolina,4164,NC04401,11,0,11,5,5,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Canton Police Department,2001,North Carolina,4098,NC04401,14,0,14,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Canton Police Department,2000,North Carolina,4029,NC04401,14,0,14,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Canton Police Department,2e3,North Carolina,4029,NC04401,14,0,14,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Canton Police Department,1999,North Carolina,3647,NC04401,13,0,13,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Canton Police Department,1998,North Carolina,3794,NC04401,13,0,13,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Canton Police Department,1998,North Carolina,3794,NC04401,13,0,13,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Canton Police Department,1997,North Carolina,3975,NC04401,14,1,13,4,4,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Canton Police Department,1996,North Carolina,3921,NC04401,12,0,12,5,4,1,0,0,1,0,0,0,1,1,0,0,0,1,2,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0
 Canton Police Department,1995,North Carolina,3853,NC04401,14,1,13,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

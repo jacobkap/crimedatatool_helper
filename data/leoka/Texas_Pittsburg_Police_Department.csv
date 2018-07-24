@@ -15,9 +15,9 @@ Pittsburg Police Department,2004,Texas,4443,TX03201,12,0,12,1,1,0,0,0,0,0,0,0,0,
 Pittsburg Police Department,2003,Texas,4395,TX03201,12,0,12,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsburg Police Department,2002,Texas,4540,TX03201,12,0,12,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsburg Police Department,2001,Texas,4446,TX03201,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pittsburg Police Department,2000,Texas,4347,TX03201,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pittsburg Police Department,2e3,Texas,4347,TX03201,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsburg Police Department,1999,Texas,4459,TX03201,9,1,8,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pittsburg Police Department,1998,Texas,4583,TX03201,9,1,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pittsburg Police Department,1998,Texas,4583,TX03201,9,1,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Pittsburg Police Department,1997,Texas,4572,TX03201,9,1,8,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
 Pittsburg Police Department,1996,Texas,4499,TX03201,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsburg Police Department,1995,Texas,4404,TX03201,9,1,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,11 +33,11 @@ Pittsburg Police Department,1986,Texas,4759,TX03201,7,0,7,1,1,0,0,0,0,0,0,0,0,0,
 Pittsburg Police Department,1985,Texas,4771,TX03201,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsburg Police Department,1984,Texas,4660,TX03201,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsburg Police Department,1983,Texas,4719,TX03201,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pittsburg Police Department,1982,Texas,4586,TX03201,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pittsburg Police Department,1982,Texas,4586,TX03201,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Pittsburg Police Department,1981,Texas,4429,TX03201,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
 Pittsburg Police Department,1980,Texas,4253,TX03201,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pittsburg Police Department,1979,Texas,4015,TX03201,4,0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Pittsburg Police Department,1978,Texas,5400,TX03201,5,0,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Pittsburg Police Department,1977,Texas,5288,TX03201,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pittsburg Police Department,1976,Texas,5000,TX03201,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pittsburg Police Department,1975,Texas,3902,TX03201,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pittsburg Police Department,1976,Texas,5e3,TX03201,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pittsburg Police Department,1975,Texas,3902,TX03201,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

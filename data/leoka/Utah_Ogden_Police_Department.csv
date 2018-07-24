@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Ogden Police Department,2016,Utah,85930,UT02901,128,6,122,28,19,9,0,0,7,0,0,6,1,59,0,2,54,3,66,0,2,60,4,13,0,13,0,0,1,1,19,9,7,3
 Ogden Police Department,2015,Utah,84642,UT02901,128,7,121,31,22,9,0,0,12,0,0,11,1,38,0,1,33,4,50,0,1,44,5,2,0,33,0,0,1,1,12,0,1,0
-Ogden Police Department,2014,Utah,84557,UT02901,136,6,130,30,20,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ogden Police Department,2014,Utah,84557,UT02901,136,6,130,30,20,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ogden Police Department,2013,Utah,84045,UT02901,131,5,126,29,18,11,0,0,2,0,0,1,1,11,0,0,10,1,13,0,0,11,2,0,0,6,0,1,3,0,1,0,1,1
 Ogden Police Department,2012,Utah,85083,UT02901,133,6,127,27,16,11,0,1,14,3,0,10,1,59,4,2,48,5,73,7,2,58,6,9,3,31,0,0,4,2,20,0,2,2
 Ogden Police Department,2011,Utah,84423,UT02901,135,8,127,30,19,11,0,0,7,0,0,5,2,55,2,2,46,5,62,2,2,51,7,11,0,26,1,0,12,0,9,0,3,0
@@ -15,14 +15,14 @@ Ogden Police Department,2004,Utah,79544,UT02901,130,7,123,25,21,4,0,0,0,0,0,0,0,
 Ogden Police Department,2003,Utah,79836,UT02901,126,9,117,25,21,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ogden Police Department,2002,Utah,80099,UT02901,127,8,119,25,19,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ogden Police Department,2001,Utah,78492,UT02901,122,8,114,26,20,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ogden Police Department,2000,Utah,77226,UT02901,119,9,110,24,19,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ogden Police Department,2e3,Utah,77226,UT02901,119,9,110,24,19,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ogden Police Department,1999,Utah,67460,UT02901,120,10,110,27,20,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ogden Police Department,1998,Utah,68102,UT02901,114,8,106,25,19,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ogden Police Department,1997,Utah,73125,UT02901,114,8,106,25,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ogden Police Department,1996,Utah,71030,UT02901,111,6,105,25,19,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ogden Police Department,1995,Utah,69290,UT02901,106,6,100,22,18,4,0,0,2,0,1,1,0,23,1,0,21,1,25,1,1,22,1,2,0,2,0,0,0,1,16,0,3,1
 Ogden Police Department,1994,Utah,69783,UT02901,105,5,100,18,16,2,0,0,3,0,0,3,0,24,0,0,24,0,27,0,0,27,0,0,0,2,0,0,3,0,20,0,2,0
-Ogden Police Department,1993,Utah,68028,UT02901,105,5,100,17,17,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ogden Police Department,1993,Utah,68028,UT02901,105,5,100,17,17,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ogden Police Department,1992,Utah,67252,UT02901,104,4,100,12,12,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ogden Police Department,1991,Utah,65658,UT02901,104,4,100,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ogden Police Department,1990,Utah,63909,UT02901,106,4,102,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,7 +36,7 @@ Ogden Police Department,1983,Utah,71524,UT02901,104,5,99,26,26,0,0,0,15,0,0,14,1
 Ogden Police Department,1982,Utah,68653,UT02901,104,5,99,26,26,0,0,0,16,0,1,12,3,20,1,2,16,1,36,1,3,28,4,1,0,1,0,3,25,1,2,0,3,0
 Ogden Police Department,1981,Utah,66974,UT02901,101,3,98,25,25,0,0,0,8,0,0,8,0,20,0,0,19,1,28,0,0,27,1,0,1,6,0,0,7,0,6,4,2,2
 Ogden Police Department,1980,Utah,64444,UT02901,116,4,112,29,29,0,0,0,10,0,0,10,0,79,1,2,75,1,89,1,2,85,1,13,1,19,1,2,10,0,30,0,4,9
-Ogden Police Department,1979,Utah,73745,UT02901,116,3,113,28,28,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ogden Police Department,1979,Utah,73745,UT02901,116,3,113,28,28,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ogden Police Department,1978,Utah,74748,UT02901,117,2,115,27,27,0,0,0,19,2,0,17,0,29,0,0,25,4,48,2,0,42,4,6,0,7,0,0,4,0,21,1,2,7
 Ogden Police Department,1977,Utah,66894,UT02901,114,3,111,28,26,2,0,0,23,0,2,15,6,33,1,1,30,1,56,1,3,45,7,0,0,21,3,0,1,0,22,4,3,2
 Ogden Police Department,1976,Utah,70826,UT02901,112,1,111,26,24,2,0,0,8,1,0,7,0,31,1,0,29,1,39,2,0,36,1,2,0,8,1,3,1,0,18,0,4,2

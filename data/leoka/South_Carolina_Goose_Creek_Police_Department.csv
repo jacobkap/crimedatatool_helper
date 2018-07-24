@@ -15,15 +15,15 @@ Goose Creek Police Department,2004,South Carolina,30949,SC00803,50,8,42,16,11,5,
 Goose Creek Police Department,2003,South Carolina,30473,SC00803,53,5,48,16,13,3,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,2,0,1,0,0,0,0,0,0,1,0
 Goose Creek Police Department,2002,South Carolina,29901,SC00803,46,6,40,13,9,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Goose Creek Police Department,2001,South Carolina,29579,SC00803,43,5,38,10,7,3,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
-Goose Creek Police Department,2000,South Carolina,29208,SC00803,32,2,30,10,8,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Goose Creek Police Department,2e3,South Carolina,29208,SC00803,32,2,30,10,8,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Goose Creek Police Department,1999,South Carolina,27019,SC00803,33,3,30,10,7,3,0,0,4,0,0,3,1,1,0,0,0,1,5,0,0,3,2,1,0,0,0,0,0,0,2,0,0,2
 Goose Creek Police Department,1998,South Carolina,26915,SC00803,34,3,31,8,6,2,0,0,1,0,0,1,0,2,0,1,1,0,3,0,1,2,0,0,0,0,0,0,1,0,2,0,0,0
 Goose Creek Police Department,1997,South Carolina,28172,SC00803,33,3,30,9,7,2,0,0,2,0,0,2,0,1,1,0,0,0,3,1,0,2,0,1,0,0,0,0,0,0,0,0,2,0
-Goose Creek Police Department,1996,South Carolina,27715,SC00803,32,3,29,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Goose Creek Police Department,1996,South Carolina,27715,SC00803,32,3,29,9,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Goose Creek Police Department,1995,South Carolina,27521,SC00803,32,3,29,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Goose Creek Police Department,1994,South Carolina,27445,SC00803,32,4,28,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Goose Creek Police Department,1993,South Carolina,27288,SC00803,31,4,27,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Goose Creek Police Department,1992,South Carolina,25515,SC00803,31,4,27,10,7,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Goose Creek Police Department,1993,South Carolina,27288,SC00803,31,4,27,9,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Goose Creek Police Department,1992,South Carolina,25515,SC00803,31,4,27,10,7,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Goose Creek Police Department,1991,South Carolina,25211,SC00803,31,3,28,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Goose Creek Police Department,1990,South Carolina,24692,SC00803,27,4,23,10,7,3,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,1,0,0,0,0,0,0,3,0,0,0
 Goose Creek Police Department,1989,South Carolina,30452,SC00803,27,3,24,10,8,2,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,0,0,0,0,1,0,2,1
@@ -38,6 +38,6 @@ Goose Creek Police Department,1981,South Carolina,9347,SC00803,19,0,19,8,6,2,0,0
 Goose Creek Police Department,1980,South Carolina,9048,SC00803,13,0,13,5,4,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,2,0,1,1
 Goose Creek Police Department,1979,South Carolina,16995,SC00803,11,0,11,7,6,1,0,0,0,0,0,0,0,5,0,1,4,0,5,0,1,4,0,0,0,0,0,0,1,0,3,0,0,1
 Goose Creek Police Department,1978,South Carolina,4474,SC00803,11,1,10,6,5,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
-Goose Creek Police Department,1977,South Carolina,8000,SC00803,10,1,9,6,5,1,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,2,0,1,0,0,0,0,2,0,0,0
+Goose Creek Police Department,1977,South Carolina,8e3,SC00803,10,1,9,6,5,1,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,2,0,1,0,0,0,0,2,0,0,0
 Goose Creek Police Department,1976,South Carolina,5400,SC00803,9,1,8,5,5,0,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0
 Goose Creek Police Department,1975,South Carolina,3956,SC00803,8,0,8,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

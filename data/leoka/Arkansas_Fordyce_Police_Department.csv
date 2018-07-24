@@ -10,12 +10,12 @@ Fordyce Police Department,2009,Arkansas,4171,AR02001,8,0,8,4,4,0,0,0,0,0,0,0,0,0
 Fordyce Police Department,2008,Arkansas,4226,AR02001,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fordyce Police Department,2007,Arkansas,4282,AR02001,7,0,7,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fordyce Police Department,2006,Arkansas,4459,AR02001,6,0,6,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fordyce Police Department,2005,Arkansas,4528,AR02001,7,1,6,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Fordyce Police Department,2004,Arkansas,4558,AR02001,8,1,7,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Fordyce Police Department,2003,Arkansas,4587,AR02001,8,1,7,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fordyce Police Department,2005,Arkansas,4528,AR02001,7,1,6,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fordyce Police Department,2004,Arkansas,4558,AR02001,8,1,7,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fordyce Police Department,2003,Arkansas,4587,AR02001,8,1,7,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Fordyce Police Department,2002,Arkansas,4865,AR02001,8,1,7,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Fordyce Police Department,2001,Arkansas,4833,AR02001,9,2,7,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Fordyce Police Department,2000,Arkansas,4799,AR02001,3,1,2,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fordyce Police Department,2e3,Arkansas,4799,AR02001,3,1,2,6,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Fordyce Police Department,1999,Arkansas,4477,AR02001,11,1,10,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fordyce Police Department,1998,Arkansas,4565,AR02001,10,2,8,4,3,1,0,0,2,0,1,1,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0
 Fordyce Police Department,1997,Arkansas,4786,AR02001,12,1,11,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,6 +37,6 @@ Fordyce Police Department,1982,Arkansas,5197,AR02001,11,3,8,0,0,0,0,0,0,0,0,0,0,
 Fordyce Police Department,1981,Arkansas,5204,AR02001,11,2,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Fordyce Police Department,1980,Arkansas,5181,AR02001,11,3,8,0,0,0,0,0,3,0,0,1,2,0,0,0,0,0,3,0,0,1,2,0,0,3,0,0,0,0,0,0,0,0
 Fordyce Police Department,1979,Arkansas,5189,AR02001,22,1,21,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Fordyce Police Department,1978,Arkansas,5000,AR02001,11,2,9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Fordyce Police Department,1977,Arkansas,4826,AR02001,9,1,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Fordyce Police Department,1975,Arkansas,5198,AR02001,8,1,7,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fordyce Police Department,1978,Arkansas,5e3,AR02001,11,2,9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Fordyce Police Department,1977,Arkansas,4826,AR02001,9,1,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fordyce Police Department,1975,Arkansas,5198,AR02001,8,1,7,6,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

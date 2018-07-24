@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Grand Prairie Police Department,2016,Texas,190270,TX05712,257,21,236,127,84,43,0,0,7,1,0,6,0,8,0,0,8,0,15,1,0,14,0,1,0,12,0,0,0,0,2,0,0,0
-Grand Prairie Police Department,2015,Texas,187901,TX05712,246,20,226,120,83,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grand Prairie Police Department,2015,Texas,187901,TX05712,246,20,226,120,83,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Grand Prairie Police Department,2013,Texas,183822,TX05712,221,14,207,111,79,32,0,0,3,0,0,2,1,9,2,0,7,0,12,2,0,9,1,1,0,1,1,1,1,0,2,0,1,4
 Grand Prairie Police Department,2012,Texas,181782,TX05712,217,14,203,112,84,28,0,0,10,0,0,9,1,14,0,1,11,2,24,0,1,20,3,4,0,4,0,0,0,0,4,0,4,8
 Grand Prairie Police Department,2011,Texas,179087,TX05712,215,12,203,112,83,29,0,0,3,0,0,1,2,10,0,0,7,3,13,0,0,8,5,4,0,2,0,0,1,0,2,0,3,1
@@ -14,7 +14,7 @@ Grand Prairie Police Department,2004,Texas,138967,TX05712,202,18,184,93,73,20,0,
 Grand Prairie Police Department,2003,Texas,137407,TX05712,200,13,187,96,75,21,0,0,4,0,0,4,0,9,1,0,7,1,13,1,0,11,1,0,0,2,1,0,2,0,6,0,0,2
 Grand Prairie Police Department,2002,Texas,133099,TX05712,189,13,176,98,75,23,0,0,2,0,0,1,1,11,0,1,8,2,13,0,1,9,3,2,0,4,0,0,1,0,5,0,0,1
 Grand Prairie Police Department,2001,Texas,130319,TX05712,189,15,174,95,68,27,0,0,1,0,0,1,0,11,0,0,6,5,12,0,0,7,5,1,0,0,1,0,3,0,5,0,2,0
-Grand Prairie Police Department,2000,Texas,127427,TX05712,182,11,171,92,65,27,0,0,6,0,0,1,5,15,4,0,6,5,21,4,0,7,10,5,0,1,0,0,1,0,12,0,1,1
+Grand Prairie Police Department,2e3,Texas,127427,TX05712,182,11,171,92,65,27,0,0,6,0,0,1,5,15,4,0,6,5,21,4,0,7,10,5,0,1,0,0,1,0,12,0,1,1
 Grand Prairie Police Department,1999,Texas,114961,TX05712,180,11,169,93,65,28,0,0,4,0,0,4,0,10,2,0,3,5,14,2,0,7,5,1,0,0,0,0,1,0,8,0,3,1
 Grand Prairie Police Department,1998,Texas,112695,TX05712,173,10,163,110,78,32,0,0,5,0,0,4,1,17,0,0,14,3,22,0,0,18,4,3,0,1,6,3,0,0,5,0,4,0
 Grand Prairie Police Department,1997,Texas,114766,TX05712,170,10,160,73,52,21,0,0,6,0,0,6,0,16,0,2,12,2,22,0,2,18,2,0,0,6,1,0,1,0,12,0,2,0
@@ -37,6 +37,6 @@ Grand Prairie Police Department,1981,Texas,74289,TX05712,77,3,74,28,22,6,0,0,1,1
 Grand Prairie Police Department,1980,Texas,71343,TX05712,74,2,72,20,15,5,0,0,3,0,1,1,1,13,2,1,10,0,16,2,2,11,1,0,0,1,0,0,3,0,9,0,1,2
 Grand Prairie Police Department,1979,Texas,63767,TX05712,71,1,70,21,16,5,0,0,0,0,0,0,0,11,0,0,10,1,11,0,0,10,1,0,0,0,0,0,3,0,7,0,0,1
 Grand Prairie Police Department,1978,Texas,61677,TX05712,69,0,69,21,16,5,0,0,8,0,0,6,2,7,0,0,6,1,15,0,0,12,3,0,0,2,0,0,4,0,8,0,0,1
-Grand Prairie Police Department,1977,Texas,65730,TX05712,64,0,64,21,16,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Grand Prairie Police Department,1976,Texas,65000,TX05712,62,0,62,24,20,4,0,0,11,0,0,11,0,17,5,0,12,0,28,5,0,23,0,0,0,2,1,0,3,0,21,0,0,1
+Grand Prairie Police Department,1977,Texas,65730,TX05712,64,0,64,21,16,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Grand Prairie Police Department,1976,Texas,65e3,TX05712,62,0,62,24,20,4,0,0,11,0,0,11,0,17,5,0,12,0,28,5,0,23,0,0,0,2,1,0,3,0,21,0,0,1
 Grand Prairie Police Department,1975,Texas,56076,TX05712,52,0,52,21,14,7,0,0,12,0,0,11,1,5,3,0,2,0,17,3,0,13,1,2,0,4,2,0,1,0,7,0,0,1

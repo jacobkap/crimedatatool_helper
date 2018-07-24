@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Harrisville Police Department,2016,Utah,6347,UT02908,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,2015,Utah,6185,UT02908,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Harrisville Police Department,2014,Utah,5990,UT02908,9,1,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Harrisville Police Department,2014,Utah,5990,UT02908,9,1,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Harrisville Police Department,2013,Utah,5870,UT02908,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,2012,Utah,5722,UT02908,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,2011,Utah,5674,UT02908,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -12,20 +12,20 @@ Harrisville Police Department,2007,Utah,5514,UT02908,8,0,8,1,1,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,2006,Utah,5184,UT02908,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,2005,Utah,4941,UT02908,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,2004,Utah,4523,UT02908,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Harrisville Police Department,2003,Utah,4230,UT02908,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Harrisville Police Department,2003,Utah,4230,UT02908,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Harrisville Police Department,2002,Utah,3780,UT02908,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,2001,Utah,3705,UT02908,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Harrisville Police Department,2000,Utah,3645,UT02908,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Harrisville Police Department,1999,Utah,3781,UT02908,4,0,4,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Harrisville Police Department,1998,Utah,3590,UT02908,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Harrisville Police Department,1997,Utah,3889,UT02908,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Harrisville Police Department,2e3,Utah,3645,UT02908,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harrisville Police Department,1999,Utah,3781,UT02908,4,0,4,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Harrisville Police Department,1998,Utah,3590,UT02908,4,0,4,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Harrisville Police Department,1997,Utah,3889,UT02908,4,0,4,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Harrisville Police Department,1996,Utah,3778,UT02908,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,1995,Utah,3686,UT02908,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,1994,Utah,3493,UT02908,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,1993,Utah,3406,UT02908,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,1992,Utah,3160,UT02908,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,1991,Utah,3086,UT02908,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Harrisville Police Department,1990,Utah,3004,UT02908,6,1,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Harrisville Police Department,1990,Utah,3004,UT02908,6,1,5,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Harrisville Police Department,1989,Utah,2697,UT02908,4,0,4,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Harrisville Police Department,1988,Utah,2356,UT02908,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Harrisville Police Department,1987,Utah,2340,UT02908,4,0,4,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0

@@ -15,15 +15,15 @@ Isle Of Palms Police Department,2004,South Carolina,4551,SC01005,17,4,13,10,9,1,
 Isle Of Palms Police Department,2003,South Carolina,4553,SC01005,16,4,12,8,7,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
 Isle Of Palms Police Department,2002,South Carolina,4691,SC01005,16,4,12,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Isle Of Palms Police Department,2001,South Carolina,4641,SC01005,17,5,12,8,7,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-Isle Of Palms Police Department,2000,South Carolina,4583,SC01005,17,5,12,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Isle Of Palms Police Department,2e3,South Carolina,4583,SC01005,17,5,12,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Isle Of Palms Police Department,1999,South Carolina,4526,SC01005,17,4,13,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Isle Of Palms Police Department,1998,South Carolina,4024,SC01005,17,2,15,8,6,2,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
 Isle Of Palms Police Department,1997,South Carolina,4230,SC01005,17,2,15,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Isle Of Palms Police Department,1996,South Carolina,4162,SC01005,17,3,14,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Isle Of Palms Police Department,1996,South Carolina,4162,SC01005,17,3,14,7,5,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Isle Of Palms Police Department,1995,South Carolina,4133,SC01005,17,2,15,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Isle Of Palms Police Department,1994,South Carolina,4104,SC01005,17,2,15,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Isle Of Palms Police Department,1993,South Carolina,4081,SC01005,17,1,16,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Isle Of Palms Police Department,1992,South Carolina,3802,SC01005,17,1,16,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Isle Of Palms Police Department,1993,South Carolina,4081,SC01005,17,1,16,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Isle Of Palms Police Department,1992,South Carolina,3802,SC01005,17,1,16,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Isle Of Palms Police Department,1991,South Carolina,3757,SC01005,16,1,15,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Isle Of Palms Police Department,1990,South Carolina,3680,SC01005,17,1,16,8,6,2,0,0,2,0,0,2,0,6,0,0,6,0,8,0,0,8,0,1,0,4,0,0,0,0,3,0,0,0
 Isle Of Palms Police Department,1989,South Carolina,4292,SC01005,15,1,14,7,6,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
@@ -38,6 +38,6 @@ Isle Of Palms Police Department,1981,South Carolina,3529,SC01005,6,0,6,0,0,0,0,0
 Isle Of Palms Police Department,1980,South Carolina,3416,SC01005,6,0,6,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,0,0,0,0,0,0,2
 Isle Of Palms Police Department,1979,South Carolina,3034,SC01005,5,0,5,0,0,0,0,0,0,0,0,0,0,7,0,1,6,0,7,0,1,6,0,0,0,2,0,0,0,0,4,0,1,0
 Isle Of Palms Police Department,1978,South Carolina,3029,SC01005,6,1,5,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0
-Isle Of Palms Police Department,1977,South Carolina,5000,SC01005,6,1,5,0,0,0,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,0,0,1,0,0,0,0,2,0,0,1
+Isle Of Palms Police Department,1977,South Carolina,5e3,SC01005,6,1,5,0,0,0,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,0,0,1,0,0,0,0,2,0,0,1
 Isle Of Palms Police Department,1976,South Carolina,4111,SC01005,4,0,4,0,0,0,0,0,0,0,0,0,0,3,1,0,2,0,3,1,0,2,0,1,0,2,0,0,0,0,0,0,0,0
 Isle Of Palms Police Department,1975,South Carolina,2807,SC01005,3,0,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0

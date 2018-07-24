@@ -15,13 +15,13 @@ Jasper Police Department,2004,Tennessee,3150,TN05803,8,1,7,0,0,0,0,0,0,0,0,0,0,3
 Jasper Police Department,2003,Tennessee,3136,TN05803,8,1,7,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Jasper Police Department,2002,Tennessee,3275,TN05803,8,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jasper Police Department,2001,Tennessee,3243,TN05803,8,1,7,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Jasper Police Department,2000,Tennessee,3214,TN05803,8,1,7,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Jasper Police Department,1999,Tennessee,2825,TN05803,8,1,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jasper Police Department,1998,Tennessee,2880,TN05803,7,1,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jasper Police Department,1997,Tennessee,3073,TN05803,7,1,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jasper Police Department,1996,Tennessee,3046,TN05803,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jasper Police Department,1995,Tennessee,3010,TN05803,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jasper Police Department,1994,Tennessee,2977,TN05803,8,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jasper Police Department,2e3,Tennessee,3214,TN05803,8,1,7,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Jasper Police Department,1999,Tennessee,2825,TN05803,8,1,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jasper Police Department,1998,Tennessee,2880,TN05803,7,1,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jasper Police Department,1997,Tennessee,3073,TN05803,7,1,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jasper Police Department,1996,Tennessee,3046,TN05803,7,0,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jasper Police Department,1995,Tennessee,3010,TN05803,7,0,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jasper Police Department,1994,Tennessee,2977,TN05803,8,0,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jasper Police Department,1993,Tennessee,2934,TN05803,8,0,8,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jasper Police Department,1992,Tennessee,2863,TN05803,7,0,7,3,1,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jasper Police Department,1991,Tennessee,2823,TN05803,8,0,8,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,4 +38,4 @@ Jasper Police Department,1981,Tennessee,2691,TN05803,9,1,8,0,0,0,0,0,0,0,0,0,0,0
 Jasper Police Department,1980,Tennessee,2653,TN05803,10,3,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Jasper Police Department,1979,Tennessee,2254,TN05803,10,3,7,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
 Jasper Police Department,1978,Tennessee,2303,TN05803,5,0,5,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jasper Police Department,1977,Tennessee,2502,TN05803,4,0,4,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jasper Police Department,1977,Tennessee,2502,TN05803,4,0,4,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

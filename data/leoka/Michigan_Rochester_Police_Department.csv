@@ -15,11 +15,11 @@ Rochester Police Department,2004,Michigan,11057,MI63702,21,1,20,8,6,2,0,0,0,0,0,
 Rochester Police Department,2003,Michigan,10802,MI63702,20,1,19,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rochester Police Department,2002,Michigan,10585,MI63702,21,1,20,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rochester Police Department,2001,Michigan,10522,MI63702,21,1,20,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rochester Police Department,2000,Michigan,10467,MI63702,20,1,19,7,6,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Rochester Police Department,2e3,Michigan,10467,MI63702,20,1,19,7,6,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Rochester Police Department,1999,Michigan,8246,MI63702,18,1,17,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rochester Police Department,1998,Michigan,7531,MI63702,17,0,17,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rochester Police Department,1997,Michigan,7712,MI63702,15,0,15,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rochester Police Department,1996,Michigan,7570,MI63702,15,0,15,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rochester Police Department,1996,Michigan,7570,MI63702,15,0,15,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rochester Police Department,1995,Michigan,7535,MI63702,15,0,15,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rochester Police Department,1994,Michigan,7182,MI63702,14,0,14,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rochester Police Department,1993,Michigan,7169,MI63702,14,0,14,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,7 +28,7 @@ Rochester Police Department,1991,Michigan,7185,MI63702,14,0,14,6,6,0,0,0,0,0,0,0
 Rochester Police Department,1990,Michigan,7130,MI63702,14,0,14,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rochester Police Department,1989,Michigan,8781,MI63702,14,0,14,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rochester Police Department,1988,Michigan,8193,MI63702,14,0,14,6,4,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0
-Rochester Police Department,1987,Michigan,7999,MI63702,13,0,13,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rochester Police Department,1987,Michigan,7999,MI63702,13,0,13,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rochester Police Department,1986,Michigan,7881,MI63702,13,0,13,6,4,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Rochester Police Department,1985,Michigan,7365,MI63702,13,0,13,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rochester Police Department,1984,Michigan,7354,MI63702,12,0,12,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Rochester Police Department,1980,Michigan,7202,MI63702,11,0,11,5,1,4,0,0,0,0,0,0
 Rochester Police Department,1979,Michigan,9149,MI63702,11,0,11,6,2,4,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0
 Rochester Police Department,1978,Michigan,9176,MI63702,11,0,11,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rochester Police Department,1977,Michigan,9016,MI63702,11,0,11,5,2,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
-Rochester Police Department,1976,Michigan,7750,MI63702,11,0,11,5,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rochester Police Department,1976,Michigan,7750,MI63702,11,0,11,5,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rochester Police Department,1975,Michigan,7523,MI63702,11,0,11,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

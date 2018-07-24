@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Carmel Police,2015,Indiana,88511,IN02901,112,10,102,23,14,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Carmel Police,2014,Indiana,87555,IN02901,112,10,102,23,14,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carmel Police,2014,Indiana,87555,IN02901,112,10,102,23,14,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Carmel Police,2013,Indiana,84880,IN02901,111,11,100,24,15,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Carmel Police,2012,Indiana,81819,IN02901,108,11,97,23,15,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Carmel Police,2011,Indiana,79596,IN02901,110,10,100,21,15,6,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
@@ -14,7 +14,7 @@ Carmel Police,2004,Indiana,43375,IN02901,90,8,82,16,13,3,0,0,0,0,0,0,0,0,0,0,0,0
 Carmel Police,2003,Indiana,41121,IN02901,82,7,75,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Carmel Police,2002,Indiana,38221,IN02901,75,7,68,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Carmel Police,2001,Indiana,37946,IN02901,74,7,67,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Carmel Police,2000,Indiana,37733,IN02901,73,7,66,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carmel Police,2e3,Indiana,37733,IN02901,73,7,66,14,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Carmel Police,1999,Indiana,42386,IN02901,72,7,65,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Carmel Police,1998,Indiana,38832,IN02901,70,7,63,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Carmel Police,1997,Indiana,32021,IN02901,67,6,61,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -30,7 +30,7 @@ Carmel Police,1988,Indiana,21853,IN02901,40,3,37,13,12,1,0,0,2,0,0,1,1,5,0,0,5,0
 Carmel Police,1987,Indiana,20924,IN02901,37,2,35,14,11,3,0,0,8,0,0,8,0,0,0,0,0,0,8,0,0,8,0,0,0,0,3,0,2,0,1,0,0,2
 Carmel Police,1986,Indiana,19233,IN02901,33,1,32,12,2,10,0,0,4,0,0,2,2,8,0,0,8,0,12,0,0,10,2,2,0,2,0,0,2,0,2,0,0,4
 Carmel Police,1985,Indiana,18625,IN02901,31,0,31,12,10,2,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,1,0,0,0,0,1,0,2,0,0,1
-Carmel Police,1984,Indiana,18624,IN02901,32,0,32,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carmel Police,1984,Indiana,18624,IN02901,32,0,32,9,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Carmel Police,1983,Indiana,18131,IN02901,27,0,27,7,4,3,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,0,1
 Carmel Police,1982,Indiana,18105,IN02901,27,0,27,7,5,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Carmel Police,1981,Indiana,18088,IN02901,27,1,26,8,5,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0

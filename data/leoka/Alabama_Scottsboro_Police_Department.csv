@@ -1,10 +1,10 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Scottsboro Police Department,2016,Alabama,14711,AL03901,44,3,41,24,13,11,0,0,0,0,0,0,0,6,0,0,0,6,6,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0
 Scottsboro Police Department,2015,Alabama,14742,AL03901,44,3,41,26,14,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scottsboro Police Department,2014,Alabama,14846,AL03901,44,3,41,25,14,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scottsboro Police Department,2014,Alabama,14846,AL03901,44,3,41,25,14,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Scottsboro Police Department,2013,Alabama,14791,AL03901,46,3,43,24,14,10,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Scottsboro Police Department,2012,Alabama,14855,AL03901,46,4,42,22,10,12,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-Scottsboro Police Department,2011,Alabama,14841,AL03901,46,4,42,23,13,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scottsboro Police Department,2011,Alabama,14841,AL03901,46,4,42,23,13,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Scottsboro Police Department,2010,Alabama,14770,AL03901,46,4,42,24,14,10,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Scottsboro Police Department,2009,Alabama,15015,AL03901,45,4,41,24,12,12,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,1,0,0,2,0,1,0,0,0
 Scottsboro Police Department,2008,Alabama,14870,AL03901,44,4,40,22,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,17 +15,17 @@ Scottsboro Police Department,2004,Alabama,14873,AL03901,45,3,42,20,10,10,0,0,0,0
 Scottsboro Police Department,2003,Alabama,14858,AL03901,44,3,41,21,11,10,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Scottsboro Police Department,2002,Alabama,14892,AL03901,44,3,41,16,11,5,0,0,2,0,0,1,1,1,0,0,1,0,3,0,0,2,1,0,0,0,0,0,1,0,1,0,0,1
 Scottsboro Police Department,2001,Alabama,14819,AL03901,44,3,41,22,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scottsboro Police Department,2000,Alabama,14762,AL03901,41,3,38,23,11,12,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Scottsboro Police Department,2e3,Alabama,14762,AL03901,41,3,38,23,11,12,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Scottsboro Police Department,1999,Alabama,14273,AL03901,38,2,36,24,13,11,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1
 Scottsboro Police Department,1998,Alabama,14261,AL03901,38,1,37,20,8,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scottsboro Police Department,1997,Alabama,14952,AL03901,38,1,37,20,11,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scottsboro Police Department,1996,Alabama,14793,AL03901,37,2,35,26,13,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Scottsboro Police Department,1995,Alabama,14724,AL03901,36,2,34,20,9,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Scottsboro Police Department,1994,Alabama,14602,AL03901,35,2,33,20,9,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scottsboro Police Department,1996,Alabama,14793,AL03901,37,2,35,26,13,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Scottsboro Police Department,1995,Alabama,14724,AL03901,36,2,34,20,9,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Scottsboro Police Department,1994,Alabama,14602,AL03901,35,2,33,20,9,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Scottsboro Police Department,1993,Alabama,14492,AL03901,33,2,31,17,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scottsboro Police Department,1992,Alabama,14111,AL03901,34,2,32,9,4,5,0,0,2,0,0,2,0,2,0,0,10,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
-Scottsboro Police Department,1991,Alabama,13951,AL03901,34,2,32,10,3,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Scottsboro Police Department,1990,Alabama,13786,AL03901,30,1,29,10,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scottsboro Police Department,1991,Alabama,13951,AL03901,34,2,32,10,3,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Scottsboro Police Department,1990,Alabama,13786,AL03901,30,1,29,10,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Scottsboro Police Department,1989,Alabama,13795,AL03901,30,0,30,12,4,8,0,0,3,0,0,3,0,6,0,0,6,0,9,0,0,9,0,0,0,2,0,0,5,0,2,0,0,0
 Scottsboro Police Department,1988,Alabama,14164,AL03901,26,0,26,9,2,7,0,0,1,0,1,0,0,6,0,0,5,1,7,0,1,5,1,1,0,1,0,0,2,0,3,0,0,0
 Scottsboro Police Department,1987,Alabama,14036,AL03901,25,0,25,9,2,7,0,0,1,0,0,0,1,13,0,0,11,2,14,0,0,11,3,1,0,5,0,0,1,0,4,0,1,2
@@ -40,4 +40,4 @@ Scottsboro Police Department,1979,Alabama,14677,AL03901,24,2,22,5,1,4,0,0,0,0,0,
 Scottsboro Police Department,1978,Alabama,13735,AL03901,23,1,22,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scottsboro Police Department,1977,Alabama,13060,AL03901,25,2,23,3,1,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Scottsboro Police Department,1976,Alabama,12917,AL03901,24,3,21,4,2,2,0,0,1,0,0,1,0,5,0,0,3,2,6,0,0,4,2,0,0,2,0,0,0,0,2,0,0,2
-Scottsboro Police Department,1975,Alabama,10747,AL03901,24,3,21,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scottsboro Police Department,1975,Alabama,10747,AL03901,24,3,21,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -13,16 +13,16 @@ Kingman Police Department,2006,Arizona,26524,AZ00801,54,4,50,27,20,7,0,0,6,0,0,3
 Kingman Police Department,2005,Arizona,24997,AZ00801,53,4,49,25,19,6,0,0,3,0,0,2,1,13,0,0,12,1,16,0,0,14,2,1,0,7,0,0,1,0,3,0,2,2
 Kingman Police Department,2004,Arizona,23543,AZ00801,51,3,48,23,19,4,0,0,3,1,0,2,0,10,0,0,7,3,13,1,0,9,3,1,0,6,0,0,0,0,0,0,5,1
 Kingman Police Department,2003,Arizona,22595,AZ00801,51,5,46,22,17,5,0,0,5,1,0,3,1,14,2,0,10,2,19,3,0,13,3,1,0,10,0,0,1,1,3,0,1,2
-Kingman Police Department,2002,Arizona,21344,AZ00801,45,4,41,22,20,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman Police Department,2002,Arizona,21344,AZ00801,45,4,41,22,20,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kingman Police Department,2001,Arizona,20760,AZ00801,46,4,42,22,21,1,0,0,9,0,0,8,1,16,7,0,6,3,25,7,0,14,4,0,0,6,1,0,0,1,4,3,2,8
-Kingman Police Department,2000,Arizona,20069,AZ00801,48,4,44,21,19,2,0,0,5,0,0,5,0,9,0,0,9,0,14,0,0,14,0,0,0,2,0,0,0,0,10,0,1,1
+Kingman Police Department,2e3,Arizona,20069,AZ00801,48,4,44,21,19,2,0,0,5,0,0,5,0,9,0,0,9,0,14,0,0,14,0,0,0,2,0,0,0,0,10,0,1,1
 Kingman Police Department,1999,Arizona,18801,AZ00801,45,4,41,22,18,4,0,0,4,0,0,4,0,11,0,1,10,0,15,0,1,14,0,1,0,5,0,0,3,0,5,0,1,0
 Kingman Police Department,1998,Arizona,18104,AZ00801,43,5,38,21,18,3,0,0,3,0,0,2,1,5,0,1,3,1,8,0,1,5,2,0,1,3,0,0,0,1,2,0,1,0
-Kingman Police Department,1997,Arizona,17819,AZ00801,43,5,38,18,16,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman Police Department,1997,Arizona,17819,AZ00801,43,5,38,18,16,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kingman Police Department,1996,Arizona,17323,AZ00801,39,6,33,18,16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kingman Police Department,1995,Arizona,16502,AZ00801,39,5,34,18,16,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kingman Police Department,1994,Arizona,15342,AZ00801,37,5,32,17,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kingman Police Department,1993,Arizona,14819,AZ00801,35,4,31,15,15,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman Police Department,1993,Arizona,14819,AZ00801,35,4,31,15,15,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kingman Police Department,1992,Arizona,13300,AZ00801,34,4,30,16,16,0,0,0,3,0,0,3,0,1,1,0,9,0,4,1,0,3,0,2,0,0,0,0,1,0,1,0,0,0
 Kingman Police Department,1991,Arizona,13016,AZ00801,32,3,29,16,16,0,0,0,2,0,0,2,0,1,1,0,0,0,3,1,0,2,0,2,0,0,0,0,0,0,1,0,0,0
 Kingman Police Department,1990,Arizona,12722,AZ00801,31,3,28,16,16,0,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,0,2,0,2,0,0,1,0,0,0,0,0
@@ -39,5 +39,5 @@ Kingman Police Department,1980,Arizona,9242,AZ00801,25,6,19,10,7,3,0,0,1,0,0,1,0
 Kingman Police Department,1979,Arizona,8839,AZ00801,19,3,16,12,11,1,0,0,5,0,0,5,0,2,0,0,2,0,7,0,0,7,0,0,0,2,0,0,0,0,3,0,0,2
 Kingman Police Department,1978,Arizona,8116,AZ00801,21,3,18,11,11,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
 Kingman Police Department,1977,Arizona,7237,AZ00801,20,2,18,11,11,0,0,0,1,0,0,1,0,12,3,0,9,0,13,3,0,10,0,0,0,4,0,0,0,0,9,0,0,0
-Kingman Police Department,1976,Arizona,7397,AZ00801,20,2,18,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kingman Police Department,1976,Arizona,7397,AZ00801,20,2,18,8,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kingman Police Department,1975,Arizona,7406,AZ00801,20,1,19,11,11,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0

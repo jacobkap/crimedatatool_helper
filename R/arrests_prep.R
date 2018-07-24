@@ -79,9 +79,9 @@ for (selected_ori in sort(unique(arrests$ORI))) {
   agency <- gsub(" |:", "_", agency)
   agency <- gsub("/", "_", agency)
   agency <- gsub("_+", "_", agency)
-  data.table::fwrite(temp,
-                   file = paste0(state, "_", agency, ".csv"))
-  message(selected_ori)
+
+  readr::write_csv(temp,
+                   path = paste0(state, "_", agency, ".csv"))
 }
 
 for (selected_state in unique(arrests$state)) {
@@ -99,4 +99,5 @@ largest_agency <- arrests %>%
 largest_agency <- jsonlite::toJSON(largest_agency, pretty = TRUE)
 write(largest_agency, "largest_agency_choices.json")
 rm(arrests); gc()
+
 

@@ -7,7 +7,7 @@ Edina Police Department,2012,Minnesota,48932,MN02706,48,5,43,21,17,4,0,0,0,0,0,0
 Edina Police Department,2011,Minnesota,48311,MN02706,50,5,45,18,15,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Edina Police Department,2010,Minnesota,47941,MN02706,51,6,45,17,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Edina Police Department,2009,Minnesota,45414,MN02706,51,5,46,17,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Edina Police Department,2008,Minnesota,45730,MN02706,51,6,45,17,14,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Edina Police Department,2008,Minnesota,45730,MN02706,51,6,45,17,14,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Edina Police Department,2007,Minnesota,45007,MN02706,51,4,47,17,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Edina Police Department,2006,Minnesota,45872,MN02706,50,5,45,16,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Edina Police Department,2005,Minnesota,46369,MN02706,50,5,45,17,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Edina Police Department,2004,Minnesota,47039,MN02706,50,4,46,17,14,3,0,0,0,0,0,0
 Edina Police Department,2003,Minnesota,47486,MN02706,49,4,45,16,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Edina Police Department,2002,Minnesota,48391,MN02706,49,6,43,17,15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Edina Police Department,2001,Minnesota,47934,MN02706,49,6,43,16,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Edina Police Department,2000,Minnesota,47425,MN02706,48,6,42,17,15,2,0,0,2,2,0,0,0,2,2,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+Edina Police Department,2e3,Minnesota,47425,MN02706,48,6,42,17,15,2,0,0,2,2,0,0,0,2,2,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0
 Edina Police Department,1999,Minnesota,46380,MN02706,49,6,43,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Edina Police Department,1998,Minnesota,46708,MN02706,49,6,43,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Edina Police Department,1997,Minnesota,47727,MN02706,49,5,44,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,9 +35,9 @@ Edina Police Department,1984,Minnesota,46029,MN02706,43,2,41,4,3,1,0,0,0,0,0,0,0
 Edina Police Department,1983,Minnesota,46937,MN02706,43,2,41,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Edina Police Department,1982,Minnesota,46813,MN02706,43,2,41,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Edina Police Department,1981,Minnesota,46326,MN02706,41,2,39,18,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Edina Police Department,1980,Minnesota,46000,MN02706,42,2,40,6,4,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
+Edina Police Department,1980,Minnesota,46e3,MN02706,42,2,40,6,4,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
 Edina Police Department,1979,Minnesota,49178,MN02706,43,2,41,7,4,3,0,0,5,0,0,5,0,2,1,0,1,0,7,1,0,6,0,2,0,5,0,0,0,0,0,0,0,0
 Edina Police Department,1978,Minnesota,48940,MN02706,43,2,41,9,4,5,0,0,1,0,0,1,0,4,1,0,3,0,5,1,0,4,0,0,0,3,0,0,0,2,0,0,0,0
 Edina Police Department,1977,Minnesota,47458,MN02706,43,1,42,9,5,4,0,0,1,0,0,1,0,2,0,0,1,1,3,0,0,2,1,0,0,1,0,0,1,1,0,0,0,0
-Edina Police Department,1976,Minnesota,48325,MN02706,44,1,43,9,3,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Edina Police Department,1976,Minnesota,48325,MN02706,44,1,43,9,3,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Edina Police Department,1975,Minnesota,48366,MN02706,46,1,45,10,4,6,0,0,3,0,0,3,0,7,1,0,6,0,10,1,0,9,0,0,0,0,0,0,3,1,5,1,0,0

@@ -9,14 +9,14 @@ Greenville Police Department,2006,Mississippi,38584,MS07601,103,16,87,41,35,6,0,
 Greenville Police Department,2005,Mississippi,39222,MS07601,94,12,82,35,28,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,2004,Mississippi,39818,MS07601,86,13,73,34,26,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,2003,Mississippi,40419,MS07601,87,14,73,38,28,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Greenville Police Department,2002,Mississippi,42030,MS07601,82,16,66,37,26,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Police Department,2002,Mississippi,42030,MS07601,82,16,66,37,26,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Greenville Police Department,2001,Mississippi,41829,MS07601,102,16,86,39,29,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Greenville Police Department,2000,Mississippi,41633,MS07601,106,18,88,38,28,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Greenville Police Department,1999,Mississippi,42294,MS07601,103,17,86,39,28,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Police Department,2e3,Mississippi,41633,MS07601,106,18,88,38,28,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greenville Police Department,1999,Mississippi,42294,MS07601,103,17,86,39,28,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Greenville Police Department,1998,Mississippi,43158,MS07601,103,14,89,39,29,10,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,0,0,0,1,0,0,0,3,0,1,0
 Greenville Police Department,1997,Mississippi,45423,MS07601,108,13,95,39,29,10,0,0,6,0,0,5,1,20,0,0,17,3,26,0,0,22,4,0,1,6,0,0,2,0,15,0,1,1
 Greenville Police Department,1996,Mississippi,45174,MS07601,100,14,86,38,9,29,0,0,1,0,0,0,1,16,0,0,16,0,17,0,0,16,1,0,0,7,0,4,0,0,6,0,0,0
-Greenville Police Department,1995,Mississippi,44859,MS07601,99,14,85,44,33,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Police Department,1995,Mississippi,44859,MS07601,99,14,85,44,33,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Greenville Police Department,1994,Mississippi,44937,MS07601,100,12,88,45,34,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1993,Mississippi,44500,MS07601,91,10,81,39,28,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1992,Mississippi,45942,MS07601,89,10,79,42,29,13,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,7 +25,7 @@ Greenville Police Department,1990,Mississippi,45226,MS07601,91,10,81,35,23,12,0,
 Greenville Police Department,1989,Mississippi,46123,MS07601,84,9,75,26,17,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1988,Mississippi,39863,MS07601,88,9,79,27,19,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1987,Mississippi,39998,MS07601,78,6,72,26,19,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Greenville Police Department,1986,Mississippi,41059,MS07601,75,5,70,28,19,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Greenville Police Department,1986,Mississippi,41059,MS07601,75,5,70,28,19,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Greenville Police Department,1985,Mississippi,41753,MS07601,75,5,70,24,14,10,0,0,3,1,2,0,0,0,0,0,0,0,3,1,2,0,0,0,0,1,0,0,0,2,0,0,0,0
 Greenville Police Department,1984,Mississippi,41512,MS07601,72,5,67,21,14,7,0,0,3,0,1,2,0,0,0,0,0,0,3,0,1,2,0,0,0,0,0,0,0,0,1,0,2,0
 Greenville Police Department,1983,Mississippi,41722,MS07601,76,6,70,24,15,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,6 +33,6 @@ Greenville Police Department,1982,Mississippi,41142,MS07601,74,7,67,21,13,8,0,0,
 Greenville Police Department,1981,Mississippi,40804,MS07601,76,7,69,22,14,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1979,Mississippi,43436,MS07601,78,4,74,16,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1978,Mississippi,43226,MS07601,72,3,69,19,12,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Greenville Police Department,1977,Mississippi,50000,MS07601,77,3,74,21,15,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Greenville Police Department,1976,Mississippi,47000,MS07601,73,3,70,18,12,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greenville Police Department,1977,Mississippi,5e4,MS07601,77,3,74,21,15,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greenville Police Department,1976,Mississippi,47e3,MS07601,73,3,70,18,12,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Greenville Police Department,1975,Mississippi,41382,MS07601,68,0,68,14,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

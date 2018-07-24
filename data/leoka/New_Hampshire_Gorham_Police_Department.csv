@@ -15,10 +15,10 @@ Gorham Police Department,2004,New Hampshire,2944,NH00430,7,1,6,3,3,0,0,0,0,0,0,0
 Gorham Police Department,2003,New Hampshire,2952,NH00430,8,0,8,3,3,0,0,0,0,0,0,0,0,7,0,0,7,0,7,0,0,7,0,1,0,0,0,0,6,0,0,0,0,0
 Gorham Police Department,2002,New Hampshire,2987,NH00430,7,0,7,3,3,0,0,0,0,0,0,0,0,5,0,1,2,2,5,0,1,2,2,0,0,0,0,0,0,0,1,0,4,0
 Gorham Police Department,2001,New Hampshire,2950,NH00430,8,0,8,1,1,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,2,0,1,0,0,0
-Gorham Police Department,2000,New Hampshire,2895,NH00430,9,0,9,1,1,0,0,0,6,0,0,3,3,3,0,0,3,0,9,0,0,6,3,1,0,5,0,0,1,0,1,0,0,1
+Gorham Police Department,2e3,New Hampshire,2895,NH00430,9,0,9,1,1,0,0,0,6,0,0,3,3,3,0,0,3,0,9,0,0,6,3,1,0,5,0,0,1,0,1,0,0,1
 Gorham Police Department,1999,New Hampshire,2915,NH00430,9,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gorham Police Department,1998,New Hampshire,2952,NH00430,9,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gorham Police Department,1997,New Hampshire,3340,NH00430,8,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gorham Police Department,1997,New Hampshire,3340,NH00430,8,0,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gorham Police Department,1996,New Hampshire,3309,NH00430,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gorham Police Department,1995,New Hampshire,3270,NH00430,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gorham Police Department,1994,New Hampshire,3239,NH00430,8,0,8,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0
@@ -33,11 +33,11 @@ Gorham Police Department,1986,New Hampshire,3305,NH00430,8,0,8,1,1,0,0,0,0,0,0,0
 Gorham Police Department,1985,New Hampshire,3401,NH00430,8,0,8,4,0,4,0,0,0,0,0,0,0,9,0,0,9,0,9,0,0,9,0,0,0,1,0,0,1,0,6,0,0,1
 Gorham Police Department,1984,New Hampshire,3329,NH00430,7,0,7,1,1,0,0,0,0,0,0,0,0,6,0,0,5,1,6,0,0,5,1,0,0,0,0,0,1,0,4,0,0,1
 Gorham Police Department,1983,New Hampshire,3456,NH00430,7,0,7,0,0,0,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,0,0,0,0,0,1,1,2,0,0,0
-Gorham Police Department,1982,New Hampshire,3428,NH00430,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gorham Police Department,1982,New Hampshire,3428,NH00430,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gorham Police Department,1981,New Hampshire,3370,NH00430,7,0,7,1,0,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Gorham Police Department,1980,New Hampshire,3313,NH00430,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gorham Police Department,1979,New Hampshire,3253,NH00430,7,0,7,1,1,0,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,0,0,1,0,0,3,0,0,1
 Gorham Police Department,1978,New Hampshire,3108,NH00430,6,0,6,6,4,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Gorham Police Department,1977,New Hampshire,3235,NH00430,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gorham Police Department,1977,New Hampshire,3235,NH00430,7,0,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gorham Police Department,1976,New Hampshire,3185,NH00430,7,0,7,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,2,0,0,0,0,1
-Gorham Police Department,1975,New Hampshire,3154,NH00430,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gorham Police Department,1975,New Hampshire,3154,NH00430,7,0,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

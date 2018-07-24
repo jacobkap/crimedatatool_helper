@@ -15,9 +15,9 @@ Calvert County Sheriff's Office,2004,Maryland,84860,MD00500,87,5,82,16,14,2,0,0,
 Calvert County Sheriff's Office,2003,Maryland,81659,MD00500,80,6,74,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Calvert County Sheriff's Office,2002,Maryland,76838,MD00500,77,4,73,14,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Calvert County Sheriff's Office,2001,Maryland,75671,MD00500,68,3,65,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Calvert County Sheriff's Office,2000,Maryland,74563,MD00500,76,3,73,13,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calvert County Sheriff's Office,2e3,Maryland,74563,MD00500,76,3,73,13,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Calvert County Sheriff's Office,1999,Maryland,72392,MD00500,72,4,68,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Calvert County Sheriff's Office,1998,Maryland,69972,MD00500,68,4,64,10,6,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Calvert County Sheriff's Office,1998,Maryland,69972,MD00500,68,4,64,10,6,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Calvert County Sheriff's Office,1997,Maryland,63271,MD00500,59,3,56,11,7,4,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,1,0
 Calvert County Sheriff's Office,1996,Maryland,62998,MD00500,60,3,57,11,7,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Calvert County Sheriff's Office,1995,Maryland,62626,MD00500,62,3,59,7,6,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
@@ -30,7 +30,7 @@ Calvert County Sheriff's Office,1989,Maryland,45957,MD00500,38,2,36,3,3,0,0,0,0,
 Calvert County Sheriff's Office,1988,Maryland,44777,MD00500,27,2,25,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Calvert County Sheriff's Office,1987,Maryland,41750,MD00500,21,1,20,2,2,0,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,1,0,0,0,0,3,0,0,0
 Calvert County Sheriff's Office,1986,Maryland,38063,MD00500,22,1,21,2,2,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,0,0,0,2
-Calvert County Sheriff's Office,1985,Maryland,37799,MD00500,18,1,17,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Calvert County Sheriff's Office,1985,Maryland,37799,MD00500,18,1,17,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Calvert County Sheriff's Office,1984,Maryland,35116,MD00500,19,1,18,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Calvert County Sheriff's Office,1983,Maryland,33719,MD00500,18,0,18,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Calvert County Sheriff's Office,1982,Maryland,33414,MD00500,19,0,19,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -40,4 +40,4 @@ Calvert County Sheriff's Office,1979,Maryland,29250,MD00500,16,0,16,1,1,0,0,0,0,
 Calvert County Sheriff's Office,1978,Maryland,27102,MD00500,15,0,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Calvert County Sheriff's Office,1977,Maryland,24951,MD00500,16,0,16,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Calvert County Sheriff's Office,1976,Maryland,24186,MD00500,14,0,14,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-Calvert County Sheriff's Office,1975,Maryland,23673,MD00500,13,0,13,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Calvert County Sheriff's Office,1975,Maryland,23673,MD00500,13,0,13,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

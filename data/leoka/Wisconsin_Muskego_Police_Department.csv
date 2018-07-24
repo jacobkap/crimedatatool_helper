@@ -12,12 +12,12 @@ Muskego Police Department,2007,Wisconsin,22961,WI06806,36,5,31,10,10,0,0,0,0,0,0
 Muskego Police Department,2006,Wisconsin,22956,WI06806,36,6,30,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Muskego Police Department,2005,Wisconsin,22711,WI06806,36,4,32,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Muskego Police Department,2004,Wisconsin,22464,WI06806,36,2,34,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Muskego Police Department,2003,Wisconsin,22180,WI06806,36,2,34,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Muskego Police Department,2002,Wisconsin,21707,WI06806,36,2,34,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Muskego Police Department,2001,Wisconsin,21550,WI06806,34,2,32,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Muskego Police Department,2000,Wisconsin,21397,WI06806,35,2,33,11,10,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Muskego Police Department,2003,Wisconsin,22180,WI06806,36,2,34,11,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Muskego Police Department,2002,Wisconsin,21707,WI06806,36,2,34,11,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Muskego Police Department,2001,Wisconsin,21550,WI06806,34,2,32,11,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Muskego Police Department,2e3,Wisconsin,21397,WI06806,35,2,33,11,10,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Muskego Police Department,1999,Wisconsin,21700,WI06806,33,3,30,10,10,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
-Muskego Police Department,1998,Wisconsin,21177,WI06806,32,3,29,10,10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Muskego Police Department,1998,Wisconsin,21177,WI06806,32,3,29,10,10,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Muskego Police Department,1997,Wisconsin,20315,WI06806,31,2,29,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Muskego Police Department,1996,Wisconsin,20276,WI06806,30,1,29,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Muskego Police Department,1995,Wisconsin,20131,WI06806,30,1,29,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -31,7 +31,7 @@ Muskego Police Department,1988,Wisconsin,16528,WI06806,24,0,24,10,10,0,0,0,0,0,0
 Muskego Police Department,1987,Wisconsin,16044,WI06806,24,0,24,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Muskego Police Department,1986,Wisconsin,15724,WI06806,24,0,24,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Muskego Police Department,1985,Wisconsin,15575,WI06806,23,0,23,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Muskego Police Department,1984,Wisconsin,15547,WI06806,21,1,20,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Muskego Police Department,1984,Wisconsin,15547,WI06806,21,1,20,8,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Muskego Police Department,1983,Wisconsin,15519,WI06806,22,0,22,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Muskego Police Department,1982,Wisconsin,15565,WI06806,22,0,22,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Muskego Police Department,1981,Wisconsin,15480,WI06806,22,0,22,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

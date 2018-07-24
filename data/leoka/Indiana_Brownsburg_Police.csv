@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Brownsburg Police,2015,Indiana,23770,IN03201,43,2,41,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,2014,Indiana,23539,IN03201,41,2,39,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brownsburg Police,2015,Indiana,23770,IN03201,43,2,41,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,2014,Indiana,23539,IN03201,41,2,39,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Brownsburg Police,2013,Indiana,22908,IN03201,38,2,36,8,8,0,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,0,0,0,0,1,3,0,0,0
 Brownsburg Police,2011,Indiana,21394,IN03201,41,2,39,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brownsburg Police,2010,Indiana,21285,IN03201,40,3,37,7,7,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -13,18 +13,18 @@ Brownsburg Police,2004,Indiana,17071,IN03201,35,4,31,18,16,2,0,0,0,0,0,0,0,1,0,0
 Brownsburg Police,2003,Indiana,16370,IN03201,30,4,26,15,13,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0
 Brownsburg Police,2002,Indiana,14707,IN03201,28,4,24,11,10,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1
 Brownsburg Police,2001,Indiana,14602,IN03201,28,3,25,14,12,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Brownsburg Police,2000,Indiana,14520,IN03201,27,4,23,11,9,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1999,Indiana,11866,IN03201,23,2,21,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1998,Indiana,10363,IN03201,24,1,23,11,10,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1997,Indiana,8816,IN03201,25,2,23,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1996,Indiana,8782,IN03201,22,1,21,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1995,Indiana,8725,IN03201,20,1,19,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1994,Indiana,8192,IN03201,18,1,17,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1993,Indiana,8137,IN03201,18,1,17,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1992,Indiana,7789,IN03201,16,1,15,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1991,Indiana,7718,IN03201,16,1,15,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1990,Indiana,7628,IN03201,14,1,13,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brownsburg Police,1989,Indiana,6753,IN03201,17,1,16,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brownsburg Police,2e3,Indiana,14520,IN03201,27,4,23,11,9,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1999,Indiana,11866,IN03201,23,2,21,10,9,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1998,Indiana,10363,IN03201,24,1,23,11,10,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1997,Indiana,8816,IN03201,25,2,23,10,9,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1996,Indiana,8782,IN03201,22,1,21,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1995,Indiana,8725,IN03201,20,1,19,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1994,Indiana,8192,IN03201,18,1,17,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1993,Indiana,8137,IN03201,18,1,17,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1992,Indiana,7789,IN03201,16,1,15,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1991,Indiana,7718,IN03201,16,1,15,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1990,Indiana,7628,IN03201,14,1,13,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brownsburg Police,1989,Indiana,6753,IN03201,17,1,16,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Brownsburg Police,1988,Indiana,6826,IN03201,13,1,12,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brownsburg Police,1987,Indiana,6663,IN03201,13,1,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brownsburg Police,1986,Indiana,6521,IN03201,13,1,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,4 +38,4 @@ Brownsburg Police,1979,Indiana,8948,IN03201,11,1,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,
 Brownsburg Police,1978,Indiana,7500,IN03201,14,1,13,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brownsburg Police,1977,Indiana,6137,IN03201,14,1,13,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brownsburg Police,1976,Indiana,5945,IN03201,12,1,11,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brownsburg Police,1975,Indiana,5916,IN03201,14,1,13,11,0,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brownsburg Police,1975,Indiana,5916,IN03201,14,1,13,11,0,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

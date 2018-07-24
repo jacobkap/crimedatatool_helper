@@ -15,11 +15,11 @@ Alcona County Sheriff's Office,2004,Michigan,11609,MI01101,15,0,15,11,6,5,0,0,0,
 Alcona County Sheriff's Office,2003,Michigan,11489,MI01101,15,0,15,11,6,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Alcona County Sheriff's Office,2002,Michigan,11851,MI01101,14,0,14,11,6,5,0,0,1,0,0,0,1,1,0,0,1,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1
 Alcona County Sheriff's Office,2001,Michigan,11781,MI01101,13,0,13,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Alcona County Sheriff's Office,2000,Michigan,11719,MI01101,13,0,13,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alcona County Sheriff's Office,2e3,Michigan,11719,MI01101,13,0,13,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alcona County Sheriff's Office,1999,Michigan,11161,MI01101,14,0,14,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alcona County Sheriff's Office,1998,Michigan,11028,MI01101,14,0,14,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alcona County Sheriff's Office,1997,Michigan,10691,MI01101,13,0,13,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Alcona County Sheriff's Office,1996,Michigan,10495,MI01101,13,0,13,8,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alcona County Sheriff's Office,1996,Michigan,10495,MI01101,13,0,13,8,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alcona County Sheriff's Office,1995,Michigan,10446,MI01101,13,0,13,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alcona County Sheriff's Office,1994,Michigan,10320,MI01101,12,0,12,11,8,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Alcona County Sheriff's Office,1993,Michigan,10301,MI01101,12,0,12,9,6,3,0,0,4,0,2,2,0,0,0,0,0,0,4,0,2,2,0,0,0,3,0,0,0,0,1,0,0,0
@@ -33,11 +33,11 @@ Alcona County Sheriff's Office,1986,Michigan,9588,MI01101,12,0,12,8,5,3,0,0,2,2,
 Alcona County Sheriff's Office,1985,Michigan,9586,MI01101,11,0,11,5,0,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Alcona County Sheriff's Office,1984,Michigan,9411,MI01101,12,0,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alcona County Sheriff's Office,1983,Michigan,8650,MI01101,11,0,11,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Alcona County Sheriff's Office,1982,Michigan,8689,MI01101,11,0,11,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alcona County Sheriff's Office,1982,Michigan,8689,MI01101,11,0,11,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alcona County Sheriff's Office,1981,Michigan,8776,MI01101,10,0,10,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alcona County Sheriff's Office,1980,Michigan,8802,MI01101,11,0,11,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alcona County Sheriff's Office,1979,Michigan,8191,MI01101,11,0,11,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alcona County Sheriff's Office,1978,Michigan,8041,MI01101,10,0,10,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alcona County Sheriff's Office,1977,Michigan,6386,MI01101,9,0,9,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Alcona County Sheriff's Office,1976,Michigan,7475,MI01101,9,0,9,5,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alcona County Sheriff's Office,1976,Michigan,7475,MI01101,9,0,9,5,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alcona County Sheriff's Office,1975,Michigan,7948,MI01101,8,0,8,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

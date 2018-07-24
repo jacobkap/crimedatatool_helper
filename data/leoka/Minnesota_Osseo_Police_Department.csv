@@ -7,7 +7,7 @@ Osseo Police Department,2012,Minnesota,2479,MN02716,5,0,5,1,1,0,0,0,0,0,0,0,0,0,
 Osseo Police Department,2011,Minnesota,2449,MN02716,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,2010,Minnesota,2430,MN02716,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,2009,Minnesota,2565,MN02716,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Osseo Police Department,2008,Minnesota,2602,MN02716,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Osseo Police Department,2008,Minnesota,2602,MN02716,5,0,5,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Osseo Police Department,2007,Minnesota,2553,MN02716,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,2006,Minnesota,2568,MN02716,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,2005,Minnesota,2596,MN02716,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Osseo Police Department,2004,Minnesota,2538,MN02716,5,0,5,1,1,0,0,0,0,0,0,0,0,0,
 Osseo Police Department,2003,Minnesota,2412,MN02716,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,2002,Minnesota,2483,MN02716,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,2001,Minnesota,2460,MN02716,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Osseo Police Department,2000,Minnesota,2434,MN02716,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Osseo Police Department,2e3,Minnesota,2434,MN02716,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,1999,Minnesota,2646,MN02716,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,1998,Minnesota,2673,MN02716,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,1997,Minnesota,2586,MN02716,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,6 +38,6 @@ Osseo Police Department,1981,Minnesota,2997,MN02716,3,0,3,0,0,0,0,0,0,0,0,0,0,0,
 Osseo Police Department,1980,Minnesota,2976,MN02716,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,1979,Minnesota,2687,MN02716,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Osseo Police Department,1978,Minnesota,2734,MN02716,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Osseo Police Department,1977,Minnesota,2946,MN02716,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Osseo Police Department,1976,Minnesota,3000,MN02716,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Osseo Police Department,1977,Minnesota,2946,MN02716,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Osseo Police Department,1976,Minnesota,3e3,MN02716,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Osseo Police Department,1975,Minnesota,2942,MN02716,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

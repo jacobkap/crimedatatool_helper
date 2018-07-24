@@ -12,10 +12,10 @@ Cache County Sheriff's Office,2007,Utah,34994,UT00300,114,21,93,33,20,13,0,0,0,0
 Cache County Sheriff's Office,2006,Utah,34614,UT00300,111,23,88,31,17,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cache County Sheriff's Office,2005,Utah,35664,UT00300,105,23,82,32,15,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cache County Sheriff's Office,2004,Utah,34809,UT00300,66,7,59,43,18,25,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-Cache County Sheriff's Office,2003,Utah,33994,UT00300,60,7,53,41,22,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cache County Sheriff's Office,2003,Utah,33994,UT00300,60,7,53,41,22,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cache County Sheriff's Office,2002,Utah,33545,UT00300,77,16,61,18,12,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cache County Sheriff's Office,2001,Utah,32873,UT00300,75,14,61,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cache County Sheriff's Office,2000,Utah,32342,UT00300,75,13,62,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cache County Sheriff's Office,2e3,Utah,32342,UT00300,75,13,62,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cache County Sheriff's Office,1999,Utah,40525,UT00300,69,14,55,8,6,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Cache County Sheriff's Office,1998,Utah,41480,UT00300,66,13,53,7,5,2,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
 Cache County Sheriff's Office,1997,Utah,38431,UT00300,58,12,46,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,7 +28,7 @@ Cache County Sheriff's Office,1991,Utah,38445,UT00300,41,5,36,14,10,4,0,0,0,0,0,
 Cache County Sheriff's Office,1990,Utah,37421,UT00300,36,3,33,16,10,6,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,2,0,0,2,0,0,0,0,0
 Cache County Sheriff's Office,1989,Utah,39015,UT00300,38,3,35,17,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cache County Sheriff's Office,1988,Utah,36907,UT00300,35,0,35,14,9,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Cache County Sheriff's Office,1987,Utah,36943,UT00300,34,0,34,19,8,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cache County Sheriff's Office,1987,Utah,36943,UT00300,34,0,34,19,8,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cache County Sheriff's Office,1986,Utah,36302,UT00300,38,2,36,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cache County Sheriff's Office,1985,Utah,32484,UT00300,30,2,28,22,9,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cache County Sheriff's Office,1984,Utah,31395,UT00300,37,2,35,13,7,6,1,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0
@@ -38,6 +38,6 @@ Cache County Sheriff's Office,1981,Utah,23833,UT00300,30,0,30,8,5,3,0,0,1,0,0,1,
 Cache County Sheriff's Office,1980,Utah,24894,UT00300,27,0,27,9,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cache County Sheriff's Office,1979,Utah,20794,UT00300,30,3,27,4,0,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Cache County Sheriff's Office,1978,Utah,22250,UT00300,27,1,26,3,0,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Cache County Sheriff's Office,1977,Utah,22489,UT00300,28,2,26,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Cache County Sheriff's Office,1976,Utah,23110,UT00300,26,2,24,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Cache County Sheriff's Office,1975,Utah,22879,UT00300,21,1,20,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cache County Sheriff's Office,1977,Utah,22489,UT00300,28,2,26,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cache County Sheriff's Office,1976,Utah,23110,UT00300,26,2,24,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cache County Sheriff's Office,1975,Utah,22879,UT00300,21,1,20,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

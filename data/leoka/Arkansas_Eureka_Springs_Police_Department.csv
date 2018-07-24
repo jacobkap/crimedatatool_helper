@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Eureka Springs Police Department,2016,Arkansas,2084,AR00802,12,0,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eureka Springs Police Department,2015,Arkansas,2088,AR00802,12,0,12,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eureka Springs Police Department,2014,Arkansas,2099,AR00802,12,0,12,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eureka Springs Police Department,2013,Arkansas,2075,AR00802,11,0,11,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eureka Springs Police Department,2013,Arkansas,2075,AR00802,11,0,11,6,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eureka Springs Police Department,2012,Arkansas,2082,AR00802,10,0,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eureka Springs Police Department,2011,Arkansas,2089,AR00802,10,0,10,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eureka Springs Police Department,2010,Arkansas,2073,AR00802,10,0,10,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -10,12 +10,12 @@ Eureka Springs Police Department,2009,Arkansas,2361,AR00802,10,0,10,6,3,3,0,0,0,
 Eureka Springs Police Department,2008,Arkansas,2356,AR00802,10,0,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eureka Springs Police Department,2007,Arkansas,2369,AR00802,11,1,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eureka Springs Police Department,2006,Arkansas,2377,AR00802,10,1,9,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eureka Springs Police Department,2005,Arkansas,2352,AR00802,10,1,9,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Eureka Springs Police Department,2004,Arkansas,2331,AR00802,10,1,9,8,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Eureka Springs Police Department,2003,Arkansas,2321,AR00802,10,1,9,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Eureka Springs Police Department,2002,Arkansas,2309,AR00802,10,1,9,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eureka Springs Police Department,2005,Arkansas,2352,AR00802,10,1,9,6,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eureka Springs Police Department,2004,Arkansas,2331,AR00802,10,1,9,8,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eureka Springs Police Department,2003,Arkansas,2321,AR00802,10,1,9,6,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eureka Springs Police Department,2002,Arkansas,2309,AR00802,10,1,9,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eureka Springs Police Department,2001,Arkansas,2294,AR00802,9,1,8,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eureka Springs Police Department,2000,Arkansas,2278,AR00802,10,1,9,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eureka Springs Police Department,2e3,Arkansas,2278,AR00802,10,1,9,5,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eureka Springs Police Department,1999,Arkansas,2348,AR00802,10,1,9,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eureka Springs Police Department,1998,Arkansas,2365,AR00802,10,1,9,5,4,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Eureka Springs Police Department,1997,Arkansas,2539,AR00802,10,1,9,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,6 +38,6 @@ Eureka Springs Police Department,1981,Arkansas,1992,AR00802,5,1,4,1,1,0,0,0,0,0,
 Eureka Springs Police Department,1980,Arkansas,1983,AR00802,6,1,5,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Eureka Springs Police Department,1979,Arkansas,1955,AR00802,5,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eureka Springs Police Department,1978,Arkansas,1932,AR00802,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eureka Springs Police Department,1977,Arkansas,2000,AR00802,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eureka Springs Police Department,1977,Arkansas,2e3,AR00802,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eureka Springs Police Department,1976,Arkansas,1740,AR00802,3,1,2,0,0,0,0,0,1,0,0,1,0,6,0,0,6,0,7,0,0,7,0,0,0,0,0,0,7,0,0,0,0,0
-Eureka Springs Police Department,1975,Arkansas,1996,AR00802,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eureka Springs Police Department,1975,Arkansas,1996,AR00802,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

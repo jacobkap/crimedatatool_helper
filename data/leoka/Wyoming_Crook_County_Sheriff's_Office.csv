@@ -15,7 +15,7 @@ Crook County Sheriff's Office,2004,Wyoming,3577,WY00600,6,0,6,7,7,0,0,0,0,0,0,0,
 Crook County Sheriff's Office,2003,Wyoming,3547,WY00600,6,0,6,12,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crook County Sheriff's Office,2002,Wyoming,3546,WY00600,5,0,5,12,7,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Crook County Sheriff's Office,2001,Wyoming,3515,WY00600,5,0,5,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crook County Sheriff's Office,2000,Wyoming,3511,WY00600,8,1,7,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crook County Sheriff's Office,2e3,Wyoming,3511,WY00600,8,1,7,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crook County Sheriff's Office,1999,Wyoming,3271,WY00600,8,1,7,6,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Crook County Sheriff's Office,1998,Wyoming,3254,WY00600,7,0,7,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crook County Sheriff's Office,1997,Wyoming,3116,WY00600,7,0,7,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,11 +33,11 @@ Crook County Sheriff's Office,1986,Wyoming,3602,WY00600,6,0,6,6,5,1,0,0,0,0,0,0,
 Crook County Sheriff's Office,1985,Wyoming,3624,WY00600,6,0,6,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crook County Sheriff's Office,1984,Wyoming,3446,WY00600,6,0,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crook County Sheriff's Office,1983,Wyoming,3585,WY00600,6,0,6,6,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Crook County Sheriff's Office,1982,Wyoming,4516,WY00600,6,0,6,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Crook County Sheriff's Office,1981,Wyoming,4426,WY00600,5,0,5,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crook County Sheriff's Office,1982,Wyoming,4516,WY00600,6,0,6,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Crook County Sheriff's Office,1981,Wyoming,4426,WY00600,5,0,5,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Crook County Sheriff's Office,1980,Wyoming,4218,WY00600,4,0,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crook County Sheriff's Office,1979,Wyoming,4518,WY00600,6,0,6,6,6,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
 Crook County Sheriff's Office,1978,Wyoming,5529,WY00600,10,1,9,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crook County Sheriff's Office,1977,Wyoming,5200,WY00600,6,2,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crook County Sheriff's Office,1977,Wyoming,5200,WY00600,6,2,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Crook County Sheriff's Office,1976,Wyoming,5120,WY00600,6,1,5,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Crook County Sheriff's Office,1975,Wyoming,5000,WY00600,6,0,6,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crook County Sheriff's Office,1975,Wyoming,5e3,WY00600,6,0,6,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

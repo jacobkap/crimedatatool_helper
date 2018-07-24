@@ -7,7 +7,7 @@ Snohomish Police Department,2012,Washington,9300,WA03107,18,2,16,3,3,0,0,0,1,0,0
 Snohomish Police Department,2011,Washington,9241,WA03107,18,2,16,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Snohomish Police Department,2010,Washington,9098,WA03107,19,4,15,5,4,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Snohomish Police Department,2009,Washington,8794,WA03107,20,4,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Snohomish Police Department,2008,Washington,8822,WA03107,21,4,17,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Snohomish Police Department,2008,Washington,8822,WA03107,21,4,17,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Snohomish Police Department,2007,Washington,8838,WA03107,21,3,18,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Snohomish Police Department,2006,Washington,8870,WA03107,20,2,18,4,3,1,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,1,0,0,0,0,0,0,2,0,0,0
 Snohomish Police Department,2005,Washington,8712,WA03107,18,2,16,4,3,1,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,0,0,0,1,0,5,0,0,0
@@ -15,7 +15,7 @@ Snohomish Police Department,2004,Washington,8722,WA03107,20,2,18,4,3,1,0,0,0,0,0
 Snohomish Police Department,2003,Washington,8623,WA03107,20,2,18,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Snohomish Police Department,2002,Washington,8746,WA03107,21,2,19,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Snohomish Police Department,2001,Washington,8629,WA03107,20,2,18,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Snohomish Police Department,2000,Washington,8494,WA03107,21,3,18,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Snohomish Police Department,2e3,Washington,8494,WA03107,21,3,18,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Snohomish Police Department,1999,Washington,8796,WA03107,19,2,17,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Snohomish Police Department,1998,Washington,8766,WA03107,19,1,18,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Snohomish Police Department,1997,Washington,7563,WA03107,17,1,16,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,11 +33,11 @@ Snohomish Police Department,1986,Washington,5656,WA03107,12,0,12,3,2,1,0,0,2,0,0
 Snohomish Police Department,1985,Washington,5652,WA03107,13,0,13,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Snohomish Police Department,1984,Washington,5575,WA03107,12,0,12,2,2,0,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,0,0,0,1,0,0,1,0,0,0,3,0
 Snohomish Police Department,1983,Washington,5490,WA03107,10,0,10,2,2,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
-Snohomish Police Department,1982,Washington,5420,WA03107,10,0,10,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Snohomish Police Department,1981,Washington,5378,WA03107,10,0,10,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Snohomish Police Department,1980,Washington,5252,WA03107,9,0,9,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Snohomish Police Department,1982,Washington,5420,WA03107,10,0,10,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Snohomish Police Department,1981,Washington,5378,WA03107,10,0,10,2,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Snohomish Police Department,1980,Washington,5252,WA03107,9,0,9,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Snohomish Police Department,1979,Washington,5357,WA03107,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Snohomish Police Department,1978,Washington,4970,WA03107,10,0,10,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Snohomish Police Department,1977,Washington,4936,WA03107,10,0,10,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Snohomish Police Department,1977,Washington,4936,WA03107,10,0,10,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Snohomish Police Department,1976,Washington,4795,WA03107,8,0,8,2,2,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0
-Snohomish Police Department,1975,Washington,4731,WA03107,8,0,8,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Snohomish Police Department,1975,Washington,4731,WA03107,8,0,8,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

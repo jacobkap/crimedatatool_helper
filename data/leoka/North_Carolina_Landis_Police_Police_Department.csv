@@ -1,11 +1,11 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Landis Police Police Department,2016,North Carolina,3121,NC08003,10,0,10,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Landis Police Police Department,2015,North Carolina,3112,NC08003,12,0,12,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Landis Police Police Department,2016,North Carolina,3121,NC08003,10,0,10,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Landis Police Police Department,2015,North Carolina,3112,NC08003,12,0,12,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Landis Police Police Department,2014,North Carolina,3108,NC08003,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Landis Police Police Department,2013,North Carolina,3090,NC08003,11,0,11,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Landis Police Police Department,2013,North Carolina,3090,NC08003,11,0,11,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Landis Police Police Department,2012,North Carolina,3131,NC08003,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Landis Police Police Department,2011,North Carolina,3148,NC08003,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Landis Police Police Department,2010,North Carolina,3109,NC08003,10,0,10,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Landis Police Police Department,2010,North Carolina,3109,NC08003,10,0,10,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Landis Police Police Department,2009,North Carolina,3133,NC08003,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Landis Police Police Department,2008,North Carolina,3111,NC08003,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Landis Police Police Department,2007,North Carolina,3074,NC08003,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Landis Police Police Department,2004,North Carolina,3045,NC08003,9,0,9,0,0,0,0,0
 Landis Police Police Department,2003,North Carolina,3039,NC08003,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Landis Police Police Department,2002,North Carolina,3096,NC08003,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Landis Police Police Department,2001,North Carolina,3047,NC08003,9,1,8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-Landis Police Police Department,2000,North Carolina,2996,NC08003,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Landis Police Police Department,2e3,North Carolina,2996,NC08003,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Landis Police Police Department,1999,North Carolina,2571,NC08003,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Landis Police Police Department,1998,North Carolina,2411,NC08003,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Landis Police Police Department,1997,North Carolina,2736,NC08003,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

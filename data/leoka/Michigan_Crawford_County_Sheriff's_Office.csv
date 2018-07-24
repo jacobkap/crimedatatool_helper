@@ -15,12 +15,12 @@ Crawford County Sheriff's Office,2004,Michigan,12890,MI20120,13,0,13,12,5,7,0,0,
 Crawford County Sheriff's Office,2003,Michigan,12801,MI20120,13,0,13,12,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,2002,Michigan,12459,MI20120,15,0,15,12,5,7,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Crawford County Sheriff's Office,2001,Michigan,12386,MI20120,15,0,15,12,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crawford County Sheriff's Office,2000,Michigan,12321,MI20120,15,0,15,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crawford County Sheriff's Office,2e3,Michigan,12321,MI20120,15,0,15,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,1999,Michigan,12240,MI20120,15,0,15,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,1998,Michigan,11689,MI20120,15,0,15,11,5,6,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Crawford County Sheriff's Office,1997,Michigan,11452,MI20120,17,0,17,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crawford County Sheriff's Office,1996,Michigan,11242,MI20120,16,0,16,11,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Crawford County Sheriff's Office,1995,Michigan,11190,MI20120,14,0,14,10,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crawford County Sheriff's Office,1996,Michigan,11242,MI20120,16,0,16,11,5,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Crawford County Sheriff's Office,1995,Michigan,11190,MI20120,14,0,14,10,4,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Crawford County Sheriff's Office,1994,Michigan,10924,MI20120,13,0,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,1993,Michigan,10904,MI20120,14,0,14,9,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,1992,Michigan,10472,MI20120,11,0,11,9,4,5,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,8 +36,8 @@ Crawford County Sheriff's Office,1983,Michigan,7548,MI20120,20,4,16,8,6,2,0,0,1,
 Crawford County Sheriff's Office,1982,Michigan,7582,MI20120,22,2,20,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,1981,Michigan,7658,MI20120,19,2,17,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,1980,Michigan,7681,MI20120,12,0,12,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crawford County Sheriff's Office,1979,Michigan,7261,MI20120,11,0,11,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crawford County Sheriff's Office,1979,Michigan,7261,MI20120,11,0,11,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Crawford County Sheriff's Office,1978,Michigan,6887,MI20120,26,1,25,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Crawford County Sheriff's Office,1977,Michigan,6788,MI20120,19,0,19,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Crawford County Sheriff's Office,1976,Michigan,5419,MI20120,18,1,17,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Crawford County Sheriff's Office,1976,Michigan,5419,MI20120,18,1,17,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Crawford County Sheriff's Office,1975,Michigan,5469,MI20120,16,1,15,2,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0

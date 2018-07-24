@@ -15,7 +15,7 @@ Beaver County Sheriff's Office,2004,Utah,5361,UT00100,12,0,12,29,12,17,0,0,0,0,0
 Beaver County Sheriff's Office,2003,Utah,5350,UT00100,13,0,13,30,11,19,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
 Beaver County Sheriff's Office,2002,Utah,5380,UT00100,13,0,13,27,9,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beaver County Sheriff's Office,2001,Utah,5273,UT00100,13,0,13,29,7,22,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-Beaver County Sheriff's Office,2000,Utah,5188,UT00100,14,0,14,29,8,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beaver County Sheriff's Office,2e3,Utah,5188,UT00100,14,0,14,29,8,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beaver County Sheriff's Office,1999,Utah,5255,UT00100,14,0,14,20,8,12,0,0,1,1,0,0,0,3,3,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0
 Beaver County Sheriff's Office,1998,Utah,2799,UT00100,14,0,14,20,8,12,0,0,1,0,0,1,0,2,0,0,1,1,3,0,0,2,1,0,0,0,0,0,3,0,0,0,0,0
 Beaver County Sheriff's Office,1997,Utah,2550,UT00100,13,1,12,7,4,3,0,0,0,0,0,0,0,6,0,0,4,2,6,0,0,4,2,0,0,3,0,0,0,0,2,0,1,0
@@ -24,9 +24,9 @@ Beaver County Sheriff's Office,1995,Utah,2417,UT00100,14,1,13,2,2,0,0,0,0,0,0,0,
 Beaver County Sheriff's Office,1994,Utah,2325,UT00100,6,0,6,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beaver County Sheriff's Office,1993,Utah,2267,UT00100,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beaver County Sheriff's Office,1992,Utah,2911,UT00100,11,3,8,1,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Beaver County Sheriff's Office,1991,Utah,2842,UT00100,11,3,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Beaver County Sheriff's Office,1990,Utah,2767,UT00100,6,0,6,6,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Beaver County Sheriff's Office,1989,Utah,2707,UT00100,7,0,7,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Beaver County Sheriff's Office,1991,Utah,2842,UT00100,11,3,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Beaver County Sheriff's Office,1990,Utah,2767,UT00100,6,0,6,6,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Beaver County Sheriff's Office,1989,Utah,2707,UT00100,7,0,7,5,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beaver County Sheriff's Office,1988,Utah,2960,UT00100,7,0,7,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beaver County Sheriff's Office,1987,Utah,1735,UT00100,5,0,5,5,2,3,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Beaver County Sheriff's Office,1986,Utah,1656,UT00100,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,8 +36,8 @@ Beaver County Sheriff's Office,1983,Utah,4858,UT00100,10,0,10,3,1,2,0,0,0,0,0,0,
 Beaver County Sheriff's Office,1982,Utah,4663,UT00100,7,0,7,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beaver County Sheriff's Office,1981,Utah,4549,UT00100,3,0,3,3,1,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Beaver County Sheriff's Office,1980,Utah,4377,UT00100,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Beaver County Sheriff's Office,1979,Utah,4496,UT00100,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Beaver County Sheriff's Office,1979,Utah,4496,UT00100,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beaver County Sheriff's Office,1978,Utah,2744,UT00100,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Beaver County Sheriff's Office,1977,Utah,4200,UT00100,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Beaver County Sheriff's Office,1977,Utah,4200,UT00100,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Beaver County Sheriff's Office,1976,Utah,4152,UT00100,5,0,5,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
 Beaver County Sheriff's Office,1975,Utah,4195,UT00100,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

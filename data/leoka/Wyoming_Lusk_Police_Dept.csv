@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Lusk Police Dept,2015,Wyoming,1580,WY01401,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lusk Police Dept,2014,Wyoming,1628,WY01401,5,0,5,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lusk Police Dept,2015,Wyoming,1580,WY01401,5,0,5,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lusk Police Dept,2014,Wyoming,1628,WY01401,5,0,5,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lusk Police Dept,2013,Wyoming,1548,WY01401,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lusk Police Dept,2012,Wyoming,1594,WY01401,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lusk Police Dept,2011,Wyoming,1580,WY01401,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -11,13 +11,13 @@ Lusk Police Dept,2007,Wyoming,1316,WY01401,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lusk Police Dept,2006,Wyoming,1363,WY01401,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lusk Police Dept,2005,Wyoming,1348,WY01401,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lusk Police Dept,2004,Wyoming,1334,WY01401,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lusk Police Dept,2003,Wyoming,1385,WY01401,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lusk Police Dept,2002,Wyoming,1462,WY01401,4,1,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lusk Police Dept,2003,Wyoming,1385,WY01401,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lusk Police Dept,2002,Wyoming,1462,WY01401,4,1,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lusk Police Dept,2001,Wyoming,1449,WY01401,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lusk Police Dept,2000,Wyoming,1447,WY01401,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lusk Police Dept,2e3,Wyoming,1447,WY01401,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lusk Police Dept,1999,Wyoming,1621,WY01401,5,1,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-Lusk Police Dept,1998,Wyoming,1566,WY01401,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lusk Police Dept,1997,Wyoming,1616,WY01401,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lusk Police Dept,1998,Wyoming,1566,WY01401,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lusk Police Dept,1997,Wyoming,1616,WY01401,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lusk Police Dept,1996,Wyoming,1620,WY01401,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lusk Police Dept,1995,Wyoming,1617,WY01401,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lusk Police Dept,1994,Wyoming,1549,WY01401,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,4 +37,4 @@ Lusk Police Dept,1981,Wyoming,1735,WY01401,5,0,5,5,5,0,0,0,2,0,0,2,0,1,1,0,0,0,3
 Lusk Police Dept,1980,Wyoming,1654,WY01401,5,0,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lusk Police Dept,1979,Wyoming,1895,WY01401,6,0,6,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lusk Police Dept,1978,Wyoming,2100,WY01401,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lusk Police Dept,1977,Wyoming,1485,WY01401,7,0,7,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lusk Police Dept,1977,Wyoming,1485,WY01401,7,0,7,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

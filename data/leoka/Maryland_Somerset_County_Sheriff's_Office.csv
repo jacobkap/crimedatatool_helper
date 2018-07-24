@@ -15,9 +15,9 @@ Somerset County Sheriff's Office,2004,Maryland,20460,MD02000,19,0,19,2,2,0,0,0,0
 Somerset County Sheriff's Office,2003,Maryland,20582,MD02000,15,0,15,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Somerset County Sheriff's Office,2002,Maryland,20314,MD02000,17,0,17,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Somerset County Sheriff's Office,2001,Maryland,20005,MD02000,15,0,15,2,2,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,2,0,0,0,0,0,0,0,1
-Somerset County Sheriff's Office,2000,Maryland,19711,MD02000,17,1,16,2,2,0,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,1,0,0,0,0,1,0,1,3,0,0
+Somerset County Sheriff's Office,2e3,Maryland,19711,MD02000,17,1,16,2,2,0,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,1,0,0,0,0,1,0,1,3,0,0
 Somerset County Sheriff's Office,1999,Maryland,19821,MD02000,16,0,16,2,2,0,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,1,0,0,0,0,0,0,2,0,0,1
-Somerset County Sheriff's Office,1998,Maryland,19962,MD02000,15,0,15,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Somerset County Sheriff's Office,1998,Maryland,19962,MD02000,15,0,15,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Somerset County Sheriff's Office,1997,Maryland,18863,MD02000,14,0,14,2,2,0,0,0,0,0,0,0,0,8,0,0,8,0,8,0,0,8,0,0,0,2,0,0,0,0,4,0,0,2
 Somerset County Sheriff's Office,1996,Maryland,18782,MD02000,13,0,13,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Somerset County Sheriff's Office,1995,Maryland,18671,MD02000,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,7 +28,7 @@ Somerset County Sheriff's Office,1991,Maryland,19204,MD02000,9,1,8,1,1,0,0,0,0,0
 Somerset County Sheriff's Office,1990,Maryland,18894,MD02000,9,1,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Somerset County Sheriff's Office,1989,Maryland,15143,MD02000,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Somerset County Sheriff's Office,1988,Maryland,15396,MD02000,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Somerset County Sheriff's Office,1987,Maryland,15119,MD02000,6,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Somerset County Sheriff's Office,1987,Maryland,15119,MD02000,6,1,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Somerset County Sheriff's Office,1986,Maryland,14751,MD02000,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Somerset County Sheriff's Office,1985,Maryland,14442,MD02000,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Somerset County Sheriff's Office,1984,Maryland,14574,MD02000,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -40,4 +40,4 @@ Somerset County Sheriff's Office,1979,Maryland,14942,MD02000,12,2,10,1,1,0,0,0,0
 Somerset County Sheriff's Office,1978,Maryland,15607,MD02000,13,4,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Somerset County Sheriff's Office,1977,Maryland,15422,MD02000,13,1,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Somerset County Sheriff's Office,1976,Maryland,15495,MD02000,14,1,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Somerset County Sheriff's Office,1975,Maryland,14145,MD02000,14,2,12,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Somerset County Sheriff's Office,1975,Maryland,14145,MD02000,14,2,12,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

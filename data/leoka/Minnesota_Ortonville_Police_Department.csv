@@ -7,7 +7,7 @@ Ortonville Police Department,2012,Minnesota,1917,MN00601,3,0,3,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,2011,Minnesota,1931,MN00601,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,2010,Minnesota,1916,MN00601,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,2009,Minnesota,1956,MN00601,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ortonville Police Department,2008,Minnesota,1960,MN00601,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ortonville Police Department,2008,Minnesota,1960,MN00601,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ortonville Police Department,2007,Minnesota,2003,MN00601,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,2006,Minnesota,2024,MN00601,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,2005,Minnesota,2072,MN00601,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Ortonville Police Department,2004,Minnesota,2113,MN00601,4,0,4,1,1,0,0,0,0,0,0,0
 Ortonville Police Department,2003,Minnesota,2128,MN00601,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,2002,Minnesota,2202,MN00601,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,2001,Minnesota,2181,MN00601,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ortonville Police Department,2000,Minnesota,2158,MN00601,4,0,4,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Ortonville Police Department,2e3,Minnesota,2158,MN00601,4,0,4,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Ortonville Police Department,1999,Minnesota,1981,MN00601,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,1998,Minnesota,1994,MN00601,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,1997,Minnesota,2127,MN00601,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Ortonville Police Department,1980,Minnesota,2541,MN00601,6,0,6,1,1,0,0,0,0,0,0,0
 Ortonville Police Department,1979,Minnesota,2687,MN00601,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,1978,Minnesota,2800,MN00601,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,1977,Minnesota,2917,MN00601,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ortonville Police Department,1976,Minnesota,3000,MN00601,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ortonville Police Department,1976,Minnesota,3e3,MN00601,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ortonville Police Department,1975,Minnesota,2650,MN00601,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

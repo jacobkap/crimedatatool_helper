@@ -15,7 +15,7 @@ Clarksville Police Department,2004,Tennessee,109047,TN06301,228,15,213,52,46,6,0
 Clarksville Police Department,2003,Tennessee,106710,TN06301,213,15,198,30,25,5,0,0,10,0,1,5,4,12,0,0,9,3,22,0,1,14,7,2,1,3,0,2,3,0,8,0,2,1
 Clarksville Police Department,2002,Tennessee,105419,TN06301,213,14,199,33,27,6,0,0,2,0,0,1,1,4,1,0,2,1,6,1,0,3,2,1,0,1,0,0,2,0,2,0,0,0
 Clarksville Police Department,2001,Tennessee,104378,TN06301,208,14,194,30,26,4,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
-Clarksville Police Department,2000,Tennessee,103455,TN06301,218,13,205,23,20,3,0,0,16,0,0,13,3,30,0,0,18,12,46,0,0,31,15,1,0,12,2,0,0,0,27,0,4,0
+Clarksville Police Department,2e3,Tennessee,103455,TN06301,218,13,205,23,20,3,0,0,16,0,0,13,3,30,0,0,18,12,46,0,0,31,15,1,0,12,2,0,0,0,27,0,4,0
 Clarksville Police Department,1999,Tennessee,98933,TN06301,201,15,186,24,21,3,0,0,13,0,0,10,3,36,0,0,26,10,49,0,0,36,13,0,0,16,1,0,5,0,25,0,2,0
 Clarksville Police Department,1998,Tennessee,98619,TN06301,189,12,177,23,20,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clarksville Police Department,1997,Tennessee,95550,TN06301,177,9,168,23,21,2,0,0,4,0,0,4,0,49,0,7,39,3,53,0,7,43,3,3,0,12,0,0,0,0,21,0,6,11
@@ -29,9 +29,9 @@ Clarksville Police Department,1990,Tennessee,75494,TN06301,131,7,124,19,15,4,0,0
 Clarksville Police Department,1989,Tennessee,73283,TN06301,129,7,122,22,15,7,0,0,4,0,0,2,2,14,2,0,11,1,18,2,0,13,3,1,0,5,0,0,0,5,3,0,1,3
 Clarksville Police Department,1988,Tennessee,63491,TN06301,117,6,111,21,14,7,0,0,2,0,0,2,0,24,0,0,23,1,26,0,0,25,1,6,0,2,0,4,0,0,12,0,1,1
 Clarksville Police Department,1987,Tennessee,61389,TN06301,99,5,94,22,15,7,0,0,3,0,0,2,1,7,0,1,6,0,10,0,1,8,1,0,0,2,0,0,3,0,2,0,1,2
-Clarksville Police Department,1986,Tennessee,59602,TN06301,93,4,89,21,14,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Clarksville Police Department,1985,Tennessee,61120,TN06301,91,3,88,16,13,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Clarksville Police Department,1984,Tennessee,60539,TN06301,95,4,91,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Clarksville Police Department,1986,Tennessee,59602,TN06301,93,4,89,21,14,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Clarksville Police Department,1985,Tennessee,61120,TN06301,91,3,88,16,13,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Clarksville Police Department,1984,Tennessee,60539,TN06301,95,4,91,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Clarksville Police Department,1983,Tennessee,56337,TN06301,95,3,92,5,5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Clarksville Police Department,1982,Tennessee,55929,TN06301,99,2,97,3,3,0,0,0,2,0,0,0,2,2,0,0,0,2,4,0,0,0,4,0,0,2,0,0,0,0,0,0,0,2
 Clarksville Police Department,1981,Tennessee,55436,TN06301,98,2,96,4,3,1,0,0,1,0,0,1,0,2,1,0,1,0,3,1,0,2,0,1,0,1,0,0,0,0,1,0,0,0
@@ -39,5 +39,5 @@ Clarksville Police Department,1980,Tennessee,54661,TN06301,98,2,96,2,1,1,0,0,0,0
 Clarksville Police Department,1979,Tennessee,58471,TN06301,85,2,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clarksville Police Department,1978,Tennessee,58053,TN06301,89,2,87,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clarksville Police Department,1977,Tennessee,54497,TN06301,90,2,88,3,2,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Clarksville Police Department,1976,Tennessee,52621,TN06301,88,2,86,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Clarksville Police Department,1975,Tennessee,43366,TN06301,75,2,73,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Clarksville Police Department,1976,Tennessee,52621,TN06301,88,2,86,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Clarksville Police Department,1975,Tennessee,43366,TN06301,75,2,73,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

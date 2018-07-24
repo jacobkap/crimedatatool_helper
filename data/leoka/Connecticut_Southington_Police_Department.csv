@@ -10,12 +10,12 @@ Southington Police Department,2009,Connecticut,42523,CT00131,66,3,63,19,8,11,0,0
 Southington Police Department,2008,Connecticut,42434,CT00131,66,3,63,19,8,11,0,0,11,0,0,10,1,0,0,0,0,0,11,0,0,10,1,1,0,0,0,2,3,0,1,0,2,2
 Southington Police Department,2007,Connecticut,42522,CT00131,61,2,59,17,7,10,0,0,15,0,0,14,1,0,0,0,0,0,15,0,0,14,1,2,0,2,0,1,4,0,5,0,1,0
 Southington Police Department,2006,Connecticut,42011,CT00131,62,2,60,17,7,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southington Police Department,2005,Connecticut,41847,CT00131,60,2,58,16,6,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Southington Police Department,2004,Connecticut,41637,CT00131,60,2,58,17,7,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Southington Police Department,2005,Connecticut,41847,CT00131,60,2,58,16,6,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Southington Police Department,2004,Connecticut,41637,CT00131,60,2,58,17,7,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Southington Police Department,2003,Connecticut,41214,CT00131,59,2,57,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Southington Police Department,2002,Connecticut,40369,CT00131,58,2,56,15,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Southington Police Department,2001,Connecticut,39956,CT00131,60,2,58,13,7,6,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
-Southington Police Department,2000,Connecticut,39728,CT00131,60,2,58,13,6,7,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Southington Police Department,2e3,Connecticut,39728,CT00131,60,2,58,13,6,7,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Southington Police Department,1999,Connecticut,38777,CT00131,62,2,60,13,7,6,0,0,8,0,0,8,0,0,0,0,0,0,8,0,0,8,0,0,0,0,0,0,6,0,2,0,0,0
 Southington Police Department,1998,Connecticut,38274,CT00131,59,3,56,14,6,8,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Southington Police Department,1997,Connecticut,38502,CT00131,58,2,56,15,7,8,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -24,7 +24,7 @@ Southington Police Department,1995,Connecticut,38562,CT00131,57,3,54,7,4,3,0,0,8
 Southington Police Department,1994,Connecticut,38254,CT00131,58,2,56,7,5,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Southington Police Department,1993,Connecticut,38278,CT00131,56,1,55,7,6,1,0,0,4,0,0,2,2,0,0,0,0,0,4,0,0,2,2,0,0,0,1,0,0,0,3,0,0,0
 Southington Police Department,1992,Connecticut,38445,CT00131,56,1,55,5,4,1,0,0,5,0,0,5,0,0,0,0,9,0,5,0,0,5,0,0,0,0,0,0,2,0,3,0,0,0
-Southington Police Department,1991,Connecticut,38563,CT00131,56,1,55,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Southington Police Department,1991,Connecticut,38563,CT00131,56,1,55,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Southington Police Department,1990,Connecticut,38518,CT00131,57,1,56,5,4,1,0,0,6,0,0,6,0,1,0,0,1,0,7,0,0,7,0,0,0,0,0,0,3,0,4,0,0,0
 Southington Police Department,1989,Connecticut,40635,CT00131,53,1,52,5,4,1,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,0,0,0
 Southington Police Department,1988,Connecticut,39956,CT00131,52,0,52,5,4,1,0,0,4,1,0,2,1,0,0,0,0,0,4,1,0,2,1,0,0,0,0,0,0,0,3,0,1,0
@@ -37,7 +37,7 @@ Southington Police Department,1982,Connecticut,37433,CT00131,50,1,49,2,2,0,0,0,5
 Southington Police Department,1981,Connecticut,37184,CT00131,49,1,48,2,2,0,0,0,9,0,1,8,0,2,0,0,2,0,11,0,1,10,0,4,0,1,0,0,2,0,3,0,0,1
 Southington Police Department,1980,Connecticut,36747,CT00131,49,1,48,2,2,0,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,0,0,0,0,0,0,0,3,0,1,1
 Southington Police Department,1979,Connecticut,37012,CT00131,48,1,47,2,2,0,0,0,5,0,0,5,0,5,0,0,5,0,10,0,0,10,0,0,0,0,1,0,0,0,9,0,0,0
-Southington Police Department,1978,Connecticut,38000,CT00131,46,1,45,1,1,0,0,0,2,0,1,1,0,4,0,0,4,0,6,0,1,5,0,0,0,1,0,1,0,0,4,0,0,0
-Southington Police Department,1977,Connecticut,30967,CT00131,44,1,43,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Southington Police Department,1976,Connecticut,33746,CT00131,44,1,43,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Southington Police Department,1978,Connecticut,38e3,CT00131,46,1,45,1,1,0,0,0,2,0,1,1,0,4,0,0,4,0,6,0,1,5,0,0,0,1,0,1,0,0,4,0,0,0
+Southington Police Department,1977,Connecticut,30967,CT00131,44,1,43,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Southington Police Department,1976,Connecticut,33746,CT00131,44,1,43,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Southington Police Department,1975,Connecticut,33679,CT00131,44,1,43,2,2,0,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,0,0,0,0,6,0,0,0,0,0,0

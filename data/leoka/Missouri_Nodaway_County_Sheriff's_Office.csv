@@ -14,7 +14,7 @@ Nodaway County Sheriff's Office,2004,Missouri,11219,MO07400,9,0,9,14,12,2,0,0,0,
 Nodaway County Sheriff's Office,2003,Missouri,11149,MO07400,9,0,9,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Nodaway County Sheriff's Office,2002,Missouri,11487,MO07400,9,0,9,14,11,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Nodaway County Sheriff's Office,2001,Missouri,11401,MO07400,9,0,9,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Nodaway County Sheriff's Office,2000,Missouri,11331,MO07400,9,0,9,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nodaway County Sheriff's Office,2e3,Missouri,11331,MO07400,9,0,9,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Nodaway County Sheriff's Office,1999,Missouri,10824,MO07400,9,0,9,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Nodaway County Sheriff's Office,1998,Missouri,10856,MO07400,9,0,9,12,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Nodaway County Sheriff's Office,1997,Missouri,10830,MO07400,8,0,8,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -22,8 +22,8 @@ Nodaway County Sheriff's Office,1996,Missouri,10744,MO07400,8,0,8,7,5,2,0,0,0,0,
 Nodaway County Sheriff's Office,1995,Missouri,10674,MO07400,8,0,8,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Nodaway County Sheriff's Office,1994,Missouri,10981,MO07400,12,2,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Nodaway County Sheriff's Office,1993,Missouri,10890,MO07400,12,2,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Nodaway County Sheriff's Office,1992,Missouri,11209,MO07400,12,0,12,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Nodaway County Sheriff's Office,1991,Missouri,11134,MO07400,12,1,11,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nodaway County Sheriff's Office,1992,Missouri,11209,MO07400,12,0,12,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nodaway County Sheriff's Office,1991,Missouri,11134,MO07400,12,1,11,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Nodaway County Sheriff's Office,1990,Missouri,11046,MO07400,12,0,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Nodaway County Sheriff's Office,1989,Missouri,11900,MO07400,13,1,12,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Nodaway County Sheriff's Office,1988,Missouri,11930,MO07400,11,0,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,10 +33,10 @@ Nodaway County Sheriff's Office,1985,Missouri,12635,MO07400,9,0,9,1,1,0,0,0,0,0,
 Nodaway County Sheriff's Office,1984,Missouri,12667,MO07400,12,1,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Nodaway County Sheriff's Office,1983,Missouri,12560,MO07400,11,1,10,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Nodaway County Sheriff's Office,1982,Missouri,12512,MO07400,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Nodaway County Sheriff's Office,1981,Missouri,12479,MO07400,8,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Nodaway County Sheriff's Office,1980,Missouri,12386,MO07400,7,1,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Nodaway County Sheriff's Office,1979,Missouri,12014,MO07400,5,1,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Nodaway County Sheriff's Office,1978,Missouri,13307,MO07400,9,1,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Nodaway County Sheriff's Office,1977,Missouri,11136,MO07400,4,1,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Nodaway County Sheriff's Office,1976,Missouri,11033,MO07400,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nodaway County Sheriff's Office,1981,Missouri,12479,MO07400,8,0,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nodaway County Sheriff's Office,1980,Missouri,12386,MO07400,7,1,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nodaway County Sheriff's Office,1979,Missouri,12014,MO07400,5,1,4,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nodaway County Sheriff's Office,1978,Missouri,13307,MO07400,9,1,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nodaway County Sheriff's Office,1977,Missouri,11136,MO07400,4,1,3,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nodaway County Sheriff's Office,1976,Missouri,11033,MO07400,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Nodaway County Sheriff's Office,1975,Missouri,11675,MO07400,3,0,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0

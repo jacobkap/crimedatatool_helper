@@ -14,13 +14,13 @@ Westchester County Department Of Public Safety,2004,New York,54120,NY05900,251,2
 Westchester County Department Of Public Safety,2003,New York,53726,NY05900,252,19,233,57,35,22,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0
 Westchester County Department Of Public Safety,2002,New York,52507,NY05900,262,20,242,58,34,24,0,0,4,0,0,3,1,1,0,0,0,1,5,0,0,3,2,0,0,2,0,0,1,0,0,0,0,2
 Westchester County Department Of Public Safety,2001,New York,52104,NY05900,235,19,216,57,40,17,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Westchester County Department Of Public Safety,2000,New York,52010,NY05900,237,20,217,50,35,15,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Westchester County Department Of Public Safety,2e3,New York,52010,NY05900,237,20,217,50,35,15,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Westchester County Department Of Public Safety,1999,New York,52372,NY05900,236,19,217,54,34,20,0,0,3,0,0,2,1,0,0,0,0,0,3,0,0,2,1,0,0,0,0,0,1,0,1,0,1,0
 Westchester County Department Of Public Safety,1998,New York,22668,NY05900,230,20,210,59,38,21,0,0,8,0,0,7,1,1,0,0,1,0,9,0,0,8,1,2,0,1,0,0,0,2,1,0,0,3
 Westchester County Department Of Public Safety,1997,New York,44881,NY05900,229,20,209,49,30,19,0,0,6,0,0,5,1,0,0,0,0,0,6,0,0,5,1,0,0,0,0,0,1,0,0,0,0,5
-Westchester County Department Of Public Safety,1996,New York,45000,NY05900,231,21,210,52,34,18,0,0,5,1,0,4,0,1,0,0,1,0,6,1,0,5,0,0,0,2,0,0,1,0,2,0,1,0
+Westchester County Department Of Public Safety,1996,New York,45e3,NY05900,231,21,210,52,34,18,0,0,5,1,0,4,0,1,0,0,1,0,6,1,0,5,0,0,0,2,0,0,1,0,2,0,1,0
 Westchester County Department Of Public Safety,1995,New York,44879,NY05900,232,19,213,50,33,17,0,0,5,0,0,4,1,0,0,0,0,0,5,0,0,4,1,1,0,0,0,0,0,0,0,0,0,4
-Westchester County Department Of Public Safety,1993,New York,0,NY05900,250,17,233,46,27,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Westchester County Department Of Public Safety,1993,New York,0,NY05900,250,17,233,46,27,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Westchester County Department Of Public Safety,1992,New York,0,NY05900,250,17,233,46,27,19,0,0,9,0,0,8,1,0,0,0,9,0,9,0,0,8,1,2,0,2,0,0,1,0,2,0,0,2
 Westchester County Department Of Public Safety,1991,New York,0,NY05900,273,17,256,50,30,20,0,0,8,0,0,8,0,0,0,0,0,0,8,0,0,8,0,1,0,3,0,0,1,0,2,0,0,1
 Westchester County Department Of Public Safety,1990,New York,0,NY05900,273,17,256,50,30,20,0,0,11,0,0,11,0,3,0,0,3,0,14,0,0,14,0,0,0,4,0,0,0,0,8,0,0,2
@@ -35,6 +35,6 @@ Westchester County Department Of Public Safety,1982,New York,0,NY05900,200,2,198
 Westchester County Department Of Public Safety,1981,New York,0,NY05900,199,8,191,18,15,3,0,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,0,0,0,3,0,0,0,0,0,0,0,3
 Westchester County Department Of Public Safety,1979,New York,0,NY05900,161,12,149,18,18,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
 Westchester County Department Of Public Safety,1978,New York,0,NY05900,161,12,149,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Westchester County Department Of Public Safety,1977,New York,0,NY05900,177,15,162,17,17,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Westchester County Department Of Public Safety,1976,New York,0,NY05900,177,15,162,18,18,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Westchester County Department Of Public Safety,1975,New York,46282,NY05900,170,10,160,14,14,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Westchester County Department Of Public Safety,1977,New York,0,NY05900,177,15,162,17,17,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Westchester County Department Of Public Safety,1976,New York,0,NY05900,177,15,162,18,18,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Westchester County Department Of Public Safety,1975,New York,46282,NY05900,170,10,160,14,14,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

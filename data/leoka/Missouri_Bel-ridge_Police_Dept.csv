@@ -11,11 +11,11 @@ Bel-ridge Police Dept,2008,Missouri,2895,MO09506,16,2,14,6,2,4,0,0,1,0,0,1,0,2,0
 Bel-ridge Police Dept,2007,Missouri,2924,MO09506,15,1,14,1,1,0,0,0,1,0,0,1,0,6,0,1,4,1,7,0,1,5,1,2,0,0,0,0,1,0,1,0,1,2
 Bel-ridge Police Dept,2006,Missouri,2992,MO09506,16,1,15,0,0,0,0,0,5,0,0,4,1,4,0,0,2,2,9,0,0,6,3,1,0,1,0,1,0,0,3,0,0,3
 Bel-ridge Police Dept,2005,Missouri,3004,MO09506,16,0,16,2,2,0,0,0,2,0,0,0,2,8,0,0,7,1,10,0,0,7,3,0,0,1,0,0,0,0,5,0,0,4
-Bel-ridge Police Dept,2004,Missouri,3037,MO09506,13,0,13,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bel-ridge Police Dept,2004,Missouri,3037,MO09506,13,0,13,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bel-ridge Police Dept,2003,Missouri,3059,MO09506,15,0,15,1,1,0,0,0,4,0,0,4,0,3,0,0,3,0,7,0,0,7,0,0,0,3,0,0,0,0,3,0,0,1
 Bel-ridge Police Dept,2002,Missouri,3124,MO09506,15,0,15,1,1,0,0,0,8,0,0,7,1,5,0,0,2,3,13,0,0,9,4,0,0,0,0,0,2,0,8,0,3,0
 Bel-ridge Police Dept,2001,Missouri,3101,MO09506,13,0,13,1,1,0,0,0,3,0,0,2,1,5,0,0,4,1,8,0,0,6,2,0,0,2,0,0,0,0,5,0,0,1
-Bel-ridge Police Dept,2000,Missouri,3082,MO09506,12,1,11,2,1,1,0,0,1,0,0,1,0,3,1,0,2,0,4,1,0,3,0,1,0,1,0,0,0,0,2,0,0,0
+Bel-ridge Police Dept,2e3,Missouri,3082,MO09506,12,1,11,2,1,1,0,0,1,0,0,1,0,3,1,0,2,0,4,1,0,3,0,1,0,1,0,0,0,0,2,0,0,0
 Bel-ridge Police Dept,1999,Missouri,3144,MO09506,18,2,16,4,2,2,0,0,2,0,0,1,1,2,0,0,1,1,4,0,0,2,2,0,0,0,0,0,0,0,4,0,0,0
 Bel-ridge Police Dept,1998,Missouri,3253,MO09506,17,2,15,5,3,2,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,0,0,0,0,0,0,0,2,0,0,1
 Bel-ridge Police Dept,1997,Missouri,3715,MO09506,17,1,16,5,2,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
@@ -24,8 +24,8 @@ Bel-ridge Police Dept,1995,Missouri,3662,MO09506,14,1,13,7,2,5,0,0,0,0,0,0,0,4,1
 Bel-ridge Police Dept,1994,Missouri,3209,MO09506,13,1,12,5,2,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Bel-ridge Police Dept,1993,Missouri,3183,MO09506,14,1,13,5,1,4,0,0,0,0,0,0,0,2,1,0,0,1,2,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0
 Bel-ridge Police Dept,1992,Missouri,3245,MO09506,14,2,12,5,3,2,0,0,0,0,0,0,0,1,0,0,10,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Bel-ridge Police Dept,1991,Missouri,3224,MO09506,12,1,11,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bel-ridge Police Dept,1990,Missouri,3199,MO09506,13,1,12,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bel-ridge Police Dept,1991,Missouri,3224,MO09506,12,1,11,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bel-ridge Police Dept,1990,Missouri,3199,MO09506,13,1,12,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bel-ridge Police Dept,1989,Missouri,3562,MO09506,12,1,11,1,1,0,0,0,1,0,0,1,0,3,0,0,2,1,4,0,0,3,1,0,0,0,0,2,0,0,0,0,0,2
 Bel-ridge Police Dept,1988,Missouri,3391,MO09506,11,1,10,1,1,0,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0
 Bel-ridge Police Dept,1987,Missouri,3374,MO09506,11,1,10,1,0,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
@@ -37,6 +37,6 @@ Bel-ridge Police Dept,1981,Missouri,3328,MO09506,13,0,13,2,2,0,0,0,4,0,0,4,0,10,
 Bel-ridge Police Dept,1980,Missouri,3303,MO09506,13,0,13,2,2,0,0,0,3,1,0,2,0,6,0,2,4,0,9,1,2,6,0,1,0,1,0,0,1,0,5,0,1,0
 Bel-ridge Police Dept,1979,Missouri,5494,MO09506,13,1,12,0,0,0,0,0,5,0,0,5,0,6,0,0,6,0,11,0,0,11,0,0,0,1,0,0,0,0,7,0,0,3
 Bel-ridge Police Dept,1978,Missouri,5569,MO09506,14,0,14,0,0,0,0,0,2,0,0,2,0,13,0,0,10,3,15,0,0,12,3,0,0,0,0,0,0,1,6,0,3,5
-Bel-ridge Police Dept,1977,Missouri,6051,MO09506,12,1,11,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bel-ridge Police Dept,1977,Missouri,6051,MO09506,12,1,11,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bel-ridge Police Dept,1976,Missouri,5978,MO09506,10,1,9,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Bel-ridge Police Dept,1975,Missouri,5932,MO09506,10,1,9,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bel-ridge Police Dept,1975,Missouri,5932,MO09506,10,1,9,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

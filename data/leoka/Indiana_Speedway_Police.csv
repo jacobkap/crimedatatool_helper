@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Speedway Police,2015,Indiana,12172,IN04903,33,2,31,13,10,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Speedway Police,2014,Indiana,12120,IN04903,36,2,34,13,10,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Speedway Police,2015,Indiana,12172,IN04903,33,2,31,13,10,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Speedway Police,2014,Indiana,12120,IN04903,36,2,34,13,10,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Speedway Police,2012,Indiana,11954,IN04903,33,2,31,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Speedway Police,2011,Indiana,11872,IN04903,34,2,32,13,9,4,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Speedway Police,2010,Indiana,11812,IN04903,31,2,29,14,9,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -13,7 +13,7 @@ Speedway Police,2004,Indiana,12880,IN04903,31,2,29,9,7,2,0,0,6,0,0,6,0,0,0,0,0,0
 Speedway Police,2003,Indiana,12980,IN04903,30,0,30,9,6,3,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0
 Speedway Police,2002,Indiana,13047,IN04903,31,0,31,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Speedway Police,2001,Indiana,12954,IN04903,31,0,31,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Speedway Police,2000,Indiana,12881,IN04903,31,0,31,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Speedway Police,2e3,Indiana,12881,IN04903,31,0,31,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Speedway Police,1999,Indiana,12303,IN04903,30,0,30,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Speedway Police,1998,Indiana,12639,IN04903,29,0,29,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Speedway Police,1997,Indiana,12492,IN04903,31,0,31,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,7 +35,7 @@ Speedway Police,1982,Indiana,12657,IN04903,25,0,25,7,6,1,0,0,3,0,0,3,0,2,0,0,2,0
 Speedway Police,1981,Indiana,12645,IN04903,25,1,24,7,6,1,0,0,4,0,0,4,0,5,0,0,5,0,9,0,0,9,0,0,0,0,1,0,1,0,1,0,6,0
 Speedway Police,1980,Indiana,12634,IN04903,25,1,24,5,3,2,0,0,4,0,0,4,0,3,0,0,3,0,7,0,0,7,0,0,0,1,0,0,1,0,3,0,0,2
 Speedway Police,1979,Indiana,14759,IN04903,28,1,27,3,3,0,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,1,0,0,0,0,0,0,3,1,0,1
-Speedway Police,1978,Indiana,17000,IN04903,30,3,27,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Speedway Police,1978,Indiana,17e3,IN04903,30,3,27,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Speedway Police,1977,Indiana,16052,IN04903,32,1,31,3,3,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Speedway Police,1976,Indiana,16000,IN04903,29,1,28,3,3,0,0,0,1,0,0,0,1,2,0,0,2,0,3,0,0,2,1,0,1,0,0,0,0,0,2,0,0,0
+Speedway Police,1976,Indiana,16e3,IN04903,29,1,28,3,3,0,0,0,1,0,0,0,1,2,0,0,2,0,3,0,0,2,1,0,1,0,0,0,0,0,2,0,0,0
 Speedway Police,1975,Indiana,16052,IN04903,29,1,28,3,3,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0

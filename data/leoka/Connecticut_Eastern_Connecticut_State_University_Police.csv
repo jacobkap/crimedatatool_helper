@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Eastern Connecticut State University Police,2016,Connecticut,0,CT00191,14,4,10,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastern Connecticut State University Police,2015,Connecticut,0,CT00191,16,4,12,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastern Connecticut State University Police,2014,Connecticut,0,CT00191,16,5,11,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eastern Connecticut State University Police,2013,Connecticut,0,CT00191,17,4,13,7,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eastern Connecticut State University Police,2013,Connecticut,0,CT00191,17,4,13,7,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eastern Connecticut State University Police,2012,Connecticut,0,CT00191,17,3,14,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastern Connecticut State University Police,2011,Connecticut,0,CT00191,16,3,13,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastern Connecticut State University Police,2010,Connecticut,0,CT00191,17,4,13,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Eastern Connecticut State University Police,2004,Connecticut,0,CT00191,16,6,10,5
 Eastern Connecticut State University Police,2003,Connecticut,0,CT00191,14,7,7,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastern Connecticut State University Police,2002,Connecticut,0,CT00191,13,6,7,6,4,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Eastern Connecticut State University Police,2001,Connecticut,0,CT00191,16,6,10,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eastern Connecticut State University Police,2000,Connecticut,0,CT00191,15,5,10,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eastern Connecticut State University Police,2e3,Connecticut,0,CT00191,15,5,10,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastern Connecticut State University Police,1999,Connecticut,0,CT00191,16,5,11,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastern Connecticut State University Police,1998,Connecticut,0,CT00191,18,5,13,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastern Connecticut State University Police,1997,Connecticut,0,CT00191,12,4,8,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

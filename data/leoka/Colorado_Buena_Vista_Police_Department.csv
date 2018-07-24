@@ -12,13 +12,13 @@ Buena Vista Police Department,2007,Colorado,2149,CO00801,6,1,5,2,2,0,0,0,0,0,0,0
 Buena Vista Police Department,2006,Colorado,2215,CO00801,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Buena Vista Police Department,2005,Colorado,2214,CO00801,7,0,7,2,2,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Buena Vista Police Department,2004,Colorado,2213,CO00801,7,0,7,2,2,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
-Buena Vista Police Department,2003,Colorado,2235,CO00801,7,0,7,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Buena Vista Police Department,2003,Colorado,2235,CO00801,7,0,7,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Buena Vista Police Department,2002,Colorado,2300,CO00801,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Buena Vista Police Department,2001,Colorado,2254,CO00801,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buena Vista Police Department,2000,Colorado,2195,CO00801,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Buena Vista Police Department,2e3,Colorado,2195,CO00801,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Buena Vista Police Department,1999,Colorado,2128,CO00801,7,0,7,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Buena Vista Police Department,1998,Colorado,1947,CO00801,7,0,7,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Buena Vista Police Department,1997,Colorado,2142,CO00801,8,1,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Buena Vista Police Department,1998,Colorado,1947,CO00801,7,0,7,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Buena Vista Police Department,1997,Colorado,2142,CO00801,8,1,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Buena Vista Police Department,1996,Colorado,2104,CO00801,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Buena Vista Police Department,1995,Colorado,2063,CO00801,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Buena Vista Police Department,1994,Colorado,1946,CO00801,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,6 +35,6 @@ Buena Vista Police Department,1984,Colorado,2222,CO00801,6,1,5,0,0,0,0,0,0,0,0,0
 Buena Vista Police Department,1983,Colorado,2250,CO00801,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Buena Vista Police Department,1982,Colorado,2183,CO00801,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Buena Vista Police Department,1981,Colorado,2125,CO00801,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Buena Vista Police Department,1980,Colorado,2064,CO00801,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Buena Vista Police Department,1980,Colorado,2064,CO00801,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Buena Vista Police Department,1979,Colorado,2906,CO00801,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Buena Vista Police Department,1978,Colorado,2800,CO00801,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

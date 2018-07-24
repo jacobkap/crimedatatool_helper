@@ -3,7 +3,7 @@ Tuckerton Borough Police,2016,New Jersey,3374,NJ01532,11,0,11,1,1,0,0,0,0,0,0,0,
 Tuckerton Borough Police,2015,New Jersey,3407,NJ01532,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tuckerton Borough Police,2014,New Jersey,3385,NJ01532,11,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tuckerton Borough Police,2013,New Jersey,3369,NJ01532,10,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tuckerton Borough Police,2012,New Jersey,3381,NJ01532,9,1,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuckerton Borough Police,2012,New Jersey,3381,NJ01532,9,1,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Tuckerton Borough Police,2011,New Jersey,3358,NJ01532,8,1,7,0,0,0,0,0,0,0,0,0,0,3,0,0,1,2,3,0,0,1,2,0,0,0,0,0,0,0,3,0,0,0
 Tuckerton Borough Police,2010,New Jersey,3347,NJ01532,9,1,8,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Tuckerton Borough Police,2009,New Jersey,3918,NJ01532,10,1,9,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -15,9 +15,9 @@ Tuckerton Borough Police,2004,New Jersey,3637,NJ01532,10,0,10,0,0,0,0,0,1,0,0,1,
 Tuckerton Borough Police,2003,New Jersey,3600,NJ01532,9,0,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Tuckerton Borough Police,2002,New Jersey,3590,NJ01532,9,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tuckerton Borough Police,2001,New Jersey,3546,NJ01532,11,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tuckerton Borough Police,2000,New Jersey,3517,NJ01532,9,0,9,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Tuckerton Borough Police,2e3,New Jersey,3517,NJ01532,9,0,9,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Tuckerton Borough Police,1999,New Jersey,3313,NJ01532,8,0,8,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-Tuckerton Borough Police,1998,New Jersey,3316,NJ01532,8,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuckerton Borough Police,1998,New Jersey,3316,NJ01532,8,0,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Tuckerton Borough Police,1997,New Jersey,3270,NJ01532,8,0,8,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Tuckerton Borough Police,1996,New Jersey,3244,NJ01532,8,0,8,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0
 Tuckerton Borough Police,1995,New Jersey,3227,NJ01532,7,0,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -39,5 +39,5 @@ Tuckerton Borough Police,1980,New Jersey,2445,NJ01532,6,0,6,3,1,2,0,0,0,0,0,0,0,
 Tuckerton Borough Police,1979,New Jersey,3451,NJ01532,6,0,6,1,0,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Tuckerton Borough Police,1978,New Jersey,3491,NJ01532,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Tuckerton Borough Police,1977,New Jersey,2649,NJ01532,6,0,6,3,0,3,0,0,1,0,0,0,1,6,0,0,5,1,7,0,0,5,2,0,0,0,0,0,0,1,0,0,6,0
-Tuckerton Borough Police,1976,New Jersey,2219,NJ01532,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tuckerton Borough Police,1976,New Jersey,2219,NJ01532,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Tuckerton Borough Police,1975,New Jersey,2224,NJ01532,6,0,6,2,0,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0

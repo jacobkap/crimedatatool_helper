@@ -3,7 +3,7 @@ Woodbridge Police Department,2016,Connecticut,8864,CT00167,23,0,23,8,5,3,0,0,0,0
 Woodbridge Police Department,2015,Connecticut,8907,CT00167,25,0,25,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodbridge Police Department,2014,Connecticut,8945,CT00167,26,1,25,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodbridge Police Department,2013,Connecticut,8954,CT00167,25,1,24,8,5,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Woodbridge Police Department,2012,Connecticut,9000,CT00167,26,1,25,8,4,4,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Woodbridge Police Department,2012,Connecticut,9e3,CT00167,26,1,25,8,4,4,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Woodbridge Police Department,2011,Connecticut,9007,CT00167,26,1,25,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodbridge Police Department,2010,Connecticut,8990,CT00167,25,1,24,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodbridge Police Department,2009,Connecticut,9215,CT00167,26,1,25,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -11,11 +11,11 @@ Woodbridge Police Department,2008,Connecticut,9227,CT00167,25,0,25,8,4,4,0,0,0,0
 Woodbridge Police Department,2007,Connecticut,9261,CT00167,26,0,26,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodbridge Police Department,2006,Connecticut,9250,CT00167,26,0,26,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodbridge Police Department,2005,Connecticut,9313,CT00167,25,0,25,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Woodbridge Police Department,2004,Connecticut,9303,CT00167,25,1,24,8,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Woodbridge Police Department,2004,Connecticut,9303,CT00167,25,1,24,8,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Woodbridge Police Department,2003,Connecticut,9206,CT00167,26,1,25,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodbridge Police Department,2002,Connecticut,9128,CT00167,24,2,22,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Woodbridge Police Department,2001,Connecticut,9034,CT00167,24,2,22,8,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Woodbridge Police Department,2000,Connecticut,8983,CT00167,24,2,22,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Woodbridge Police Department,2001,Connecticut,9034,CT00167,24,2,22,8,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Woodbridge Police Department,2e3,Connecticut,8983,CT00167,24,2,22,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodbridge Police Department,1999,Connecticut,8285,CT00167,25,2,23,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodbridge Police Department,1998,Connecticut,8059,CT00167,25,3,22,7,5,2,0,0,1,0,0,0,1,1,0,0,1,0,2,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0
 Woodbridge Police Department,1997,Connecticut,8009,CT00167,25,3,22,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,6 +38,6 @@ Woodbridge Police Department,1981,Connecticut,7784,CT00167,19,1,18,4,4,0,0,0,0,0
 Woodbridge Police Department,1980,Connecticut,7693,CT00167,19,1,18,2,2,0,0,0,2,1,0,1,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
 Woodbridge Police Department,1979,Connecticut,8319,CT00167,18,1,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodbridge Police Department,1978,Connecticut,8304,CT00167,18,1,17,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Woodbridge Police Department,1977,Connecticut,8234,CT00167,18,1,17,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Woodbridge Police Department,1976,Connecticut,8436,CT00167,18,1,17,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Woodbridge Police Department,1977,Connecticut,8234,CT00167,18,1,17,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Woodbridge Police Department,1976,Connecticut,8436,CT00167,18,1,17,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Woodbridge Police Department,1975,Connecticut,8207,CT00167,18,1,17,3,3,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0

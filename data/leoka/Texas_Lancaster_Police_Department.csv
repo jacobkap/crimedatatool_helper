@@ -5,8 +5,8 @@ Lancaster Police Department,2014,Texas,38402,TX05717,47,7,40,7,5,2,0,0,0,0,0,0,0
 Lancaster Police Department,2013,Texas,38209,TX05717,46,6,40,11,11,0,0,0,1,0,0,1,0,6,0,0,5,1,7,0,0,6,1,1,0,0,1,0,1,0,2,0,1,1
 Lancaster Police Department,2012,Texas,37653,TX05717,47,5,42,11,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Police Department,2011,Texas,37126,TX05717,50,5,45,14,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lancaster Police Department,2010,Texas,36361,TX05717,51,5,46,15,13,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lancaster Police Department,2009,Texas,37061,TX05717,55,8,47,15,12,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lancaster Police Department,2010,Texas,36361,TX05717,51,5,46,15,13,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lancaster Police Department,2009,Texas,37061,TX05717,55,8,47,15,12,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lancaster Police Department,2008,Texas,36584,TX05717,56,8,48,12,10,2,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
 Lancaster Police Department,2007,Texas,35090,TX05717,56,10,46,15,15,0,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0
 Lancaster Police Department,2006,Texas,33146,TX05717,50,9,41,15,14,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -15,7 +15,7 @@ Lancaster Police Department,2004,Texas,28281,TX05717,41,4,37,13,12,1,0,0,0,0,0,0
 Lancaster Police Department,2003,Texas,27503,TX05717,42,3,39,16,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Police Department,2002,Texas,27047,TX05717,36,2,34,20,12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Police Department,2001,Texas,26482,TX05717,33,1,32,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lancaster Police Department,2000,Texas,25894,TX05717,42,1,41,13,9,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lancaster Police Department,2e3,Texas,25894,TX05717,42,1,41,13,9,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lancaster Police Department,1999,Texas,24565,TX05717,47,1,46,15,11,4,0,0,2,0,0,2,0,4,0,0,3,1,6,0,0,5,1,0,0,0,0,0,0,0,3,0,0,3
 Lancaster Police Department,1998,Texas,24082,TX05717,36,2,34,9,7,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Lancaster Police Department,1997,Texas,24746,TX05717,34,2,32,10,6,4,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
@@ -32,12 +32,12 @@ Lancaster Police Department,1987,Texas,20561,TX05717,31,1,30,11,7,4,0,0,1,1,0,0,
 Lancaster Police Department,1986,Texas,18222,TX05717,28,0,28,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Police Department,1985,Texas,17034,TX05717,28,0,28,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Police Department,1984,Texas,16637,TX05717,26,0,26,9,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lancaster Police Department,1983,Texas,15964,TX05717,25,1,24,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lancaster Police Department,1982,Texas,15514,TX05717,25,1,24,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lancaster Police Department,1983,Texas,15964,TX05717,25,1,24,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lancaster Police Department,1982,Texas,15514,TX05717,25,1,24,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lancaster Police Department,1981,Texas,14981,TX05717,25,2,23,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Police Department,1980,Texas,14387,TX05717,25,2,23,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Police Department,1979,Texas,13871,TX05717,25,2,23,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Police Department,1978,Texas,13331,TX05717,26,4,22,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lancaster Police Department,1977,Texas,14050,TX05717,25,3,22,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lancaster Police Department,1976,Texas,14708,TX05717,22,4,18,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lancaster Police Department,1975,Texas,13700,TX05717,22,4,18,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lancaster Police Department,1976,Texas,14708,TX05717,22,4,18,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lancaster Police Department,1975,Texas,13700,TX05717,22,4,18,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -15,13 +15,13 @@ Vancouver Police Department,2004,Washington,153443,WA00603,183,20,163,32,24,8,0,
 Vancouver Police Department,2003,Washington,151353,WA00603,179,20,159,32,24,8,0,0,1,0,1,0,0,23,0,0,22,1,24,0,1,22,1,4,0,2,0,0,1,1,9,1,3,3
 Vancouver Police Department,2002,Washington,147819,WA00603,174,20,154,28,20,8,0,0,0,0,0,0,0,26,0,0,26,0,26,0,0,26,0,3,0,6,0,0,0,2,11,0,0,4
 Vancouver Police Department,2001,Washington,145846,WA00603,168,21,147,27,20,7,0,0,0,0,0,0,0,11,0,0,11,0,11,0,0,11,0,1,0,3,0,0,0,1,3,0,1,2
-Vancouver Police Department,2000,Washington,143560,WA00603,158,20,138,25,18,7,0,0,2,0,0,2,0,32,0,3,28,1,34,0,3,30,1,2,0,2,0,0,1,2,21,0,4,2
+Vancouver Police Department,2e3,Washington,143560,WA00603,158,20,138,25,18,7,0,0,2,0,0,2,0,32,0,3,28,1,34,0,3,30,1,2,0,2,0,0,1,2,21,0,4,2
 Vancouver Police Department,1999,Washington,74393,WA00603,156,16,140,23,16,7,0,0,7,0,0,4,3,31,1,0,30,0,38,1,0,34,3,7,0,5,0,0,0,1,18,0,4,3
 Vancouver Police Department,1998,Washington,63125,WA00603,143,13,130,18,13,5,0,0,2,0,0,1,1,27,0,0,27,0,29,0,0,28,1,2,0,0,1,2,0,0,16,0,5,3
 Vancouver Police Department,1997,Washington,54436,WA00603,124,11,113,14,10,4,0,0,3,0,1,1,1,17,3,1,12,1,20,3,2,13,2,0,1,1,0,0,0,4,9,3,0,2
 Vancouver Police Department,1996,Washington,53689,WA00603,108,10,98,10,7,3,0,0,4,0,1,2,1,25,1,1,21,2,29,1,2,23,3,4,0,0,3,0,0,0,17,0,1,4
-Vancouver Police Department,1995,Washington,52700,WA00603,109,10,99,20,15,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Vancouver Police Department,1994,Washington,51502,WA00603,100,9,91,19,15,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vancouver Police Department,1995,Washington,52700,WA00603,109,10,99,20,15,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vancouver Police Department,1994,Washington,51502,WA00603,100,9,91,19,15,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Vancouver Police Department,1993,Washington,50654,WA00603,95,10,85,19,15,4,0,0,0,0,0,0,0,18,1,0,12,5,18,1,0,12,5,5,0,0,0,1,1,0,7,0,3,1
 Vancouver Police Department,1992,Washington,48945,WA00603,85,7,78,17,13,4,0,0,1,0,0,1,0,22,1,0,23,6,23,1,0,16,6,3,0,5,0,1,0,2,9,0,1,2
 Vancouver Police Department,1991,Washington,47821,WA00603,81,3,78,16,12,4,0,0,1,0,1,0,0,15,1,0,13,1,16,1,1,13,1,1,0,0,1,1,0,1,8,0,4,0
@@ -33,7 +33,7 @@ Vancouver Police Department,1986,Washington,44536,WA00603,72,3,69,15,13,2,0,0,2,
 Vancouver Police Department,1985,Washington,44405,WA00603,73,3,70,14,13,1,0,0,8,2,1,5,0,12,3,0,7,2,20,5,1,12,2,2,0,3,0,0,1,2,10,0,1,1
 Vancouver Police Department,1984,Washington,43803,WA00603,72,3,69,14,13,1,0,0,4,0,0,3,1,11,0,2,9,0,15,0,2,12,1,2,0,0,0,0,4,0,7,0,2,0
 Vancouver Police Department,1983,Washington,44417,WA00603,71,2,69,15,14,1,0,0,1,1,0,0,0,17,0,0,16,1,18,1,0,16,1,2,0,3,0,0,0,1,4,0,4,4
-Vancouver Police Department,1982,Washington,43849,WA00603,70,2,68,12,11,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vancouver Police Department,1982,Washington,43849,WA00603,70,2,68,12,11,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Vancouver Police Department,1981,Washington,43508,WA00603,71,2,69,11,10,1,0,0,1,0,1,0,0,19,1,0,18,0,20,1,1,18,0,0,0,2,1,0,2,2,7,1,3,2
 Vancouver Police Department,1980,Washington,42489,WA00603,73,2,71,15,14,1,0,0,0,0,0,0,0,18,0,0,15,3,18,0,0,15,3,1,0,2,0,0,1,0,7,0,1,6
 Vancouver Police Department,1979,Washington,50569,WA00603,69,2,67,15,14,1,0,0,2,0,0,2,0,26,4,0,20,2,28,4,0,22,2,4,0,3,0,0,3,2,12,0,2,2

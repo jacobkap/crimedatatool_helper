@@ -15,9 +15,9 @@ Houston County Sheriff's Office,2004,Texas,14855,TX11300,17,2,15,12,6,6,0,0,1,0,
 Houston County Sheriff's Office,2003,Texas,14931,TX11300,13,1,12,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,2002,Texas,15243,TX11300,13,1,12,13,8,5,1,0,1,0,0,1,0,1,0,1,0,0,2,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0
 Houston County Sheriff's Office,2001,Texas,14924,TX11300,12,2,10,15,7,8,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-Houston County Sheriff's Office,2000,Texas,14593,TX11300,11,1,10,16,7,9,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Houston County Sheriff's Office,1999,Texas,13536,TX11300,10,0,10,15,7,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Houston County Sheriff's Office,1998,Texas,13458,TX11300,10,1,9,15,6,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Houston County Sheriff's Office,2e3,Texas,14593,TX11300,11,1,10,16,7,9,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Houston County Sheriff's Office,1999,Texas,13536,TX11300,10,0,10,15,7,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Houston County Sheriff's Office,1998,Texas,13458,TX11300,10,1,9,15,6,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Houston County Sheriff's Office,1997,Texas,13820,TX11300,10,1,9,17,6,11,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Houston County Sheriff's Office,1996,Texas,13599,TX11300,8,1,7,12,4,8,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1995,Texas,14921,TX11300,8,1,7,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,10 +33,10 @@ Houston County Sheriff's Office,1986,Texas,16542,TX11300,8,1,7,5,3,2,0,0,0,0,0,0
 Houston County Sheriff's Office,1985,Texas,15855,TX11300,7,1,6,4,2,2,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1984,Texas,16407,TX11300,7,1,6,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1983,Texas,16523,TX11300,7,1,6,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Houston County Sheriff's Office,1982,Texas,16057,TX11300,7,1,6,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Houston County Sheriff's Office,1982,Texas,16057,TX11300,7,1,6,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Houston County Sheriff's Office,1981,Texas,15505,TX11300,6,1,5,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1980,Texas,14890,TX11300,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Houston County Sheriff's Office,1979,Texas,13245,TX11300,6,1,5,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Houston County Sheriff's Office,1979,Texas,13245,TX11300,6,1,5,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Houston County Sheriff's Office,1978,Texas,11810,TX11300,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Houston County Sheriff's Office,1976,Texas,8449,TX11300,4,0,4,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Houston County Sheriff's Office,1975,Texas,11659,TX11300,4,0,4,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Houston County Sheriff's Office,1976,Texas,8449,TX11300,4,0,4,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Houston County Sheriff's Office,1975,Texas,11659,TX11300,4,0,4,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

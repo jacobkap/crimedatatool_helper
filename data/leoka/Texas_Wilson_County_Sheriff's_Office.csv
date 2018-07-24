@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Wilson County Sheriff's Office,2016,Texas,37280,TX24700,33,2,31,46,30,16,0,0,3,0,0,3,0,4,0,0,3,1,7,0,0,6,1,1,0,0,0,0,1,1,1,0,0,3
 Wilson County Sheriff's Office,2015,Texas,36638,TX24700,31,3,28,44,19,25,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0
 Wilson County Sheriff's Office,2014,Texas,35917,TX24700,33,3,30,40,23,17,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Wilson County Sheriff's Office,2013,Texas,34971,TX24700,30,3,27,43,27,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wilson County Sheriff's Office,2013,Texas,34971,TX24700,30,3,27,43,27,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Wilson County Sheriff's Office,2012,Texas,34719,TX24700,30,3,27,42,27,15,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Wilson County Sheriff's Office,2011,Texas,34226,TX24700,26,2,24,43,26,17,0,0,3,2,0,0,1,5,1,0,1,3,8,3,0,1,4,2,0,0,0,0,0,0,3,0,3,0
 Wilson County Sheriff's Office,2010,Texas,33528,TX24700,26,2,24,43,26,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Wilson County Sheriff's Office,2004,Texas,28230,TX24700,24,2,22,44,25,19,0,0,0,0
 Wilson County Sheriff's Office,2003,Texas,27673,TX24700,24,2,22,44,25,19,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0
 Wilson County Sheriff's Office,2002,Texas,26750,TX24700,24,2,22,44,25,19,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Wilson County Sheriff's Office,2001,Texas,26190,TX24700,24,2,22,41,19,22,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Wilson County Sheriff's Office,2000,Texas,25609,TX24700,24,2,22,41,19,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wilson County Sheriff's Office,2e3,Texas,25609,TX24700,24,2,22,41,19,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wilson County Sheriff's Office,1999,Texas,23791,TX24700,24,2,22,41,19,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wilson County Sheriff's Office,1998,Texas,22788,TX24700,28,3,25,37,24,13,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Wilson County Sheriff's Office,1997,Texas,20176,TX24700,17,1,16,43,24,19,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
@@ -33,11 +33,11 @@ Wilson County Sheriff's Office,1986,Texas,11485,TX24700,17,2,15,4,4,0,0,0,0,0,0,
 Wilson County Sheriff's Office,1985,Texas,11530,TX24700,17,2,15,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wilson County Sheriff's Office,1984,Texas,10968,TX24700,8,0,8,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wilson County Sheriff's Office,1983,Texas,18365,TX24700,11,2,9,6,4,2,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
-Wilson County Sheriff's Office,1982,Texas,17847,TX24700,7,0,7,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wilson County Sheriff's Office,1982,Texas,17847,TX24700,7,0,7,9,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Wilson County Sheriff's Office,1981,Texas,17233,TX24700,7,0,7,9,0,9,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Wilson County Sheriff's Office,1980,Texas,16550,TX24700,7,0,7,5,3,2,0,0,0,0,0,0,0,5,2,0,2,1,5,2,0,2,1,0,1,1,0,0,1,0,0,0,2,0
 Wilson County Sheriff's Office,1979,Texas,14605,TX24700,7,1,6,6,5,1,0,0,0,0,0,0,0,4,1,1,2,0,4,1,1,2,0,0,0,0,1,0,1,0,2,0,0,0
-Wilson County Sheriff's Office,1978,Texas,14364,TX24700,8,1,7,10,7,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wilson County Sheriff's Office,1978,Texas,14364,TX24700,8,1,7,10,7,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Wilson County Sheriff's Office,1977,Texas,13386,TX24700,9,1,8,11,3,8,0,0,0,0,0,0,0,10,2,1,7,0,10,2,1,7,0,2,0,1,0,0,0,0,6,0,1,0
-Wilson County Sheriff's Office,1976,Texas,13800,TX24700,8,1,7,10,6,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Wilson County Sheriff's Office,1975,Texas,13908,TX24700,9,1,8,11,8,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wilson County Sheriff's Office,1976,Texas,13800,TX24700,8,1,7,10,6,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wilson County Sheriff's Office,1975,Texas,13908,TX24700,9,1,8,11,8,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

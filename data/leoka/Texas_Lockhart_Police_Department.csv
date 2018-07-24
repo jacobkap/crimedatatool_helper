@@ -15,7 +15,7 @@ Lockhart Police Department,2004,Texas,13283,TX02801,28,3,25,9,8,1,0,0,3,0,0,3,0,
 Lockhart Police Department,2003,Texas,12968,TX02801,27,4,23,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lockhart Police Department,2002,Texas,12132,TX02801,27,3,24,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lockhart Police Department,2001,Texas,11879,TX02801,25,2,23,8,7,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Lockhart Police Department,2000,Texas,11615,TX02801,24,2,22,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lockhart Police Department,2e3,Texas,11615,TX02801,24,2,22,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lockhart Police Department,1999,Texas,11769,TX02801,21,2,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lockhart Police Department,1998,Texas,11135,TX02801,19,2,17,4,3,1,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0
 Lockhart Police Department,1997,Texas,10515,TX02801,19,2,17,0,0,0,0,0,3,0,0,3,0,1,0,0,0,1,4,0,0,3,1,0,0,1,0,0,1,0,1,0,0,1
@@ -32,12 +32,12 @@ Lockhart Police Department,1987,Texas,10165,TX02801,11,0,11,2,2,0,0,0,0,0,0,0,0,
 Lockhart Police Department,1986,Texas,9437,TX02801,7,0,7,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Lockhart Police Department,1985,Texas,8977,TX02801,10,0,10,3,2,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,4,0,0,0,0,0
 Lockhart Police Department,1984,Texas,8768,TX02801,8,0,8,3,2,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Lockhart Police Department,1983,Texas,8824,TX02801,6,0,6,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lockhart Police Department,1982,Texas,8575,TX02801,7,0,7,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lockhart Police Department,1983,Texas,8824,TX02801,6,0,6,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lockhart Police Department,1982,Texas,8575,TX02801,7,0,7,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lockhart Police Department,1981,Texas,8280,TX02801,5,0,5,3,2,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Lockhart Police Department,1980,Texas,7952,TX02801,6,0,6,1,1,0,0,0,3,0,2,1,0,1,0,0,1,0,4,0,2,2,0,0,0,2,0,0,0,0,0,0,0,2
 Lockhart Police Department,1979,Texas,7414,TX02801,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lockhart Police Department,1978,Texas,8000,TX02801,6,0,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lockhart Police Department,1978,Texas,8e3,TX02801,6,0,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lockhart Police Department,1977,Texas,7800,TX02801,7,0,7,2,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Lockhart Police Department,1976,Texas,6384,TX02801,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lockhart Police Department,1975,Texas,6587,TX02801,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lockhart Police Department,1975,Texas,6587,TX02801,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

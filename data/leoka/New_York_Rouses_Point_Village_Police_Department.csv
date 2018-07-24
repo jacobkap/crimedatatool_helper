@@ -2,8 +2,8 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Rouses Point Village Police Department,2016,New York,2161,NY00922,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,2015,New York,2177,NY00922,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,2014,New York,2186,NY00922,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rouses Point Village Police Department,2013,New York,2189,NY00922,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rouses Point Village Police Department,2012,New York,2215,NY00922,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rouses Point Village Police Department,2013,New York,2189,NY00922,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rouses Point Village Police Department,2012,New York,2215,NY00922,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Rouses Point Village Police Department,2011,New York,2219,NY00922,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,2010,New York,2209,NY00922,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,2009,New York,2325,NY00922,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -13,9 +13,9 @@ Rouses Point Village Police Department,2006,New York,2406,NY00922,3,0,3,0,0,0,0,
 Rouses Point Village Police Department,2005,New York,2391,NY00922,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,2004,New York,2368,NY00922,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,2003,New York,2350,NY00922,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rouses Point Village Police Department,2002,New York,2299,NY00922,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rouses Point Village Police Department,2001,New York,2281,NY00922,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rouses Point Village Police Department,2000,New York,2277,NY00922,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rouses Point Village Police Department,2002,New York,2299,NY00922,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rouses Point Village Police Department,2001,New York,2281,NY00922,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rouses Point Village Police Department,2e3,New York,2277,NY00922,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,1999,New York,2164,NY00922,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,1998,New York,2204,NY00922,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,1997,New York,2402,NY00922,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -40,4 +40,4 @@ Rouses Point Village Police Department,1979,New York,2259,NY00922,1,0,1,0,0,0,0,
 Rouses Point Village Police Department,1978,New York,2200,NY00922,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,1977,New York,2503,NY00922,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Rouses Point Village Police Department,1976,New York,2221,NY00922,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Rouses Point Village Police Department,1975,New York,2283,NY00922,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rouses Point Village Police Department,1975,New York,2283,NY00922,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

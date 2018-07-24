@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Wabash Police,2011,Indiana,10720,IN08502,27,1,26,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Wabash Police,2010,Indiana,10666,IN08502,27,1,26,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wabash Police,2011,Indiana,10720,IN08502,27,1,26,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wabash Police,2010,Indiana,10666,IN08502,27,1,26,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Wabash Police,2009,Indiana,10718,IN08502,27,1,26,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wabash Police,2008,Indiana,10764,IN08502,27,1,26,6,5,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Wabash Police,2007,Indiana,11021,IN08502,27,1,26,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -10,7 +10,7 @@ Wabash Police,2004,Indiana,11457,IN08502,26,1,25,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wabash Police,2003,Indiana,11587,IN08502,26,1,25,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wabash Police,2002,Indiana,11894,IN08502,26,2,24,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wabash Police,2001,Indiana,11809,IN08502,26,2,24,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wabash Police,2000,Indiana,11743,IN08502,27,2,25,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wabash Police,2e3,Indiana,11743,IN08502,27,2,25,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wabash Police,1999,Indiana,11221,IN08502,26,2,24,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wabash Police,1998,Indiana,11434,IN08502,26,2,24,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wabash Police,1997,Indiana,12488,IN08502,26,2,24,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,7 +32,7 @@ Wabash Police,1982,Indiana,12984,IN08502,25,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wabash Police,1981,Indiana,12973,IN08502,25,0,25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wabash Police,1980,Indiana,12961,IN08502,25,0,25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wabash Police,1979,Indiana,13166,IN08502,25,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wabash Police,1978,Indiana,15000,IN08502,26,0,26,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
-Wabash Police,1977,Indiana,13875,IN08502,26,0,26,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Wabash Police,1976,Indiana,12782,IN08502,26,0,26,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Wabash Police,1975,Indiana,12666,IN08502,28,0,28,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wabash Police,1978,Indiana,15e3,IN08502,26,0,26,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Wabash Police,1977,Indiana,13875,IN08502,26,0,26,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wabash Police,1976,Indiana,12782,IN08502,26,0,26,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wabash Police,1975,Indiana,12666,IN08502,28,0,28,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,5 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-University Of North Texas Health Science Center,2016,Texas,0,TX22049,12,2,10,9,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+University Of North Texas Health Science Center,2016,Texas,0,TX22049,12,2,10,9,5,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 University Of North Texas Health Science Center,2015,Texas,0,TX22049,11,4,7,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of North Texas Health Science Center,2014,Texas,0,TX22049,11,4,7,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of North Texas Health Science Center,2013,Texas,0,TX22049,9,3,6,12,6,6,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
@@ -15,7 +15,7 @@ University Of North Texas Health Science Center,2004,Texas,0,TX22049,9,2,7,11,4,
 University Of North Texas Health Science Center,2003,Texas,0,TX22049,8,2,6,11,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of North Texas Health Science Center,2002,Texas,0,TX22049,11,3,8,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of North Texas Health Science Center,2001,Texas,0,TX22049,14,3,11,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-University Of North Texas Health Science Center,2000,Texas,0,TX22049,15,3,12,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+University Of North Texas Health Science Center,2e3,Texas,0,TX22049,15,3,12,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of North Texas Health Science Center,1999,Texas,0,TX22049,14,3,11,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of North Texas Health Science Center,1998,Texas,0,TX22049,15,2,13,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 University Of North Texas Health Science Center,1997,Texas,0,TX22049,13,1,12,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

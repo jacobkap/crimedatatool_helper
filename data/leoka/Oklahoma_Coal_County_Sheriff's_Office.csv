@@ -4,7 +4,7 @@ Coal County Sheriff's Office,2015,Oklahoma,3877,OK01500,6,0,6,3,3,0,0,0,0,0,0,0,
 Coal County Sheriff's Office,2014,Oklahoma,3925,OK01500,5,0,5,4,4,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Coal County Sheriff's Office,2013,Oklahoma,4029,OK01500,9,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coal County Sheriff's Office,2012,Oklahoma,3983,OK01500,5,0,5,12,6,6,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Coal County Sheriff's Office,2011,Oklahoma,4000,OK01500,6,0,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coal County Sheriff's Office,2011,Oklahoma,4e3,OK01500,6,0,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coal County Sheriff's Office,2010,Oklahoma,3958,OK01500,6,0,6,4,4,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Coal County Sheriff's Office,2009,Oklahoma,3864,OK01500,9,1,8,3,3,0,0,0,1,0,0,1,0,2,0,0,1,1,3,0,0,2,1,2,0,0,0,0,0,0,0,0,0,1
 Coal County Sheriff's Office,2008,Oklahoma,3820,OK01500,8,0,8,5,4,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Coal County Sheriff's Office,2004,Oklahoma,4003,OK01500,6,0,6,2,2,0,0,0,1,0,0,1,
 Coal County Sheriff's Office,2003,Oklahoma,3987,OK01500,3,0,3,2,1,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
 Coal County Sheriff's Office,2002,Oklahoma,4076,OK01500,6,1,5,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coal County Sheriff's Office,2001,Oklahoma,4038,OK01500,5,1,4,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Coal County Sheriff's Office,2000,Oklahoma,4026,OK01500,7,0,7,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coal County Sheriff's Office,2e3,Oklahoma,4026,OK01500,7,0,7,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coal County Sheriff's Office,1999,Oklahoma,4165,OK01500,8,0,8,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coal County Sheriff's Office,1998,Oklahoma,4155,OK01500,8,0,8,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Coal County Sheriff's Office,1997,Oklahoma,4099,OK01500,5,0,5,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -34,10 +34,10 @@ Coal County Sheriff's Office,1985,Oklahoma,3978,OK01500,5,0,5,4,1,3,0,0,0,0,0,0,
 Coal County Sheriff's Office,1984,Oklahoma,4086,OK01500,3,0,3,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coal County Sheriff's Office,1983,Oklahoma,4400,OK01500,3,0,3,2,0,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Coal County Sheriff's Office,1982,Oklahoma,4239,OK01500,3,0,3,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Coal County Sheriff's Office,1981,Oklahoma,4133,OK01500,3,0,3,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Coal County Sheriff's Office,1981,Oklahoma,4133,OK01500,3,0,3,2,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Coal County Sheriff's Office,1980,Oklahoma,4004,OK01500,3,0,3,3,0,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Coal County Sheriff's Office,1979,Oklahoma,3907,OK01500,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Coal County Sheriff's Office,1978,Oklahoma,3897,OK01500,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Coal County Sheriff's Office,1977,Oklahoma,4194,OK01500,4,0,4,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Coal County Sheriff's Office,1979,Oklahoma,3907,OK01500,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Coal County Sheriff's Office,1978,Oklahoma,3897,OK01500,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Coal County Sheriff's Office,1977,Oklahoma,4194,OK01500,4,0,4,2,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Coal County Sheriff's Office,1976,Oklahoma,3827,OK01500,3,0,3,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coal County Sheriff's Office,1975,Oklahoma,3802,OK01500,3,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0

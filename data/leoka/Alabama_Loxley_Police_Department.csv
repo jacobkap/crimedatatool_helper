@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Loxley Police Department,2016,Alabama,1817,AL00506,13,0,13,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Loxley Police Department,2015,Alabama,1748,AL00506,12,0,12,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Loxley Police Department,2014,Alabama,1720,AL00506,12,0,12,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Loxley Police Department,2016,Alabama,1817,AL00506,13,0,13,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Loxley Police Department,2015,Alabama,1748,AL00506,12,0,12,6,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Loxley Police Department,2014,Alabama,1720,AL00506,12,0,12,6,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Loxley Police Department,2013,Alabama,1694,AL00506,14,0,14,6,4,2,0,0,0,0,0,0,0,3,0,0,1,2,3,0,0,1,2,3,0,0,0,0,0,0,0,0,0,0
 Loxley Police Department,2012,Alabama,1679,AL00506,14,0,14,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Loxley Police Department,2011,Alabama,1640,AL00506,14,0,14,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,14 +15,14 @@ Loxley Police Department,2004,Alabama,1417,AL00506,7,0,7,6,6,0,0,0,0,0,0,0,0,0,0
 Loxley Police Department,2003,Alabama,1391,AL00506,8,1,7,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Loxley Police Department,2002,Alabama,1360,AL00506,8,1,7,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Loxley Police Department,2001,Alabama,1353,AL00506,7,1,6,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Loxley Police Department,2000,Alabama,1348,AL00506,7,1,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Loxley Police Department,2e3,Alabama,1348,AL00506,7,1,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Loxley Police Department,1999,Alabama,1437,AL00506,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Loxley Police Department,1998,Alabama,1442,AL00506,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Loxley Police Department,1997,Alabama,1735,AL00506,6,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Loxley Police Department,1996,Alabama,1717,AL00506,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Loxley Police Department,1997,Alabama,1735,AL00506,6,1,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Loxley Police Department,1996,Alabama,1717,AL00506,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Loxley Police Department,1995,Alabama,1709,AL00506,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Loxley Police Department,1979,Alabama,1032,AL00506,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Loxley Police Department,1978,Alabama,975,AL00506,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Loxley Police Department,1979,Alabama,1032,AL00506,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Loxley Police Department,1978,Alabama,975,AL00506,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Loxley Police Department,1977,Alabama,1317,AL00506,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Loxley Police Department,1976,Alabama,1200,AL00506,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Loxley Police Department,1976,Alabama,1200,AL00506,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Loxley Police Department,1975,Alabama,950,AL00506,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

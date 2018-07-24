@@ -8,16 +8,16 @@ Thomaston Police Department,2011,Connecticut,7902,CT00140,11,1,10,3,0,3,0,0,0,0,
 Thomaston Police Department,2010,Connecticut,7887,CT00140,11,1,10,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Thomaston Police Department,2009,Connecticut,7792,CT00140,12,1,11,3,0,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Thomaston Police Department,2008,Connecticut,7854,CT00140,12,1,11,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Thomaston Police Department,2007,Connecticut,7972,CT00140,13,1,12,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thomaston Police Department,2007,Connecticut,7972,CT00140,13,1,12,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Thomaston Police Department,2006,Connecticut,7926,CT00140,13,1,12,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Thomaston Police Department,2005,Connecticut,7913,CT00140,12,1,11,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Thomaston Police Department,2004,Connecticut,7903,CT00140,11,1,10,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thomaston Police Department,2005,Connecticut,7913,CT00140,12,1,11,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Thomaston Police Department,2004,Connecticut,7903,CT00140,11,1,10,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Thomaston Police Department,2003,Connecticut,7817,CT00140,13,1,12,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Thomaston Police Department,2002,Connecticut,7624,CT00140,12,1,11,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Thomaston Police Department,2001,Connecticut,7546,CT00140,13,1,12,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Thomaston Police Department,2000,Connecticut,7503,CT00140,13,1,12,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thomaston Police Department,2e3,Connecticut,7503,CT00140,13,1,12,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Thomaston Police Department,1999,Connecticut,7324,CT00140,13,1,12,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Thomaston Police Department,1998,Connecticut,7326,CT00140,13,1,12,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thomaston Police Department,1998,Connecticut,7326,CT00140,13,1,12,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Thomaston Police Department,1997,Connecticut,7110,CT00140,12,1,11,3,2,1,0,0,2,0,2,0,0,1,0,1,0,0,3,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0
 Thomaston Police Department,1996,Connecticut,7119,CT00140,12,1,11,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Thomaston Police Department,1995,Connecticut,7122,CT00140,12,0,12,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,4 +38,4 @@ Thomaston Police Department,1981,Connecticut,6314,CT00140,9,0,9,3,2,1,0,0,2,0,0,
 Thomaston Police Department,1980,Connecticut,6240,CT00140,9,0,9,4,2,2,0,0,3,0,0,3,0,5,0,0,5,0,8,0,0,8,0,0,1,5,0,0,0,0,0,0,0,2
 Thomaston Police Department,1979,Connecticut,6280,CT00140,10,0,10,2,2,0,0,0,5,0,2,3,0,1,0,0,1,0,6,0,2,4,0,0,0,1,0,0,0,0,4,0,0,1
 Thomaston Police Department,1978,Connecticut,6297,CT00140,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Thomaston Police Department,1977,Connecticut,6500,CT00140,11,1,10,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thomaston Police Department,1977,Connecticut,6500,CT00140,11,1,10,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

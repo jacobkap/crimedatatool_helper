@@ -12,15 +12,15 @@ Mauldin Police Department,2006,South Carolina,19644,SC02304,37,6,31,11,9,2,0,0,1
 Mauldin Police Department,2005,South Carolina,18857,SC02304,35,4,31,9,8,1,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,2,0,0,0,0,0,0,1,0
 Mauldin Police Department,2004,South Carolina,17934,SC02304,32,1,31,11,10,1,0,0,3,0,0,3,0,2,0,0,0,2,5,0,0,3,2,0,0,0,0,0,0,0,3,0,0,2
 Mauldin Police Department,2001,South Carolina,15418,SC02304,34,3,31,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mauldin Police Department,2000,South Carolina,15224,SC02304,37,5,32,9,9,0,0,0,0,0,0,0,0,10,0,0,10,0,10,0,0,10,0,1,0,3,0,0,1,0,0,0,0,5
+Mauldin Police Department,2e3,South Carolina,15224,SC02304,37,5,32,9,9,0,0,0,0,0,0,0,0,10,0,0,10,0,10,0,0,10,0,1,0,3,0,0,1,0,0,0,0,5
 Mauldin Police Department,1999,South Carolina,14516,SC02304,40,6,34,9,9,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Mauldin Police Department,1998,South Carolina,14122,SC02304,33,5,28,9,9,0,0,0,2,0,0,2,0,2,0,0,1,1,4,0,0,3,1,0,0,0,0,0,1,0,3,0,0,0
 Mauldin Police Department,1997,South Carolina,13470,SC02304,31,5,26,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mauldin Police Department,1996,South Carolina,13252,SC02304,28,4,24,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mauldin Police Department,1996,South Carolina,13252,SC02304,28,4,24,9,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mauldin Police Department,1995,South Carolina,13159,SC02304,28,1,27,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mauldin Police Department,1994,South Carolina,12188,SC02304,28,1,27,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mauldin Police Department,1993,South Carolina,12119,SC02304,28,1,27,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Mauldin Police Department,1992,South Carolina,11972,SC02304,25,1,24,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mauldin Police Department,1993,South Carolina,12119,SC02304,28,1,27,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mauldin Police Department,1992,South Carolina,11972,SC02304,25,1,24,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mauldin Police Department,1991,South Carolina,11830,SC02304,25,2,23,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mauldin Police Department,1990,South Carolina,11587,SC02304,25,4,21,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Mauldin Police Department,1989,South Carolina,9263,SC02304,25,4,21,6,6,0,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,0,0,0,0,0,1,0,0,4
@@ -36,5 +36,5 @@ Mauldin Police Department,1980,South Carolina,8258,SC02304,15,1,14,5,3,2,0,0,0,0
 Mauldin Police Department,1979,South Carolina,7786,SC02304,15,1,14,5,4,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Mauldin Police Department,1978,South Carolina,7557,SC02304,15,0,15,4,3,1,0,0,1,0,0,0,1,4,0,0,4,0,5,0,0,4,1,0,0,2,0,0,0,0,2,0,0,1
 Mauldin Police Department,1977,South Carolina,7356,SC02304,15,0,15,4,3,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
-Mauldin Police Department,1976,South Carolina,8000,SC02304,14,0,14,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Mauldin Police Department,1975,South Carolina,6500,SC02304,13,0,13,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mauldin Police Department,1976,South Carolina,8e3,SC02304,14,0,14,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Mauldin Police Department,1975,South Carolina,6500,SC02304,13,0,13,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -15,7 +15,7 @@ Creve Coeur Police Department,2004,Missouri,16865,MO09519,51,5,46,10,10,0,0,0,0,
 Creve Coeur Police Department,2003,Missouri,16857,MO09519,50,5,45,11,11,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0
 Creve Coeur Police Department,2002,Missouri,16728,MO09519,48,4,44,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Creve Coeur Police Department,2001,Missouri,16602,MO09519,50,4,46,10,10,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
-Creve Coeur Police Department,2000,Missouri,16500,MO09519,48,3,45,11,10,1,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,0,0,0,0,1,1
+Creve Coeur Police Department,2e3,Missouri,16500,MO09519,48,3,45,11,10,1,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,0,0,0,0,1,1
 Creve Coeur Police Department,1999,Missouri,11945,MO09519,47,3,44,11,11,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,1,0,0,0,0,0,0,1,1
 Creve Coeur Police Department,1998,Missouri,12172,MO09519,47,2,45,11,11,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Creve Coeur Police Department,1997,Missouri,12353,MO09519,45,3,42,11,10,1,0,0,0,0,0,0,0,2,0,1,0,1,2,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0
@@ -27,7 +27,7 @@ Creve Coeur Police Department,1992,Missouri,12486,MO09519,38,2,36,9,8,1,0,0,0,0,
 Creve Coeur Police Department,1991,Missouri,12402,MO09519,38,2,36,9,8,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
 Creve Coeur Police Department,1990,Missouri,12304,MO09519,38,2,36,9,8,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Creve Coeur Police Department,1989,Missouri,11419,MO09519,36,1,35,9,9,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0
-Creve Coeur Police Department,1988,Missouri,9596,MO09519,35,1,34,9,9,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Creve Coeur Police Department,1988,Missouri,9596,MO09519,35,1,34,9,9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Creve Coeur Police Department,1987,Missouri,9549,MO09519,33,0,33,8,7,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Creve Coeur Police Department,1986,Missouri,10883,MO09519,34,0,34,8,7,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Creve Coeur Police Department,1985,Missouri,11817,MO09519,33,0,33,8,7,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Creve Coeur Police Department,1980,Missouri,11991,MO09519,30,0,30,8,6,2,0,0,0,0,
 Creve Coeur Police Department,1979,Missouri,11022,MO09519,29,0,29,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Creve Coeur Police Department,1978,Missouri,10768,MO09519,25,0,25,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Creve Coeur Police Department,1977,Missouri,10659,MO09519,26,0,26,6,3,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Creve Coeur Police Department,1976,Missouri,10660,MO09519,26,0,26,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Creve Coeur Police Department,1975,Missouri,10339,MO09519,24,0,24,6,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Creve Coeur Police Department,1976,Missouri,10660,MO09519,26,0,26,6,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Creve Coeur Police Department,1975,Missouri,10339,MO09519,24,0,24,6,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

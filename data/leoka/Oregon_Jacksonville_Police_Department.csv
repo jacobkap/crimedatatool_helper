@@ -10,12 +10,12 @@ Jacksonville Police Department,2009,Oregon,2177,OR01503,5,0,5,1,1,0,0,0,0,0,0,0,
 Jacksonville Police Department,2008,Oregon,2178,OR01503,5,1,4,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,2007,Oregon,2190,OR01503,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,2006,Oregon,2267,OR01503,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jacksonville Police Department,2005,Oregon,2271,OR01503,4,0,4,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jacksonville Police Department,2005,Oregon,2271,OR01503,4,0,4,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jacksonville Police Department,2004,Oregon,2260,OR01503,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,2003,Oregon,2250,OR01503,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,2002,Oregon,2300,OR01503,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,2001,Oregon,2269,OR01503,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jacksonville Police Department,2000,Oregon,2235,OR01503,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jacksonville Police Department,2e3,Oregon,2235,OR01503,4,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,1999,Oregon,1928,OR01503,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,1998,Oregon,1970,OR01503,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,1997,Oregon,2102,OR01503,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,7 +28,7 @@ Jacksonville Police Department,1991,Oregon,1949,OR01503,3,0,3,0,0,0,0,0,0,0,0,0,
 Jacksonville Police Department,1990,Oregon,1896,OR01503,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,1989,Oregon,2283,OR01503,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,1988,Oregon,2138,OR01503,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jacksonville Police Department,1987,Oregon,2100,OR01503,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jacksonville Police Department,1987,Oregon,2100,OR01503,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jacksonville Police Department,1986,Oregon,2054,OR01503,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,1985,Oregon,2035,OR01503,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,1984,Oregon,2026,OR01503,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,4 +39,4 @@ Jacksonville Police Department,1980,Oregon,2013,OR01503,3,0,3,0,0,0,0,0,1,0,0,1,
 Jacksonville Police Department,1979,Oregon,2386,OR01503,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Jacksonville Police Department,1978,Oregon,2150,OR01503,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jacksonville Police Department,1977,Oregon,2183,OR01503,4,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
-Jacksonville Police Department,1976,Oregon,2097,OR01503,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jacksonville Police Department,1976,Oregon,2097,OR01503,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

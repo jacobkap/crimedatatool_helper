@@ -15,7 +15,7 @@ Ferndale Police Department,2004,Washington,9704,WA03704,15,1,14,3,3,0,0,0,0,0,0,
 Ferndale Police Department,2003,Washington,9489,WA03704,15,1,14,3,3,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0
 Ferndale Police Department,2002,Washington,9018,WA03704,15,1,14,3,3,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0
 Ferndale Police Department,2001,Washington,8897,WA03704,15,1,14,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ferndale Police Department,2000,Washington,8758,WA03704,15,2,13,2,2,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
+Ferndale Police Department,2e3,Washington,8758,WA03704,15,2,13,2,2,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
 Ferndale Police Department,1999,Washington,7816,WA03704,15,2,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1998,Washington,7298,WA03704,13,1,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1997,Washington,6517,WA03704,11,0,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,6 +33,6 @@ Ferndale Police Department,1986,Washington,4478,WA03704,7,0,7,3,3,0,0,0,1,0,0,1,
 Ferndale Police Department,1985,Washington,4213,WA03704,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferndale Police Department,1984,Washington,4156,WA03704,7,0,7,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Ferndale Police Department,1983,Washington,4015,WA03704,6,0,6,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ferndale Police Department,1982,Washington,3964,WA03704,6,0,6,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ferndale Police Department,1981,Washington,3933,WA03704,6,0,6,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ferndale Police Department,1982,Washington,3964,WA03704,6,0,6,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ferndale Police Department,1981,Washington,3933,WA03704,6,0,6,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ferndale Police Department,1980,Washington,3841,WA03704,6,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

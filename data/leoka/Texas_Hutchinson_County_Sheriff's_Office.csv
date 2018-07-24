@@ -6,7 +6,7 @@ Hutchinson County Sheriff's Office,2013,Texas,7056,TX11700,13,1,12,20,12,8,0,0,0
 Hutchinson County Sheriff's Office,2012,Texas,7118,TX11700,12,1,11,23,15,8,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Hutchinson County Sheriff's Office,2011,Texas,7165,TX11700,12,1,11,23,15,8,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Hutchinson County Sheriff's Office,2010,Texas,7018,TX11700,12,1,11,23,15,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hutchinson County Sheriff's Office,2009,Texas,7000,TX11700,12,1,11,23,15,8,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0
+Hutchinson County Sheriff's Office,2009,Texas,7e3,TX11700,12,1,11,23,15,8,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0
 Hutchinson County Sheriff's Office,2008,Texas,7070,TX11700,12,1,11,19,11,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hutchinson County Sheriff's Office,2007,Texas,7283,TX11700,11,1,10,18,13,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hutchinson County Sheriff's Office,2006,Texas,7526,TX11700,11,1,10,20,15,5,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Hutchinson County Sheriff's Office,2004,Texas,7562,TX11700,10,2,8,18,12,6,0,0,0,
 Hutchinson County Sheriff's Office,2003,Texas,7580,TX11700,14,2,12,18,11,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hutchinson County Sheriff's Office,2002,Texas,7959,TX11700,12,1,11,18,10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hutchinson County Sheriff's Office,2001,Texas,7791,TX11700,15,3,12,15,11,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Hutchinson County Sheriff's Office,2000,Texas,7619,TX11700,17,4,13,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hutchinson County Sheriff's Office,2e3,Texas,7619,TX11700,17,4,13,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hutchinson County Sheriff's Office,1999,Texas,7689,TX11700,24,8,16,6,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Hutchinson County Sheriff's Office,1998,Texas,7459,TX11700,24,8,16,6,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Hutchinson County Sheriff's Office,1997,Texas,8266,TX11700,24,7,17,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,11 +33,11 @@ Hutchinson County Sheriff's Office,1986,Texas,10083,TX11700,27,5,22,5,5,0,0,0,0,
 Hutchinson County Sheriff's Office,1985,Texas,8758,TX11700,28,4,24,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hutchinson County Sheriff's Office,1984,Texas,9500,TX11700,21,4,17,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hutchinson County Sheriff's Office,1983,Texas,9148,TX11700,23,3,20,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hutchinson County Sheriff's Office,1982,Texas,8890,TX11700,18,2,16,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hutchinson County Sheriff's Office,1982,Texas,8890,TX11700,18,2,16,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hutchinson County Sheriff's Office,1981,Texas,8585,TX11700,18,2,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hutchinson County Sheriff's Office,1980,Texas,8245,TX11700,14,1,13,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Hutchinson County Sheriff's Office,1979,Texas,9116,TX11700,11,1,10,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hutchinson County Sheriff's Office,1978,Texas,14995,TX11700,11,1,10,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hutchinson County Sheriff's Office,1977,Texas,7762,TX11700,10,1,9,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hutchinson County Sheriff's Office,1976,Texas,7202,TX11700,10,1,9,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hutchinson County Sheriff's Office,1976,Texas,7202,TX11700,10,1,9,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hutchinson County Sheriff's Office,1975,Texas,8770,TX11700,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

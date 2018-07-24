@@ -15,15 +15,15 @@ Orangeburg Public Safety,2004,South Carolina,12915,SC03801,76,10,66,20,13,7,0,1,
 Orangeburg Public Safety,2003,South Carolina,12706,SC03801,80,10,70,14,13,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Orangeburg Public Safety,2002,South Carolina,13067,SC03801,74,12,62,14,12,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Orangeburg Public Safety,2001,South Carolina,12927,SC03801,70,11,59,14,12,2,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
-Orangeburg Public Safety,2000,South Carolina,12765,SC03801,77,8,69,13,12,1,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,1,0,1,0,0,0,0,2,0,1,0
+Orangeburg Public Safety,2e3,South Carolina,12765,SC03801,77,8,69,13,12,1,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,1,0,1,0,0,0,0,2,0,1,0
 Orangeburg Public Safety,1999,South Carolina,12898,SC03801,77,11,66,13,12,1,0,0,6,0,0,6,0,4,0,1,3,0,10,0,1,9,0,0,0,5,0,0,1,0,2,0,0,2
 Orangeburg Public Safety,1998,South Carolina,13156,SC03801,77,8,69,13,12,1,0,0,12,0,0,10,2,9,0,1,7,1,21,0,1,17,3,1,0,3,0,0,1,0,2,0,4,10
 Orangeburg Public Safety,1997,South Carolina,14121,SC03801,76,8,68,13,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Orangeburg Public Safety,1996,South Carolina,13892,SC03801,78,8,70,12,11,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Orangeburg Public Safety,1996,South Carolina,13892,SC03801,78,8,70,12,11,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Orangeburg Public Safety,1995,South Carolina,13795,SC03801,73,8,65,12,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orangeburg Public Safety,1994,South Carolina,14138,SC03801,68,6,62,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Orangeburg Public Safety,1993,South Carolina,14058,SC03801,65,6,59,20,10,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Orangeburg Public Safety,1992,South Carolina,14196,SC03801,43,6,37,10,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Orangeburg Public Safety,1993,South Carolina,14058,SC03801,65,6,59,20,10,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Orangeburg Public Safety,1992,South Carolina,14196,SC03801,43,6,37,10,9,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Orangeburg Public Safety,1991,South Carolina,14027,SC03801,40,6,34,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Orangeburg Public Safety,1990,South Carolina,13739,SC03801,40,6,34,11,9,2,0,0,1,0,0,1,0,4,0,0,3,1,5,0,0,4,1,0,0,1,0,0,0,0,4,0,0,0
 Orangeburg Public Safety,1989,South Carolina,15752,SC03801,32,3,29,11,9,2,0,0,0,0,0,0,0,10,0,4,6,0,10,0,4,6,0,0,0,1,0,0,0,0,8,0,1,0
@@ -38,5 +38,5 @@ Orangeburg Public Safety,1981,South Carolina,15067,SC03801,31,2,29,8,6,2,0,0,1,0
 Orangeburg Public Safety,1980,South Carolina,14584,SC03801,28,2,26,10,6,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Orangeburg Public Safety,1979,South Carolina,17497,SC03801,28,1,27,10,7,3,0,0,2,0,0,2,0,7,0,0,6,1,9,0,0,8,1,0,0,0,0,0,1,0,8,0,0,0
 Orangeburg Public Safety,1978,South Carolina,16683,SC03801,30,2,28,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Orangeburg Public Safety,1977,South Carolina,17000,SC03801,32,0,32,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Orangeburg Public Safety,1977,South Carolina,17e3,SC03801,32,0,32,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Orangeburg Public Safety,1976,South Carolina,13329,SC03801,31,0,31,8,6,2,0,0,3,0,1,2,0,2,0,0,2,0,5,0,1,4,0,2,0,3,0,0,0,0,0,0,0,0

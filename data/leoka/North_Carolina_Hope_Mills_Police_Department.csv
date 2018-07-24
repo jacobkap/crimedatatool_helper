@@ -6,7 +6,7 @@ Hope Mills Police Department,2013,North Carolina,15699,NC02602,35,4,31,5,4,1,0,0
 Hope Mills Police Department,2012,North Carolina,15594,NC02602,34,4,30,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hope Mills Police Department,2011,North Carolina,15368,NC02602,34,3,31,6,4,2,0,0,0,0,0,0,0,7,1,0,5,1,7,1,0,5,1,0,0,1,0,0,2,0,1,0,2,1
 Hope Mills Police Department,2010,North Carolina,15176,NC02602,31,2,29,3,1,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,2,0,0,0,0,0,0,1,0,0,0
-Hope Mills Police Department,2009,North Carolina,13442,NC02602,30,3,27,11,9,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hope Mills Police Department,2009,North Carolina,13442,NC02602,30,3,27,11,9,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hope Mills Police Department,2008,North Carolina,13004,NC02602,28,2,26,8,6,2,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,1,0,1,0,0,0,0,2,0,0,1
 Hope Mills Police Department,2007,North Carolina,12778,NC02602,30,3,27,10,8,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,1,0
 Hope Mills Police Department,2006,North Carolina,13037,NC02602,30,3,27,11,9,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
@@ -15,9 +15,9 @@ Hope Mills Police Department,2004,North Carolina,12157,NC02602,26,3,23,11,8,3,0,
 Hope Mills Police Department,2003,North Carolina,11921,NC02602,23,3,20,9,7,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Hope Mills Police Department,2002,North Carolina,11615,NC02602,26,2,24,10,8,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
 Hope Mills Police Department,2001,North Carolina,11428,NC02602,26,2,24,10,8,2,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0
-Hope Mills Police Department,2000,North Carolina,11237,NC02602,26,2,24,10,8,2,0,0,0,0,0,0,0,7,0,0,7,0,7,0,0,7,0,0,0,0,0,0,0,0,4,0,3,0
+Hope Mills Police Department,2e3,North Carolina,11237,NC02602,26,2,24,10,8,2,0,0,0,0,0,0,0,7,0,0,7,0,7,0,0,7,0,0,0,0,0,0,0,0,4,0,3,0
 Hope Mills Police Department,1999,North Carolina,9933,NC02602,21,3,18,9,7,2,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,0,0,0,0,0,4,0,2,0
-Hope Mills Police Department,1998,North Carolina,9434,NC02602,21,2,19,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hope Mills Police Department,1998,North Carolina,9434,NC02602,21,2,19,8,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hope Mills Police Department,1997,North Carolina,9994,NC02602,23,1,22,7,6,1,0,0,1,0,1,0,0,4,0,0,2,2,5,0,1,2,2,1,0,0,0,0,0,0,2,0,1,1
 Hope Mills Police Department,1996,North Carolina,9857,NC02602,21,2,19,8,7,1,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,0,0,0,0,0,0,0,1,0,0,2
 Hope Mills Police Department,1995,North Carolina,9685,NC02602,18,2,16,7,6,1,0,0,1,0,1,0,0,2,0,0,2,0,3,0,1,2,0,0,0,0,0,0,0,0,3,0,0,0
@@ -39,5 +39,5 @@ Hope Mills Police Department,1980,North Carolina,5356,NC02602,9,1,8,3,2,1,0,0,0,
 Hope Mills Police Department,1979,North Carolina,3960,NC02602,7,0,7,5,2,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Hope Mills Police Department,1978,North Carolina,4016,NC02602,7,0,7,4,1,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
 Hope Mills Police Department,1977,North Carolina,3260,NC02602,7,0,7,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hope Mills Police Department,1976,North Carolina,3080,NC02602,7,0,7,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hope Mills Police Department,1976,North Carolina,3080,NC02602,7,0,7,4,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hope Mills Police Department,1975,North Carolina,2900,NC02602,5,0,5,2,1,1,0,0,1,0,0,0,1,1,0,0,1,0,2,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0

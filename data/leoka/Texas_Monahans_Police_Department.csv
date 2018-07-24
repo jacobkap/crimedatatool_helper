@@ -14,7 +14,7 @@ Monahans Police Department,2004,Texas,6504,TX23801,12,0,12,4,4,0,0,0,0,0,0,0,0,1
 Monahans Police Department,2003,Texas,6643,TX23801,10,0,10,7,4,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Monahans Police Department,2002,Texas,7125,TX23801,10,0,10,7,4,3,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,1,0,2,0,0,1,0,0,0
 Monahans Police Department,2001,Texas,6976,TX23801,11,0,11,6,3,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Monahans Police Department,2000,Texas,6821,TX23801,12,0,12,6,4,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Monahans Police Department,2e3,Texas,6821,TX23801,12,0,12,6,4,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Monahans Police Department,1999,Texas,6950,TX23801,13,1,12,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Monahans Police Department,1998,Texas,7139,TX23801,13,0,13,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Monahans Police Department,1997,Texas,8085,TX23801,14,0,14,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -31,12 +31,12 @@ Monahans Police Department,1987,Texas,9189,TX23801,14,0,14,7,5,2,0,0,3,3,0,0,0,1
 Monahans Police Department,1986,Texas,9865,TX23801,14,0,14,7,2,5,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Monahans Police Department,1985,Texas,10027,TX23801,14,0,14,7,6,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0
 Monahans Police Department,1984,Texas,9793,TX23801,14,0,14,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Monahans Police Department,1983,Texas,9334,TX23801,14,0,14,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Monahans Police Department,1982,Texas,9071,TX23801,14,0,14,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Monahans Police Department,1983,Texas,9334,TX23801,14,0,14,9,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Monahans Police Department,1982,Texas,9071,TX23801,14,0,14,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Monahans Police Department,1981,Texas,8759,TX23801,14,0,14,7,6,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
 Monahans Police Department,1980,Texas,8412,TX23801,12,0,12,6,6,0,0,0,0,0,0,0,0,2,0,1,1,0,2,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0
 Monahans Police Department,1979,Texas,8190,TX23801,10,0,10,6,5,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Monahans Police Department,1978,Texas,8327,TX23801,9,0,9,6,6,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,1,0,0,0,0,0,0,1
 Monahans Police Department,1977,Texas,9364,TX23801,10,0,10,4,4,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
-Monahans Police Department,1976,Texas,10000,TX23801,11,1,10,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monahans Police Department,1976,Texas,1e4,TX23801,11,1,10,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Monahans Police Department,1975,Texas,8459,TX23801,10,0,10,5,5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0

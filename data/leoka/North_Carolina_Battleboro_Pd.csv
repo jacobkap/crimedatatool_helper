@@ -1,5 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Battleboro Pd,1996,North Carolina,543,NC06404,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Battleboro Pd,1996,North Carolina,543,NC06404,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Battleboro Pd,1995,North Carolina,535,NC06404,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Battleboro Pd,1994,North Carolina,478,NC06404,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Battleboro Pd,1993,North Carolina,470,NC06404,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -11,13 +11,13 @@ Battleboro Pd,1988,North Carolina,687,NC06404,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,
 Battleboro Pd,1987,North Carolina,678,NC06404,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Battleboro Pd,1986,North Carolina,664,NC06404,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Battleboro Pd,1985,North Carolina,637,NC06404,3,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-Battleboro Pd,1984,North Carolina,627,NC06404,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Battleboro Pd,1983,North Carolina,655,NC06404,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Battleboro Pd,1982,North Carolina,649,NC06404,3,0,3,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Battleboro Pd,1984,North Carolina,627,NC06404,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Battleboro Pd,1983,North Carolina,655,NC06404,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Battleboro Pd,1982,North Carolina,649,NC06404,3,0,3,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Battleboro Pd,1981,North Carolina,642,NC06404,3,0,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 Battleboro Pd,1980,North Carolina,630,NC06404,4,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Battleboro Pd,1979,North Carolina,631,NC06404,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Battleboro Pd,1978,North Carolina,697,NC06404,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Battleboro Pd,1977,North Carolina,680,NC06404,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Battleboro Pd,1976,North Carolina,683,NC06404,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Battleboro Pd,1975,North Carolina,717,NC06404,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Battleboro Pd,1979,North Carolina,631,NC06404,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Battleboro Pd,1978,North Carolina,697,NC06404,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Battleboro Pd,1977,North Carolina,680,NC06404,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Battleboro Pd,1976,North Carolina,683,NC06404,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Battleboro Pd,1975,North Carolina,717,NC06404,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,5 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Sheboygan County Sheriff's Office,2016,Wisconsin,46555,WI06000,71,5,66,110,51,59,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sheboygan County Sheriff's Office,2016,Wisconsin,46555,WI06000,71,5,66,110,51,59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sheboygan County Sheriff's Office,2015,Wisconsin,47195,WI06000,70,6,64,103,47,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheboygan County Sheriff's Office,2014,Wisconsin,47003,WI06000,69,5,64,100,42,58,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Sheboygan County Sheriff's Office,2013,Wisconsin,46955,WI06000,71,5,66,97,42,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,9 +15,9 @@ Sheboygan County Sheriff's Office,2004,Wisconsin,46315,WI06000,75,8,67,95,45,50,
 Sheboygan County Sheriff's Office,2003,Wisconsin,45468,WI06000,76,8,68,94,47,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheboygan County Sheriff's Office,2002,Wisconsin,44995,WI06000,75,10,65,93,45,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheboygan County Sheriff's Office,2001,Wisconsin,44671,WI06000,75,9,66,96,49,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sheboygan County Sheriff's Office,2000,Wisconsin,44354,WI06000,75,8,67,71,39,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sheboygan County Sheriff's Office,2e3,Wisconsin,44354,WI06000,75,8,67,71,39,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheboygan County Sheriff's Office,1999,Wisconsin,43964,WI06000,76,9,67,84,42,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sheboygan County Sheriff's Office,1998,Wisconsin,44532,WI06000,75,8,67,71,39,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sheboygan County Sheriff's Office,1998,Wisconsin,44532,WI06000,75,8,67,71,39,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sheboygan County Sheriff's Office,1997,Wisconsin,41427,WI06000,75,8,67,58,32,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheboygan County Sheriff's Office,1996,Wisconsin,41347,WI06000,74,8,66,56,31,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheboygan County Sheriff's Office,1995,Wisconsin,41051,WI06000,73,8,65,55,30,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,8 +33,8 @@ Sheboygan County Sheriff's Office,1986,Wisconsin,42825,WI06000,71,3,68,37,19,18,
 Sheboygan County Sheriff's Office,1985,Wisconsin,42191,WI06000,68,2,66,18,15,3,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,2,0,1,0,0,0
 Sheboygan County Sheriff's Office,1984,Wisconsin,42387,WI06000,70,2,68,35,17,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheboygan County Sheriff's Office,1983,Wisconsin,42244,WI06000,70,1,69,34,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sheboygan County Sheriff's Office,1982,Wisconsin,42369,WI06000,67,1,66,32,16,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sheboygan County Sheriff's Office,1981,Wisconsin,42137,WI06000,66,1,65,25,16,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sheboygan County Sheriff's Office,1982,Wisconsin,42369,WI06000,67,1,66,32,16,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sheboygan County Sheriff's Office,1981,Wisconsin,42137,WI06000,66,1,65,25,16,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sheboygan County Sheriff's Office,1980,Wisconsin,41620,WI06000,65,0,65,11,10,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Sheboygan County Sheriff's Office,1979,Wisconsin,40979,WI06000,79,11,68,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheboygan County Sheriff's Office,1978,Wisconsin,40569,WI06000,76,11,65,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

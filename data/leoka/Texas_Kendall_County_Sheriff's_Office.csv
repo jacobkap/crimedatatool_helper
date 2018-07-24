@@ -15,7 +15,7 @@ Kendall County Sheriff's Office,2004,Texas,18832,TX13000,31,3,28,16,6,10,0,0,3,0
 Kendall County Sheriff's Office,2003,Texas,18333,TX13000,34,3,31,13,7,6,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Kendall County Sheriff's Office,2002,Texas,17668,TX13000,29,2,27,14,6,8,0,0,2,0,1,0,1,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0
 Kendall County Sheriff's Office,2001,Texas,17299,TX13000,33,3,30,13,5,8,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-Kendall County Sheriff's Office,2000,Texas,16915,TX13000,32,3,29,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kendall County Sheriff's Office,2e3,Texas,16915,TX13000,32,3,29,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kendall County Sheriff's Office,1999,Texas,15269,TX13000,29,3,26,8,6,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kendall County Sheriff's Office,1998,Texas,14672,TX13000,29,3,26,14,10,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Kendall County Sheriff's Office,1997,Texas,12744,TX13000,25,1,24,16,10,6,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
@@ -31,13 +31,13 @@ Kendall County Sheriff's Office,1988,Texas,9760,TX13000,9,0,9,7,1,6,0,0,0,0,0,0,
 Kendall County Sheriff's Office,1987,Texas,9440,TX13000,9,0,9,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kendall County Sheriff's Office,1986,Texas,9145,TX13000,8,0,8,24,7,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kendall County Sheriff's Office,1985,Texas,9615,TX13000,8,0,8,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kendall County Sheriff's Office,1984,Texas,8325,TX13000,6,1,5,9,1,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kendall County Sheriff's Office,1984,Texas,8325,TX13000,6,1,5,9,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kendall County Sheriff's Office,1983,Texas,8106,TX13000,6,0,6,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
-Kendall County Sheriff's Office,1982,Texas,7878,TX13000,6,0,6,13,4,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kendall County Sheriff's Office,1982,Texas,7878,TX13000,6,0,6,13,4,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kendall County Sheriff's Office,1981,Texas,7746,TX13000,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kendall County Sheriff's Office,1980,Texas,10651,TX13000,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kendall County Sheriff's Office,1979,Texas,9360,TX13000,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kendall County Sheriff's Office,1978,Texas,8993,TX13000,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kendall County Sheriff's Office,1977,Texas,8498,TX13000,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kendall County Sheriff's Office,1976,Texas,7955,TX13000,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kendall County Sheriff's Office,1975,Texas,9000,TX13000,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kendall County Sheriff's Office,1975,Texas,9e3,TX13000,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

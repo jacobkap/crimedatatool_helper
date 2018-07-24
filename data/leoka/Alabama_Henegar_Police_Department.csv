@@ -1,5 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Henegar Police Department,2015,Alabama,2344,AL02804,5,0,5,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Henegar Police Department,2015,Alabama,2344,AL02804,5,0,5,4,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Henegar Police Department,2014,Alabama,2343,AL02804,5,0,5,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henegar Police Department,2013,Alabama,2343,AL02804,5,0,5,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henegar Police Department,2012,Alabama,2362,AL02804,5,0,5,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -11,10 +11,10 @@ Henegar Police Department,2007,Alabama,2560,AL02804,4,0,4,4,2,2,0,0,0,0,0,0,0,0,
 Henegar Police Department,2006,Alabama,2530,AL02804,5,0,5,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henegar Police Department,2005,Alabama,2506,AL02804,5,0,5,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henegar Police Department,2004,Alabama,2493,AL02804,4,0,4,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Henegar Police Department,1998,Alabama,1979,AL02804,5,0,5,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Henegar Police Department,1996,Alabama,2082,AL02804,5,0,5,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Henegar Police Department,1995,Alabama,2073,AL02804,5,0,5,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Henegar Police Department,1981,Alabama,1200,AL02804,6,0,6,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Henegar Police Department,1998,Alabama,1979,AL02804,5,0,5,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Henegar Police Department,1996,Alabama,2082,AL02804,5,0,5,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Henegar Police Department,1995,Alabama,2073,AL02804,5,0,5,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Henegar Police Department,1981,Alabama,1200,AL02804,6,0,6,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Henegar Police Department,1980,Alabama,1183,AL02804,6,0,6,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henegar Police Department,1979,Alabama,992,AL02804,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Henegar Police Department,1978,Alabama,2240,AL02804,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

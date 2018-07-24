@@ -14,8 +14,8 @@ Salem Police Dept,2005,Missouri,4815,MO03301,14,0,14,5,4,1,0,0,0,0,0,0,0,1,0,0,1
 Salem Police Dept,2004,Missouri,4785,MO03301,14,0,14,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Salem Police Dept,2003,Missouri,4799,MO03301,13,0,13,5,4,1,0,0,2,0,0,1,1,2,0,0,2,0,4,0,0,3,1,0,0,1,0,0,0,0,3,0,0,0
 Salem Police Dept,2002,Missouri,4922,MO03301,13,0,13,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Salem Police Dept,2001,Missouri,4884,MO03301,13,0,13,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Salem Police Dept,2000,Missouri,4854,MO03301,12,0,12,7,6,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,1,0,0,1,1
+Salem Police Dept,2001,Missouri,4884,MO03301,13,0,13,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Salem Police Dept,2e3,Missouri,4854,MO03301,12,0,12,7,6,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,1,0,0,1,1
 Salem Police Dept,1999,Missouri,4734,MO03301,12,0,12,4,3,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0
 Salem Police Dept,1998,Missouri,4720,MO03301,12,0,12,4,3,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,2,0,0,0,0,0,0,1,0,0,0
 Salem Police Dept,1997,Missouri,4613,MO03301,13,0,13,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
@@ -24,10 +24,10 @@ Salem Police Dept,1995,Missouri,4548,MO03301,12,1,11,4,2,2,0,0,0,0,0,0,0,1,0,0,0
 Salem Police Dept,1994,Missouri,4481,MO03301,11,1,10,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Salem Police Dept,1993,Missouri,4444,MO03301,11,1,10,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Salem Police Dept,1992,Missouri,4551,MO03301,11,0,11,7,4,3,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,1,0,0,0,0,3
-Salem Police Dept,1989,Missouri,4365,MO03301,9,0,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Salem Police Dept,1988,Missouri,4321,MO03301,9,0,9,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Salem Police Dept,1987,Missouri,4352,MO03301,14,0,14,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Salem Police Dept,1986,Missouri,4416,MO03301,14,0,14,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Salem Police Dept,1989,Missouri,4365,MO03301,9,0,9,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Salem Police Dept,1988,Missouri,4321,MO03301,9,0,9,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Salem Police Dept,1987,Missouri,4352,MO03301,14,0,14,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Salem Police Dept,1986,Missouri,4416,MO03301,14,0,14,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Salem Police Dept,1985,Missouri,4586,MO03301,13,0,13,4,3,1,0,0,1,0,0,1,0,2,1,0,1,0,3,1,0,2,0,0,0,1,0,0,1,0,0,0,0,1
 Salem Police Dept,1984,Missouri,4567,MO03301,11,0,11,5,3,2,0,0,5,0,0,5,0,1,0,0,0,1,6,0,0,5,1,1,0,0,0,0,2,0,3,0,0,0
 Salem Police Dept,1983,Missouri,4532,MO03301,10,0,10,3,3,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
@@ -35,7 +35,7 @@ Salem Police Dept,1982,Missouri,4515,MO03301,8,0,8,4,3,1,0,0,1,0,0,1,0,2,0,0,1,1
 Salem Police Dept,1981,Missouri,4504,MO03301,12,0,12,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Salem Police Dept,1980,Missouri,4470,MO03301,10,0,10,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Salem Police Dept,1979,Missouri,4859,MO03301,13,3,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Salem Police Dept,1978,Missouri,4924,MO03301,14,2,12,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Salem Police Dept,1978,Missouri,4924,MO03301,14,2,12,2,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Salem Police Dept,1977,Missouri,4855,MO03301,7,0,7,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Salem Police Dept,1976,Missouri,4976,MO03301,6,0,6,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Salem Police Dept,1975,Missouri,4845,MO03301,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Salem Police Dept,1976,Missouri,4976,MO03301,6,0,6,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Salem Police Dept,1975,Missouri,4845,MO03301,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

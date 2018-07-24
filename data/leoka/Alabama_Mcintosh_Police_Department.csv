@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Mcintosh Police Department,2015,Alabama,225,AL06501,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mcintosh Police Department,2014,Alabama,227,AL06501,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mcintosh Police Department,2013,Alabama,228,AL06501,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mcintosh Police Department,2012,Alabama,236,AL06501,10,0,10,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mcintosh Police Department,2012,Alabama,236,AL06501,10,0,10,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mcintosh Police Department,2009,Alabama,233,AL06501,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mcintosh Police Department,2008,Alabama,233,AL06501,9,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mcintosh Police Department,2007,Alabama,237,AL06501,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -12,13 +12,13 @@ Mcintosh Police Department,2004,Alabama,241,AL06501,6,0,6,0,0,0,0,0,0,0,0,0,0,0,
 Mcintosh Police Department,2003,Alabama,241,AL06501,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mcintosh Police Department,2002,Alabama,246,AL06501,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mcintosh Police Department,2001,Alabama,245,AL06501,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mcintosh Police Department,2000,Alabama,244,AL06501,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mcintosh Police Department,2e3,Alabama,244,AL06501,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mcintosh Police Department,1999,Alabama,254,AL06501,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mcintosh Police Department,1998,Alabama,256,AL06501,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mcintosh Police Department,1997,Alabama,265,AL06501,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mcintosh Police Department,1996,Alabama,263,AL06501,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Mcintosh Police Department,1981,Alabama,322,AL06501,4,0,4,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mcintosh Police Department,1996,Alabama,263,AL06501,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mcintosh Police Department,1981,Alabama,322,AL06501,4,0,4,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mcintosh Police Department,1980,Alabama,318,AL06501,4,0,4,3,2,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Mcintosh Police Department,1979,Alabama,314,AL06501,4,0,4,4,0,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Mcintosh Police Department,1977,Alabama,2487,AL06501,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Mcintosh Police Department,1976,Alabama,2500,AL06501,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mcintosh Police Department,1976,Alabama,2500,AL06501,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

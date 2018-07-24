@@ -15,7 +15,7 @@ Spearman Police Department,2004,Texas,2977,TX09802,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
 Spearman Police Department,2003,Texas,3018,TX09802,4,0,4,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Spearman Police Department,2002,Texas,3155,TX09802,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Spearman Police Department,2001,Texas,3090,TX09802,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Spearman Police Department,2000,Texas,3021,TX09802,4,0,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spearman Police Department,2e3,Texas,3021,TX09802,4,0,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Spearman Police Department,1999,Texas,2950,TX09802,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Spearman Police Department,1998,Texas,3018,TX09802,4,0,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Spearman Police Department,1997,Texas,3091,TX09802,5,0,5,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,12 +32,12 @@ Spearman Police Department,1987,Texas,3563,TX09802,5,0,5,5,4,1,0,0,0,0,0,0,0,0,0
 Spearman Police Department,1986,Texas,3746,TX09802,4,0,4,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Spearman Police Department,1985,Texas,3884,TX09802,5,0,5,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Spearman Police Department,1984,Texas,3794,TX09802,5,0,5,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Spearman Police Department,1983,Texas,3794,TX09802,5,0,5,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Spearman Police Department,1982,Texas,3687,TX09802,4,0,4,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Spearman Police Department,1983,Texas,3794,TX09802,5,0,5,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spearman Police Department,1982,Texas,3687,TX09802,4,0,4,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Spearman Police Department,1981,Texas,3560,TX09802,6,0,6,5,5,0,0,0,1,0,1,0,0,1,0,0,1,0,2,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1
 Spearman Police Department,1980,Texas,3419,TX09802,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Spearman Police Department,1979,Texas,3415,TX09802,4,1,3,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Spearman Police Department,1978,Texas,4200,TX09802,6,1,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Spearman Police Department,1977,Texas,3901,TX09802,6,0,6,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Spearman Police Department,1976,Texas,3481,TX09802,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Spearman Police Department,1977,Texas,3901,TX09802,6,0,6,6,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spearman Police Department,1976,Texas,3481,TX09802,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Spearman Police Department,1975,Texas,4076,TX09802,5,0,5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -15,12 +15,12 @@ Hampden Police Department,2004,Maine,6667,ME01007,11,1,10,1,1,0,0,0,0,0,0,0,0,0,
 Hampden Police Department,2003,Maine,6510,ME01007,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hampden Police Department,2002,Maine,6424,ME01007,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hampden Police Department,2001,Maine,6385,ME01007,10,1,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hampden Police Department,2000,Maine,6327,ME01007,11,2,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hampden Police Department,1999,Maine,6077,ME01007,10,2,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hampden Police Department,2e3,Maine,6327,ME01007,11,2,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hampden Police Department,1999,Maine,6077,ME01007,10,2,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hampden Police Department,1998,Maine,6112,ME01007,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hampden Police Department,1997,Maine,5991,ME01007,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hampden Police Department,1996,Maine,5996,ME01007,9,0,9,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hampden Police Department,1995,Maine,5987,ME01007,9,0,9,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hampden Police Department,1995,Maine,5987,ME01007,9,0,9,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hampden Police Department,1994,Maine,5983,ME01007,9,0,9,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hampden Police Department,1993,Maine,5979,ME01007,9,0,9,5,4,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Hampden Police Department,1992,Maine,6008,ME01007,9,0,9,5,3,2,0,0,0,0,0,0,0,1,0,0,10,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -38,6 +38,6 @@ Hampden Police Department,1981,Maine,5285,ME01007,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,
 Hampden Police Department,1980,Maine,5246,ME01007,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hampden Police Department,1979,Maine,5328,ME01007,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Hampden Police Department,1978,Maine,5600,ME01007,5,0,5,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Hampden Police Department,1977,Maine,5000,ME01007,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hampden Police Department,1977,Maine,5e3,ME01007,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hampden Police Department,1976,Maine,5105,ME01007,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hampden Police Department,1975,Maine,5034,ME01007,5,0,5,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0

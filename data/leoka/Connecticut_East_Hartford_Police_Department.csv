@@ -11,11 +11,11 @@ East Hartford Police Department,2008,Connecticut,48586,CT00043,132,10,122,34,24,
 East Hartford Police Department,2007,Connecticut,48752,CT00043,133,10,123,36,24,12,0,0,7,0,0,7,0,9,0,0,9,0,16,0,0,16,0,0,0,3,0,0,1,0,5,0,6,1
 East Hartford Police Department,2006,Connecticut,49096,CT00043,128,9,119,38,26,12,0,0,6,0,0,6,0,1,0,0,1,0,7,0,0,7,0,0,0,2,0,0,1,0,1,0,3,0
 East Hartford Police Department,2005,Connecticut,49456,CT00043,128,10,118,38,23,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-East Hartford Police Department,2004,Connecticut,49884,CT00043,129,10,119,36,23,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+East Hartford Police Department,2004,Connecticut,49884,CT00043,129,10,119,36,23,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 East Hartford Police Department,2003,Connecticut,49978,CT00043,131,11,120,41,27,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 East Hartford Police Department,2002,Connecticut,50375,CT00043,129,11,118,41,25,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-East Hartford Police Department,2001,Connecticut,49859,CT00043,130,11,119,33,19,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-East Hartford Police Department,2000,Connecticut,49575,CT00043,133,12,121,34,23,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+East Hartford Police Department,2001,Connecticut,49859,CT00043,130,11,119,33,19,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+East Hartford Police Department,2e3,Connecticut,49575,CT00043,133,12,121,34,23,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 East Hartford Police Department,1999,Connecticut,47484,CT00043,127,10,117,29,21,8,0,1,2,0,0,1,1,7,0,0,7,0,9,0,0,8,1,1,0,3,0,0,0,0,4,0,0,1
 East Hartford Police Department,1998,Connecticut,47937,CT00043,123,10,113,30,21,9,0,0,6,0,0,6,0,8,1,1,3,3,14,1,1,9,3,0,0,1,0,0,2,0,5,0,0,6
 East Hartford Police Department,1997,Connecticut,50433,CT00043,128,8,120,31,20,11,0,0,6,1,0,3,2,4,0,0,4,0,10,1,0,7,2,0,0,4,0,0,2,1,2,0,0,1
@@ -28,7 +28,7 @@ East Hartford Police Department,1991,Connecticut,50511,CT00043,117,4,113,24,19,5
 East Hartford Police Department,1990,Connecticut,50452,CT00043,113,5,108,31,20,11,0,0,15,0,0,14,1,13,1,1,9,2,28,1,1,23,3,1,0,3,1,2,8,0,8,0,1,4
 East Hartford Police Department,1989,Connecticut,53970,CT00043,121,5,116,27,20,7,0,0,17,0,0,16,1,12,0,0,10,2,29,0,0,26,3,0,0,0,1,2,1,1,15,1,4,4
 East Hartford Police Department,1988,Connecticut,49645,CT00043,120,5,115,22,15,7,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-East Hartford Police Department,1987,Connecticut,48859,CT00043,114,6,108,21,15,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+East Hartford Police Department,1987,Connecticut,48859,CT00043,114,6,108,21,15,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 East Hartford Police Department,1986,Connecticut,52592,CT00043,109,5,104,15,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 East Hartford Police Department,1985,Connecticut,52460,CT00043,98,3,95,17,13,4,0,0,9,0,2,7,0,0,0,0,0,0,9,0,2,7,0,1,0,2,0,2,1,0,2,0,1,0
 East Hartford Police Department,1984,Connecticut,52133,CT00043,109,3,106,16,13,3,0,0,11,0,0,7,4,0,0,0,0,0,11,0,0,7,4,0,0,2,0,0,1,0,7,0,1,0
@@ -39,5 +39,5 @@ East Hartford Police Department,1980,Connecticut,52554,CT00043,109,4,105,16,12,4
 East Hartford Police Department,1979,Connecticut,53605,CT00043,103,5,98,13,12,1,0,0,33,0,0,32,1,0,0,0,0,0,33,0,0,32,1,8,0,4,0,0,2,0,12,0,2,5
 East Hartford Police Department,1978,Connecticut,53587,CT00043,103,4,99,13,10,3,0,0,36,0,0,31,5,0,0,0,0,0,36,0,0,31,5,4,0,8,0,0,6,3,13,0,0,2
 East Hartford Police Department,1977,Connecticut,57621,CT00043,93,3,90,16,12,4,0,0,23,0,0,18,5,0,0,0,0,0,23,0,0,18,5,1,1,0,0,0,0,1,15,0,1,4
-East Hartford Police Department,1976,Connecticut,58500,CT00043,93,3,90,15,13,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+East Hartford Police Department,1976,Connecticut,58500,CT00043,93,3,90,15,13,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 East Hartford Police Department,1975,Connecticut,53283,CT00043,91,2,89,15,11,4,0,0,7,0,0,7,0,4,0,0,4,0,11,0,0,11,0,0,0,0,0,0,1,0,7,0,3,0

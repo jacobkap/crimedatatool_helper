@@ -5,7 +5,7 @@ Seat Pleasant Police Department,2014,Maryland,4710,MD01723,13,2,11,2,2,0,0,0,1,0
 Seat Pleasant Police Department,2013,Maryland,4653,MD01723,12,0,12,2,2,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1
 Seat Pleasant Police Department,2012,Maryland,4628,MD01723,12,0,12,2,2,0,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,3,0,0,0,0,1,0,0,0
 Seat Pleasant Police Department,2011,Maryland,4585,MD01723,14,1,13,2,2,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,1,0,0,0,0,0,0,3,0,0,1
-Seat Pleasant Police Department,2010,Maryland,4542,MD01723,14,0,14,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Seat Pleasant Police Department,2010,Maryland,4542,MD01723,14,0,14,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Seat Pleasant Police Department,2009,Maryland,4822,MD01723,11,0,11,2,2,0,0,0,0,0,0,0,0,8,0,0,8,0,8,0,0,8,0,3,0,3,0,0,0,0,0,0,1,1
 Seat Pleasant Police Department,2008,Maryland,4899,MD01723,15,1,14,2,2,0,0,0,2,0,0,2,0,13,0,0,13,0,15,0,0,15,0,3,0,1,0,1,2,0,1,0,5,2
 Seat Pleasant Police Department,2007,Maryland,5020,MD01723,14,1,13,1,1,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
@@ -13,9 +13,9 @@ Seat Pleasant Police Department,2006,Maryland,5077,MD01723,14,2,12,2,2,0,0,0,1,0
 Seat Pleasant Police Department,2005,Maryland,5090,MD01723,15,2,13,2,2,0,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2
 Seat Pleasant Police Department,2004,Maryland,5089,MD01723,9,0,9,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Seat Pleasant Police Department,2003,Maryland,5074,MD01723,10,0,10,4,3,1,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,0,0,1,0,0,0,0,5,0,0,0
-Seat Pleasant Police Department,2002,Maryland,5034,MD01723,9,0,9,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Seat Pleasant Police Department,2001,Maryland,4958,MD01723,8,0,8,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Seat Pleasant Police Department,2000,Maryland,4885,MD01723,9,0,9,3,2,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0
+Seat Pleasant Police Department,2002,Maryland,5034,MD01723,9,0,9,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Seat Pleasant Police Department,2001,Maryland,4958,MD01723,8,0,8,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Seat Pleasant Police Department,2e3,Maryland,4885,MD01723,9,0,9,3,2,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0
 Seat Pleasant Police Department,1999,Maryland,5795,MD01723,11,0,11,2,1,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,2,0,0,0,0,0,0,0,1
 Seat Pleasant Police Department,1998,Maryland,5770,MD01723,8,1,7,2,2,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Seat Pleasant Police Department,1997,Maryland,5723,MD01723,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -23,4 +23,4 @@ Seat Pleasant Police Department,1996,Maryland,5699,MD01723,9,0,9,2,2,0,0,0,1,0,0
 Seat Pleasant Police Department,1995,Maryland,5666,MD01723,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Seat Pleasant Police Department,1994,Maryland,5375,MD01723,7,0,7,2,2,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
 Seat Pleasant Police Department,1993,Maryland,5332,MD01723,10,1,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Seat Pleasant Police Department,1975,Maryland,7433,MD01723,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Seat Pleasant Police Department,1975,Maryland,7433,MD01723,8,0,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

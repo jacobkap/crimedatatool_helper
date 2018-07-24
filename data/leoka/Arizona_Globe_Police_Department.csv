@@ -3,10 +3,10 @@ Globe Police Department,2016,Arizona,7366,AZ00401,19,4,15,3,2,1,0,0,0,0,0,0,0,0,
 Globe Police Department,2015,Arizona,7333,AZ00401,19,2,17,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Globe Police Department,2014,Arizona,7361,AZ00401,20,2,18,7,4,3,0,0,2,0,0,2,0,3,0,1,2,0,5,0,1,4,0,3,0,2,0,0,0,0,0,0,0,0
 Globe Police Department,2013,Arizona,7414,AZ00401,20,2,18,8,4,4,0,0,4,0,0,4,0,5,0,0,5,0,9,0,0,9,0,4,0,4,0,0,0,0,1,0,0,0
-Globe Police Department,2012,Arizona,7556,AZ00401,24,3,21,6,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Globe Police Department,2012,Arizona,7556,AZ00401,24,3,21,6,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Globe Police Department,2011,Arizona,7639,AZ00401,25,2,23,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Globe Police Department,2010,Arizona,7532,AZ00401,24,2,22,7,6,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Globe Police Department,2009,Arizona,7167,AZ00401,24,2,22,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Globe Police Department,2009,Arizona,7167,AZ00401,24,2,22,8,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Globe Police Department,2008,Arizona,7080,AZ00401,22,2,20,8,7,1,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,3,0,0,1
 Globe Police Department,2007,Arizona,7097,AZ00401,25,2,23,9,8,1,0,0,2,0,0,2,0,2,0,0,1,1,4,0,0,3,1,1,0,1,0,0,0,0,1,0,0,1
 Globe Police Department,2006,Arizona,7462,AZ00401,24,2,22,9,7,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -15,7 +15,7 @@ Globe Police Department,2004,Arizona,7466,AZ00401,22,3,19,9,6,3,0,0,2,0,0,2,0,4,
 Globe Police Department,2003,Arizona,7502,AZ00401,24,3,21,9,6,3,0,0,5,0,0,5,0,4,0,0,3,1,9,0,0,8,1,1,0,5,0,0,1,0,2,0,0,0
 Globe Police Department,2002,Arizona,7961,AZ00401,24,3,21,9,6,3,0,0,0,0,0,0,0,4,4,0,0,0,4,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0
 Globe Police Department,2001,Arizona,7744,AZ00401,24,3,21,9,6,3,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,0,0,3,0,0,2,0,0,0,0,0
-Globe Police Department,2000,Arizona,7486,AZ00401,26,2,24,9,7,2,0,0,3,0,0,3,0,4,0,0,4,0,7,0,0,7,0,1,0,2,0,0,3,0,0,0,0,1
+Globe Police Department,2e3,Arizona,7486,AZ00401,26,2,24,9,7,2,0,0,3,0,0,3,0,4,0,0,4,0,7,0,0,7,0,1,0,2,0,0,3,0,0,0,0,1
 Globe Police Department,1999,Arizona,6915,AZ00401,28,2,26,9,8,1,0,0,1,0,0,1,0,13,0,0,10,3,14,0,0,11,3,0,0,2,0,0,3,2,4,0,0,3
 Globe Police Department,1998,Arizona,6998,AZ00401,31,2,29,10,9,1,0,0,1,0,0,1,0,4,0,0,2,2,5,0,0,3,2,0,0,0,0,0,5,0,0,0,0,0
 Globe Police Department,1997,Arizona,7297,AZ00401,29,2,27,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

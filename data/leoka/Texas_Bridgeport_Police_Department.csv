@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Bridgeport Police Department,2016,Texas,6466,TX24901,14,1,13,7,7,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Bridgeport Police Department,2015,Texas,6306,TX24901,14,1,13,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgeport Police Department,2014,Texas,6199,TX24901,15,2,13,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bridgeport Police Department,2013,Texas,6121,TX24901,15,2,13,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgeport Police Department,2013,Texas,6121,TX24901,15,2,13,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bridgeport Police Department,2012,Texas,6138,TX24901,14,2,12,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgeport Police Department,2011,Texas,6102,TX24901,15,2,13,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgeport Police Department,2010,Texas,5976,TX24901,15,1,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Bridgeport Police Department,2004,Texas,5346,TX24901,14,0,14,8,7,1,0,0,3,0,0,3,0
 Bridgeport Police Department,2003,Texas,4678,TX24901,12,0,12,7,6,1,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,2,0,0,0,0,2,0,0,0,0,0
 Bridgeport Police Department,2002,Texas,4500,TX24901,10,0,10,6,5,1,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0
 Bridgeport Police Department,2001,Texas,4407,TX24901,11,0,11,6,5,1,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,1,0,0,0,0,2,0,0,0,0,1
-Bridgeport Police Department,2000,Texas,4309,TX24901,10,0,10,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bridgeport Police Department,2e3,Texas,4309,TX24901,10,0,10,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgeport Police Department,1999,Texas,4425,TX24901,8,0,8,6,6,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
 Bridgeport Police Department,1998,Texas,4341,TX24901,6,0,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgeport Police Department,1997,Texas,4085,TX24901,7,0,7,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -40,4 +40,4 @@ Bridgeport Police Department,1979,Texas,3951,TX24901,7,0,7,4,4,0,0,0,1,0,0,1,0,2
 Bridgeport Police Department,1978,Texas,4872,TX24901,7,1,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgeport Police Department,1977,Texas,4500,TX24901,6,2,4,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bridgeport Police Department,1976,Texas,3669,TX24901,5,1,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bridgeport Police Department,1975,Texas,3669,TX24901,5,1,4,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bridgeport Police Department,1975,Texas,3669,TX24901,5,1,4,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

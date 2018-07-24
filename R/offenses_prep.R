@@ -11,9 +11,7 @@ ucr <-
   dplyr::left_join(crosswalk_agencies) %>%
   dplyr::filter(agency != "NANA",
                 ori    != "FL01394") %>%
-  dplyr::mutate(population = (as.numeric(population_1) +
-                                as.numeric(population_2) +
-                                as.numeric(population_3)),
+  dplyr::mutate(population = total_population,
                 agency = tolower(agency)) %>%
   dplyr::rename(ORI                = ori,
                 ORI9               = ori9,
@@ -73,8 +71,8 @@ ucr$state <- sapply(ucr$state, simpleCap)
 ucr$state <- gsub(" Of ", " of ", ucr$state)
 
 
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/offenses")
 ucr <- data.table::data.table(ucr)
+setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/offenses")
 for (selected_ori in unique(ucr$ORI)) {
   temp   <- ucr[ORI %in% selected_ori]
   state  <- unique(temp$state)
@@ -83,9 +81,8 @@ for (selected_ori in unique(ucr$ORI)) {
   agency <- gsub(" |:", "_", agency)
   agency <- gsub("/", "_", agency)
   agency <- gsub("_+", "_", agency)
-  data.table::fwrite(temp,
-                   file = paste0(state, "_", agency, ".csv"))
-
+  readr::write_csv(temp,
+                   path = paste0(state, "_", agency, ".csv"))
 }
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/offenses")
@@ -94,7 +91,6 @@ for (selected_state in unique(ucr$state)) {
   agency <- unique(temp$agency)
   agency <- jsonlite::toJSON(agency, pretty = FALSE)
   write(agency, paste0(selected_state, "_agency_choices.json"))
-
 }
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/offenses")

@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Houston County Sheriff's Office,2016,Alabama,27502,AL03800,62,3,59,90,45,45,0,0,4,0,0,4,0,4,0,0,2,2,8,0,0,6,2,6,0,0,0,0,1,0,0,1,0,0
 Houston County Sheriff's Office,2013,Alabama,27032,AL03800,64,2,62,102,53,49,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0
 Houston County Sheriff's Office,2012,Alabama,27098,AL03800,66,2,64,103,55,48,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
-Houston County Sheriff's Office,2011,Alabama,26899,AL03800,61,4,57,28,23,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Houston County Sheriff's Office,2011,Alabama,26899,AL03800,61,4,57,28,23,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Houston County Sheriff's Office,2010,Alabama,26770,AL03800,61,3,58,34,26,8,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Houston County Sheriff's Office,2009,Alabama,24944,AL03800,58,3,55,31,24,7,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Houston County Sheriff's Office,2008,Alabama,24538,AL03800,52,3,49,31,22,9,0,0,1,0,0,1,0,2,0,0,1,1,3,0,0,2,1,0,0,0,0,0,2,0,0,0,1,0
@@ -13,17 +13,17 @@ Houston County Sheriff's Office,2004,Alabama,25493,AL03800,46,3,43,27,21,6,0,0,0
 Houston County Sheriff's Office,2003,Alabama,25092,AL03800,46,2,44,27,16,11,0,0,5,0,0,2,3,0,0,0,0,0,5,0,0,2,3,0,0,3,0,0,0,0,1,0,1,0
 Houston County Sheriff's Office,2002,Alabama,25219,AL03800,47,1,46,26,17,9,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,2,0,0,0,0,1
 Houston County Sheriff's Office,2001,Alabama,26889,AL03800,49,3,46,83,52,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Houston County Sheriff's Office,2000,Alabama,26784,AL03800,50,4,46,71,36,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Houston County Sheriff's Office,2e3,Alabama,26784,AL03800,50,4,46,71,36,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1999,Alabama,23908,AL03800,49,3,46,83,48,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1998,Alabama,23733,AL03800,41,2,39,88,52,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Houston County Sheriff's Office,1997,Alabama,25180,AL03800,41,5,36,76,37,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Houston County Sheriff's Office,1996,Alabama,24912,AL03800,38,3,35,54,27,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Houston County Sheriff's Office,1997,Alabama,25180,AL03800,41,5,36,76,37,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Houston County Sheriff's Office,1996,Alabama,24912,AL03800,38,3,35,54,27,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Houston County Sheriff's Office,1995,Alabama,24796,AL03800,38,2,36,73,33,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1994,Alabama,25712,AL03800,37,2,35,73,28,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1993,Alabama,25518,AL03800,39,4,35,67,25,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1992,Alabama,25007,AL03800,39,4,35,59,26,33,0,0,1,1,0,0,0,0,0,0,9,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-Houston County Sheriff's Office,1991,Alabama,24723,AL03800,39,3,36,56,23,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Houston County Sheriff's Office,1990,Alabama,24431,AL03800,36,2,34,63,24,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Houston County Sheriff's Office,1991,Alabama,24723,AL03800,39,3,36,56,23,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Houston County Sheriff's Office,1990,Alabama,24431,AL03800,36,2,34,63,24,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Houston County Sheriff's Office,1989,Alabama,23847,AL03800,35,2,33,65,24,41,0,0,4,0,0,3,1,2,0,0,1,1,6,0,0,4,2,0,0,1,0,0,1,2,1,0,0,1
 Houston County Sheriff's Office,1988,Alabama,23812,AL03800,35,2,33,61,27,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1987,Alabama,23738,AL03800,31,1,30,60,20,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,4 +38,4 @@ Houston County Sheriff's Office,1979,Alabama,20232,AL03800,25,1,24,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1978,Alabama,19323,AL03800,22,1,21,31,13,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1977,Alabama,15594,AL03800,20,2,18,28,9,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Houston County Sheriff's Office,1976,Alabama,15034,AL03800,28,6,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Houston County Sheriff's Office,1975,Alabama,25946,AL03800,25,6,19,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Houston County Sheriff's Office,1975,Alabama,25946,AL03800,25,6,19,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

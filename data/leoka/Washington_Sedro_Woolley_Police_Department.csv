@@ -15,7 +15,7 @@ Sedro Woolley Police Department,2004,Washington,9774,WA02903,14,1,13,4,3,1,0,0,0
 Sedro Woolley Police Department,2003,Washington,9213,WA02903,13,1,12,4,3,1,0,0,2,0,1,1,0,2,0,0,2,0,4,0,1,3,0,0,0,0,0,0,0,0,4,0,0,0
 Sedro Woolley Police Department,2002,Washington,8915,WA02903,12,1,11,4,3,1,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0
 Sedro Woolley Police Department,2001,Washington,8796,WA02903,12,1,11,4,3,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1
-Sedro Woolley Police Department,2000,Washington,8658,WA02903,12,1,11,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sedro Woolley Police Department,2e3,Washington,8658,WA02903,12,1,11,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sedro Woolley Police Department,1999,Washington,7835,WA02903,12,1,11,4,3,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,2,0,0,0,0,2,0,0,0
 Sedro Woolley Police Department,1998,Washington,7767,WA02903,12,1,11,4,3,1,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,0,0,0,0,1,1
 Sedro Woolley Police Department,1997,Washington,7985,WA02903,12,1,11,7,5,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -24,9 +24,9 @@ Sedro Woolley Police Department,1995,Washington,7731,WA02903,11,0,11,7,5,2,0,0,0
 Sedro Woolley Police Department,1994,Washington,6864,WA02903,11,0,11,7,5,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0
 Sedro Woolley Police Department,1993,Washington,6751,WA02903,10,0,10,7,5,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0
 Sedro Woolley Police Department,1992,Washington,6364,WA02903,8,0,8,5,5,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sedro Woolley Police Department,1991,Washington,6218,WA02903,10,1,9,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sedro Woolley Police Department,1990,Washington,6031,WA02903,10,0,10,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sedro Woolley Police Department,1989,Washington,6637,WA02903,10,1,9,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sedro Woolley Police Department,1991,Washington,6218,WA02903,10,1,9,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sedro Woolley Police Department,1990,Washington,6031,WA02903,10,0,10,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sedro Woolley Police Department,1989,Washington,6637,WA02903,10,1,9,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sedro Woolley Police Department,1988,Washington,6543,WA02903,10,1,9,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sedro Woolley Police Department,1987,Washington,6427,WA02903,10,1,9,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sedro Woolley Police Department,1986,Washington,6620,WA02903,10,1,9,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,8 +36,8 @@ Sedro Woolley Police Department,1983,Washington,6398,WA02903,9,0,9,4,0,4,0,0,0,0
 Sedro Woolley Police Department,1982,Washington,6317,WA02903,9,0,9,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sedro Woolley Police Department,1981,Washington,6268,WA02903,9,0,9,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sedro Woolley Police Department,1980,Washington,6121,WA02903,9,0,9,5,5,0,0,0,2,0,1,1,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0
-Sedro Woolley Police Department,1979,Washington,6290,WA02903,9,0,9,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sedro Woolley Police Department,1979,Washington,6290,WA02903,9,0,9,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sedro Woolley Police Department,1978,Washington,5443,WA02903,9,0,9,5,3,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Sedro Woolley Police Department,1977,Washington,5455,WA02903,9,0,9,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sedro Woolley Police Department,1976,Washington,5260,WA02903,8,0,8,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-Sedro Woolley Police Department,1975,Washington,5253,WA02903,8,0,8,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sedro Woolley Police Department,1975,Washington,5253,WA02903,8,0,8,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

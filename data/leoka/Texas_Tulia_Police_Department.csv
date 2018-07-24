@@ -15,14 +15,14 @@ Tulia Police Department,2004,Texas,4951,TX21903,8,0,8,5,4,1,0,0,0,0,0,0,0,0,0,0,
 Tulia Police Department,2003,Texas,4994,TX21903,7,1,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tulia Police Department,2002,Texas,5344,TX21903,6,1,5,6,5,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Tulia Police Department,2001,Texas,5233,TX21903,7,0,7,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tulia Police Department,2000,Texas,5117,TX21903,8,0,8,3,2,1,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Tulia Police Department,2e3,Texas,5117,TX21903,8,0,8,3,2,1,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
 Tulia Police Department,1999,Texas,4993,TX21903,8,0,8,5,4,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Tulia Police Department,1998,Texas,5089,TX21903,8,0,8,5,5,0,0,0,2,0,0,1,1,3,0,2,1,0,5,0,2,2,1,1,0,1,0,0,0,0,3,0,0,0
 Tulia Police Department,1997,Texas,5088,TX21903,8,0,8,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tulia Police Department,1996,Texas,5007,TX21903,8,0,8,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Tulia Police Department,1995,Texas,4902,TX21903,7,0,7,3,3,0,0,0,0,0,0,0,0,3,0,0,2,1,3,0,0,2,1,1,0,0,0,0,0,0,1,0,0,1
 Tulia Police Department,1994,Texas,5026,TX21903,7,0,7,5,4,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-Tulia Police Department,1993,Texas,4932,TX21903,6,0,6,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tulia Police Department,1993,Texas,4932,TX21903,6,0,6,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Tulia Police Department,1992,Texas,4883,TX21903,6,0,6,5,4,1,0,0,6,0,0,6,0,0,0,0,9,0,6,0,0,6,0,0,0,0,0,0,1,0,2,0,0,3
 Tulia Police Department,1991,Texas,4799,TX21903,6,0,6,4,4,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,1,0,0,0,0,2
 Tulia Police Department,1990,Texas,4699,TX21903,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,8 +32,8 @@ Tulia Police Department,1987,Texas,4599,TX21903,6,0,6,6,5,1,0,0,1,0,0,1,0,0,0,0,
 Tulia Police Department,1986,Texas,4638,TX21903,5,0,5,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Tulia Police Department,1985,Texas,5036,TX21903,5,0,5,4,0,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Tulia Police Department,1984,Texas,4919,TX21903,5,0,5,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tulia Police Department,1983,Texas,5589,TX21903,5,0,5,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Tulia Police Department,1982,Texas,5432,TX21903,7,1,6,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tulia Police Department,1983,Texas,5589,TX21903,5,0,5,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tulia Police Department,1982,Texas,5432,TX21903,7,1,6,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Tulia Police Department,1981,Texas,5245,TX21903,7,1,6,5,4,1,0,0,2,0,1,0,1,0,0,0,0,0,2,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0
 Tulia Police Department,1980,Texas,5037,TX21903,7,0,7,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Tulia Police Department,1979,Texas,5621,TX21903,9,0,9,4,4,0,0,0,4,0,0,0,4,0,0,0,0,0,4,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0

@@ -6,15 +6,15 @@ Wellsburg Police Department,2012,West Virginia,2778,WV00502,6,0,6,0,0,0,0,0,0,0,
 Wellsburg Police Department,2011,West Virginia,2809,WV00502,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wellsburg Police Department,2010,West Virginia,2805,WV00502,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Wellsburg Police Department,2009,West Virginia,2561,WV00502,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wellsburg Police Department,2007,West Virginia,2648,WV00502,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Wellsburg Police Department,2006,West Virginia,2729,WV00502,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wellsburg Police Department,2007,West Virginia,2648,WV00502,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wellsburg Police Department,2006,West Virginia,2729,WV00502,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Wellsburg Police Department,2005,West Virginia,2768,WV00502,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wellsburg Police Department,2004,West Virginia,2848,WV00502,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wellsburg Police Department,2003,West Virginia,2878,WV00502,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wellsburg Police Department,2002,West Virginia,2880,WV00502,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wellsburg Police Department,2001,West Virginia,2881,WV00502,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wellsburg Police Department,2000,West Virginia,2891,WV00502,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Wellsburg Police Department,1999,West Virginia,2539,WV00502,6,0,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wellsburg Police Department,2e3,West Virginia,2891,WV00502,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wellsburg Police Department,1999,West Virginia,2539,WV00502,6,0,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Wellsburg Police Department,1998,West Virginia,2590,WV00502,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wellsburg Police Department,1997,West Virginia,3360,WV00502,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wellsburg Police Department,1996,West Virginia,3379,WV00502,5,0,5,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,1,0,0,0,1
@@ -36,6 +36,6 @@ Wellsburg Police Department,1981,West Virginia,4014,WV00502,8,0,8,2,1,1,0,0,0,0,
 Wellsburg Police Department,1980,West Virginia,3972,WV00502,8,0,8,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wellsburg Police Department,1979,West Virginia,4632,WV00502,12,0,12,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Wellsburg Police Department,1978,West Virginia,4658,WV00502,14,1,13,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Wellsburg Police Department,1977,West Virginia,5000,WV00502,14,1,13,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wellsburg Police Department,1977,West Virginia,5e3,WV00502,14,1,13,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wellsburg Police Department,1976,West Virginia,4800,WV00502,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Wellsburg Police Department,1975,West Virginia,4705,WV00502,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

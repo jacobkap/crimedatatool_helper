@@ -15,7 +15,7 @@ Stamford Police Department,2004,Connecticut,120805,CT00135,294,19,275,61,29,32,0
 Stamford Police Department,2003,Connecticut,120642,CT00135,292,21,271,63,30,33,0,0,14,0,0,14,0,2,0,0,2,0,16,0,0,16,0,3,0,1,0,0,1,1,4,0,4,2
 Stamford Police Department,2002,Connecticut,118971,CT00135,297,23,274,67,34,33,0,0,22,0,0,22,0,2,0,0,2,0,24,0,0,24,0,2,0,6,0,0,4,0,1,0,10,1
 Stamford Police Department,2001,Connecticut,117754,CT00135,294,21,273,79,38,41,0,0,19,0,0,19,0,5,0,0,5,0,24,0,0,24,0,1,0,7,0,0,5,3,4,1,2,1
-Stamford Police Department,2000,Connecticut,117083,CT00135,307,20,287,61,35,26,0,0,6,0,0,6,0,3,0,0,3,0,9,0,0,9,0,0,0,2,0,0,0,0,4,0,1,2
+Stamford Police Department,2e3,Connecticut,117083,CT00135,307,20,287,61,35,26,0,0,6,0,0,6,0,3,0,0,3,0,9,0,0,9,0,0,0,2,0,0,0,0,4,0,1,2
 Stamford Police Department,1999,Connecticut,110958,CT00135,310,20,290,28,18,10,0,0,28,0,0,27,1,8,0,0,8,0,36,0,0,35,1,2,0,11,0,0,2,0,15,0,6,0
 Stamford Police Department,1998,Connecticut,110506,CT00135,315,21,294,28,20,8,0,0,29,0,0,25,4,13,0,0,10,3,42,0,0,35,7,4,0,7,3,0,2,2,14,3,1,6
 Stamford Police Department,1997,Connecticut,107034,CT00135,309,22,287,24,18,6,0,0,9,0,0,8,1,21,0,0,21,0,30,0,0,29,1,2,0,7,0,0,0,1,10,0,6,4
@@ -24,7 +24,7 @@ Stamford Police Department,1995,Connecticut,107199,CT00135,291,19,272,61,35,26,0
 Stamford Police Department,1994,Connecticut,107458,CT00135,276,19,257,47,25,22,0,0,18,0,0,15,3,0,0,0,0,0,18,0,0,15,3,0,0,7,0,0,2,2,7,0,0,0
 Stamford Police Department,1993,Connecticut,107524,CT00135,283,19,264,48,26,22,0,0,15,0,0,15,0,0,0,0,0,0,15,0,0,15,0,0,0,2,0,0,2,3,6,0,2,0
 Stamford Police Department,1992,Connecticut,107854,CT00135,280,18,262,48,26,22,2,0,33,0,1,31,1,0,0,0,9,0,33,0,1,31,1,2,0,11,2,0,3,0,14,0,0,1
-Stamford Police Department,1991,Connecticut,108183,CT00135,288,23,265,45,27,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stamford Police Department,1991,Connecticut,108183,CT00135,288,23,265,45,27,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stamford Police Department,1990,Connecticut,108056,CT00135,316,24,292,45,27,18,0,0,30,0,0,29,1,4,0,0,4,0,34,0,0,33,1,6,0,8,1,0,1,2,15,0,1,0
 Stamford Police Department,1989,Connecticut,100446,CT00135,278,22,256,40,23,17,0,0,9,0,0,9,0,0,0,0,0,0,9,0,0,9,0,3,0,2,0,0,1,2,0,0,0,1
 Stamford Police Department,1988,Connecticut,101630,CT00135,271,20,251,32,22,10,0,0,22,0,0,21,1,0,0,0,0,0,22,0,0,21,1,0,0,11,0,0,1,1,7,2,0,0
@@ -38,5 +38,5 @@ Stamford Police Department,1981,Connecticut,102844,CT00135,267,10,257,27,19,8,0,
 Stamford Police Department,1979,Connecticut,105189,CT00135,237,5,232,15,9,6,0,0,14,0,0,13,1,13,1,1,9,2,27,1,1,22,3,3,0,1,1,0,1,0,9,0,4,8
 Stamford Police Department,1978,Connecticut,104467,CT00135,238,2,236,10,6,4,0,0,4,0,0,4,0,4,0,0,3,1,8,0,0,7,1,0,0,0,0,0,0,0,8,0,0,0
 Stamford Police Department,1977,Connecticut,103705,CT00135,234,1,233,13,5,8,0,0,10,0,0,10,0,6,0,0,6,0,16,0,0,16,0,0,0,0,0,0,0,0,16,0,0,0
-Stamford Police Department,1976,Connecticut,108000,CT00135,248,0,248,15,9,6,0,0,11,1,0,10,0,11,0,0,11,0,22,1,0,21,0,0,0,1,0,0,0,0,20,1,0,0
-Stamford Police Department,1975,Connecticut,110000,CT00135,262,0,262,18,13,5,0,0,9,1,0,8,0,5,0,0,5,0,14,1,0,13,0,0,0,0,0,0,0,0,14,0,0,0
+Stamford Police Department,1976,Connecticut,108e3,CT00135,248,0,248,15,9,6,0,0,11,1,0,10,0,11,0,0,11,0,22,1,0,21,0,0,0,1,0,0,0,0,20,1,0,0
+Stamford Police Department,1975,Connecticut,11e4,CT00135,262,0,262,18,13,5,0,0,9,1,0,8,0,5,0,0,5,0,14,1,0,13,0,0,0,0,0,0,0,0,14,0,0,0

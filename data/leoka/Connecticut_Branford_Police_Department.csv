@@ -11,11 +11,11 @@ Branford Police Department,2008,Connecticut,29020,CT00014,49,2,47,13,5,8,0,0,3,0
 Branford Police Department,2007,Connecticut,29074,CT00014,49,3,46,14,5,9,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
 Branford Police Department,2006,Connecticut,29044,CT00014,49,4,45,13,5,8,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Branford Police Department,2005,Connecticut,29247,CT00014,46,3,43,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Branford Police Department,2004,Connecticut,29305,CT00014,49,3,46,13,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Branford Police Department,2004,Connecticut,29305,CT00014,49,3,46,13,6,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Branford Police Department,2003,Connecticut,29142,CT00014,48,3,45,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Branford Police Department,2002,Connecticut,29146,CT00014,49,4,45,13,5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Branford Police Department,2001,Connecticut,28847,CT00014,46,4,42,14,5,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Branford Police Department,2000,Connecticut,28683,CT00014,44,2,42,13,5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Branford Police Department,2001,Connecticut,28847,CT00014,46,4,42,14,5,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Branford Police Department,2e3,Connecticut,28683,CT00014,44,2,42,13,5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Branford Police Department,1999,Connecticut,27212,CT00014,45,2,43,14,5,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Branford Police Department,1998,Connecticut,27349,CT00014,45,3,42,13,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Branford Police Department,1997,Connecticut,27904,CT00014,45,3,42,11,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,7 +37,7 @@ Branford Police Department,1982,Connecticut,23273,CT00014,32,0,32,1,1,0,0,0,0,0,
 Branford Police Department,1981,Connecticut,23118,CT00014,32,0,32,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Branford Police Department,1980,Connecticut,22847,CT00014,31,0,31,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Branford Police Department,1979,Connecticut,22854,CT00014,32,0,32,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Branford Police Department,1978,Connecticut,25000,CT00014,34,0,34,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Branford Police Department,1977,Connecticut,22500,CT00014,31,0,31,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Branford Police Department,1976,Connecticut,21339,CT00014,29,0,29,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Branford Police Department,1975,Connecticut,21017,CT00014,32,0,32,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Branford Police Department,1978,Connecticut,25e3,CT00014,34,0,34,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Branford Police Department,1977,Connecticut,22500,CT00014,31,0,31,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Branford Police Department,1976,Connecticut,21339,CT00014,29,0,29,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Branford Police Department,1975,Connecticut,21017,CT00014,32,0,32,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

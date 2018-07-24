@@ -15,7 +15,7 @@ Middletown Police Department,2004,Connecticut,47191,CT00083,95,12,83,16,14,2,0,0
 Middletown Police Department,2003,Connecticut,44448,CT00083,95,10,85,15,10,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Middletown Police Department,2002,Connecticut,43863,CT00083,99,10,89,14,9,5,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
 Middletown Police Department,2001,Connecticut,43414,CT00083,100,10,90,16,11,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Middletown Police Department,2000,Connecticut,43167,CT00083,96,9,87,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Middletown Police Department,2e3,Connecticut,43167,CT00083,96,9,87,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Middletown Police Department,1999,Connecticut,43746,CT00083,96,8,88,18,13,5,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,2,0,0,2
 Middletown Police Department,1998,Connecticut,43661,CT00083,100,9,91,26,21,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Middletown Police Department,1997,Connecticut,42549,CT00083,94,9,85,21,15,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -24,11 +24,11 @@ Middletown Police Department,1995,Connecticut,42615,CT00083,94,10,84,19,14,5,0,0
 Middletown Police Department,1994,Connecticut,42551,CT00083,90,5,85,20,13,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Middletown Police Department,1993,Connecticut,42577,CT00083,96,9,87,22,15,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Middletown Police Department,1992,Connecticut,42681,CT00083,95,5,90,22,15,7,0,0,9,0,0,9,0,1,0,0,9,1,10,0,0,9,1,0,0,1,0,0,2,0,7,0,0,0
-Middletown Police Department,1991,Connecticut,42812,CT00083,95,5,90,22,14,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Middletown Police Department,1991,Connecticut,42812,CT00083,95,5,90,22,14,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Middletown Police Department,1990,Connecticut,42762,CT00083,95,5,90,20,11,9,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0
 Middletown Police Department,1989,Connecticut,39694,CT00083,94,6,88,21,12,9,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Middletown Police Department,1988,Connecticut,39582,CT00083,84,5,79,20,12,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middletown Police Department,1987,Connecticut,39122,CT00083,84,7,77,17,11,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Middletown Police Department,1987,Connecticut,39122,CT00083,84,7,77,17,11,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Middletown Police Department,1986,Connecticut,39286,CT00083,84,6,78,11,6,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Middletown Police Department,1985,Connecticut,39301,CT00083,85,5,80,6,4,2,0,0,3,0,0,3,0,3,0,0,3,0,6,0,0,6,0,1,0,1,0,0,2,0,2,0,0,0
 Middletown Police Department,1984,Connecticut,39056,CT00083,82,4,78,7,4,3,0,0,4,0,0,4,0,7,0,0,6,1,11,0,0,10,1,0,0,0,0,0,2,0,9,0,0,0
@@ -38,6 +38,6 @@ Middletown Police Department,1981,Connecticut,39494,CT00083,73,2,71,7,4,3,0,0,0,
 Middletown Police Department,1980,Connecticut,39030,CT00083,81,2,79,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Middletown Police Department,1979,Connecticut,37738,CT00083,78,2,76,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Middletown Police Department,1978,Connecticut,40271,CT00083,76,2,74,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middletown Police Department,1977,Connecticut,40000,CT00083,73,1,72,5,3,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Middletown Police Department,1977,Connecticut,4e4,CT00083,73,1,72,5,3,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Middletown Police Department,1976,Connecticut,35830,CT00083,73,1,72,10,6,4,0,0,9,0,0,9,0,3,0,0,3,0,12,0,0,12,0,1,0,0,0,0,2,0,8,0,1,0
-Middletown Police Department,1975,Connecticut,35424,CT00083,80,1,79,6,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Middletown Police Department,1975,Connecticut,35424,CT00083,80,1,79,6,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

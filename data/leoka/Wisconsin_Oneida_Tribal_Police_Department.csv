@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Oneida Tribal Police Department,2016,Wisconsin,0,WI04512,22,5,17,7,6,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Oneida Tribal Police Department,2015,Wisconsin,0,WI04512,21,4,17,7,6,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0
-Oneida Tribal Police Department,2014,Wisconsin,0,WI04512,18,2,16,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Oneida Tribal Police Department,2014,Wisconsin,0,WI04512,18,2,16,8,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Oneida Tribal Police Department,2013,Wisconsin,0,WI04512,20,2,18,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oneida Tribal Police Department,2012,Wisconsin,0,WI04512,19,2,17,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oneida Tribal Police Department,2011,Wisconsin,0,WI04512,22,2,20,7,4,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -13,6 +13,6 @@ Oneida Tribal Police Department,2006,Wisconsin,21473,WI04512,20,1,19,9,6,3,0,0,0
 Oneida Tribal Police Department,2005,Wisconsin,21473,WI04512,21,1,20,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oneida Tribal Police Department,2004,Wisconsin,21473,WI04512,20,0,20,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oneida Tribal Police Department,2003,Wisconsin,21473,WI04512,24,2,22,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oneida Tribal Police Department,2002,Wisconsin,21473,WI04512,24,2,22,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Oneida Tribal Police Department,2002,Wisconsin,21473,WI04512,24,2,22,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Oneida Tribal Police Department,2001,Wisconsin,21473,WI04512,23,2,21,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oneida Tribal Police Department,2000,Wisconsin,21321,WI04512,19,1,18,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oneida Tribal Police Department,2e3,Wisconsin,21321,WI04512,19,1,18,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,5 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Ingleside Police Department,2016,Texas,9769,TX20501,24,5,19,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ingleside Police Department,2016,Texas,9769,TX20501,24,5,19,8,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ingleside Police Department,2015,Texas,9716,TX20501,16,3,13,6,6,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Ingleside Police Department,2014,Texas,9612,TX20501,15,3,12,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ingleside Police Department,2013,Texas,9541,TX20501,17,1,16,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Ingleside Police Department,2004,Texas,9358,TX20501,15,1,14,7,7,0,0,0,0,0,0,0,0,
 Ingleside Police Department,2003,Texas,8933,TX20501,15,2,13,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ingleside Police Department,2002,Texas,9806,TX20501,15,2,13,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ingleside Police Department,2001,Texas,9601,TX20501,17,2,15,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ingleside Police Department,2000,Texas,9388,TX20501,17,1,16,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ingleside Police Department,2e3,Texas,9388,TX20501,17,1,16,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ingleside Police Department,1999,Texas,10405,TX20501,17,2,15,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ingleside Police Department,1998,Texas,9347,TX20501,17,1,16,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ingleside Police Department,1997,Texas,8153,TX20501,14,0,14,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,7 +33,7 @@ Ingleside Police Department,1986,Texas,6310,TX20501,8,0,8,4,3,1,0,0,0,0,0,0,0,0,
 Ingleside Police Department,1985,Texas,6510,TX20501,8,0,8,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ingleside Police Department,1984,Texas,6358,TX20501,8,0,8,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Ingleside Police Department,1983,Texas,5930,TX20501,10,0,10,5,5,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0
-Ingleside Police Department,1982,Texas,5763,TX20501,10,0,10,5,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ingleside Police Department,1982,Texas,5763,TX20501,10,0,10,5,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ingleside Police Department,1981,Texas,5565,TX20501,10,1,9,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ingleside Police Department,1980,Texas,5344,TX20501,10,0,10,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ingleside Police Department,1979,Texas,4890,TX20501,7,1,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

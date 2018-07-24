@@ -1,8 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Munster Police,2016,Indiana,22865,IN04510,37,0,37,5,3,2,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,0,1
-Munster Police,2015,Indiana,22990,IN04510,40,0,40,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Munster Police,2014,Indiana,23187,IN04510,40,0,40,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Munster Police,2013,Indiana,23349,IN04510,39,0,39,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Munster Police,2015,Indiana,22990,IN04510,40,0,40,9,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Munster Police,2014,Indiana,23187,IN04510,40,0,40,9,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Munster Police,2013,Indiana,23349,IN04510,39,0,39,8,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Munster Police,2011,Indiana,23724,IN04510,35,0,35,7,6,1,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,1,0,0,0,0,0,0,2,0,0,1
 Munster Police,2010,Indiana,23603,IN04510,38,0,38,8,7,1,0,0,2,0,0,0,2,3,0,0,2,1,5,0,0,2,3,2,0,0,0,0,2,0,1,0,0,0
 Munster Police,2009,Indiana,22173,IN04510,37,1,36,10,9,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -14,7 +14,7 @@ Munster Police,2004,Indiana,22285,IN04510,39,2,37,11,9,2,0,0,1,0,0,0,1,4,0,0,4,0
 Munster Police,2003,Indiana,22004,IN04510,38,2,36,12,9,3,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
 Munster Police,2002,Indiana,21789,IN04510,35,1,34,11,9,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Munster Police,2001,Indiana,21632,IN04510,38,1,37,11,10,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Munster Police,2000,Indiana,21511,IN04510,36,3,33,10,9,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
+Munster Police,2e3,Indiana,21511,IN04510,36,3,33,10,9,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
 Munster Police,1999,Indiana,20637,IN04510,36,3,33,10,10,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,2,0,1,0,0,0
 Munster Police,1998,Indiana,20574,IN04510,35,3,32,10,10,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,1,0,1,0,0,0
 Munster Police,1997,Indiana,20797,IN04510,34,2,32,10,9,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,0,1
@@ -30,13 +30,13 @@ Munster Police,1988,Indiana,19737,IN04510,27,1,26,8,8,0,0,0,3,0,0,3,0,2,0,0,2,0,
 Munster Police,1987,Indiana,20110,IN04510,26,1,25,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Munster Police,1986,Indiana,20398,IN04510,27,1,26,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Munster Police,1985,Indiana,20649,IN04510,28,1,27,7,7,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
-Munster Police,1984,Indiana,20647,IN04510,28,1,27,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Munster Police,1984,Indiana,20647,IN04510,28,1,27,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Munster Police,1983,Indiana,20713,IN04510,28,1,27,7,7,0,1,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
-Munster Police,1982,Indiana,20683,IN04510,28,1,27,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Munster Police,1982,Indiana,20683,IN04510,28,1,27,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Munster Police,1981,Indiana,20664,IN04510,28,1,27,7,0,7,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Munster Police,1980,Indiana,20646,IN04510,28,1,27,7,0,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Munster Police,1980,Indiana,20646,IN04510,28,1,27,7,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Munster Police,1979,Indiana,20379,IN04510,28,1,27,8,8,0,0,0,1,0,0,1,0,3,0,0,2,1,4,0,0,3,1,0,0,0,0,0,2,0,1,0,0,1
 Munster Police,1978,Indiana,21500,IN04510,28,0,28,7,0,7,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Munster Police,1977,Indiana,20164,IN04510,27,0,27,7,7,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0
-Munster Police,1976,Indiana,20000,IN04510,27,0,27,6,5,1,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,1,0,0,4,0,0,0,0,0
+Munster Police,1976,Indiana,2e4,IN04510,27,0,27,6,5,1,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,1,0,0,4,0,0,0,0,0
 Munster Police,1975,Indiana,18777,IN04510,24,0,24,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

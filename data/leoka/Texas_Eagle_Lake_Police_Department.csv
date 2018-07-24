@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Eagle Lake Police Department,2016,Texas,3652,TX04502,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eagle Lake Police Department,2015,Texas,3599,TX04502,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eagle Lake Police Department,2014,Texas,3619,TX04502,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eagle Lake Police Department,2013,Texas,3588,TX04502,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eagle Lake Police Department,2013,Texas,3588,TX04502,8,0,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eagle Lake Police Department,2012,Texas,3684,TX04502,7,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eagle Lake Police Department,2011,Texas,3716,TX04502,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eagle Lake Police Department,2010,Texas,3639,TX04502,8,1,7,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -15,7 +15,7 @@ Eagle Lake Police Department,2004,Texas,3758,TX04502,9,1,8,1,1,0,0,0,2,0,0,2,0,1
 Eagle Lake Police Department,2003,Texas,3728,TX04502,9,1,8,1,1,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,2,0,1,0,0,0
 Eagle Lake Police Department,2002,Texas,3827,TX04502,9,2,7,1,1,0,1,0,2,0,0,1,1,1,0,0,1,0,3,0,0,2,1,0,0,1,0,0,0,1,1,0,0,0
 Eagle Lake Police Department,2001,Texas,3747,TX04502,9,2,7,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
-Eagle Lake Police Department,2000,Texas,3664,TX04502,9,1,8,1,1,0,0,0,2,0,0,2,0,2,0,1,1,0,4,0,1,3,0,0,0,2,0,0,0,0,1,0,1,0
+Eagle Lake Police Department,2e3,Texas,3664,TX04502,9,1,8,1,1,0,0,0,2,0,0,2,0,2,0,1,1,0,4,0,1,3,0,0,0,2,0,0,0,0,1,0,1,0
 Eagle Lake Police Department,1999,Texas,3674,TX04502,8,1,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eagle Lake Police Department,1998,Texas,3683,TX04502,8,0,8,1,1,0,0,1,2,0,0,2,0,2,0,1,1,0,4,0,1,3,0,0,0,1,0,0,1,1,0,0,0,1
 Eagle Lake Police Department,1997,Texas,3502,TX04502,7,0,7,1,1,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0
@@ -33,9 +33,9 @@ Eagle Lake Police Department,1986,Texas,4338,TX04502,4,0,4,1,1,0,0,0,1,0,0,1,0,1
 Eagle Lake Police Department,1985,Texas,4422,TX04502,4,0,4,5,4,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
 Eagle Lake Police Department,1984,Texas,4319,TX04502,4,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eagle Lake Police Department,1983,Texas,4382,TX04502,8,1,7,0,0,0,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0
-Eagle Lake Police Department,1982,Texas,4259,TX04502,5,0,5,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eagle Lake Police Department,1982,Texas,4259,TX04502,5,0,5,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eagle Lake Police Department,1981,Texas,4113,TX04502,6,0,6,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Eagle Lake Police Department,1980,Texas,3950,TX04502,5,1,4,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Eagle Lake Police Department,1979,Texas,3700,TX04502,2,0,2,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Eagle Lake Police Department,1976,Texas,3539,TX04502,4,1,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Eagle Lake Police Department,1975,Texas,3641,TX04502,4,1,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eagle Lake Police Department,1979,Texas,3700,TX04502,2,0,2,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eagle Lake Police Department,1976,Texas,3539,TX04502,4,1,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eagle Lake Police Department,1975,Texas,3641,TX04502,4,1,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

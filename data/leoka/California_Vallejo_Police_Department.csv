@@ -10,12 +10,12 @@ Vallejo Police Department,2009,California,114443,CA04807,111,6,105,34,26,8,0,0,9
 Vallejo Police Department,2008,California,115330,CA04807,117,8,109,27,21,6,0,0,6,0,0,6,0,17,2,0,11,4,23,2,0,17,4,3,0,3,0,1,1,0,6,1,5,3
 Vallejo Police Department,2007,California,116763,CA04807,145,10,135,53,44,9,0,0,15,0,0,12,3,11,0,0,10,1,26,0,0,22,4,2,0,5,0,0,1,1,6,0,3,8
 Vallejo Police Department,2006,California,118541,CA04807,136,10,126,53,44,9,0,0,5,0,0,4,1,18,0,0,14,4,23,0,0,18,5,2,0,2,1,0,0,0,4,0,2,12
-Vallejo Police Department,2005,California,119135,CA04807,141,10,131,57,46,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Vallejo Police Department,2004,California,121089,CA04807,145,10,135,57,46,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vallejo Police Department,2005,California,119135,CA04807,141,10,131,57,46,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vallejo Police Department,2004,California,121089,CA04807,145,10,135,57,46,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Vallejo Police Department,2003,California,121055,CA04807,156,9,147,72,63,9,0,0,14,0,0,11,3,33,0,1,32,0,47,0,1,43,3,1,0,3,2,2,3,2,17,0,12,5
 Vallejo Police Department,2002,California,121049,CA04807,158,9,149,72,63,9,0,0,7,0,0,7,0,21,1,1,17,2,28,1,1,24,2,1,0,1,1,1,4,2,7,0,7,4
 Vallejo Police Department,2001,California,118930,CA04807,151,11,140,64,55,9,0,0,10,0,0,8,2,26,0,0,21,5,36,0,0,29,7,2,0,1,1,0,4,0,13,0,8,7
-Vallejo Police Department,2000,California,116760,CA04807,148,10,138,63,53,10,0,1,8,2,0,4,2,19,2,0,14,3,27,4,0,18,5,4,2,2,1,1,3,0,10,0,3,1
+Vallejo Police Department,2e3,California,116760,CA04807,148,10,138,63,53,10,0,1,8,2,0,4,2,19,2,0,14,3,27,4,0,18,5,4,2,2,1,1,3,0,10,0,3,1
 Vallejo Police Department,1999,California,113173,CA04807,143,10,133,61,53,8,0,0,12,0,0,9,3,18,0,0,14,4,30,0,0,23,7,2,0,2,0,0,6,1,7,0,4,8
 Vallejo Police Department,1998,California,112198,CA04807,142,10,132,62,58,4,0,0,6,0,0,6,0,17,1,0,12,4,23,1,0,18,4,0,0,0,1,0,1,1,9,0,7,4
 Vallejo Police Department,1997,California,114451,CA04807,142,10,132,64,51,13,0,0,10,0,0,7,3,24,0,0,19,5,34,0,0,26,8,1,0,4,0,0,6,0,11,0,5,7
@@ -35,7 +35,7 @@ Vallejo Police Department,1984,California,89289,CA04807,103,8,95,29,23,6,0,0,5,0
 Vallejo Police Department,1983,California,82532,CA04807,101,6,95,29,23,6,0,0,11,0,1,9,1,35,1,0,31,3,46,1,1,40,4,0,0,7,0,0,3,3,17,0,7,9
 Vallejo Police Department,1982,California,81057,CA04807,107,4,103,31,26,5,0,0,4,0,0,4,0,11,1,0,9,1,15,1,0,13,1,1,0,1,0,0,0,0,7,0,5,1
 Vallejo Police Department,1981,California,79204,CA04807,90,3,87,29,23,6,0,0,4,0,0,4,0,4,0,0,3,1,8,0,0,7,1,2,0,0,0,0,1,0,3,0,0,2
-Vallejo Police Department,1979,California,72864,CA04807,94,3,91,27,21,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vallejo Police Department,1979,California,72864,CA04807,94,3,91,27,21,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Vallejo Police Department,1978,California,70291,CA04807,94,2,92,26,20,6,0,0,2,0,0,2,0,2,0,0,0,2,4,0,0,2,2,2,0,0,0,0,0,0,2,0,0,0
 Vallejo Police Department,1977,California,71813,CA04807,96,2,94,25,20,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Vallejo Police Department,1976,California,71200,CA04807,94,4,90,24,18,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

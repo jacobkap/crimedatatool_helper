@@ -15,13 +15,13 @@ Marysville Police Department,2004,Michigan,9865,MI74562,15,1,14,3,3,0,0,0,0,0,0,
 Marysville Police Department,2003,Michigan,9860,MI74562,16,1,15,3,3,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,1,0
 Marysville Police Department,2002,Michigan,9793,MI74562,16,1,15,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Marysville Police Department,2001,Michigan,9735,MI74562,16,0,16,3,3,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Marysville Police Department,2000,Michigan,9684,MI74562,16,0,16,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marysville Police Department,2e3,Michigan,9684,MI74562,16,0,16,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marysville Police Department,1999,Michigan,9427,MI74562,16,0,16,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Marysville Police Department,1998,Michigan,9640,MI74562,16,0,16,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Marysville Police Department,1997,Michigan,9152,MI74562,14,0,14,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Marysville Police Department,1996,Michigan,8984,MI74562,14,0,14,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Marysville Police Department,1995,Michigan,8942,MI74562,13,0,13,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Marysville Police Department,1994,Michigan,8835,MI74562,13,0,13,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marysville Police Department,1998,Michigan,9640,MI74562,16,0,16,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marysville Police Department,1997,Michigan,9152,MI74562,14,0,14,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marysville Police Department,1996,Michigan,8984,MI74562,14,0,14,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marysville Police Department,1995,Michigan,8942,MI74562,13,0,13,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marysville Police Department,1994,Michigan,8835,MI74562,13,0,13,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Marysville Police Department,1993,Michigan,8819,MI74562,13,0,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marysville Police Department,1992,Michigan,8644,MI74562,13,0,13,2,2,0,0,0,0,0,0,0,0,1,0,0,10,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Marysville Police Department,1991,Michigan,8581,MI74562,13,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Marysville Police Department,1980,Michigan,7335,MI74562,13,0,13,2,2,0,0,0,3,0,0,
 Marysville Police Department,1979,Michigan,6607,MI74562,13,0,13,2,2,0,0,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,0,3,0,0,0,0,0,3,0,0,0,0
 Marysville Police Department,1978,Michigan,6674,MI74562,11,0,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Marysville Police Department,1977,Michigan,6800,MI74562,9,0,9,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Marysville Police Department,1976,Michigan,7044,MI74562,10,0,10,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marysville Police Department,1976,Michigan,7044,MI74562,10,0,10,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Marysville Police Department,1975,Michigan,7148,MI74562,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -7,7 +7,7 @@ Stevens Point Police Department,2012,Wisconsin,26809,WI05001,42,5,37,15,14,1,0,0
 Stevens Point Police Department,2011,Wisconsin,26833,WI05001,42,5,37,15,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stevens Point Police Department,2010,Wisconsin,26717,WI05001,44,6,38,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stevens Point Police Department,2009,Wisconsin,25320,WI05001,44,6,38,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Stevens Point Police Department,2008,Wisconsin,24848,WI05001,45,6,39,13,13,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stevens Point Police Department,2008,Wisconsin,24848,WI05001,45,6,39,13,13,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stevens Point Police Department,2007,Wisconsin,24333,WI05001,45,6,39,13,13,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Stevens Point Police Department,2006,Wisconsin,24387,WI05001,44,3,41,13,13,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,1,0,0,1,0,0,0,1,0
 Stevens Point Police Department,2005,Wisconsin,24403,WI05001,44,3,41,14,14,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
@@ -15,9 +15,9 @@ Stevens Point Police Department,2004,Wisconsin,24576,WI05001,44,4,40,14,14,0,0,0
 Stevens Point Police Department,2003,Wisconsin,24507,WI05001,44,4,40,14,14,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Stevens Point Police Department,2002,Wisconsin,24905,WI05001,44,4,40,14,14,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,2,0,0,0,1,0
 Stevens Point Police Department,2001,Wisconsin,24726,WI05001,44,4,40,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Stevens Point Police Department,2000,Wisconsin,24551,WI05001,44,3,41,13,13,0,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,0,0,0,0,0,2,0,2,1,0,0
+Stevens Point Police Department,2e3,Wisconsin,24551,WI05001,44,3,41,13,13,0,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,0,0,0,0,0,2,0,2,1,0,0
 Stevens Point Police Department,1999,Wisconsin,22311,WI05001,44,3,41,13,13,0,0,0,3,0,0,2,1,1,0,0,1,0,4,0,0,3,1,1,0,0,0,0,1,0,1,0,0,1
-Stevens Point Police Department,1998,Wisconsin,23046,WI05001,42,3,39,13,13,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stevens Point Police Department,1998,Wisconsin,23046,WI05001,42,3,39,13,13,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stevens Point Police Department,1997,Wisconsin,21635,WI05001,42,2,40,11,11,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Stevens Point Police Department,1996,Wisconsin,21594,WI05001,42,3,39,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stevens Point Police Department,1995,Wisconsin,21440,WI05001,42,2,40,9,9,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -31,10 +31,10 @@ Stevens Point Police Department,1988,Wisconsin,22605,WI05001,40,2,38,10,9,1,0,0,
 Stevens Point Police Department,1987,Wisconsin,22353,WI05001,40,3,37,10,8,2,0,0,2,0,0,2,0,1,1,0,0,0,3,1,0,2,0,0,0,0,0,0,0,0,1,0,1,1
 Stevens Point Police Department,1986,Wisconsin,21719,WI05001,40,3,37,9,7,2,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0
 Stevens Point Police Department,1985,Wisconsin,22070,WI05001,39,2,37,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Stevens Point Police Department,1984,Wisconsin,22030,WI05001,39,2,37,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stevens Point Police Department,1984,Wisconsin,22030,WI05001,39,2,37,9,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stevens Point Police Department,1983,Wisconsin,23291,WI05001,39,2,37,8,7,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
 Stevens Point Police Department,1982,Wisconsin,23360,WI05001,39,2,37,8,7,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Stevens Point Police Department,1981,Wisconsin,23233,WI05001,39,2,37,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stevens Point Police Department,1981,Wisconsin,23233,WI05001,39,2,37,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stevens Point Police Department,1980,Wisconsin,22948,WI05001,39,2,37,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stevens Point Police Department,1979,Wisconsin,24200,WI05001,37,2,35,3,3,0,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,0,0,0,2,0,1,0,3,0,0,0
 Stevens Point Police Department,1978,Wisconsin,23764,WI05001,38,2,36,4,4,0,0,0,3,0,0,1,2,3,0,0,2,1,6,0,0,3,3,0,0,0,0,0,1,0,3,0,2,0

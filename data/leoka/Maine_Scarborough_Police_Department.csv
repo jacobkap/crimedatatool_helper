@@ -5,7 +5,7 @@ Scarborough Police Department,2014,Maine,19454,ME00307,37,3,34,16,4,12,0,0,0,0,0
 Scarborough Police Department,2013,Maine,19252,ME00307,37,3,34,17,4,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarborough Police Department,2012,Maine,18982,ME00307,37,3,34,16,4,12,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,0,0,3,0,0,1
 Scarborough Police Department,2011,Maine,18917,ME00307,37,3,34,16,4,12,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0
-Scarborough Police Department,2010,Maine,18919,ME00307,35,3,32,16,4,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scarborough Police Department,2010,Maine,18919,ME00307,35,3,32,16,4,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Scarborough Police Department,2009,Maine,19281,ME00307,35,3,32,15,5,10,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,0,0,3,0,0,0,0,2
 Scarborough Police Department,2008,Maine,19228,ME00307,33,3,30,15,5,10,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Scarborough Police Department,2007,Maine,19187,ME00307,33,2,31,15,5,10,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,2,0,0,0,0,0,0,0,0,0,1
@@ -15,8 +15,8 @@ Scarborough Police Department,2004,Maine,18622,ME00307,32,2,30,15,4,11,0,0,0,0,0
 Scarborough Police Department,2003,Maine,18421,ME00307,32,2,30,15,4,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarborough Police Department,2002,Maine,17230,ME00307,31,2,29,15,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarborough Police Department,2001,Maine,17126,ME00307,30,2,28,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scarborough Police Department,2000,Maine,16970,ME00307,30,3,27,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Scarborough Police Department,1999,Maine,14894,ME00307,28,3,25,10,3,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Scarborough Police Department,2e3,Maine,16970,ME00307,30,3,27,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scarborough Police Department,1999,Maine,14894,ME00307,28,3,25,10,3,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Scarborough Police Department,1998,Maine,14191,ME00307,27,3,24,10,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarborough Police Department,1997,Maine,12638,ME00307,26,3,23,10,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarborough Police Department,1996,Maine,12649,ME00307,26,3,23,13,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,6 +38,6 @@ Scarborough Police Department,1981,Maine,11467,ME00307,15,1,14,3,0,3,0,0,3,0,0,2
 Scarborough Police Department,1980,Maine,11383,ME00307,16,1,15,4,0,4,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,2,0,0,0,0,0,0,0,2
 Scarborough Police Department,1979,Maine,10742,ME00307,14,0,14,0,0,0,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,1,0,2,0,0,0,0,1,0,0,1
 Scarborough Police Department,1978,Maine,10500,ME00307,16,0,16,4,0,4,0,0,1,0,0,1,0,5,0,0,4,1,6,0,0,5,1,0,0,0,0,1,0,0,3,0,2,0
-Scarborough Police Department,1977,Maine,11000,ME00307,14,0,14,4,1,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
+Scarborough Police Department,1977,Maine,11e3,ME00307,14,0,14,4,1,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Scarborough Police Department,1976,Maine,8235,ME00307,13,0,13,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarborough Police Department,1975,Maine,8206,ME00307,12,0,12,4,1,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1

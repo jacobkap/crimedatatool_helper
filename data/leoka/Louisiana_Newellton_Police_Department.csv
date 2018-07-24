@@ -1,10 +1,10 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Newellton Police Department,2008,Louisiana,1268,LA05401,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Newellton Police Department,2004,Louisiana,1395,LA05401,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Newellton Police Department,2003,Louisiana,1444,LA05401,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Newellton Police Department,2000,Louisiana,1482,LA05401,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Newellton Police Department,1999,Louisiana,1510,LA05401,2,1,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Newellton Police Department,1998,Louisiana,1563,LA05401,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Newellton Police Department,1996,Louisiana,1600,LA05401,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Newellton Police Department,1995,Louisiana,1597,LA05401,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Newellton Police Department,1994,Louisiana,1556,LA05401,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Newellton Police Department,2008,Louisiana,1268,LA05401,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Newellton Police Department,2004,Louisiana,1395,LA05401,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Newellton Police Department,2003,Louisiana,1444,LA05401,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Newellton Police Department,2e3,Louisiana,1482,LA05401,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Newellton Police Department,1999,Louisiana,1510,LA05401,2,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Newellton Police Department,1998,Louisiana,1563,LA05401,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Newellton Police Department,1996,Louisiana,1600,LA05401,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Newellton Police Department,1995,Louisiana,1597,LA05401,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Newellton Police Department,1994,Louisiana,1556,LA05401,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

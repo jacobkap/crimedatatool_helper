@@ -15,7 +15,7 @@ Weakley County Sheriff's Office,2004,Tennessee,16705,TN09200,20,2,18,20,8,12,0,0
 Weakley County Sheriff's Office,2003,Tennessee,16596,TN09200,18,2,16,20,8,12,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Weakley County Sheriff's Office,2002,Tennessee,16941,TN09200,18,2,16,20,8,12,0,0,2,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0
 Weakley County Sheriff's Office,2001,Tennessee,16772,TN09200,18,2,16,20,7,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Weakley County Sheriff's Office,2000,Tennessee,16624,TN09200,20,1,19,19,8,11,0,0,0,0,0,0,0,5,1,0,4,0,5,1,0,4,0,0,0,1,0,0,1,0,3,0,0,0
+Weakley County Sheriff's Office,2e3,Tennessee,16624,TN09200,20,1,19,19,8,11,0,0,0,0,0,0,0,5,1,0,4,0,5,1,0,4,0,0,0,1,0,0,1,0,3,0,0,0
 Weakley County Sheriff's Office,1999,Tennessee,17077,TN09200,20,1,19,18,8,10,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Weakley County Sheriff's Office,1998,Tennessee,16902,TN09200,16,1,15,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Weakley County Sheriff's Office,1997,Tennessee,18911,TN09200,15,1,14,7,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,9 +28,9 @@ Weakley County Sheriff's Office,1991,Tennessee,18496,TN09200,14,1,13,13,6,7,0,0,
 Weakley County Sheriff's Office,1990,Tennessee,18213,TN09200,20,1,19,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Weakley County Sheriff's Office,1989,Tennessee,19113,TN09200,23,4,19,3,3,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Weakley County Sheriff's Office,1988,Tennessee,19166,TN09200,13,1,12,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Weakley County Sheriff's Office,1987,Tennessee,19297,TN09200,15,1,14,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Weakley County Sheriff's Office,1986,Tennessee,19449,TN09200,17,2,15,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Weakley County Sheriff's Office,1985,Tennessee,19543,TN09200,13,2,11,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Weakley County Sheriff's Office,1987,Tennessee,19297,TN09200,15,1,14,7,5,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Weakley County Sheriff's Office,1986,Tennessee,19449,TN09200,17,2,15,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Weakley County Sheriff's Office,1985,Tennessee,19543,TN09200,13,2,11,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Weakley County Sheriff's Office,1984,Tennessee,19274,TN09200,14,2,12,3,3,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 Weakley County Sheriff's Office,1983,Tennessee,19655,TN09200,9,1,8,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Weakley County Sheriff's Office,1982,Tennessee,19513,TN09200,8,1,7,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,4 +39,4 @@ Weakley County Sheriff's Office,1980,Tennessee,19070,TN09200,9,3,6,7,2,5,0,0,2,1
 Weakley County Sheriff's Office,1979,Tennessee,18193,TN09200,7,1,6,5,3,2,0,0,1,1,0,0,0,4,4,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,2
 Weakley County Sheriff's Office,1978,Tennessee,18329,TN09200,10,2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Weakley County Sheriff's Office,1976,Tennessee,17570,TN09200,5,1,4,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Weakley County Sheriff's Office,1975,Tennessee,17010,TN09200,5,1,4,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Weakley County Sheriff's Office,1975,Tennessee,17010,TN09200,5,1,4,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

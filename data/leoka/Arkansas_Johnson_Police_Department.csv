@@ -2,13 +2,13 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Johnson Police Department,2016,Arkansas,3683,AR07209,12,0,12,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Johnson Police Department,2015,Arkansas,3654,AR07209,12,0,12,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Johnson Police Department,2014,Arkansas,3601,AR07209,13,0,13,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
-Johnson Police Department,2013,Arkansas,3498,AR07209,12,0,12,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Johnson Police Department,1998,Arkansas,1548,AR07209,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Johnson Police Department,1993,Arkansas,652,AR07209,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Johnson Police Department,1992,Arkansas,610,AR07209,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Johnson Police Department,1991,Arkansas,604,AR07209,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Johnson Police Department,1990,Arkansas,599,AR07209,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Johnson Police Department,1989,Arkansas,723,AR07209,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Johnson Police Department,2013,Arkansas,3498,AR07209,12,0,12,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Johnson Police Department,1998,Arkansas,1548,AR07209,3,0,3,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Johnson Police Department,1993,Arkansas,652,AR07209,3,0,3,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Johnson Police Department,1992,Arkansas,610,AR07209,3,0,3,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Johnson Police Department,1991,Arkansas,604,AR07209,3,0,3,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Johnson Police Department,1990,Arkansas,599,AR07209,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Johnson Police Department,1989,Arkansas,723,AR07209,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Johnson Police Department,1988,Arkansas,711,AR07209,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Johnson Police Department,1987,Arkansas,695,AR07209,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Johnson Police Department,1986,Arkansas,607,AR07209,3,0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
@@ -19,4 +19,4 @@ Johnson Police Department,1982,Arkansas,502,AR07209,2,0,2,0,0,0,0,0,1,0,0,1,0,0,
 Johnson Police Department,1981,Arkansas,502,AR07209,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Johnson Police Department,1980,Arkansas,500,AR07209,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Johnson Police Department,1979,Arkansas,643,AR07209,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Johnson Police Department,1978,Arkansas,600,AR07209,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Johnson Police Department,1978,Arkansas,600,AR07209,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

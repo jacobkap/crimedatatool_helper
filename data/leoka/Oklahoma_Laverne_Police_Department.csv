@@ -3,7 +3,7 @@ Laverne Police Department,2004,Oklahoma,1050,OK03002,1,0,1,4,4,0,0,0,0,0,0,0,0,0
 Laverne Police Department,2003,Oklahoma,1070,OK03002,3,0,3,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laverne Police Department,2002,Oklahoma,1111,OK03002,2,0,2,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laverne Police Department,2001,Oklahoma,1100,OK03002,3,0,3,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Laverne Police Department,2000,Oklahoma,1097,OK03002,3,0,3,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laverne Police Department,2e3,Oklahoma,1097,OK03002,3,0,3,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laverne Police Department,1999,Oklahoma,1125,OK03002,3,0,3,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laverne Police Department,1998,Oklahoma,1151,OK03002,2,0,2,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laverne Police Department,1997,Oklahoma,1239,OK03002,2,0,2,7,7,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
@@ -21,10 +21,10 @@ Laverne Police Department,1986,Oklahoma,1512,OK03002,2,0,2,0,0,0,0,0,0,0,0,0,0,1
 Laverne Police Department,1985,Oklahoma,1672,OK03002,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laverne Police Department,1984,Oklahoma,1670,OK03002,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laverne Police Department,1983,Oklahoma,1695,OK03002,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Laverne Police Department,1982,Oklahoma,1633,OK03002,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Laverne Police Department,1981,Oklahoma,1593,OK03002,2,0,2,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Laverne Police Department,1982,Oklahoma,1633,OK03002,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laverne Police Department,1981,Oklahoma,1593,OK03002,2,0,2,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Laverne Police Department,1980,Oklahoma,1543,OK03002,2,1,1,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Laverne Police Department,1979,Oklahoma,1434,OK03002,4,0,4,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Laverne Police Department,1979,Oklahoma,1434,OK03002,4,0,4,4,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Laverne Police Department,1978,Oklahoma,2530,OK03002,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laverne Police Department,1977,Oklahoma,2760,OK03002,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laverne Police Department,1976,Oklahoma,2587,OK03002,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

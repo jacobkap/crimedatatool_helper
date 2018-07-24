@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Grantsville Police Department,2016,Utah,10253,UT02302,13,2,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grantsville Police Department,2015,Utah,10071,UT02302,15,2,13,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grantsville Police Department,2014,Utah,9790,UT02302,12,2,10,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grantsville Police Department,2014,Utah,9790,UT02302,12,2,10,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Grantsville Police Department,2013,Utah,9530,UT02302,12,1,11,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Grantsville Police Department,2012,Utah,9185,UT02302,12,1,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grantsville Police Department,2011,Utah,9065,UT02302,10,0,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,13 +15,13 @@ Grantsville Police Department,2004,Utah,6933,UT02302,9,0,9,3,2,1,0,0,0,0,0,0,0,0
 Grantsville Police Department,2003,Utah,6737,UT02302,8,0,8,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grantsville Police Department,2002,Utah,6239,UT02302,8,0,8,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grantsville Police Department,2001,Utah,6114,UT02302,8,0,8,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grantsville Police Department,2000,Utah,6015,UT02302,8,0,8,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grantsville Police Department,2e3,Utah,6015,UT02302,8,0,8,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grantsville Police Department,1999,Utah,5607,UT02302,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grantsville Police Department,1998,Utah,5425,UT02302,7,0,7,2,1,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,1,0,2,0,0,1
 Grantsville Police Department,1997,Utah,5387,UT02302,7,0,7,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grantsville Police Department,1996,Utah,5233,UT02302,7,0,7,3,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grantsville Police Department,1996,Utah,5233,UT02302,7,0,7,3,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Grantsville Police Department,1995,Utah,5105,UT02302,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grantsville Police Department,1994,Utah,5000,UT02302,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grantsville Police Department,1994,Utah,5e3,UT02302,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grantsville Police Department,1993,Utah,4875,UT02302,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grantsville Police Department,1992,Utah,4735,UT02302,6,0,6,1,1,0,0,0,1,0,0,1,0,1,0,0,10,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Grantsville Police Department,1991,Utah,4623,UT02302,6,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -35,4 +35,4 @@ Grantsville Police Department,1984,Utah,5126,UT02302,5,0,5,0,0,0,0,0,2,0,0,2,0,1
 Grantsville Police Department,1983,Utah,4907,UT02302,5,0,5,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0
 Grantsville Police Department,1982,Utah,4710,UT02302,4,0,4,0,0,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,2,0,2,0,0,0,0,0,0,0,0
 Grantsville Police Department,1981,Utah,4595,UT02302,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grantsville Police Department,1980,Utah,4421,UT02302,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grantsville Police Department,1980,Utah,4421,UT02302,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

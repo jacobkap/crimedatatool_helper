@@ -15,7 +15,7 @@ Sheridan County Sheriff's Office,2004,Wyoming,11212,WY01700,20,1,19,6,4,2,0,0,0,
 Sheridan County Sheriff's Office,2003,Wyoming,11018,WY01700,20,1,19,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheridan County Sheriff's Office,2002,Wyoming,10863,WY01700,17,1,16,6,4,2,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,3,0,0,1,0,0,0,0,0
 Sheridan County Sheriff's Office,2001,Wyoming,10769,WY01700,15,1,14,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sheridan County Sheriff's Office,2000,Wyoming,10756,WY01700,15,1,14,4,3,1,0,0,1,0,1,0,0,1,0,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0
+Sheridan County Sheriff's Office,2e3,Wyoming,10756,WY01700,15,1,14,4,3,1,0,0,1,0,1,0,0,1,0,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0
 Sheridan County Sheriff's Office,1999,Wyoming,10546,WY01700,13,1,12,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheridan County Sheriff's Office,1998,Wyoming,10493,WY01700,13,1,12,15,6,9,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0
 Sheridan County Sheriff's Office,1997,Wyoming,10114,WY01700,13,1,12,15,6,9,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -33,11 +33,11 @@ Sheridan County Sheriff's Office,1986,Wyoming,10342,WY01700,12,0,12,11,6,5,0,0,0
 Sheridan County Sheriff's Office,1985,Wyoming,10942,WY01700,12,0,12,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Sheridan County Sheriff's Office,1984,Wyoming,10452,WY01700,12,0,12,11,6,5,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0
 Sheridan County Sheriff's Office,1983,Wyoming,10838,WY01700,12,0,12,11,6,5,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Sheridan County Sheriff's Office,1982,Wyoming,10585,WY01700,10,0,10,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sheridan County Sheriff's Office,1981,Wyoming,10375,WY01700,9,0,9,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sheridan County Sheriff's Office,1980,Wyoming,9889,WY01700,9,0,9,5,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sheridan County Sheriff's Office,1979,Wyoming,10420,WY01700,7,0,7,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sheridan County Sheriff's Office,1982,Wyoming,10585,WY01700,10,0,10,7,5,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sheridan County Sheriff's Office,1981,Wyoming,10375,WY01700,9,0,9,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sheridan County Sheriff's Office,1980,Wyoming,9889,WY01700,9,0,9,5,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sheridan County Sheriff's Office,1979,Wyoming,10420,WY01700,7,0,7,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Sheridan County Sheriff's Office,1978,Wyoming,9395,WY01700,7,0,7,3,1,2,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
 Sheridan County Sheriff's Office,1977,Wyoming,8728,WY01700,7,0,7,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sheridan County Sheriff's Office,1976,Wyoming,8293,WY01700,6,0,6,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sheridan County Sheriff's Office,1975,Wyoming,8644,WY01700,6,0,6,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sheridan County Sheriff's Office,1976,Wyoming,8293,WY01700,6,0,6,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sheridan County Sheriff's Office,1975,Wyoming,8644,WY01700,6,0,6,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

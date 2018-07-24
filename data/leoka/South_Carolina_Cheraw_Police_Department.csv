@@ -15,15 +15,15 @@ Cheraw Police Department,2004,South Carolina,5482,SC01301,27,0,27,6,5,1,0,0,0,0,
 Cheraw Police Department,2003,South Carolina,5489,SC01301,25,1,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheraw Police Department,2002,South Carolina,5655,SC01301,24,0,24,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheraw Police Department,2001,South Carolina,5594,SC01301,24,1,23,7,7,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Cheraw Police Department,2000,South Carolina,5524,SC01301,25,1,24,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cheraw Police Department,2e3,South Carolina,5524,SC01301,25,1,24,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheraw Police Department,1999,South Carolina,5810,SC01301,25,1,24,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheraw Police Department,1998,South Carolina,5303,SC01301,25,1,24,6,4,2,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
 Cheraw Police Department,1997,South Carolina,5800,SC01301,25,1,24,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheraw Police Department,1996,South Carolina,5706,SC01301,25,1,24,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheraw Police Department,1996,South Carolina,5706,SC01301,25,1,24,6,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cheraw Police Department,1995,South Carolina,5666,SC01301,24,0,24,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheraw Police Department,1994,South Carolina,5653,SC01301,23,0,23,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheraw Police Department,1993,South Carolina,5621,SC01301,21,0,21,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Cheraw Police Department,1992,South Carolina,5687,SC01301,23,0,23,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheraw Police Department,1993,South Carolina,5621,SC01301,21,0,21,5,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheraw Police Department,1992,South Carolina,5687,SC01301,23,0,23,5,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Cheraw Police Department,1991,South Carolina,5620,SC01301,22,0,22,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheraw Police Department,1990,South Carolina,5505,SC01301,20,0,20,5,1,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Cheraw Police Department,1989,South Carolina,6074,SC01301,20,0,20,5,2,3,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
@@ -40,4 +40,4 @@ Cheraw Police Department,1979,South Carolina,5461,SC01301,17,0,17,3,2,1,0,0,0,0,
 Cheraw Police Department,1978,South Carolina,5324,SC01301,16,0,16,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Cheraw Police Department,1977,South Carolina,5600,SC01301,19,0,19,3,1,2,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Cheraw Police Department,1976,South Carolina,5730,SC01301,19,0,19,3,1,2,0,0,2,0,0,2,0,3,1,0,1,1,5,1,0,3,1,1,0,2,0,0,1,0,0,0,0,1
-Cheraw Police Department,1975,South Carolina,5805,SC01301,21,1,20,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cheraw Police Department,1975,South Carolina,5805,SC01301,21,1,20,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

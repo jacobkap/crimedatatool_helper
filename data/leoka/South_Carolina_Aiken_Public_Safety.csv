@@ -15,15 +15,15 @@ Aiken Public Safety,2004,South Carolina,26781,SC00201,79,10,69,22,16,6,0,0,0,0,0
 Aiken Public Safety,2003,South Carolina,26300,SC00201,83,11,72,20,15,5,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,1,0,2,0,0,0,0,3,0,0,0
 Aiken Public Safety,2002,South Carolina,25938,SC00201,83,10,73,19,13,6,0,0,6,0,0,5,1,4,0,0,3,1,10,0,0,8,2,3,0,3,0,0,0,0,1,0,0,3
 Aiken Public Safety,2001,South Carolina,25659,SC00201,82,9,73,19,13,6,0,0,2,0,0,2,0,4,0,0,4,0,6,0,0,6,0,0,0,1,0,0,1,0,3,0,1,0
-Aiken Public Safety,2000,South Carolina,25337,SC00201,87,8,79,19,12,7,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+Aiken Public Safety,2e3,South Carolina,25337,SC00201,87,8,79,19,12,7,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
 Aiken Public Safety,1999,South Carolina,23158,SC00201,84,9,75,23,13,10,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Aiken Public Safety,1998,South Carolina,23463,SC00201,91,8,83,17,11,6,0,0,3,1,0,2,0,4,0,1,3,0,7,1,1,5,0,0,0,1,0,0,0,0,4,0,1,1
 Aiken Public Safety,1997,South Carolina,25580,SC00201,90,8,82,19,13,6,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
-Aiken Public Safety,1996,South Carolina,25166,SC00201,89,8,81,20,13,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aiken Public Safety,1996,South Carolina,25166,SC00201,89,8,81,20,13,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Aiken Public Safety,1995,South Carolina,24990,SC00201,88,8,80,18,7,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aiken Public Safety,1994,South Carolina,22807,SC00201,82,7,75,17,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Aiken Public Safety,1993,South Carolina,22677,SC00201,85,7,78,15,9,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Aiken Public Safety,1992,South Carolina,20534,SC00201,83,7,76,21,10,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aiken Public Safety,1993,South Carolina,22677,SC00201,85,7,78,15,9,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aiken Public Safety,1992,South Carolina,20534,SC00201,83,7,76,21,10,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Aiken Public Safety,1991,South Carolina,20289,SC00201,75,6,69,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Aiken Public Safety,1990,South Carolina,19872,SC00201,80,7,73,21,9,12,0,0,1,0,0,1,0,5,0,0,4,1,6,0,0,5,1,0,0,2,0,0,1,0,2,0,1,0
 Aiken Public Safety,1989,South Carolina,19296,SC00201,69,7,62,20,8,12,0,0,1,0,1,0,0,2,0,0,0,2,3,0,1,0,2,1,0,0,0,0,0,0,0,0,0,2
@@ -38,6 +38,6 @@ Aiken Public Safety,1981,South Carolina,15266,SC00201,60,4,56,11,4,7,0,0,0,0,0,0
 Aiken Public Safety,1980,South Carolina,14777,SC00201,59,4,55,13,4,9,0,0,2,0,0,2,0,3,0,0,2,1,5,0,0,4,1,0,0,0,0,0,0,0,3,0,0,2
 Aiken Public Safety,1979,South Carolina,14600,SC00201,57,2,55,10,6,4,0,0,2,0,0,2,0,7,0,1,6,0,9,0,1,8,0,1,0,1,0,0,0,0,5,0,2,0
 Aiken Public Safety,1978,South Carolina,14324,SC00201,51,0,51,10,5,5,0,0,4,0,0,4,0,3,1,0,2,0,7,1,0,6,0,0,0,1,0,0,1,0,3,1,0,1
-Aiken Public Safety,1977,South Carolina,14000,SC00201,51,0,51,10,5,5,0,0,0,0,0,0,0,8,2,0,5,1,8,2,0,5,1,2,0,4,0,0,0,0,2,0,0,0
+Aiken Public Safety,1977,South Carolina,14e3,SC00201,51,0,51,10,5,5,0,0,0,0,0,0,0,8,2,0,5,1,8,2,0,5,1,2,0,4,0,0,0,0,2,0,0,0
 Aiken Public Safety,1976,South Carolina,14185,SC00201,46,2,44,6,3,3,0,0,1,0,0,1,0,7,1,1,3,2,8,1,1,4,2,0,0,2,0,0,0,0,6,0,0,0
 Aiken Public Safety,1975,South Carolina,14500,SC00201,36,2,34,7,3,4,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,0,0,0,2,0,0,0,0,2

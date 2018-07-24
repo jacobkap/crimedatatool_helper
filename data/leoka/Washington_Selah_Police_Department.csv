@@ -15,14 +15,14 @@ Selah Police Department,2004,Washington,6651,WA03911,12,1,11,1,0,1,0,0,0,0,0,0,0
 Selah Police Department,2003,Washington,6575,WA03911,12,1,11,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Selah Police Department,2002,Washington,6497,WA03911,11,1,10,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Selah Police Department,2001,Washington,6410,WA03911,13,1,12,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Selah Police Department,2000,Washington,6310,WA03911,13,1,12,2,2,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Selah Police Department,2e3,Washington,6310,WA03911,13,1,12,2,2,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Selah Police Department,1999,Washington,6567,WA03911,12,1,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Selah Police Department,1998,Washington,6352,WA03911,12,0,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Selah Police Department,1997,Washington,5824,WA03911,12,0,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Selah Police Department,1996,Washington,5745,WA03911,12,0,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Selah Police Department,1995,Washington,5640,WA03911,11,0,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Selah Police Department,1994,Washington,5757,WA03911,11,0,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Selah Police Department,1993,Washington,5663,WA03911,11,0,11,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Selah Police Department,1993,Washington,5663,WA03911,11,0,11,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Selah Police Department,1992,Washington,5394,WA03911,9,0,9,2,2,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Selah Police Department,1991,Washington,5271,WA03911,8,0,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Selah Police Department,1990,Washington,5113,WA03911,8,0,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,7 +37,7 @@ Selah Police Department,1982,Washington,3996,WA03911,8,0,8,1,1,0,0,0,1,0,0,1,0,2
 Selah Police Department,1981,Washington,3965,WA03911,5,0,5,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Selah Police Department,1980,Washington,3872,WA03911,8,0,8,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Selah Police Department,1979,Washington,4111,WA03911,7,0,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Selah Police Department,1978,Washington,3930,WA03911,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Selah Police Department,1978,Washington,3930,WA03911,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Selah Police Department,1977,Washington,3904,WA03911,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Selah Police Department,1976,Washington,3787,WA03911,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Selah Police Department,1976,Washington,3787,WA03911,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Selah Police Department,1975,Washington,3640,WA03911,7,0,7,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

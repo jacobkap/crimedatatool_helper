@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Everett Police Department,2016,Washington,108988,WA03103,187,17,170,39,30,9,0,0,4,0,0,2,2,17,1,0,12,4,21,1,0,14,6,7,0,4,0,0,0,3,5,0,1,1
 Everett Police Department,2015,Washington,107633,WA03103,183,17,166,37,29,8,0,0,0,0,0,0,0,23,0,0,22,1,23,0,0,22,1,10,0,1,1,0,0,3,5,0,2,1
 Everett Police Department,2014,Washington,105911,WA03103,177,19,158,37,30,7,0,0,0,0,0,0,0,17,0,0,17,0,17,0,0,17,0,0,0,0,0,0,1,1,9,0,6,0
-Everett Police Department,2013,Washington,105129,WA03103,183,22,161,39,32,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Everett Police Department,2013,Washington,105129,WA03103,183,22,161,39,32,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Everett Police Department,2012,Washington,105318,WA03103,193,22,171,40,33,7,0,0,0,0,0,0,0,13,0,0,11,2,13,0,0,11,2,2,0,1,1,0,1,3,1,1,2,1
 Everett Police Department,2011,Washington,104635,WA03103,190,22,168,42,35,7,0,0,0,0,0,0,0,21,0,0,21,0,21,0,0,21,0,4,0,0,0,0,0,0,12,0,4,1
 Everett Police Department,2010,Washington,103019,WA03103,193,23,170,40,34,6,0,0,0,0,0,0,0,20,0,0,14,6,20,0,0,14,6,4,0,1,0,0,1,0,6,0,5,3
@@ -15,12 +15,12 @@ Everett Police Department,2004,Washington,97783,WA03103,172,22,150,38,30,8,0,0,0
 Everett Police Department,2003,Washington,98087,WA03103,181,23,158,41,33,8,0,0,0,0,0,0,0,31,1,0,27,3,31,1,0,27,3,8,0,0,1,0,0,0,13,0,5,4
 Everett Police Department,2002,Washington,94203,WA03103,180,22,158,37,30,7,0,0,1,0,0,0,1,29,1,0,25,3,30,1,0,25,4,2,0,2,0,0,2,0,17,0,6,1
 Everett Police Department,2001,Washington,92945,WA03103,180,22,158,36,30,6,0,0,1,0,0,1,0,29,0,0,29,0,30,0,0,30,0,4,0,7,0,0,13,1,5,0,0,0
-Everett Police Department,2000,Washington,91488,WA03103,177,21,156,35,28,7,0,0,2,0,0,2,0,23,0,0,23,0,25,0,0,25,0,3,0,4,0,1,1,2,12,2,0,0
+Everett Police Department,2e3,Washington,91488,WA03103,177,21,156,35,28,7,0,0,2,0,0,2,0,23,0,0,23,0,25,0,0,25,0,3,0,4,0,1,1,2,12,2,0,0
 Everett Police Department,1999,Washington,89670,WA03103,175,20,155,35,28,7,0,0,2,0,0,2,0,28,0,0,28,0,30,0,0,30,0,9,0,2,0,0,8,1,2,0,8,0
 Everett Police Department,1998,Washington,85197,WA03103,170,20,150,33,26,7,0,0,2,0,0,2,0,31,0,0,30,1,33,0,0,32,1,5,1,9,0,0,3,0,3,0,6,6
 Everett Police Department,1997,Washington,80516,WA03103,164,22,142,34,27,7,0,0,0,0,0,0,0,26,0,0,26,0,26,0,0,26,0,6,0,6,0,0,3,1,3,0,5,2
-Everett Police Department,1996,Washington,79411,WA03103,160,20,140,34,31,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Everett Police Department,1995,Washington,77948,WA03103,154,18,136,36,30,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Everett Police Department,1996,Washington,79411,WA03103,160,20,140,34,31,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Everett Police Department,1995,Washington,77948,WA03103,154,18,136,36,30,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Everett Police Department,1994,Washington,78045,WA03103,144,15,129,35,31,4,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
 Everett Police Department,1993,Washington,76760,WA03103,146,15,131,38,34,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Everett Police Department,1992,Washington,73832,WA03103,146,15,131,47,43,4,0,0,0,0,0,0,0,7,0,0,15,0,7,0,0,7,0,1,0,3,0,0,0,0,2,0,0,1
@@ -39,4 +39,4 @@ Everett Police Department,1979,Washington,53879,WA03103,93,4,89,20,20,0,0,0,0,0,
 Everett Police Department,1978,Washington,51996,WA03103,95,4,91,20,20,0,0,0,4,0,0,3,1,4,1,0,3,0,8,1,0,6,1,0,0,2,0,0,0,0,3,1,1,1
 Everett Police Department,1977,Washington,51700,WA03103,95,4,91,18,18,0,0,0,8,0,1,7,0,6,0,3,1,2,14,0,4,8,2,0,0,3,0,0,0,1,8,1,0,1
 Everett Police Department,1976,Washington,52500,WA03103,90,4,86,17,13,4,0,0,1,0,0,1,0,10,0,3,4,3,11,0,3,5,3,2,0,2,0,0,0,4,3,0,0,0
-Everett Police Department,1975,Washington,54000,WA03103,90,4,86,12,12,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Everett Police Department,1975,Washington,54e3,WA03103,90,4,86,12,12,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -15,9 +15,9 @@ Moberly Police Department,2004,Missouri,13854,MO08803,30,3,27,10,8,2,0,0,1,0,0,1
 Moberly Police Department,2003,Missouri,13689,MO08803,35,4,31,12,11,1,0,0,2,0,1,1,0,11,0,0,11,0,13,0,1,12,0,0,0,3,0,0,2,0,7,0,0,1
 Moberly Police Department,2002,Missouri,12110,MO08803,35,4,31,13,12,1,0,0,0,0,0,0,0,13,0,0,13,0,13,0,0,13,0,0,0,5,0,0,1,0,6,0,1,0
 Moberly Police Department,2001,Missouri,12019,MO08803,35,3,32,10,9,1,0,0,1,0,0,1,0,11,0,0,10,1,12,0,0,11,1,0,0,1,0,0,3,0,6,0,0,2
-Moberly Police Department,2000,Missouri,11945,MO08803,33,2,31,9,8,1,0,0,2,0,0,1,1,14,0,0,14,0,16,0,0,15,1,0,0,3,0,0,3,0,9,0,0,1
+Moberly Police Department,2e3,Missouri,11945,MO08803,33,2,31,9,8,1,0,0,2,0,0,1,1,14,0,0,14,0,16,0,0,15,1,0,0,3,0,0,3,0,9,0,0,1
 Moberly Police Department,1999,Missouri,12103,MO08803,34,3,31,7,6,1,0,0,5,4,0,1,0,17,0,0,17,0,22,4,0,18,0,0,0,4,0,0,5,0,12,0,0,1
-Moberly Police Department,1998,Missouri,12100,MO08803,32,2,30,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Moberly Police Department,1998,Missouri,12100,MO08803,32,2,30,8,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Moberly Police Department,1997,Missouri,12875,MO08803,34,2,32,6,5,1,0,0,0,0,0,0,0,8,0,0,8,0,8,0,0,8,0,0,0,1,0,0,0,1,6,0,0,0
 Moberly Police Department,1996,Missouri,12773,MO08803,34,2,32,5,4,1,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,2,0,0,1,0,2,0,1,0
 Moberly Police Department,1995,Missouri,12690,MO08803,35,2,33,6,5,1,0,0,1,0,0,1,0,7,0,0,7,0,8,0,0,8,0,1,0,0,0,0,1,0,5,0,1,0
@@ -28,7 +28,7 @@ Moberly Police Department,1991,Missouri,12941,MO08803,33,2,31,5,4,1,0,0,0,0,0,0,
 Moberly Police Department,1990,Missouri,12839,MO08803,33,2,31,6,5,1,0,0,4,0,0,4,0,3,0,0,3,0,7,0,0,7,0,0,0,1,0,0,0,0,5,0,1,0
 Moberly Police Department,1989,Missouri,12833,MO08803,33,2,31,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Moberly Police Department,1988,Missouri,13153,MO08803,34,2,32,4,3,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0
-Moberly Police Department,1987,Missouri,13206,MO08803,34,3,31,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Moberly Police Department,1987,Missouri,13206,MO08803,34,3,31,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Moberly Police Department,1986,Missouri,13468,MO08803,34,3,31,4,3,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Moberly Police Department,1985,Missouri,13474,MO08803,34,3,31,5,4,1,0,0,0,0,0,0,0,7,0,0,7,0,7,0,0,7,0,0,0,0,0,0,5,0,1,0,1,0
 Moberly Police Department,1984,Missouri,13417,MO08803,34,3,31,4,3,1,0,0,2,0,0,2,0,5,0,0,5,0,7,0,0,7,0,0,0,0,0,0,2,0,2,0,2,1
@@ -40,4 +40,4 @@ Moberly Police Department,1979,Missouri,13126,MO08803,32,2,30,5,4,1,0,0,3,0,0,2,
 Moberly Police Department,1978,Missouri,13858,MO08803,31,1,30,5,4,1,0,0,3,0,0,2,1,2,0,0,2,0,5,0,0,4,1,0,0,4,0,0,0,0,1,0,0,0
 Moberly Police Department,1977,Missouri,12882,MO08803,31,0,31,4,3,1,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,2,0,2,0,0,0
 Moberly Police Department,1976,Missouri,13289,MO08803,30,0,30,5,3,2,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,1,0,0,2,0,0,0,1,0
-Moberly Police Department,1975,Missouri,12858,MO08803,28,1,27,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Moberly Police Department,1975,Missouri,12858,MO08803,28,1,27,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

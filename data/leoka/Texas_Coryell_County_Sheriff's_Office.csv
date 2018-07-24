@@ -15,7 +15,7 @@ Coryell County Sheriff's Office,2004,Texas,30544,TX05000,16,2,14,34,13,21,0,0,0,
 Coryell County Sheriff's Office,2003,Texas,30349,TX05000,19,1,18,34,14,20,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Coryell County Sheriff's Office,2002,Texas,31264,TX05000,19,0,19,33,14,19,1,0,1,0,0,0,1,2,0,0,0,2,3,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0
 Coryell County Sheriff's Office,2001,Texas,30611,TX05000,18,0,18,30,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Coryell County Sheriff's Office,2000,Texas,29932,TX05000,19,0,19,25,10,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coryell County Sheriff's Office,2e3,Texas,29932,TX05000,19,0,19,25,10,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coryell County Sheriff's Office,1999,Texas,35536,TX05000,20,0,20,24,10,14,0,0,0,0,0,0,0,2,1,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1
 Coryell County Sheriff's Office,1998,Texas,35559,TX05000,19,0,19,23,11,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coryell County Sheriff's Office,1997,Texas,33102,TX05000,18,0,18,22,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,11 +33,11 @@ Coryell County Sheriff's Office,1986,Texas,31834,TX05000,24,2,22,0,0,0,0,0,0,0,0
 Coryell County Sheriff's Office,1985,Texas,30005,TX05000,9,1,8,10,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coryell County Sheriff's Office,1984,Texas,31869,TX05000,8,1,7,9,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coryell County Sheriff's Office,1983,Texas,34149,TX05000,12,1,11,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Coryell County Sheriff's Office,1982,Texas,33185,TX05000,8,1,7,6,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Coryell County Sheriff's Office,1982,Texas,33185,TX05000,8,1,7,6,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Coryell County Sheriff's Office,1981,Texas,31237,TX05000,8,1,7,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coryell County Sheriff's Office,1980,Texas,29998,TX05000,8,1,7,3,2,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 Coryell County Sheriff's Office,1979,Texas,19707,TX05000,8,1,7,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coryell County Sheriff's Office,1978,Texas,12296,TX05000,9,1,8,2,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Coryell County Sheriff's Office,1977,Texas,26355,TX05000,10,2,8,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Coryell County Sheriff's Office,1976,Texas,25518,TX05000,8,1,7,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Coryell County Sheriff's Office,1975,Texas,33787,TX05000,9,1,8,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Coryell County Sheriff's Office,1975,Texas,33787,TX05000,9,1,8,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -2,12 +2,12 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Devalls Bluff Police Department,2016,Arkansas,581,AR05903,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devalls Bluff Police Department,2015,Arkansas,580,AR05903,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devalls Bluff Police Department,2014,Arkansas,582,AR05903,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Devalls Bluff Police Department,2013,Arkansas,591,AR05903,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Devalls Bluff Police Department,2012,Arkansas,614,AR05903,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Devalls Bluff Police Department,2011,Arkansas,624,AR05903,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Devalls Bluff Police Department,2009,Arkansas,684,AR05903,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Devalls Bluff Police Department,1998,Arkansas,679,AR05903,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Devalls Bluff Police Department,1991,Arkansas,708,AR05903,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Devalls Bluff Police Department,2013,Arkansas,591,AR05903,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devalls Bluff Police Department,2012,Arkansas,614,AR05903,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devalls Bluff Police Department,2011,Arkansas,624,AR05903,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devalls Bluff Police Department,2009,Arkansas,684,AR05903,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devalls Bluff Police Department,1998,Arkansas,679,AR05903,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devalls Bluff Police Department,1991,Arkansas,708,AR05903,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Devalls Bluff Police Department,1990,Arkansas,702,AR05903,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devalls Bluff Police Department,1989,Arkansas,713,AR05903,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devalls Bluff Police Department,1988,Arkansas,713,AR05903,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -21,5 +21,5 @@ Devalls Bluff Police Department,1981,Arkansas,743,AR05903,1,0,1,0,0,0,0,0,0,0,0,
 Devalls Bluff Police Department,1980,Arkansas,740,AR05903,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devalls Bluff Police Department,1979,Arkansas,647,AR05903,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Devalls Bluff Police Department,1978,Arkansas,634,AR05903,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-Devalls Bluff Police Department,1977,Arkansas,644,AR05903,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Devalls Bluff Police Department,1975,Arkansas,660,AR05903,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Devalls Bluff Police Department,1977,Arkansas,644,AR05903,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Devalls Bluff Police Department,1975,Arkansas,660,AR05903,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

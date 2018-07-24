@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Hebron Police,2012,Indiana,3764,IN06410,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hebron Police,2011,Indiana,3743,IN06410,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hebron Police,2009,Indiana,3707,IN06410,6,0,6,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1
-Hebron Police,2008,Indiana,3653,IN06410,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hebron Police,2008,Indiana,3653,IN06410,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hebron Police,2007,Indiana,3634,IN06410,5,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hebron Police,2006,Indiana,3594,IN06410,7,0,7,1,1,0,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,1,0,3,0,0,0,0,1,0,0,0
 Hebron Police,2005,Indiana,3566,IN06410,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -10,6 +10,6 @@ Hebron Police,2004,Indiana,3565,IN06410,6,0,6,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,
 Hebron Police,2003,Indiana,3560,IN06410,6,1,5,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Hebron Police,2002,Indiana,3642,IN06410,8,0,8,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
 Hebron Police,2001,Indiana,3616,IN06410,8,0,8,1,1,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
-Hebron Police,2000,Indiana,3596,IN06410,6,0,6,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hebron Police,2e3,Indiana,3596,IN06410,6,0,6,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hebron Police,1999,Indiana,3686,IN06410,8,0,8,4,3,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-Hebron Police,1998,Indiana,3515,IN06410,7,0,7,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hebron Police,1998,Indiana,3515,IN06410,7,0,7,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -2,10 +2,10 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Summit Township Pd Jackson,2009,Michigan,21642,MI38769,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Summit Township Pd Jackson,2003,Michigan,21876,MI38769,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Summit Township Pd Jackson,2001,Michigan,21647,MI38769,5,1,4,0,0,0,0,0,1,0,0,1,0,2,0,2,0,0,3,0,2,1,0,0,0,0,0,0,1,0,2,0,0,0
-Summit Township Pd Jackson,2000,Michigan,21534,MI38769,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Summit Township Pd Jackson,2e3,Michigan,21534,MI38769,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Summit Township Pd Jackson,1998,Michigan,22466,MI38769,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Summit Township Pd Jackson,1997,Michigan,22221,MI38769,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Summit Township Pd Jackson,1996,Michigan,21812,MI38769,4,1,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Summit Township Pd Jackson,1996,Michigan,21812,MI38769,4,1,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Summit Township Pd Jackson,1995,Michigan,21710,MI38769,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Summit Township Pd Jackson,1994,Michigan,21590,MI38769,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Summit Township Pd Jackson,1993,Michigan,21550,MI38769,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -17,8 +17,8 @@ Summit Township Pd Jackson,1987,Michigan,21042,MI38769,46,2,44,31,15,16,0,0,0,0,
 Summit Township Pd Jackson,1986,Michigan,21314,MI38769,46,2,44,31,15,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Summit Township Pd Jackson,1985,Michigan,21511,MI38769,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Summit Township Pd Jackson,1984,Michigan,21479,MI38769,2,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Summit Township Pd Jackson,1983,Michigan,21733,MI38769,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Summit Township Pd Jackson,1982,Michigan,21829,MI38769,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Summit Township Pd Jackson,1983,Michigan,21733,MI38769,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Summit Township Pd Jackson,1982,Michigan,21829,MI38769,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Summit Township Pd Jackson,1981,Michigan,22049,MI38769,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Summit Township Pd Jackson,1980,Michigan,22114,MI38769,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Summit Township Pd Jackson,1979,Michigan,21953,MI38769,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

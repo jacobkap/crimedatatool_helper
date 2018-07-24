@@ -7,15 +7,15 @@ Pinetop/lakeside Police Department,2012,Arizona,4327,AZ00913,16,0,16,7,6,1,0,0,0
 Pinetop/lakeside Police Department,2011,Arizona,4343,AZ00913,16,0,16,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pinetop/lakeside Police Department,2010,Arizona,4282,AZ00913,14,0,14,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pinetop/lakeside Police Department,2009,Arizona,4654,AZ00913,15,0,15,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pinetop/lakeside Police Department,2008,Arizona,4665,AZ00913,15,0,15,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pinetop/lakeside Police Department,2007,Arizona,4577,AZ00913,15,1,14,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pinetop/lakeside Police Department,2006,Arizona,4315,AZ00913,15,0,15,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pinetop/lakeside Police Department,2005,Arizona,4170,AZ00913,14,0,14,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pinetop/lakeside Police Department,2008,Arizona,4665,AZ00913,15,0,15,8,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pinetop/lakeside Police Department,2007,Arizona,4577,AZ00913,15,1,14,9,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pinetop/lakeside Police Department,2006,Arizona,4315,AZ00913,15,0,15,8,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pinetop/lakeside Police Department,2005,Arizona,4170,AZ00913,14,0,14,8,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Pinetop/lakeside Police Department,2004,Arizona,4037,AZ00913,15,1,14,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pinetop/lakeside Police Department,2003,Arizona,3914,AZ00913,15,1,14,9,7,2,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Pinetop/lakeside Police Department,2002,Arizona,3809,AZ00913,15,1,14,10,6,4,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,2,0,0,1,0,0,0,0,1
 Pinetop/lakeside Police Department,2001,Arizona,3705,AZ00913,17,0,17,9,6,3,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-Pinetop/lakeside Police Department,2000,Arizona,3582,AZ00913,16,0,16,9,7,2,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0
+Pinetop/lakeside Police Department,2e3,Arizona,3582,AZ00913,16,0,16,9,7,2,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0
 Pinetop/lakeside Police Department,1999,Arizona,3557,AZ00913,17,0,17,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pinetop/lakeside Police Department,1998,Arizona,3686,AZ00913,15,1,14,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pinetop/lakeside Police Department,1997,Arizona,3254,AZ00913,16,1,15,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -29,4 +29,4 @@ Pinetop/lakeside Police Department,1990,Arizona,2422,AZ00913,13,1,12,9,6,3,0,0,4
 Pinetop/lakeside Police Department,1989,Arizona,2508,AZ00913,13,1,12,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pinetop/lakeside Police Department,1988,Arizona,2518,AZ00913,14,1,13,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Pinetop/lakeside Police Department,1987,Arizona,2442,AZ00913,11,1,10,7,6,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Pinetop/lakeside Police Department,1986,Arizona,2664,AZ00913,11,2,9,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pinetop/lakeside Police Department,1986,Arizona,2664,AZ00913,11,2,9,8,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

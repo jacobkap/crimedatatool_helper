@@ -1,12 +1,12 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Elwood Police,2016,Indiana,8427,IN04803,17,1,16,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Elwood Police,2015,Indiana,8451,IN04803,17,1,16,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Elwood Police,2014,Indiana,8493,IN04803,17,1,16,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Elwood Police,2015,Indiana,8451,IN04803,17,1,16,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Elwood Police,2014,Indiana,8493,IN04803,17,1,16,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Elwood Police,2013,Indiana,8492,IN04803,17,1,16,3,2,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Elwood Police,2012,Indiana,8613,IN04803,17,1,16,3,2,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Elwood Police,2011,Indiana,8658,IN04803,16,1,15,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Elwood Police,2010,Indiana,8614,IN04803,16,2,14,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Elwood Police,2009,Indiana,8956,IN04803,15,2,13,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Elwood Police,2009,Indiana,8956,IN04803,15,2,13,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Elwood Police,2008,Indiana,8968,IN04803,14,2,12,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elwood Police,2007,Indiana,9013,IN04803,17,2,15,5,5,0,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,0,0,0,0,0,2,0,1,2
 Elwood Police,2006,Indiana,9228,IN04803,16,2,14,4,3,1,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
@@ -15,11 +15,11 @@ Elwood Police,2004,Indiana,9387,IN04803,19,2,17,4,3,1,0,0,3,0,0,2,1,4,0,0,4,0,7,
 Elwood Police,2003,Indiana,9532,IN04803,18,1,17,4,3,1,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Elwood Police,2002,Indiana,9863,IN04803,17,1,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elwood Police,2001,Indiana,9792,IN04803,16,1,15,4,4,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,1,0,0,0,0,0,1,0,0,1
-Elwood Police,2000,Indiana,9737,IN04803,17,1,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elwood Police,2e3,Indiana,9737,IN04803,17,1,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elwood Police,1999,Indiana,8848,IN04803,17,1,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Elwood Police,1998,Indiana,9137,IN04803,17,1,16,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Elwood Police,1996,Indiana,9974,IN04803,16,0,16,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Elwood Police,1995,Indiana,9910,IN04803,16,0,16,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Elwood Police,1998,Indiana,9137,IN04803,17,1,16,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Elwood Police,1996,Indiana,9974,IN04803,16,0,16,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Elwood Police,1995,Indiana,9910,IN04803,16,0,16,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Elwood Police,1994,Indiana,9828,IN04803,16,0,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elwood Police,1993,Indiana,9762,IN04803,16,0,16,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Elwood Police,1992,Indiana,9695,IN04803,16,0,16,4,4,0,0,0,3,0,0,3,0,0,0,0,9,0,3,0,0,3,0,0,0,1,0,0,0,0,2,0,0,0

@@ -4,7 +4,7 @@ Grady County Sheriff's Office,2015,Oklahoma,25172,OK02600,20,1,19,9,7,2,0,0,1,0,
 Grady County Sheriff's Office,2014,Oklahoma,25168,OK02600,19,1,18,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grady County Sheriff's Office,2013,Oklahoma,25173,OK02600,20,3,17,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grady County Sheriff's Office,2012,Oklahoma,25047,OK02600,15,2,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grady County Sheriff's Office,2011,Oklahoma,24865,OK02600,13,2,11,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grady County Sheriff's Office,2011,Oklahoma,24865,OK02600,13,2,11,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Grady County Sheriff's Office,2010,Oklahoma,25603,OK02600,14,1,13,7,6,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Grady County Sheriff's Office,2009,Oklahoma,24187,OK02600,18,0,18,7,4,3,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0
 Grady County Sheriff's Office,2008,Oklahoma,23750,OK02600,10,0,10,2,2,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
@@ -15,7 +15,7 @@ Grady County Sheriff's Office,2004,Oklahoma,23218,OK02600,15,1,14,8,5,3,0,0,1,0,
 Grady County Sheriff's Office,2003,Oklahoma,23079,OK02600,14,1,13,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grady County Sheriff's Office,2002,Oklahoma,22666,OK02600,16,0,16,40,7,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grady County Sheriff's Office,2001,Oklahoma,22449,OK02600,16,0,16,23,7,16,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1
-Grady County Sheriff's Office,2000,Oklahoma,22387,OK02600,20,1,19,15,5,10,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Grady County Sheriff's Office,2e3,Oklahoma,22387,OK02600,20,1,19,15,5,10,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Grady County Sheriff's Office,1999,Oklahoma,22614,OK02600,17,1,16,17,7,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grady County Sheriff's Office,1998,Oklahoma,22360,OK02600,11,0,11,13,5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grady County Sheriff's Office,1997,Oklahoma,21730,OK02600,12,0,12,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,8 +36,8 @@ Grady County Sheriff's Office,1983,Oklahoma,19032,OK02600,14,3,11,0,0,0,0,0,0,0,
 Grady County Sheriff's Office,1982,Oklahoma,18334,OK02600,15,3,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grady County Sheriff's Office,1981,Oklahoma,17879,OK02600,12,3,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grady County Sheriff's Office,1980,Oklahoma,17320,OK02600,10,1,9,3,3,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Grady County Sheriff's Office,1979,Oklahoma,17098,OK02600,10,2,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Grady County Sheriff's Office,1978,Oklahoma,16330,OK02600,9,1,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grady County Sheriff's Office,1979,Oklahoma,17098,OK02600,10,2,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Grady County Sheriff's Office,1978,Oklahoma,16330,OK02600,9,1,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Grady County Sheriff's Office,1977,Oklahoma,13628,OK02600,10,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grady County Sheriff's Office,1976,Oklahoma,16034,OK02600,11,1,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grady County Sheriff's Office,1975,Oklahoma,15712,OK02600,10,1,9,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0

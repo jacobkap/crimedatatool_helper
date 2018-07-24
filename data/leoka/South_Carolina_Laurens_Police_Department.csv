@@ -15,15 +15,15 @@ Laurens Police Department,2004,South Carolina,9940,SC03001,30,4,26,6,6,0,0,0,0,0
 Laurens Police Department,2003,South Carolina,9962,SC03001,30,5,25,6,6,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,1,0,1,0,0,0,0,0
 Laurens Police Department,2002,South Carolina,10151,SC03001,28,4,24,6,5,1,0,0,8,0,0,8,0,3,0,0,3,0,11,0,0,11,0,1,0,4,0,2,0,0,2,0,0,2
 Laurens Police Department,2001,South Carolina,10042,SC03001,31,5,26,6,5,1,0,0,1,0,0,1,0,1,1,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
-Laurens Police Department,2000,South Carolina,9916,SC03001,30,3,27,7,6,1,0,0,1,0,0,1,0,7,0,0,7,0,8,0,0,8,0,1,0,0,0,0,0,0,1,0,5,1
+Laurens Police Department,2e3,South Carolina,9916,SC03001,30,3,27,7,6,1,0,0,1,0,0,1,0,7,0,0,7,0,8,0,0,8,0,1,0,0,0,0,0,0,1,0,5,1
 Laurens Police Department,1999,South Carolina,9525,SC03001,26,3,23,6,6,0,0,0,3,0,0,3,0,5,0,0,1,4,8,0,0,4,4,0,0,0,0,0,0,0,2,0,2,4
 Laurens Police Department,1998,South Carolina,9783,SC03001,24,1,23,6,6,0,0,0,2,0,0,1,1,4,1,0,1,2,6,1,0,2,3,0,0,1,0,0,0,0,0,0,3,2
 Laurens Police Department,1997,South Carolina,10553,SC03001,26,2,24,5,5,0,0,0,1,0,0,1,0,1,1,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0
-Laurens Police Department,1996,South Carolina,10382,SC03001,19,2,17,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Laurens Police Department,1996,South Carolina,10382,SC03001,19,2,17,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Laurens Police Department,1995,South Carolina,10310,SC03001,25,2,23,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laurens Police Department,1994,South Carolina,10182,SC03001,25,2,23,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Laurens Police Department,1993,South Carolina,10124,SC03001,25,1,24,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Laurens Police Department,1992,South Carolina,10016,SC03001,24,0,24,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Laurens Police Department,1993,South Carolina,10124,SC03001,25,1,24,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laurens Police Department,1992,South Carolina,10016,SC03001,24,0,24,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Laurens Police Department,1991,South Carolina,9897,SC03001,23,0,23,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laurens Police Department,1990,South Carolina,9694,SC03001,24,0,24,1,1,0,0,0,1,0,0,1,0,7,0,0,5,2,8,0,0,6,2,0,0,0,0,0,0,0,7,0,1,0
 Laurens Police Department,1989,South Carolina,10691,SC03001,26,0,26,1,1,0,0,0,2,0,0,2,0,17,0,5,12,0,19,0,5,14,0,0,0,4,1,0,0,0,10,0,3,1
@@ -39,5 +39,5 @@ Laurens Police Department,1980,South Carolina,10365,SC03001,22,1,21,0,0,0,0,0,0,
 Laurens Police Department,1979,South Carolina,10281,SC03001,24,0,24,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Laurens Police Department,1978,South Carolina,10158,SC03001,34,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laurens Police Department,1977,South Carolina,13500,SC03001,24,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Laurens Police Department,1976,South Carolina,16000,SC03001,23,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Laurens Police Department,1975,South Carolina,10364,SC03001,24,0,24,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Laurens Police Department,1976,South Carolina,16e3,SC03001,23,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laurens Police Department,1975,South Carolina,10364,SC03001,24,0,24,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

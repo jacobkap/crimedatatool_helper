@@ -15,7 +15,7 @@ Gearhart Police Department,2004,Oregon,995,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,2003,Oregon,1001,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,2002,Oregon,1024,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,2001,Oregon,1010,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gearhart Police Department,2000,Oregon,995,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gearhart Police Department,2e3,Oregon,995,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1999,Oregon,1096,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1998,Oregon,1085,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1997,Oregon,1161,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -24,7 +24,7 @@ Gearhart Police Department,1995,Oregon,1126,OR00402,2,1,1,0,0,0,0,0,0,0,0,0,0,0,
 Gearhart Police Department,1994,Oregon,1089,OR00402,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1993,Oregon,1070,OR00402,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1992,Oregon,1074,OR00402,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gearhart Police Department,1991,Oregon,1055,OR00402,2,1,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gearhart Police Department,1991,Oregon,1055,OR00402,2,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gearhart Police Department,1990,Oregon,1027,OR00402,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1989,Oregon,1101,OR00402,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Gearhart Police Department,1988,Oregon,1043,OR00402,2,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
@@ -35,9 +35,9 @@ Gearhart Police Department,1984,Oregon,991,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1983,Oregon,982,OR00402,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1982,Oregon,978,OR00402,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1981,Oregon,977,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gearhart Police Department,1980,Oregon,964,OR00402,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gearhart Police Department,1980,Oregon,964,OR00402,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gearhart Police Department,1979,Oregon,944,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1978,Oregon,880,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gearhart Police Department,1977,Oregon,848,OR00402,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Gearhart Police Department,1976,Oregon,901,OR00402,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gearhart Police Department,1975,Oregon,1000,OR00402,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Gearhart Police Department,1975,Oregon,1e3,OR00402,2,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0

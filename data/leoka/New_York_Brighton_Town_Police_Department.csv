@@ -14,8 +14,8 @@ Brighton Town Police Department,2004,New York,35091,NY02750,41,4,37,6,5,1,0,0,0,
 Brighton Town Police Department,2003,New York,35303,NY02750,41,4,37,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brighton Town Police Department,2002,New York,35927,NY02750,41,4,37,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brighton Town Police Department,2001,New York,35653,NY02750,41,4,37,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Town Police Department,2000,New York,35588,NY02750,40,4,36,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Town Police Department,1999,New York,33178,NY02750,40,4,36,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brighton Town Police Department,2e3,New York,35588,NY02750,40,4,36,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brighton Town Police Department,1999,New York,33178,NY02750,40,4,36,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Brighton Town Police Department,1998,New York,33674,NY02750,40,4,36,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brighton Town Police Department,1997,New York,34751,NY02750,40,4,36,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brighton Town Police Department,1996,New York,34843,NY02750,40,3,37,6,5,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0
@@ -28,7 +28,7 @@ Brighton Town Police Department,1990,New York,34455,NY02750,40,3,37,9,6,3,0,0,0,
 Brighton Town Police Department,1989,New York,34208,NY02750,40,3,37,9,6,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Brighton Town Police Department,1988,New York,34777,NY02750,40,3,37,9,4,5,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,2,0,0,0,0,2,0,0,0
 Brighton Town Police Department,1987,New York,34894,NY02750,40,3,37,9,5,4,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
-Brighton Town Police Department,1986,New York,35317,NY02750,40,3,37,9,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brighton Town Police Department,1986,New York,35317,NY02750,40,3,37,9,5,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Brighton Town Police Department,1985,New York,35570,NY02750,37,2,35,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brighton Town Police Department,1984,New York,35475,NY02750,37,2,35,9,8,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Brighton Town Police Department,1983,New York,36076,NY02750,36,2,34,9,8,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
@@ -38,5 +38,5 @@ Brighton Town Police Department,1980,New York,35749,NY02750,39,0,39,8,7,1,0,0,0,
 Brighton Town Police Department,1979,New York,33701,NY02750,40,0,40,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brighton Town Police Department,1978,New York,34020,NY02750,39,0,39,9,4,5,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
 Brighton Town Police Department,1977,New York,37390,NY02750,38,0,38,7,3,4,0,0,4,0,0,3,1,1,0,0,1,0,5,0,0,4,1,0,0,0,0,0,0,0,4,0,0,1
-Brighton Town Police Department,1976,New York,38000,NY02750,36,0,36,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Town Police Department,1975,New York,40000,NY02750,38,0,38,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brighton Town Police Department,1976,New York,38e3,NY02750,36,0,36,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brighton Town Police Department,1975,New York,4e4,NY02750,38,0,38,6,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

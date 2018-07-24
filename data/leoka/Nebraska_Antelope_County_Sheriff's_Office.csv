@@ -10,11 +10,11 @@ Antelope County Sheriff's Office,2009,Nebraska,5176,NB00200,6,1,5,6,5,1,0,0,0,0,
 Antelope County Sheriff's Office,2008,Nebraska,5215,NB00200,6,1,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Antelope County Sheriff's Office,2007,Nebraska,5354,NB00200,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Antelope County Sheriff's Office,2006,Nebraska,5492,NB00200,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Antelope County Sheriff's Office,2004,Nebraska,5646,NB00200,6,0,6,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Antelope County Sheriff's Office,2003,Nebraska,5729,NB00200,6,0,6,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Antelope County Sheriff's Office,2004,Nebraska,5646,NB00200,6,0,6,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antelope County Sheriff's Office,2003,Nebraska,5729,NB00200,6,0,6,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Antelope County Sheriff's Office,2002,Nebraska,5862,NB00200,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Antelope County Sheriff's Office,2001,Nebraska,5808,NB00200,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Antelope County Sheriff's Office,2000,Nebraska,5801,NB00200,6,0,6,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Antelope County Sheriff's Office,2e3,Nebraska,5801,NB00200,6,0,6,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Antelope County Sheriff's Office,1999,Nebraska,5599,NB00200,6,0,6,5,4,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Antelope County Sheriff's Office,1998,Nebraska,5749,NB00200,6,0,6,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Antelope County Sheriff's Office,1997,Nebraska,6027,NB00200,6,0,6,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
@@ -32,8 +32,8 @@ Antelope County Sheriff's Office,1986,Nebraska,6833,NB00200,6,0,6,4,3,1,0,0,0,0,
 Antelope County Sheriff's Office,1985,Nebraska,6832,NB00200,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Antelope County Sheriff's Office,1984,Nebraska,6914,NB00200,6,0,6,5,4,1,0,0,1,0,0,1,0,1,1,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0
 Antelope County Sheriff's Office,1983,Nebraska,6940,NB00200,5,0,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Antelope County Sheriff's Office,1982,Nebraska,6893,NB00200,5,0,5,5,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Antelope County Sheriff's Office,1981,Nebraska,5740,NB00200,5,0,5,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Antelope County Sheriff's Office,1982,Nebraska,6893,NB00200,5,0,5,5,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Antelope County Sheriff's Office,1981,Nebraska,5740,NB00200,5,0,5,4,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Antelope County Sheriff's Office,1980,Nebraska,5696,NB00200,5,0,5,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Antelope County Sheriff's Office,1979,Nebraska,5910,NB00200,5,0,5,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Antelope County Sheriff's Office,1978,Nebraska,6018,NB00200,5,0,5,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

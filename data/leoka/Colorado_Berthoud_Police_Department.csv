@@ -12,13 +12,13 @@ Berthoud Police Department,2004,Colorado,5155,CO03501,7,1,6,1,1,0,0,0,0,0,0,0,0,
 Berthoud Police Department,2003,Colorado,5227,CO03501,7,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Berthoud Police Department,2002,Colorado,5070,CO03501,6,1,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Berthoud Police Department,2001,Colorado,4970,CO03501,7,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Berthoud Police Department,2000,Colorado,4839,CO03501,5,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Berthoud Police Department,2e3,Colorado,4839,CO03501,5,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Berthoud Police Department,1999,Colorado,4291,CO03501,5,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Berthoud Police Department,1998,Colorado,4064,CO03501,5,1,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Berthoud Police Department,1997,Colorado,3964,CO03501,4,1,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Berthoud Police Department,1997,Colorado,3964,CO03501,4,1,3,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Berthoud Police Department,1996,Colorado,3893,CO03501,4,1,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Berthoud Police Department,1995,Colorado,3816,CO03501,3,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Berthoud Police Department,1994,Colorado,3489,CO03501,4,1,3,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Berthoud Police Department,1994,Colorado,3489,CO03501,4,1,3,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Berthoud Police Department,1993,Colorado,3404,CO03501,4,1,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Berthoud Police Department,1992,Colorado,3148,CO03501,4,1,3,1,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Berthoud Police Department,1991,Colorado,3064,CO03501,4,1,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,7 +32,7 @@ Berthoud Police Department,1984,Colorado,2591,CO03501,5,1,4,0,0,0,0,0,1,0,0,1,0,
 Berthoud Police Department,1983,Colorado,2583,CO03501,4,0,4,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
 Berthoud Police Department,1982,Colorado,2506,CO03501,4,0,4,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Berthoud Police Department,1981,Colorado,2439,CO03501,4,1,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Berthoud Police Department,1980,Colorado,2369,CO03501,4,1,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Berthoud Police Department,1980,Colorado,2369,CO03501,4,1,3,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Berthoud Police Department,1979,Colorado,3173,CO03501,5,0,5,2,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Berthoud Police Department,1978,Colorado,3046,CO03501,5,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Berthoud Police Department,1977,Colorado,2643,CO03501,5,1,4,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0

@@ -15,15 +15,15 @@ Springdale Police Department,2004,South Carolina,2913,SC03211,9,1,8,0,0,0,0,0,0,
 Springdale Police Department,2003,South Carolina,2902,SC03211,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springdale Police Department,2002,South Carolina,2945,SC03211,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springdale Police Department,2001,South Carolina,2914,SC03211,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Springdale Police Department,2000,South Carolina,2877,SC03211,9,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Springdale Police Department,2e3,South Carolina,2877,SC03211,9,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springdale Police Department,1999,South Carolina,3355,SC03211,9,0,9,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Springdale Police Department,1998,South Carolina,3473,SC03211,9,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springdale Police Department,1997,South Carolina,3523,SC03211,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Springdale Police Department,1996,South Carolina,3466,SC03211,7,0,7,6,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springdale Police Department,1996,South Carolina,3466,SC03211,7,0,7,6,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Springdale Police Department,1995,South Carolina,3442,SC03211,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springdale Police Department,1994,South Carolina,3217,SC03211,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Springdale Police Department,1993,South Carolina,3199,SC03211,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Springdale Police Department,1992,South Carolina,3332,SC03211,7,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springdale Police Department,1993,South Carolina,3199,SC03211,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Springdale Police Department,1992,South Carolina,3332,SC03211,7,0,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Springdale Police Department,1991,South Carolina,3293,SC03211,7,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springdale Police Department,1990,South Carolina,3226,SC03211,7,0,7,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Springdale Police Department,1989,South Carolina,3594,SC03211,6,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -40,4 +40,4 @@ Springdale Police Department,1979,South Carolina,3824,SC03211,1,0,1,0,0,0,0,0,1,
 Springdale Police Department,1978,South Carolina,3500,SC03211,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Springdale Police Department,1977,South Carolina,3436,SC03211,3,0,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
 Springdale Police Department,1976,South Carolina,3316,SC03211,3,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Springdale Police Department,1975,South Carolina,3325,SC03211,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Springdale Police Department,1975,South Carolina,3325,SC03211,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

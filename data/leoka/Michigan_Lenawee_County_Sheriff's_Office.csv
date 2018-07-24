@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Lenawee County Sheriff's Office,2016,Michigan,31452,MI46146,41,3,38,63,29,34,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,1,0,0,0,0,0,0,3,0,0,0
 Lenawee County Sheriff's Office,2015,Michigan,31713,MI46146,39,3,36,67,30,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lenawee County Sheriff's Office,2014,Michigan,31880,MI46146,41,3,38,66,34,32,0,0,1,0,0,1,0,9,4,0,5,0,10,4,0,6,0,3,0,0,0,3,0,3,0,0,1,0
-Lenawee County Sheriff's Office,2013,Michigan,31788,MI46146,40,2,38,59,32,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lenawee County Sheriff's Office,2013,Michigan,31788,MI46146,40,2,38,59,32,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lenawee County Sheriff's Office,2012,Michigan,31954,MI46146,40,3,37,57,32,25,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
 Lenawee County Sheriff's Office,2011,Michigan,32065,MI46146,42,3,39,55,30,25,0,0,2,0,0,2,0,2,0,0,1,1,4,0,0,3,1,1,0,0,0,0,0,0,3,0,0,0
 Lenawee County Sheriff's Office,2010,Michigan,32087,MI46146,41,3,38,69,39,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,11 +15,11 @@ Lenawee County Sheriff's Office,2004,Michigan,29515,MI46146,48,4,44,49,29,20,0,0
 Lenawee County Sheriff's Office,2003,Michigan,35574,MI46146,53,4,49,54,30,24,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0
 Lenawee County Sheriff's Office,2002,Michigan,35249,MI46146,49,3,46,49,26,23,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,1,0,2,0,0,0
 Lenawee County Sheriff's Office,2001,Michigan,41580,MI46146,56,3,53,53,34,19,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Lenawee County Sheriff's Office,2000,Michigan,41362,MI46146,48,2,46,50,26,24,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Lenawee County Sheriff's Office,2e3,Michigan,41362,MI46146,48,2,46,50,26,24,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Lenawee County Sheriff's Office,1999,Michigan,41746,MI46146,48,1,47,48,27,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lenawee County Sheriff's Office,1998,Michigan,41274,MI46146,40,1,39,17,15,2,0,0,1,0,0,0,1,1,0,0,1,0,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
 Lenawee County Sheriff's Office,1997,Michigan,42940,MI46146,40,1,39,17,15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lenawee County Sheriff's Office,1996,Michigan,42150,MI46146,44,1,43,16,14,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lenawee County Sheriff's Office,1996,Michigan,42150,MI46146,44,1,43,16,14,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lenawee County Sheriff's Office,1995,Michigan,41953,MI46146,45,1,44,20,15,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lenawee County Sheriff's Office,1994,Michigan,40933,MI46146,45,1,44,17,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lenawee County Sheriff's Office,1993,Michigan,40856,MI46146,40,1,39,17,15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -39,5 +39,5 @@ Lenawee County Sheriff's Office,1980,Michigan,54655,MI46146,55,4,51,10,10,0,0,0,
 Lenawee County Sheriff's Office,1979,Michigan,51129,MI46146,58,4,54,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lenawee County Sheriff's Office,1978,Michigan,49590,MI46146,49,0,49,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lenawee County Sheriff's Office,1977,Michigan,49904,MI46146,49,0,49,13,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lenawee County Sheriff's Office,1976,Michigan,49674,MI46146,53,0,53,11,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lenawee County Sheriff's Office,1976,Michigan,49674,MI46146,53,0,53,11,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lenawee County Sheriff's Office,1975,Michigan,51099,MI46146,53,0,53,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

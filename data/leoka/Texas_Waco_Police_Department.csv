@@ -1,5 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Waco Police Department,2016,Texas,133790,TX15512,241,32,209,93,75,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Waco Police Department,2016,Texas,133790,TX15512,241,32,209,93,75,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Waco Police Department,2015,Texas,131413,TX15512,237,31,206,92,71,21,0,0,6,0,0,6,0,5,0,0,3,2,11,0,0,9,2,2,0,6,0,0,0,1,0,0,2,0
 Waco Police Department,2013,Texas,127570,TX15512,248,28,220,76,55,21,0,0,3,0,0,2,1,8,0,0,8,0,11,0,0,10,1,1,0,3,1,1,1,1,0,0,3,0
 Waco Police Department,2012,Texas,128595,TX15512,240,28,212,85,64,21,0,0,4,0,0,4,0,11,0,0,9,2,15,0,0,13,2,0,1,6,0,0,2,1,1,0,3,1
@@ -14,7 +14,7 @@ Waco Police Department,2004,Texas,118850,TX15512,235,19,216,82,66,16,0,0,3,0,0,0
 Waco Police Department,2003,Texas,117549,TX15512,215,18,197,92,66,26,0,0,5,0,0,2,3,9,1,1,3,4,14,1,1,5,7,1,0,0,2,0,0,0,7,1,3,0
 Waco Police Department,2002,Texas,118788,TX15512,213,17,196,75,60,15,0,0,0,0,0,0,0,6,0,1,3,2,6,0,1,3,2,0,0,1,1,0,0,0,4,0,0,0
 Waco Police Department,2001,Texas,116307,TX15512,214,18,196,83,70,13,0,0,3,0,0,2,1,6,0,0,5,1,9,0,0,7,2,0,0,2,0,0,2,0,3,0,1,1
-Waco Police Department,2000,Texas,113726,TX15512,205,18,187,88,61,27,0,0,7,0,0,6,1,15,1,0,13,1,22,1,0,19,2,3,0,2,0,0,1,1,5,1,5,4
+Waco Police Department,2e3,Texas,113726,TX15512,205,18,187,88,61,27,0,0,7,0,0,6,1,15,1,0,13,1,22,1,0,19,2,3,0,2,0,0,1,1,5,1,5,4
 Waco Police Department,1999,Texas,109831,TX15512,192,16,176,78,62,16,0,0,16,0,0,16,0,17,0,1,11,5,33,0,1,27,5,7,0,6,1,0,0,0,6,1,4,8
 Waco Police Department,1998,Texas,111017,TX15512,211,18,193,71,61,10,0,0,15,0,0,11,4,10,0,1,9,0,25,0,1,20,4,2,0,6,0,0,2,4,7,0,2,2
 Waco Police Department,1997,Texas,112005,TX15512,222,19,203,78,67,11,0,0,3,0,0,2,1,18,1,0,17,0,21,1,0,19,1,2,0,4,0,0,0,2,7,0,5,1
@@ -26,7 +26,7 @@ Waco Police Department,1992,Texas,107672,TX15512,192,17,175,65,51,14,0,0,7,0,0,7
 Waco Police Department,1991,Texas,105800,TX15512,199,17,182,68,55,13,0,0,5,0,0,3,2,13,1,1,9,2,18,1,1,12,4,0,0,2,0,0,0,1,10,1,2,2
 Waco Police Department,1990,Texas,103590,TX15512,199,19,180,52,42,10,0,0,8,1,0,6,1,11,1,0,9,1,19,2,0,15,2,1,0,7,0,0,3,0,4,0,1,3
 Waco Police Department,1989,Texas,104358,TX15512,181,17,164,47,41,6,0,1,4,0,0,4,0,3,1,0,2,0,7,1,0,6,0,1,0,0,0,0,1,0,4,0,1,0
-Waco Police Department,1988,Texas,106197,TX15512,200,17,183,47,40,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Waco Police Department,1988,Texas,106197,TX15512,200,17,183,47,40,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Waco Police Department,1987,Texas,105895,TX15512,180,14,166,57,48,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Waco Police Department,1986,Texas,108649,TX15512,161,11,150,66,47,19,0,0,7,0,0,6,1,7,0,0,7,0,14,0,0,13,1,1,0,1,1,0,2,0,8,0,0,1
 Waco Police Department,1985,Texas,106616,TX15512,169,13,156,65,45,20,0,0,7,0,0,4,3,14,1,1,11,1,21,1,1,15,4,0,0,5,0,0,0,1,4,0,2,9
@@ -37,6 +37,6 @@ Waco Police Department,1981,Texas,105449,TX15512,173,12,161,51,36,15,0,0,16,0,1,
 Waco Police Department,1980,Texas,101267,TX15512,173,6,167,57,41,16,0,0,11,0,1,9,1,7,1,1,4,1,18,1,2,13,2,2,0,1,1,0,1,1,7,0,2,3
 Waco Police Department,1979,Texas,109032,TX15512,161,6,155,51,41,10,0,0,14,0,1,13,0,9,2,0,6,1,23,2,1,19,1,1,0,1,0,0,0,0,12,0,5,4
 Waco Police Department,1978,Texas,104565,TX15512,162,4,158,56,41,15,0,0,16,1,1,12,2,6,2,3,1,0,22,3,4,13,2,3,0,1,0,0,2,0,8,2,3,3
-Waco Police Department,1977,Texas,104000,TX15512,170,4,166,55,39,16,0,0,24,0,1,20,3,1,0,0,0,1,25,0,1,20,4,4,0,10,2,0,3,0,4,0,0,2
+Waco Police Department,1977,Texas,104e3,TX15512,170,4,166,55,39,16,0,0,24,0,1,20,3,1,0,0,0,1,25,0,1,20,4,4,0,10,2,0,3,0,4,0,0,2
 Waco Police Department,1976,Texas,103500,TX15512,166,4,162,52,38,14,0,1,12,0,0,12,0,1,1,0,0,0,13,1,0,12,0,1,0,0,0,0,0,0,9,0,3,0
 Waco Police Department,1975,Texas,96056,TX15512,157,4,153,67,43,24,0,0,14,0,0,14,0,5,3,0,2,0,19,3,0,16,0,4,0,5,0,0,0,0,6,0,1,3

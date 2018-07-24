@@ -1,8 +1,8 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Irondale Police Department,2016,Alabama,12439,AL00113,35,0,35,8,5,3,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-Irondale Police Department,2015,Alabama,12469,AL00113,34,0,34,8,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Irondale Police Department,2014,Alabama,12387,AL00113,30,0,30,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Irondale Police Department,2013,Alabama,12452,AL00113,32,0,32,8,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Irondale Police Department,2015,Alabama,12469,AL00113,34,0,34,8,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Irondale Police Department,2014,Alabama,12387,AL00113,30,0,30,8,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Irondale Police Department,2013,Alabama,12452,AL00113,32,0,32,8,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Irondale Police Department,2012,Alabama,12407,AL00113,30,0,30,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,2011,Alabama,12408,AL00113,31,0,31,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,2010,Alabama,12349,AL00113,27,0,27,6,3,3,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
@@ -14,17 +14,17 @@ Irondale Police Department,2004,Alabama,9773,AL00113,29,0,29,6,2,4,0,0,1,0,0,1,0
 Irondale Police Department,2003,Alabama,9764,AL00113,31,0,31,7,3,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Irondale Police Department,2002,Alabama,9900,AL00113,31,0,31,7,3,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 Irondale Police Department,2001,Alabama,9851,AL00113,31,0,31,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Irondale Police Department,2000,Alabama,9813,AL00113,30,0,30,7,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Irondale Police Department,2e3,Alabama,9813,AL00113,30,0,30,7,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Irondale Police Department,1999,Alabama,9668,AL00113,31,1,30,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,1998,Alabama,9252,AL00113,31,1,30,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,1997,Alabama,9932,AL00113,29,1,28,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Irondale Police Department,1996,Alabama,9827,AL00113,29,1,28,7,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Irondale Police Department,1995,Alabama,9782,AL00113,27,1,26,7,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Irondale Police Department,1996,Alabama,9827,AL00113,29,1,28,7,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Irondale Police Department,1995,Alabama,9782,AL00113,27,1,26,7,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Irondale Police Department,1994,Alabama,9774,AL00113,24,1,23,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,1993,Alabama,9700,AL00113,24,1,23,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,1992,Alabama,9676,AL00113,24,1,23,5,3,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,1991,Alabama,9567,AL00113,24,1,23,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Irondale Police Department,1990,Alabama,9454,AL00113,20,0,20,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Irondale Police Department,1990,Alabama,9454,AL00113,20,0,20,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Irondale Police Department,1989,Alabama,9923,AL00113,21,0,21,5,4,1,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
 Irondale Police Department,1988,Alabama,9638,AL00113,21,1,20,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,1987,Alabama,9602,AL00113,19,1,18,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,7 +36,7 @@ Irondale Police Department,1982,Alabama,3391,AL00113,13,0,13,10,5,5,0,0,0,0,0,0,
 Irondale Police Department,1981,Alabama,3368,AL00113,13,0,13,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,1980,Alabama,3321,AL00113,13,1,12,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,1979,Alabama,5557,AL00113,12,1,11,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Irondale Police Department,1978,Alabama,6000,AL00113,10,1,9,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Irondale Police Department,1978,Alabama,6e3,AL00113,10,1,9,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Irondale Police Department,1977,Alabama,4976,AL00113,10,0,10,2,1,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-Irondale Police Department,1976,Alabama,5200,AL00113,11,0,11,2,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Irondale Police Department,1975,Alabama,3178,AL00113,9,0,9,3,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Irondale Police Department,1976,Alabama,5200,AL00113,11,0,11,2,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Irondale Police Department,1975,Alabama,3178,AL00113,9,0,9,3,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

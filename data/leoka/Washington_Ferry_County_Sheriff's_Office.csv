@@ -4,7 +4,7 @@ Ferry County Sheriff's Office,2015,Washington,6639,WA01000,9,0,9,14,4,10,0,0,0,0
 Ferry County Sheriff's Office,2014,Washington,6619,WA01000,9,0,9,17,7,10,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Ferry County Sheriff's Office,2013,Washington,6676,WA01000,8,0,8,17,7,10,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
 Ferry County Sheriff's Office,2012,Washington,6660,WA01000,7,0,7,16,7,9,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0
-Ferry County Sheriff's Office,2011,Washington,6579,WA01000,7,0,7,15,8,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ferry County Sheriff's Office,2011,Washington,6579,WA01000,7,0,7,15,8,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ferry County Sheriff's Office,2010,Washington,6478,WA01000,7,0,7,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferry County Sheriff's Office,2009,Washington,6466,WA01000,7,0,7,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferry County Sheriff's Office,2008,Washington,6441,WA01000,9,0,9,17,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Ferry County Sheriff's Office,2004,Washington,6508,WA01000,9,0,9,8,6,2,0,0,0,0,0
 Ferry County Sheriff's Office,2003,Washington,6363,WA01000,8,0,8,20,13,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferry County Sheriff's Office,2002,Washington,6493,WA01000,9,0,9,15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferry County Sheriff's Office,2001,Washington,6407,WA01000,9,0,9,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ferry County Sheriff's Office,2000,Washington,6306,WA01000,11,0,11,18,10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ferry County Sheriff's Office,2e3,Washington,6306,WA01000,11,0,11,18,10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferry County Sheriff's Office,1999,Washington,6257,WA01000,11,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferry County Sheriff's Office,1998,Washington,6313,WA01000,11,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferry County Sheriff's Office,1997,Washington,6424,WA01000,9,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,8 +36,8 @@ Ferry County Sheriff's Office,1983,Washington,4977,WA01000,11,5,6,0,0,0,0,0,1,0,
 Ferry County Sheriff's Office,1982,Washington,5932,WA01000,5,0,5,6,5,1,0,0,2,0,0,1,1,3,1,0,2,0,5,1,0,3,1,0,0,1,0,0,2,0,0,0,0,2
 Ferry County Sheriff's Office,1981,Washington,5886,WA01000,5,0,5,5,5,0,1,0,5,0,0,5,0,3,0,0,2,1,8,0,0,7,1,1,0,0,0,0,3,0,0,0,0,4
 Ferry County Sheriff's Office,1980,Washington,5748,WA01000,7,0,7,5,5,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
-Ferry County Sheriff's Office,1979,Washington,5618,WA01000,13,5,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ferry County Sheriff's Office,1978,Washington,5400,WA01000,13,5,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ferry County Sheriff's Office,1979,Washington,5618,WA01000,13,5,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ferry County Sheriff's Office,1978,Washington,5400,WA01000,13,5,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ferry County Sheriff's Office,1977,Washington,5147,WA01000,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferry County Sheriff's Office,1976,Washington,4462,WA01000,6,1,5,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Ferry County Sheriff's Office,1975,Washington,4259,WA01000,10,3,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

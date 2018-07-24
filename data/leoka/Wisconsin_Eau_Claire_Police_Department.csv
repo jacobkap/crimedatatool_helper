@@ -12,12 +12,12 @@ Eau Claire Police Department,2007,Wisconsin,63472,WI01801,99,4,95,30,20,10,0,0,0
 Eau Claire Police Department,2006,Wisconsin,62799,WI01801,99,5,94,11,11,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,1,0,0,0,1,0,0,0,0
 Eau Claire Police Department,2005,Wisconsin,62885,WI01801,99,4,95,32,22,10,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
 Eau Claire Police Department,2004,Wisconsin,62915,WI01801,97,5,92,28,19,9,0,0,4,0,0,3,1,5,0,0,4,1,9,0,0,7,2,1,0,5,0,0,0,0,2,0,0,1
-Eau Claire Police Department,2003,Wisconsin,62717,WI01801,99,6,93,30,20,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eau Claire Police Department,2003,Wisconsin,62717,WI01801,99,6,93,30,20,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eau Claire Police Department,2002,Wisconsin,62596,WI01801,99,5,94,30,19,11,0,0,1,0,0,1,0,4,0,0,3,1,5,0,0,4,1,1,0,0,0,0,0,2,2,0,0,0
 Eau Claire Police Department,2001,Wisconsin,62144,WI01801,100,5,95,30,19,11,0,0,3,0,0,2,1,0,0,0,0,0,3,0,0,2,1,1,0,1,0,0,0,0,1,0,0,0
-Eau Claire Police Department,2000,Wisconsin,61704,WI01801,100,5,95,30,17,13,0,0,2,0,0,2,0,3,0,1,2,0,5,0,1,4,0,1,0,1,0,0,0,2,0,0,0,1
+Eau Claire Police Department,2e3,Wisconsin,61704,WI01801,100,5,95,30,17,13,0,0,2,0,0,2,0,3,0,1,2,0,5,0,1,4,0,1,0,1,0,0,0,2,0,0,0,1
 Eau Claire Police Department,1999,Wisconsin,59505,WI01801,99,5,94,29,17,12,0,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,0,0,0,0,0,0,4,0,1,0,0,1
-Eau Claire Police Department,1998,Wisconsin,59820,WI01801,99,5,94,29,17,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eau Claire Police Department,1998,Wisconsin,59820,WI01801,99,5,94,29,17,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eau Claire Police Department,1997,Wisconsin,59486,WI01801,97,5,92,25,15,10,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Eau Claire Police Department,1996,Wisconsin,59372,WI01801,86,5,81,26,15,11,0,0,3,0,0,3,0,12,0,1,10,1,15,0,1,13,1,0,0,3,0,0,10,0,2,0,0,0
 Eau Claire Police Department,1995,Wisconsin,58947,WI01801,85,5,80,25,10,15,0,0,9,0,1,8,0,32,0,1,31,0,41,0,2,39,0,5,0,5,0,1,5,3,15,0,3,4
@@ -34,7 +34,7 @@ Eau Claire Police Department,1985,Wisconsin,53208,WI01801,85,5,80,25,16,9,0,0,17
 Eau Claire Police Department,1984,Wisconsin,53112,WI01801,81,4,77,24,15,9,0,0,4,0,0,4,0,30,0,0,30,0,34,0,0,34,0,1,0,10,0,2,7,0,6,0,2,6
 Eau Claire Police Department,1983,Wisconsin,52301,WI01801,72,3,69,25,15,10,0,0,17,0,0,17,0,27,0,0,27,0,44,0,0,44,0,5,0,3,2,2,14,1,8,0,8,1
 Eau Claire Police Department,1982,Wisconsin,52456,WI01801,74,3,71,24,15,9,0,1,15,0,0,15,0,30,1,0,29,0,45,1,0,44,0,7,0,10,1,3,11,0,5,0,5,3
-Eau Claire Police Department,1981,Wisconsin,52170,WI01801,74,3,71,24,17,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eau Claire Police Department,1981,Wisconsin,52170,WI01801,74,3,71,24,17,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eau Claire Police Department,1980,Wisconsin,51530,WI01801,73,2,71,23,16,7,0,0,22,0,0,22,0,35,0,0,34,1,57,0,0,56,1,2,0,12,0,0,30,0,0,0,7,6
 Eau Claire Police Department,1979,Wisconsin,49210,WI01801,71,2,69,34,23,11,0,0,26,0,0,26,0,17,0,0,17,0,43,0,0,43,0,1,0,14,0,4,24,0,0,0,0,0
 Eau Claire Police Department,1978,Wisconsin,49156,WI01801,73,2,71,21,17,4,0,0,25,2,0,23,0,43,0,0,43,0,68,2,0,66,0,0,0,23,0,0,24,0,11,0,7,3

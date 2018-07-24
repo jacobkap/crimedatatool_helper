@@ -15,7 +15,7 @@ Bloomingdale Police,2004,New Jersey,7747,NJ01601,16,0,16,1,1,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police,2003,New Jersey,7731,NJ01601,16,0,16,1,1,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Bloomingdale Police,2002,New Jersey,7770,NJ01601,16,0,16,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police,2001,New Jersey,7673,NJ01601,16,0,16,1,1,0,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
-Bloomingdale Police,2000,New Jersey,7610,NJ01601,16,0,16,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Bloomingdale Police,2e3,New Jersey,7610,NJ01601,16,0,16,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police,1999,New Jersey,8180,NJ01601,14,0,14,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Bloomingdale Police,1998,New Jersey,7671,NJ01601,14,0,14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police,1997,New Jersey,7970,NJ01601,15,0,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,8 +28,8 @@ Bloomingdale Police,1991,New Jersey,7559,NJ01601,14,0,14,1,1,0,0,0,0,0,0,0,0,0,0
 Bloomingdale Police,1990,New Jersey,7530,NJ01601,14,0,14,1,1,0,0,0,0,0,0,0,0,11,0,0,11,0,11,0,0,11,0,2,0,5,0,0,0,0,2,0,1,1
 Bloomingdale Police,1989,New Jersey,8096,NJ01601,14,0,14,1,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1
 Bloomingdale Police,1988,New Jersey,8160,NJ01601,14,0,14,1,1,0,0,0,0,0,0,0,0,10,0,0,10,0,10,0,0,10,0,0,0,0,0,0,0,0,5,0,1,4
-Bloomingdale Police,1987,New Jersey,8115,NJ01601,14,0,14,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bloomingdale Police,1986,New Jersey,8061,NJ01601,14,0,14,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police,1987,New Jersey,8115,NJ01601,14,0,14,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bloomingdale Police,1986,New Jersey,8061,NJ01601,14,0,14,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bloomingdale Police,1985,New Jersey,8050,NJ01601,14,0,14,2,2,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,1,0,0,0,0,2
 Bloomingdale Police,1984,New Jersey,8022,NJ01601,14,0,14,2,2,0,0,0,0,0,0,0,0,4,1,0,3,0,4,1,0,3,0,1,0,3,0,0,0,0,0,0,0,0
 Bloomingdale Police,1983,New Jersey,8002,NJ01601,14,0,14,1,1,0,0,0,3,0,0,3,0,9,0,0,8,1,12,0,0,11,1,0,0,0,0,0,0,0,8,0,0,4
@@ -39,5 +39,5 @@ Bloomingdale Police,1980,New Jersey,7867,NJ01601,13,0,13,4,4,0,0,0,1,0,0,0,1,8,0
 Bloomingdale Police,1979,New Jersey,7853,NJ01601,14,0,14,1,1,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Bloomingdale Police,1978,New Jersey,8290,NJ01601,14,0,14,0,0,0,0,0,3,0,0,2,1,3,0,0,3,0,6,0,0,5,1,0,0,3,0,0,1,0,1,0,1,0
 Bloomingdale Police,1977,New Jersey,7873,NJ01601,13,0,13,0,0,0,0,0,7,0,0,6,1,4,0,0,4,0,11,0,0,10,1,0,0,5,0,0,1,0,5,0,0,0
-Bloomingdale Police,1976,New Jersey,8156,NJ01601,15,0,15,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bloomingdale Police,1976,New Jersey,8156,NJ01601,15,0,15,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bloomingdale Police,1975,New Jersey,8109,NJ01601,14,0,14,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1

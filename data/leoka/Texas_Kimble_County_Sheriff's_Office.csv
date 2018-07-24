@@ -15,7 +15,7 @@ Kimble County Sheriff's Office,2004,Texas,1918,TX13400,11,1,10,5,3,2,0,0,0,0,0,0
 Kimble County Sheriff's Office,2003,Texas,1900,TX13400,9,2,7,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,2002,Texas,1933,TX13400,7,0,7,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,2001,Texas,1892,TX13400,12,0,12,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kimble County Sheriff's Office,2000,Texas,1850,TX13400,13,0,13,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kimble County Sheriff's Office,2e3,Texas,1850,TX13400,13,0,13,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1999,Texas,1448,TX13400,7,0,7,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1998,Texas,1470,TX13400,6,0,6,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1997,Texas,1618,TX13400,6,0,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -31,13 +31,13 @@ Kimble County Sheriff's Office,1988,Texas,4299,TX13400,2,0,2,5,4,1,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1987,Texas,4328,TX13400,2,0,2,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1986,Texas,4436,TX13400,3,0,3,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1985,Texas,4403,TX13400,4,0,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kimble County Sheriff's Office,1984,Texas,4193,TX13400,3,0,3,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kimble County Sheriff's Office,1984,Texas,4193,TX13400,3,0,3,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kimble County Sheriff's Office,1983,Texas,4508,TX13400,3,0,3,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kimble County Sheriff's Office,1982,Texas,4381,TX13400,4,1,3,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kimble County Sheriff's Office,1982,Texas,4381,TX13400,4,1,3,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kimble County Sheriff's Office,1981,Texas,4231,TX13400,2,0,2,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1980,Texas,4063,TX13400,4,2,2,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1979,Texas,4011,TX13400,2,0,2,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1978,Texas,4112,TX13400,2,0,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1977,Texas,3810,TX13400,3,0,3,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kimble County Sheriff's Office,1976,Texas,3977,TX13400,4,2,2,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Kimble County Sheriff's Office,1975,Texas,4061,TX13400,4,2,2,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kimble County Sheriff's Office,1975,Texas,4061,TX13400,4,2,2,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

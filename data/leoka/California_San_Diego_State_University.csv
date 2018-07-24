@@ -10,12 +10,12 @@ San Diego State University,2009,California,0,CA03714,28,5,23,21,16,5,0,0,0,0,0,0
 San Diego State University,2008,California,0,CA03714,28,5,23,23,15,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 San Diego State University,2007,California,0,CA03714,26,4,22,21,12,9,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 San Diego State University,2006,California,0,CA03714,24,1,23,19,12,7,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
-San Diego State University,2005,California,0,CA03714,33,2,31,20,13,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+San Diego State University,2005,California,0,CA03714,33,2,31,20,13,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 San Diego State University,2004,California,0,CA03714,33,2,31,20,13,7,0,0,2,0,0,2,0,7,0,0,6,1,9,0,0,8,1,1,0,5,0,0,0,1,0,0,0,2
 San Diego State University,2003,California,0,CA03714,30,2,28,19,13,6,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 San Diego State University,2002,California,0,CA03714,30,2,28,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 San Diego State University,2001,California,0,CA03714,25,2,23,15,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-San Diego State University,2000,California,0,CA03714,27,2,25,17,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Diego State University,2e3,California,0,CA03714,27,2,25,17,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 San Diego State University,1999,California,0,CA03714,23,2,21,13,9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 San Diego State University,1998,California,0,CA03714,25,2,23,13,8,5,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,1,0,0,0,0,0,0,2,0,0,0
 San Diego State University,1997,California,0,CA03714,21,2,19,12,10,2,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0,0,4,0
@@ -24,7 +24,7 @@ San Diego State University,1995,California,0,CA03714,22,1,21,14,9,5,0,0,0,0,0,0,
 San Diego State University,1994,California,0,CA03714,23,2,21,13,8,5,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 San Diego State University,1993,California,0,CA03714,20,1,19,13,9,4,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 San Diego State University,1992,California,0,CA03714,21,2,19,12,10,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-San Diego State University,1991,California,0,CA03714,23,2,21,12,9,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+San Diego State University,1991,California,0,CA03714,23,2,21,12,9,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 San Diego State University,1990,California,0,CA03714,24,1,23,12,8,4,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0
 San Diego State University,1989,California,0,CA03714,23,1,22,13,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 San Diego State University,1988,California,0,CA03714,26,2,24,13,9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

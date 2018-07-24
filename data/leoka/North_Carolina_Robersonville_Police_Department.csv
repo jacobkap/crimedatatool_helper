@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Robersonville Police Department,2016,North Carolina,1412,NC05906,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Robersonville Police Department,2015,North Carolina,1417,NC05906,8,0,8,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
 Robersonville Police Department,2014,North Carolina,1440,NC05906,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Robersonville Police Department,2013,North Carolina,1447,NC05906,8,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Robersonville Police Department,2013,North Carolina,1447,NC05906,8,0,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Robersonville Police Department,2012,North Carolina,1484,NC05906,8,0,8,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Robersonville Police Department,2011,North Carolina,1507,NC05906,7,0,7,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0
 Robersonville Police Department,2010,North Carolina,1488,NC05906,8,0,8,0,0,0,0,0,0,0,0,0,0,6,0,0,5,1,6,0,0,5,1,2,0,0,0,0,0,0,1,0,1,2
@@ -15,7 +15,7 @@ Robersonville Police Department,2004,North Carolina,1693,NC05906,7,1,6,0,0,0,0,0
 Robersonville Police Department,2003,North Carolina,1684,NC05906,6,2,4,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0
 Robersonville Police Department,2002,North Carolina,1790,NC05906,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Robersonville Police Department,2001,North Carolina,1760,NC05906,7,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Robersonville Police Department,2000,North Carolina,1731,NC05906,7,1,6,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,1,1,0,0,3,0,0,0
+Robersonville Police Department,2e3,North Carolina,1731,NC05906,7,1,6,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,1,1,0,0,3,0,0,0
 Robersonville Police Department,1999,North Carolina,1937,NC05906,4,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Robersonville Police Department,1998,North Carolina,1929,NC05906,7,0,7,0,0,0,0,0,2,2,0,0,0,1,0,0,1,0,3,2,0,1,0,0,0,0,0,0,0,0,3,0,0,0
 Robersonville Police Department,1997,North Carolina,1991,NC05906,8,0,8,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,0,0,0,0,5,0,0,0

@@ -1,9 +1,9 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Bay Minette Police Department,2016,Alabama,9281,AL00501,22,1,21,7,7,0,0,0,1,0,0,1,0,2,1,0,1,0,3,1,0,2,0,1,0,0,0,0,0,0,0,0,1,1
-Bay Minette Police Department,2015,Alabama,9234,AL00501,17,1,16,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bay Minette Police Department,2015,Alabama,9234,AL00501,17,1,16,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bay Minette Police Department,2014,Alabama,9087,AL00501,19,2,17,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bay Minette Police Department,2012,Alabama,8249,AL00501,20,1,19,9,9,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-Bay Minette Police Department,2011,Alabama,8083,AL00501,21,1,20,8,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bay Minette Police Department,2011,Alabama,8083,AL00501,21,1,20,8,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bay Minette Police Department,2010,Alabama,8044,AL00501,25,2,23,9,9,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Bay Minette Police Department,2009,Alabama,8065,AL00501,25,1,24,9,9,0,0,0,1,0,0,0,1,1,0,0,1,0,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1
 Bay Minette Police Department,2008,Alabama,7710,AL00501,23,1,22,10,9,1,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,1,1,0,0,0,0
@@ -12,13 +12,13 @@ Bay Minette Police Department,2006,Alabama,7879,AL00501,24,1,23,8,8,0,0,0,0,0,0,
 Bay Minette Police Department,2005,Alabama,7867,AL00501,23,1,22,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bay Minette Police Department,2004,Alabama,7896,AL00501,21,0,21,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bay Minette Police Department,2003,Alabama,7833,AL00501,20,0,20,7,7,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Bay Minette Police Department,2002,Alabama,7889,AL00501,20,1,19,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bay Minette Police Department,2001,Alabama,7850,AL00501,20,1,19,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bay Minette Police Department,2000,Alabama,7820,AL00501,19,1,18,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bay Minette Police Department,2002,Alabama,7889,AL00501,20,1,19,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bay Minette Police Department,2001,Alabama,7850,AL00501,20,1,19,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bay Minette Police Department,2e3,Alabama,7820,AL00501,19,1,18,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bay Minette Police Department,1999,Alabama,8200,AL00501,19,1,18,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bay Minette Police Department,1998,Alabama,8167,AL00501,19,1,18,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bay Minette Police Department,1997,Alabama,8655,AL00501,19,1,18,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bay Minette Police Department,1996,Alabama,8563,AL00501,18,1,17,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bay Minette Police Department,1996,Alabama,8563,AL00501,18,1,17,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bay Minette Police Department,1995,Alabama,8523,AL00501,18,1,17,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bay Minette Police Department,1994,Alabama,8101,AL00501,18,0,18,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bay Minette Police Department,1993,Alabama,8040,AL00501,20,0,20,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,5 +36,5 @@ Bay Minette Police Department,1982,Alabama,7688,AL00501,15,0,15,1,1,0,0,0,0,0,0,
 Bay Minette Police Department,1981,Alabama,7635,AL00501,13,0,13,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bay Minette Police Department,1979,Alabama,7198,AL00501,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bay Minette Police Department,1978,Alabama,7412,AL00501,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bay Minette Police Department,1977,Alabama,8000,AL00501,13,0,13,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bay Minette Police Department,1977,Alabama,8e3,AL00501,13,0,13,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bay Minette Police Department,1976,Alabama,9500,AL00501,10,0,10,1,1,0,0,1,1,0,0,1,0,2,0,0,1,1,3,0,0,2,1,0,0,2,0,0,0,0,0,0,0,1

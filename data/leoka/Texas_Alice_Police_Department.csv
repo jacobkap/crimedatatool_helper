@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Alice Police Department,2016,Texas,19464,TX12501,37,1,36,10,9,1,0,0,5,0,0,5,0,7,0,0,7,0,12,0,0,12,0,0,0,3,0,2,0,1,6,0,0,0
-Alice Police Department,2015,Texas,19463,TX12501,37,1,36,13,13,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alice Police Department,2015,Texas,19463,TX12501,37,1,36,13,13,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alice Police Department,2014,Texas,19689,TX12501,36,1,35,12,12,0,0,0,1,0,0,1,0,14,0,0,13,1,15,0,0,14,1,0,0,1,2,0,1,0,10,0,1,0
 Alice Police Department,2013,Texas,19673,TX12501,39,1,38,13,13,0,0,0,2,0,0,2,0,7,0,3,4,0,9,0,3,6,0,0,0,1,0,0,0,0,7,0,0,1
 Alice Police Department,2012,Texas,19627,TX12501,37,2,35,9,9,0,0,0,2,0,0,1,1,5,0,0,5,0,7,0,0,6,1,0,0,1,1,0,1,0,2,0,1,1
@@ -15,7 +15,7 @@ Alice Police Department,2004,Texas,19634,TX12501,37,2,35,13,9,4,0,0,6,0,0,4,2,5,
 Alice Police Department,2003,Texas,19401,TX12501,36,2,34,13,8,5,0,0,6,0,0,5,1,9,0,0,9,0,15,0,0,14,1,1,0,1,0,1,2,0,10,0,0,0
 Alice Police Department,2002,Texas,19856,TX12501,33,2,31,15,12,3,0,0,0,0,0,0,0,14,0,0,14,0,14,0,0,14,0,4,0,2,1,0,1,0,6,0,0,0
 Alice Police Department,2001,Texas,19441,TX12501,33,2,31,15,12,3,0,0,8,0,0,8,0,5,0,0,5,0,13,0,0,13,0,1,0,4,0,0,1,0,7,0,0,0
-Alice Police Department,2000,Texas,19010,TX12501,35,2,33,10,7,3,0,0,5,0,0,4,1,11,0,0,10,1,16,0,0,14,2,1,0,1,0,0,1,0,9,0,0,4
+Alice Police Department,2e3,Texas,19010,TX12501,35,2,33,10,7,3,0,0,5,0,0,4,1,11,0,0,10,1,16,0,0,14,2,1,0,1,0,0,1,0,9,0,0,4
 Alice Police Department,1999,Texas,20828,TX12501,36,2,34,15,11,4,0,0,12,0,0,11,1,7,0,0,6,1,19,0,0,17,2,0,0,1,0,1,5,1,10,0,1,0
 Alice Police Department,1998,Texas,21023,TX12501,33,2,31,15,11,4,0,0,11,0,0,10,1,8,1,2,5,0,19,1,2,15,1,1,0,0,0,0,2,0,14,0,0,2
 Alice Police Department,1997,Texas,21542,TX12501,32,2,30,15,9,6,0,0,4,0,0,3,1,17,0,2,15,0,21,0,2,18,1,2,0,2,0,0,3,0,10,0,2,2
@@ -32,12 +32,12 @@ Alice Police Department,1987,Texas,22624,TX12501,30,2,28,10,9,1,0,0,1,0,0,0,1,0,
 Alice Police Department,1986,Texas,23239,TX12501,32,2,30,10,9,1,0,0,1,0,0,1,0,1,1,0,0,0,2,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1
 Alice Police Department,1985,Texas,23543,TX12501,28,3,25,10,9,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,1,1,0,0,1
 Alice Police Department,1984,Texas,22995,TX12501,33,1,32,10,10,0,0,0,0,0,0,0,0,4,1,0,3,0,4,1,0,3,0,0,0,0,0,1,0,0,3,0,0,0
-Alice Police Department,1983,Texas,23140,TX12501,28,1,27,13,11,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Alice Police Department,1982,Texas,22487,TX12501,34,2,32,10,10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alice Police Department,1983,Texas,23140,TX12501,28,1,27,13,11,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alice Police Department,1982,Texas,22487,TX12501,34,2,32,10,10,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alice Police Department,1981,Texas,21714,TX12501,30,1,29,9,9,0,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1
 Alice Police Department,1980,Texas,20853,TX12501,30,1,29,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alice Police Department,1979,Texas,21116,TX12501,27,0,27,11,8,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Alice Police Department,1978,Texas,25000,TX12501,27,0,27,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice Police Department,1978,Texas,25e3,TX12501,27,0,27,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Alice Police Department,1977,Texas,24219,TX12501,24,0,24,16,6,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Alice Police Department,1976,Texas,23000,TX12501,21,0,21,11,7,4,0,0,3,0,0,3,0,4,0,0,4,0,7,0,0,7,0,3,0,0,0,0,2,0,1,0,0,1
+Alice Police Department,1976,Texas,23e3,TX12501,21,0,21,11,7,4,0,0,3,0,0,3,0,4,0,0,4,0,7,0,0,7,0,3,0,0,0,0,2,0,1,0,0,1
 Alice Police Department,1975,Texas,20892,TX12501,25,1,24,9,4,5,0,0,2,0,1,1,0,3,0,0,3,0,5,0,1,4,0,0,1,0,0,0,1,0,2,0,0,1

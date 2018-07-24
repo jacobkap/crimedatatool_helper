@@ -14,7 +14,7 @@ Mechanicville Police Department,2004,New York,5011,NY04523,11,0,11,1,1,0,0,0,0,0
 Mechanicville Police Department,2003,New York,5029,NY04523,11,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanicville Police Department,2002,New York,5067,NY04523,12,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanicville Police Department,2001,New York,5028,NY04523,12,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mechanicville Police Department,2000,New York,5019,NY04523,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mechanicville Police Department,2e3,New York,5019,NY04523,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanicville Police Department,1999,New York,5157,NY04523,13,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanicville Police Department,1998,New York,5261,NY04523,13,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanicville Police Department,1997,New York,5428,NY04523,13,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -23,7 +23,7 @@ Mechanicville Police Department,1995,New York,5429,NY04523,12,0,12,0,0,0,0,0,0,0
 Mechanicville Police Department,1994,New York,5555,NY04523,11,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanicville Police Department,1992,New York,5285,NY04523,12,0,12,1,0,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanicville Police Department,1991,New York,5268,NY04523,12,0,12,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mechanicville Police Department,1990,New York,5249,NY04523,12,0,12,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mechanicville Police Department,1990,New York,5249,NY04523,12,0,12,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mechanicville Police Department,1989,New York,5743,NY04523,12,0,12,1,1,0,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0
 Mechanicville Police Department,1988,New York,5646,NY04523,12,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanicville Police Department,1987,New York,5506,NY04523,11,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,6 +36,6 @@ Mechanicville Police Department,1981,New York,5508,NY04523,12,0,12,1,1,0,0,0,0,0
 Mechanicville Police Department,1980,New York,5481,NY04523,12,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanicville Police Department,1979,New York,5722,NY04523,12,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mechanicville Police Department,1978,New York,5911,NY04523,12,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mechanicville Police Department,1977,New York,7379,NY04523,12,0,12,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Mechanicville Police Department,1976,New York,7000,NY04523,11,0,11,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-Mechanicville Police Department,1975,New York,8000,NY04523,12,0,12,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mechanicville Police Department,1977,New York,7379,NY04523,12,0,12,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mechanicville Police Department,1976,New York,7e3,NY04523,11,0,11,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Mechanicville Police Department,1975,New York,8e3,NY04523,12,0,12,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

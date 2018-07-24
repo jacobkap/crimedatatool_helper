@@ -15,7 +15,7 @@ Gainesville Police Department,2004,Texas,16309,TX04901,39,1,38,11,8,3,0,0,0,0,0,
 Gainesville Police Department,2003,Texas,16178,TX04901,38,3,35,17,11,6,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Gainesville Police Department,2002,Texas,16230,TX04901,41,1,40,18,15,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Gainesville Police Department,2001,Texas,15891,TX04901,41,1,40,18,15,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gainesville Police Department,2000,Texas,15538,TX04901,36,2,34,12,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gainesville Police Department,2e3,Texas,15538,TX04901,36,2,34,12,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gainesville Police Department,1999,Texas,14973,TX04901,38,2,36,12,11,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Gainesville Police Department,1998,Texas,15322,TX04901,36,1,35,12,12,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Gainesville Police Department,1997,Texas,14979,TX04901,31,1,30,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,12 +32,12 @@ Gainesville Police Department,1987,Texas,14241,TX04901,31,2,29,9,8,1,0,0,0,0,0,0
 Gainesville Police Department,1986,Texas,14676,TX04901,31,2,29,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gainesville Police Department,1985,Texas,15451,TX04901,32,1,31,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gainesville Police Department,1984,Texas,15091,TX04901,33,1,32,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gainesville Police Department,1983,Texas,15668,TX04901,31,1,30,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Gainesville Police Department,1982,Texas,15226,TX04901,32,1,31,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gainesville Police Department,1983,Texas,15668,TX04901,31,1,30,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gainesville Police Department,1982,Texas,15226,TX04901,32,1,31,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Gainesville Police Department,1981,Texas,14703,TX04901,28,2,26,7,6,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Gainesville Police Department,1980,Texas,14120,TX04901,28,3,25,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gainesville Police Department,1979,Texas,13730,TX04901,27,2,25,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gainesville Police Department,1978,Texas,18000,TX04901,24,1,23,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gainesville Police Department,1977,Texas,20000,TX04901,22,0,22,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gainesville Police Department,1978,Texas,18e3,TX04901,24,1,23,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gainesville Police Department,1977,Texas,2e4,TX04901,22,0,22,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gainesville Police Department,1976,Texas,13776,TX04901,21,0,21,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Gainesville Police Department,1975,Texas,14238,TX04901,20,0,20,8,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gainesville Police Department,1975,Texas,14238,TX04901,20,0,20,8,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

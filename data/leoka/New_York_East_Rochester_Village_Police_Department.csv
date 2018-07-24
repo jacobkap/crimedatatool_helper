@@ -13,9 +13,9 @@ East Rochester Village Police Department,2005,New York,6450,NY02724,8,0,8,1,1,0,
 East Rochester Village Police Department,2004,New York,6523,NY02724,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 East Rochester Village Police Department,2003,New York,6580,NY02724,8,0,8,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 East Rochester Village Police Department,2002,New York,6714,NY02724,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-East Rochester Village Police Department,2001,New York,6662,NY02724,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-East Rochester Village Police Department,2000,New York,6650,NY02724,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-East Rochester Village Police Department,1999,New York,6540,NY02724,8,0,8,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+East Rochester Village Police Department,2001,New York,6662,NY02724,8,0,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+East Rochester Village Police Department,2e3,New York,6650,NY02724,8,0,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+East Rochester Village Police Department,1999,New York,6540,NY02724,8,0,8,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 East Rochester Village Police Department,1998,New York,6677,NY02724,7,0,7,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
 East Rochester Village Police Department,1997,New York,6559,NY02724,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 East Rochester Village Police Department,1996,New York,6577,NY02724,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -28,11 +28,11 @@ East Rochester Village Police Department,1990,New York,6932,NY02724,9,0,9,1,1,0,
 East Rochester Village Police Department,1989,New York,7026,NY02724,6,0,6,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
 East Rochester Village Police Department,1988,New York,7258,NY02724,11,1,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 East Rochester Village Police Department,1987,New York,7282,NY02724,7,1,6,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-East Rochester Village Police Department,1986,New York,7579,NY02724,7,1,6,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+East Rochester Village Police Department,1986,New York,7579,NY02724,7,1,6,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 East Rochester Village Police Department,1985,New York,7579,NY02724,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 East Rochester Village Police Department,1984,New York,7559,NY02724,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 East Rochester Village Police Department,1983,New York,7625,NY02724,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-East Rochester Village Police Department,1982,New York,7622,NY02724,10,0,10,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+East Rochester Village Police Department,1982,New York,7622,NY02724,10,0,10,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 East Rochester Village Police Department,1981,New York,7594,NY02724,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 East Rochester Village Police Department,1980,New York,7556,NY02724,10,1,9,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 East Rochester Village Police Department,1979,New York,8281,NY02724,10,0,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

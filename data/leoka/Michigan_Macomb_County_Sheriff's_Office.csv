@@ -11,12 +11,12 @@ Macomb County Sheriff's Office,2008,Michigan,156958,MI50150,250,27,223,252,85,16
 Macomb County Sheriff's Office,2007,Michigan,159415,MI50150,250,27,223,252,83,169,0,0,1,0,0,1,0,21,2,0,16,3,22,2,0,17,3,0,0,4,0,1,0,0,12,0,3,2
 Macomb County Sheriff's Office,2006,Michigan,156562,MI50150,251,27,224,253,84,169,0,0,8,0,0,7,1,17,0,0,11,6,25,0,0,18,7,1,0,5,0,0,1,0,13,0,3,2
 Macomb County Sheriff's Office,2005,Michigan,153780,MI50150,251,28,223,253,79,174,0,0,6,0,0,6,0,21,1,0,16,4,27,1,0,22,4,1,0,4,1,0,2,0,13,0,2,4
-Macomb County Sheriff's Office,2004,Michigan,133249,MI50150,225,28,197,249,77,172,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Macomb County Sheriff's Office,2004,Michigan,133249,MI50150,225,28,197,249,77,172,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Macomb County Sheriff's Office,2003,Michigan,127029,MI50150,217,22,195,241,79,162,0,0,3,0,0,3,0,13,0,1,12,0,16,0,1,15,0,0,0,3,0,0,0,0,4,0,1,8
 Macomb County Sheriff's Office,2002,Michigan,115939,MI50150,212,21,191,234,80,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Macomb County Sheriff's Office,2001,Michigan,115251,MI50150,210,23,187,217,79,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Macomb County Sheriff's Office,2000,Michigan,114647,MI50150,203,21,182,208,77,131,0,0,0,0,0,0,0,4,0,0,2,2,4,0,0,2,2,2,0,0,0,0,0,0,1,0,0,1
-Macomb County Sheriff's Office,1999,Michigan,107798,MI50150,198,21,177,217,73,144,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Macomb County Sheriff's Office,2e3,Michigan,114647,MI50150,203,21,182,208,77,131,0,0,0,0,0,0,0,4,0,0,2,2,4,0,0,2,2,2,0,0,0,0,0,0,1,0,0,1
+Macomb County Sheriff's Office,1999,Michigan,107798,MI50150,198,21,177,217,73,144,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Macomb County Sheriff's Office,1998,Michigan,134435,MI50150,188,19,169,212,70,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Macomb County Sheriff's Office,1997,Michigan,91740,MI50150,190,23,167,202,128,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Macomb County Sheriff's Office,1996,Michigan,90051,MI50150,177,18,159,197,72,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -26,7 +26,7 @@ Macomb County Sheriff's Office,1993,Michigan,85142,MI50150,162,11,151,192,67,125
 Macomb County Sheriff's Office,1992,Michigan,75980,MI50150,172,8,164,191,67,124,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Macomb County Sheriff's Office,1991,Michigan,75425,MI50150,172,8,164,191,67,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Macomb County Sheriff's Office,1990,Michigan,74840,MI50150,165,6,159,162,61,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Macomb County Sheriff's Office,1989,Michigan,74308,MI50150,163,6,157,162,58,104,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Macomb County Sheriff's Office,1989,Michigan,74308,MI50150,163,6,157,162,58,104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Macomb County Sheriff's Office,1988,Michigan,70691,MI50150,156,4,152,162,47,115,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Macomb County Sheriff's Office,1987,Michigan,69255,MI50150,156,3,153,135,48,87,0,0,2,0,0,2,0,22,0,0,22,0,24,0,0,24,0,4,0,0,1,0,0,0,9,0,1,9
 Macomb County Sheriff's Office,1986,Michigan,65703,MI50150,152,2,150,135,47,88,0,0,14,0,0,14,0,8,0,0,7,1,22,0,0,21,1,2,0,4,0,0,1,0,12,0,1,2
@@ -39,5 +39,5 @@ Macomb County Sheriff's Office,1980,Michigan,61394,MI50150,157,1,156,89,24,65,0,
 Macomb County Sheriff's Office,1979,Michigan,59791,MI50150,160,1,159,102,34,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Macomb County Sheriff's Office,1978,Michigan,54292,MI50150,232,6,226,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Macomb County Sheriff's Office,1977,Michigan,62835,MI50150,213,6,207,33,31,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Macomb County Sheriff's Office,1976,Michigan,41435,MI50150,127,0,127,73,23,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Macomb County Sheriff's Office,1976,Michigan,41435,MI50150,127,0,127,73,23,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Macomb County Sheriff's Office,1975,Michigan,49651,MI50150,156,0,156,27,23,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

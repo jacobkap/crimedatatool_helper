@@ -10,12 +10,12 @@ Jefferson County Sheriff's Office,2009,Arkansas,20712,AR03500,49,6,43,107,57,50,
 Jefferson County Sheriff's Office,2008,Arkansas,20721,AR03500,51,6,45,105,64,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jefferson County Sheriff's Office,2007,Arkansas,21424,AR03500,46,4,42,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jefferson County Sheriff's Office,2006,Arkansas,21806,AR03500,43,4,39,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jefferson County Sheriff's Office,2005,Arkansas,22001,AR03500,45,4,41,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jefferson County Sheriff's Office,2004,Arkansas,21879,AR03500,40,3,37,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jefferson County Sheriff's Office,2005,Arkansas,22001,AR03500,45,4,41,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jefferson County Sheriff's Office,2004,Arkansas,21879,AR03500,40,3,37,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jefferson County Sheriff's Office,2003,Arkansas,23273,AR03500,44,3,41,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jefferson County Sheriff's Office,2002,Arkansas,24796,AR03500,42,4,38,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jefferson County Sheriff's Office,2002,Arkansas,24796,AR03500,42,4,38,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jefferson County Sheriff's Office,2001,Arkansas,24632,AR03500,41,3,38,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jefferson County Sheriff's Office,2000,Arkansas,24461,AR03500,41,3,38,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jefferson County Sheriff's Office,2e3,Arkansas,24461,AR03500,41,3,38,5,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jefferson County Sheriff's Office,1999,Arkansas,28735,AR03500,44,2,42,6,6,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Jefferson County Sheriff's Office,1998,Arkansas,28686,AR03500,44,1,43,6,6,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Jefferson County Sheriff's Office,1997,Arkansas,26804,AR03500,44,1,43,6,6,0,0,0,1,0,0,0,1,2,0,0,2,0,3,0,0,2,1,2,0,0,0,0,1,0,0,0,0,0
@@ -37,7 +37,7 @@ Jefferson County Sheriff's Office,1982,Arkansas,34054,AR03500,37,6,31,8,5,3,0,0,
 Jefferson County Sheriff's Office,1981,Arkansas,31864,AR03500,38,6,32,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jefferson County Sheriff's Office,1980,Arkansas,31726,AR03500,41,8,33,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jefferson County Sheriff's Office,1979,Arkansas,29166,AR03500,39,8,31,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jefferson County Sheriff's Office,1978,Arkansas,24354,AR03500,38,9,29,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jefferson County Sheriff's Office,1978,Arkansas,24354,AR03500,38,9,29,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jefferson County Sheriff's Office,1977,Arkansas,23576,AR03500,40,8,32,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jefferson County Sheriff's Office,1976,Arkansas,22005,AR03500,33,6,27,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jefferson County Sheriff's Office,1975,Arkansas,24971,AR03500,20,0,20,19,13,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jefferson County Sheriff's Office,1976,Arkansas,22005,AR03500,33,6,27,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jefferson County Sheriff's Office,1975,Arkansas,24971,AR03500,20,0,20,19,13,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

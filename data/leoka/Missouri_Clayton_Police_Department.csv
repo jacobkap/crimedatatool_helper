@@ -15,9 +15,9 @@ Clayton Police Department,2004,Missouri,16114,MO09514,53,2,51,9,4,5,0,0,1,0,0,1,
 Clayton Police Department,2003,Missouri,16139,MO09514,53,2,51,18,13,5,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
 Clayton Police Department,2002,Missouri,13002,MO09514,48,1,47,15,10,5,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,1,0,0,0,0,0,0,0
 Clayton Police Department,2001,Missouri,12904,MO09514,51,1,50,17,10,7,0,0,2,0,0,1,1,3,0,0,3,0,5,0,0,4,1,1,0,0,0,0,0,0,4,0,0,0
-Clayton Police Department,2000,Missouri,12825,MO09514,50,2,48,15,10,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Clayton Police Department,2e3,Missouri,12825,MO09514,50,2,48,15,10,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Clayton Police Department,1999,Missouri,13362,MO09514,46,4,42,13,10,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-Clayton Police Department,1998,Missouri,13602,MO09514,51,2,49,14,11,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Clayton Police Department,1998,Missouri,13602,MO09514,51,2,49,14,11,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Clayton Police Department,1997,Missouri,14025,MO09514,51,2,49,14,11,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Clayton Police Department,1996,Missouri,13914,MO09514,48,1,47,13,10,3,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
 Clayton Police Department,1995,Missouri,13824,MO09514,49,1,48,13,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,10 +33,10 @@ Clayton Police Department,1986,Missouri,14185,MO09514,55,0,55,11,10,1,0,0,0,0,0,
 Clayton Police Department,1985,Missouri,14273,MO09514,53,1,52,10,9,1,0,0,5,0,0,5,0,1,0,0,1,0,6,0,0,6,0,0,0,5,0,0,0,0,0,0,1,0
 Clayton Police Department,1984,Missouri,14213,MO09514,55,1,54,11,2,9,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0
 Clayton Police Department,1983,Missouri,14402,MO09514,55,0,55,11,9,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-Clayton Police Department,1981,Missouri,14309,MO09514,56,0,56,9,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Clayton Police Department,1980,Missouri,14203,MO09514,52,0,52,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Clayton Police Department,1979,Missouri,15393,MO09514,52,0,52,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Clayton Police Department,1978,Missouri,15774,MO09514,54,0,54,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Clayton Police Department,1981,Missouri,14309,MO09514,56,0,56,9,5,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Clayton Police Department,1980,Missouri,14203,MO09514,52,0,52,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Clayton Police Department,1979,Missouri,15393,MO09514,52,0,52,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Clayton Police Department,1978,Missouri,15774,MO09514,54,0,54,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Clayton Police Department,1977,Missouri,15411,MO09514,54,0,54,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton Police Department,1976,Missouri,15225,MO09514,54,0,54,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Clayton Police Department,1975,Missouri,15107,MO09514,54,0,54,4,2,2,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0

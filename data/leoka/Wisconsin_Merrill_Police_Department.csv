@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Merrill Police Department,2016,Wisconsin,9150,WI03501,22,3,19,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Merrill Police Department,2015,Wisconsin,9292,WI03501,22,3,19,3,3,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
-Merrill Police Department,2014,Wisconsin,9430,WI03501,22,3,19,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Merrill Police Department,2014,Wisconsin,9430,WI03501,22,3,19,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Merrill Police Department,2013,Wisconsin,9427,WI03501,22,3,19,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
 Merrill Police Department,2012,Wisconsin,9639,WI03501,22,3,19,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Merrill Police Department,2011,Wisconsin,9703,WI03501,22,3,19,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -14,10 +14,10 @@ Merrill Police Department,2005,Wisconsin,10203,WI03501,21,3,18,3,3,0,0,0,0,0,0,0
 Merrill Police Department,2004,Wisconsin,10232,WI03501,21,2,19,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Merrill Police Department,2003,Wisconsin,10201,WI03501,21,2,19,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Merrill Police Department,2002,Wisconsin,10293,WI03501,21,2,19,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Merrill Police Department,2001,Wisconsin,10218,WI03501,21,1,20,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Merrill Police Department,2000,Wisconsin,10146,WI03501,22,1,21,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Merrill Police Department,2001,Wisconsin,10218,WI03501,21,1,20,7,7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Merrill Police Department,2e3,Wisconsin,10146,WI03501,22,1,21,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Merrill Police Department,1999,Wisconsin,10351,WI03501,22,1,21,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Merrill Police Department,1998,Wisconsin,10566,WI03501,22,1,21,7,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Merrill Police Department,1998,Wisconsin,10566,WI03501,22,1,21,7,5,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Merrill Police Department,1997,Wisconsin,10305,WI03501,22,1,21,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Merrill Police Department,1996,Wisconsin,10286,WI03501,22,1,21,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Merrill Police Department,1995,Wisconsin,10213,WI03501,22,1,21,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -31,7 +31,7 @@ Merrill Police Department,1988,Wisconsin,10436,WI03501,20,0,20,4,2,2,0,0,0,0,0,0
 Merrill Police Department,1987,Wisconsin,10227,WI03501,20,0,20,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Merrill Police Department,1986,Wisconsin,10053,WI03501,19,0,19,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Merrill Police Department,1985,Wisconsin,9584,WI03501,19,0,19,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Merrill Police Department,1984,Wisconsin,9567,WI03501,19,0,19,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Merrill Police Department,1984,Wisconsin,9567,WI03501,19,0,19,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Merrill Police Department,1983,Wisconsin,9720,WI03501,19,0,19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Merrill Police Department,1982,Wisconsin,9749,WI03501,19,0,19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Merrill Police Department,1981,Wisconsin,9696,WI03501,19,0,19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

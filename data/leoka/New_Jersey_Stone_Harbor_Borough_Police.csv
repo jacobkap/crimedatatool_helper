@@ -4,7 +4,7 @@ Stone Harbor Borough Police,2015,New Jersey,839,NJ00510,17,0,17,2,1,1,0,0,2,0,0,
 Stone Harbor Borough Police,2012,New Jersey,864,NJ00510,16,0,16,6,5,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Stone Harbor Borough Police,2011,New Jersey,869,NJ00510,16,0,16,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,2010,New Jersey,866,NJ00510,16,0,16,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Stone Harbor Borough Police,2009,New Jersey,1000,NJ00510,17,0,17,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stone Harbor Borough Police,2009,New Jersey,1e3,NJ00510,17,0,17,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,2008,New Jersey,1004,NJ00510,16,1,15,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,2007,New Jersey,1034,NJ00510,16,1,15,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,2006,New Jersey,1063,NJ00510,15,1,14,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -13,7 +13,7 @@ Stone Harbor Borough Police,2004,New Jersey,1119,NJ00510,18,1,17,6,6,0,0,0,0,0,0
 Stone Harbor Borough Police,2003,New Jersey,1125,NJ00510,19,1,18,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,2002,New Jersey,1152,NJ00510,18,1,17,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,2001,New Jersey,1137,NJ00510,18,1,17,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Stone Harbor Borough Police,2000,New Jersey,1128,NJ00510,18,1,17,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stone Harbor Borough Police,2e3,New Jersey,1128,NJ00510,18,1,17,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,1999,New Jersey,1025,NJ00510,18,1,17,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,1998,New Jersey,1033,NJ00510,18,1,17,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,1997,New Jersey,974,NJ00510,18,1,17,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -26,7 +26,7 @@ Stone Harbor Borough Police,1991,New Jersey,1028,NJ00510,21,2,19,6,6,0,0,0,1,0,0
 Stone Harbor Borough Police,1990,New Jersey,1025,NJ00510,21,2,19,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,1989,New Jersey,1333,NJ00510,21,2,19,7,7,0,0,0,1,0,0,1,0,4,0,0,4,0,5,0,0,5,0,0,0,3,0,0,0,0,2,0,0,0
 Stone Harbor Borough Police,1988,New Jersey,1320,NJ00510,22,2,20,7,7,0,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,0,2,0,0,2,0,1,0
-Stone Harbor Borough Police,1987,New Jersey,1289,NJ00510,24,2,22,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stone Harbor Borough Police,1987,New Jersey,1289,NJ00510,24,2,22,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stone Harbor Borough Police,1986,New Jersey,1308,NJ00510,17,1,16,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stone Harbor Borough Police,1985,New Jersey,1250,NJ00510,14,0,14,4,4,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Stone Harbor Borough Police,1984,New Jersey,1242,NJ00510,15,0,15,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

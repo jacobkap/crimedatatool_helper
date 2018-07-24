@@ -15,12 +15,12 @@ Platte County Sheriff's Office,2004,Missouri,22780,MO08300,77,5,72,39,27,12,0,0,
 Platte County Sheriff's Office,2003,Missouri,22166,MO08300,84,5,79,35,28,7,0,0,2,0,0,1,1,5,0,0,3,2,7,0,0,4,3,0,0,2,0,0,1,0,0,0,0,4
 Platte County Sheriff's Office,2002,Missouri,21137,MO08300,79,5,74,31,28,3,0,0,2,0,0,1,1,5,0,0,5,0,7,0,0,6,1,1,0,2,0,0,2,0,0,0,0,2
 Platte County Sheriff's Office,2001,Missouri,26785,MO08300,78,7,71,31,25,6,0,0,3,0,0,3,0,2,0,0,2,0,5,0,0,5,0,0,0,0,0,0,3,0,2,0,0,0
-Platte County Sheriff's Office,2000,Missouri,26620,MO08300,75,4,71,34,26,8,0,0,0,0,0,0,0,9,0,0,7,2,9,0,0,7,2,5,0,0,0,0,0,0,4,0,0,0
+Platte County Sheriff's Office,2e3,Missouri,26620,MO08300,75,4,71,34,26,8,0,0,0,0,0,0,0,9,0,0,7,2,9,0,0,7,2,5,0,0,0,0,0,0,4,0,0,0
 Platte County Sheriff's Office,1999,Missouri,29809,MO08300,72,5,67,35,22,13,0,0,2,0,0,2,0,5,0,0,5,0,7,0,0,7,0,3,0,1,0,0,0,0,0,0,0,3
-Platte County Sheriff's Office,1998,Missouri,29978,MO08300,65,6,59,26,17,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Platte County Sheriff's Office,1998,Missouri,29978,MO08300,65,6,59,26,17,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Platte County Sheriff's Office,1997,Missouri,29210,MO08300,55,6,49,13,12,1,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,1,0,1,0,2,0,0,0,0,2,0
 Platte County Sheriff's Office,1996,Missouri,32214,MO08300,53,6,47,16,12,4,0,0,0,0,0,0,0,4,0,0,3,1,4,0,0,3,1,0,0,0,0,0,3,0,1,0,0,0
-Platte County Sheriff's Office,1995,Missouri,32004,MO08300,48,5,43,14,10,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Platte County Sheriff's Office,1995,Missouri,32004,MO08300,48,5,43,14,10,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Platte County Sheriff's Office,1994,Missouri,30136,MO08300,48,4,44,5,5,0,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,0,0,0,0,0,4,0,0,2
 Platte County Sheriff's Office,1993,Missouri,34690,MO08300,46,5,41,12,8,4,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,1,0
 Platte County Sheriff's Office,1992,Missouri,31368,MO08300,41,5,36,12,8,4,0,0,1,0,0,1,0,4,0,0,13,0,5,0,0,5,0,0,0,0,0,0,0,0,1,0,0,4
@@ -29,7 +29,7 @@ Platte County Sheriff's Office,1990,Missouri,30910,MO08300,43,6,37,6,6,0,0,0,1,0
 Platte County Sheriff's Office,1989,Missouri,28737,MO08300,37,6,31,11,11,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Platte County Sheriff's Office,1988,Missouri,27630,MO08300,35,6,29,11,11,0,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,0,0,3,0,1,0
 Platte County Sheriff's Office,1987,Missouri,26593,MO08300,35,7,28,5,5,0,0,0,1,0,0,1,0,8,0,1,7,0,9,0,1,8,0,0,0,0,0,0,2,0,7,0,0,0
-Platte County Sheriff's Office,1986,Missouri,25990,MO08300,33,7,26,10,10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Platte County Sheriff's Office,1986,Missouri,25990,MO08300,33,7,26,10,10,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Platte County Sheriff's Office,1985,Missouri,26062,MO08300,30,7,23,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Platte County Sheriff's Office,1984,Missouri,25288,MO08300,30,6,24,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Platte County Sheriff's Office,1983,Missouri,24301,MO08300,32,8,24,9,8,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
@@ -40,4 +40,4 @@ Platte County Sheriff's Office,1979,Missouri,23133,MO08300,30,9,21,5,4,1,0,0,1,0
 Platte County Sheriff's Office,1978,Missouri,21956,MO08300,26,7,19,8,7,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Platte County Sheriff's Office,1977,Missouri,21924,MO08300,20,4,16,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Platte County Sheriff's Office,1976,Missouri,41242,MO08300,18,3,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Platte County Sheriff's Office,1975,Missouri,31594,MO08300,20,3,17,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Platte County Sheriff's Office,1975,Missouri,31594,MO08300,20,3,17,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

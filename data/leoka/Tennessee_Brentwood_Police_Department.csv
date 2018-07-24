@@ -15,12 +15,12 @@ Brentwood Police Department,2004,Tennessee,29254,TN09403,51,6,45,12,7,5,0,0,0,0,
 Brentwood Police Department,2003,Tennessee,27969,TN09403,52,5,47,13,8,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Brentwood Police Department,2002,Tennessee,23890,TN09403,54,8,46,13,8,5,0,0,4,2,0,0,2,2,0,0,0,2,6,2,0,0,4,0,0,0,0,0,0,0,4,2,0,0
 Brentwood Police Department,2001,Tennessee,23654,TN09403,46,5,41,13,6,7,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-Brentwood Police Department,2000,Tennessee,23445,TN09403,49,6,43,12,5,7,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Brentwood Police Department,2e3,Tennessee,23445,TN09403,49,6,43,12,5,7,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Brentwood Police Department,1999,Tennessee,23558,TN09403,47,4,43,9,4,5,0,0,0,0,0,0,0,3,0,0,0,3,3,0,0,0,3,2,0,0,0,0,0,0,1,0,0,0
 Brentwood Police Department,1998,Tennessee,23386,TN09403,42,4,38,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brentwood Police Department,1997,Tennessee,22036,TN09403,39,4,35,10,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brentwood Police Department,1996,Tennessee,21840,TN09403,35,5,30,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brentwood Police Department,1995,Tennessee,21578,TN09403,37,5,32,10,3,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brentwood Police Department,1995,Tennessee,21578,TN09403,37,5,32,10,3,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Brentwood Police Department,1994,Tennessee,19091,TN09403,36,4,32,10,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brentwood Police Department,1993,Tennessee,18811,TN09403,35,3,32,10,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brentwood Police Department,1992,Tennessee,16884,TN09403,33,3,30,9,3,6,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -34,9 +34,9 @@ Brentwood Police Department,1985,Tennessee,10492,TN09403,23,0,23,5,1,4,0,0,0,0,0
 Brentwood Police Department,1984,Tennessee,10392,TN09403,22,0,22,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brentwood Police Department,1983,Tennessee,9678,TN09403,19,0,19,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brentwood Police Department,1982,Tennessee,9608,TN09403,19,0,19,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brentwood Police Department,1981,Tennessee,9523,TN09403,19,0,19,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brentwood Police Department,1981,Tennessee,9523,TN09403,19,0,19,4,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Brentwood Police Department,1980,Tennessee,9390,TN09403,19,0,19,4,1,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Brentwood Police Department,1979,Tennessee,8455,TN09403,17,0,17,4,1,3,0,0,1,1,0,0,0,1,0,0,1,0,2,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0
 Brentwood Police Department,1978,Tennessee,8747,TN09403,14,0,14,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Brentwood Police Department,1977,Tennessee,6060,TN09403,13,0,13,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brentwood Police Department,1976,Tennessee,8238,TN09403,9,0,9,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brentwood Police Department,1976,Tennessee,8238,TN09403,9,0,9,4,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

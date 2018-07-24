@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Laporte Police,2016,Indiana,21891,IN04601,43,2,41,6,3,3,0,0,7,0,0,7,0,18,0,0,12,6,25,0,0,19,6,3,0,8,0,0,3,0,9,0,1,1
-Laporte Police,2015,Indiana,22000,IN04601,43,2,41,6,3,3,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
+Laporte Police,2015,Indiana,22e3,IN04601,43,2,41,6,3,3,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0
 Laporte Police,2014,Indiana,22002,IN04601,41,2,39,6,3,3,0,1,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
 Laporte Police,2013,Indiana,22112,IN04601,42,2,40,6,3,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Laporte Police,2012,Indiana,22102,IN04601,43,2,41,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Laporte Police,2004,Indiana,21210,IN04601,46,2,44,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,
 Laporte Police,2003,Indiana,21419,IN04601,45,2,43,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laporte Police,2002,Indiana,21900,IN04601,47,2,45,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laporte Police,2001,Indiana,21743,IN04601,46,2,44,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Laporte Police,2000,Indiana,21621,IN04601,48,2,46,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laporte Police,2e3,Indiana,21621,IN04601,48,2,46,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laporte Police,1999,Indiana,20376,IN04601,47,2,45,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laporte Police,1998,Indiana,20785,IN04601,47,2,45,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Laporte Police,1997,Indiana,23358,IN04601,41,1,40,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

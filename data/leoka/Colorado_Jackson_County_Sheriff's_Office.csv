@@ -15,14 +15,14 @@ Jackson County Sheriff's Office,2004,Colorado,1524,CO02900,4,0,4,4,4,0,0,0,0,0,0
 Jackson County Sheriff's Office,2003,Colorado,1545,CO02900,4,0,4,4,4,0,0,0,0,0,0,0,0,3,0,1,0,2,3,0,1,0,2,0,0,0,0,0,0,0,1,0,0,2
 Jackson County Sheriff's Office,2002,Colorado,1653,CO02900,5,0,5,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jackson County Sheriff's Office,2001,Colorado,1620,CO02900,4,0,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jackson County Sheriff's Office,2000,Colorado,1577,CO02900,4,0,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jackson County Sheriff's Office,2e3,Colorado,1577,CO02900,4,0,4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jackson County Sheriff's Office,1999,Colorado,1568,CO02900,3,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jackson County Sheriff's Office,1998,Colorado,1564,CO02900,3,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jackson County Sheriff's Office,1997,Colorado,1758,CO02900,3,0,3,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jackson County Sheriff's Office,1996,Colorado,1727,CO02900,3,0,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jackson County Sheriff's Office,1995,Colorado,1693,CO02900,3,0,3,3,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jackson County Sheriff's Office,1994,Colorado,1750,CO02900,2,0,2,7,0,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jackson County Sheriff's Office,1993,Colorado,1707,CO02900,5,2,3,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jackson County Sheriff's Office,1995,Colorado,1693,CO02900,3,0,3,3,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jackson County Sheriff's Office,1994,Colorado,1750,CO02900,2,0,2,7,0,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jackson County Sheriff's Office,1993,Colorado,1707,CO02900,5,2,3,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jackson County Sheriff's Office,1992,Colorado,1690,CO02900,3,0,3,6,4,2,0,0,0,0,0,0,0,1,0,1,9,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
 Jackson County Sheriff's Office,1991,Colorado,1645,CO02900,8,4,4,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
 Jackson County Sheriff's Office,1990,Colorado,1605,CO02900,2,0,2,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -36,6 +36,6 @@ Jackson County Sheriff's Office,1983,Colorado,2033,CO02900,3,0,3,0,0,0,0,0,0,0,0
 Jackson County Sheriff's Office,1982,Colorado,1973,CO02900,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jackson County Sheriff's Office,1981,Colorado,1920,CO02900,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Jackson County Sheriff's Office,1980,Colorado,1865,CO02900,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jackson County Sheriff's Office,1979,Colorado,1972,CO02900,3,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Jackson County Sheriff's Office,1976,Colorado,1593,CO02900,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jackson County Sheriff's Office,1979,Colorado,1972,CO02900,3,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jackson County Sheriff's Office,1976,Colorado,1593,CO02900,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Jackson County Sheriff's Office,1975,Colorado,1925,CO02900,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

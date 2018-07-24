@@ -15,9 +15,9 @@ Frio County Sheriff's Office,2004,Texas,5094,TX08200,11,1,10,9,7,2,0,0,0,0,0,0,0
 Frio County Sheriff's Office,2003,Texas,5056,TX08200,11,1,10,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frio County Sheriff's Office,2002,Texas,5664,TX08200,11,1,10,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frio County Sheriff's Office,2001,Texas,5545,TX08200,10,1,9,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Frio County Sheriff's Office,2000,Texas,5421,TX08200,11,1,10,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frio County Sheriff's Office,2e3,Texas,5421,TX08200,11,1,10,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frio County Sheriff's Office,1999,Texas,5497,TX08200,11,2,9,7,3,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Frio County Sheriff's Office,1998,Texas,5452,TX08200,11,1,10,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frio County Sheriff's Office,1998,Texas,5452,TX08200,11,1,10,7,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Frio County Sheriff's Office,1997,Texas,5418,TX08200,10,1,9,9,0,9,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Frio County Sheriff's Office,1996,Texas,5332,TX08200,9,1,8,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frio County Sheriff's Office,1995,Texas,5220,TX08200,9,1,8,8,6,2,0,0,1,0,0,1,0,1,0,0,0,1,2,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0
@@ -32,7 +32,7 @@ Frio County Sheriff's Office,1987,Texas,3854,TX08200,3,0,3,9,5,4,0,0,0,0,0,0,0,0
 Frio County Sheriff's Office,1986,Texas,3990,TX08200,5,0,5,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frio County Sheriff's Office,1985,Texas,3722,TX08200,4,0,4,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frio County Sheriff's Office,1984,Texas,6914,TX08200,3,0,3,6,5,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Frio County Sheriff's Office,1983,Texas,7096,TX08200,3,0,3,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frio County Sheriff's Office,1983,Texas,7096,TX08200,3,0,3,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Frio County Sheriff's Office,1982,Texas,4739,TX08200,4,0,4,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frio County Sheriff's Office,1981,Texas,6659,TX08200,4,0,4,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frio County Sheriff's Office,1980,Texas,6395,TX08200,4,0,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -40,4 +40,4 @@ Frio County Sheriff's Office,1979,Texas,6579,TX08200,4,0,4,10,9,1,0,0,0,0,0,0,0,
 Frio County Sheriff's Office,1978,Texas,6084,TX08200,5,0,5,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Frio County Sheriff's Office,1977,Texas,4702,TX08200,5,0,5,4,0,4,0,0,0,0,0,0,0,2,2,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
 Frio County Sheriff's Office,1976,Texas,6564,TX08200,5,0,5,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Frio County Sheriff's Office,1975,Texas,5741,TX08200,5,0,5,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frio County Sheriff's Office,1975,Texas,5741,TX08200,5,0,5,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

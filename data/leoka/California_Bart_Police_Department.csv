@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Bart Police Department,2015,California,0,CA00121,1,0,1,0,0,0,0,0,13,1,0,12,0,10,2,0,8,0,23,3,0,20,0,0,0,15,0,0,0,0,8,0,0,0
 Bart Police Department,2014,California,0,CA00121,1,0,1,0,0,0,1,0,8,1,0,5,2,5,0,1,4,0,13,1,1,9,2,0,0,2,0,2,1,0,7,0,1,0
 Bart Police Department,2011,California,0,CA00121,1,0,1,0,0,0,0,0,7,0,0,7,0,9,0,0,9,0,16,0,0,16,0,2,0,9,0,0,0,0,3,0,2,0
-Bart Police Department,2000,California,0,CA00121,174,19,155,74,35,39,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
+Bart Police Department,2e3,California,0,CA00121,174,19,155,74,35,39,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Bart Police Department,1999,California,0,CA00121,174,19,155,74,35,39,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0
 Bart Police Department,1998,California,0,CA00121,174,19,155,74,35,39,0,0,5,0,0,3,2,0,0,0,0,0,5,0,0,3,2,0,0,5,0,0,0,0,0,0,0,0
 Bart Police Department,1995,California,0,CA00121,148,16,132,44,20,24,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0
@@ -11,5 +11,5 @@ Bart Police Department,1993,California,0,CA00121,151,15,136,38,17,21,0,0,11,0,0,
 Bart Police Department,1992,California,0,CA00121,146,15,131,32,17,15,0,0,29,0,0,29,0,1,0,0,10,0,30,0,0,30,0,0,0,30,0,0,0,0,0,0,0,0
 Bart Police Department,1991,California,0,CA00121,146,15,131,32,17,15,0,0,35,0,0,33,2,0,0,0,0,0,35,0,0,33,2,0,0,35,0,0,0,0,0,0,0,0
 Bart Police Department,1990,California,0,CA00121,146,15,131,32,17,15,0,0,33,0,0,33,0,0,0,0,0,0,33,0,0,33,0,2,0,31,0,0,0,0,0,0,0,0
-Bart Police Department,1978,California,0,CA00121,78,9,69,18,10,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bart Police Department,1977,California,0,CA00121,78,9,69,18,10,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bart Police Department,1978,California,0,CA00121,78,9,69,18,10,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bart Police Department,1977,California,0,CA00121,78,9,69,18,10,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

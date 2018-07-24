@@ -15,9 +15,9 @@ Val Verde County Sheriff's Office,2004,Texas,11625,TX23300,40,11,29,9,7,2,0,0,1,
 Val Verde County Sheriff's Office,2003,Texas,11468,TX23300,39,10,29,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Val Verde County Sheriff's Office,2002,Texas,11479,TX23300,32,8,24,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Val Verde County Sheriff's Office,2001,Texas,11238,TX23300,26,5,21,14,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Val Verde County Sheriff's Office,2000,Texas,10989,TX23300,25,4,21,52,23,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Val Verde County Sheriff's Office,2e3,Texas,10989,TX23300,25,4,21,52,23,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Val Verde County Sheriff's Office,1999,Texas,8968,TX23300,24,3,21,58,25,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Val Verde County Sheriff's Office,1998,Texas,8540,TX23300,24,3,21,58,25,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Val Verde County Sheriff's Office,1998,Texas,8540,TX23300,24,3,21,58,25,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Val Verde County Sheriff's Office,1997,Texas,7789,TX23300,24,3,21,58,25,33,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Val Verde County Sheriff's Office,1996,Texas,7665,TX23300,24,5,19,54,19,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Val Verde County Sheriff's Office,1995,Texas,7504,TX23300,21,3,18,55,16,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,11 +32,11 @@ Val Verde County Sheriff's Office,1987,Texas,5334,TX23300,9,2,7,62,14,48,0,0,0,0
 Val Verde County Sheriff's Office,1986,Texas,6040,TX23300,9,2,7,58,15,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Val Verde County Sheriff's Office,1985,Texas,7029,TX23300,56,15,41,13,2,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Val Verde County Sheriff's Office,1983,Texas,6498,TX23300,9,2,7,20,3,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Val Verde County Sheriff's Office,1982,Texas,6315,TX23300,8,2,6,20,5,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Val Verde County Sheriff's Office,1982,Texas,6315,TX23300,8,2,6,20,5,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Val Verde County Sheriff's Office,1981,Texas,6098,TX23300,9,2,7,19,4,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Val Verde County Sheriff's Office,1980,Texas,5856,TX23300,20,4,16,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Val Verde County Sheriff's Office,1979,Texas,5887,TX23300,8,2,6,15,5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Val Verde County Sheriff's Office,1978,Texas,6784,TX23300,7,1,6,12,3,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Val Verde County Sheriff's Office,1977,Texas,8455,TX23300,7,1,6,12,3,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Val Verde County Sheriff's Office,1976,Texas,7995,TX23300,7,1,6,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Val Verde County Sheriff's Office,1975,Texas,8597,TX23300,7,1,6,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Val Verde County Sheriff's Office,1976,Texas,7995,TX23300,7,1,6,6,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Val Verde County Sheriff's Office,1975,Texas,8597,TX23300,7,1,6,6,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -15,13 +15,13 @@ Grosse Pointe Park Dept Of Public Safety,2004,Michigan,12228,MI82448,44,1,43,6,6
 Grosse Pointe Park Dept Of Public Safety,2003,Michigan,12388,MI82448,43,0,43,9,8,1,0,0,2,0,0,1,1,1,0,0,1,0,3,0,0,2,1,0,0,0,0,0,1,0,1,0,1,0
 Grosse Pointe Park Dept Of Public Safety,2002,Michigan,12583,MI82448,44,0,44,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,2001,Michigan,12509,MI82448,45,0,45,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grosse Pointe Park Dept Of Public Safety,2000,Michigan,12443,MI82448,45,0,45,8,7,1,0,0,1,1,0,0,0,1,0,0,1,0,2,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Grosse Pointe Park Dept Of Public Safety,2e3,Michigan,12443,MI82448,45,0,45,8,7,1,0,0,1,1,0,0,0,1,0,0,1,0,2,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
 Grosse Pointe Park Dept Of Public Safety,1999,Michigan,13099,MI82448,45,0,45,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1998,Michigan,12864,MI82448,45,0,45,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1997,Michigan,12969,MI82448,45,0,45,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grosse Pointe Park Dept Of Public Safety,1996,Michigan,12731,MI82448,42,1,41,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grosse Pointe Park Dept Of Public Safety,1996,Michigan,12731,MI82448,42,1,41,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Grosse Pointe Park Dept Of Public Safety,1995,Michigan,12672,MI82448,43,1,42,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grosse Pointe Park Dept Of Public Safety,1994,Michigan,13014,MI82448,45,1,44,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grosse Pointe Park Dept Of Public Safety,1994,Michigan,13014,MI82448,45,1,44,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Grosse Pointe Park Dept Of Public Safety,1993,Michigan,12990,MI82448,43,1,42,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1992,Michigan,13052,MI82448,43,1,42,3,3,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1991,Michigan,12957,MI82448,43,1,42,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -38,6 +38,6 @@ Grosse Pointe Park Dept Of Public Safety,1981,Michigan,13617,MI82448,30,0,30,2,0
 Grosse Pointe Park Dept Of Public Safety,1980,Michigan,13657,MI82448,32,0,32,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1979,Michigan,14382,MI82448,32,0,32,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Grosse Pointe Park Dept Of Public Safety,1978,Michigan,13133,MI82448,32,0,32,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-Grosse Pointe Park Dept Of Public Safety,1977,Michigan,16000,MI82448,32,0,32,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grosse Pointe Park Dept Of Public Safety,1976,Michigan,15604,MI82448,31,0,31,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Grosse Pointe Park Dept Of Public Safety,1977,Michigan,16e3,MI82448,32,0,32,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grosse Pointe Park Dept Of Public Safety,1976,Michigan,15604,MI82448,31,0,31,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Grosse Pointe Park Dept Of Public Safety,1975,Michigan,15535,MI82448,31,0,31,3,0,3,0,0,4,0,0,3,1,0,0,0,0,0,4,0,0,3,1,0,0,2,0,0,1,0,1,0,0,0

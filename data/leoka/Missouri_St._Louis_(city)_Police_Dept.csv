@@ -1,5 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-St. Louis (city) Police Dept,2016,Missouri,314507,MOSPD00,1194,194,1000,438,283,155,0,0,65,2,2,47,14,311,38,3,234,36,376,40,5,281,50,89,7,56,14,3,27,1,83,6,47,43
+St. Louis (city) Police Dept,2016,Missouri,314507,MOSPD00,1194,194,1e3,438,283,155,0,0,65,2,2,47,14,311,38,3,234,36,376,40,5,281,50,89,7,56,14,3,27,1,83,6,47,43
 St. Louis (city) Police Dept,2015,Missouri,317095,MOSPD00,1230,201,1029,527,312,215,0,0,57,2,0,43,12,355,67,8,219,61,412,69,8,262,73,122,3,67,6,21,22,4,62,1,66,38
 St. Louis (city) Police Dept,2014,Missouri,318574,MOSPD00,1384,221,1163,562,338,224,0,0,60,0,0,45,15,317,53,8,212,44,377,53,8,257,59,107,1,58,9,16,21,0,45,11,58,51
 St. Louis (city) Police Dept,2013,Missouri,318563,MOSPD00,1287,202,1085,555,325,230,0,0,69,4,1,59,5,370,53,2,285,30,439,57,3,344,35,116,7,90,7,2,20,4,73,8,64,48
@@ -15,7 +15,7 @@ St. Louis (city) Police Dept,2004,Missouri,335143,MOSPD00,1410,203,1207,495,308,
 St. Louis (city) Police Dept,2003,Missouri,340256,MOSPD00,1489,209,1280,558,344,214,0,0,112,5,1,86,20,369,29,4,295,41,481,34,5,381,61,67,6,147,4,2,56,0,62,10,93,34
 St. Louis (city) Police Dept,2002,Missouri,353004,MOSPD00,1460,200,1260,595,353,242,0,0,140,3,0,122,15,409,30,7,337,35,549,33,7,459,50,38,7,200,10,7,88,1,73,4,87,34
 St. Louis (city) Police Dept,2001,Missouri,350336,MOSPD00,1408,177,1231,586,354,232,0,0,168,9,2,139,18,423,34,3,333,53,591,43,5,472,71,86,15,212,10,8,76,8,64,6,78,28
-St. Louis (city) Police Dept,2000,Missouri,348189,MOSPD00,1467,190,1277,603,373,230,0,1,185,9,1,145,30,457,47,6,360,44,642,56,7,505,74,71,5,280,7,2,100,5,79,7,45,41
+St. Louis (city) Police Dept,2e3,Missouri,348189,MOSPD00,1467,190,1277,603,373,230,0,1,185,9,1,145,30,457,47,6,360,44,642,56,7,505,74,71,5,280,7,2,100,5,79,7,45,41
 St. Louis (city) Police Dept,1999,Missouri,340836,MOSPD00,1589,218,1371,595,379,216,0,0,136,1,2,116,17,378,27,11,300,40,514,28,13,416,57,57,4,190,7,1,102,2,82,0,48,21
 St. Louis (city) Police Dept,1998,Missouri,344153,MOSPD00,1634,228,1406,618,416,202,0,0,145,3,1,121,20,523,47,8,413,55,668,50,9,534,75,65,12,269,3,3,139,0,76,2,59,40
 St. Louis (city) Police Dept,1997,Missouri,377221,MOSPD00,1563,196,1367,678,402,276,0,0,171,10,0,141,20,523,57,8,408,50,694,67,8,549,70,82,14,286,3,2,124,11,88,8,59,17
@@ -40,4 +40,4 @@ St. Louis (city) Police Dept,1979,Missouri,505451,MOSPD00,2002,64,1938,595,311,2
 St. Louis (city) Police Dept,1978,Missouri,525123,MOSPD00,1997,51,1946,591,309,282,0,0,204,2,7,162,33,288,29,8,217,34,492,31,15,379,67,32,0,80,13,0,64,2,170,23,34,74
 St. Louis (city) Police Dept,1977,Missouri,512059,MOSPD00,2091,54,2037,566,274,292,0,0,207,6,3,165,33,345,53,14,243,35,552,59,17,408,68,96,0,63,21,4,19,7,155,14,106,67
 St. Louis (city) Police Dept,1976,Missouri,534206,MOSPD00,2068,40,2028,564,293,271,0,0,251,6,7,176,62,372,50,8,283,31,623,56,15,459,93,41,5,117,11,0,63,11,158,25,100,92
-St. Louis (city) Police Dept,1975,Missouri,569000,MOSPD00,2173,34,2139,590,310,280,0,1,223,8,1,178,36,305,45,11,217,32,528,53,12,395,68,46,4,81,20,14,24,0,143,6,108,82
+St. Louis (city) Police Dept,1975,Missouri,569e3,MOSPD00,2173,34,2139,590,310,280,0,1,223,8,1,178,36,305,45,11,217,32,528,53,12,395,68,46,4,81,20,14,24,0,143,6,108,82

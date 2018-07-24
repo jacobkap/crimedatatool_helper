@@ -1,5 +1,5 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Carrollton Police Department,2015,Texas,130676,TX05704,159,14,145,40,27,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carrollton Police Department,2015,Texas,130676,TX05704,159,14,145,40,27,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Carrollton Police Department,2013,Texas,127459,TX05704,155,17,138,39,24,15,0,0,3,0,0,3,0,5,0,1,3,1,8,0,1,6,1,4,0,0,0,0,0,0,1,0,1,2
 Carrollton Police Department,2012,Texas,124477,TX05704,158,19,139,38,23,15,0,0,3,0,0,3,0,1,0,0,0,1,4,0,0,3,1,0,0,0,0,0,0,0,3,0,0,1
 Carrollton Police Department,2011,Texas,121603,TX05704,153,19,134,45,24,21,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1
@@ -13,7 +13,7 @@ Carrollton Police Department,2004,Texas,118674,TX05704,153,18,135,62,51,11,0,0,2
 Carrollton Police Department,2003,Texas,116897,TX05704,136,18,118,62,44,18,0,0,1,0,0,1,0,5,0,2,3,0,6,0,2,4,0,1,0,0,3,0,0,0,1,0,1,0
 Carrollton Police Department,2002,Texas,114453,TX05704,148,22,126,63,48,15,0,0,6,0,0,4,2,2,0,0,2,0,8,0,0,6,2,0,0,1,0,0,0,0,4,0,2,1
 Carrollton Police Department,2001,Texas,112063,TX05704,147,19,128,61,50,11,0,0,5,0,0,4,1,1,0,0,1,0,6,0,0,5,1,0,0,1,0,0,3,0,0,0,1,1
-Carrollton Police Department,2000,Texas,109576,TX05704,143,16,127,57,45,12,0,0,6,0,0,6,0,1,0,0,1,0,7,0,0,7,0,1,0,1,0,0,1,0,3,0,1,0
+Carrollton Police Department,2e3,Texas,109576,TX05704,143,16,127,57,45,12,0,0,6,0,0,6,0,1,0,0,1,0,7,0,0,7,0,1,0,1,0,0,1,0,3,0,1,0
 Carrollton Police Department,1999,Texas,101910,TX05704,135,16,119,57,43,14,0,0,4,0,0,3,1,3,0,0,1,2,7,0,0,4,3,0,0,0,1,0,1,0,3,0,1,1
 Carrollton Police Department,1998,Texas,101256,TX05704,134,18,116,55,44,11,0,0,6,0,0,3,3,7,0,0,4,3,13,0,0,7,6,1,0,6,0,0,3,0,0,0,0,3
 Carrollton Police Department,1997,Texas,99488,TX05704,132,18,114,59,48,11,0,0,5,0,0,5,0,6,0,0,5,1,11,0,0,10,1,0,0,0,0,0,7,2,1,0,0,1
@@ -31,7 +31,7 @@ Carrollton Police Department,1986,Texas,55131,TX05704,106,14,92,42,35,7,0,0,1,0,
 Carrollton Police Department,1985,Texas,52171,TX05704,93,12,81,31,27,4,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Carrollton Police Department,1984,Texas,30913,TX05704,72,9,63,29,25,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Carrollton Police Department,1983,Texas,29856,TX05704,67,7,60,28,25,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Carrollton Police Department,1982,Texas,29013,TX05704,66,7,59,27,24,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carrollton Police Department,1982,Texas,29013,TX05704,66,7,59,27,24,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Carrollton Police Department,1981,Texas,28016,TX05704,58,6,52,26,24,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Carrollton Police Department,1980,Texas,26905,TX05704,52,4,48,27,23,4,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0
 Carrollton Police Department,1979,Texas,30092,TX05704,49,4,45,21,18,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,17 +1,17 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Methodist University,2016,North Carolina,0,NC02608,11,1,10,13,3,10,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Methodist University,2015,North Carolina,0,NC02608,9,0,9,16,6,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Methodist University,2014,North Carolina,0,NC02608,8,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Methodist University,2014,North Carolina,0,NC02608,8,0,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Methodist University,2013,North Carolina,0,NC02608,8,0,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Methodist University,2012,North Carolina,0,NC02608,8,0,8,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Methodist University,2011,North Carolina,0,NC02608,7,0,7,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Methodist University,2010,North Carolina,0,NC02608,7,0,7,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Methodist University,2009,North Carolina,0,NC02608,6,0,6,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Methodist University,2012,North Carolina,0,NC02608,8,0,8,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Methodist University,2011,North Carolina,0,NC02608,7,0,7,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Methodist University,2010,North Carolina,0,NC02608,7,0,7,3,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Methodist University,2009,North Carolina,0,NC02608,6,0,6,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Methodist University,2008,North Carolina,0,NC02608,5,1,4,18,4,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Methodist University,2007,North Carolina,0,NC02608,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Methodist University,2002,North Carolina,0,NC02608,7,3,4,16,5,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Methodist University,2001,North Carolina,0,NC02608,6,1,5,19,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Methodist University,2000,North Carolina,0,NC02608,4,1,3,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Methodist University,2e3,North Carolina,0,NC02608,4,1,3,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Methodist University,1999,North Carolina,0,NC02608,5,0,5,12,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Methodist University,1998,North Carolina,0,NC02608,6,0,6,14,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Methodist University,1997,North Carolina,0,NC02608,6,0,6,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

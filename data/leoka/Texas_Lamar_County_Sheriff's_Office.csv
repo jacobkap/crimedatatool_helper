@@ -15,7 +15,7 @@ Lamar County Sheriff's Office,2004,Texas,20412,TX13900,23,2,21,51,26,25,0,0,0,0,
 Lamar County Sheriff's Office,2003,Texas,20355,TX13900,23,2,21,51,24,27,0,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
 Lamar County Sheriff's Office,2002,Texas,20717,TX13900,23,2,21,47,24,23,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Lamar County Sheriff's Office,2001,Texas,20284,TX13900,22,1,21,47,25,22,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,0,1
-Lamar County Sheriff's Office,2000,Texas,19834,TX13900,20,1,19,42,23,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lamar County Sheriff's Office,2e3,Texas,19834,TX13900,20,1,19,42,23,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lamar County Sheriff's Office,1999,Texas,20828,TX13900,20,1,19,44,24,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lamar County Sheriff's Office,1998,Texas,20796,TX13900,20,1,19,43,24,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lamar County Sheriff's Office,1997,Texas,21580,TX13900,19,0,19,44,21,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,12 +32,12 @@ Lamar County Sheriff's Office,1987,Texas,18911,TX13900,15,1,14,28,13,15,0,0,3,0,
 Lamar County Sheriff's Office,1986,Texas,19017,TX13900,15,0,15,19,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lamar County Sheriff's Office,1985,Texas,18156,TX13900,14,0,14,16,8,8,0,0,1,1,0,0,0,3,1,0,2,0,4,2,0,2,0,0,0,4,0,0,0,0,0,0,0,0
 Lamar County Sheriff's Office,1984,Texas,17831,TX13900,11,0,11,16,7,9,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
-Lamar County Sheriff's Office,1983,Texas,18427,TX13900,12,0,12,14,9,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lamar County Sheriff's Office,1982,Texas,17907,TX13900,12,0,12,14,8,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lamar County Sheriff's Office,1983,Texas,18427,TX13900,12,0,12,14,9,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lamar County Sheriff's Office,1982,Texas,17907,TX13900,12,0,12,14,8,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lamar County Sheriff's Office,1981,Texas,17292,TX13900,12,0,12,13,5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lamar County Sheriff's Office,1980,Texas,16606,TX13900,14,1,13,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lamar County Sheriff's Office,1979,Texas,14725,TX13900,13,1,12,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lamar County Sheriff's Office,1978,Texas,12647,TX13900,12,0,12,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lamar County Sheriff's Office,1977,Texas,11625,TX13900,13,1,12,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lamar County Sheriff's Office,1976,Texas,10003,TX13900,9,1,8,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lamar County Sheriff's Office,1975,Texas,12491,TX13900,9,1,8,6,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lamar County Sheriff's Office,1976,Texas,10003,TX13900,9,1,8,6,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lamar County Sheriff's Office,1975,Texas,12491,TX13900,9,1,8,6,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

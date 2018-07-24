@@ -15,11 +15,11 @@ Hawthorne Police Department,2004,California,87167,CA01928,99,6,93,53,39,14,0,0,1
 Hawthorne Police Department,2003,California,86836,CA01928,101,6,95,60,40,20,0,0,7,0,0,7,0,22,8,2,11,1,29,8,2,18,1,3,0,1,0,0,1,0,21,0,1,2
 Hawthorne Police Department,2002,California,87202,CA01928,96,6,90,41,33,8,0,0,5,0,0,5,0,11,0,0,9,2,16,0,0,14,2,2,0,0,0,0,5,0,4,0,1,4
 Hawthorne Police Department,2001,California,85675,CA01928,92,5,87,42,32,10,0,0,5,0,0,5,0,16,4,0,9,3,21,4,0,14,3,3,0,0,0,0,3,4,6,0,0,5
-Hawthorne Police Department,2000,California,84112,CA01928,83,6,77,37,30,7,0,0,6,0,0,3,3,14,0,0,12,2,20,0,0,15,5,2,0,0,1,0,3,0,4,0,2,8
+Hawthorne Police Department,2e3,California,84112,CA01928,83,6,77,37,30,7,0,0,6,0,0,3,3,14,0,0,12,2,20,0,0,15,5,2,0,0,1,0,3,0,4,0,2,8
 Hawthorne Police Department,1999,California,74489,CA01928,83,6,77,50,39,11,0,0,2,0,0,0,2,14,0,0,10,4,16,0,0,10,6,4,0,0,1,0,0,0,8,0,3,0
 Hawthorne Police Department,1998,California,74345,CA01928,88,6,82,35,30,5,0,0,1,0,0,1,0,12,1,0,6,5,13,1,0,7,5,2,0,0,0,0,0,0,4,0,1,6
 Hawthorne Police Department,1997,California,77333,CA01928,98,6,92,41,31,10,0,0,8,0,0,8,0,10,0,0,7,3,18,0,0,15,3,4,0,0,0,0,0,1,9,0,2,2
-Hawthorne Police Department,1996,California,76399,CA01928,97,8,89,40,31,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorne Police Department,1996,California,76399,CA01928,97,8,89,40,31,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hawthorne Police Department,1995,California,75707,CA01928,90,8,82,35,31,4,0,0,3,0,0,3,0,6,0,3,3,0,9,0,3,6,0,0,0,0,0,0,0,0,7,0,2,0
 Hawthorne Police Department,1994,California,76205,CA01928,101,10,91,50,34,16,0,0,3,0,0,3,0,14,2,0,9,3,17,2,0,12,3,0,0,4,0,0,0,0,9,0,2,2
 Hawthorne Police Department,1993,California,75672,CA01928,94,9,85,51,37,14,0,0,2,0,0,2,0,8,0,0,5,3,10,0,0,7,3,0,0,0,0,0,0,0,9,0,1,0
@@ -36,8 +36,8 @@ Hawthorne Police Department,1983,California,60279,CA01928,81,4,77,51,40,11,0,0,4
 Hawthorne Police Department,1982,California,59202,CA01928,85,4,81,38,31,7,0,0,12,0,0,12,0,19,0,0,19,0,31,0,0,31,0,1,0,0,0,2,4,0,15,0,4,5
 Hawthorne Police Department,1981,California,57849,CA01928,80,5,75,24,16,8,0,0,7,0,0,7,0,9,1,0,6,2,16,1,0,13,2,1,0,1,0,1,1,0,6,1,3,2
 Hawthorne Police Department,1980,California,56349,CA01928,77,3,74,10,9,1,0,0,13,1,0,12,0,2,0,1,1,0,15,1,1,13,0,0,0,3,1,0,0,0,7,0,3,1
-Hawthorne Police Department,1979,California,55574,CA01928,69,2,67,15,9,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hawthorne Police Department,1979,California,55574,CA01928,69,2,67,15,9,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hawthorne Police Department,1978,California,54193,CA01928,69,1,68,12,9,3,0,0,6,0,0,5,1,4,0,0,4,0,10,0,0,9,1,0,0,0,0,0,2,0,6,0,1,1
 Hawthorne Police Department,1977,California,56946,CA01928,72,1,71,11,10,1,0,0,19,0,0,18,1,19,6,0,11,2,38,6,0,29,3,0,0,1,2,6,1,0,16,3,1,8
-Hawthorne Police Department,1976,California,56000,CA01928,61,1,60,13,10,3,0,0,5,0,0,2,3,25,1,3,18,3,30,1,3,20,6,6,0,2,1,0,1,0,15,0,2,3
+Hawthorne Police Department,1976,California,56e3,CA01928,61,1,60,13,10,3,0,0,5,0,0,2,3,25,1,3,18,3,30,1,3,20,6,6,0,2,1,0,1,0,15,0,2,3
 Hawthorne Police Department,1975,California,56191,CA01928,63,1,62,16,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

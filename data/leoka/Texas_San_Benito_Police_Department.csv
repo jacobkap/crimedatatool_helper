@@ -1,7 +1,7 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 San Benito Police Department,2016,Texas,24535,TX03109,43,4,39,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-San Benito Police Department,2015,Texas,24557,TX03109,43,3,40,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-San Benito Police Department,2013,Texas,24555,TX03109,43,3,40,8,2,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+San Benito Police Department,2015,Texas,24557,TX03109,43,3,40,8,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+San Benito Police Department,2013,Texas,24555,TX03109,43,3,40,8,2,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 San Benito Police Department,2012,Texas,25099,TX03109,42,3,39,8,3,5,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1
 San Benito Police Department,2011,Texas,24760,TX03109,39,2,37,8,3,5,0,0,5,0,0,5,0,3,0,0,3,0,8,0,0,8,0,0,0,5,0,0,1,0,2,0,0,0
 San Benito Police Department,2010,Texas,24250,TX03109,131,7,124,38,29,9,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,1,0,0,2,0,1,0,0,0
@@ -13,7 +13,7 @@ San Benito Police Department,2004,Texas,24615,TX03109,43,2,41,8,7,1,0,0,0,0,0,0,
 San Benito Police Department,2003,Texas,24442,TX03109,43,2,41,8,5,3,0,0,2,0,0,1,1,3,0,0,1,2,5,0,0,2,3,0,0,0,0,0,0,0,3,0,0,2
 San Benito Police Department,2002,Texas,24488,TX03109,42,3,39,7,5,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 San Benito Police Department,2001,Texas,23976,TX03109,37,2,35,9,5,4,0,0,6,0,0,6,0,1,0,0,1,0,7,0,0,7,0,0,0,2,0,0,4,0,1,0,0,0
-San Benito Police Department,2000,Texas,23444,TX03109,41,2,39,7,6,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,2,0,0,0,0,1,0,0,1
+San Benito Police Department,2e3,Texas,23444,TX03109,41,2,39,7,6,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,2,0,0,0,0,1,0,0,1
 San Benito Police Department,1999,Texas,23653,TX03109,49,3,46,6,5,1,0,0,5,0,0,4,1,0,0,0,0,0,5,0,0,4,1,0,0,0,0,0,0,0,1,0,4,0
 San Benito Police Department,1998,Texas,23948,TX03109,53,3,50,6,5,1,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,2,0,0,1,0,0,0,0,0
 San Benito Police Department,1997,Texas,24662,TX03109,51,3,48,8,7,1,0,0,8,0,0,7,1,6,0,1,3,2,14,0,1,10,3,0,0,5,0,0,4,0,4,0,1,0
@@ -35,7 +35,7 @@ San Benito Police Department,1982,Texas,19266,TX03109,26,3,23,6,5,1,0,0,0,0,0,0,
 San Benito Police Department,1981,Texas,18604,TX03109,23,1,22,6,5,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 San Benito Police Department,1980,Texas,17866,TX03109,26,1,25,6,5,1,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 San Benito Police Department,1979,Texas,18014,TX03109,23,1,22,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-San Benito Police Department,1978,Texas,18500,TX03109,19,1,18,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+San Benito Police Department,1978,Texas,18500,TX03109,19,1,18,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 San Benito Police Department,1977,Texas,16086,TX03109,20,1,19,5,2,3,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
-San Benito Police Department,1976,Texas,18000,TX03109,18,0,18,5,2,3,0,0,3,0,0,2,1,1,0,0,1,0,4,0,0,3,1,3,0,0,0,0,0,0,1,0,0,0
+San Benito Police Department,1976,Texas,18e3,TX03109,18,0,18,5,2,3,0,0,3,0,0,2,1,1,0,0,1,0,4,0,0,3,1,3,0,0,0,0,0,0,1,0,0,0
 San Benito Police Department,1975,Texas,17618,TX03109,19,0,19,5,3,2,0,0,3,0,0,2,1,0,0,0,0,0,3,0,0,2,1,1,0,1,0,0,0,0,0,0,1,0

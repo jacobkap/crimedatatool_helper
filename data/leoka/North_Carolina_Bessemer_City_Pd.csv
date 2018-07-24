@@ -2,9 +2,9 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Bessemer City Pd,2016,North Carolina,5591,NC03602,12,0,12,1,1,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,2,0,0,0,0,0,0,1,0,0,0
 Bessemer City Pd,2015,North Carolina,5521,NC03602,9,0,9,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Bessemer City Pd,2014,North Carolina,5466,NC03602,10,0,10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bessemer City Pd,2000,North Carolina,5119,NC03602,8,0,8,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bessemer City Pd,1999,North Carolina,4764,NC03602,8,0,8,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bessemer City Pd,1998,North Carolina,4511,NC03602,8,0,8,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bessemer City Pd,2e3,North Carolina,5119,NC03602,8,0,8,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bessemer City Pd,1999,North Carolina,4764,NC03602,8,0,8,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bessemer City Pd,1998,North Carolina,4511,NC03602,8,0,8,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bessemer City Pd,1997,North Carolina,5763,NC03602,12,0,12,4,4,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Bessemer City Pd,1996,North Carolina,5684,NC03602,10,0,10,4,0,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Bessemer City Pd,1995,North Carolina,5585,NC03602,9,0,9,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -12,10 +12,10 @@ Bessemer City Pd,1994,North Carolina,5190,NC03602,11,1,10,5,4,1,0,0,1,0,0,1,0,0,
 Bessemer City Pd,1993,North Carolina,5099,NC03602,11,0,11,5,4,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,0,0,0,2,0,0,0
 Bessemer City Pd,1992,North Carolina,4849,NC03602,11,1,10,4,1,3,0,0,0,0,0,0,0,4,0,0,11,2,4,0,0,2,2,1,1,0,0,0,0,0,2,0,0,0
 Bessemer City Pd,1991,North Carolina,4774,NC03602,11,1,10,4,2,2,0,0,0,0,0,0,0,3,0,0,1,2,3,0,0,1,2,1,1,0,0,0,0,0,1,0,0,0
-Bessemer City Pd,1990,North Carolina,4698,NC03602,10,2,8,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bessemer City Pd,1989,North Carolina,4821,NC03602,9,2,7,4,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bessemer City Pd,1988,North Carolina,5091,NC03602,10,1,9,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bessemer City Pd,1987,North Carolina,5014,NC03602,10,1,9,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bessemer City Pd,1990,North Carolina,4698,NC03602,10,2,8,4,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bessemer City Pd,1989,North Carolina,4821,NC03602,9,2,7,4,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bessemer City Pd,1988,North Carolina,5091,NC03602,10,1,9,4,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bessemer City Pd,1987,North Carolina,5014,NC03602,10,1,9,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bessemer City Pd,1986,North Carolina,5144,NC03602,9,0,9,3,3,0,0,0,0,0,0,0,0,6,0,1,5,0,6,0,1,5,0,0,0,4,0,1,0,0,1,0,0,0
 Bessemer City Pd,1985,North Carolina,5021,NC03602,11,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bessemer City Pd,1984,North Carolina,4948,NC03602,13,0,13,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -27,4 +27,4 @@ Bessemer City Pd,1979,North Carolina,5489,NC03602,10,1,9,2,0,2,0,0,0,0,0,0,0,0,0
 Bessemer City Pd,1978,North Carolina,5420,NC03602,11,0,11,2,0,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Bessemer City Pd,1977,North Carolina,5400,NC03602,10,0,10,2,0,2,0,0,0,0,0,0,0,5,4,0,1,0,5,4,0,1,0,0,0,0,0,0,0,1,4,0,0,0
 Bessemer City Pd,1976,North Carolina,5003,NC03602,10,0,10,2,0,2,0,0,3,0,0,3,0,3,1,0,2,0,6,1,0,5,0,0,0,1,0,0,0,0,5,0,0,0
-Bessemer City Pd,1975,North Carolina,5559,NC03602,11,0,11,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bessemer City Pd,1975,North Carolina,5559,NC03602,11,0,11,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

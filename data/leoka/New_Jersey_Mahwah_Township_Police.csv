@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Mahwah Township Police,2016,New Jersey,26588,NJ00233,52,1,51,8,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahwah Township Police,2015,New Jersey,26601,NJ00233,52,1,51,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahwah Township Police,2014,New Jersey,26502,NJ00233,48,1,47,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mahwah Township Police,2013,New Jersey,26292,NJ00233,51,1,50,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mahwah Township Police,2013,New Jersey,26292,NJ00233,51,1,50,8,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mahwah Township Police,2012,New Jersey,26170,NJ00233,51,1,50,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahwah Township Police,2011,New Jersey,25976,NJ00233,52,1,51,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mahwah Township Police,2010,New Jersey,25890,NJ00233,51,1,50,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,9 +15,9 @@ Mahwah Township Police,2004,New Jersey,24631,NJ00233,55,1,54,9,4,5,0,0,1,0,0,1,0
 Mahwah Township Police,2003,New Jersey,24503,NJ00233,56,1,55,9,4,5,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 Mahwah Township Police,2002,New Jersey,24565,NJ00233,54,1,53,9,5,4,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
 Mahwah Township Police,2001,New Jersey,24262,NJ00233,54,2,52,9,5,4,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
-Mahwah Township Police,2000,New Jersey,24062,NJ00233,54,2,52,10,5,5,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,1,0,0,0,0,2,0,0,1
+Mahwah Township Police,2e3,New Jersey,24062,NJ00233,54,2,52,10,5,5,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,1,0,0,0,0,2,0,0,1
 Mahwah Township Police,1999,New Jersey,21709,NJ00233,54,2,52,8,6,2,0,0,0,0,0,0,0,10,0,0,9,1,10,0,0,9,1,2,0,0,0,0,0,0,7,0,0,1
-Mahwah Township Police,1998,New Jersey,20805,NJ00233,52,1,51,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mahwah Township Police,1998,New Jersey,20805,NJ00233,52,1,51,6,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mahwah Township Police,1997,New Jersey,18947,NJ00233,50,0,50,5,2,3,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,2,0,0,0,0,0,0,1,0,0,0
 Mahwah Township Police,1996,New Jersey,18795,NJ00233,50,0,50,6,3,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Mahwah Township Police,1995,New Jersey,18694,NJ00233,50,0,50,6,3,3,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0

@@ -91,8 +91,9 @@ for (selected_ori in sort(unique(leoka$ORI))) {
   agency <- gsub(" |:", "_", agency)
   agency <- gsub("/", "_", agency)
   agency <- gsub("_+", "_", agency)
-  data.table::fwrite(temp,
-                     file = paste0(state, "_", agency, ".csv"))
+
+  readr::write_csv(temp,
+                   path = paste0(state, "_", agency, ".csv"))
 }
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")

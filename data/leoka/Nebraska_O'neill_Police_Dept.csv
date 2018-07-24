@@ -15,7 +15,7 @@ O'neill Police Dept,2004,Nebraska,3612,NB04501,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,2003,Nebraska,3660,NB04501,7,0,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,2002,Nebraska,3772,NB04501,7,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,2001,Nebraska,3737,NB04501,7,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-O'neill Police Dept,2000,Nebraska,3733,NB04501,7,1,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+O'neill Police Dept,2e3,Nebraska,3733,NB04501,7,1,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,1999,Nebraska,3702,NB04501,7,0,7,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,1998,Nebraska,3725,NB04501,7,0,7,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,1997,Nebraska,3851,NB04501,7,1,6,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,13 +25,13 @@ O'neill Police Dept,1994,Nebraska,3866,NB04501,7,0,7,5,5,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,1993,Nebraska,3828,NB04501,7,0,7,5,5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,1992,Nebraska,3918,NB04501,8,0,8,3,3,0,0,0,0,0,0,0,0,1,0,1,9,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
 O'neill Police Dept,1991,Nebraska,3887,NB04501,7,0,7,3,3,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-O'neill Police Dept,1990,Nebraska,3852,NB04501,5,1,4,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-O'neill Police Dept,1989,Nebraska,3801,NB04501,6,0,6,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-O'neill Police Dept,1988,Nebraska,3908,NB04501,6,0,6,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+O'neill Police Dept,1990,Nebraska,3852,NB04501,5,1,4,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+O'neill Police Dept,1989,Nebraska,3801,NB04501,6,0,6,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+O'neill Police Dept,1988,Nebraska,3908,NB04501,6,0,6,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 O'neill Police Dept,1987,Nebraska,3911,NB04501,6,0,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,1986,Nebraska,4119,NB04501,6,0,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,1985,Nebraska,4198,NB04501,6,0,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-O'neill Police Dept,1984,Nebraska,4233,NB04501,6,0,6,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+O'neill Police Dept,1984,Nebraska,4233,NB04501,6,0,6,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 O'neill Police Dept,1983,Nebraska,4137,NB04501,6,0,6,16,7,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,1982,Nebraska,4109,NB04501,6,0,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 O'neill Police Dept,1981,Nebraska,4083,NB04501,6,0,6,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

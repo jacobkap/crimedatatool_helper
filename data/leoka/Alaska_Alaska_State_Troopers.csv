@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 Alaska State Troopers,2013,Alaska,257070,AKASP00,454,19,435,189,138,51,0,0,11,1,1,8,1,41,18,1,16,6,52,19,2,24,7,0,0,16,0,0,5,0,24,1,1,5
-Alaska State Troopers,2012,Alaska,255766,AKASP00,399,17,382,238,137,101,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alaska State Troopers,2012,Alaska,255766,AKASP00,399,17,382,238,137,101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alaska State Troopers,2011,Alaska,251849,AKASP00,373,14,359,250,142,108,0,0,17,0,0,13,4,51,11,0,23,17,68,11,0,36,21,2,0,3,0,0,3,0,49,0,0,11
 Alaska State Troopers,2010,Alaska,245582,AKASP00,335,11,324,254,131,123,0,0,2,0,0,1,1,24,9,0,13,2,26,9,0,14,3,2,0,2,0,0,0,1,11,0,2,8
 Alaska State Troopers,2009,Alaska,233013,AKASP00,363,11,352,245,134,111,0,0,7,1,0,1,5,31,19,2,3,7,38,20,2,4,12,0,0,2,0,0,4,0,26,0,1,5
@@ -12,7 +12,7 @@ Alaska State Troopers,2004,Alaska,212653,AKASP00,353,19,334,213,134,79,0,0,5,0,0
 Alaska State Troopers,2003,Alaska,210383,AKASP00,320,19,301,222,145,77,0,0,2,1,0,1,0,8,0,5,2,1,10,1,5,3,1,1,0,1,0,1,0,1,5,0,1,0
 Alaska State Troopers,2002,Alaska,209156,AKASP00,341,18,323,244,150,94,0,0,1,1,0,0,0,4,0,3,0,1,5,1,3,0,1,1,0,1,0,0,0,0,2,0,0,1
 Alaska State Troopers,2001,Alaska,206159,AKASP00,340,17,323,251,156,95,0,0,1,0,1,0,0,9,7,2,0,0,10,7,3,0,0,0,0,1,0,1,0,0,8,0,0,0
-Alaska State Troopers,2000,Alaska,203574,AKASP00,293,17,276,237,150,87,0,0,5,0,0,2,3,3,0,0,3,0,8,0,0,5,3,1,0,1,0,0,2,0,2,0,2,0
+Alaska State Troopers,2e3,Alaska,203574,AKASP00,293,17,276,237,150,87,0,0,5,0,0,2,3,3,0,0,3,0,8,0,0,5,3,1,0,1,0,0,2,0,2,0,2,0
 Alaska State Troopers,1999,Alaska,193499,AKASP00,293,17,276,237,150,87,0,0,2,0,2,0,0,10,7,3,0,0,12,7,5,0,0,2,0,0,6,0,0,0,0,0,4,0
 Alaska State Troopers,1998,Alaska,193333,AKASP00,240,10,230,211,120,91,0,0,3,2,1,0,0,8,2,1,4,1,11,4,2,4,1,2,0,3,0,1,0,0,2,0,1,2
 Alaska State Troopers,1996,Alaska,191098,AKASP00,317,18,299,214,143,71,0,0,12,1,0,11,0,35,13,9,12,1,47,14,9,23,1,5,0,1,1,2,9,0,21,2,2,4
@@ -20,12 +20,12 @@ Alaska State Troopers,1995,Alaska,190153,AKASP00,321,19,302,207,136,71,0,0,2,0,2
 Alaska State Troopers,1994,Alaska,190603,AKASP00,330,19,311,175,132,43,0,0,5,1,2,2,0,31,12,4,15,0,36,13,6,17,0,3,0,2,0,0,5,0,13,0,12,1
 Alaska State Troopers,1993,Alaska,189055,AKASP00,356,19,337,179,131,48,0,0,5,0,0,5,0,12,7,1,4,0,17,7,1,9,0,1,0,2,0,2,0,0,12,0,0,0
 Alaska State Troopers,1992,Alaska,192339,AKASP00,340,16,324,181,135,46,0,0,12,0,0,6,6,31,26,0,13,1,43,26,0,10,7,27,1,0,0,0,2,0,7,0,0,6
-Alaska State Troopers,1991,Alaska,186752,AKASP00,350,16,334,243,154,89,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alaska State Troopers,1991,Alaska,186752,AKASP00,350,16,334,243,154,89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alaska State Troopers,1990,Alaska,180214,AKASP00,371,22,349,169,128,41,0,0,5,2,0,3,0,46,14,3,27,2,51,16,3,30,2,0,0,1,0,0,0,0,50,0,0,0
 Alaska State Troopers,1989,Alaska,129151,AKASP00,331,16,315,219,138,81,0,0,2,0,0,2,0,28,1,1,24,2,30,1,1,26,2,2,0,13,1,2,1,1,8,0,1,1
 Alaska State Troopers,1988,Alaska,125720,AKASP00,335,17,318,253,144,109,0,0,1,0,0,1,0,34,3,0,30,1,35,3,0,31,1,1,0,16,0,0,0,0,15,0,0,3
 Alaska State Troopers,1987,Alaska,125370,AKASP00,326,14,312,223,93,130,0,0,0,0,0,0,0,52,7,2,41,2,52,7,2,41,2,7,0,6,0,0,6,0,25,0,1,7
 Alaska State Troopers,1986,Alaska,161026,AKASP00,365,12,353,406,176,230,0,0,11,0,0,11,0,46,5,0,40,1,57,5,0,51,1,4,0,8,0,1,2,0,32,0,3,7
-Alaska State Troopers,1985,Alaska,162622,AKASP00,390,13,377,180,124,56,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Alaska State Troopers,1984,Alaska,148610,AKASP00,309,12,297,212,136,76,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alaska State Troopers,1985,Alaska,162622,AKASP00,390,13,377,180,124,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska State Troopers,1984,Alaska,148610,AKASP00,309,12,297,212,136,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alaska State Troopers,1983,Alaska,147125,AKASP00,424,12,412,433,293,140,0,0,16,0,0,16,0,49,10,1,36,2,65,10,1,52,2,9,0,9,0,0,24,0,7,0,6,10

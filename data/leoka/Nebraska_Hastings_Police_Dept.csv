@@ -1,21 +1,21 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Hastings Police Dept,2016,Nebraska,24872,NB00101,39,6,33,14,13,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hastings Police Dept,2016,Nebraska,24872,NB00101,39,6,33,14,13,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hastings Police Dept,2015,Nebraska,24849,NB00101,39,5,34,17,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hastings Police Dept,2014,Nebraska,25070,NB00101,36,4,32,16,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hastings Police Dept,2013,Nebraska,25012,NB00101,38,5,33,14,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hastings Police Dept,2012,Nebraska,24961,NB00101,37,5,32,11,11,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0
 Hastings Police Dept,2011,Nebraska,25129,NB00101,35,5,30,11,11,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1
 Hastings Police Dept,2010,Nebraska,24907,NB00101,36,4,32,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hastings Police Dept,2009,Nebraska,25476,NB00101,36,5,31,14,13,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hastings Police Dept,2009,Nebraska,25476,NB00101,36,5,31,14,13,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hastings Police Dept,2008,Nebraska,25428,NB00101,36,5,31,14,13,1,0,0,3,0,0,3,0,8,0,0,8,0,11,0,0,11,0,0,0,2,0,0,1,0,3,0,2,3
 Hastings Police Dept,2007,Nebraska,25250,NB00101,38,4,34,14,13,1,0,0,7,0,0,4,3,6,0,0,6,0,13,0,0,10,3,0,0,1,0,0,0,3,1,0,1,7
-Hastings Police Dept,2006,Nebraska,25575,NB00101,37,6,31,14,13,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Hastings Police Dept,2005,Nebraska,23559,NB00101,33,5,28,14,13,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hastings Police Dept,2006,Nebraska,25575,NB00101,37,6,31,14,13,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hastings Police Dept,2005,Nebraska,23559,NB00101,33,5,28,14,13,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hastings Police Dept,2004,Nebraska,23643,NB00101,36,6,30,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hastings Police Dept,2003,Nebraska,24048,NB00101,35,6,29,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Hastings Police Dept,2002,Nebraska,24316,NB00101,38,4,34,15,15,0,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
 Hastings Police Dept,2001,Nebraska,24092,NB00101,37,4,33,14,14,0,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
-Hastings Police Dept,2000,Nebraska,24064,NB00101,37,4,33,16,16,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Hastings Police Dept,2e3,Nebraska,24064,NB00101,37,4,33,16,16,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Hastings Police Dept,1999,Nebraska,21399,NB00101,37,3,34,16,15,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
 Hastings Police Dept,1998,Nebraska,22123,NB00101,36,3,33,8,8,0,0,0,1,0,0,1,0,5,0,0,3,2,6,0,0,4,2,0,0,0,0,0,2,1,2,0,0,1
 Hastings Police Dept,1997,Nebraska,23436,NB00101,37,3,34,17,16,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
@@ -33,7 +33,7 @@ Hastings Police Dept,1986,Nebraska,22955,NB00101,32,2,30,3,3,0,0,0,1,1,0,0,0,4,2
 Hastings Police Dept,1985,Nebraska,23280,NB00101,32,2,30,9,9,0,0,0,3,0,2,1,0,3,0,0,2,1,6,0,2,3,1,0,0,0,0,0,1,0,4,0,0,1
 Hastings Police Dept,1984,Nebraska,23737,NB00101,32,2,30,9,9,0,0,0,1,0,0,0,1,2,0,0,2,0,3,0,0,2,1,0,0,0,0,0,0,0,2,0,1,0
 Hastings Police Dept,1983,Nebraska,23505,NB00101,32,2,30,10,10,0,0,0,4,0,0,4,0,7,1,0,6,0,11,1,0,10,0,1,0,1,0,0,0,0,7,0,0,2
-Hastings Police Dept,1982,Nebraska,23344,NB00101,33,2,31,10,10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hastings Police Dept,1982,Nebraska,23344,NB00101,33,2,31,10,10,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hastings Police Dept,1981,Nebraska,23197,NB00101,33,2,31,10,10,0,0,0,3,0,0,3,0,2,1,0,1,0,5,1,0,4,0,1,0,0,0,0,0,0,4,0,0,0
 Hastings Police Dept,1980,Nebraska,23019,NB00101,34,2,32,11,11,0,0,0,3,0,0,3,0,10,3,0,6,1,13,3,0,9,1,2,0,1,0,0,1,0,9,0,0,0
 Hastings Police Dept,1979,Nebraska,22723,NB00101,34,2,32,11,11,0,0,0,3,0,0,3,0,3,0,1,2,0,6,0,1,5,0,0,0,0,0,0,1,0,5,0,0,0

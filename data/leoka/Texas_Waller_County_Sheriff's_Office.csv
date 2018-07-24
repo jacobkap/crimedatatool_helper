@@ -15,7 +15,7 @@ Waller County Sheriff's Office,2004,Texas,22762,TX23700,31,6,25,26,15,11,1,0,0,0
 Waller County Sheriff's Office,2003,Texas,22653,TX23700,27,3,24,26,18,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Waller County Sheriff's Office,2002,Texas,22994,TX23700,23,3,20,27,17,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Waller County Sheriff's Office,2001,Texas,22515,TX23700,23,4,19,26,16,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Waller County Sheriff's Office,2000,Texas,22014,TX23700,21,4,17,25,15,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Waller County Sheriff's Office,2e3,Texas,22014,TX23700,21,4,17,25,15,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Waller County Sheriff's Office,1999,Texas,16831,TX23700,22,4,18,25,13,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Waller County Sheriff's Office,1998,Texas,16778,TX23700,19,3,16,26,16,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Waller County Sheriff's Office,1997,Texas,17194,TX23700,20,3,17,22,14,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -32,12 +32,12 @@ Waller County Sheriff's Office,1987,Texas,13938,TX23700,10,1,9,19,9,10,0,0,0,0,0
 Waller County Sheriff's Office,1986,Texas,14401,TX23700,15,1,14,6,1,5,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,0,0,0,2,0,0,0,0,1,0,0,0
 Waller County Sheriff's Office,1985,Texas,15453,TX23700,11,1,10,11,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Waller County Sheriff's Office,1984,Texas,15425,TX23700,12,1,11,11,5,6,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-Waller County Sheriff's Office,1983,Texas,14763,TX23700,10,1,9,9,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Waller County Sheriff's Office,1982,Texas,17803,TX23700,8,0,8,9,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Waller County Sheriff's Office,1983,Texas,14763,TX23700,10,1,9,9,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Waller County Sheriff's Office,1982,Texas,17803,TX23700,8,0,8,9,5,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Waller County Sheriff's Office,1981,Texas,17192,TX23700,9,1,8,6,6,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
 Waller County Sheriff's Office,1980,Texas,16510,TX23700,8,0,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Waller County Sheriff's Office,1979,Texas,13563,TX23700,8,0,8,4,4,0,0,0,2,2,0,0,0,1,1,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0
 Waller County Sheriff's Office,1978,Texas,16854,TX23700,11,0,11,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Waller County Sheriff's Office,1977,Texas,14486,TX23700,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Waller County Sheriff's Office,1976,Texas,14868,TX23700,4,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Waller County Sheriff's Office,1975,Texas,15634,TX23700,9,1,8,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Waller County Sheriff's Office,1976,Texas,14868,TX23700,4,0,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Waller County Sheriff's Office,1975,Texas,15634,TX23700,9,1,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

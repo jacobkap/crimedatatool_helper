@@ -8,14 +8,14 @@ Meeker Police Department,2011,Oklahoma,1156,OK04111,4,0,4,0,0,0,0,0,1,0,0,0,1,0,
 Meeker Police Department,2010,Oklahoma,1144,OK04111,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,2009,Oklahoma,982,OK04111,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,2008,Oklahoma,981,OK04111,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Meeker Police Department,2007,Oklahoma,1000,OK04111,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meeker Police Department,2007,Oklahoma,1e3,OK04111,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,2006,Oklahoma,998,OK04111,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,2005,Oklahoma,991,OK04111,5,0,5,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Meeker Police Department,2004,Oklahoma,979,OK04111,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,2003,Oklahoma,978,OK04111,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,2002,Oklahoma,990,OK04111,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,2001,Oklahoma,981,OK04111,6,1,5,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-Meeker Police Department,2000,Oklahoma,978,OK04111,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meeker Police Department,2e3,Oklahoma,978,OK04111,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,1999,Oklahoma,1025,OK04111,5,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,1998,Oklahoma,1041,OK04111,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,1997,Oklahoma,1071,OK04111,5,0,5,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
@@ -34,5 +34,5 @@ Meeker Police Department,1985,Oklahoma,1098,OK04111,2,0,2,0,0,0,0,0,0,0,0,0,0,0,
 Meeker Police Department,1984,Oklahoma,1097,OK04111,3,0,3,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0
 Meeker Police Department,1983,Oklahoma,1127,OK04111,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Meeker Police Department,1982,Oklahoma,1086,OK04111,2,0,2,0,0,0,0,0,0,0,0,0,0,5,1,0,2,2,5,1,0,2,2,0,0,0,0,0,0,0,1,0,0,4
-Meeker Police Department,1981,Oklahoma,1059,OK04111,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Meeker Police Department,1980,Oklahoma,1026,OK04111,3,0,3,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Meeker Police Department,1981,Oklahoma,1059,OK04111,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Meeker Police Department,1980,Oklahoma,1026,OK04111,3,0,3,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

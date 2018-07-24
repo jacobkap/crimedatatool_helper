@@ -14,7 +14,7 @@ Bangs Police Department,2004,Texas,1652,TX02501,3,0,3,0,0,0,0,0,1,0,0,1,0,1,0,0,
 Bangs Police Department,2003,Texas,1658,TX02501,3,0,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,2002,Texas,1692,TX02501,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,2001,Texas,1657,TX02501,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bangs Police Department,2000,Texas,1620,TX02501,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bangs Police Department,2e3,Texas,1620,TX02501,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,1999,Texas,1635,TX02501,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,1998,Texas,1652,TX02501,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,1997,Texas,1666,TX02501,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -26,14 +26,14 @@ Bangs Police Department,1992,Texas,1616,TX02501,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 Bangs Police Department,1991,Texas,1588,TX02501,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,1990,Texas,1555,TX02501,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,1989,Texas,1857,TX02501,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bangs Police Department,1985,Texas,1922,TX02501,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bangs Police Department,1984,Texas,1877,TX02501,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bangs Police Department,1985,Texas,1922,TX02501,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bangs Police Department,1984,Texas,1877,TX02501,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bangs Police Department,1983,Texas,1885,TX02501,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,1982,Texas,1832,TX02501,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,1981,Texas,1769,TX02501,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bangs Police Department,1980,Texas,1699,TX02501,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bangs Police Department,1980,Texas,1699,TX02501,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bangs Police Department,1979,Texas,1434,TX02501,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,1978,Texas,2380,TX02501,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,1977,Texas,2100,TX02501,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bangs Police Department,1976,Texas,1300,TX02501,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bangs Police Department,1975,Texas,1232,TX02501,1,0,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bangs Police Department,1975,Texas,1232,TX02501,1,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

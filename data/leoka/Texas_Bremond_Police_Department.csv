@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Bremond Police Department,2016,Texas,919,TX19801,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bremond Police Department,2015,Texas,916,TX19801,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bremond Police Department,2014,Texas,911,TX19801,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bremond Police Department,2013,Texas,926,TX19801,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bremond Police Department,2013,Texas,926,TX19801,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Bremond Police Department,2012,Texas,950,TX19801,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bremond Police Department,2011,Texas,949,TX19801,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bremond Police Department,2010,Texas,929,TX19801,5,0,5,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
@@ -11,4 +11,4 @@ Bremond Police Department,2008,Texas,861,TX19801,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bremond Police Department,2007,Texas,895,TX19801,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bremond Police Department,2006,Texas,921,TX19801,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Bremond Police Department,2005,Texas,909,TX19801,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bremond Police Department,2004,Texas,875,TX19801,2,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Bremond Police Department,2004,Texas,875,TX19801,2,0,2,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

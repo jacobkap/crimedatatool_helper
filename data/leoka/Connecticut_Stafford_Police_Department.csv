@@ -1,16 +1,16 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Stafford Police Department,1998,Connecticut,4209,CT00134,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Stafford Police Department,1988,Connecticut,10048,CT00134,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stafford Police Department,1998,Connecticut,4209,CT00134,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Stafford Police Department,1988,Connecticut,10048,CT00134,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stafford Police Department,1987,Connecticut,9879,CT00134,6,0,6,0,0,0,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,0,0,4,0,0,0,0,1,0,0,0
 Stafford Police Department,1986,Connecticut,3623,CT00134,6,0,6,0,0,0,0,0,3,0,0,3,0,1,0,0,1,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0
 Stafford Police Department,1985,Connecticut,3515,CT00134,5,0,5,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,0,0,0,3,0,0,0,0,2,0,0,0
 Stafford Police Department,1984,Connecticut,3493,CT00134,5,0,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Stafford Police Department,1983,Connecticut,3421,CT00134,5,0,5,0,0,0,0,0,6,0,0,6,0,4,0,0,4,0,10,0,0,10,0,0,0,3,0,3,1,0,3,0,0,0
 Stafford Police Department,1982,Connecticut,3438,CT00134,6,0,6,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Stafford Police Department,1981,Connecticut,3415,CT00134,6,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stafford Police Department,1981,Connecticut,3415,CT00134,6,1,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stafford Police Department,1980,Connecticut,3375,CT00134,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Stafford Police Department,1979,Connecticut,3945,CT00134,8,1,7,0,0,0,0,0,3,0,0,3,0,3,0,0,2,1,6,0,0,5,1,1,1,0,0,0,1,0,1,0,1,1
 Stafford Police Department,1978,Connecticut,4021,CT00134,4,0,4,0,0,0,0,0,2,0,0,2,0,3,0,0,3,0,5,0,0,5,0,0,0,1,0,0,0,0,4,0,0,0
-Stafford Police Department,1977,Connecticut,4000,CT00134,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Stafford Police Department,1976,Connecticut,3727,CT00134,5,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stafford Police Department,1977,Connecticut,4e3,CT00134,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Stafford Police Department,1976,Connecticut,3727,CT00134,5,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Stafford Police Department,1975,Connecticut,3700,CT00134,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

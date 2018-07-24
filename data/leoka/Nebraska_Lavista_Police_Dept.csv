@@ -1,21 +1,21 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Lavista Police Dept,2016,Nebraska,16973,NB07704,34,3,31,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lavista Police Dept,2016,Nebraska,16973,NB07704,34,3,31,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lavista Police Dept,2015,Nebraska,18049,NB07704,32,2,30,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lavista Police Dept,2014,Nebraska,17955,NB07704,35,3,32,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lavista Police Dept,2013,Nebraska,17790,NB07704,33,2,31,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lavista Police Dept,2012,Nebraska,16242,NB07704,34,2,32,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lavista Police Dept,2011,Nebraska,15899,NB07704,34,2,32,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lavista Police Dept,2010,Nebraska,15758,NB07704,33,3,30,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lavista Police Dept,2009,Nebraska,17293,NB07704,33,3,30,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lavista Police Dept,2009,Nebraska,17293,NB07704,33,3,30,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lavista Police Dept,2008,Nebraska,17103,NB07704,31,3,28,4,4,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Lavista Police Dept,2007,Nebraska,16816,NB07704,31,3,28,4,4,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
-Lavista Police Dept,2006,Nebraska,15777,NB07704,31,3,28,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lavista Police Dept,2005,Nebraska,14782,NB07704,28,2,26,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lavista Police Dept,2006,Nebraska,15777,NB07704,31,3,28,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lavista Police Dept,2005,Nebraska,14782,NB07704,28,2,26,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Lavista Police Dept,2004,Nebraska,13958,NB07704,26,2,24,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lavista Police Dept,2003,Nebraska,13036,NB07704,26,2,24,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lavista Police Dept,2002,Nebraska,11821,NB07704,24,2,22,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lavista Police Dept,2001,Nebraska,11712,NB07704,23,2,21,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lavista Police Dept,2000,Nebraska,11699,NB07704,21,2,19,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lavista Police Dept,2e3,Nebraska,11699,NB07704,21,2,19,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Lavista Police Dept,1999,Nebraska,11888,NB07704,24,2,22,4,3,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0
 Lavista Police Dept,1998,Nebraska,11903,NB07704,24,2,22,4,3,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Lavista Police Dept,1997,Nebraska,10855,NB07704,24,3,21,4,3,1,0,0,1,0,0,1,0,3,0,0,3,0,4,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0

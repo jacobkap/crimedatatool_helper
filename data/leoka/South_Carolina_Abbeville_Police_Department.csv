@@ -14,15 +14,15 @@ Abbeville Police Department,2004,South Carolina,5857,SC00101,18,2,16,3,2,1,0,0,0
 Abbeville Police Department,2003,South Carolina,5890,SC00101,19,3,16,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Abbeville Police Department,2002,South Carolina,5979,SC00101,19,4,15,3,2,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
 Abbeville Police Department,2001,South Carolina,5914,SC00101,16,2,14,3,2,1,0,0,6,1,0,2,3,1,0,0,0,1,7,1,0,2,4,1,0,5,0,0,1,0,0,0,0,0
-Abbeville Police Department,2000,South Carolina,5840,SC00101,20,2,18,3,2,1,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,0,0,2,0,2,0,1,0
+Abbeville Police Department,2e3,South Carolina,5840,SC00101,20,2,18,3,2,1,0,0,0,0,0,0,0,5,0,0,5,0,5,0,0,5,0,0,0,0,0,0,2,0,2,0,1,0
 Abbeville Police Department,1999,South Carolina,5350,SC00101,17,1,16,3,2,1,0,0,4,0,0,4,0,1,0,0,1,0,5,0,0,5,0,1,0,1,0,0,1,2,0,0,0,0
 Abbeville Police Department,1998,South Carolina,5482,SC00101,17,1,16,3,2,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Abbeville Police Department,1997,South Carolina,6026,SC00101,17,1,16,6,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Abbeville Police Department,1996,South Carolina,5929,SC00101,16,1,15,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Abbeville Police Department,1996,South Carolina,5929,SC00101,16,1,15,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Abbeville Police Department,1995,South Carolina,5888,SC00101,16,1,15,5,4,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Abbeville Police Department,1994,South Carolina,5991,SC00101,14,1,13,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Abbeville Police Department,1993,South Carolina,5957,SC00101,14,1,13,6,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Abbeville Police Department,1992,South Carolina,5970,SC00101,14,1,13,5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Abbeville Police Department,1993,South Carolina,5957,SC00101,14,1,13,6,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Abbeville Police Department,1992,South Carolina,5970,SC00101,14,1,13,5,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Abbeville Police Department,1991,South Carolina,5899,SC00101,14,1,13,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Abbeville Police Department,1990,South Carolina,5778,SC00101,14,1,13,4,4,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,1,0,0,0,0,0,0,1,0,1,0
 Abbeville Police Department,1989,South Carolina,6064,SC00101,14,0,14,4,4,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,0,0,0,0,0,2,0,0,1
@@ -39,4 +39,4 @@ Abbeville Police Department,1979,South Carolina,5677,SC00101,14,1,13,2,2,0,0,0,1
 Abbeville Police Department,1978,South Carolina,5597,SC00101,13,1,12,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
 Abbeville Police Department,1977,South Carolina,5759,SC00101,13,1,12,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Abbeville Police Department,1976,South Carolina,5623,SC00101,14,0,14,1,1,0,0,0,2,0,0,1,1,3,0,0,3,0,5,0,0,4,1,0,0,1,1,0,1,0,1,0,0,1
-Abbeville Police Department,1975,South Carolina,5680,SC00101,13,0,13,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Abbeville Police Department,1975,South Carolina,5680,SC00101,13,0,13,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

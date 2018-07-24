@@ -12,7 +12,7 @@ Woodstock Town Police Department,2006,New York,6268,NY05566,10,0,10,3,3,0,0,0,0,
 Woodstock Town Police Department,2004,New York,6265,NY05566,11,0,11,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,2003,New York,6272,NY05566,10,0,10,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,2001,New York,6252,NY05566,11,0,11,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Woodstock Town Police Department,2000,New York,6241,NY05566,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Woodstock Town Police Department,2e3,New York,6241,NY05566,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,1999,New York,6248,NY05566,11,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,1998,New York,6290,NY05566,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,1997,New York,6342,NY05566,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -20,7 +20,7 @@ Woodstock Town Police Department,1996,New York,6359,NY05566,9,0,9,0,0,0,0,0,0,0,
 Woodstock Town Police Department,1995,New York,6342,NY05566,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,1994,New York,6354,NY05566,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,1991,New York,6313,NY05566,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Woodstock Town Police Department,1990,New York,6290,NY05566,10,0,10,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Woodstock Town Police Department,1990,New York,6290,NY05566,10,0,10,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Woodstock Town Police Department,1989,New York,6625,NY05566,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,1988,New York,6649,NY05566,8,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,1987,New York,6610,NY05566,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,6 +33,6 @@ Woodstock Town Police Department,1981,New York,6767,NY05566,6,0,6,4,3,1,0,0,0,0,
 Woodstock Town Police Department,1980,New York,6733,NY05566,6,0,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,1979,New York,6515,NY05566,6,0,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,1978,New York,6489,NY05566,6,0,6,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Woodstock Town Police Department,1977,New York,5949,NY05566,7,1,6,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Woodstock Town Police Department,1976,New York,6000,NY05566,5,0,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Woodstock Town Police Department,1977,New York,5949,NY05566,7,1,6,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Woodstock Town Police Department,1976,New York,6e3,NY05566,5,0,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Woodstock Town Police Department,1975,New York,5990,NY05566,6,0,6,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

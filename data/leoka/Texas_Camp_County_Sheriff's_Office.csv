@@ -2,7 +2,7 @@ agency,year,state,population,ORI,total_officers,female_employees_officers,male_e
 Camp County Sheriff's Office,2016,Texas,8077,TX03200,7,0,7,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Camp County Sheriff's Office,2015,Texas,8104,TX03200,7,0,7,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Camp County Sheriff's Office,2014,Texas,7983,TX03200,7,0,7,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Camp County Sheriff's Office,2013,Texas,8000,TX03200,7,0,7,10,9,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Camp County Sheriff's Office,2013,Texas,8e3,TX03200,7,0,7,10,9,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Camp County Sheriff's Office,2012,Texas,8026,TX03200,7,0,7,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Camp County Sheriff's Office,2011,Texas,8070,TX03200,7,0,7,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Camp County Sheriff's Office,2010,Texas,7904,TX03200,7,0,7,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ Camp County Sheriff's Office,2004,Texas,7510,TX03200,6,0,6,11,8,3,0,0,0,0,0,0,0,
 Camp County Sheriff's Office,2003,Texas,7429,TX03200,6,0,6,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Camp County Sheriff's Office,2002,Texas,7523,TX03200,6,0,6,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Camp County Sheriff's Office,2001,Texas,7365,TX03200,5,0,5,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Camp County Sheriff's Office,2000,Texas,7202,TX03200,5,0,5,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Camp County Sheriff's Office,2e3,Texas,7202,TX03200,5,0,5,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Camp County Sheriff's Office,1999,Texas,6661,TX03200,5,0,5,11,8,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
 Camp County Sheriff's Office,1998,Texas,6576,TX03200,5,0,5,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Camp County Sheriff's Office,1997,Texas,6486,TX03200,14,0,14,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,4 +37,4 @@ Camp County Sheriff's Office,1982,Texas,5364,TX03200,3,0,3,6,5,1,0,0,0,0,0,0,0,0
 Camp County Sheriff's Office,1981,Texas,5179,TX03200,3,0,3,5,3,2,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0
 Camp County Sheriff's Office,1980,Texas,4974,TX03200,2,0,2,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Camp County Sheriff's Office,1979,Texas,4830,TX03200,2,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Camp County Sheriff's Office,1978,Texas,2963,TX03200,2,0,2,5,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Camp County Sheriff's Office,1978,Texas,2963,TX03200,2,0,2,5,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

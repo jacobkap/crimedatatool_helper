@@ -11,11 +11,11 @@ Eastchester Town Police Department,2008,New York,18793,NY05952,46,3,43,7,5,2,0,0
 Eastchester Town Police Department,2007,New York,18768,NY05952,48,3,45,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,2006,New York,18675,NY05952,52,4,48,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,2005,New York,18784,NY05952,48,3,45,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eastchester Town Police Department,2004,New York,18808,NY05952,50,3,47,7,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eastchester Town Police Department,2004,New York,18808,NY05952,50,3,47,7,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eastchester Town Police Department,2003,New York,18795,NY05952,50,3,47,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,2002,New York,18742,NY05952,49,3,46,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,2001,New York,18599,NY05952,50,3,47,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eastchester Town Police Department,2000,New York,18564,NY05952,51,3,48,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eastchester Town Police Department,2e3,New York,18564,NY05952,51,3,48,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,1999,New York,19208,NY05952,51,3,48,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,1998,New York,19294,NY05952,51,2,49,9,6,3,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Eastchester Town Police Department,1997,New York,18694,NY05952,53,2,51,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -27,7 +27,7 @@ Eastchester Town Police Department,1992,New York,18668,NY05952,52,1,51,10,6,4,0,
 Eastchester Town Police Department,1991,New York,18606,NY05952,52,1,51,10,6,4,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
 Eastchester Town Police Department,1990,New York,18537,NY05952,52,1,51,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,1989,New York,19895,NY05952,52,1,51,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eastchester Town Police Department,1987,New York,20170,NY05952,52,0,52,8,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eastchester Town Police Department,1987,New York,20170,NY05952,52,0,52,8,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eastchester Town Police Department,1986,New York,20197,NY05952,52,0,52,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,1985,New York,20239,NY05952,54,0,54,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,1984,New York,20185,NY05952,54,0,54,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -37,6 +37,6 @@ Eastchester Town Police Department,1981,New York,20081,NY05952,52,0,52,6,3,3,0,0
 Eastchester Town Police Department,1980,New York,19981,NY05952,51,0,51,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,1979,New York,22675,NY05952,55,0,55,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,1978,New York,22687,NY05952,54,0,54,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Eastchester Town Police Department,1977,New York,22463,NY05952,54,0,54,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eastchester Town Police Department,1977,New York,22463,NY05952,54,0,54,6,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Eastchester Town Police Department,1976,New York,22804,NY05952,54,0,54,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Eastchester Town Police Department,1975,New York,23750,NY05952,58,0,58,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

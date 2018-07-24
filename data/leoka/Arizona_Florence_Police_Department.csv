@@ -12,10 +12,10 @@ Florence Police Department,2007,Arizona,16964,AZ01107,21,2,19,12,9,3,0,0,0,0,0,0
 Florence Police Department,2006,Arizona,17705,AZ01107,23,2,21,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Florence Police Department,2005,Arizona,17783,AZ01107,19,1,18,10,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Florence Police Department,2004,Arizona,15824,AZ01107,17,1,16,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Florence Police Department,2003,Arizona,15755,AZ01107,14,2,12,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Florence Police Department,2002,Arizona,18137,AZ01107,15,2,13,9,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Florence Police Department,2001,Arizona,17641,AZ01107,18,2,16,8,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Florence Police Department,2000,Arizona,17054,AZ01107,15,2,13,9,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Florence Police Department,2003,Arizona,15755,AZ01107,14,2,12,8,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Florence Police Department,2002,Arizona,18137,AZ01107,15,2,13,9,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Florence Police Department,2001,Arizona,17641,AZ01107,18,2,16,8,6,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Florence Police Department,2e3,Arizona,17054,AZ01107,15,2,13,9,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Florence Police Department,1999,Arizona,12191,AZ01107,12,2,10,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Florence Police Department,1998,Arizona,13615,AZ01107,18,4,14,8,7,1,0,0,0,0,0,0,0,2,1,0,1,0,2,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0
 Florence Police Department,1997,Arizona,8519,AZ01107,15,3,12,7,7,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
@@ -27,7 +27,7 @@ Florence Police Department,1992,Arizona,7851,AZ01107,13,2,11,6,5,1,0,0,2,0,0,1,1
 Florence Police Department,1991,Arizona,7683,AZ01107,13,2,11,6,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 Florence Police Department,1990,Arizona,7510,AZ01107,13,1,12,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Florence Police Department,1989,Arizona,6567,AZ01107,12,1,11,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Florence Police Department,1988,Arizona,6944,AZ01107,12,1,11,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Florence Police Department,1988,Arizona,6944,AZ01107,12,1,11,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Florence Police Department,1987,Arizona,6565,AZ01107,12,0,12,6,6,0,0,0,1,0,0,1,0,3,3,0,0,0,4,3,0,1,0,0,0,0,0,0,0,0,1,0,0,3
 Florence Police Department,1986,Arizona,6898,AZ01107,12,0,12,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Florence Police Department,1985,Arizona,6449,AZ01107,12,0,12,6,6,0,0,0,2,0,0,2,0,1,0,0,1,0,3,0,0,3,0,0,0,0,0,0,1,0,0,0,0,2
@@ -39,5 +39,5 @@ Florence Police Department,1980,Arizona,3403,AZ01107,7,0,7,7,7,0,0,0,5,0,0,4,1,0
 Florence Police Department,1979,Arizona,3283,AZ01107,10,0,10,4,4,0,0,0,2,0,0,1,1,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0
 Florence Police Department,1978,Arizona,3071,AZ01107,10,1,9,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,0,0,0,0,0,1,0,0,0
 Florence Police Department,1977,Arizona,3082,AZ01107,6,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Florence Police Department,1976,Arizona,3106,AZ01107,6,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Florence Police Department,1976,Arizona,3106,AZ01107,6,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Florence Police Department,1975,Arizona,2926,AZ01107,1,0,1,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

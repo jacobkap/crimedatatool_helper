@@ -1,10 +1,10 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
-Oak Island Police Department,2016,North Carolina,7651,NC01001,21,1,20,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Oak Island Police Department,2016,North Carolina,7651,NC01001,21,1,20,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Oak Island Police Department,2015,North Carolina,7481,NC01001,21,1,20,2,1,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0
 Oak Island Police Department,2014,North Carolina,7317,NC01001,22,1,21,1,0,1,0,0,0,0,0,0,0,7,0,0,6,1,7,0,0,6,1,1,0,0,0,0,3,1,2,0,0,0
 Oak Island Police Department,2013,North Carolina,7064,NC01001,21,1,20,1,0,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0
 Oak Island Police Department,2012,North Carolina,7030,NC01001,21,1,20,2,1,1,0,0,0,0,0,0,0,4,0,0,4,0,4,0,0,4,0,0,0,2,0,0,0,0,0,0,2,0
-Oak Island Police Department,2011,North Carolina,6869,NC01001,25,3,22,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Oak Island Police Department,2011,North Carolina,6869,NC01001,25,3,22,6,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Oak Island Police Department,2010,North Carolina,6783,NC01001,24,2,22,7,6,1,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,1,0,1,0,0,0
 Oak Island Police Department,2009,North Carolina,8375,NC01001,25,2,23,7,5,2,0,0,0,0,0,0,0,4,1,0,3,0,4,1,0,3,0,1,0,0,0,0,0,0,2,0,1,0
 Oak Island Police Department,2008,North Carolina,8397,NC01001,21,4,17,7,5,2,0,0,0,0,0,0,0,5,0,0,4,1,5,0,0,4,1,0,0,0,0,0,2,0,2,0,0,1
@@ -15,9 +15,9 @@ Oak Island Police Department,2004,North Carolina,7076,NC01001,22,2,20,4,3,1,0,0,
 Oak Island Police Department,2003,North Carolina,6841,NC01001,24,1,23,4,3,1,0,0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1
 Oak Island Police Department,2002,North Carolina,6792,NC01001,24,1,23,8,7,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 Oak Island Police Department,2001,North Carolina,6683,NC01001,24,2,22,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oak Island Police Department,2000,North Carolina,6571,NC01001,27,3,24,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oak Island Police Department,2e3,North Carolina,6571,NC01001,27,3,24,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Oak Island Police Department,1999,North Carolina,5808,NC01001,28,3,25,6,2,4,0,0,0,0,0,0,0,6,0,0,6,0,6,0,0,6,0,0,0,0,2,0,1,0,1,0,1,1
-Oak Island Police Department,1998,North Carolina,5792,NC01001,20,2,18,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Oak Island Police Department,1998,North Carolina,5792,NC01001,20,2,18,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Oak Island Police Department,1997,North Carolina,5899,NC01001,18,2,16,4,4,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 Oak Island Police Department,1996,North Carolina,5818,NC01001,16,2,14,4,4,0,0,0,0,0,0,0,0,3,1,0,2,0,3,1,0,2,0,0,0,2,0,0,0,1,0,0,0,0
 Oak Island Police Department,1995,North Carolina,5717,NC01001,14,2,12,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

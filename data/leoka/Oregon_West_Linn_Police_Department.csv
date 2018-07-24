@@ -1,6 +1,6 @@
 agency,year,state,population,ORI,total_officers,female_employees_officers,male_employees_officers,total_civilians,female_employees_civilians,male_employees_civilians,officers_killed_accident,officers_killed_felony,assault_injury_total,assault_injury_gun,assault_injury_knife,assault_injury_hand_feet,assault_injury_other,assault_no_injury_total,assault_no_injury_gun,assault_no_injury_knife,assault_no_injury_hand_feet,assault_no_injury_other,total_assault_total,total_assault_gun,total_assault_knife,total_assault_hand_feet,total_assault_other,all_oth_total_assault,ambush_total_assault,att_oth_arrest_total_assault,burglary_total_assault,civil_disorder_total_assault,cust_prisoners_total_assault,deranged_total_assault,disturbance_total_assault,robbery_total_assault,susp_pers_total_assault,traffic_total_assault
 West Linn Police Department,2016,Oregon,26889,OR00309,29,0,29,4,4,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-West Linn Police Department,2015,Oregon,26578,OR00309,29,0,29,4,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+West Linn Police Department,2015,Oregon,26578,OR00309,29,0,29,4,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 West Linn Police Department,2014,Oregon,26202,OR00309,26,0,26,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 West Linn Police Department,2013,Oregon,25744,OR00309,31,0,31,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 West Linn Police Department,2012,Oregon,25572,OR00309,31,0,31,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -15,7 +15,7 @@ West Linn Police Department,2004,Oregon,24939,OR00309,27,2,25,6,5,1,0,0,1,0,0,1,
 West Linn Police Department,2003,Oregon,24433,OR00309,27,2,25,5,5,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
 West Linn Police Department,2002,Oregon,22913,OR00309,27,1,26,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 West Linn Police Department,2001,Oregon,22596,OR00309,28,1,27,5,4,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
-West Linn Police Department,2000,Oregon,22261,OR00309,28,1,27,5,4,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+West Linn Police Department,2e3,Oregon,22261,OR00309,28,1,27,5,4,1,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0
 West Linn Police Department,1999,Oregon,21423,OR00309,28,1,27,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 West Linn Police Department,1998,Oregon,20825,OR00309,25,1,24,3,3,0,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,1,0,0,0,0,1,0,1,0
 West Linn Police Department,1997,Oregon,19512,OR00309,25,2,23,4,3,1,0,0,1,0,0,1,0,2,0,0,2,0,3,0,0,3,0,0,0,2,0,0,0,0,0,0,0,1
@@ -35,7 +35,7 @@ West Linn Police Department,1984,Oregon,12360,OR00309,14,1,13,3,2,1,0,0,2,0,0,2,
 West Linn Police Department,1983,Oregon,10830,OR00309,14,1,13,3,2,1,0,0,3,0,0,3,0,4,0,0,4,0,7,0,0,7,0,0,0,5,0,0,2,0,0,0,0,0
 West Linn Police Department,1982,Oregon,10778,OR00309,15,1,14,7,5,2,0,0,2,0,0,2,0,2,0,0,2,0,4,0,0,4,0,0,0,2,0,0,1,0,1,0,0,0
 West Linn Police Department,1981,Oregon,10770,OR00309,15,1,14,7,5,2,0,0,0,0,0,0,0,3,0,0,3,0,3,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0
-West Linn Police Department,1980,Oregon,10621,OR00309,15,1,14,8,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+West Linn Police Department,1980,Oregon,10621,OR00309,15,1,14,8,7,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 West Linn Police Department,1979,Oregon,11253,OR00309,15,1,14,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 West Linn Police Department,1978,Oregon,11469,OR00309,14,1,13,8,7,1,0,0,2,0,0,1,1,2,0,0,2,0,4,0,0,3,1,1,0,0,0,1,1,0,0,0,1,0
 West Linn Police Department,1977,Oregon,10391,OR00309,14,2,12,6,5,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
