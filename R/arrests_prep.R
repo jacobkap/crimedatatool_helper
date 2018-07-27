@@ -21,14 +21,14 @@ arrests <-
 
                 dplyr::matches("total_drug"),
                 dplyr::matches("poss_drug"),
-                dplyr::matches("poss_narcotic"),
+                dplyr::matches("poss_synth_narc"),
                 dplyr::matches("poss_cannabis"),
-                dplyr::matches("poss_coke"),
+                dplyr::matches("poss_heroin_coke"),
                 dplyr::matches("poss_oth_drug"),
                 dplyr::matches("sale_drug"),
-                dplyr::matches("sale_narcotic"),
+                dplyr::matches("sale_synth_narc"),
                 dplyr::matches("sale_cannabis"),
-                dplyr::matches("sale_coke"),
+                dplyr::matches("sale_heroin_coke"),
                 dplyr::matches("sale_oth_drug"),
 
                 dplyr::matches("drunkenness"),
