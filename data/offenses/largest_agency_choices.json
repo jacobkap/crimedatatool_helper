@@ -116,6 +116,10 @@
     "agency": "New Castle County Police Department"
   },
   {
+    "state": "Hawaii",
+    "agency": "Honolulu (city And County) Police Department"
+  },
+  {
     "state": "Nebraska",
     "agency": "Omaha Police Dept"
   },
@@ -126,10 +130,6 @@
   {
     "state": "Virginia",
     "agency": "Fairfax County Police Department"
-  },
-  {
-    "state": "Hawaii",
-    "agency": "Honolulu (city And County) Police Department"
   },
   {
     "state": "Arkansas",
@@ -172,24 +172,24 @@
     "agency": "Billings Police Department"
   },
   {
-    "state": "Nevada",
-    "agency": "Las Vegas Metro Police Department"
-  },
-  {
-    "state": "New Mexico",
-    "agency": "Albuquerque Police Department"
-  },
-  {
-    "state": "New York",
-    "agency": "New York City Police Department"
-  },
-  {
     "state": "North Carolina",
     "agency": "Charlotte - Mecklenburg Police Department"
   },
   {
     "state": "North Dakota",
     "agency": "Fargo Police Department"
+  },
+  {
+    "state": "New Mexico",
+    "agency": "Albuquerque Police Department"
+  },
+  {
+    "state": "Nevada",
+    "agency": "Las Vegas Metro Police Department"
+  },
+  {
+    "state": "New York",
+    "agency": "New York City Police Department"
   },
   {
     "state": "Oklahoma",
