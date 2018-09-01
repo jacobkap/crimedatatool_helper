@@ -34,7 +34,11 @@ crosswalk <-
   crosswalk %>%
   dplyr::left_join(ucr_offenses_known_yearly_1960_2016) %>%
   dplyr::arrange(desc(population))
-crosswalk$population[is.na(crosswalk$population)] <- ""
+crosswalk$population[is.na(crosswalk$population)]                         <- ""
+crosswalk$ori9[is.na(crosswalk$ori9)]                                     <- ""
+crosswalk$fips_state_county_code[is.na(crosswalk$fips_state_county_code)] <- ""
+crosswalk$crosswalk_agency_name[is.na(crosswalk$crosswalk_agency_name)]   <- ""
+crosswalk$census_name[is.na(crosswalk$census_name)]                       <- ""
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data")
 write_csv(crosswalk, path = "crosswalk.csv")
