@@ -23,8 +23,7 @@ crosswalk$census_name           <- gsub(",", "",
 
 crosswalk <-
   crosswalk %>%
-  dplyr::arrange(desc(population)) %>%
-  dplyr::select(-population)
+  dplyr::arrange(desc(population))
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data")
 write_csv(crosswalk, path = "crosswalk.csv")
