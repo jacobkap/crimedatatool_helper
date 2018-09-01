@@ -2346,7 +2346,7 @@ FL00104,FL0010400,12001,High Springs Police Department,High Springs City
 FL00107,FL0010700,12001,Lacrosse Pd,La Crosse Town
 FL00119,FL0011900,12001,Micanopy,Micanopy Town
 FL00105,FL0010500,12001,Newberry Pd,Newberry City
-FL00129,FL0012900,12001,"Doc, Oig: Alachua County",State Of Florida
+FL00129,FL0012900,12001,Doc Oig: Alachua County,State Of Florida
 FL00125,FL0012500,12001,Waldo Police Department,Waldo City
 FL00100,FL0010000,12001,Alachua County Sheriff's Office,Alachua County
 FL001DB,FL001DB00,12001,Alachua Co Div Beverage,State Of Florida
@@ -2367,7 +2367,7 @@ FL00240,FL0024000,12003,Dep Dle: Baker County,State Of Florida
 FL00250,FL0025000,12003,Dab&t: Baker County,State Of Florida
 FL00280,FL0028000,12003,Baker Fl Fish/wildlife Conservation Comm,State Of Florida
 FL00290,FL0029000,12003,Florida Highway Patrol Troop B,State Of Florida
-FL00204,FL0020400,12003,"Doc, Oig: Baker County",State Of Florida
+FL00204,FL0020400,12003,Doc Oig: Baker County,State Of Florida
 FL00302,FL0030200,12005,Calloway Pd Panama City,Callaway City
 FL00307,FL0030700,12005,Lynn Haven Police Department,Lynn Haven City
 FL00304,FL0030400,12005,Mexico Beach Dept. Of Public Safety,Mexico Beach City
@@ -2403,7 +2403,7 @@ FL004MP,FL004MP00,12007,Bradford Co Marine Ptl,State Of Florida
 FL00440,FL0044000,12007,Dep Dle: Bradford County,State Of Florida
 FL00450,FL0045000,12007,Dab&t: Bradford County,State Of Florida
 FL00480,FL0048000,12007,Bradford Fl Fish/wildlife Conservation Comm,State Of Florida
-FL00405,FL0040500,12007,"Doc, Oig: Bradford Cnty",State Of Florida
+FL00405,FL0040500,12007,Doc Oig: Bradford Cnty,State Of Florida
 FL00501,FL0050100,12009,Cape Canaveral Pd,Cape Canaveral City
 FL00502,FL0050200,12009,Cocoa Police Department,Cocoa City
 FL00591,FL0059100,12009,Shp Cocoa,State Of Florida
@@ -2426,7 +2426,7 @@ FL00504,FL0050400,12009,Eau Gallie Pd,State Of Florida
 FL00511,FL0051100,12009,Titusville Police Department,Titusville City
 FL00516,FL0051600,12009,West Melbourne Police Department,West Melbourne City
 FL00500,FL0050000,12009,Brevard County Sheriff's Office,Brevard County
-FL00519,FL0051900,12009,"Brevard Public Schools, District Secu",Brevard County School District
+FL00519,FL0051900,12009,Brevard Public Schools District Secu,Brevard County School District
 FL005DB,FL005DB00,12009,Brevard Co Div Beverage,State Of Florida
 FL005DL,FL005DL00,12009,Brevard Co Crim Law Enf,State Of Florida
 FL005GM,FL005GM00,12009,Brevard Co Game Fwf Comm,State Of Florida
@@ -2492,7 +2492,7 @@ FL00740,FL0074000,12013,Dep Dle: Calhoun County,State Of Florida
 FL00750,FL0075000,12013,Dab&t: Calhoun County,State Of Florida
 FL00780,FL0078000,12013,Calhoun Fl Fish/wildlife Conservation Comm,State Of Florida
 FL00790,FL0079000,12013,Florida Highway Patrol Troop A,State Of Florida
-FL00703,FL0070300,12013,"Doc, Oig: Calhoun County",State Of Florida
+FL00703,FL0070300,12013,Doc Oig: Calhoun County,State Of Florida
 FL00802,FL0080200,12015,Punta Gorda Police Department,Punta Gorda City
 FL00800,FL0080000,12015,Charlotte County Sheriff's Office,Charlotte County
 FL008DB,FL008DB00,12015,Charlotte Co Div Beverag,State Of Florida
@@ -2637,7 +2637,7 @@ FL019MP,FL019MP00,12037,Franklin Co Marine Ptl,State Of Florida
 FL01950,FL0195000,12037,Dab&t: Franklin County,State Of Florida
 FL01980,FL0198000,12037,Florida Fish And Wildlife Commission,State Of Florida
 FL01990,FL0199000,12037,Florida Highway Patrol East Point,State Of Florida
-FL01904,FL0190400,12037,"Doc, Oig: Franklin Cnty",State Of Florida
+FL01904,FL0190400,12037,Doc Oig: Franklin Cnty,State Of Florida
 FL02002,FL0200200,12039,Chattahoochee Police Department,Chattahoochee City
 FL02006,FL0200600,12039,Greensboro Police Department,Greensboro Town
 FL02004,FL0200400,12039,Gretna Police Department,Gretna City
@@ -2665,7 +2665,7 @@ FL02140,FL0214000,12041,Dep Dle: Gilchrist Cnty,State Of Florida
 FL02150,FL0215000,12041,Dab&t: Gilchrist County,State Of Florida
 FL02180,FL0218000,12041,Cilchrist Fl Fish/wildlife Conservation Comm,State Of Florida
 FL02190,FL0219000,12041,Florida Highway Patrol Troop B,State Of Florida
-FL02107,FL0210700,12041,"Doc, Oig: Gilchrist Cnty",State Of Florida
+FL02107,FL0210700,12041,Doc Oig: Gilchrist Cnty,State Of Florida
 FL02201,FL0220100,12043,Moore Haven Pd,Moore Haven City
 FL02200,FL0220000,12043,Glades County Sheriff's Office,Glades County
 FL022DB,FL022DB00,12043,Glades Co Div Beverage,State Of Florida
@@ -2703,7 +2703,7 @@ FL02440,FL0244000,12047,Dep Dle: Hamilton County,State Of Florida
 FL02450,FL0245000,12047,Dab&t: Hamilton County,State Of Florida
 FL02480,FL0248000,12047,Hamilton Fl Fish/wildlife Conservation Comm,State Of Florida
 FL02490,FL0249000,12047,Florida Highway Patrol Troop B,State Of Florida
-FL02413,FL0241300,12047,"Doc, Oig: Hamilton Cnty",State Of Florida
+FL02413,FL0241300,12047,Doc Oig: Hamilton Cnty,State Of Florida
 FL02501,FL0250100,12049,Bowling Green Police Department,Bowling Green City
 FL02502,FL0250200,12049,Wauchula Police Department,Wauchula City
 FL02503,FL0250300,12049,Zolfo Springs Police Department,Zolfo Springs Town
@@ -2815,7 +2815,7 @@ FL032MP,FL032MP00,12063,Jackson Co Marine Patrol,State Of Florida
 FL03240,FL0324000,12063,Dep Dle: Jackson County,State Of Florida
 FL03250,FL0325000,12063,Div Alcohol Bev And Tobac Enforce Bu Marianna,State Of Florida
 FL03280,FL0328000,12063,Jackson Fl Fish/wildlife Conservation Comm,State Of Florida
-FL03208,FL0320800,12063,"Doc, Oig: Jackson County",State Of Florida
+FL03208,FL0320800,12063,Doc Oig: Jackson County,State Of Florida
 FL03301,FL0330100,12065,Monticello Police Department,Monticello City
 FL03300,FL0330000,12065,Jefferson County Sheriff's Office,Jefferson County
 FL033DB,FL033DB00,12065,Jefferson Co Div Beverag,State Of Florida
@@ -2827,7 +2827,7 @@ FL03340,FL0334000,12065,Dep Dle: Jefferson Cnty,State Of Florida
 FL03350,FL0335000,12065,Dab&t: Jefferson County,State Of Florida
 FL03380,FL0338000,12065,Jefferson Fl Fish/wildlife Conservation Comm,State Of Florida
 FL03390,FL0339000,12065,Florida Highway Patrol Troop H,State Of Florida
-FL03302,FL0330200,12065,"Doc, Oig: Jefferson Cnty",State Of Florida
+FL03302,FL0330200,12065,Doc Oig: Jefferson Cnty,State Of Florida
 FL03401,FL0340100,12067,Mayo Pd,Mayo Town
 FL03400,FL0340000,12067,Lafayette County Sheriff's Office,Lafayette County
 FL034DB,FL034DB00,12067,Lafayette Co Div Beverag,State Of Florida
@@ -2839,7 +2839,7 @@ FL03440,FL0344000,12067,Dep Dle: Lafayette Cnty,State Of Florida
 FL03450,FL0345000,12067,Dab&t: Lafayette County,State Of Florida
 FL03480,FL0348000,12067,Lafayette Fl Fish/wildlife Conservation Comm,State Of Florida
 FL03490,FL0349000,12067,Florida Highway Patrol Troop B,State Of Florida
-FL03403,FL0340300,12067,"Doc, Oig: Lafayette Cnty",State Of Florida
+FL03403,FL0340300,12067,Doc Oig: Lafayette Cnty,State Of Florida
 FL03514,FL0351400,12069,Astatula Police Department,Astatula Town
 FL03503,FL0350300,12069,Clermont Police Department,Clermont City
 FL03501,FL0350100,12069,Eustis Police Department,Eustis City
@@ -2864,7 +2864,7 @@ FL03540,FL0354000,12069,Dep Dle: Lake County,State Of Florida
 FL03550,FL0355000,12069,Dab&t: Lake County,State Of Florida
 FL03580,FL0358000,12069,Lake Fl Fish/wildlife Conservation Comm,State Of Florida
 FL03590,FL0359000,12069,Fhp Leesburg,State Of Florida
-FL03517,FL0351700,12069,"Doc, Oig: Lake County",State Of Florida
+FL03517,FL0351700,12069,Doc Oig: Lake County,State Of Florida
 FL03602,FL0360200,12071,Cape Coral Police Department,Cape Coral City
 FL03607,FL0360700,12071,Florida Gulf Coast University Police,State Of Florida
 FL03601,FL0360100,12071,Fort Myers Police Department,Fort Myers City
@@ -2948,7 +2948,7 @@ FL04040,FL0404000,12079,Dep Dle: Madison County,State Of Florida
 FL04050,FL0405000,12079,Dab&t: Madison County,State Of Florida
 FL04080,FL0408000,12079,Madison Fl Fish/wildlife Conservation Comm,State Of Florida
 FL04090,FL0409000,12079,Florida Highway Patrol Troop H,State Of Florida
-FL04006,FL0400600,12079,"Doc, Oig: Madison County",State Of Florida
+FL04006,FL0400600,12079,Doc Oig: Madison County,State Of Florida
 FL04101,FL0410100,12081,Anna Maria Pd,Anna Maria City
 FL04102,FL0410200,12081,Bradenton Police Department,Bradenton City
 FL04103,FL0410300,12081,Bradenton Beach Police Department,Bradenton Beach City
@@ -2979,7 +2979,7 @@ FL04204,FL0420400,12083,Fl Fish And Wildlife Conservation Commission,State Of Fl
 FL04240,FL0424000,12083,Dep Dle: Marion County,State Of Florida
 FL04280,FL0428000,12083,Marion Fl Fish/wildlife Conservation Comm,State Of Florida
 FL04290,FL0429000,12083,Shp Ocala,State Of Florida
-FL04209,FL0420900,12083,"Doc, Oig: Marion County",State Of Florida
+FL04209,FL0420900,12083,Doc Oig: Marion County,State Of Florida
 FL04302,FL0430200,12085,Jupiter Island Public Safety Department,Jupiter Island Town
 FL04303,FL0430300,12085,Sewall's Point Police Department,Sewalls Point Town
 FL04301,FL0430100,12085,Stuart Police Department,Stuart City
@@ -2993,7 +2993,7 @@ FL04340,FL0434000,12085,Dep Dle: Martin County,State Of Florida
 FL04350,FL0435000,12085,Dab&t: Martin County,State Of Florida
 FL04380,FL0438000,12085,Martin Fl Fish/wildlife Conservation Comm,State Of Florida
 FL04390,FL0439000,12085,Florida Highway Patrol Troop L,State Of Florida
-FL04306,FL0430600,12085,"Doc, Oig: Martin County",State Of Florida
+FL04306,FL0430600,12085,Doc Oig: Martin County,State Of Florida
 FL01391,FL0139100,12086,Aventura Police Department,Aventura City
 FL01301,FL0130100,12086,Bal Harbour Village Police Department,Bal Harbour Village
 FL01322,FL0132200,12086,Bay Harbor Islands Police Department,Bay Harbor Islands Town
@@ -3106,7 +3106,7 @@ FL047MP,FL047MP00,12093,Okeechobee Co Marine Ptl,State Of Florida
 FL04740,FL0474000,12093,Dep Dle: Okeechobee Cnty,State Of Florida
 FL04750,FL0475000,12093,Dab&t: Okeechobee County,State Of Florida
 FL04790,FL0479000,12093,Florida Highway Patrol Troop L,State Of Florida
-FL04704,FL0470400,12093,"Doc, Oig: Okeechobee Cty",State Of Florida
+FL04704,FL0470400,12093,Doc Oig: Okeechobee Cty,State Of Florida
 FL04801,FL0480100,12095,Apopka Police Department,Apopka City
 FL04893,FL0489300,12095,Belle Isle Police Department,Belle Isle City
 FL04807,FL0480700,12095,Eatonville Police Department,Eatonville Town
@@ -3281,7 +3281,7 @@ FL053MP,FL053MP00,12105,Polk Co Marine Patrol,State Of Florida
 FL05317,FL0531700,12105,Fl Fish And Wildlife Conservation Commission,State Of Florida
 FL05340,FL0534000,12105,Dep Dle: Polk County,State Of Florida
 FL05380,FL0538000,12105,Polk Fl Fish/wildlife Conservation Comm,State Of Florida
-FL05321,FL0532100,12105,"Doc, Oig: Polk County",State Of Florida
+FL05321,FL0532100,12105,Doc Oig: Polk County,State Of Florida
 FL05402,FL0540200,12107,Crescent City Police Department,Crescent City City
 FL05490,FL0549000,12107,Fhp East Palatka,State Of Florida
 FL05403,FL0540300,12107,Interlachen Police Department,Interlachen Town
@@ -3338,7 +3338,7 @@ FL05740,FL0574000,12113,Dep Dle: Santa Rosa Cnty,State Of Florida
 FL05750,FL0575000,12113,Dab&t: Santa Rosa County,State Of Florida
 FL05780,FL0578000,12113,Santa Rosa Fl Fish/wildlife Conservation Comm,State Of Florida
 FL05790,FL0579000,12113,Florida Highway Patrol Troop A,State Of Florida
-FL05707,FL0570700,12113,"Doc, Oig: Santa Rosa Cty",State Of Florida
+FL05707,FL0570700,12113,Doc Oig: Santa Rosa Cty,State Of Florida
 FL05803,FL0580300,12115,North Port Police Department,North Port City
 FL05807,FL0580700,12115,New College Of Florida,State Of Florida
 FL05801,FL0580100,12115,Sarasota Police Department,Sarasota City
@@ -3387,7 +3387,7 @@ FL06040,FL0604000,12119,Dep Dle: Sumter County,State Of Florida
 FL06050,FL0605000,12119,Dab&t: Sumter County,State Of Florida
 FL06080,FL0608000,12119,Sumter Fl Fish/wildlife Conservation Comm,State Of Florida
 FL06090,FL0609000,12119,Florida Highway Patrol Troop C,State Of Florida
-FL06006,FL0600600,12119,"Doc, Oig: Sumter County",State Of Florida
+FL06006,FL0600600,12119,Doc Oig: Sumter County,State Of Florida
 FL06101,FL0610100,12121,Branford Pd,Branford Town
 FL06102,FL0610200,12121,Live Oak Police Department,Live Oak City
 FL06103,FL0610300,12121,Fl Dept Law Enforce Live Oak,State Of Florida
@@ -3401,7 +3401,7 @@ FL061MP,FL061MP00,12121,Suwannee Co Marine Patro,State Of Florida
 FL06140,FL0614000,12121,Dep Dle: Suwannee County,State Of Florida
 FL06180,FL0618000,12121,Suwannee Fl Fish/wildlife Conservation Comm,State Of Florida
 FL06190,FL0619000,12121,Florida Highway Patrol Troop B,State Of Florida
-FL06110,FL0611000,12121,"Doc, Oig: Swuannee Cnty",State Of Florida
+FL06110,FL0611000,12121,Doc Oig: Swuannee Cnty,State Of Florida
 FL06201,FL0620100,12123,Perry Police Department,Perry City
 FL06290,FL0629000,12123,Fhp Perry,State Of Florida
 FL06200,FL0620000,12123,Taylor County Sheriff's Office,Taylor County
@@ -3413,7 +3413,7 @@ FL062MP,FL062MP00,12123,Taylor Co Marine Patrol,State Of Florida
 FL06240,FL0624000,12123,Dep Dle: Taylor County,State Of Florida
 FL06250,FL0625000,12123,Dab&t: Taylor County,State Of Florida
 FL06280,FL0628000,12123,Taylor Fl Fish/wildlife Conservation Comm,State Of Florida
-FL06202,FL0620200,12123,"Doc, Oig: Taylor County",State Of Florida
+FL06202,FL0620200,12123,Doc Oig: Taylor County,State Of Florida
 FL06380,FL0638000,12125,Union Fl Fish/wildlife Conservation Comm,State Of Florida
 FL06300,FL0630000,12125,Union County Sheriff's Office,Union County
 FL063DB,FL063DB00,12125,Union Co Div Beverage,State Of Florida
@@ -3462,7 +3462,7 @@ FL06540,FL0654000,12129,Dep Dle: Wakulla County,State Of Florida
 FL06550,FL0655000,12129,Dab&t: Wakulla County,State Of Florida
 FL06580,FL0658000,12129,Wakulla Fl Fish/wildlife Conservation Comm,State Of Florida
 FL06590,FL0659000,12129,Florida Highway Patrol Troop H,State Of Florida
-FL06504,FL0650400,12129,"Doc, Oig: Wakulla County",State Of Florida
+FL06504,FL0650400,12129,Doc Oig: Wakulla County,State Of Florida
 FL06601,FL0660100,12131,Defuniak Springs Police Department,Defuniak Springs City
 FL06602,FL0660200,12131,Paxton Pd,Paxton City
 FL06600,FL0660000,12131,Walton County Sheriff's Office,Walton County
@@ -3487,7 +3487,7 @@ FL06740,FL0674000,12133,Dep Dle: Washington Cnty,State Of Florida
 FL06750,FL0675000,12133,Dab&t: Washington County,State Of Florida
 FL06780,FL0678000,12133,Washington Fl Fish/wildlife Conservation Comm,State Of Florida
 FL06790,FL0679000,12133,Florida Highway Patrol Troop A,State Of Florida
-FL06705,FL0670500,12133,"Doc, Oig: Washington Cty",State Of Florida
+FL06705,FL0670500,12133,Doc Oig: Washington Cty,State Of Florida
 GA00101,GA0010100,13001,Baxley Police Department,Baxley City
 GA00102,GA0010200,13001,Surrency Pd,Surrency Town
 GA00100,GA0010000,13001,Appling County Sheriff's Office,Appling County
@@ -4613,7 +4613,7 @@ IL01662,IL0166200,17031,Lynwood Police Dept,Lynwood Village
 IL01663,IL0166300,17031,Lyons Police Dept,Lyons Village
 IL01664,IL0166400,17031,Mccook Police Dept,Mccook Village
 IL01665,IL0166500,17031,Markham Police Dept,Markham City
-IL01666,IL0166600,17031,"Matteson Police Deot,",Matteson Village
+IL01666,IL0166600,17031,Matteson Police Deot,Matteson Village
 IL01667,IL0166700,17031,Maywood Police Dept,Maywood Village
 IL0161G,IL0161G00,17031,Sec Of St Police Dist 1 Maywood,State Of Illinois
 IL01668,IL0166800,17031,Melrose Park Police Dept,Melrose Park Village
@@ -8338,7 +8338,7 @@ MA014WS,MA0146300,25027,Worcester State College Campus Police,State Of Massachus
 MA01461,MA0146100,25027,University Of Massachusetts Medical Center Police,State Of Massachusetts
 MA01460,MA0146000,25027,Worcester Police Department,Worcester City
 MA01472,MA0147200,25027,Quinsigamond Community College Campus Police,State Of Massachusetts
-MA014UM,MA014UM00,25027,"Un Of Ma:med Ctr,worcest",State Of Massachusetts
+MA014UM,MA014UM00,25027,Un Of Ma:med Ctrworcest,State Of Massachusetts
 MA014UN,MA014UN00,25027,Clark University,State Of Massachusetts
 MA01468,MA0146800,25027,Clark University,State Of Massachusetts
 MA01470,MA0147000,25027,Assumption College,State Of Massachusetts
@@ -9926,7 +9926,7 @@ MOMHP00,MOMHP0000,29051,Missouri State Highway Patrol,State Of Missouri
 MOMHPFF,MOMHPFF00,29051,Shp Jefferson City,State Of Missouri
 MO02613,MO0261300,29051,Division Of Alcohol And Tobacco Jefferson City,State Of Missouri
 MO02621,MO0262100,29051,State Tech Asst Team Dept Of Soc Svcs Jefferson,State Of Missouri
-MO02625,MO0262500,29051,"Gaming Commission, Enf D",State Of Missouri
+MO02625,MO0262500,29051,Gaming Commission Enf D,State Of Missouri
 MOMHP07,MOMHP0700,29051,Missouri Gaming Commission Enforcement Section,State Of Missouri
 MOMHPWP,MOMHPWP00,29051,Mo Highway Patrol Water Patrol,State Of Missouri
 MO02600,MO0260000,29051,Cole County Sheriff's Office,Cole County
@@ -11487,7 +11487,7 @@ NJNPD00,NJNPD0000,34013,Newark Police,Newark City
 NJ00734,NJ0073400,34013,Rutgers University Police - Newark,State Of New Jersey
 NJ00730,NJ0073000,34013,University Of Medicine & Dentistry Of New Jersey,State Of New Jersey
 NJ00727,NJ0072700,34013,New Jersey Institute Of Technology Police,State Of New Jersey
-NJ00724,NJ0072400,34013,"New Jersey Division Of Alcoholic Beverage Control,",State Of New Jersey
+NJ00724,NJ0072400,34013,New Jersey Division Of Alcoholic Beverage Control,State Of New Jersey
 NJ00715,NJ0071500,34013,North Caldwell Police,North Caldwell Borough
 NJ00716,NJ0071600,34013,Nutley Police,Nutley Township
 NJ00718,NJ0071800,34013,Roseland Borough Police,Roseland Borough
@@ -12319,7 +12319,7 @@ NY414PN,NY414PN00,36029,State Park: Erie County,State Of New York
 NY514RC,NY514RC00,36029,Erie Co: Csx,State Of New York
 NY514RD,NY514RD00,36029,Cndn Pcf Rw: Erie County,State Of New York
 NY514RM,NY514RM00,36029,Erie Co:amtrak,State Of New York
-NY514RN,NY514RN00,36029,"Norfolk Sthrn Rwy, Erie",State Of New York
+NY514RN,NY514RN00,36029,Norfolk Sthrn Rwy Erie,State Of New York
 NY514RP,NY514RP00,36029,Ny Conrail Erie Co,State Of New York
 NY514RX,NY514RX00,36029,Csx Trans: Erie County,State Of New York
 NY01452,NY0145200,36029,East Aurora/town Of Aurora Police Department,Aurora Town
@@ -12565,7 +12565,7 @@ NY330SP,NY330SP00,36059,Nassau State Police,State Of New York
 NY429PL,NY429PL00,36059,State Park: Nassau Cnty,State Of New York
 NY529RL,NY529RL00,36059,Long Island Rl-nassau Co,State Of New York
 NY03030,NY0303000,36061,New York City Police Department,New York City
-NY230UN,NY230UN00,36061,"State University Of New York, College Of Optometry",State Of New York
+NY230UN,NY230UN00,36061,State University Of New York College Of Optometry,State Of New York
 NY03031,NY0303100,36061,Nys Park Police New York City Region,State Of New York
 NY03075,NY0307500,36061,Off Mental Health Psych Ctr Sfty/sec New York,State Of New York
 NY03083,NY0308300,36061,Metro North Rr Pd Metro Transit Auth New York,State Of New York
@@ -18264,7 +18264,7 @@ TN00500,TN0050000,47009,Blount County Sheriff's Office,Blount County
 TN00602,TN0060200,47011,Charleston Police Department,Charleston City
 TN00603,TN0060300,47011,Tenth Judicial Dist Drug Task Force Charleston,State Of Tennessee
 TN00601,TN0060100,47011,Cleveland Police Department,Cleveland City
-TN0060A,TN0060A00,47011,"Church Of God,sch Of The",State Of Tennessee
+TN0060A,TN0060A00,47011,Church Of Godsch Of The,State Of Tennessee
 TN00604,TN0060400,47011,St Park Rngrs Red Clay State Park Cleveland,State Of Tennessee
 TN00605,TN0060500,47011,Cleveland State Community College Security,State Of Tennessee
 TN0069P,TN0069P00,47011,Lee University,State Of Tennessee
@@ -20182,7 +20182,7 @@ VT01201,VT0120100,50023,Barre Police Department,Barre City
 VT01205,VT0120500,50023,Barre Town Police Dept,Barre Town
 VT01206,VT0120600,50023,Berlin Police Department,Berlin Town
 VTVSP12,VTVSP1200,50023,State Police Middlesex,State Of Vermont
-VTDLC00,VTDLC0000,50023,"Vermont Dept. Of Liquor Control - Education, Licen",State Of Vermont
+VTDLC00,VTDLC0000,50023,Vermont Dept. Of Liquor Control - Education Licen,State Of Vermont
 VT01202,VT0120200,50023,Montpelier Police Department,Montpelier City
 VTDMV00,VTDMV0000,50023,Vermont Department Of Motor Vehicles Montpelier,State Of Vermont
 VT01216,VT0121600,50023,Attorney General,State Of Vermont
@@ -23498,7 +23498,7 @@ TX05731,NA,48113,El Centro College Police,NANA
 TX05754,NA,48113,Cedar Valley College Police,NANA
 TX05757,NA,48113,Lancaster Independent School District Police,NANA
 TX05743,NA,48113,Dallas County - Pct 8 Constable Office,NANA
-TX05740,NA,48113,"Dallas County - Pct 5,1 Constable Office",NANA
+TX05740,NA,48113,Dallas County - Pct 51 Constable Office,NANA
 TX05739,NA,48113,Dallas County - Pct 4 Constable Office,NANA
 TX05753,NA,48113,Dallas Area Rapid Transit Authority Police,NANA
 TX05737,NA,48113,Dallas County - Pct 2 Constable Office,NANA

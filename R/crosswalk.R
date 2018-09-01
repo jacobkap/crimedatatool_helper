@@ -16,5 +16,10 @@ crosswalk$crosswalk_agency_name <- sapply(crosswalk$crosswalk_agency_name,
 crosswalk$census_name <-           sapply(crosswalk$census_name,
                                           simpleCap)
 
+crosswalk$crosswalk_agency_name <- gsub(",", "",
+                                        crosswalk$crosswalk_agency_name)
+crosswalk$census_name <- gsub(",", "",
+                                        crosswalk$census_name)
+
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data")
 write_csv(crosswalk, path = "crosswalk.csv")
