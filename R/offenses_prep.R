@@ -1,11 +1,11 @@
 system.time(update_crime_data())
 update_crime_data <- function() {
-  load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/offenses_known/ucr_offenses_known_yearly_1960_2016.rda")
+  load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/offenses_known/ucr_offenses_known_yearly_1960_2017.rda")
   source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
 
   ucr <-
-    ucr_offenses_known_yearly_1960_2016 %>%
-    dplyr::filter(months_reported == "december is the last month reported",
+    ucr_offenses_known_yearly_1960_2017 %>%
+    dplyr::filter(last_month_reported == "december is the last month reported",
                   !state %in% c("guam",
                                 "canal zone",
                                 "puerto rico",
@@ -20,7 +20,7 @@ update_crime_data <- function() {
                   FIPS_state_code    = fips_state_code,
                   FIPS_county_code   = fips_county_code,
                   act_all_crimes     = act_all_fields,
-                  clr_all_crimes     = clr_all_fields,
+                  clr_all_crimes     = tot_clr_all_fields,
                   clr_18_all_crimes  = clr_18_all_fields,
                   unfound_all_crimes = unfound_all_fields) %>%
     dplyr::select(-one_of(ucr_to_drop)) %>%
@@ -62,7 +62,7 @@ update_crime_data <- function() {
                   dplyr::matches("auto_theft"),
                   dplyr::matches("other_vhc_theft"),
                   dplyr::matches("truck_bus_theft"))
-  rm(ucr_offenses_known_yearly_1960_2016); gc()
+  rm(ucr_offenses_known_yearly_1960_2017); gc()
 
   z = ucr[!duplicated(ucr$ORI),]
   z$temp <- paste(z$agency, z$state)
