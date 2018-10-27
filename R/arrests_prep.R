@@ -1,12 +1,26 @@
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_simple_1980_2016.rda")
 source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
 
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_simple_crimes_sex_1980_2016.rda")
+asr_simple_crimes_sex_1980_2016 <-
+  asr_simple_crimes_sex_1980_2016 %>%
+  dplyr::filter(number_of_months_reported %in% 12)
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/ASR/asr_simple_crimes_race_1980_2016.rda")
+common_names <- names(asr_simple_crimes_sex_1980_2016) %in% names(asr_simple_crimes_race_1980_2016)
+common_names <- names(asr_simple_crimes_sex_1980_2016)
+common_names <- common_names[!common_names %in% c("ori", "year")]
+asr_simple_crimes_race_1980_2016 <-
+  asr_simple_crimes_race_1980_2016 %>%
+  dplyr::filter(number_of_months_reported %in% 12) %>%
+  dplyr::select(-one_of(common_names))
+
 arrests <-
-  asr_simple_1980_2016 %>%
+  asr_simple_crimes_sex_1980_2016 %>%
+  dplyr::left_join(asr_simple_crimes_race_1980_2016) %>%
   dplyr::filter(!state %in% c("guam",
                               "canal zone",
                               "puerto rico",
-                              "virgin islands")) %>%
+                              "virgin islands"),
+                number_of_months_reported %in% 12) %>%
   dplyr::left_join(crosswalk_agencies) %>%
   dplyr::filter(agency != "NANA") %>%
   dplyr::select(-one_of(arrests_to_drop)) %>%
@@ -59,7 +73,8 @@ arrests <-
                 dplyr::matches("vagrancy"),
                 dplyr::matches("vandalism"),
                 dplyr::matches("weapons"))
-rm(asr_simple_1980_2016); gc()
+rm(asr_simple_crimes_sex_1980_2016);
+rm(asr_simple_crimes_race_1980_2016); gc()
 
 z = arrests[!duplicated(arrests$ORI),]
 z$temp <- paste(z$agency, z$state)
@@ -69,7 +84,7 @@ arrests$agency <- sapply(arrests$agency, simpleCap)
 arrests$state <- sapply(arrests$state, simpleCap)
 arrests$state <- gsub(" Of ", " of ", arrests$state)
 
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/arrests")
+setwd("C:/Users/user/Dropbox/R_project/crimedatatool_data/data/arrests")
 arrests <- data.table::data.table(arrests)
 for (selected_ori in sort(unique(arrests$ORI))) {
   temp   <- arrests[ORI %in% selected_ori]
@@ -84,6 +99,7 @@ for (selected_ori in sort(unique(arrests$ORI))) {
                    path = paste0(state, "_", agency, ".csv"))
 }
 
+setwd("C:/Users/user/Dropbox/R_project/crimedatatool_data/data/arrests")
 for (selected_state in unique(arrests$state)) {
   temp   <- arrests[state %in% selected_state]
   agency <- unique(temp$agency)
@@ -91,7 +107,7 @@ for (selected_state in unique(arrests$state)) {
   write(agency, paste0(selected_state, "_agency_choices.json"))
 }
 
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/arrests")
+setwd("C:/Users/user/Dropbox/R_project/crimedatatool_data/data/arrests")
 largest_agency <- arrests %>%
   dplyr::group_by(state) %>%
   dplyr::top_n(1, population) %>%
