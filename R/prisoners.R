@@ -404,6 +404,6 @@ for (selected_state in sort(unique(prisoners$state))) {
   }
 
   readr::write_csv(temp,
-                   path = paste0(save_state, "_", category, "_prisoners_.csv"))
+                   path = paste0(save_state, "_", category, "_prisoners.csv"))
   }
 }
