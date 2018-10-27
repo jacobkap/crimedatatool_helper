@@ -1,5 +1,6 @@
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/raw_data")
 source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
+source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/prisoners_utils.R')
 library(dplyr)
 library(asciiSetupReader)
 
@@ -167,7 +168,17 @@ prisoners <-
                 custody_private_prison_female = custody_including_private_facilities_female -
                   custody_public_prisons_female,
 
-                # Custody total columns
+                # Private/public Prison jurisdiction
+                jurisdiction_private_prison_male = jurisdiction_private_prison_in_state_male +
+                  jurisdiction_private_prison_out_of_state_male,
+                jurisdiction_private_prison_female = jurisdiction_private_prison_in_state_female +
+                  jurisdiction_private_prison_out_of_state_female,
+
+                jurisdiction_public_prison_male = total_under_jurisdiction_males -
+                  jurisdiction_private_prison_male,
+                jurisdiction_public_prison_female = total_under_jurisdiction_females -
+                  jurisdiction_private_prison_female) %>%
+  dplyr::mutate(# Custody total columns
                 custody_unsentenced_total =
                   rowSums(.[, grepl("^custody_unsentenced_[a-z]+$",
                                     names(.))]),
@@ -182,17 +193,6 @@ prisoners <-
                                     names(.))]),
 
 
-                # Private Prison jurisdiction
-                jurisdiction_private_prison_male = jurisdiction_private_prison_in_state_male +
-                  jurisdiction_private_prison_out_of_state_male,
-                jurisdiction_private_prison_female = jurisdiction_private_prison_in_state_female +
-                  jurisdiction_private_prison_out_of_state_female,
-
-                jurisdiction_public_prison_male = total_under_jurisdiction_males -
-                  jurisdiction_private_prison_male,
-                jurisdiction_public_prison_female = total_under_jurisdiction_females -
-                  jurisdiction_private_prison_female,
-
                 # Jurisdiction total columns
                 jurisdiction_unsentenced_total =
                   rowSums(.[, grepl("^jurisdiction_unsentenced_",
@@ -200,15 +200,16 @@ prisoners <-
                 total_under_jurisdiction_total =
                   rowSums(.[, grepl("^total_under_jurisdiction_",
                                     names(.))]),
-                jurisdiction_private_prison_total =
-                  rowSums(.[, grepl("^jurisdiction_private_prison_[a-z]+$",
-                                    names(.))]),
+
                 jurisdiction_private_prison_out_of_state_total =
                   rowSums(.[, grepl("^jurisdiction_private_prison_out_of_state_",
                                     names(.))]),
                 jurisdiction_private_prison_in_state_total =
                   rowSums(.[, grepl("^jurisdiction_private_prison_in_state_",
                                     names(.))]),
+                jurisdiction_private_prison_total =
+                  rowSums(.[, c("jurisdiction_private_prison_male",
+                                "jurisdiction_private_prison_female")]),
 
                 jurisdiction_local_facilities_solely_to_ease_prison_crowding_total =
                   rowSums(.[, grepl("^jurisdiction_local_facilities_solely_to_ease_prison_crowding_",
@@ -217,8 +218,8 @@ prisoners <-
                   rowSums(.[, grepl("^jurisdiction_housed_in_local_facility_",
                                     names(.))]),
                 jurisdiction_public_prison_total =
-                  rowSums(.[, grepl("^jurisdiction_public_prison_",
-                                    names(.))]),
+                  rowSums(.[,  c("jurisdiction_public_prison_male",
+                                 "jurisdiction_public_prison_female")]),
 
 
                 # Admissions total columns
@@ -311,7 +312,7 @@ prisoners <-
                 american_indian_total =
                   rowSums(.[, grepl("^american_indian",
                                     names(.))]),
-                native_hawaiian_or_other_pacific_islander_total =
+                native_hawaiian_total =
                   rowSums(.[, grepl("^native_hawaiian_",
                                     names(.))]),
                 asian_total =
@@ -320,7 +321,7 @@ prisoners <-
                 two_or_more_races_total =
                   rowSums(.[, grepl("^two_or_more_races",
                                     names(.))]),
-                additional_other_category_race_total =
+                other_category_race_total =
                   rowSums(.[, grepl("^other_race",
                                     names(.))]),
                 unknown_race_total =
@@ -374,17 +375,35 @@ prisoners$total_under_custody_total_1978_1982_only <- NULL
 prisoners$custody_unsentenced_total_1978_1982_only <- NULL
 
 dim(prisoners)
-names(prisoners)
 summary(prisoners)
-
+sapply(prisoners, max, na.rm = TRUE)
+names(prisoners)
 
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/prisoners")
-for (state in sort(unique(prisoners$state))) {
-  temp   <- prisoners[prisoners$state %in% state,]
-  state  <- unique(temp$state)
-  state  <- gsub(" ", "_", state)
+for (selected_state in sort(unique(prisoners$state))) {
+  for (i in 1:length(prisoners_categories)) {
+    cols_to_keep <- prisoners_categories[[i]]
+    temp <-
+      prisoners %>%
+      dplyr::filter(state %in% selected_state) %>%
+      dplyr::select(state,
+                    year,
+                    cols_to_keep)
+
+  save_state     <- unique(temp$state)
+  save_state     <- gsub(" ", "_", save_state)
+  category       <- names(prisoners_categories)[i]
+
+  if (category == "aids") {
+    temp <- temp[temp$year > 1990, ]
+  } else if (category == "capacity") {
+    temp <- temp[temp$year > 1982, ]
+  } else if (category == "noncitizen_juvenile") {
+    temp <- temp[temp$year > 1997, ]
+  }
 
   readr::write_csv(temp,
-                   path = paste0(state, "_prisoners.csv"))
+                   path = paste0(save_state, "_", category, "_prisoners_.csv"))
+  }
 }
