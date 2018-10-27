@@ -162,6 +162,7 @@ prisoners <-
   dplyr::mutate(state = gsub("[0-9]+. ", "", state),
                 state = gsub("Federal BOP", "Federal Prison Total", state),
                 state = gsub("^US prison total.*", "US Prison Total", state),
+                state = gsub("^State prison total", "State Prison Total", state),
                 # Private Prison custody
                 custody_private_prison_male = custody_including_private_facilities_male -
                   custody_public_prisons_male,
