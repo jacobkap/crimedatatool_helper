@@ -374,11 +374,13 @@ prisoners$custody_unsentenced_total[is.na(prisoners$custody_unsentenced_total)] 
   prisoners$custody_unsentenced_total_1978_1982_only[is.na(prisoners$custody_unsentenced_total)]
 prisoners$total_under_custody_total_1978_1982_only <- NULL
 prisoners$custody_unsentenced_total_1978_1982_only <- NULL
+names(prisoners) <- gsub("males", "male", names(prisoners))
 
 dim(prisoners)
 summary(prisoners)
 sapply(prisoners, max, na.rm = TRUE)
 names(prisoners)
+sort(unique(prisoners$state))
 
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/prisoners")
