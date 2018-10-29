@@ -376,6 +376,21 @@ prisoners$total_under_custody_total_1978_1982_only <- NULL
 prisoners$custody_unsentenced_total_1978_1982_only <- NULL
 names(prisoners) <- gsub("males", "male", names(prisoners))
 
+# No pre-1999 capacity info for male/female and no total post-1998
+prisoners$rated_capacity_total[prisoners$year >= 1999] <-
+  prisoners$rated_capacity_female[prisoners$year >= 1999] +
+  prisoners$rated_capacity_male[prisoners$year >= 1999]
+
+prisoners$design_capacity_total[prisoners$year >= 1999] <-
+  prisoners$design_capacity_female[prisoners$year >= 1999] +
+  prisoners$design_capacity_male[prisoners$year >= 1999]
+
+prisoners$operational_capacity_total[prisoners$year >= 1999] <-
+  prisoners$operational_capacity_female[prisoners$year >= 1999] +
+  prisoners$operational_capacity_male[prisoners$year >= 1999]
+
+
+
 dim(prisoners)
 summary(prisoners)
 sapply(prisoners, max, na.rm = TRUE)
@@ -392,7 +407,8 @@ for (selected_state in sort(unique(prisoners$state))) {
       dplyr::filter(state %in% selected_state) %>%
       dplyr::select(state,
                     year,
-                    cols_to_keep)
+                    cols_to_keep) %>%
+      dplyr::arrange(desc(year))
 
   save_state     <- unique(temp$state)
   save_state     <- gsub(" ", "_", save_state)
