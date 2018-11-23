@@ -250,8 +250,6 @@ prisoners_name_fix <- c(
   "american_indian_or_alaska_native_female"          = "american_indian_female",
   "native_hawaiian_or_other_pacific_islander_male"   = "native_hawaiian_male",
   "native_hawaiian_or_other_pacific_islander_female" = "native_hawaiian_female",
-  "asian_or_pacific_islander_male"                   = "asian_male",
-  "asian_or_pacific_islander_female"                 = "asian_female",
   "additional_other_categories_for_race_male"        = "other_race_male",
   "additional_other_categories_for_race_female"      = "other_race_female",
   "custody_excluding_private_facilities_male"        = "custody_public_prisons_male",

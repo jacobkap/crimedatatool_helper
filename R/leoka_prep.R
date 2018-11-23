@@ -1,77 +1,37 @@
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA/leoka_yearly_1975_2016.rda")
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA/leoka_yearly_1960_2017.rda")
 source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
 library(tidyverse)
 
 
 leoka <-
-  leoka_yearly_1975_2016 %>%
+  leoka_yearly_1960_2017 %>%
   dplyr::filter(!state %in% c("guam",
                               "canal zone",
                               "puerto rico",
                               "virgin islands"),
-                record_indicator != "not updated, no police employee data") %>%
-  dplyr::mutate(months_reported = paste(jan_month_indicator,
-                                        feb_month_indicator,
-                                        mar_month_indicator,
-                                        apr_month_indicator,
-                                        may_month_indicator,
-                                        jun_month_indicator,
-                                        jul_month_indicator,
-                                        aug_month_indicator,
-                                        sep_month_indicator,
-                                        oct_month_indicator,
-                                        nov_month_indicator,
-                                        dec_month_indicator)) %>%
+                number_of_months_reported  == 12) %>%
   dplyr::left_join(crosswalk_agencies) %>%
   dplyr::filter(agency != "NANA") %>%
   dplyr::rename(ORI               = ori) %>%
   dplyr::select(starting_cols,
-                "total_officers",
-                "female_employees_officers",
-                "male_employees_officers",
-                "total_civilians",
-                "female_employees_civilians",
-                "male_employees_civilians",
-                "officers_killed_accident",
-                "officers_killed_felony",
-                "assault_injury_total",
-                "assault_injury_gun",
-                "assault_injury_knife",
-                "assault_injury_hand_feet",
-                "assault_injury_other",
-
-                "assault_no_injury_total",
-                "assault_no_injury_gun",
-                "assault_no_injury_knife" ,
-                "assault_no_injury_hand_feet" ,
-                "assault_no_injury_other",
-
-                "total_assault_total",
-                "total_assault_gun",
-                "total_assault_knife",
-                "total_assault_hand_feet",
-                "total_assault_other",
-
-                "all_oth_total_assault",
-                "ambush_total_assault",
-                "att_oth_arrest_total_assault",
-                "burglary_total_assault",
-                "civil_disorder_total_assault",
-                "cust_prisoners_total_assault",
-                "deranged_total_assault",
-                "disturbance_total_assault",
-                "robbery_total_assault",
-                "susp_pers_total_assault",
-                "traffic_total_assault",
-                "months_reported")
-
-assault_columns <- grep("assault|killed", names(leoka), value = TRUE)
-for (col in assault_columns) {
-  leoka[, col][grepl("not reported|deleted", leoka$months_reported)] <- NA
-}
-leoka$months_reported <- NULL
-
-
+                dplyr::matches("employees"),
+                dplyr::matches("killed"),
+                dplyr::matches("assaults_with_injury"),
+                dplyr::matches("assaults_no_injury"),
+                dplyr::matches("total_assault"),
+                dplyr::matches("ambush"),
+                dplyr::matches("oth_arrest"),
+                dplyr::matches("burglary"),
+                dplyr::matches("deranged"),
+                dplyr::matches("disturbance"),
+                dplyr::matches("prisoner"),
+                dplyr::matches("riot"),
+                dplyr::matches("robbery"),
+                dplyr::matches("susp_pers"),
+                dplyr::matches("traffic"),
+                dplyr::matches("all_other"),
+                -dplyr::matches("assist|alone|clear|veh"))
+rm(leoka_yearly_1960_2017); gc()
 
 z = leoka[!duplicated(leoka$ORI),]
 z$temp <- paste(z$agency, z$state)

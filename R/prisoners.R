@@ -6,6 +6,11 @@ library(asciiSetupReader)
 
 prisoners <-
   spss_ascii_reader("national_prisoner_statistics_1978_2016.txt",
+                    "national_prisoner_statistics_1978_2016.sps")
+
+
+prisoners <-
+  spss_ascii_reader("national_prisoner_statistics_1978_2016.txt",
                     "national_prisoner_statistics_1978_2016.sps") %>%
   dplyr::rename_all(tolower) %>%
   dplyr::select(survey_year,
