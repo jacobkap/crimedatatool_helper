@@ -32,6 +32,10 @@
     "agency": "Washington Metropolitan Police Department"
   },
   {
+    "state": "District of Columbia",
+    "agency": "Washington Metropolitan Police Department"
+  },
+  {
     "state": "Delaware",
     "agency": "New Castle County Police Department"
   },
@@ -92,8 +96,16 @@
     "agency": "Detroit Police Department"
   },
   {
+    "state": "Michigan",
+    "agency": "Detroit Police Department"
+  },
+  {
     "state": "Minnesota",
     "agency": "Minneapolis Police Department"
+  },
+  {
+    "state": "Missouri",
+    "agency": "St. Louis (city) Police Dept"
   },
   {
     "state": "Missouri",
@@ -141,7 +153,7 @@
   },
   {
     "state": "Ohio",
-    "agency": "Columbus Police Department"
+    "agency": "Cleveland Police Department"
   },
   {
     "state": "Oklahoma",
@@ -154,6 +166,10 @@
   {
     "state": "Pennsylvania",
     "agency": "Philadelphia Police Department"
+  },
+  {
+    "state": "Rhode Island",
+    "agency": "Providence Police Department"
   },
   {
     "state": "Rhode Island",

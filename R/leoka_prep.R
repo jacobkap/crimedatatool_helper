@@ -9,10 +9,11 @@ leoka <-
                               "canal zone",
                               "puerto rico",
                               "virgin islands"),
-                number_of_months_reported  == 12) %>%
+                number_of_months_reported  == 12 | year < 1972) %>%
   dplyr::left_join(crosswalk_agencies) %>%
   dplyr::filter(agency != "NANA") %>%
   dplyr::rename(ORI               = ori) %>%
+  dplyr::mutate(year = as.character(year)) %>%
   dplyr::select(starting_cols,
                 dplyr::matches("employees"),
                 dplyr::matches("killed"),
@@ -31,7 +32,7 @@ leoka <-
                 dplyr::matches("traffic"),
                 dplyr::matches("all_other"),
                 -dplyr::matches("assist|alone|clear|veh"))
-rm(leoka_yearly_1960_2017); gc()
+rm(leoka_yearly_1960_2017);
 
 z = leoka[!duplicated(leoka$ORI),]
 z$temp <- paste(z$agency, z$state)
