@@ -1,6 +1,5 @@
 load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA/leoka_yearly_1960_2017.rda")
 source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
-library(tidyverse)
 
 
 leoka <-
@@ -8,13 +7,12 @@ leoka <-
   dplyr::filter(!state %in% c("guam",
                               "canal zone",
                               "puerto rico",
-                              "virgin islands"),
-                number_of_months_reported  == 12 | year < 1972) %>%
+                              "virgin islands")) %>%
   dplyr::left_join(crosswalk_agencies) %>%
   dplyr::filter(agency != "NANA") %>%
   dplyr::rename(ORI               = ori) %>%
-  dplyr::mutate(year = as.character(year)) %>%
   dplyr::select(starting_cols,
+                number_of_months_reported,
                 dplyr::matches("employees"),
                 dplyr::matches("killed"),
                 dplyr::matches("assaults_with_injury"),
@@ -46,6 +44,13 @@ setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")
 leoka <- data.table::data.table(leoka)
 for (selected_ori in sort(unique(leoka$ORI))) {
   temp   <- leoka[ORI %in% selected_ori]
+
+  if (any(temp$number_of_months_reported %in% 12)) {
+
+  temp   <- na_non_12_month_rows(temp)
+  temp   <- dummy_rows_missing_years(temp)
+  temp$number_of_months_reported <- NULL
+
   state  <- unique(temp$state)
   agency <- unique(temp$agency)
   state  <- gsub(" ", "_", state)
@@ -55,6 +60,7 @@ for (selected_ori in sort(unique(leoka$ORI))) {
 
   readr::write_csv(temp,
                    path = paste0(state, "_", agency, ".csv"))
+  }
 }
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")
