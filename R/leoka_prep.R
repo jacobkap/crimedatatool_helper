@@ -57,6 +57,7 @@ for (selected_ori in sort(unique(leoka$ORI))) {
   agency <- gsub(" |:", "_", agency)
   agency <- gsub("/", "_", agency)
   agency <- gsub("_+", "_", agency)
+  agency <- gsub("'", "", agency)
 
   readr::write_csv(temp,
                    path = paste0(state, "_", agency, ".csv"))
