@@ -74,7 +74,7 @@ simpleCap <- function(word) {
                       substring(split_word, 2),
                       sep = "",
                       collapse = " ")
-  split_word <- gsub("Of", "of", split_word)
+  split_word <- gsub(" Of ", " of ", split_word)
 }
 
 make_numeric <- function(x) {

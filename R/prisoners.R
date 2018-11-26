@@ -4,9 +4,11 @@ source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/prisoners_utils.R
 library(dplyr)
 library(asciiSetupReader)
 
+load("prisoners_census.rda")
 prisoners <-
   spss_ascii_reader("national_prisoner_statistics_1978_2016.txt",
-                    "national_prisoner_statistics_1978_2016.sps")
+                    "national_prisoner_statistics_1978_2016.sps") %>%
+  dplyr::rename_all(tolower)
 
 
 prisoners <-
@@ -51,6 +53,8 @@ prisoners <-
                 american_indian_or_alaska_native_female,
                 native_hawaiian_or_other_pacific_islander_male,
                 native_hawaiian_or_other_pacific_islander_female,
+                asian_male,
+                asian_female,
                 asian_or_pacific_islander_male,
                 asian_or_pacific_islander_female,
                 two_or_more_races_male,
@@ -162,6 +166,7 @@ prisoners <-
                 total_in_custody_hiv_positive_or_with_aids_total) %>%
   dplyr::rename(year = survey_year,
                 state = state_fips_identification_code) %>%
+  dplyr::left_join(prisoners_census) %>%
   dplyr::mutate_at(vars(3:ncol(.)), make_numeric) %>%
   dplyr::rename_all(funs(stringr::str_replace_all(., prisoners_name_fix))) %>%
   dplyr::mutate(state = gsub("[0-9]+. ", "", state),
@@ -318,11 +323,14 @@ prisoners <-
                 american_indian_total =
                   rowSums(.[, grepl("^american_indian",
                                     names(.))]),
-                native_hawaiian_total =
-                  rowSums(.[, grepl("^native_hawaiian_",
-                                    names(.))]),
+#                native_hawaiian_total =
+ #                 rowSums(.[, grepl("^native_hawaiian_",
+  #                                  names(.))]),
                 asian_total =
-                  rowSums(.[, grepl("^asian",
+                  rowSums(.[, grepl("asian_male|asian_female|native_hawaiian",
+                                    names(.))]),
+                asian_or_pacific_islander_total =
+                  rowSums(.[, grepl("^asian_or_pacific",
                                     names(.))]),
                 two_or_more_races_total =
                   rowSums(.[, grepl("^two_or_more_races",
