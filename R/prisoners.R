@@ -187,190 +187,191 @@ prisoners <-
                 jurisdiction_public_prison_female = total_under_jurisdiction_females -
                   jurisdiction_private_prison_female) %>%
   dplyr::left_join(prisoners_census) %>%
-  dplyr::mutate(# Custody total columns
-                custody_unsentenced_total =
-                  rowSums(.[, grepl("^custody_unsentenced_[a-z]+$",
-                                    names(.))]),
-                total_under_custody_total =
-                  rowSums(.[, grepl("^total_under_custody_[a-z]+$",
-                                    names(.))]),
-                custody_public_prisons_total =
-                  rowSums(.[, grepl("^custody_public_prisons_",
-                                    names(.))]),
-                custody_private_prison_total =
-                  rowSums(.[, grepl("^custody_private_prison_",
-                                    names(.))]),
+  dplyr::mutate(
+    # Custody total columns
+    custody_unsentenced_total =
+      rowSums(.[, grepl("^custody_unsentenced_[a-z]+$",
+                        names(.))]),
+    total_under_custody_total =
+      rowSums(.[, grepl("^total_under_custody_[a-z]+$",
+                        names(.))]),
+    custody_public_prisons_total =
+      rowSums(.[, grepl("^custody_public_prisons_",
+                        names(.))]),
+    custody_private_prison_total =
+      rowSums(.[, grepl("^custody_private_prison_",
+                        names(.))]),
 
 
-                # Jurisdiction total columns
-                jurisdiction_unsentenced_total =
-                  rowSums(.[, grepl("^jurisdiction_unsentenced_",
-                                    names(.))]),
-                total_under_jurisdiction_total =
-                  rowSums(.[, grepl("^total_under_jurisdiction_",
-                                    names(.))]),
+    # Jurisdiction total columns
+    jurisdiction_unsentenced_total =
+      rowSums(.[, grepl("^jurisdiction_unsentenced_",
+                        names(.))]),
+    total_under_jurisdiction_total =
+      rowSums(.[, grepl("^total_under_jurisdiction_",
+                        names(.))]),
 
-                jurisdiction_private_prison_out_of_state_total =
-                  rowSums(.[, grepl("^jurisdiction_private_prison_out_of_state_",
-                                    names(.))]),
-                jurisdiction_private_prison_in_state_total =
-                  rowSums(.[, grepl("^jurisdiction_private_prison_in_state_",
-                                    names(.))]),
-                jurisdiction_private_prison_total =
-                  rowSums(.[, c("jurisdiction_private_prison_male",
-                                "jurisdiction_private_prison_female")]),
+    jurisdiction_private_prison_out_of_state_total =
+      rowSums(.[, grepl("^jurisdiction_private_prison_out_of_state_",
+                        names(.))]),
+    jurisdiction_private_prison_in_state_total =
+      rowSums(.[, grepl("^jurisdiction_private_prison_in_state_",
+                        names(.))]),
+    jurisdiction_private_prison_total =
+      rowSums(.[, c("jurisdiction_private_prison_male",
+                    "jurisdiction_private_prison_female")]),
 
-                jurisdiction_local_facilities_solely_to_ease_prison_crowding_total =
-                  rowSums(.[, grepl("^jurisdiction_local_facilities_solely_to_ease_prison_crowding_",
-                                    names(.))]),
-                jurisdiction_housed_in_local_facility_total =
-                  rowSums(.[, grepl("^jurisdiction_housed_in_local_facility_",
-                                    names(.))]),
-                jurisdiction_public_prison_total =
-                  rowSums(.[,  c("jurisdiction_public_prison_male",
-                                 "jurisdiction_public_prison_female")]),
-
-
-                # Admissions total columns
-                new_court_commitments_total =
-                  rowSums(.[, grepl("^new_court_commitments",
-                                    names(.))]),
-                parole_violators_with_new_sentence_total =
-                  rowSums(.[, grepl("^parole_violators_with_new_sentence_",
-                                    names(.))]),
-                parole_violators_without_new_sentence_total =
-                  rowSums(.[, grepl("^parole_violators_without_new_sentence_",
-                                    names(.))]),
-                other_conditional_release_violators_admitted_with_new_sentence_total =
-                  rowSums(.[, grepl("^other_conditional_release_violators_admitted_with_new_sentence_",
-                                    names(.))]),
-                other_conditional_release_violators_admitted_without_new_sentence_total =
-                  rowSums(.[, grepl("^other_conditional_release_violators_admitted_without_new_sentence_",
-                                    names(.))]),
-                transfers_admitted_from_other_jurisdictions_total =
-                  rowSums(.[, grepl("^transfers_admitted_from_other_jurisdictions_",
-                                    names(.))]),
-
-                awol_returns_with_or_without_new_sentences_total =
-                  rowSums(.[, grepl("^awol_returns_with_or_without_new_sentences_",
-                                    names(.))]),
-                escapee_returns_with_or_without_new_sentences_total =
-                  rowSums(.[, grepl("^escapee_returns_with_or_without_new_sentences_",
-                                    names(.))]),
-                returns_from_appeal_or_bond_total =
-                  rowSums(.[, grepl("^returns_from_appeal_or_bond_",
-                                    names(.))]),
-                other_admissions_total =
-                  rowSums(.[, grepl("^other_admissions_",
-                                    names(.))]),
-                total_admissions_total =
-                  rowSums(.[, grepl("^total_admissions_",
-                                    names(.))]),
-
-                # Releases total columns
-                unconditional_release_expirations_of_sentence_total =
-                  rowSums(.[, grepl("^unconditional_release_expirations_of_sentence_",
-                                    names(.))]),
-                unconditional_release_commutations_total =
-                  rowSums(.[, grepl("^unconditional_release_commutations_",
-                                    names(.))]),
-                other_unconditional_release_total =
-                  rowSums(.[, grepl("^other_unconditional_release_",
-                                    names(.))]),
-                conditional_release_probations_total =
-                  rowSums(.[, grepl("^conditional_release_probations_",
-                                    names(.))]),
-                supervised_mandatory_release_total =
-                  rowSums(.[, grepl("^supervised_mandatory_release_",
-                                    names(.))]),
-                discretionary_parole_total =
-                  rowSums(.[, grepl("^discretionary_parole_",
-                                    names(.))]),
-                other_conditional_release_total =
-                  rowSums(.[, grepl("^other_conditional_release_[a-z]+$",
-                                    names(.))]),
-                awol_release_total =
-                  rowSums(.[, grepl("^awol_release_",
-                                    names(.))]),
-
-                transfers_to_other_jurisdictions_total =
-                  rowSums(.[, grepl("^transfers_to_other_jurisdictions_",
-                                    names(.))]),
-                release_to_appeal_or_bond_total =
-                  rowSums(.[, grepl("^release_to_appeal_or_bond_",
-                                    names(.))]),
-                escape_from_confinement_total =
-                  rowSums(.[, grepl("^escape_from_confinement_",
-                                    names(.))]),
-                total_releases_total =
-                  rowSums(.[, grepl("^total_releases_",
-                                    names(.))]),
+    jurisdiction_local_facilities_solely_to_ease_prison_crowding_total =
+      rowSums(.[, grepl("^jurisdiction_local_facilities_solely_to_ease_prison_crowding_",
+                        names(.))]),
+    jurisdiction_housed_in_local_facility_total =
+      rowSums(.[, grepl("^jurisdiction_housed_in_local_facility_",
+                        names(.))]),
+    jurisdiction_public_prison_total =
+      rowSums(.[,  c("jurisdiction_public_prison_male",
+                     "jurisdiction_public_prison_female")]),
 
 
+    # Admissions total columns
+    new_court_commitments_total =
+      rowSums(.[, grepl("^new_court_commitments",
+                        names(.))]),
+    parole_violators_with_new_sentence_total =
+      rowSums(.[, grepl("^parole_violators_with_new_sentence_",
+                        names(.))]),
+    parole_violators_without_new_sentence_total =
+      rowSums(.[, grepl("^parole_violators_without_new_sentence_",
+                        names(.))]),
+    other_conditional_release_violators_admitted_with_new_sentence_total =
+      rowSums(.[, grepl("^other_conditional_release_violators_admitted_with_new_sentence_",
+                        names(.))]),
+    other_conditional_release_violators_admitted_without_new_sentence_total =
+      rowSums(.[, grepl("^other_conditional_release_violators_admitted_without_new_sentence_",
+                        names(.))]),
+    transfers_admitted_from_other_jurisdictions_total =
+      rowSums(.[, grepl("^transfers_admitted_from_other_jurisdictions_",
+                        names(.))]),
 
-                # Make total race columns
-                white_total =
-                  rowSums(.[, grepl("^white",
-                                    names(.))]),
-                black_total =
-                  rowSums(.[, grepl("^black",
-                                    names(.))]),
-                hispanic_or_latino_total =
-                  rowSums(.[, grepl("^hispanic_or_latino",
-                                    names(.))]),
-                american_indian_total =
-                  rowSums(.[, grepl("^american_indian",
-                                    names(.))]),
-                asian_total =
-                  rowSums(.[, grepl("asian_male|asian_female|native_hawaiian",
-                                    names(.))]),
-                asian_or_pacific_islander_total =
-                  rowSums(.[, grepl("^asian_or_pacific",
-                                    names(.))]),
-                other_race_total =
-                  rowSums(.[, grepl("^other_race",
-                                    names(.))]),
-                unknown_race_total =
-                  rowSums(.[, grepl("^unknown_race",
-                                    names(.))]),
+    awol_returns_with_or_without_new_sentences_total =
+      rowSums(.[, grepl("^awol_returns_with_or_without_new_sentences_",
+                        names(.))]),
+    escapee_returns_with_or_without_new_sentences_total =
+      rowSums(.[, grepl("^escapee_returns_with_or_without_new_sentences_",
+                        names(.))]),
+    returns_from_appeal_or_bond_total =
+      rowSums(.[, grepl("^returns_from_appeal_or_bond_",
+                        names(.))]),
+    other_admissions_total =
+      rowSums(.[, grepl("^other_admissions_",
+                        names(.))]),
+    total_admissions_total =
+      rowSums(.[, grepl("^total_admissions_",
+                        names(.))]),
+
+    # Releases total columns
+    unconditional_release_expirations_of_sentence_total =
+      rowSums(.[, grepl("^unconditional_release_expirations_of_sentence_",
+                        names(.))]),
+    unconditional_release_commutations_total =
+      rowSums(.[, grepl("^unconditional_release_commutations_",
+                        names(.))]),
+    other_unconditional_release_total =
+      rowSums(.[, grepl("^other_unconditional_release_",
+                        names(.))]),
+    conditional_release_probations_total =
+      rowSums(.[, grepl("^conditional_release_probations_",
+                        names(.))]),
+    supervised_mandatory_release_total =
+      rowSums(.[, grepl("^supervised_mandatory_release_",
+                        names(.))]),
+    discretionary_parole_total =
+      rowSums(.[, grepl("^discretionary_parole_",
+                        names(.))]),
+    other_conditional_release_total =
+      rowSums(.[, grepl("^other_conditional_release_[a-z]+$",
+                        names(.))]),
+    awol_release_total =
+      rowSums(.[, grepl("^awol_release_",
+                        names(.))]),
+
+    transfers_to_other_jurisdictions_total =
+      rowSums(.[, grepl("^transfers_to_other_jurisdictions_",
+                        names(.))]),
+    release_to_appeal_or_bond_total =
+      rowSums(.[, grepl("^release_to_appeal_or_bond_",
+                        names(.))]),
+    escape_from_confinement_total =
+      rowSums(.[, grepl("^escape_from_confinement_",
+                        names(.))]),
+    total_releases_total =
+      rowSums(.[, grepl("^total_releases_",
+                        names(.))]),
 
 
-                # Minors and non-citizens total
-                in_custody_under_18_years_of_age_total =
-                  rowSums(.[, grepl("^in_custody_under_18_years_of_age_",
-                                    names(.))]),
-                in_custody_not_us_citizens_total =
-                  rowSums(.[, grepl("^in_custody_not_us_citizens_",
-                                    names(.))]),
 
-                # Death total
-                deaths_from_execution_total =
-                  rowSums(.[, grepl("^deaths_from_execution_",
-                                    names(.))]),
-                deaths_from_illness_or_natural_cause_total =
-                  rowSums(.[, grepl("^deaths_from_illness_or_natural_cause",
-                                    names(.))]),
-                deaths_from_aids_total =
-                  rowSums(.[, grepl("^deaths_from_aids_",
-                                    names(.))]),
-                deaths_from_suicide_total =
-                  rowSums(.[, grepl("^deaths_from_suicide_",
-                                    names(.))]),
-                deaths_from_accidental_injury_to_self_total =
-                  rowSums(.[, grepl("^deaths_from_accidental_injury_to_self_",
-                                    names(.))]),
-                deaths_from_homicide_by_other_inmates_total =
-                  rowSums(.[, grepl("^deaths_from_homicide_by_other_inmates_",
-                                    names(.))]),
-                deaths_from_other_homicide_total =
-                  rowSums(.[, grepl("^deaths_from_other_homicide_",
-                                    names(.))]),
-                deaths_caused_by_another_person_total =
-                  rowSums(.[, grepl("^deaths_caused_by_another_person_",
-                                    names(.))]),
-                total_deaths_total =
-                  rowSums(.[, grepl("^total_deaths_",
-                                    names(.))])
+    # Make total race columns
+    white_total =
+      rowSums(.[, grepl("^white",
+                        names(.))]),
+    black_total =
+      rowSums(.[, grepl("^black",
+                        names(.))]),
+    hispanic_or_latino_total =
+      rowSums(.[, grepl("^hispanic_or_latino",
+                        names(.))]),
+    american_indian_total =
+      rowSums(.[, grepl("^american_indian",
+                        names(.))]),
+    asian_total =
+      rowSums(.[, grepl("asian_male|asian_female|native_hawaiian",
+                        names(.))]),
+    asian_or_pacific_islander_total =
+      rowSums(.[, grepl("^asian_or_pacific",
+                        names(.))]),
+    other_race_total =
+      rowSums(.[, grepl("^other_race",
+                        names(.))]),
+    unknown_race_total =
+      rowSums(.[, grepl("^unknown_race",
+                        names(.))]),
+
+
+    # Minors and non-citizens total
+    in_custody_under_18_years_of_age_total =
+      rowSums(.[, grepl("^in_custody_under_18_years_of_age_",
+                        names(.))]),
+    in_custody_not_us_citizens_total =
+      rowSums(.[, grepl("^in_custody_not_us_citizens_",
+                        names(.))]),
+
+    # Death total
+    deaths_from_execution_total =
+      rowSums(.[, grepl("^deaths_from_execution_",
+                        names(.))]),
+    deaths_from_illness_or_natural_cause_total =
+      rowSums(.[, grepl("^deaths_from_illness_or_natural_cause",
+                        names(.))]),
+    deaths_from_aids_total =
+      rowSums(.[, grepl("^deaths_from_aids_",
+                        names(.))]),
+    deaths_from_suicide_total =
+      rowSums(.[, grepl("^deaths_from_suicide_",
+                        names(.))]),
+    deaths_from_accidental_injury_to_self_total =
+      rowSums(.[, grepl("^deaths_from_accidental_injury_to_self_",
+                        names(.))]),
+    deaths_from_homicide_by_other_inmates_total =
+      rowSums(.[, grepl("^deaths_from_homicide_by_other_inmates_",
+                        names(.))]),
+    deaths_from_other_homicide_total =
+      rowSums(.[, grepl("^deaths_from_other_homicide_",
+                        names(.))]),
+    deaths_caused_by_another_person_total =
+      rowSums(.[, grepl("^deaths_caused_by_another_person_",
+                        names(.))]),
+    total_deaths_total =
+      rowSums(.[, grepl("^total_deaths_",
+                        names(.))])
 
   )
 prisoners$total_under_custody_total[is.na(prisoners$total_under_custody_total)] <-
@@ -394,25 +395,31 @@ prisoners$operational_capacity_total[prisoners$year >= 1999] <-
 
 
 # Fix asian column - some old columns were asian_or_pacific_islander
-prisoners$asian_female <- prisoners$asian_female + prisoners$native_hawaiian_female
-prisoners$asian_male <- prisoners$asian_male + prisoners$native_hawaiian_male
+prisoners$asian_female <- rowSums(prisoners[, c("asian_female",
+                                                 "native_hawaiian_female")],
+                                   na.rm = TRUE)
+prisoners$asian_male  <- rowSums(prisoners[, c("asian_male",
+                                                 "native_hawaiian_male")],
+                                   na.rm = TRUE)
+
 
 prisoners$asian_female[is.na(prisoners$asian_female)] <- prisoners$asian_or_pacific_islander_female[is.na(prisoners$asian_female)]
 prisoners$asian_male[is.na(prisoners$asian_male)] <- prisoners$asian_or_pacific_islander_male[is.na(prisoners$asian_male)]
 prisoners$asian_total[is.na(prisoners$asian_total)] <- prisoners$asian_or_pacific_islander_total[is.na(prisoners$asian_total)]
 
 # Fix other and unknown columns - name changed in 1999
-prisoners$other_race_female[is.na(prisoners$other_race_female)] <- prisoners$unknown_race_female[is.na(prisoners$other_race_female)]
-prisoners$other_race_male[is.na(prisoners$other_race_male)] <- prisoners$unknown_race_male[is.na(prisoners$other_race_male)]
-prisoners$other_race_total[is.na(prisoners$other_race_total)] <- prisoners$unknown_race_total[is.na(prisoners$other_race_total)]
+prisoners$other_race_female[prisoners$year < 1999] <- prisoners$unknown_race_female[prisoners$year < 1999]
+prisoners$other_race_male[prisoners$year < 1999]   <- prisoners$unknown_race_male[prisoners$year < 1999]
+prisoners$other_race_total[prisoners$year < 1999]  <- prisoners$unknown_race_total[prisoners$year < 1999]
 
 # A few years (1995-1999) shoots up to 40-50k (10 times the previous or
 # following years) which is far higher than any year-over-year growth in
 # prisoners (about 10x as many as number of prisoner growth in total US).
 # So I consider these data issues and making them NA.
-prisoners$other_race_female[prisoners$year %in% 1995:1999] <- NA
-prisoners$other_race_male[prisoners$year   %in% 1995:1999] <- NA
-prisoners$other_race_total[prisoners$year  %in% 1995:1999] <- NA
+
+# prisoners$other_race_female[prisoners$year %in% 1995:1999] <- NA
+# prisoners$other_race_male[prisoners$year   %in% 1995:1999] <- NA
+# prisoners$other_race_total[prisoners$year  %in% 1995:1999] <- NA
 
 
 prisoners <-
@@ -451,19 +458,20 @@ for (selected_state in sort(unique(prisoners$state))) {
                     cols_to_keep) %>%
       dplyr::arrange(desc(year))
 
-  save_state     <- unique(temp$state)
-  save_state     <- gsub(" ", "_", save_state)
-  category       <- names(prisoners_categories)[i]
+    save_state     <- unique(temp$state)
+    save_state     <- gsub(" ", "_", save_state)
+    category       <- names(prisoners_categories)[i]
 
-  if (category == "aids") {
-    temp <- temp[temp$year > 1990, ]
-  } else if (category == "capacity") {
-    temp <- temp[temp$year > 1982, ]
-  } else if (category == "noncitizen_juvenile") {
-    temp <- temp[temp$year > 1997, ]
-  }
+    if (category == "aids") {
+      temp <- temp[temp$year > 1990, ]
+    } else if (category == "capacity") {
+      temp <- temp[temp$year > 1982, ]
+    } else if (category == "noncitizen_juvenile") {
+      temp <- temp[temp$year > 1997, ]
+    }
+    temp$year <- as.character(temp$year)
 
-  readr::write_csv(temp,
-                   path = paste0(save_state, "_", category, "_prisoners.csv"))
+    readr::write_csv(temp,
+                     path = paste0(save_state, "_", category, "_prisoners.csv"))
   }
 }
