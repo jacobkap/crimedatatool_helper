@@ -57,8 +57,6 @@ prisoners <-
                 asian_female,
                 asian_or_pacific_islander_male,
                 asian_or_pacific_islander_female,
-                two_or_more_races_male,
-                two_or_more_races_female,
                 additional_other_categories_for_race_male,
                 additional_other_categories_for_race_female,
                 unknown_race_male,
@@ -166,7 +164,6 @@ prisoners <-
                 total_in_custody_hiv_positive_or_with_aids_total) %>%
   dplyr::rename(year = survey_year,
                 state = state_fips_identification_code) %>%
-  dplyr::left_join(prisoners_census) %>%
   dplyr::mutate_at(vars(3:ncol(.)), make_numeric) %>%
   dplyr::rename_all(funs(stringr::str_replace_all(., prisoners_name_fix))) %>%
   dplyr::mutate(state = gsub("[0-9]+. ", "", state),
@@ -189,6 +186,7 @@ prisoners <-
                   jurisdiction_private_prison_male,
                 jurisdiction_public_prison_female = total_under_jurisdiction_females -
                   jurisdiction_private_prison_female) %>%
+  dplyr::left_join(prisoners_census) %>%
   dplyr::mutate(# Custody total columns
                 custody_unsentenced_total =
                   rowSums(.[, grepl("^custody_unsentenced_[a-z]+$",
@@ -323,19 +321,13 @@ prisoners <-
                 american_indian_total =
                   rowSums(.[, grepl("^american_indian",
                                     names(.))]),
-#                native_hawaiian_total =
- #                 rowSums(.[, grepl("^native_hawaiian_",
-  #                                  names(.))]),
                 asian_total =
                   rowSums(.[, grepl("asian_male|asian_female|native_hawaiian",
                                     names(.))]),
                 asian_or_pacific_islander_total =
                   rowSums(.[, grepl("^asian_or_pacific",
                                     names(.))]),
-                two_or_more_races_total =
-                  rowSums(.[, grepl("^two_or_more_races",
-                                    names(.))]),
-                other_category_race_total =
+                other_race_total =
                   rowSums(.[, grepl("^other_race",
                                     names(.))]),
                 unknown_race_total =
@@ -385,8 +377,6 @@ prisoners$total_under_custody_total[is.na(prisoners$total_under_custody_total)] 
   prisoners$total_under_custody_total_1978_1982_only[is.na(prisoners$total_under_custody_total)]
 prisoners$custody_unsentenced_total[is.na(prisoners$custody_unsentenced_total)] <-
   prisoners$custody_unsentenced_total_1978_1982_only[is.na(prisoners$custody_unsentenced_total)]
-prisoners$total_under_custody_total_1978_1982_only <- NULL
-prisoners$custody_unsentenced_total_1978_1982_only <- NULL
 names(prisoners) <- gsub("males", "male", names(prisoners))
 
 # No pre-1999 capacity info for male/female and no total post-1998
@@ -403,12 +393,49 @@ prisoners$operational_capacity_total[prisoners$year >= 1999] <-
   prisoners$operational_capacity_male[prisoners$year >= 1999]
 
 
+# Fix asian column - some old columns were asian_or_pacific_islander
+prisoners$asian_female <- prisoners$asian_female + prisoners$native_hawaiian_female
+prisoners$asian_male <- prisoners$asian_male + prisoners$native_hawaiian_male
 
-dim(prisoners)
-summary(prisoners)
-sapply(prisoners, max, na.rm = TRUE)
-names(prisoners)
-sort(unique(prisoners$state))
+prisoners$asian_female[is.na(prisoners$asian_female)] <- prisoners$asian_or_pacific_islander_female[is.na(prisoners$asian_female)]
+prisoners$asian_male[is.na(prisoners$asian_male)] <- prisoners$asian_or_pacific_islander_male[is.na(prisoners$asian_male)]
+prisoners$asian_total[is.na(prisoners$asian_total)] <- prisoners$asian_or_pacific_islander_total[is.na(prisoners$asian_total)]
+
+# Fix other and unknown columns - name changed in 1999
+prisoners$other_race_female[is.na(prisoners$other_race_female)] <- prisoners$unknown_race_female[is.na(prisoners$other_race_female)]
+prisoners$other_race_male[is.na(prisoners$other_race_male)] <- prisoners$unknown_race_male[is.na(prisoners$other_race_male)]
+prisoners$other_race_total[is.na(prisoners$other_race_total)] <- prisoners$unknown_race_total[is.na(prisoners$other_race_total)]
+
+# A few years (1995-1999) shoots up to 40-50k (10 times the previous or
+# following years) which is far higher than any year-over-year growth in
+# prisoners (about 10x as many as number of prisoner growth in total US).
+# So I consider these data issues and making them NA.
+prisoners$other_race_female[prisoners$year %in% 1995:1999] <- NA
+prisoners$other_race_male[prisoners$year   %in% 1995:1999] <- NA
+prisoners$other_race_total[prisoners$year  %in% 1995:1999] <- NA
+
+
+prisoners <-
+  prisoners %>%
+  dplyr::rename(other_or_unknown_race_female = other_race_female,
+                other_or_unknown_race_male   = other_race_male,
+                other_or_unknown_race_total  = other_race_total) %>%
+  dplyr::select(-asian_or_pacific_islander_female,
+                -asian_or_pacific_islander_male,
+                -asian_or_pacific_islander_total,
+                -native_hawaiian_female,
+                -native_hawaiian_male,
+                -unknown_race_female,
+                -unknown_race_male,
+                -unknown_race_total,
+                -total_under_custody_total_1978_1982_only,
+                -custody_unsentenced_total_1978_1982_only)
+
+# dim(prisoners)
+# summary(prisoners)
+# sapply(prisoners, max, na.rm = TRUE)
+# names(prisoners)
+# sort(unique(prisoners$state))
 
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/prisoners")
@@ -420,6 +447,7 @@ for (selected_state in sort(unique(prisoners$state))) {
       dplyr::filter(state %in% selected_state) %>%
       dplyr::select(state,
                     year,
+                    population,
                     cols_to_keep) %>%
       dplyr::arrange(desc(year))
 

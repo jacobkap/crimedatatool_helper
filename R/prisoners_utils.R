@@ -48,32 +48,23 @@ race_ethnicity_cols <- c("white_male",
                          "hispanic_or_latino_female",
                          "american_indian_male",
                          "american_indian_female",
-                         "native_hawaiian_male",
-                         "native_hawaiian_female",
                          "asian_male",
                          "asian_female",
-                         "two_or_more_races_male",
-                         "two_or_more_races_female",
-                         "other_race_male",
-                         "other_race_female",
-                         "unknown_race_male",
-                         "unknown_race_female",
+                         "other_or_unknown_race_female",
+                         "other_or_unknown_race_male",
+                         "other_or_unknown_race_total",
                          "white_total",
                          "black_total",
                          "hispanic_or_latino_total",
                          "american_indian_total",
-                         "native_hawaiian_total",
-                         "asian_total",
-                         "two_or_more_races_total",
-                         "other_category_race_total",
-                         "unknown_race_total")
+                         "asian_total")
 race_ethnicity_cols <- sort(race_ethnicity_cols)
 
 noncitizen_juvenile_cols <- c("in_custody_under_18_years_of_age_male",
                               "in_custody_under_18_years_of_age_female",
                               "in_custody_not_us_citizens_male",
                               "in_custody_not_us_citizens_female",
-                              "in_custody_under_18_years_of_age_total",                                                              "in_custody_not_us_citizens_total")
+                              "in_custody_under_18_years_of_age_total",                                                    "in_custody_not_us_citizens_total")
 noncitizen_juvenile_cols <- sort(noncitizen_juvenile_cols)
 
 capacity_cols <- c("rated_capacity_male",
@@ -213,18 +204,6 @@ prisoners_categories <- list(custody_cols,
                              death_cols,
                              aids_cols)
 
-# z <- names(prisoners)
-# z <- z[!z %in% c("year", "state")]
-# z <- z[!z %in% custody_cols]
-# z <- z[!z %in% jurisdiction_cols]
-# z <- z[!z %in% race_ethnicity_cols]
-# z <- z[!z %in% release_cols]
-# z <- z[!z %in% admission_cols]
-# z <- z[!z %in% capacity_cols]
-# z <- z[!z %in% noncitizen_juvenile_cols]
-# z <- z[!z %in% death_cols]
-# z <- z[!z %in% aids_cols]
-# z
 
 names(prisoners_categories) <- c("custody",
                                  "jurisdiction",
