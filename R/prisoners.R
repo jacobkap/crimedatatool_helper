@@ -394,18 +394,15 @@ prisoners$operational_capacity_total[prisoners$year >= 1999] <-
   prisoners$operational_capacity_male[prisoners$year >= 1999]
 
 
-# Fix asian column - some old columns were asian_or_pacific_islander
-prisoners$asian_female <- rowSums(prisoners[, c("asian_female",
-                                                 "native_hawaiian_female")],
-                                   na.rm = TRUE)
-prisoners$asian_male  <- rowSums(prisoners[, c("asian_male",
-                                                 "native_hawaiian_male")],
-                                   na.rm = TRUE)
+# Fix asian column - pre-1997 columns were asian_or_pacific_islander
+prisoners$asian_female[prisoners$year < 1997] <- prisoners$asian_or_pacific_islander_female[prisoners$year < 1997]
+prisoners$asian_male[prisoners$year < 1997]   <- prisoners$asian_or_pacific_islander_male[prisoners$year < 1997]
+prisoners$asian_total[prisoners$year < 1997]  <- prisoners$asian_or_pacific_islander_total[prisoners$year < 1997]
 
-
-prisoners$asian_female[is.na(prisoners$asian_female)] <- prisoners$asian_or_pacific_islander_female[is.na(prisoners$asian_female)]
-prisoners$asian_male[is.na(prisoners$asian_male)] <- prisoners$asian_or_pacific_islander_male[is.na(prisoners$asian_male)]
-prisoners$asian_total[is.na(prisoners$asian_total)] <- prisoners$asian_or_pacific_islander_total[is.na(prisoners$asian_total)]
+prisoners$asian_female[prisoners$year >= 1997] <- rowSums(prisoners[prisoners$year >= 1997, c("asian_female",
+                                                 "native_hawaiian_female")])
+prisoners$asian_male[prisoners$year >= 1997]  <- rowSums(prisoners[prisoners$year >= 1997, c("asian_male",
+                                                 "native_hawaiian_male")])
 
 # Fix other and unknown columns - name changed in 1999
 prisoners$other_race_female[prisoners$year < 1999] <- prisoners$unknown_race_female[prisoners$year < 1999]
@@ -467,7 +464,7 @@ for (selected_state in sort(unique(prisoners$state))) {
     } else if (category == "capacity") {
       temp <- temp[temp$year > 1982, ]
     } else if (category == "noncitizen_juvenile") {
-      temp <- temp[temp$year > 1997, ]
+      temp <- temp[temp$year > 1999, ]
     }
     temp$year <- as.character(temp$year)
 

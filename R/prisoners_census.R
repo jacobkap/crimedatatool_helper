@@ -80,5 +80,6 @@ census_interpolator <- function(data1, data2) {
       }
     final <- dplyr::bind_rows(final, temp)
   }
+  final$population <- round(final$population)
   return(final)
 }
