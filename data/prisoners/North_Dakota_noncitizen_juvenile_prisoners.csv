@@ -1,18 +1,18 @@
-state,year,population,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
-North Dakota,2016,757953,0,23,23,0,0,0
-North Dakota,2015,756928,1,22,23,0,0,0
-North Dakota,2014,739482,3,15,18,0,0,0
-North Dakota,2013,723393,1,16,17,0,0,0
-North Dakota,2012,699628,1,11,12,0,0,0
-North Dakota,2011,683932,0,7,7,0,0,0
-North Dakota,2010,674499,0,7,7,0,0,0
-North Dakota,2009,646844,1,13,14,0,0,0
-North Dakota,2008,641481,1,11,12,0,0,0
-North Dakota,2007,639715,1,15,16,0,0,0
-North Dakota,2006,635867,1,6,7,0,1,1
-North Dakota,2005,621063,1,8,9,0,4,4
-North Dakota,2004,609691,1,14,15,0,1,1
-North Dakota,2003,609236,1,8,9,0,2,2
-North Dakota,2002,610245,2,10,12,0,1,1
-North Dakota,2001,610793,0,10,10,0,2,2
-North Dakota,2000,642412,1,11,12,0,7,7
+state,year,population,population_adult,population_adult_aged_18_65,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
+North Dakota,2016,757953,584891,480919,0,23,23,0,0,0
+North Dakota,2015,756928,584774,482817,1,22,23,0,0,0
+North Dakota,2014,739482,572255,474147,3,15,18,0,0,0
+North Dakota,2013,723393,563342,470064,1,16,17,0,0,0
+North Dakota,2012,699628,546266,452599,1,11,12,0,0,0
+North Dakota,2011,683932,532740,438520,0,7,7,0,0,0
+North Dakota,2010,674499,524634,433967,0,7,7,0,0,0
+North Dakota,2009,646844,504757,415578,1,13,14,0,0,0
+North Dakota,2008,641481,504597,419055,1,11,12,0,0,0
+North Dakota,2007,639715,497018,412734,1,15,16,0,0,0
+North Dakota,2006,635867,493893,405285,1,6,7,0,1,1
+North Dakota,2005,621063,477908,397941,1,8,9,0,4,4
+North Dakota,2004,609691,472176,390994,1,14,15,0,1,1
+North Dakota,2003,609236,463605,383112,1,8,9,0,2,2
+North Dakota,2002,610245,463533,382827,2,10,12,0,1,1
+North Dakota,2001,610793,471608,391036,0,10,10,0,2,2
+North Dakota,2000,609909,455157,372544,1,11,12,0,7,7

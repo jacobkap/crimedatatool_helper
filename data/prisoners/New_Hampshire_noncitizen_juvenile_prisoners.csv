@@ -1,18 +1,18 @@
-state,year,population,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
-New Hampshire,2016,1334689,0,0,0,0,0,0
-New Hampshire,2015,1330608,8,125,133,0,0,0
-New Hampshire,2014,1326813,6,90,96,0,0,0
-New Hampshire,2013,1323459,8,110,118,0,0,0
-New Hampshire,2012,1320718,8,110,118,0,0,0
-New Hampshire,2011,1318194,4,68,72,0,0,0
-New Hampshire,2010,1316759,2,65,67,0,0,0
-New Hampshire,2009,1324575,3,79,82,0,0,0
-New Hampshire,2008,1315809,NA,NA,NA,0,0,0
-New Hampshire,2007,1315828,3,49,52,0,0,0
-New Hampshire,2006,1314895,4,51,55,1,0,1
-New Hampshire,2005,1271897,4,51,55,0,1,1
-New Hampshire,2004,1261970,4,46,50,0,1,1
-New Hampshire,2003,1251572,6,34,40,0,2,2
-New Hampshire,2002,1238917,4,28,32,0,2,2
-New Hampshire,2001,1223636,2,31,33,2,2,4
-New Hampshire,2000,1234816,9,35,44,0,0,0
+state,year,population,population_adult,population_adult_aged_18_65,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
+New Hampshire,2016,1334689,1073855,863795,0,0,0,0,0,0
+New Hampshire,2015,1330608,1067668,865391,8,125,133,0,0,0
+New Hampshire,2014,1326813,1058741,865272,6,90,96,0,0,0
+New Hampshire,2013,1323459,1051212,866176,8,110,118,0,0,0
+New Hampshire,2012,1320718,1047619,868878,8,110,118,0,0,0
+New Hampshire,2011,1318194,1037685,864569,4,68,72,0,0,0
+New Hampshire,2010,1316759,1031503,863430,2,65,67,0,0,0
+New Hampshire,2009,1324575,1036920,870613,3,79,82,0,0,0
+New Hampshire,2008,1315809,1021355,866399,NA,NA,NA,0,0,0
+New Hampshire,2007,1315828,1016938,865870,3,49,52,0,0,0
+New Hampshire,2006,1314895,1019526,865752,4,51,55,1,0,1
+New Hampshire,2005,1271897,975010,830429,4,51,55,0,1,1
+New Hampshire,2004,1261970,956817,819978,4,46,50,0,1,1
+New Hampshire,2003,1251572,947715,814784,6,34,40,0,2,2
+New Hampshire,2002,1238917,931969,799455,4,28,32,0,2,2
+New Hampshire,2001,1223636,930896,801013,2,31,33,2,2,4
+New Hampshire,2000,1200522,899575,767921,9,35,44,0,0,0

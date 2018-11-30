@@ -1,3 +1,9 @@
+library(tidyverse)
+library(asciiSetupReader)
+library(zoo)
+library(stringr)
+library(readr)
+
 custody_cols <- c("custody_unsentenced_male",
                   "custody_unsentenced_female",
                   "total_under_custody_male",
@@ -64,7 +70,8 @@ noncitizen_juvenile_cols <- c("in_custody_under_18_years_of_age_male",
                               "in_custody_under_18_years_of_age_female",
                               "in_custody_not_us_citizens_male",
                               "in_custody_not_us_citizens_female",
-                              "in_custody_under_18_years_of_age_total",                                                    "in_custody_not_us_citizens_total")
+                              "in_custody_under_18_years_of_age_total",
+                              "in_custody_not_us_citizens_total")
 noncitizen_juvenile_cols <- sort(noncitizen_juvenile_cols)
 
 capacity_cols <- c("rated_capacity_male",
@@ -236,3 +243,151 @@ prisoners_name_fix <- c(
   "in_custody_not_u_s_citizens_male"                 = "in_custody_not_us_citizens_male",
   "in_custody_not_u_s_citizens_female"               = "in_custody_not_us_citizens_female"
 )
+
+
+cols <- c("YEAR",
+          "STATEFIP",
+          "PERWT",
+          "AGE",
+          "RACE",
+          "HISPAN")
+
+age_fix <- c("100 (100+ in 1960-1970)" = "100",
+             "90 (90+ in 1980 and 1990)" = "90",
+             "less than 1 year old" = "0")
+
+race_fix <- c("white"                            = "white",
+              "other race, nec"                  = "other or unknown",
+              "chinese"                          = "asian",
+              "black/african american/negro"     = "black",
+              "japanese"                         = "asian",
+              "other asian or pacific islander"  = "asian",
+              "american indian or alaska native" = "american indian",
+              "two major races"                  = "other or unknown",
+              "three or more major races"        = "other or unknown")
+
+ethnicity_fix <- c("puerto rican" = "hispanic",
+                   "mexican"      = "hispanic",
+                   "other"        = "hispanic",
+                   "cuban"        = "hispanic")
+
+clean_census <- function(years) {
+  data <-
+    spss_ascii_reader(paste0("census_", years, ".dat"),
+                      "census_acs.sps",
+                      keep_columns = cols) %>%
+    dplyr::rename(year      = Census_year,
+                  state     = State_FIPS_code,
+                  race      = Race_general_version,
+                  ethnicity = Hispanic_origin_general_version,
+                  weight    = Person_weight,
+                  age       = Age) %>%
+    dplyr::mutate(race      = tolower(race),
+                  race      = str_replace_all(race, race_fix),
+                  age       = tolower(age),
+                  age       = str_replace_all(age, age_fix),
+                  age       = parse_number(age),
+                  ethnicity = tolower(ethnicity),
+                  ethnicity = str_replace_all(ethnicity, ethnicity_fix),
+                  weight    = weight / 100)
+
+  data$population_adult <- 0
+  data$population_adult_aged_18_65 <- 0
+  data$population_adult[data$age >= 18] <- 1
+  data$population_adult_aged_18_65[data$age %in% 18:65] <- 1
+  data$age <- NULL; gc()
+
+  data$race[data$ethnicity %in% "hispanic"] <- "hispanic"
+  data$ethnicity <- NULL; gc()
+  data$population_american_indian  <- 0
+  data$population_asian            <- 0
+  data$population_black            <- 0
+  data$population_hispanic         <- 0
+  data$population_other_or_unknown <- 0
+  data$population_white            <- 0
+
+  data$population_american_indian[data$race %in% "american indian"] <- 1
+  data$population_asian[data$race %in% "asian"] <- 1
+  data$population_black[data$race %in% "black"] <- 1
+  data$population_hispanic[data$race %in% "hispanic"] <- 1
+  data$population_other_or_unknown[data$race %in% "other or unknown"] <- 1
+  data$population_white[data$race %in% "white"] <- 1
+
+  data$population_adult_american_indian  <- data$population_american_indian * data$population_adult
+  data$population_adult_asian            <- data$population_asian * data$population_adult
+  data$population_adult_black            <- data$population_black * data$population_adult
+  data$population_adult_hispanic       <- data$population_hispanic * data$population_adult
+  data$population_adult_other_or_unknown <- data$population_other_or_unknown * data$population_adult
+  data$population_adult_white            <- data$population_white * data$population_adult
+
+  data$population_aged_18_65_american_indian  <- data$population_american_indian * data$population_adult_aged_18_65
+  data$population_aged_18_65_asian            <- data$population_asian * data$population_adult_aged_18_65
+  data$population_aged_18_65_black            <- data$population_black * data$population_adult_aged_18_65
+  data$population_aged_18_65_hispanic         <- data$population_hispanic * data$population_adult_aged_18_65
+  data$population_aged_18_65_other_or_unknown <- data$population_other_or_unknown * data$population_adult_aged_18_65
+  data$population_aged_18_65_white            <- data$population_white * data$population_adult_aged_18_65
+
+  data <-
+    data %>%
+    dplyr::group_by(year,
+                    state) %>%
+    dplyr::summarise(population = sum(weight),
+                     # Adult population
+                     population_adult = sum(weight[population_adult == 1]),
+                     population_adult_aged_18_65 = sum(weight[population_adult_aged_18_65 == 1]),
+
+                     # Race/ethnicity population
+                     population_american_indian = sum(weight[population_american_indian == 1]),
+                     population_asian = sum(weight[population_asian == 1]),
+                     population_black = sum(weight[population_black == 1]),
+                     population_hispanic = sum(weight[population_hispanic == 1]),
+                     population_other_or_unknown = sum(weight[population_other_or_unknown == 1]),
+                     population_white = sum(weight[population_white == 1]),
+
+                     # Race/ethnicity adult population
+                     population_adult_american_indian = sum(weight[population_adult_american_indian == 1]),
+                     population_adult_asian = sum(weight[population_adult_asian == 1]),
+                     population_adult_black = sum(weight[population_adult_black == 1]),
+                     population_adult_hispanic = sum(weight[population_adult_hispanic == 1]),
+                     population_adult_other_or_unknown = sum(weight[population_adult_other_or_unknown == 1]),
+                     population_adult_white = sum(weight[population_adult_white == 1]),
+
+                     # Race/ethnicity adult aged 18-65 population
+                     population_aged_18_65_american_indian = sum(weight[population_aged_18_65_american_indian == 1]),
+                     population_aged_18_65_asian = sum(weight[population_aged_18_65_asian == 1]),
+                     population_aged_18_65_black = sum(weight[population_aged_18_65_black == 1]),
+                     population_aged_18_65_hispanic = sum(weight[population_aged_18_65_hispanic == 1]),
+                     population_aged_18_65_other_or_unknown = sum(weight[population_aged_18_65_other_or_unknown == 1]),
+                     population_aged_18_65_white = sum(weight[population_aged_18_65_white == 1]))
+
+  gc()
+  return(data)
+}
+
+census_interpolator <- function(data1, data2) {
+  final <- data.frame()
+  for (geo_unit in unique(data1$state)) {
+    temp_data1 <- data1[data1$state == geo_unit, ]
+    temp_data2 <- data2[data2$state == geo_unit, ]
+    temp <- data.frame(matrix(ncol = ncol(data1), nrow = 11))
+    names(temp) <- names(temp_data1)
+    temp$year <- data1$year[1]:data2$year[1]
+    temp$state <- temp_data1$state
+    temp[1, ] <- temp_data1[1, ]
+    temp[11, ] <- temp_data2[1, ]
+
+
+    for (i in 2:(nrow(temp)-1)) {
+      for (n in 3:(ncol(temp))) {
+        yearly_adder <- temp_data2[1, n] - temp_data1[1, n]
+        yearly_adder <- yearly_adder / 10
+
+        temp[i, n] <- temp[i - 1, n] + yearly_adder
+      }
+    }
+
+    final <- dplyr::bind_rows(final, temp)
+  }
+  final$population <- round(final$population)
+  return(final)
+}

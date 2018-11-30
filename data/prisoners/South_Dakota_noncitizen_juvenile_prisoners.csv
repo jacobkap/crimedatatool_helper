@@ -1,18 +1,18 @@
-state,year,population,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
-South Dakota,2016,865454,6,81,87,0,0,0
-South Dakota,2015,858469,4,82,86,0,0,0
-South Dakota,2014,853175,3,77,80,0,0,0
-South Dakota,2013,844877,5,95,100,0,0,0
-South Dakota,2012,833354,1,75,76,0,0,0
-South Dakota,2011,824082,1,53,54,0,0,0
-South Dakota,2010,816463,0,61,61,0,1,1
-South Dakota,2009,812383,2,59,61,0,1,1
-South Dakota,2008,804194,0,56,56,0,0,0
-South Dakota,2007,796215,1,64,65,1,4,5
-South Dakota,2006,781919,1,52,53,1,0,1
-South Dakota,2005,755152,0,17,17,0,2,2
-South Dakota,2004,741480,0,17,17,0,1,1
-South Dakota,2003,735349,1,32,33,0,1,1
-South Dakota,2002,731963,1,49,50,0,3,3
-South Dakota,2001,727968,2,29,31,0,4,4
-South Dakota,2000,753887,0,26,26,0,8,8
+state,year,population,population_adult,population_adult_aged_18_65,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
+South Dakota,2016,865454,651552,525029,6,81,87,0,0,0
+South Dakota,2015,858469,648913,524081,4,82,86,0,0,0
+South Dakota,2014,853175,643681,525862,3,77,80,0,0,0
+South Dakota,2013,844877,638895,523869,5,95,100,0,0,0
+South Dakota,2012,833354,629217,519632,1,75,76,0,0,0
+South Dakota,2011,824082,621205,508329,1,53,54,0,0,0
+South Dakota,2010,816463,612049,501697,0,61,61,0,1,1
+South Dakota,2009,812383,612948,502267,2,59,61,0,1,1
+South Dakota,2008,804194,602665,493981,0,56,56,0,0,0
+South Dakota,2007,796215,601498,490590,1,64,65,1,4,5
+South Dakota,2006,781919,585043,479096,1,52,53,1,0,1
+South Dakota,2005,755152,564080,467484,0,17,17,0,2,2
+South Dakota,2004,741480,552674,458347,0,17,17,0,1,1
+South Dakota,2003,735349,542217,447807,1,32,33,0,1,1
+South Dakota,2002,731963,538713,443797,1,49,50,0,3,3
+South Dakota,2001,727968,543772,451518,2,29,31,0,4,4
+South Dakota,2000,718859,521901,426235,0,26,26,0,8,8

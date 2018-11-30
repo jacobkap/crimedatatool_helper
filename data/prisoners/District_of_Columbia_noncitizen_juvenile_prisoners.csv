@@ -1,18 +1,18 @@
-state,year,population,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
-District of Columbia,2016,681170,NA,NA,NA,NA,NA,NA
-District of Columbia,2015,672228,NA,NA,NA,NA,NA,NA
-District of Columbia,2014,658893,NA,NA,NA,NA,NA,NA
-District of Columbia,2013,646449,NA,NA,NA,NA,NA,NA
-District of Columbia,2012,632323,NA,NA,NA,NA,NA,NA
-District of Columbia,2011,617996,NA,NA,NA,NA,NA,NA
-District of Columbia,2010,604453,NA,NA,NA,NA,NA,NA
-District of Columbia,2009,599657,NA,NA,NA,NA,NA,NA
-District of Columbia,2008,591833,NA,NA,NA,NA,NA,NA
-District of Columbia,2007,588292,NA,NA,NA,NA,NA,NA
-District of Columbia,2006,581530,NA,NA,NA,NA,NA,NA
-District of Columbia,2005,508572,NA,NA,NA,NA,NA,NA
-District of Columbia,2004,518074,NA,NA,NA,NA,NA,NA
-District of Columbia,2003,528759,NA,NA,NA,NA,NA,NA
-District of Columbia,2002,535632,NA,NA,NA,NA,NA,NA
-District of Columbia,2001,536260,NA,NA,NA,NA,NA,NA
-District of Columbia,2000,571753,NA,NA,NA,NA,NA,NA
+state,year,population,population_adult,population_adult_aged_18_65,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
+District of Columbia,2016,681170,560717,486873,NA,NA,NA,NA,NA,NA
+District of Columbia,2015,672228,554182,485241,NA,NA,NA,NA,NA,NA
+District of Columbia,2014,658893,544698,475459,NA,NA,NA,NA,NA,NA
+District of Columbia,2013,646449,534956,466773,NA,NA,NA,NA,NA,NA
+District of Columbia,2012,632323,522969,456589,NA,NA,NA,NA,NA,NA
+District of Columbia,2011,617996,512925,449204,NA,NA,NA,NA,NA,NA
+District of Columbia,2010,604453,503673,438416,NA,NA,NA,NA,NA,NA
+District of Columbia,2009,599657,486030,421039,NA,NA,NA,NA,NA,NA
+District of Columbia,2008,591833,479848,414039,NA,NA,NA,NA,NA,NA
+District of Columbia,2007,588292,474261,408986,NA,NA,NA,NA,NA,NA
+District of Columbia,2006,581530,469505,402006,NA,NA,NA,NA,NA,NA
+District of Columbia,2005,508572,394069,336281,NA,NA,NA,NA,NA,NA
+District of Columbia,2004,518074,409773,351029,NA,NA,NA,NA,NA,NA
+District of Columbia,2003,528759,421268,361795,NA,NA,NA,NA,NA,NA
+District of Columbia,2002,535632,424834,363847,NA,NA,NA,NA,NA,NA
+District of Columbia,2001,536260,422830,363437,NA,NA,NA,NA,NA,NA
+District of Columbia,2000,523809,418674,355440,NA,NA,NA,NA,NA,NA

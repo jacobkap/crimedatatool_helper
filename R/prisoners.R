@@ -186,7 +186,6 @@ prisoners <-
                   jurisdiction_private_prison_male,
                 jurisdiction_public_prison_female = total_under_jurisdiction_females -
                   jurisdiction_private_prison_female) %>%
-  dplyr::left_join(prisoners_census) %>%
   dplyr::mutate(
     # Custody total columns
     custody_unsentenced_total =
@@ -372,8 +371,8 @@ prisoners <-
     total_deaths_total =
       rowSums(.[, grepl("^total_deaths_",
                         names(.))])
-
-  )
+  ) %>%
+  dplyr::left_join(prisoners_census)
 prisoners$total_under_custody_total[is.na(prisoners$total_under_custody_total)] <-
   prisoners$total_under_custody_total_1978_1982_only[is.na(prisoners$total_under_custody_total)]
 prisoners$custody_unsentenced_total[is.na(prisoners$custody_unsentenced_total)] <-
@@ -400,9 +399,9 @@ prisoners$asian_male[prisoners$year < 1997]   <- prisoners$asian_or_pacific_isla
 prisoners$asian_total[prisoners$year < 1997]  <- prisoners$asian_or_pacific_islander_total[prisoners$year < 1997]
 
 prisoners$asian_female[prisoners$year >= 1997] <- rowSums(prisoners[prisoners$year >= 1997, c("asian_female",
-                                                 "native_hawaiian_female")])
+                                                                                              "native_hawaiian_female")])
 prisoners$asian_male[prisoners$year >= 1997]  <- rowSums(prisoners[prisoners$year >= 1997, c("asian_male",
-                                                 "native_hawaiian_male")])
+                                                                                             "native_hawaiian_male")])
 
 # Fix other and unknown columns - name changed in 1999
 prisoners$other_race_female[prisoners$year < 1999] <- prisoners$unknown_race_female[prisoners$year < 1999]
@@ -446,12 +445,43 @@ setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/prisoners")
 for (selected_state in sort(unique(prisoners$state))) {
   for (i in 1:length(prisoners_categories)) {
     cols_to_keep <- prisoners_categories[[i]]
+
+    if (names(prisoners_categories)[i] == "race_ethnicity") {
+      pop_cols <- c(
+        "population",
+        "population_adult",
+        "population_adult_aged_18_65",
+        "population_american_indian",
+        "population_asian",
+        "population_black",
+        "population_hispanic",
+        "population_other_or_unknown",
+        "population_white",
+        "population_adult_american_indian",
+        "population_adult_asian",
+        "population_adult_black",
+        "population_adult_hispanic",
+        "population_adult_other_or_unknown",
+        "population_adult_white",
+        "population_aged_18_65_american_indian",
+        "population_aged_18_65_asian",
+        "population_aged_18_65_black",
+        "population_aged_18_65_hispanic",
+        "population_aged_18_65_other_or_unknown",
+        "population_aged_18_65_white"
+      )
+    } else {
+      pop_cols <- c("population",
+                    "population_adult",
+                    "population_adult_aged_18_65")
+    }
+
     temp <-
       prisoners %>%
       dplyr::filter(state %in% selected_state) %>%
       dplyr::select(state,
                     year,
-                    population,
+                    pop_cols,
                     cols_to_keep) %>%
       dplyr::arrange(desc(year))
 
