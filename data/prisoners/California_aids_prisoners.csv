@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 California,2016,39250017,30161367,25208518,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 California,2015,39144818,30036576,25242668,30,955,985,NA,NA,NA,NA,NA,NA,30,955,985
 California,2014,38802500,29657288,25051350,59,1004,1063,NA,NA,NA,NA,NA,NA,59,1004,1063
@@ -16,12 +16,12 @@ California,2003,34644509,25298742,21939768,NA,NA,NA,NA,NA,NA,NA,NA,NA,75,1121,11
 California,2002,34325414,24903151,21595083,50,680,730,19,167,186,5,260,265,74,1107,1181
 California,2001,33713792,24050763,20781306,13,798,811,2,227,229,2,263,265,17,1288,1305
 California,2000,33087051,23923698,20727821,NA,NA,971,NA,NA,174,NA,NA,269,134,1504,1638
-California,1999,32749919,23730164.900000013,20564152.799999993,113,377,490,6,547,553,9,518,527,128,1442,1570
-California,1998,32412786,23536631.800000012,20400484.599999994,85,834,919,26,514,540,8,100,108,119,1448,1567
-California,1997,32075654,23343098.70000001,20236816.399999995,NA,NA,974,NA,NA,157,NA,NA,197,80,1248,1328
-California,1996,31738521,23149565.60000001,20073148.199999996,NA,NA,585,NA,NA,429,NA,NA,122,40,1096,1136
-California,1995,31401389,22956032.500000007,19909479.999999996,NA,NA,577,NA,NA,385,NA,NA,80,85,957,1042
-California,1994,31064257,22762499.400000006,19745811.799999997,NA,NA,665,NA,NA,390,NA,NA,NA,76,979,1055
-California,1993,30727124,22568966.300000004,19582143.599999998,NA,NA,NA,NA,NA,NA,NA,NA,NA,96,952,1048
-California,1992,30389992,22375433.200000003,19418475.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,899
-California,1991,30052859,22181900.1,19254807.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,786
+California,1999,32749918.6,23730164.9,20564152.8,113,377,490,6,547,553,9,518,527,128,1442,1570
+California,1998,32412786.2,23536631.8,20400484.6,85,834,919,26,514,540,8,100,108,119,1448,1567
+California,1997,32075653.8,23343098.7,20236816.4,NA,NA,974,NA,NA,157,NA,NA,197,80,1248,1328
+California,1996,31738521.4,23149565.6,20073148.2,NA,NA,585,NA,NA,429,NA,NA,122,40,1096,1136
+California,1995,31401389,22956032.5,19909480,NA,NA,577,NA,NA,385,NA,NA,80,85,957,1042
+California,1994,31064256.6,22762499.4,19745811.8,NA,NA,665,NA,NA,390,NA,NA,NA,76,979,1055
+California,1993,30727124.2,22568966.3,19582143.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,96,952,1048
+California,1992,30389991.8,22375433.2,19418475.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,899
+California,1991,30052859.4,22181900.1,19254807.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,786

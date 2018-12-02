@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Pennsylvania,2016,12784227,10119261,8048754,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Pennsylvania,2015,12802503,10116359,8083089,42,551,593,3,30,33,NA,NA,NA,45,581,626
 Pennsylvania,2014,12787209,10098269,8112593,36,569,605,1,25,26,NA,NA,NA,37,594,631
@@ -16,12 +16,12 @@ Pennsylvania,2003,11935566,9118093,7458852,NA,NA,NA,11,229,240,40,495,535,51,724
 Pennsylvania,2002,11913892,9063268,7388686,0,0,0,12,200,212,50,538,588,62,738,800
 Pennsylvania,2001,11856640,9061561,7385893,NA,NA,NA,8,191,199,36,500,536,44,691,735
 Pennsylvania,2000,11790241,8928607,7240949,NA,NA,NA,10,237,247,41,612,653,51,849,900
-Pennsylvania,1999,11796562,8942820,7253907.899999997,48,660,708,22,209,231,NA,NA,NA,70,869,939
-Pennsylvania,1998,11802883,8957033,7266866.799999997,32,462,494,12,261,273,1,209,210,45,932,977
-Pennsylvania,1997,11809204,8971246,7279825.699999997,NA,NA,323,NA,NA,221,NA,NA,153,44,653,697
-Pennsylvania,1996,11815525,8985459,7292784.599999998,NA,NA,318,NA,NA,222,NA,NA,112,47,605,652
-Pennsylvania,1995,11821845,8999672,7305743.499999998,NA,NA,337,NA,NA,186,NA,NA,67,29,561,590
-Pennsylvania,1994,11828166,9013885,7318702.3999999985,NA,NA,308,NA,NA,125,NA,NA,28,34,427,461
-Pennsylvania,1993,11834487,9028098,7331661.299999999,NA,NA,267,NA,NA,108,NA,NA,34,38,371,409
-Pennsylvania,1992,11840808,9042311,7344620.199999999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,338
-Pennsylvania,1991,11847129,9056524,7357579.1,NA,NA,247,NA,NA,32,NA,NA,34,NA,NA,313
+Pennsylvania,1999,11796561.9,8942820,7253907.9,48,660,708,22,209,231,NA,NA,NA,70,869,939
+Pennsylvania,1998,11802882.8,8957033,7266866.8,32,462,494,12,261,273,1,209,210,45,932,977
+Pennsylvania,1997,11809203.7,8971246,7279825.7,NA,NA,323,NA,NA,221,NA,NA,153,44,653,697
+Pennsylvania,1996,11815524.6,8985459,7292784.6,NA,NA,318,NA,NA,222,NA,NA,112,47,605,652
+Pennsylvania,1995,11821845.5,8999672,7305743.5,NA,NA,337,NA,NA,186,NA,NA,67,29,561,590
+Pennsylvania,1994,11828166.4,9013885,7318702.4,NA,NA,308,NA,NA,125,NA,NA,28,34,427,461
+Pennsylvania,1993,11834487.3,9028098,7331661.3,NA,NA,267,NA,NA,108,NA,NA,34,38,371,409
+Pennsylvania,1992,11840808.2,9042311,7344620.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,338
+Pennsylvania,1991,11847129.1,9056524,7357579.1,NA,NA,247,NA,NA,32,NA,NA,34,NA,NA,313

@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,awol_returns_with_or_without_new_sentences_female,awol_returns_with_or_without_new_sentences_male,awol_returns_with_or_without_new_sentences_total,escapee_returns_with_or_without_new_sentences_female,escapee_returns_with_or_without_new_sentences_male,escapee_returns_with_or_without_new_sentences_total,new_court_commitments_female,new_court_commitments_male,new_court_commitments_total,other_admissions_female,other_admissions_male,other_admissions_total,other_conditional_release_violators_admitted_with_new_sentence_female,other_conditional_release_violators_admitted_with_new_sentence_male,other_conditional_release_violators_admitted_with_new_sentence_total,other_conditional_release_violators_admitted_without_new_sentence_female,other_conditional_release_violators_admitted_without_new_sentence_male,other_conditional_release_violators_admitted_without_new_sentence_total,parole_violators_with_new_sentence_female,parole_violators_with_new_sentence_male,parole_violators_with_new_sentence_total,parole_violators_without_new_sentence_female,parole_violators_without_new_sentence_male,parole_violators_without_new_sentence_total,returns_from_appeal_or_bond_female,returns_from_appeal_or_bond_male,returns_from_appeal_or_bond_total,total_admissions_female,total_admissions_male,total_admissions_total,transfers_admitted_from_other_jurisdictions_female,transfers_admitted_from_other_jurisdictions_male,transfers_admitted_from_other_jurisdictions_total
+state,year,population,population_adult,population_aged_18_65,awol_returns_with_or_without_new_sentences_female,awol_returns_with_or_without_new_sentences_male,awol_returns_with_or_without_new_sentences_total,escapee_returns_with_or_without_new_sentences_female,escapee_returns_with_or_without_new_sentences_male,escapee_returns_with_or_without_new_sentences_total,new_court_commitments_female,new_court_commitments_male,new_court_commitments_total,other_admissions_female,other_admissions_male,other_admissions_total,other_conditional_release_violators_admitted_with_new_sentence_female,other_conditional_release_violators_admitted_with_new_sentence_male,other_conditional_release_violators_admitted_with_new_sentence_total,other_conditional_release_violators_admitted_without_new_sentence_female,other_conditional_release_violators_admitted_without_new_sentence_male,other_conditional_release_violators_admitted_without_new_sentence_total,parole_violators_with_new_sentence_female,parole_violators_with_new_sentence_male,parole_violators_with_new_sentence_total,parole_violators_without_new_sentence_female,parole_violators_without_new_sentence_male,parole_violators_without_new_sentence_total,returns_from_appeal_or_bond_female,returns_from_appeal_or_bond_male,returns_from_appeal_or_bond_total,total_admissions_female,total_admissions_male,total_admissions_total,transfers_admitted_from_other_jurisdictions_female,transfers_admitted_from_other_jurisdictions_male,transfers_admitted_from_other_jurisdictions_total
 North Dakota,2016,757953,584891,480919,0,0,0,15,16,31,167,747,914,0,0,0,68,164,232,32,144,176,0,0,0,44,223,267,1,0,1,326,1298,1624,0,4,4
 North Dakota,2015,756928,584774,482817,0,0,0,14,16,30,153,750,903,0,0,0,62,165,227,29,145,174,0,0,0,40,224,264,1,0,1,299,1304,1603,0,4,4
 North Dakota,2014,739482,572255,474147,8,7,15,2,1,3,175,778,953,0,0,0,0,0,0,0,0,0,0,0,0,36,153,189,0,0,0,221,942,1163,0,3,3
@@ -16,25 +16,25 @@ North Dakota,2003,609236,463605,383112,0,2,2,0,2,2,101,717,818,0,0,0,0,0,0,14,82
 North Dakota,2002,610245,463533,382827,0,0,0,0,3,3,98,527,625,0,0,0,9,91,100,0,0,0,6,37,43,0,0,0,0,0,0,113,658,771,0,0,0
 North Dakota,2001,610793,471608,391036,0,0,0,0,1,1,95,519,614,0,0,0,0,0,0,0,0,0,1,43,44,12,76,88,0,1,1,108,640,748,0,0,0
 North Dakota,2000,609909,455157,372544,0,6,6,0,1,1,38,440,478,0,0,0,0,0,0,6,66,72,0,0,0,8,47,55,0,0,0,52,560,612,0,0,0
-North Dakota,1999,612428,455748.8000000001,372823.1000000002,0,9,9,0,0,0,53,528,581,0,0,0,7,62,69,0,0,0,8,57,65,NA,NA,NA,0,0,0,68,656,724,0,0,0
-North Dakota,1998,614946,456340.6000000001,373102.2000000002,NA,NA,NA,NA,NA,NA,67,546,613,0,0,0,NA,NA,NA,3,81,84,NA,NA,NA,4,62,66,1,0,1,75,690,765,0,0,0
-North Dakota,1997,617465,456932.4000000001,373381.30000000016,NA,NA,NA,NA,NA,NA,48,427,475,0,0,0,NA,NA,NA,2,60,62,NA,NA,NA,6,41,47,0,0,0,56,535,591,0,0,0
-North Dakota,1996,619983,457524.20000000007,373660.40000000014,NA,NA,NA,NA,NA,NA,43,445,488,0,0,0,NA,NA,NA,1,55,56,NA,NA,NA,5,31,36,0,0,0,49,536,585,0,0,0
-North Dakota,1995,622502,458116.00000000006,373939.5000000001,NA,NA,NA,NA,NA,NA,37,358,395,0,0,0,NA,NA,NA,5,45,50,NA,NA,NA,2,25,27,0,0,0,44,434,478,0,0,0
-North Dakota,1994,625021,458707.80000000005,374218.6000000001,NA,NA,NA,NA,NA,NA,21,298,319,0,0,0,NA,NA,NA,4,47,51,NA,NA,NA,2,28,30,0,0,0,27,373,400,0,0,0
-North Dakota,1993,627539,459299.60000000003,374497.70000000007,NA,NA,NA,NA,NA,NA,17,258,275,0,0,0,NA,NA,NA,2,34,36,NA,NA,NA,4,35,39,0,0,0,23,329,352,0,0,0
-North Dakota,1992,630058,459891.4,374776.80000000005,NA,NA,NA,NA,NA,NA,11,232,243,0,0,0,NA,NA,NA,2,37,39,NA,NA,NA,0,26,26,0,0,0,13,304,317,0,0,0
-North Dakota,1991,632576,460483.2,375055.9,NA,NA,NA,NA,NA,NA,23,270,293,0,0,0,NA,NA,NA,0,17,17,NA,NA,NA,3,23,26,0,0,0,26,314,340,0,0,0
+North Dakota,1999,612427.6,455748.8,372823.1,0,9,9,0,0,0,53,528,581,0,0,0,7,62,69,0,0,0,8,57,65,NA,NA,NA,0,0,0,68,656,724,0,0,0
+North Dakota,1998,614946.2,456340.6,373102.2,NA,NA,NA,NA,NA,NA,67,546,613,0,0,0,NA,NA,NA,3,81,84,NA,NA,NA,4,62,66,1,0,1,75,690,765,0,0,0
+North Dakota,1997,617464.8,456932.4,373381.3,NA,NA,NA,NA,NA,NA,48,427,475,0,0,0,NA,NA,NA,2,60,62,NA,NA,NA,6,41,47,0,0,0,56,535,591,0,0,0
+North Dakota,1996,619983.4,457524.2,373660.4,NA,NA,NA,NA,NA,NA,43,445,488,0,0,0,NA,NA,NA,1,55,56,NA,NA,NA,5,31,36,0,0,0,49,536,585,0,0,0
+North Dakota,1995,622502,458116,373939.5,NA,NA,NA,NA,NA,NA,37,358,395,0,0,0,NA,NA,NA,5,45,50,NA,NA,NA,2,25,27,0,0,0,44,434,478,0,0,0
+North Dakota,1994,625020.6,458707.8,374218.6,NA,NA,NA,NA,NA,NA,21,298,319,0,0,0,NA,NA,NA,4,47,51,NA,NA,NA,2,28,30,0,0,0,27,373,400,0,0,0
+North Dakota,1993,627539.2,459299.6,374497.7,NA,NA,NA,NA,NA,NA,17,258,275,0,0,0,NA,NA,NA,2,34,36,NA,NA,NA,4,35,39,0,0,0,23,329,352,0,0,0
+North Dakota,1992,630057.8,459891.4,374776.8,NA,NA,NA,NA,NA,NA,11,232,243,0,0,0,NA,NA,NA,2,37,39,NA,NA,NA,0,26,26,0,0,0,13,304,317,0,0,0
+North Dakota,1991,632576.4,460483.2,375055.9,NA,NA,NA,NA,NA,NA,23,270,293,0,0,0,NA,NA,NA,0,17,17,NA,NA,NA,3,23,26,0,0,0,26,314,340,0,0,0
 North Dakota,1990,635095,461075,375335,NA,NA,NA,NA,NA,NA,22,287,309,0,0,0,0,0,0,1,25,26,0,NA,NA,0,24,24,0,3,3,23,341,364,0,0,0
-North Dakota,1989,637202,461097.5,376411.5,NA,NA,NA,NA,NA,NA,25,254,279,0,0,0,0,0,0,4,31,35,0,NA,NA,1,21,22,0,0,0,30,307,337,0,0,0
+North Dakota,1989,637201.5,461097.5,376411.5,NA,NA,NA,NA,NA,NA,25,254,279,0,0,0,0,0,0,4,31,35,0,NA,NA,1,21,22,0,0,0,30,307,337,0,0,0
 North Dakota,1988,639308,461120,377488,NA,NA,NA,NA,NA,NA,10,261,271,0,0,0,0,0,0,0,26,26,0,NA,NA,0,5,5,0,2,2,10,295,305,0,0,0
-North Dakota,1987,641414,461142.5,378564.5,NA,NA,NA,NA,NA,NA,8,264,272,0,0,0,0,0,0,0,30,30,0,NA,NA,0,10,10,0,1,1,8,305,313,0,0,0
+North Dakota,1987,641414.5,461142.5,378564.5,NA,NA,NA,NA,NA,NA,8,264,272,0,0,0,0,0,0,0,30,30,0,NA,NA,0,10,10,0,1,1,8,305,313,0,0,0
 North Dakota,1986,643521,461165,379641,NA,NA,NA,NA,NA,NA,10,233,243,0,0,0,0,0,0,1,34,35,0,NA,NA,0,15,15,0,1,1,11,285,296,0,0,0
-North Dakota,1985,645628,461187.5,380717.5,NA,NA,NA,NA,NA,NA,6,209,215,0,0,0,0,0,0,1,19,20,0,NA,NA,0,6,6,0,0,0,7,235,242,0,0,0
+North Dakota,1985,645627.5,461187.5,380717.5,NA,NA,NA,NA,NA,NA,6,209,215,0,0,0,0,0,0,1,19,20,0,NA,NA,0,6,6,0,0,0,7,235,242,0,0,0
 North Dakota,1984,647734,461210,381794,NA,NA,NA,NA,NA,NA,6,211,217,0,0,0,0,0,0,1,10,11,0,NA,NA,0,11,11,0,1,1,7,233,240,0,0,0
-North Dakota,1983,649840,461232.5,382870.5,NA,NA,NA,NA,NA,NA,12,277,289,0,0,0,0,0,0,0,9,9,0,0,0,0,12,12,0,0,0,12,299,311,0,0,0
+North Dakota,1983,649840.5,461232.5,382870.5,NA,NA,NA,NA,NA,NA,12,277,289,0,0,0,0,0,0,0,9,9,0,0,0,0,12,12,0,0,0,12,299,311,0,0,0
 North Dakota,1982,651947,461255,383947,NA,NA,NA,NA,NA,NA,9,213,222,0,0,0,0,0,0,1,9,10,0,0,0,0,16,16,0,1,1,10,239,249,0,0,0
-North Dakota,1981,654054,461277.5,385023.5,NA,NA,NA,NA,NA,NA,2,178,180,0,0,0,0,0,0,0,5,5,0,0,0,0,22,22,0,1,1,2,206,208,0,0,0
+North Dakota,1981,654053.5,461277.5,385023.5,NA,NA,NA,NA,NA,NA,2,178,180,0,0,0,0,0,0,0,5,5,0,0,0,0,22,22,0,1,1,2,206,208,0,0,0
 North Dakota,1980,656160,461300,386100,NA,NA,NA,NA,NA,NA,4,163,167,0,0,0,0,0,0,0,4,4,0,0,0,0,21,21,0,1,1,4,191,195,0,0,0
 North Dakota,1979,652324,454090,380100,NA,NA,NA,NA,NA,NA,4,122,126,0,0,0,0,0,0,0,1,1,0,0,0,0,21,21,0,0,0,4,144,148,0,0,0
 North Dakota,1978,648488,446880,374100,0,0,0,0,1,1,6,114,120,0,0,0,0,0,0,0,0,0,0,0,0,0,30,30,0,2,2,6,147,153,0,0,0

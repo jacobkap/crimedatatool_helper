@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Utah,2016,3051217,2130119,1834043,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Utah,2015,2995919,2084167,1799650,4,26,30,3,11,14,0,0,0,7,37,44
 Utah,2014,2942902,2037753,1767048,2,7,9,1,11,12,1,6,7,4,24,28
@@ -16,12 +16,12 @@ Utah,2003,2309555,1571441,1385523,4,7,11,1,10,11,3,12,15,8,29,37
 Utah,2002,2275861,1567874,1389095,5,12,17,2,18,20,3,18,21,10,48,58
 Utah,2001,2229295,1512997,1336964,2,10,12,1,6,7,1,14,15,4,30,34
 Utah,2000,2207325,1501387,1328761,2,18,20,1,16,17,0,0,0,3,34,37
-Utah,1999,2158775,1460693.9000000008,1291403.5999999994,0,2,2,0,17,17,3,12,15,3,31,34
-Utah,1998,2110226,1420000.8000000007,1254046.1999999995,0,6,6,0,13,13,1,12,13,1,31,32
-Utah,1997,2061676,1379307.7000000007,1216688.7999999996,NA,NA,10,NA,NA,16,NA,NA,34,3,57,60
-Utah,1996,2013126,1338614.6000000006,1179331.3999999997,NA,NA,17,NA,NA,14,NA,NA,0,3,28,31
-Utah,1995,1964576,1297921.5000000005,1141973.9999999998,NA,NA,21,NA,NA,6,NA,NA,4,2,29,31
-Utah,1994,1916027,1257228.4000000004,1104616.5999999999,NA,NA,17,NA,NA,15,NA,NA,16,4,44,48
-Utah,1993,1867477,1216535.3000000003,1067259.2,NA,NA,7,NA,NA,19,NA,NA,NA,3,23,26
-Utah,1992,1818927,1175842.2000000002,1029901.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30
-Utah,1991,1770378,1135149.1,992544.4,NA,NA,0,NA,NA,30,NA,NA,5,NA,NA,35
+Utah,1999,2158775.3,1460693.9,1291403.6,0,2,2,0,17,17,3,12,15,3,31,34
+Utah,1998,2110225.6,1420000.8,1254046.2,0,6,6,0,13,13,1,12,13,1,31,32
+Utah,1997,2061675.9,1379307.7,1216688.8,NA,NA,10,NA,NA,16,NA,NA,34,3,57,60
+Utah,1996,2013126.2,1338614.6,1179331.4,NA,NA,17,NA,NA,14,NA,NA,0,3,28,31
+Utah,1995,1964576.5,1297921.5,1141974,NA,NA,21,NA,NA,6,NA,NA,4,2,29,31
+Utah,1994,1916026.8,1257228.4,1104616.6,NA,NA,17,NA,NA,15,NA,NA,16,4,44,48
+Utah,1993,1867477.1,1216535.3,1067259.2,NA,NA,7,NA,NA,19,NA,NA,NA,3,23,26
+Utah,1992,1818927.4,1175842.2,1029901.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30
+Utah,1991,1770377.7,1135149.1,992544.4,NA,NA,0,NA,NA,30,NA,NA,5,NA,NA,35

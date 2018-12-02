@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Kentucky,2016,4436974,3425666,2792106,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kentucky,2015,4425092,3415817,2792936,6,48,54,0,7,7,1,4,5,7,59,66
 Kentucky,2014,4413457,3399427,2801983,0,0,0,1,6,7,6,74,80,7,80,87
@@ -16,12 +16,12 @@ Kentucky,2003,4003036,3013737,2565499,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kentucky,2002,3978103,3049835,2606380,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kentucky,2001,3950704,2956198,2509806,5,91,96,0,9,9,0,0,0,5,100,105
 Kentucky,2000,3922149,2940381,2509732,NA,NA,92,NA,NA,11,NA,NA,21,13,111,124
-Kentucky,1999,3896674,2918241.3000000017,2487399.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,122
-Kentucky,1998,3871198,2896101.6000000015,2465067,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,128
-Kentucky,1997,3845723,2873961.9000000013,2442734.5,NA,NA,27,NA,NA,11,NA,NA,17,5,50,55
-Kentucky,1996,3820247,2851822.200000001,2420402,NA,NA,36,NA,NA,6,NA,NA,13,3,52,55
-Kentucky,1995,3794772,2829682.500000001,2398069.5,NA,NA,29,NA,NA,12,NA,NA,0,1,40,41
-Kentucky,1994,3769297,2807542.8000000007,2375737,NA,NA,26,NA,NA,18,NA,NA,NA,1,43,44
-Kentucky,1993,3743821,2785403.1000000006,2353404.5,NA,NA,37,NA,NA,5,NA,NA,NA,2,40,42
-Kentucky,1992,3718346,2763263.4000000004,2331072,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35
-Kentucky,1991,3692870,2741123.7,2308739.5,NA,NA,25,NA,NA,2,NA,NA,0,NA,NA,27
+Kentucky,1999,3896673.6,2918241.3,2487399.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,122
+Kentucky,1998,3871198.2,2896101.6,2465067,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,128
+Kentucky,1997,3845722.8,2873961.9,2442734.5,NA,NA,27,NA,NA,11,NA,NA,17,5,50,55
+Kentucky,1996,3820247.4,2851822.2,2420402,NA,NA,36,NA,NA,6,NA,NA,13,3,52,55
+Kentucky,1995,3794772,2829682.5,2398069.5,NA,NA,29,NA,NA,12,NA,NA,0,1,40,41
+Kentucky,1994,3769296.6,2807542.8,2375737,NA,NA,26,NA,NA,18,NA,NA,NA,1,43,44
+Kentucky,1993,3743821.2,2785403.1,2353404.5,NA,NA,37,NA,NA,5,NA,NA,NA,2,40,42
+Kentucky,1992,3718345.8,2763263.4,2331072,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35
+Kentucky,1991,3692870.4,2741123.7,2308739.5,NA,NA,25,NA,NA,2,NA,NA,0,NA,NA,27

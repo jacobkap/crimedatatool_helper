@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
+state,year,population,population_adult,population_aged_18_65,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
 Rhode Island,2016,1056426,847732,684839,1,64,65,0,0,0
 Rhode Island,2015,1056298,845049,687412,1,51,52,0,0,0
 Rhode Island,2014,1055173,843518,686837,1,64,65,0,2,2

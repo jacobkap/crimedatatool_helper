@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
+state,year,population,population_adult,population_aged_18_65,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
 North Dakota,2016,757953,584891,480919,0,23,23,0,0,0
 North Dakota,2015,756928,584774,482817,1,22,23,0,0,0
 North Dakota,2014,739482,572255,474147,3,15,18,0,0,0

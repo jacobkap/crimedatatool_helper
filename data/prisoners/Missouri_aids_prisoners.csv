@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Missouri,2016,6093e3,4703576,3794795,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Missouri,2015,6083672,4696210,3811896,15,179,194,1,85,86,NA,NA,NA,16,264,280
 Missouri,2014,6063589,4671311,3808067,14,181,195,1,84,85,NA,NA,NA,15,265,280
@@ -16,12 +16,12 @@ Missouri,2003,5537884,4136522,3470964,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,258,268
 Missouri,2002,5506873,4123339,3457423,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,250,262
 Missouri,2001,5471085,4053988,3396237,13,191,204,0,58,58,0,0,0,13,249,262
 Missouri,2000,5449651,3976371,3311194,14,195,209,1,45,46,3,9,12,18,249,267
-Missouri,1999,5414878,3958270.099999999,3292867.599999999,18,168,186,3,49,52,0,52,52,21,269,290
-Missouri,1998,5380105,3940169.1999999993,3274541.1999999993,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,219,235
-Missouri,1997,5345332,3922068.2999999993,3256214.7999999993,NA,NA,NA,NA,NA,37,NA,NA,190,15,212,227
-Missouri,1996,5310559,3903967.3999999994,3237888.3999999994,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,178,190
-Missouri,1995,5275786,3885866.4999999995,3219561.9999999995,NA,NA,NA,NA,NA,15,NA,NA,158,9,164,173
-Missouri,1994,5241013,3867765.5999999996,3201235.5999999996,NA,NA,NA,NA,NA,9,NA,NA,137,7,139,146
-Missouri,1993,5206240,3849664.6999999997,3182909.1999999997,NA,NA,NA,NA,NA,53,NA,NA,83,9,127,136
+Missouri,1999,5414878,3958270.1,3292867.6,18,168,186,3,49,52,0,52,52,21,269,290
+Missouri,1998,5380105,3940169.2,3274541.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,219,235
+Missouri,1997,5345332,3922068.3,3256214.8,NA,NA,NA,NA,NA,37,NA,NA,190,15,212,227
+Missouri,1996,5310559,3903967.4,3237888.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,178,190
+Missouri,1995,5275786,3885866.5,3219562,NA,NA,NA,NA,NA,15,NA,NA,158,9,164,173
+Missouri,1994,5241013,3867765.6,3201235.6,NA,NA,NA,NA,NA,9,NA,NA,137,7,139,146
+Missouri,1993,5206240,3849664.7,3182909.2,NA,NA,NA,NA,NA,53,NA,NA,83,9,127,136
 Missouri,1992,5171467,3831563.8,3164582.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,164
 Missouri,1991,5136694,3813462.9,3146256.4,NA,NA,125,NA,NA,2,NA,NA,0,NA,NA,127

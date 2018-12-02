@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Maryland,2016,6016447,4670079,3856774,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Maryland,2015,6006401,4660389,3881325,13,222,235,6,169,175,NA,NA,NA,19,391,410
 Maryland,2014,5976407,4629135,3876577,25,328,353,7,79,86,NA,NA,NA,32,407,439
@@ -16,12 +16,12 @@ Maryland,2003,5380487,4006514,3451110,111,624,735,25,228,253,NA,NA,NA,136,852,98
 Maryland,2002,5329992,3950234,3402432,130,585,715,22,230,252,NA,NA,NA,152,815,967
 Maryland,2001,5247157,3845370,3306163,81,507,588,16,197,213,0,29,29,97,733,830
 Maryland,2000,5120923,3792153,3259443,23,195,218,29,296,325,67,388,455,119,879,998
-Maryland,1999,5086910,3774410.3000000017,3247239,65,426,491,19,300,319,2,8,10,86,734,820
-Maryland,1998,5052898,3756667.6000000015,3235035,50,379,429,16,188,204,15,38,53,81,605,686
-Maryland,1997,5018885,3738924.9000000013,3222831,NA,NA,272,NA,NA,274,NA,NA,220,84,682,766
-Maryland,1996,4984872,3721182.200000001,3210627,NA,NA,521,NA,NA,274,NA,NA,37,69,763,832
-Maryland,1995,4950860,3703439.500000001,3198423,NA,NA,362,NA,NA,258,NA,NA,104,59,665,724
-Maryland,1994,4916847,3685696.8000000007,3186219,NA,NA,513,NA,NA,211,NA,NA,50,61,713,774
-Maryland,1993,4882834,3667954.1000000006,3174015,NA,NA,496,NA,NA,165,NA,NA,108,57,712,769
-Maryland,1992,4848821,3650211.4000000004,3161811,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,666
-Maryland,1991,4814809,3632468.7,3149607,NA,NA,324,NA,NA,19,NA,NA,135,NA,NA,478
+Maryland,1999,5086910.3,3774410.3,3247239,65,426,491,19,300,319,2,8,10,86,734,820
+Maryland,1998,5052897.6,3756667.6,3235035,50,379,429,16,188,204,15,38,53,81,605,686
+Maryland,1997,5018884.9,3738924.9,3222831,NA,NA,272,NA,NA,274,NA,NA,220,84,682,766
+Maryland,1996,4984872.2,3721182.2,3210627,NA,NA,521,NA,NA,274,NA,NA,37,69,763,832
+Maryland,1995,4950859.5,3703439.5,3198423,NA,NA,362,NA,NA,258,NA,NA,104,59,665,724
+Maryland,1994,4916846.8,3685696.8,3186219,NA,NA,513,NA,NA,211,NA,NA,50,61,713,774
+Maryland,1993,4882834.1,3667954.1,3174015,NA,NA,496,NA,NA,165,NA,NA,108,57,712,769
+Maryland,1992,4848821.4,3650211.4,3161811,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,666
+Maryland,1991,4814808.7,3632468.7,3149607,NA,NA,324,NA,NA,19,NA,NA,135,NA,NA,478

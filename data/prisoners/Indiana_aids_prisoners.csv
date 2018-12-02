@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Indiana,2016,6633053,5057836,4137541,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Indiana,2015,6619680,5041017,4144444,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Indiana,2014,6596855,5014663,4147984,NA,NA,NA,NA,NA,-18,NA,NA,NA,NA,NA,NA
@@ -16,12 +16,12 @@ Indiana,2003,6021480,4419110,3752996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Indiana,2002,5985228,4401277,3731166,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Indiana,2001,5934871,4452695,3800964,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Indiana,2000,5839634,4294738,3641917,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Indiana,1999,5810504,4273798.399999999,3621784.8000000017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Indiana,1998,5781373,4252858.8,3601652.6000000015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Indiana,1997,5752242,4231919.2,3581520.4000000013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Indiana,1996,5723112,4210979.600000001,3561388.200000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Indiana,1995,5693982,4190040.0000000005,3541256.000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Indiana,1994,5664851,4169100.4000000004,3521123.8000000007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Indiana,1993,5635720,4148160.8000000003,3500991.6000000006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Indiana,1992,5606590,4127221.2,3480859.4000000004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Indiana,1991,5577460,4106281.6,3460727.2,NA,NA,60,NA,NA,2,NA,NA,0,NA,NA,62
+Indiana,1999,5810503.5,4273798.4,3621784.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indiana,1998,5781373,4252858.8,3601652.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indiana,1997,5752242.5,4231919.2,3581520.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indiana,1996,5723112,4210979.6,3561388.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indiana,1995,5693981.5,4190040,3541256,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indiana,1994,5664851,4169100.4,3521123.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indiana,1993,5635720.5,4148160.8,3500991.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indiana,1992,5606590,4127221.2,3480859.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indiana,1991,5577459.5,4106281.6,3460727.2,NA,NA,60,NA,NA,2,NA,NA,0,NA,NA,62

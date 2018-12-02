@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Hawaii,2016,1428557,1121758,896686,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Hawaii,2015,1431603,1119532,900769,2,6,8,NA,NA,NA,3,7,10,5,13,18
 Hawaii,2014,1419561,1112169,902764,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,14,14
@@ -16,12 +16,12 @@ Hawaii,2003,1221885,926971,772541,3,7,10,0,4,4,0,13,13,3,24,27
 Hawaii,2002,1208537,915388,762887,0,16,16,1,0,1,0,5,5,1,21,22
 Hawaii,2001,1188615,886445,737459,0,13,13,0,0,0,0,0,0,0,13,13
 Hawaii,2000,1198101,890920,746577,0,17,17,0,1,1,0,1,1,0,19,19
-Hawaii,1999,1188758,884337,742969.2999999996,0,21,21,0,7,7,0,2,2,0,30,30
-Hawaii,1998,1179414,877754,739361.5999999996,1,17,18,0,2,2,0,0,0,1,19,20
-Hawaii,1997,1170071,871171,735753.8999999997,NA,NA,3,NA,NA,4,NA,NA,9,0,16,16
-Hawaii,1996,1160728,864588,732146.1999999997,NA,NA,17,NA,NA,2,NA,NA,4,0,23,23
-Hawaii,1995,1151385,858005,728538.4999999998,NA,NA,11,NA,NA,1,NA,NA,0,0,12,12
-Hawaii,1994,1142041,851422,724930.7999999998,NA,NA,10,NA,NA,1,NA,NA,3,0,14,14
-Hawaii,1993,1132698,844839,721323.0999999999,NA,NA,17,NA,NA,2,NA,NA,2,2,19,21
-Hawaii,1992,1123355,838256,717715.3999999999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24
-Hawaii,1991,1114011,831673,714107.7,NA,NA,17,NA,NA,1,NA,NA,1,NA,NA,19
+Hawaii,1999,1188757.7,884337,742969.3,0,21,21,0,7,7,0,2,2,0,30,30
+Hawaii,1998,1179414.4,877754,739361.6,1,17,18,0,2,2,0,0,0,1,19,20
+Hawaii,1997,1170071.1,871171,735753.9,NA,NA,3,NA,NA,4,NA,NA,9,0,16,16
+Hawaii,1996,1160727.8,864588,732146.2,NA,NA,17,NA,NA,2,NA,NA,4,0,23,23
+Hawaii,1995,1151384.5,858005,728538.5,NA,NA,11,NA,NA,1,NA,NA,0,0,12,12
+Hawaii,1994,1142041.2,851422,724930.8,NA,NA,10,NA,NA,1,NA,NA,3,0,14,14
+Hawaii,1993,1132697.9,844839,721323.1,NA,NA,17,NA,NA,2,NA,NA,2,2,19,21
+Hawaii,1992,1123354.6,838256,717715.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24
+Hawaii,1991,1114011.3,831673,714107.7,NA,NA,17,NA,NA,1,NA,NA,1,NA,NA,19

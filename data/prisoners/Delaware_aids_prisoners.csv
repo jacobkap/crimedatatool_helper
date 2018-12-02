@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Delaware,2016,952065,747851,593084,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Delaware,2015,945934,741578,593841,2,64,66,0,0,0,0,0,0,2,64,66
 Delaware,2014,935614,731376,590993,4,71,75,NA,NA,NA,NA,NA,NA,4,71,75
@@ -16,12 +16,12 @@ Delaware,2003,792494,594441,498017,2,64,66,0,31,31,0,8,8,2,103,105
 Delaware,2002,782221,593063,499100,2,74,76,7,32,39,3,10,13,12,116,128
 Delaware,2001,771580,574499,481719,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,116,143
 Delaware,2000,756530,564517,478344,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,127
-Delaware,1999,747044,558107.1000000002,473202.8000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,137,170
-Delaware,1998,737557,551697.2000000002,468061.6000000001,9,41,50,24,106,130,NA,NA,NA,33,147,180
-Delaware,1997,728071,545287.3000000002,462920.4000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,248
-Delaware,1996,718585,538877.4000000001,457779.20000000007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Delaware,1995,709099,532467.5000000001,452638.00000000006,NA,NA,80,NA,NA,42,NA,NA,NA,NA,NA,122
-Delaware,1994,699612,526057.6000000001,447496.80000000005,NA,NA,NA,NA,NA,34,NA,NA,NA,NA,NA,34
-Delaware,1993,690126,519647.70000000007,442355.60000000003,NA,NA,79,NA,NA,34,NA,NA,NA,NA,NA,113
-Delaware,1992,680640,513237.80000000005,437214.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,104
-Delaware,1991,671153,506827.9,432073.2,NA,NA,78,NA,NA,7,NA,NA,0,NA,NA,85
+Delaware,1999,747043.7,558107.1,473202.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,137,170
+Delaware,1998,737557.4,551697.2,468061.6,9,41,50,24,106,130,NA,NA,NA,33,147,180
+Delaware,1997,728071.1,545287.3,462920.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,248
+Delaware,1996,718584.8,538877.4,457779.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Delaware,1995,709098.5,532467.5,452638,NA,NA,80,NA,NA,42,NA,NA,NA,NA,NA,122
+Delaware,1994,699612.2,526057.6,447496.8,NA,NA,NA,NA,NA,34,NA,NA,NA,NA,NA,34
+Delaware,1993,690125.9,519647.7,442355.6,NA,NA,79,NA,NA,34,NA,NA,NA,NA,NA,113
+Delaware,1992,680639.6,513237.8,437214.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,104
+Delaware,1991,671153.3,506827.9,432073.2,NA,NA,78,NA,NA,7,NA,NA,0,NA,NA,85

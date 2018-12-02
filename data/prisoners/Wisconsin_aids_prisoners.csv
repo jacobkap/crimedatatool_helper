@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Wisconsin,2016,5778709,4496677,3640290,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Wisconsin,2015,5771337,4483634,3647735,4,72,76,0,15,15,NA,NA,NA,4,87,91
 Wisconsin,2014,5757564,4460654,3647869,6,65,71,1,27,28,0,4,4,7,96,103
@@ -16,12 +16,12 @@ Wisconsin,2003,5313443,3989998,3369554,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,136
 Wisconsin,2002,5294592,3970259,3352244,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,141
 Wisconsin,2001,5247393,3952080,3338654,7,114,121,4,39,43,NA,NA,NA,11,153,164
 Wisconsin,2000,5242190,3864150,3265111,7,101,108,3,50,53,NA,NA,NA,10,151,161
-Wisconsin,1999,5206115,3837410.3000000017,3237283.8000000017,6,27,33,2,20,22,6,86,92,14,133,147
-Wisconsin,1998,5170040,3810670.6000000015,3209456.6000000015,4,83,87,2,27,29,2,18,20,8,128,136
-Wisconsin,1997,5133965,3783930.9000000013,3181629.4000000013,NA,NA,48,NA,NA,23,NA,NA,13,5,79,84
-Wisconsin,1996,5097890,3757191.200000001,3153802.200000001,NA,NA,43,NA,NA,18,NA,NA,30,8,83,91
-Wisconsin,1995,5061816,3730451.500000001,3125975.000000001,NA,NA,47,NA,NA,11,NA,NA,14,5,67,72
-Wisconsin,1994,5025741,3703711.8000000007,3098147.8000000007,NA,NA,27,NA,NA,8,NA,NA,30,7,58,65
-Wisconsin,1993,4989666,3676972.1000000006,3070320.6000000006,NA,NA,53,NA,NA,3,NA,NA,0,6,50,56
-Wisconsin,1992,4953591,3650232.4000000004,3042493.4000000004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48
-Wisconsin,1991,4917516,3623492.7,3014666.2,NA,NA,37,NA,NA,3,NA,NA,0,NA,NA,40
+Wisconsin,1999,5206115.1,3837410.3,3237283.8,6,27,33,2,20,22,6,86,92,14,133,147
+Wisconsin,1998,5170040.2,3810670.6,3209456.6,4,83,87,2,27,29,2,18,20,8,128,136
+Wisconsin,1997,5133965.3,3783930.9,3181629.4,NA,NA,48,NA,NA,23,NA,NA,13,5,79,84
+Wisconsin,1996,5097890.4,3757191.2,3153802.2,NA,NA,43,NA,NA,18,NA,NA,30,8,83,91
+Wisconsin,1995,5061815.5,3730451.5,3125975,NA,NA,47,NA,NA,11,NA,NA,14,5,67,72
+Wisconsin,1994,5025740.6,3703711.8,3098147.8,NA,NA,27,NA,NA,8,NA,NA,30,7,58,65
+Wisconsin,1993,4989665.7,3676972.1,3070320.6,NA,NA,53,NA,NA,3,NA,NA,0,6,50,56
+Wisconsin,1992,4953590.8,3650232.4,3042493.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48
+Wisconsin,1991,4917515.9,3623492.7,3014666.2,NA,NA,37,NA,NA,3,NA,NA,0,NA,NA,40

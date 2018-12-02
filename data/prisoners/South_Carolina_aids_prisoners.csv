@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 South Carolina,2016,4961119,3861305,3093306,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 South Carolina,2015,4896146,3807727,3072261,7,166,173,5,139,144,NA,NA,NA,12,305,317
 South Carolina,2014,4832482,3751743,3052725,16,156,172,5,141,146,NA,NA,NA,21,297,318
@@ -16,12 +16,12 @@ South Carolina,2003,4008553,2992670,2540019,30,270,300,7,213,220,NA,NA,NA,37,483
 South Carolina,2002,3971899,2999792,2567073,10,273,283,32,229,261,NA,NA,NA,42,502,544
 South Carolina,2001,3927982,2906457,2474126,24,302,326,4,229,233,0,0,0,28,531,559
 South Carolina,2000,3847726,2858798,2433016,NA,NA,NA,9,225,234,20,306,326,29,531,560
-South Carolina,1999,3811047,2829136.1999999983,2409552.3000000017,44,350,394,4,219,223,NA,NA,NA,48,569,617
-South Carolina,1998,3774368,2799474.3999999985,2386088.6000000015,39,384,423,1,183,184,NA,NA,NA,40,567,607
-South Carolina,1997,3737689,2769812.5999999987,2362624.9000000013,NA,NA,64,NA,NA,171,NA,NA,197,23,409,432
-South Carolina,1996,3701010,2740150.799999999,2339161.200000001,NA,NA,309,NA,NA,113,NA,NA,NA,24,398,422
-South Carolina,1995,3664331,2710488.999999999,2315697.500000001,NA,NA,299,NA,NA,81,NA,NA,NA,NA,NA,380
-South Carolina,1994,3627652,2680827.1999999993,2292233.8000000007,NA,NA,355,NA,NA,79,NA,NA,NA,27,407,434
-South Carolina,1993,3590973,2651165.3999999994,2268770.1000000006,NA,NA,364,NA,NA,88,NA,NA,NA,NA,NA,452
-South Carolina,1992,3554294,2621503.5999999996,2245306.4000000004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,350
+South Carolina,1999,3811047,2829136.2,2409552.3,44,350,394,4,219,223,NA,NA,NA,48,569,617
+South Carolina,1998,3774368,2799474.4,2386088.6,39,384,423,1,183,184,NA,NA,NA,40,567,607
+South Carolina,1997,3737689,2769812.6,2362624.9,NA,NA,64,NA,NA,171,NA,NA,197,23,409,432
+South Carolina,1996,3701010,2740150.8,2339161.2,NA,NA,309,NA,NA,113,NA,NA,NA,24,398,422
+South Carolina,1995,3664331,2710489,2315697.5,NA,NA,299,NA,NA,81,NA,NA,NA,NA,NA,380
+South Carolina,1994,3627652,2680827.2,2292233.8,NA,NA,355,NA,NA,79,NA,NA,NA,27,407,434
+South Carolina,1993,3590973,2651165.4,2268770.1,NA,NA,364,NA,NA,88,NA,NA,NA,NA,NA,452
+South Carolina,1992,3554294,2621503.6,2245306.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,350
 South Carolina,1991,3517615,2591841.8,2221842.7,NA,NA,298,NA,NA,18,NA,NA,0,NA,NA,316

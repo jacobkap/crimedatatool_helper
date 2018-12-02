@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Massachusetts,2016,6811885,5434401,4431861,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Massachusetts,2015,6794422,5408795,4442078,0,0,0,8,104,112,2,36,38,10,140,150
 Massachusetts,2014,6745408,5358636,4414911,0,1,1,7,105,112,1,51,52,8,157,165
@@ -16,12 +16,12 @@ Massachusetts,2003,6218757,4728290,3973e3,13,139,152,6,72,78,0,0,0,19,211,230
 Massachusetts,2002,6211595,4757769,3981882,10,23,33,14,99,113,17,127,144,41,249,290
 Massachusetts,2001,6155496,4748010,3994245,8,25,33,16,103,119,16,139,155,40,267,307
 Massachusetts,2000,6221681,4653923,3891966,6,22,28,8,122,130,16,139,155,30,283,313
-Massachusetts,1999,6201103,4654996.899999997,3893214.8000000017,NA,NA,17,NA,NA,138,NA,NA,191,44,302,346
-Massachusetts,1998,6180524,4656070.799999997,3894463.6000000015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,395
-Massachusetts,1997,6159946,4657144.699999997,3895712.4000000013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,392
-Massachusetts,1996,6139368,4658218.599999998,3896961.200000001,NA,NA,79,NA,NA,166,NA,NA,148,66,327,393
-Massachusetts,1995,6118789,4659292.499999998,3898210.000000001,NA,NA,94,NA,NA,160,NA,NA,155,69,340,409
-Massachusetts,1994,6098211,4660366.3999999985,3899458.8000000007,NA,NA,103,NA,NA,109,NA,NA,176,85,303,388
-Massachusetts,1993,6077633,4661440.299999999,3900707.6000000006,NA,NA,89,NA,NA,121,NA,NA,184,79,315,394
-Massachusetts,1992,6057055,4662514.199999999,3901956.4000000004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,322
-Massachusetts,1991,6036476,4663588.1,3903205.2,NA,NA,100,NA,NA,22,NA,NA,362,NA,NA,484
+Massachusetts,1999,6201102.7,4654996.9,3893214.8,NA,NA,17,NA,NA,138,NA,NA,191,44,302,346
+Massachusetts,1998,6180524.4,4656070.8,3894463.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,395
+Massachusetts,1997,6159946.1,4657144.7,3895712.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,392
+Massachusetts,1996,6139367.8,4658218.6,3896961.2,NA,NA,79,NA,NA,166,NA,NA,148,66,327,393
+Massachusetts,1995,6118789.5,4659292.5,3898210,NA,NA,94,NA,NA,160,NA,NA,155,69,340,409
+Massachusetts,1994,6098211.2,4660366.4,3899458.8,NA,NA,103,NA,NA,109,NA,NA,176,85,303,388
+Massachusetts,1993,6077632.9,4661440.3,3900707.6,NA,NA,89,NA,NA,121,NA,NA,184,79,315,394
+Massachusetts,1992,6057054.6,4662514.2,3901956.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,322
+Massachusetts,1991,6036476.3,4663588.1,3903205.2,NA,NA,100,NA,NA,22,NA,NA,362,NA,NA,484

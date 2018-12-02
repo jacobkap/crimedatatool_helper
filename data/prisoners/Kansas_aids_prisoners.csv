@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Kansas,2016,2907289,2192989,1788076,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Kansas,2015,2911641,2193124,1797342,7,33,40,1,2,3,0,1,1,8,36,44
 Kansas,2014,2904021,2180036,1795731,NA,NA,NA,0,4,4,NA,NA,NA,0,4,4
@@ -16,12 +16,12 @@ Kansas,2003,2641747,1956836,1648442,3,22,25,0,4,4,0,3,3,3,29,32
 Kansas,2002,2634122,1940300,1624106,6,28,34,1,5,6,0,8,8,7,41,48
 Kansas,2001,2612636,1955260,1643253,NA,NA,33,NA,NA,7,NA,NA,1,NA,NA,41
 Kansas,2000,2615759,1898076,1570341,NA,NA,41,NA,NA,6,NA,NA,2,NA,NA,49
-Kansas,1999,2601317,1889539.2000000004,1562631.4000000008,0,33,33,0,4,4,0,4,4,0,41,41
-Kansas,1998,2586876,1881002.4000000004,1554921.8000000007,NA,NA,35,NA,NA,3,NA,NA,NA,NA,NA,38
-Kansas,1997,2572434,1872465.6000000003,1547212.2000000007,NA,NA,3,NA,NA,1,NA,NA,NA,0,4,4
-Kansas,1996,2557992,1863928.8000000003,1539502.6000000006,NA,NA,9,NA,NA,7,NA,NA,NA,1,15,16
-Kansas,1995,2543551,1855392.0000000002,1531793.0000000005,NA,NA,18,NA,NA,6,NA,NA,0,0,24,24
-Kansas,1994,2529109,1846855.2000000002,1524083.4000000004,NA,NA,15,NA,NA,3,NA,NA,2,0,20,20
-Kansas,1993,2514667,1838318.4000000001,1516373.8000000003,NA,NA,25,NA,NA,12,NA,NA,2,3,36,39
-Kansas,1992,2500225,1829781.6,1508664.2000000002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20
-Kansas,1991,2485784,1821244.8,1500954.6,NA,NA,1,NA,NA,6,NA,NA,6,NA,NA,13
+Kansas,1999,2601317.3,1889539.2,1562631.4,0,33,33,0,4,4,0,4,4,0,41,41
+Kansas,1998,2586875.6,1881002.4,1554921.8,NA,NA,35,NA,NA,3,NA,NA,NA,NA,NA,38
+Kansas,1997,2572433.9,1872465.6,1547212.2,NA,NA,3,NA,NA,1,NA,NA,NA,0,4,4
+Kansas,1996,2557992.2,1863928.8,1539502.6,NA,NA,9,NA,NA,7,NA,NA,NA,1,15,16
+Kansas,1995,2543550.5,1855392,1531793,NA,NA,18,NA,NA,6,NA,NA,0,0,24,24
+Kansas,1994,2529108.8,1846855.2,1524083.4,NA,NA,15,NA,NA,3,NA,NA,2,0,20,20
+Kansas,1993,2514667.1,1838318.4,1516373.8,NA,NA,25,NA,NA,12,NA,NA,2,3,36,39
+Kansas,1992,2500225.4,1829781.6,1508664.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20
+Kansas,1991,2485783.7,1821244.8,1500954.6,NA,NA,1,NA,NA,6,NA,NA,6,NA,NA,13

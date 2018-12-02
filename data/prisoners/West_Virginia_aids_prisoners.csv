@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 West Virginia,2016,1831102,1454578,1136439,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 West Virginia,2015,1844128,1464966,1154097,1,18,19,0,2,2,0,1,1,1,21,22
 West Virginia,2014,1850326,1467316,1164664,1,20,21,0,1,1,0,2,2,1,23,24
@@ -16,12 +16,12 @@ West Virginia,2003,1767580,1378583,1131390,0,0,0,0,2,2,2,10,12,2,12,14
 West Virginia,2002,1761291,1373614,1126911,1,6,7,1,16,17,NA,NA,NA,2,22,24
 West Virginia,2001,1758405,1361659,1115905,1,4,5,0,11,11,0,0,0,1,15,16
 West Virginia,2000,1770413,1376793,1115609,1,8,9,1,1,2,0,3,3,2,12,14
-West Virginia,1999,1771972,1373385.7000000004,1113313.4000000008,0,10,10,0,0,0,0,0,0,0,10,10
-West Virginia,1998,1773530,1369978.4000000004,1111017.8000000007,2,7,9,0,0,0,0,0,0,2,7,9
-West Virginia,1997,1775089,1366571.1000000003,1108722.2000000007,NA,NA,8,NA,NA,2,NA,NA,0,0,10,10
-West Virginia,1996,1776647,1363163.8000000003,1106426.6000000006,NA,NA,6,NA,NA,1,NA,NA,0,0,7,7
-West Virginia,1995,1778206,1359756.5000000002,1104131.0000000005,NA,NA,10,NA,NA,0,NA,NA,0,0,10,10
-West Virginia,1994,1779765,1356349.2000000002,1101835.4000000004,NA,NA,8,NA,NA,0,NA,NA,0,0,8,8
-West Virginia,1993,1781323,1352941.9000000001,1099539.8000000003,NA,NA,8,NA,NA,0,NA,NA,0,0,8,8
-West Virginia,1992,1782882,1349534.6,1097244.2000000002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
-West Virginia,1991,1784440,1346127.3,1094948.6,NA,NA,4,NA,NA,0,NA,NA,1,NA,NA,5
+West Virginia,1999,1771971.6,1373385.7,1113313.4,0,10,10,0,0,0,0,0,0,0,10,10
+West Virginia,1998,1773530.2,1369978.4,1111017.8,2,7,9,0,0,0,0,0,0,2,7,9
+West Virginia,1997,1775088.8,1366571.1,1108722.2,NA,NA,8,NA,NA,2,NA,NA,0,0,10,10
+West Virginia,1996,1776647.4,1363163.8,1106426.6,NA,NA,6,NA,NA,1,NA,NA,0,0,7,7
+West Virginia,1995,1778206,1359756.5,1104131,NA,NA,10,NA,NA,0,NA,NA,0,0,10,10
+West Virginia,1994,1779764.6,1356349.2,1101835.4,NA,NA,8,NA,NA,0,NA,NA,0,0,8,8
+West Virginia,1993,1781323.2,1352941.9,1099539.8,NA,NA,8,NA,NA,0,NA,NA,0,0,8,8
+West Virginia,1992,1782881.8,1349534.6,1097244.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+West Virginia,1991,1784440.4,1346127.3,1094948.6,NA,NA,4,NA,NA,0,NA,NA,1,NA,NA,5

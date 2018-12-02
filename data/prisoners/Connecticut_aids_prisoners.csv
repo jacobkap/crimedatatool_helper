@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Connecticut,2016,3576452,2827751,2292041,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Connecticut,2015,3590886,2828634,2299206,NA,NA,NA,8,108,116,15,99,114,23,207,230
 Connecticut,2014,3596677,2823459,2307453,NA,NA,NA,7,100,107,16,121,137,23,221,244
@@ -16,12 +16,12 @@ Connecticut,2003,3371241,2539350,2131137,NA,NA,NA,23,188,211,69,292,361,92,480,5
 Connecticut,2002,3350345,2483379,2066299,0,0,0,32,239,271,71,324,395,103,563,666
 Connecticut,2001,3317131,2509829,2097982,NA,NA,NA,33,226,259,71,274,345,104,500,604
 Connecticut,2000,3294802,2448737,2027334,NA,NA,NA,33,210,243,63,287,350,96,497,593
-Connecticut,1999,3293535,2456843.400000001,2036554.9000000008,NA,NA,NA,40,207,247,68,317,385,108,524,632
-Connecticut,1998,3292268,2464949.8000000007,2045775.8000000007,NA,NA,NA,NA,NA,NA,NA,NA,NA,109,525,634
-Connecticut,1997,3291e3,2473056.2000000007,2054996.7000000007,NA,NA,171,NA,NA,202,NA,NA,425,139,659,798
-Connecticut,1996,3289733,2481162.6000000006,2064217.6000000006,NA,NA,199,NA,NA,239,NA,NA,252,109,581,690
-Connecticut,1995,3288466,2489269.0000000005,2073438.5000000005,NA,NA,254,NA,NA,187,NA,NA,314,128,627,755
-Connecticut,1994,3287199,2497375.4000000004,2082659.4000000004,NA,NA,350,NA,NA,184,NA,NA,406,140,800,940
-Connecticut,1993,3285932,2505481.8000000003,2091880.3000000003,NA,NA,327,NA,NA,193,NA,NA,366,135,751,886
-Connecticut,1992,3284664,2513588.2,2101101.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,621
-Connecticut,1991,3283397,2521694.6,2110322.1,NA,NA,229,NA,NA,81,NA,NA,264,NA,NA,574
+Connecticut,1999,3293534.8,2456843.4,2036554.9,NA,NA,NA,40,207,247,68,317,385,108,524,632
+Connecticut,1998,3292267.6,2464949.8,2045775.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,109,525,634
+Connecticut,1997,3291000.4,2473056.2,2054996.7,NA,NA,171,NA,NA,202,NA,NA,425,139,659,798
+Connecticut,1996,3289733.2,2481162.6,2064217.6,NA,NA,199,NA,NA,239,NA,NA,252,109,581,690
+Connecticut,1995,3288466,2489269,2073438.5,NA,NA,254,NA,NA,187,NA,NA,314,128,627,755
+Connecticut,1994,3287198.8,2497375.4,2082659.4,NA,NA,350,NA,NA,184,NA,NA,406,140,800,940
+Connecticut,1993,3285931.6,2505481.8,2091880.3,NA,NA,327,NA,NA,193,NA,NA,366,135,751,886
+Connecticut,1992,3284664.4,2513588.2,2101101.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,621
+Connecticut,1991,3283397.2,2521694.6,2110322.1,NA,NA,229,NA,NA,81,NA,NA,264,NA,NA,574

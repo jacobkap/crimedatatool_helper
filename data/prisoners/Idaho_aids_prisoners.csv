@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Idaho,2016,1683140,1246229,1010005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Idaho,2015,1654930,1223903,997142,2,30,32,NA,NA,NA,NA,NA,NA,2,30,32
 Idaho,2014,1634464,1203127,988767,2,1,3,0,7,7,0,0,0,2,8,10
@@ -16,12 +16,12 @@ Idaho,2003,1333165,963572,824794,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26
 Idaho,2002,1308320,945405,811531,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20
 Idaho,2001,1289492,915983,784558,2,8,10,0,4,4,0,0,0,2,12,14
 Idaho,2000,1272112,913964,774152,1,9,10,0,3,3,0,1,1,1,13,14
-Idaho,1999,1243992,891740,754785.6000000002,1,6,7,0,4,4,0,4,4,1,14,15
-Idaho,1998,1215873,869516,735419.2000000002,0,8,8,0,5,5,NA,NA,NA,0,13,13
-Idaho,1997,1187753,847292,716052.8000000002,NA,NA,5,NA,NA,3,NA,NA,2,0,10,10
-Idaho,1996,1159634,825068,696686.4000000001,NA,NA,13,NA,NA,4,NA,NA,0,2,15,17
-Idaho,1995,1131514,802844,677320.0000000001,NA,NA,6,NA,NA,5,NA,NA,0,0,11,11
-Idaho,1994,1103394,780620,657953.6000000001,NA,NA,13,NA,NA,5,NA,NA,2,1,20,20
-Idaho,1993,1075275,758396,638587.2000000001,NA,NA,16,NA,NA,10,NA,NA,0,0,26,26
-Idaho,1992,1047155,736172,619220.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20
-Idaho,1991,1019036,713948,599854.4,NA,NA,3,NA,NA,4,NA,NA,3,NA,NA,10
+Idaho,1999,1243992.4,891740,754785.6,1,6,7,0,4,4,0,4,4,1,14,15
+Idaho,1998,1215872.8,869516,735419.2,0,8,8,0,5,5,NA,NA,NA,0,13,13
+Idaho,1997,1187753.2,847292,716052.8,NA,NA,5,NA,NA,3,NA,NA,2,0,10,10
+Idaho,1996,1159633.6,825068,696686.4,NA,NA,13,NA,NA,4,NA,NA,0,2,15,17
+Idaho,1995,1131514,802844,677320,NA,NA,6,NA,NA,5,NA,NA,0,0,11,11
+Idaho,1994,1103394.4,780620,657953.6,NA,NA,13,NA,NA,5,NA,NA,2,1,20,20
+Idaho,1993,1075274.8,758396,638587.2,NA,NA,16,NA,NA,10,NA,NA,0,0,26,26
+Idaho,1992,1047155.2,736172,619220.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20
+Idaho,1991,1019035.6,713948,599854.4,NA,NA,3,NA,NA,4,NA,NA,3,NA,NA,10

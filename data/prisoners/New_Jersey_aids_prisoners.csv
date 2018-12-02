@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 New Jersey,2016,8944469,6962122,5682758,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New Jersey,2015,8958013,6960879,5715537,0,0,0,2,12,14,17,183,200,19,195,214
 New Jersey,2014,8938175,6926870,5713070,0,0,0,0,17,17,19,202,221,19,219,238
@@ -16,12 +16,12 @@ New Jersey,2003,8444076,6320351,5325514,NA,NA,NA,17,151,168,71,418,489,88,569,65
 New Jersey,2002,8395357,6275385,5282513,0,0,0,14,153,167,51,538,589,65,691,756
 New Jersey,2001,8289599,6357318,5375232,NA,NA,NA,26,157,183,65,556,621,91,713,804
 New Jersey,2000,8206336,6091506,5119380,38,79,117,15,146,161,37,456,493,90,681,771
-New Jersey,1999,8155602,6073078.100000003,5102803.5,NA,NA,NA,29,186,215,93,561,654,122,747,869
-New Jersey,1998,8104868,6054650.200000003,5086227,NA,NA,NA,25,231,256,99,569,668,124,800,924
-New Jersey,1997,8054135,6036222.300000003,5069650.5,NA,NA,565,NA,NA,302,NA,NA,NA,71,796,867
-New Jersey,1996,8003401,6017794.400000002,5053074,NA,NA,445,NA,NA,260,NA,NA,NA,91,614,705
-New Jersey,1995,7952667,5999366.500000002,5036497.5,NA,NA,504,NA,NA,343,NA,NA,NA,99,748,847
-New Jersey,1994,7901933,5980938.6000000015,5019921,NA,NA,563,NA,NA,207,NA,NA,NA,75,695,770
-New Jersey,1993,7851199,5962510.700000001,5003344.5,NA,NA,774,NA,NA,107,NA,NA,NA,72,809,881
-New Jersey,1992,7800466,5944082.800000001,4986768,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1326
-New Jersey,1991,7749732,5925654.9,4970191.5,NA,NA,0,NA,NA,62,NA,NA,694,NA,NA,756
+New Jersey,1999,8155602.2,6073078.1,5102803.5,NA,NA,NA,29,186,215,93,561,654,122,747,869
+New Jersey,1998,8104868.4,6054650.2,5086227,NA,NA,NA,25,231,256,99,569,668,124,800,924
+New Jersey,1997,8054134.6,6036222.3,5069650.5,NA,NA,565,NA,NA,302,NA,NA,NA,71,796,867
+New Jersey,1996,8003400.8,6017794.4,5053074,NA,NA,445,NA,NA,260,NA,NA,NA,91,614,705
+New Jersey,1995,7952667,5999366.5,5036497.5,NA,NA,504,NA,NA,343,NA,NA,NA,99,748,847
+New Jersey,1994,7901933.2,5980938.6,5019921,NA,NA,563,NA,NA,207,NA,NA,NA,75,695,770
+New Jersey,1993,7851199.4,5962510.7,5003344.5,NA,NA,774,NA,NA,107,NA,NA,NA,72,809,881
+New Jersey,1992,7800465.6,5944082.8,4986768,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1326
+New Jersey,1991,7749731.8,5925654.9,4970191.5,NA,NA,0,NA,NA,62,NA,NA,694,NA,NA,756

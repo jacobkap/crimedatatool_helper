@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 District of Columbia,2016,681170,560717,486873,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 District of Columbia,2015,672228,554182,485241,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 District of Columbia,2014,658893,544698,475459,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16,12 +16,12 @@ District of Columbia,2003,528759,421268,361795,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 District of Columbia,2002,535632,424834,363847,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 District of Columbia,2001,536260,422830,363437,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 District of Columbia,2000,523809,418674,355440,20,39,59,2,12,14,3,50,53,25,101,126
-District of Columbia,1999,532415,426021.3999999998,362008.1999999999,8,254,262,3,79,82,2,13,15,13,346,359
-District of Columbia,1998,541020,433368.7999999998,368576.3999999999,NA,NA,185,NA,NA,55,NA,NA,28,33,235,268
-District of Columbia,1997,549626,440716.19999999984,375144.5999999999,NA,NA,NA,NA,NA,75,NA,NA,NA,NA,NA,175
-District of Columbia,1996,558232,448063.59999999986,381712.79999999993,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,125
-District of Columbia,1995,566838,455410.9999999999,388280.99999999994,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-District of Columbia,1994,575443,462758.3999999999,394849.19999999995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-District of Columbia,1993,584049,470105.79999999993,401417.39999999997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-District of Columbia,1992,592655,477453.19999999995,407985.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-District of Columbia,1991,601260,484800.6,414553.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+District of Columbia,1999,532414.7,426021.4,362008.2,8,254,262,3,79,82,2,13,15,13,346,359
+District of Columbia,1998,541020.4,433368.8,368576.4,NA,NA,185,NA,NA,55,NA,NA,28,33,235,268
+District of Columbia,1997,549626.1,440716.2,375144.6,NA,NA,NA,NA,NA,75,NA,NA,NA,NA,NA,175
+District of Columbia,1996,558231.8,448063.6,381712.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,125
+District of Columbia,1995,566837.5,455411,388281,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+District of Columbia,1994,575443.2,462758.4,394849.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+District of Columbia,1993,584048.9,470105.8,401417.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+District of Columbia,1992,592654.6,477453.2,407985.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+District of Columbia,1991,601260.3,484800.6,414553.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

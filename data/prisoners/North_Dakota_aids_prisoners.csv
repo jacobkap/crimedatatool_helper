@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 North Dakota,2016,757953,584891,480919,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 North Dakota,2015,756928,584774,482817,0,0,0,0,0,0,0,3,3,0,3,3
 North Dakota,2014,739482,572255,474147,0,0,0,0,0,0,0,2,2,0,2,2
@@ -16,12 +16,12 @@ North Dakota,2003,609236,463605,383112,0,2,2,0,0,0,0,0,0,0,2,2
 North Dakota,2002,610245,463533,382827,0,4,4,0,0,0,0,0,0,0,4,4
 North Dakota,2001,610793,471608,391036,0,0,0,0,0,0,0,4,4,0,4,4
 North Dakota,2000,609909,455157,372544,0,2,2,0,0,0,0,0,0,0,2,2
-North Dakota,1999,612428,455748.8000000001,372823.1000000002,0,2,2,0,0,0,0,0,0,0,2,2
-North Dakota,1998,614946,456340.6000000001,373102.2000000002,0,3,3,0,0,0,0,0,0,0,3,3
-North Dakota,1997,617465,456932.4000000001,373381.30000000016,NA,NA,0,NA,NA,1,NA,NA,6,2,5,7
-North Dakota,1996,619983,457524.20000000007,373660.40000000014,NA,NA,3,NA,NA,0,NA,NA,0,1,2,3
-North Dakota,1995,622502,458116.00000000006,373939.5000000001,NA,NA,1,NA,NA,1,NA,NA,0,1,1,2
-North Dakota,1994,625021,458707.80000000005,374218.6000000001,NA,NA,2,NA,NA,0,NA,NA,1,1,2,3
-North Dakota,1993,627539,459299.60000000003,374497.70000000007,NA,NA,2,NA,NA,0,NA,NA,0,0,2,2
-North Dakota,1992,630058,459891.4,374776.80000000005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-North Dakota,1991,632576,460483.2,375055.9,NA,NA,1,NA,NA,0,NA,NA,0,NA,NA,1
+North Dakota,1999,612427.6,455748.8,372823.1,0,2,2,0,0,0,0,0,0,0,2,2
+North Dakota,1998,614946.2,456340.6,373102.2,0,3,3,0,0,0,0,0,0,0,3,3
+North Dakota,1997,617464.8,456932.4,373381.3,NA,NA,0,NA,NA,1,NA,NA,6,2,5,7
+North Dakota,1996,619983.4,457524.2,373660.4,NA,NA,3,NA,NA,0,NA,NA,0,1,2,3
+North Dakota,1995,622502,458116,373939.5,NA,NA,1,NA,NA,1,NA,NA,0,1,1,2
+North Dakota,1994,625020.6,458707.8,374218.6,NA,NA,2,NA,NA,0,NA,NA,1,1,2,3
+North Dakota,1993,627539.2,459299.6,374497.7,NA,NA,2,NA,NA,0,NA,NA,0,0,2,2
+North Dakota,1992,630057.8,459891.4,374776.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+North Dakota,1991,632576.4,460483.2,375055.9,NA,NA,1,NA,NA,0,NA,NA,0,NA,NA,1

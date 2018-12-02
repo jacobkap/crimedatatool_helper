@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Georgia,2016,10310371,7798957,6546036,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Georgia,2015,10214860,7712805,6517028,64,699,763,NA,NA,NA,NA,NA,NA,64,699,763
 Georgia,2014,10097343,7607044,6460153,55,787,842,NA,NA,NA,NA,NA,NA,55,787,842
@@ -16,12 +16,12 @@ Georgia,2003,8438710,6155477,5434852,NA,NA,NA,NA,NA,NA,NA,NA,NA,104,991,1095
 Georgia,2002,8328862,6068492,5359670,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,1023,1123
 Georgia,2001,8158938,5900735,5203896,NA,NA,NA,NA,NA,NA,NA,NA,NA,146,1004,1150
 Georgia,2000,7951518,5778754,5047399,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,938
-Georgia,1999,7802968,5674893.5,4955975.800000002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,846
-Georgia,1998,7654419,5571033,4864552.6000000015,NA,NA,NA,NA,NA,NA,NA,NA,NA,105,765,870
-Georgia,1997,7505870,5467172.5,4773129.400000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,96,765,861
-Georgia,1996,7357320,5363312,4681706.200000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,80,734,814
-Georgia,1995,7208770,5259451.5,4590283.000000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,858
-Georgia,1994,7060221,5155591,4498859.800000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,884
-Georgia,1993,6911672,5051730.5,4407436.600000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,797
+Georgia,1999,7802968.5,5674893.5,4955975.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,846
+Georgia,1998,7654419,5571033,4864552.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,105,765,870
+Georgia,1997,7505869.5,5467172.5,4773129.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,96,765,861
+Georgia,1996,7357320,5363312,4681706.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,80,734,814
+Georgia,1995,7208770.5,5259451.5,4590283,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,858
+Georgia,1994,7060221,5155591,4498859.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,884
+Georgia,1993,6911671.5,5051730.5,4407436.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,797
 Georgia,1992,6763122,4947870,4316013.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,733
-Georgia,1991,6614572,4844009.5,4224590.2,NA,NA,774,NA,NA,23,NA,NA,10,NA,NA,807
+Georgia,1991,6614572.5,4844009.5,4224590.2,NA,NA,774,NA,NA,23,NA,NA,10,NA,NA,807

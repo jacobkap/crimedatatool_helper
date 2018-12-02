@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Ohio,2016,11614373,9007798,7256258,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Ohio,2015,11613423,8990472,7285422,7,297,304,1,87,88,NA,NA,NA,8,384,392
 Ohio,2014,11594163,8960023,7291280,13,264,277,4,140,144,NA,NA,NA,17,404,421
@@ -16,12 +16,12 @@ Ohio,2003,11131980,8313492,6980600,32,261,293,6,117,123,0,0,0,38,378,416
 Ohio,2002,11106524,8255118,6904082,26,267,293,3,121,124,NA,NA,NA,29,388,417
 Ohio,2001,11066289,8331665,6994432,24,253,277,3,118,121,NA,NA,NA,27,371,398
 Ohio,2000,11052389,8181891,6834334,20,320,340,4,134,138,NA,NA,NA,24,454,478
-Ohio,1999,11030378,8166966.600000003,6823433.699999998,26,259,285,2,104,106,NA,NA,NA,28,363,391
-Ohio,1998,11008368,8152042.200000003,6812533.3999999985,17,161,178,3,94,97,11,106,117,31,361,392
-Ohio,1997,10986358,8137117.800000003,6801633.099999999,NA,NA,155,NA,NA,91,NA,NA,119,25,340,365
-Ohio,1996,10964347,8122193.400000002,6790732.799999999,NA,NA,279,NA,NA,64,NA,NA,NA,26,317,343
-Ohio,1995,10942336,8107269.000000002,6779832.499999999,NA,NA,270,NA,NA,76,NA,NA,NA,22,324,346
-Ohio,1994,10920326,8092344.6000000015,6768932.199999999,NA,NA,388,NA,NA,66,NA,NA,NA,22,432,454
-Ohio,1993,10898316,8077420.200000001,6758031.899999999,NA,NA,305,NA,NA,50,NA,NA,NA,25,330,355
-Ohio,1992,10876305,8062495.800000001,6747131.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,232
-Ohio,1991,10854294,8047571.4,6736231.3,NA,NA,129,NA,NA,23,NA,NA,0,NA,NA,152
+Ohio,1999,11030378.5,8166966.6,6823433.7,26,259,285,2,104,106,NA,NA,NA,28,363,391
+Ohio,1998,11008368,8152042.2,6812533.4,17,161,178,3,94,97,11,106,117,31,361,392
+Ohio,1997,10986357.5,8137117.8,6801633.1,NA,NA,155,NA,NA,91,NA,NA,119,25,340,365
+Ohio,1996,10964347,8122193.4,6790732.8,NA,NA,279,NA,NA,64,NA,NA,NA,26,317,343
+Ohio,1995,10942336.5,8107269,6779832.5,NA,NA,270,NA,NA,76,NA,NA,NA,22,324,346
+Ohio,1994,10920326,8092344.6,6768932.2,NA,NA,388,NA,NA,66,NA,NA,NA,22,432,454
+Ohio,1993,10898315.5,8077420.2,6758031.9,NA,NA,305,NA,NA,50,NA,NA,NA,25,330,355
+Ohio,1992,10876305,8062495.8,6747131.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,232
+Ohio,1991,10854294.5,8047571.4,6736231.3,NA,NA,129,NA,NA,23,NA,NA,0,NA,NA,152

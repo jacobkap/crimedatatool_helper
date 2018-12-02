@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Oregon,2016,4093465,3227513,2595600,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Oregon,2015,4028977,3168517,2557992,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,60,62
 Oregon,2014,3970239,3111019,2525972,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,58,58
@@ -16,12 +16,12 @@ Oregon,2003,3488398,2645505,2230439,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Oregon,2002,3434797,2582718,2187726,0,27,27,0,1,1,0,14,14,0,42,42
 Oregon,2001,3387279,2537863,2137881,1,19,20,0,5,5,1,4,5,2,28,30
 Oregon,2000,3355436,2501752,2106875,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41
-Oregon,1999,3303174,2462811.8000000017,2071120.5,0,14,14,1,5,6,1,2,3,2,21,23
-Oregon,1998,3250913,2423871.6000000015,2035366,0,29,29,2,0,2,0,4,4,2,33,35
-Oregon,1997,3198651,2384931.4000000013,1999611.5,NA,NA,33,NA,NA,7,NA,NA,14,3,51,54
-Oregon,1996,3146389,2345991.200000001,1963857,NA,NA,23,NA,NA,4,NA,NA,12,4,35,39
-Oregon,1995,3094128,2307051.000000001,1928102.5,NA,NA,11,NA,NA,7,NA,NA,11,4,25,29
-Oregon,1994,3041866,2268110.8000000007,1892348,NA,NA,8,NA,NA,10,NA,NA,6,3,21,24
-Oregon,1993,2989604,2229170.6000000006,1856593.5,NA,NA,7,NA,NA,7,NA,NA,15,4,25,29
-Oregon,1992,2937342,2190230.4000000004,1820839,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21
-Oregon,1991,2885081,2151290.2,1785084.5,NA,NA,11,NA,NA,1,NA,NA,12,NA,NA,24
+Oregon,1999,3303174.3,2462811.8,2071120.5,0,14,14,1,5,6,1,2,3,2,21,23
+Oregon,1998,3250912.6,2423871.6,2035366,0,29,29,2,0,2,0,4,4,2,33,35
+Oregon,1997,3198650.9,2384931.4,1999611.5,NA,NA,33,NA,NA,7,NA,NA,14,3,51,54
+Oregon,1996,3146389.2,2345991.2,1963857,NA,NA,23,NA,NA,4,NA,NA,12,4,35,39
+Oregon,1995,3094127.5,2307051,1928102.5,NA,NA,11,NA,NA,7,NA,NA,11,4,25,29
+Oregon,1994,3041865.8,2268110.8,1892348,NA,NA,8,NA,NA,10,NA,NA,6,3,21,24
+Oregon,1993,2989604.1,2229170.6,1856593.5,NA,NA,7,NA,NA,7,NA,NA,15,4,25,29
+Oregon,1992,2937342.4,2190230.4,1820839,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21
+Oregon,1991,2885080.7,2151290.2,1785084.5,NA,NA,11,NA,NA,1,NA,NA,12,NA,NA,24

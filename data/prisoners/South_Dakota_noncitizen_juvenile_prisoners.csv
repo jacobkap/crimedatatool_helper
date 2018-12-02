@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
+state,year,population,population_adult,population_aged_18_65,in_custody_not_us_citizens_female,in_custody_not_us_citizens_male,in_custody_not_us_citizens_total,in_custody_under_18_years_of_age_female,in_custody_under_18_years_of_age_male,in_custody_under_18_years_of_age_total
 South Dakota,2016,865454,651552,525029,6,81,87,0,0,0
 South Dakota,2015,858469,648913,524081,4,82,86,0,0,0
 South Dakota,2014,853175,643681,525862,3,77,80,0,0,0

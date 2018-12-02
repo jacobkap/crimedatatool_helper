@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Minnesota,2016,5519952,4236521,3467457,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Minnesota,2015,5489594,4208742,3468203,5,37,42,1,5,6,0,0,0,6,42,48
 Minnesota,2014,5457173,4181144,3463225,4,46,50,0,17,17,0,1,1,4,64,68
@@ -16,12 +16,12 @@ Minnesota,2003,4919584,3677177,3148010,0,29,29,0,11,11,0,0,0,0,40,40
 Minnesota,2002,4882303,3634196,3111914,0,33,33,0,4,4,NA,NA,NA,0,37,37
 Minnesota,2001,4836367,3637692,3120740,4,28,32,0,1,1,0,0,0,4,29,33
 Minnesota,2000,4850802,3549788,3025178,4,36,40,0,2,2,0,0,0,4,38,42
-Minnesota,1999,4802379,3515225.099999999,2992208.1999999983,2,28,30,0,2,2,0,0,0,2,30,32
-Minnesota,1998,4753955,3480662.1999999993,2959238.3999999985,0,24,24,0,2,2,0,0,0,0,26,26
-Minnesota,1997,4705532,3446099.2999999993,2926268.5999999987,NA,NA,26,NA,NA,5,NA,NA,0,0,31,31
-Minnesota,1996,4657108,3411536.3999999994,2893298.799999999,NA,NA,9,NA,NA,8,NA,NA,7,1,23,24
-Minnesota,1995,4608685,3376973.4999999995,2860328.999999999,NA,NA,34,NA,NA,6,NA,NA,6,5,41,46
-Minnesota,1994,4560262,3342410.5999999996,2827359.1999999993,NA,NA,28,NA,NA,3,NA,NA,4,4,31,35
-Minnesota,1993,4511838,3307847.6999999997,2794389.3999999994,NA,NA,29,NA,NA,1,NA,NA,0,0,30,30
-Minnesota,1992,4463415,3273284.8,2761419.5999999996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26
-Minnesota,1991,4414991,3238721.9,2728449.8,NA,NA,13,NA,NA,0,NA,NA,1,NA,NA,14
+Minnesota,1999,4802378.6,3515225.1,2992208.2,2,28,30,0,2,2,0,0,0,2,30,32
+Minnesota,1998,4753955.2,3480662.2,2959238.4,0,24,24,0,2,2,0,0,0,0,26,26
+Minnesota,1997,4705531.8,3446099.3,2926268.6,NA,NA,26,NA,NA,5,NA,NA,0,0,31,31
+Minnesota,1996,4657108.4,3411536.4,2893298.8,NA,NA,9,NA,NA,8,NA,NA,7,1,23,24
+Minnesota,1995,4608685,3376973.5,2860329,NA,NA,34,NA,NA,6,NA,NA,6,5,41,46
+Minnesota,1994,4560261.6,3342410.6,2827359.2,NA,NA,28,NA,NA,3,NA,NA,4,4,31,35
+Minnesota,1993,4511838.2,3307847.7,2794389.4,NA,NA,29,NA,NA,1,NA,NA,0,0,30,30
+Minnesota,1992,4463414.8,3273284.8,2761419.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26
+Minnesota,1991,4414991.4,3238721.9,2728449.8,NA,NA,13,NA,NA,0,NA,NA,1,NA,NA,14

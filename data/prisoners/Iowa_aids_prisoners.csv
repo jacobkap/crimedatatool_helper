@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Iowa,2016,3134693,2411135,1931424,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Iowa,2015,3123899,2398939,1932736,0,12,12,0,11,11,0,0,0,0,23,23
 Iowa,2014,3107126,2382458,1925061,2,18,20,0,9,9,0,0,0,2,27,29
@@ -16,12 +16,12 @@ Iowa,2003,2846089,2155627,1782647,NA,NA,NA,NA,NA,2,NA,NA,29,2,29,31
 Iowa,2002,2838815,2145832,1764550,4,14,18,0,15,15,NA,NA,NA,4,29,33
 Iowa,2001,2819039,2099158,1722578,4,15,19,0,8,8,NA,NA,NA,4,23,27
 Iowa,2000,2820668,2089720,1708728,0,0,0,0,8,8,3,16,19,3,24,27
-Iowa,1999,2815267,2085645,1702833.4000000008,4,20,24,0,6,6,0,0,0,4,26,30
-Iowa,1998,2809866,2081570,1696938.8000000007,6,8,14,0,4,4,0,0,0,6,12,18
-Iowa,1997,2804465,2077495,1691044.2000000007,NA,NA,26,NA,NA,8,NA,NA,NA,7,27,34
-Iowa,1996,2799064,2073420,1685149.6000000006,NA,NA,16,NA,NA,8,NA,NA,NA,3,21,24
-Iowa,1995,2793663,2069345,1679255.0000000005,NA,NA,15,NA,NA,5,NA,NA,NA,2,18,20
-Iowa,1994,2788262,2065270,1673360.4000000004,NA,NA,18,NA,NA,7,NA,NA,NA,2,23,25
-Iowa,1993,2782861,2061195,1667465.8000000003,NA,NA,9,NA,NA,2,NA,NA,NA,1,10,11
-Iowa,1992,2777460,2057120,1661571.2000000002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18
+Iowa,1999,2815267,2085645,1702833.4,4,20,24,0,6,6,0,0,0,4,26,30
+Iowa,1998,2809866,2081570,1696938.8,6,8,14,0,4,4,0,0,0,6,12,18
+Iowa,1997,2804465,2077495,1691044.2,NA,NA,26,NA,NA,8,NA,NA,NA,7,27,34
+Iowa,1996,2799064,2073420,1685149.6,NA,NA,16,NA,NA,8,NA,NA,NA,3,21,24
+Iowa,1995,2793663,2069345,1679255,NA,NA,15,NA,NA,5,NA,NA,NA,2,18,20
+Iowa,1994,2788262,2065270,1673360.4,NA,NA,18,NA,NA,7,NA,NA,NA,2,23,25
+Iowa,1993,2782861,2061195,1667465.8,NA,NA,9,NA,NA,2,NA,NA,NA,1,10,11
+Iowa,1992,2777460,2057120,1661571.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18
 Iowa,1991,2772059,2053045,1655676.6,NA,NA,17,NA,NA,2,NA,NA,0,NA,NA,19

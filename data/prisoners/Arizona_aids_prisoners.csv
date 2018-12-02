@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Arizona,2016,6931071,5302751,4213082,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Arizona,2015,6828065,5207988,4168956,17,188,205,0,17,17,0,0,0,17,205,222
 Arizona,2014,6731484,5110238,4116568,21,174,195,0,20,20,0,0,0,21,194,215
@@ -16,12 +16,12 @@ Arizona,2003,5490147,3962399,3321332,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,119,123
 Arizona,2002,5349497,3870515,3248475,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,117,130
 Arizona,2001,5183424,3711360,3081267,15,81,96,2,13,15,1,10,11,18,104,122
 Arizona,2000,4943392,3639273,3062022,NA,NA,NA,NA,NA,10,NA,NA,100,NA,NA,110
-Arizona,1999,4814338,3542958.1999999983,2979191.8000000017,NA,NA,NA,5,58,63,6,75,81,11,133,144
-Arizona,1998,4685283,3446643.3999999985,2896361.6000000015,NA,NA,NA,4,48,52,5,61,66,9,109,118
-Arizona,1997,4556229,3350328.5999999987,2813531.4000000013,NA,NA,59,NA,NA,46,NA,NA,NA,NA,NA,105
-Arizona,1996,4427175,3254013.799999999,2730701.200000001,NA,NA,171,NA,NA,34,NA,NA,NA,5,200,205
-Arizona,1995,4298120,3157698.999999999,2647871.000000001,NA,NA,125,NA,NA,15,NA,NA,NA,12,128,140
-Arizona,1994,4169066,3061384.1999999993,2565040.8000000007,NA,NA,120,NA,NA,23,NA,NA,NA,12,131,143
-Arizona,1993,4040012,2965069.3999999994,2482210.6000000006,NA,NA,80,NA,NA,9,NA,NA,NA,4,85,89
-Arizona,1992,3910958,2868754.5999999996,2399380.4000000004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,78
-Arizona,1991,3781903,2772439.8,2316550.2,NA,NA,74,NA,NA,10,NA,NA,0,NA,NA,84
+Arizona,1999,4814337.7,3542958.2,2979191.8,NA,NA,NA,5,58,63,6,75,81,11,133,144
+Arizona,1998,4685283.4,3446643.4,2896361.6,NA,NA,NA,4,48,52,5,61,66,9,109,118
+Arizona,1997,4556229.1,3350328.6,2813531.4,NA,NA,59,NA,NA,46,NA,NA,NA,NA,NA,105
+Arizona,1996,4427174.8,3254013.8,2730701.2,NA,NA,171,NA,NA,34,NA,NA,NA,5,200,205
+Arizona,1995,4298120.5,3157699,2647871,NA,NA,125,NA,NA,15,NA,NA,NA,12,128,140
+Arizona,1994,4169066.2,3061384.2,2565040.8,NA,NA,120,NA,NA,23,NA,NA,NA,12,131,143
+Arizona,1993,4040011.9,2965069.4,2482210.6,NA,NA,80,NA,NA,9,NA,NA,NA,4,85,89
+Arizona,1992,3910957.6,2868754.6,2399380.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,78
+Arizona,1991,3781903.3,2772439.8,2316550.2,NA,NA,74,NA,NA,10,NA,NA,0,NA,NA,84

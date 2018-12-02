@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 New York,2016,19745289,15572259,12754895,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 New York,2015,19795791,15592507,12847208,125,1255,1380,12,345,357,3,80,83,140,1680,1820
 New York,2014,19746227,15527616,12839942,130,1230,1360,15,385,400,5,85,90,150,1700,1850
@@ -16,12 +16,12 @@ New York,2003,18601689,14084958,11899252,365,3690,4055,50,750,800,15,130,145,430
 New York,2002,18529790,13982226,11796686,330,3620,3950,60,800,860,20,170,190,410,4590,5e3
 New York,2001,18429783,13879472,11724070,NA,NA,NA,NA,NA,1160,NA,NA,4340,470,5030,5500
 New York,2000,18434400,13684669,11545827,450,4200,4650,100,1e3,1100,50,200,250,600,5400,6e3
-New York,1999,18382887,13685147.700000007,11541834.5,600,4970,5570,110,1060,1170,50,210,260,760,6240,7e3
-New York,1998,18331375,13685626.400000006,11537842,739,5270,6009,114,1115,1229,47,215,262,900,6600,7500
-New York,1997,18279862,13686105.100000005,11533849.5,NA,NA,5926,NA,NA,1301,NA,NA,273,745,6755,7500
-New York,1996,18228350,13686583.800000004,11529857,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8500
-New York,1995,18176837,13687062.500000004,11525864.5,NA,NA,8019,NA,NA,1182,NA,NA,299,822,8678,9500
-New York,1994,18125324,13687541.200000003,11521872,NA,NA,6728,NA,NA,1228,NA,NA,339,717,7578,8295
-New York,1993,18073812,13688019.900000002,11517879.5,NA,NA,6415,NA,NA,1210,NA,NA,375,651,7349,8e3
-New York,1992,18022299,13688498.600000001,11513887,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8645
-New York,1991,17970787,13688977.3,11509894.5,NA,NA,6833,NA,NA,693,NA,NA,474,NA,NA,8e3
+New York,1999,18382887.4,13685147.7,11541834.5,600,4970,5570,110,1060,1170,50,210,260,760,6240,7e3
+New York,1998,18331374.8,13685626.4,11537842,739,5270,6009,114,1115,1229,47,215,262,900,6600,7500
+New York,1997,18279862.2,13686105.1,11533849.5,NA,NA,5926,NA,NA,1301,NA,NA,273,745,6755,7500
+New York,1996,18228349.6,13686583.8,11529857,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8500
+New York,1995,18176837,13687062.5,11525864.5,NA,NA,8019,NA,NA,1182,NA,NA,299,822,8678,9500
+New York,1994,18125324.4,13687541.2,11521872,NA,NA,6728,NA,NA,1228,NA,NA,339,717,7578,8295
+New York,1993,18073811.8,13688019.9,11517879.5,NA,NA,6415,NA,NA,1210,NA,NA,375,651,7349,8e3
+New York,1992,18022299.2,13688498.6,11513887,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8645
+New York,1991,17970786.6,13688977.3,11509894.5,NA,NA,6833,NA,NA,693,NA,NA,474,NA,NA,8e3

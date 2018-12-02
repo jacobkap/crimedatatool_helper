@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Oklahoma,2016,3923561,2961420,2413263,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Oklahoma,2015,3911338,2952178,2419235,6,100,106,4,41,45,NA,NA,NA,10,141,151
 Oklahoma,2014,3878051,2928028,2405714,4,109,113,0,28,28,NA,NA,NA,4,137,141
@@ -16,12 +16,12 @@ Oklahoma,2003,3396794,2519290,2120092,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,154,162
 Oklahoma,2002,3379515,2511143,2106111,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,138,146
 Oklahoma,2001,3347660,2476237,2068748,4,87,91,0,15,15,1,23,24,5,125,130
 Oklahoma,2000,3330738,2455010,2059902,7,79,86,1,33,34,1,24,25,9,136,145
-Oklahoma,1999,3311376,2439428.3000000017,2044606.2000000004,6,62,68,3,20,23,1,30,31,10,112,122
-Oklahoma,1998,3292014,2423846.6000000015,2029310.4000000004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Oklahoma,1997,3272652,2408264.9000000013,2014014.6000000003,NA,NA,103,NA,NA,4,NA,NA,NA,10,97,107
-Oklahoma,1996,3253290,2392683.200000001,1998718.8000000003,NA,NA,99,NA,NA,9,NA,NA,NA,10,98,108
-Oklahoma,1995,3233928,2377101.500000001,1983423.0000000002,NA,NA,107,NA,NA,8,NA,NA,NA,10,105,115
-Oklahoma,1994,3214567,2361519.8000000007,1968127.2000000002,NA,NA,95,NA,NA,7,NA,NA,NA,5,97,102
-Oklahoma,1993,3195205,2345938.1000000006,1952831.4000000001,NA,NA,96,NA,NA,6,NA,NA,NA,7,95,102
-Oklahoma,1992,3175843,2330356.4000000004,1937535.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,94
-Oklahoma,1991,3156481,2314774.7,1922239.8,NA,NA,64,NA,NA,10,NA,NA,0,NA,NA,74
+Oklahoma,1999,3311376.1,2439428.3,2044606.2,6,62,68,3,20,23,1,30,31,10,112,122
+Oklahoma,1998,3292014.2,2423846.6,2029310.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oklahoma,1997,3272652.3,2408264.9,2014014.6,NA,NA,103,NA,NA,4,NA,NA,NA,10,97,107
+Oklahoma,1996,3253290.4,2392683.2,1998718.8,NA,NA,99,NA,NA,9,NA,NA,NA,10,98,108
+Oklahoma,1995,3233928.5,2377101.5,1983423,NA,NA,107,NA,NA,8,NA,NA,NA,10,105,115
+Oklahoma,1994,3214566.6,2361519.8,1968127.2,NA,NA,95,NA,NA,7,NA,NA,NA,5,97,102
+Oklahoma,1993,3195204.7,2345938.1,1952831.4,NA,NA,96,NA,NA,6,NA,NA,NA,7,95,102
+Oklahoma,1992,3175842.8,2330356.4,1937535.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,94
+Oklahoma,1991,3156480.9,2314774.7,1922239.8,NA,NA,64,NA,NA,10,NA,NA,0,NA,NA,74

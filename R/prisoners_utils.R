@@ -292,9 +292,9 @@ clean_census <- function(years) {
                   weight    = weight / 100)
 
   data$population_adult <- 0
-  data$population_adult_aged_18_65 <- 0
+  data$population_aged_18_65 <- 0
   data$population_adult[data$age >= 18] <- 1
-  data$population_adult_aged_18_65[data$age %in% 18:65] <- 1
+  data$population_aged_18_65[data$age %in% 18:65] <- 1
   data$age <- NULL; gc()
 
   data$race[data$ethnicity %in% "hispanic"] <- "hispanic"
@@ -316,16 +316,16 @@ clean_census <- function(years) {
   data$population_adult_american_indian  <- data$population_american_indian * data$population_adult
   data$population_adult_asian            <- data$population_asian * data$population_adult
   data$population_adult_black            <- data$population_black * data$population_adult
-  data$population_adult_hispanic       <- data$population_hispanic * data$population_adult
+  data$population_adult_hispanic         <- data$population_hispanic * data$population_adult
   data$population_adult_other_or_unknown <- data$population_other_or_unknown * data$population_adult
   data$population_adult_white            <- data$population_white * data$population_adult
 
-  data$population_aged_18_65_american_indian  <- data$population_american_indian * data$population_adult_aged_18_65
-  data$population_aged_18_65_asian            <- data$population_asian * data$population_adult_aged_18_65
-  data$population_aged_18_65_black            <- data$population_black * data$population_adult_aged_18_65
-  data$population_aged_18_65_hispanic         <- data$population_hispanic * data$population_adult_aged_18_65
-  data$population_aged_18_65_other_or_unknown <- data$population_other_or_unknown * data$population_adult_aged_18_65
-  data$population_aged_18_65_white            <- data$population_white * data$population_adult_aged_18_65
+  data$population_aged_18_65_american_indian  <- data$population_american_indian * data$population_aged_18_65
+  data$population_aged_18_65_asian            <- data$population_asian * data$population_aged_18_65
+  data$population_aged_18_65_black            <- data$population_black * data$population_aged_18_65
+  data$population_aged_18_65_hispanic         <- data$population_hispanic * data$population_aged_18_65
+  data$population_aged_18_65_other_or_unknown <- data$population_other_or_unknown * data$population_aged_18_65
+  data$population_aged_18_65_white            <- data$population_white * data$population_aged_18_65
 
   data <-
     data %>%
@@ -334,7 +334,7 @@ clean_census <- function(years) {
     dplyr::summarise(population = sum(weight),
                      # Adult population
                      population_adult = sum(weight[population_adult == 1]),
-                     population_adult_aged_18_65 = sum(weight[population_adult_aged_18_65 == 1]),
+                     population_aged_18_65 = sum(weight[population_aged_18_65 == 1]),
 
                      # Race/ethnicity population
                      population_american_indian = sum(weight[population_american_indian == 1]),
@@ -383,11 +383,11 @@ census_interpolator <- function(data1, data2) {
         yearly_adder <- yearly_adder / 10
 
         temp[i, n] <- temp[i - 1, n] + yearly_adder
+        temp[i, n] <- round(temp[i, n], digits = 1)
       }
     }
 
     final <- dplyr::bind_rows(final, temp)
   }
-  final$population <- round(final$population)
   return(final)
 }

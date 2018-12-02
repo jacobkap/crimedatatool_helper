@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Florida,2016,20612439,16469863,12643937,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Florida,2015,20271272,16169195,12477531,217,2354,2571,NA,NA,NA,NA,NA,NA,217,2354,2571
 Florida,2014,19893297,15841290,12295546,224,2332,2556,NA,NA,NA,NA,NA,NA,224,2332,2556
@@ -16,12 +16,12 @@ Florida,2003,16667245,12737441,10120019,349,2052,2401,19,692,711,NA,NA,NA,368,27
 Florida,2002,16342243,12453721,9883800,322,2006,2328,18,502,520,NA,NA,NA,340,2508,2848
 Florida,2001,16017780,12196801,9615245,363,1562,1925,36,641,677,NA,NA,NA,399,2203,2602
 Florida,2000,15587105,11994570,9397345,312,1560,1872,59,709,768,NA,NA,NA,371,2269,2640
-Florida,1999,15320685,11800885.100000003,9242397.200000003,156,1673,1829,38,766,804,NA,NA,NA,194,2439,2633
-Florida,1998,15054265,11607200.200000003,9087449.400000002,NA,NA,1681,NA,NA,780,NA,NA,NA,254,2207,2461
-Florida,1997,14787844,11413515.300000003,8932501.600000001,NA,NA,1499,NA,NA,826,NA,NA,NA,243,2082,2325
-Florida,1996,14521424,11219830.400000002,8777553.8,NA,NA,1279,NA,NA,873,NA,NA,NA,223,1929,2152
-Florida,1995,14255004,11026145.500000002,8622606,NA,NA,1501,NA,NA,692,NA,NA,NA,222,1971,2193
-Florida,1994,13988584,10832460.600000001,8467658.2,NA,NA,1367,NA,NA,619,NA,NA,NA,187,1799,1986
-Florida,1993,13722164,10638775.700000001,8312710.399999999,NA,NA,1345,NA,NA,435,NA,NA,NA,161,1619,1780
-Florida,1992,13455743,10445090.8,8157762.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1616
-Florida,1991,13189323,10251405.9,8002814.8,NA,NA,1015,NA,NA,90,NA,NA,0,NA,NA,1105
+Florida,1999,15320684.8,11800885.1,9242397.2,156,1673,1829,38,766,804,NA,NA,NA,194,2439,2633
+Florida,1998,15054264.6,11607200.2,9087449.4,NA,NA,1681,NA,NA,780,NA,NA,NA,254,2207,2461
+Florida,1997,14787844.4,11413515.3,8932501.6,NA,NA,1499,NA,NA,826,NA,NA,NA,243,2082,2325
+Florida,1996,14521424.2,11219830.4,8777553.8,NA,NA,1279,NA,NA,873,NA,NA,NA,223,1929,2152
+Florida,1995,14255004,11026145.5,8622606,NA,NA,1501,NA,NA,692,NA,NA,NA,222,1971,2193
+Florida,1994,13988583.8,10832460.6,8467658.2,NA,NA,1367,NA,NA,619,NA,NA,NA,187,1799,1986
+Florida,1993,13722163.6,10638775.7,8312710.4,NA,NA,1345,NA,NA,435,NA,NA,NA,161,1619,1780
+Florida,1992,13455743.4,10445090.8,8157762.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1616
+Florida,1991,13189323.2,10251405.9,8002814.8,NA,NA,1015,NA,NA,90,NA,NA,0,NA,NA,1105

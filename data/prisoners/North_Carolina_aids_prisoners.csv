@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 North Carolina,2016,10146788,7852630,6399176,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 North Carolina,2015,10042802,7756383,6355726,NA,NA,NA,6,159,165,23,312,335,29,471,500
 North Carolina,2014,9943964,7654619,6310874,NA,NA,NA,13,263,276,30,273,303,43,536,579
@@ -16,12 +16,12 @@ North Carolina,2003,8146508,6072671,5189510,45,349,394,22,224,246,0,0,0,67,573,6
 North Carolina,2002,8063874,6002367,5134862,NA,NA,395,NA,NA,207,NA,NA,NA,NA,NA,602
 North Carolina,2001,7932350,5875491,5023771,NA,NA,388,NA,NA,185,NA,NA,NA,NA,NA,573
 North Carolina,2000,7792140,5803749,4958444,NA,NA,NA,NA,NA,213,NA,NA,NA,NA,NA,588
-North Carolina,1999,7674146,5724399,4889409.600000003,44,300,344,21,189,210,NA,NA,NA,65,489,554
-North Carolina,1998,7556152,5645049,4820375.200000003,44,300,344,21,189,210,NA,NA,NA,65,489,554
-North Carolina,1997,7438157,5565699,4751340.800000003,NA,NA,349,NA,NA,170,NA,NA,NA,64,455,519
-North Carolina,1996,7320163,5486349,4682306.400000002,NA,NA,NA,NA,NA,199,NA,NA,390,72,517,589
-North Carolina,1995,7202169,5406999,4613272.000000002,NA,NA,NA,NA,NA,129,NA,NA,397,89,437,526
-North Carolina,1994,7084175,5327649,4544237.6000000015,NA,NA,NA,NA,NA,157,NA,NA,364,54,467,521
-North Carolina,1993,6966181,5248299,4475203.200000001,NA,NA,176,NA,NA,108,NA,NA,201,56,429,485
-North Carolina,1992,6848186,5168949,4406168.800000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,364
-North Carolina,1991,6730192,5089599,4337134.4,NA,NA,116,NA,NA,19,NA,NA,35,NA,NA,170
+North Carolina,1999,7674145.8,5724399,4889409.6,44,300,344,21,189,210,NA,NA,NA,65,489,554
+North Carolina,1998,7556151.6,5645049,4820375.2,44,300,344,21,189,210,NA,NA,NA,65,489,554
+North Carolina,1997,7438157.4,5565699,4751340.8,NA,NA,349,NA,NA,170,NA,NA,NA,64,455,519
+North Carolina,1996,7320163.2,5486349,4682306.4,NA,NA,NA,NA,NA,199,NA,NA,390,72,517,589
+North Carolina,1995,7202169,5406999,4613272,NA,NA,NA,NA,NA,129,NA,NA,397,89,437,526
+North Carolina,1994,7084174.8,5327649,4544237.6,NA,NA,NA,NA,NA,157,NA,NA,364,54,467,521
+North Carolina,1993,6966180.6,5248299,4475203.2,NA,NA,176,NA,NA,108,NA,NA,201,56,429,485
+North Carolina,1992,6848186.4,5168949,4406168.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,364
+North Carolina,1991,6730192.2,5089599,4337134.4,NA,NA,116,NA,NA,19,NA,NA,35,NA,NA,170

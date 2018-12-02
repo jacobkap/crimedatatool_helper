@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Colorado,2016,5540545,4280618,3594974,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Colorado,2015,5456574,4199053,3550797,12,121,133,0,8,8,0,16,16,12,145,157
 Colorado,2014,5355866,4108534,3488581,13,135,148,0,8,8,0,15,15,13,158,171
@@ -16,12 +16,12 @@ Colorado,2003,4447892,3301536,2906682,18,89,107,3,32,35,0,20,20,21,141,162
 Colorado,2002,4403659,3260358,2880256,20,76,96,4,42,46,2,38,40,26,156,182
 Colorado,2001,4314724,3164594,2790285,12,105,117,4,35,39,3,14,17,19,154,173
 Colorado,2000,4247729,3126471,2756861,7,98,105,3,20,23,3,15,18,13,133,146
-Colorado,1999,4151232,3056479.1999999983,2693606.099999999,9,102,111,1,7,8,0,12,12,10,121,131
-Colorado,1998,4054734,2986487.3999999985,2630351.1999999993,2,56,58,3,25,28,4,34,38,9,115,124
-Colorado,1997,3958237,2916495.5999999987,2567096.2999999993,NA,NA,37,NA,NA,31,NA,NA,42,8,102,110
-Colorado,1996,3861740,2846503.799999999,2503841.3999999994,NA,NA,77,NA,NA,17,NA,NA,NA,8,86,94
-Colorado,1995,3765242,2776511.999999999,2440586.4999999995,NA,NA,28,NA,NA,19,NA,NA,46,6,87,93
-Colorado,1994,3668745,2706520.1999999993,2377331.5999999996,NA,NA,23,NA,NA,12,NA,NA,44,2,77,79
-Colorado,1993,3572248,2636528.3999999994,2314076.6999999997,NA,NA,50,NA,NA,7,NA,NA,17,7,67,74
-Colorado,1992,3475751,2566536.5999999996,2250821.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,52
-Colorado,1991,3379253,2496544.8,2187566.9,NA,NA,37,NA,NA,4,NA,NA,41,NA,NA,82
+Colorado,1999,4151231.7,3056479.2,2693606.1,9,102,111,1,7,8,0,12,12,10,121,131
+Colorado,1998,4054734.4,2986487.4,2630351.2,2,56,58,3,25,28,4,34,38,9,115,124
+Colorado,1997,3958237.1,2916495.6,2567096.3,NA,NA,37,NA,NA,31,NA,NA,42,8,102,110
+Colorado,1996,3861739.8,2846503.8,2503841.4,NA,NA,77,NA,NA,17,NA,NA,NA,8,86,94
+Colorado,1995,3765242.5,2776512,2440586.5,NA,NA,28,NA,NA,19,NA,NA,46,6,87,93
+Colorado,1994,3668745.2,2706520.2,2377331.6,NA,NA,23,NA,NA,12,NA,NA,44,2,77,79
+Colorado,1993,3572247.9,2636528.4,2314076.7,NA,NA,50,NA,NA,7,NA,NA,17,7,67,74
+Colorado,1992,3475750.6,2566536.6,2250821.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,52
+Colorado,1991,3379253.3,2496544.8,2187566.9,NA,NA,37,NA,NA,4,NA,NA,41,NA,NA,82

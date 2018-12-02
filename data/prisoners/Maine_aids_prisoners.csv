@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Maine,2016,1331479,1074700,838495,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Maine,2015,1329328,1076844,842264,1,5,6,0,0,0,0,10,10,1,15,16
 Maine,2014,1330089,1070523,845718,1,5,6,0,0,0,0,10,10,1,15,16
@@ -16,12 +16,12 @@ Maine,2003,1270602,985646,820008,1,4,5,0,0,0,0,5,5,1,9,10
 Maine,2002,1259547,981538,818457,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Maine,2001,1251745,979193,815811,0,9,9,0,6,6,0,0,0,0,15,15
 Maine,2000,1225962,919688,754528,0,9,9,0,2,2,0,0,0,0,11,11
-Maine,1999,1226056,919453.7000000004,755839.8999999998,NA,NA,NA,NA,9,9,NA,NA,NA,NA,9,9
-Maine,1998,1226150,919219.4000000004,757151.7999999998,NA,NA,NA,NA,NA,11,NA,NA,NA,NA,NA,11
-Maine,1997,1226245,918985.1000000003,758463.6999999998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Maine,1996,1226339,918750.8000000003,759775.5999999999,NA,NA,4,NA,NA,0,NA,NA,0,0,4,4
-Maine,1995,1226433,918516.5000000002,761087.4999999999,NA,NA,0,NA,NA,4,NA,NA,0,0,4,4
-Maine,1994,1226527,918282.2000000002,762399.3999999999,NA,NA,6,NA,NA,2,NA,NA,NA,0,8,8
-Maine,1993,1226621,918047.9000000001,763711.2999999999,NA,NA,6,NA,NA,2,NA,NA,NA,0,8,8
-Maine,1992,1226716,917813.6000000001,765023.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21
-Maine,1991,1226810,917579.3,766335.1,NA,NA,1,NA,NA,0,NA,NA,0,NA,NA,1
+Maine,1999,1226056.2,919453.7,755839.9,NA,NA,NA,NA,9,9,NA,NA,NA,NA,9,9
+Maine,1998,1226150.4,919219.4,757151.8,NA,NA,NA,NA,NA,11,NA,NA,NA,NA,NA,11
+Maine,1997,1226244.6,918985.1,758463.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Maine,1996,1226338.8,918750.8,759775.6,NA,NA,4,NA,NA,0,NA,NA,0,0,4,4
+Maine,1995,1226433,918516.5,761087.5,NA,NA,0,NA,NA,4,NA,NA,0,0,4,4
+Maine,1994,1226527.2,918282.2,762399.4,NA,NA,6,NA,NA,2,NA,NA,NA,0,8,8
+Maine,1993,1226621.4,918047.9,763711.3,NA,NA,6,NA,NA,2,NA,NA,NA,0,8,8
+Maine,1992,1226715.6,917813.6,765023.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21
+Maine,1991,1226809.8,917579.3,766335.1,NA,NA,1,NA,NA,0,NA,NA,0,NA,NA,1

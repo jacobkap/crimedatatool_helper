@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Federal Prison Total,2016,323127515,249576134,203914570,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Federal Prison Total,2015,321418821,247876467,203658037,NA,NA,NA,NA,NA,NA,NA,NA,NA,75,1461,1536
 Federal Prison Total,2014,318857056,245365242,202656261,NA,NA,NA,NA,NA,NA,NA,NA,NA,81,1483,1564
@@ -16,12 +16,12 @@ Federal Prison Total,2003,283051379,210291625,178569728,65,764,829,37,589,626,3,
 Federal Prison Total,2002,280717370,208144701,176648656,64,721,785,31,513,544,7,52,59,116,1431,1547
 Federal Prison Total,2001,277075792,204943608,173760985,74,705,779,28,498,526,5,55,60,120,1400,1520
 Federal Prison Total,2000,273631565,201524907,170480774,62,591,653,28,438,466,6,70,76,109,1193,1302
-Federal Prison Total,1999,271079172,199841353.80000004,169008280.3,62,552,614,0,431,431,7,47,54,107,1049,1156
-Federal Prison Total,1998,268526778,198157800.60000002,167535786.6,NA,NA,689,NA,NA,377,NA,NA,NA,NA,NA,1066
-Federal Prison Total,1997,265974383,196474247.40000004,166063292.9,NA,NA,662,NA,NA,368,NA,NA,0,NA,NA,1030
-Federal Prison Total,1996,263421989,194790694.20000002,164590799.2,NA,NA,549,NA,NA,353,NA,NA,45,NA,NA,947
-Federal Prison Total,1995,260869594,193107141.00000003,163118305.5,NA,NA,118,NA,NA,134,NA,NA,570,NA,NA,822
-Federal Prison Total,1994,258317204,191423587.8,161645811.8,NA,NA,491,NA,NA,371,NA,NA,102,NA,NA,964
-Federal Prison Total,1993,255764811,189740034.60000002,160173318.1,NA,NA,478,NA,NA,375,NA,NA,106,NA,NA,959
-Federal Prison Total,1992,253212415,188056481.4,158700824.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,867
-Federal Prison Total,1991,250660020,186372928.20000002,157228330.7,NA,NA,422,NA,NA,117,NA,NA,91,NA,NA,630
+Federal Prison Total,1999,271079171.3,199841353.79999998,169008280.3,62,552,614,0,431,431,7,47,54,107,1049,1156
+Federal Prison Total,1998,268526777.6,198157800.6,167535786.6,NA,NA,689,NA,NA,377,NA,NA,NA,NA,NA,1066
+Federal Prison Total,1997,265974383.9,196474247.4,166063292.9,NA,NA,662,NA,NA,368,NA,NA,0,NA,NA,1030
+Federal Prison Total,1996,263421990.2,194790694.20000002,164590799.2,NA,NA,549,NA,NA,353,NA,NA,45,NA,NA,947
+Federal Prison Total,1995,260869596.5,193107141,163118305.5,NA,NA,118,NA,NA,134,NA,NA,570,NA,NA,822
+Federal Prison Total,1994,258317202.8,191423587.79999998,161645811.8,NA,NA,491,NA,NA,371,NA,NA,102,NA,NA,964
+Federal Prison Total,1993,255764809.1,189740034.6,160173318.1,NA,NA,478,NA,NA,375,NA,NA,106,NA,NA,959
+Federal Prison Total,1992,253212415.4,188056481.4,158700824.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,867
+Federal Prison Total,1991,250660021.7,186372928.20000002,157228330.7,NA,NA,422,NA,NA,117,NA,NA,91,NA,NA,630

@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Illinois,2016,12801539,9881135,8142022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Illinois,2015,12859995,9904659,8209729,53,562,615,7,64,71,0,0,0,60,626,686
 Illinois,2014,12880580,9899818,8250437,49,550,599,11,71,82,NA,NA,NA,60,621,681
@@ -16,12 +16,12 @@ Illinois,2003,12338235,9106372,7784845,37,339,376,9,67,76,17,82,99,63,488,551
 Illinois,2002,12307e3,9047270,7728908,22,300,322,8,141,149,20,79,99,50,520,570
 Illinois,2001,12174337,9052944,7757582,17,313,330,11,148,159,15,89,104,43,550,593
 Illinois,2000,12123016,8875143,7542703,46,489,535,3,81,84,0,0,0,49,570,619
-Illinois,1999,12050094,8833346.700000007,7500989.100000003,29,316,345,11,124,135,18,137,155,58,577,635
-Illinois,1998,11977172,8791550.400000006,7459275.200000003,44,386,430,16,214,230,2,32,34,62,632,694
-Illinois,1997,11904250,8749754.100000005,7417561.300000003,NA,NA,418,NA,NA,201,NA,NA,36,64,591,655
-Illinois,1996,11831328,8707957.800000004,7375847.400000002,NA,NA,394,NA,NA,198,NA,NA,42,51,583,634
-Illinois,1995,11758406,8666161.500000004,7334133.500000002,NA,NA,351,NA,NA,177,NA,NA,55,55,528,583
-Illinois,1994,11685484,8624365.200000003,7292419.6000000015,NA,NA,364,NA,NA,171,NA,NA,65,51,549,600
-Illinois,1993,11612562,8582568.900000002,7250705.700000001,NA,NA,384,NA,NA,154,NA,NA,53,53,538,591
-Illinois,1992,11539640,8540772.600000001,7208991.800000001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,403
+Illinois,1999,12050094,8833346.7,7500989.1,29,316,345,11,124,135,18,137,155,58,577,635
+Illinois,1998,11977172,8791550.4,7459275.2,44,386,430,16,214,230,2,32,34,62,632,694
+Illinois,1997,11904250,8749754.1,7417561.3,NA,NA,418,NA,NA,201,NA,NA,36,64,591,655
+Illinois,1996,11831328,8707957.8,7375847.4,NA,NA,394,NA,NA,198,NA,NA,42,51,583,634
+Illinois,1995,11758406,8666161.5,7334133.5,NA,NA,351,NA,NA,177,NA,NA,55,55,528,583
+Illinois,1994,11685484,8624365.2,7292419.6,NA,NA,364,NA,NA,171,NA,NA,65,51,549,600
+Illinois,1993,11612562,8582568.9,7250705.7,NA,NA,384,NA,NA,154,NA,NA,53,53,538,591
+Illinois,1992,11539640,8540772.6,7208991.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,403
 Illinois,1991,11466718,8498976.3,7167277.9,NA,NA,216,NA,NA,17,NA,NA,66,NA,NA,299

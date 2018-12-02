@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Alaska,2016,741894,553924,484883,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alaska,2015,738432,552184,487785,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alaska,2014,736732,551031,492709,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -16,12 +16,12 @@ Alaska,2003,629832,441735,405161,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Alaska,2002,624252,433463,398812,NA,NA,NA,0,1,1,2,13,15,2,14,16
 Alaska,2001,615531,424576,394247,NA,NA,NA,0,1,1,2,13,15,2,14,16
 Alaska,2000,609687,406721,373955,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Alaska,1999,603788,403894.6000000002,372421.1999999999,3,2,5,1,6,7,2,2,4,6,10,16
-Alaska,1998,597889,401068.2000000002,370887.3999999999,1,9,10,3,3,6,0,0,0,4,12,16
-Alaska,1997,591990,398241.80000000016,369353.5999999999,NA,NA,0,NA,NA,0,NA,NA,10,4,6,10
-Alaska,1996,586091,395415.40000000014,367819.79999999993,NA,NA,4,NA,NA,NA,NA,NA,6,2,8,10
-Alaska,1995,580191,392589.0000000001,366285.99999999994,NA,NA,0,NA,NA,5,NA,NA,0,0,5,5
-Alaska,1994,574292,389762.6000000001,364752.19999999995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Alaska,1993,568393,386936.20000000007,363218.39999999997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Alaska,1992,562494,384109.80000000005,361684.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-Alaska,1991,556595,381283.4,360150.8,NA,NA,7,NA,NA,2,NA,NA,0,NA,NA,9
+Alaska,1999,603787.9,403894.6,372421.2,3,2,5,1,6,7,2,2,4,6,10,16
+Alaska,1998,597888.8,401068.2,370887.4,1,9,10,3,3,6,0,0,0,4,12,16
+Alaska,1997,591989.7,398241.8,369353.6,NA,NA,0,NA,NA,0,NA,NA,10,4,6,10
+Alaska,1996,586090.6,395415.4,367819.8,NA,NA,4,NA,NA,NA,NA,NA,6,2,8,10
+Alaska,1995,580191.5,392589,366286,NA,NA,0,NA,NA,5,NA,NA,0,0,5,5
+Alaska,1994,574292.4,389762.6,364752.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,1993,568393.3,386936.2,363218.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alaska,1992,562494.2,384109.8,361684.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+Alaska,1991,556595.1,381283.4,360150.8,NA,NA,7,NA,NA,2,NA,NA,0,NA,NA,9

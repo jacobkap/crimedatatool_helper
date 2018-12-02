@@ -1,4 +1,4 @@
-state,year,population,population_adult,population_adult_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
+state,year,population,population_adult,population_aged_18_65,asymptomatic_hiv_positive_female,asymptomatic_hiv_positive_male,asymptomatic_hiv_positive_total,confirmed_to_have_aids_female,confirmed_to_have_aids_male,confirmed_to_have_aids_total,infected_with_lesser_forms_of_symptomatic_hiv_disease_female,infected_with_lesser_forms_of_symptomatic_hiv_disease_male,infected_with_lesser_forms_of_symptomatic_hiv_disease_total,total_in_custody_hiv_positive_or_with_aids_female,total_in_custody_hiv_positive_or_with_aids_male,total_in_custody_hiv_positive_or_with_aids_total
 Texas,2016,27862596,20575820,17479567,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Texas,2015,27469114,20266702,17290729,130,1212,1342,46,612,658,1,81,82,177,1905,2082
 Texas,2014,26956958,19848130,16995961,136,1211,1347,47,649,696,3,83,86,186,1943,2129
@@ -16,12 +16,12 @@ Texas,2003,21575409,15332952,13426631,190,1299,1489,50,728,778,15,178,193,255,22
 Texas,2002,21288789,15181549,13281594,226,1516,1742,34,525,559,7,220,227,267,2261,2528
 Texas,2001,20773439,14697368,12836797,150,1181,1331,61,798,859,8,190,198,219,2169,2388
 Texas,2000,20433842,14475893,12674756,192,1141,1333,65,857,922,15,222,237,272,2220,2492
-Texas,1999,20085596,14241263.600000003,12462444.5,185,1101,1286,79,915,994,18,222,240,282,2238,2520
-Texas,1998,19737350,14006634.200000003,12250133,181,1006,1187,68,873,941,21,244,265,270,2123,2393
-Texas,1997,19389104,13772004.800000003,12037821.5,NA,NA,1092,NA,NA,829,NA,NA,205,239,1887,2126
-Texas,1996,19040858,13537375.400000002,11825510,NA,NA,1128,NA,NA,499,NA,NA,249,231,1645,1876
-Texas,1995,18692612,13302746.000000002,11613198.5,NA,NA,1092,NA,NA,495,NA,NA,303,242,1648,1890
-Texas,1994,18344366,13068116.600000001,11400887,NA,NA,884,NA,NA,323,NA,NA,377,178,1406,1584
-Texas,1993,17996120,12833487.200000001,11188575.5,NA,NA,619,NA,NA,199,NA,NA,394,115,1097,1212
+Texas,1999,20085596,14241263.6,12462444.5,185,1101,1286,79,915,994,18,222,240,282,2238,2520
+Texas,1998,19737350,14006634.2,12250133,181,1006,1187,68,873,941,21,244,265,270,2123,2393
+Texas,1997,19389104,13772004.8,12037821.5,NA,NA,1092,NA,NA,829,NA,NA,205,239,1887,2126
+Texas,1996,19040858,13537375.4,11825510,NA,NA,1128,NA,NA,499,NA,NA,249,231,1645,1876
+Texas,1995,18692612,13302746,11613198.5,NA,NA,1092,NA,NA,495,NA,NA,303,242,1648,1890
+Texas,1994,18344366,13068116.6,11400887,NA,NA,884,NA,NA,323,NA,NA,377,178,1406,1584
+Texas,1993,17996120,12833487.2,11188575.5,NA,NA,619,NA,NA,199,NA,NA,394,115,1097,1212
 Texas,1992,17647874,12598857.8,10976264,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,846
 Texas,1991,17299628,12364228.4,10763952.5,NA,NA,251,NA,NA,57,NA,NA,307,NA,NA,615

@@ -450,7 +450,7 @@ for (selected_state in sort(unique(prisoners$state))) {
       pop_cols <- c(
         "population",
         "population_adult",
-        "population_adult_aged_18_65",
+        "population_aged_18_65",
         "population_american_indian",
         "population_asian",
         "population_black",
@@ -473,7 +473,7 @@ for (selected_state in sort(unique(prisoners$state))) {
     } else {
       pop_cols <- c("population",
                     "population_adult",
-                    "population_adult_aged_18_65")
+                    "population_aged_18_65")
     }
 
     temp <-
