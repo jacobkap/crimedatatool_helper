@@ -1,9 +1,11 @@
 source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/prisoners_utils.R')
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/census_data")
+source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/census_utils.R')
 census_1970_1980 <- clean_census("1970_1980")
 census_1990_2000 <- clean_census("1990_2000")
-census_2001_2008 <- clean_census("2001_2008")
-census_2009_2016 <- clean_census("2009_2016")
+census_2001_2004 <- clean_census("2001_2004")
+census_2005_2008 <- clean_census("2005_2008")
+census_2009_2012 <- clean_census("2009_2012")
+census_2013_2016 <- clean_census("2013_2016")
 
 
 z1970 <- census_1970_1980[census_1970_1980$year == 1970,]
@@ -20,8 +22,10 @@ all_census <-
   dplyr::bind_rows(z1990_2000) %>%
   dplyr::distinct(.keep_all = TRUE) %>%
   dplyr::filter(year %in% 1978:2000) %>%
-  dplyr::bind_rows(census_2001_2008) %>%
-  dplyr::bind_rows(census_2009_2016)
+  dplyr::bind_rows(census_2001_2004) %>%
+  dplyr::bind_rows(census_2005_2008) %>%
+  dplyr::bind_rows(census_2009_2012) %>%
+  dplyr::bind_rows(census_2013_2016)
 
 national_data <-
   all_census %>%

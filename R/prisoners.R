@@ -447,33 +447,9 @@ for (selected_state in sort(unique(prisoners$state))) {
     cols_to_keep <- prisoners_categories[[i]]
 
     if (names(prisoners_categories)[i] == "race_ethnicity") {
-      pop_cols <- c(
-        "population",
-        "population_adult",
-        "population_aged_18_65",
-        "population_american_indian",
-        "population_asian",
-        "population_black",
-        "population_hispanic",
-        "population_other_or_unknown",
-        "population_white",
-        "population_adult_american_indian",
-        "population_adult_asian",
-        "population_adult_black",
-        "population_adult_hispanic",
-        "population_adult_other_or_unknown",
-        "population_adult_white",
-        "population_aged_18_65_american_indian",
-        "population_aged_18_65_asian",
-        "population_aged_18_65_black",
-        "population_aged_18_65_hispanic",
-        "population_aged_18_65_other_or_unknown",
-        "population_aged_18_65_white"
-      )
+      pop_cols <- grep("population", names(prisoners), value = TRUE)
     } else {
-      pop_cols <- c("population",
-                    "population_adult",
-                    "population_aged_18_65")
+      pop_cols <- grep("male$|65$|adult$|population$", names(prisoners), value = TRUE)
     }
 
     temp <-
