@@ -449,7 +449,7 @@ for (selected_state in sort(unique(prisoners$state))) {
     if (names(prisoners_categories)[i] == "race_ethnicity") {
       pop_cols <- grep("population", names(prisoners), value = TRUE)
     } else {
-      pop_cols <- grep("male$|65$|adult$|population$", names(prisoners), value = TRUE)
+      pop_cols <- grep("population.*male$|65$|adult$|population$", names(prisoners), value = TRUE)
     }
 
     temp <-
