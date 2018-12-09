@@ -1,3 +1,9 @@
+setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/raw_data")
+load("prisoners_census.rda")
+prisoners_census <-
+  prisoners_census %>%
+  dplyr::select(-matches("indian|asian"))
+
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/census_data")
 library(dplyr)
 library(asciiSetupReader)
@@ -50,6 +56,7 @@ clean_and_agg_data <- function(file, type) {
                   offense = tolower(offense),
                   sex     = tolower(sex))
 
+  # Total everything
   total_total_total_counts <-
     data %>%
     dplyr::select(-sex,
@@ -58,9 +65,51 @@ clean_and_agg_data <- function(file, type) {
     dplyr::group_by(year,
                     state) %>%
     dplyr::count() %>%
-    rename_at(vars(starts_with("n")), funs(paste0(type, "_total")))
+    dplyr::rename(total_total_total = n)
 
-  total_total_counts <-
+  # Sex totals
+  total_total_sex_counts <-
+    data %>%
+    dplyr::select(-race,
+                  -offense) %>%
+    dplyr::group_by(year,
+                    state,
+                    sex) %>%
+    dplyr::count() %>%
+    spread(sex, n) %>%
+    dplyr::rename(total_total_female = female,
+                  total_total_male = male)
+
+  # Sex-Race totals
+  total_race_sex_counts <-
+    data %>%
+    dplyr::select(-offense) %>%
+    dplyr::group_by(year,
+                    state,
+                    race,
+                    sex) %>%
+    dplyr::count() %>%
+    unite(temp, race, sex) %>%
+    spread(temp, n) %>%
+    dplyr::rename_at(vars(matches("male|female|total")), funs(paste0("total_", .)))
+
+  # Race totals
+  total_total_race_counts <-
+    data %>%
+    dplyr::select(-sex,
+                  -offense) %>%
+    dplyr::group_by(year,
+                    state,
+                    race) %>%
+    dplyr::count() %>%
+    spread(race, n) %>%
+    dplyr::rename(total_black_total            = black,
+                  total_hispanic_total         = hispanic,
+                  total_other_or_unknown_total = other_or_unknown,
+                  total_white_total            = white)
+
+  # Crime totals
+  total_crime_counts <-
     data %>%
     dplyr::select(-sex,
                   -race) %>%
@@ -71,6 +120,7 @@ clean_and_agg_data <- function(file, type) {
     dplyr::count() %>%
     spread(offense, n)
 
+  # sex-crime total
   sex_total_counts <-
     data %>%
     dplyr::select(-race) %>%
@@ -83,6 +133,7 @@ clean_and_agg_data <- function(file, type) {
     unite(temp, offense, sex) %>%
     spread(temp, n)
 
+  # race-crime_total
   race_total_counts <-
     data %>%
     dplyr::select(-sex) %>%
@@ -108,7 +159,10 @@ clean_and_agg_data <- function(file, type) {
 
   data <-
     total_total_total_counts %>%
-    dplyr::left_join(total_total_counts) %>%
+    dplyr::left_join(total_total_sex_counts) %>%
+    dplyr::left_join(total_total_race_counts ) %>%
+    dplyr::left_join(total_race_sex_counts) %>%
+    dplyr::left_join(total_crime_counts) %>%
     dplyr::left_join(sex_total_counts) %>%
     dplyr::left_join(race_total_counts) %>%
     dplyr::left_join(race_sex_counts)
@@ -116,7 +170,7 @@ clean_and_agg_data <- function(file, type) {
   col_to_na <- function(col) {
     col <- rep(NA, length(col))
   }
-  # Adds in the states (and total national jurisdictions) that aren't included in the data
+#  Adds in the states (and total national jurisdictions) that aren't included in the data
   temp <- data[1:5, ]
   temp$state <- c( "Connecticut",
                    "Vermont",
@@ -129,23 +183,19 @@ clean_and_agg_data <- function(file, type) {
 
   data <- dplyr::bind_rows(data, temp)
 
+  ordered_names <- sort(names(data))
+  ordered_names <- ordered_names[!ordered_names %in% c("state", "year")]
+  ordered_names <- paste0(ordered_names, "_", type)
 
   data <-
     data %>%
     fastDummies::dummy_rows(select_columns = c("year", "state")) %>%
-    dplyr::rename_at(vars(matches("male|female|total")), funs(paste0(., "_", type)))
+    dplyr::rename_at(vars(matches("male|female|total")), funs(paste0(., "_", type))) %>%
+    dplyr::select(state,
+                  year,
+                  one_of(ordered_names)) %>%
+    dplyr::left_join(prisoners_census)
 
-  names(data) <- gsub("female_total", "total_female", names(data))
-  names(data) <- gsub("male_total", "total_male", names(data))
-
- #names(data) <- gsub("total_total",           "total",      names(data))
-  names(data) <- gsub("admissions_admissions", "admissions", names(data))
-  names(data) <- gsub("releases_releases",     "releases",   names(data))
-  names(data) <- gsub("prisoners_prisoners",   "prisoners",  names(data))
-
-  names(data) <- gsub("admissions_total_admissions", "total_admissions", names(data))
-  names(data) <- gsub("releases_total_releases",     "total_releases",   names(data))
-  names(data) <- gsub("prisoners_total_prisoners",   "total_prisoners",  names(data))
   gc(); Sys.sleep(10)
   return(data)
 }
