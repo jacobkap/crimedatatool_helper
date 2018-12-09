@@ -135,7 +135,10 @@ clean_and_agg_data <- function(file, type) {
     fastDummies::dummy_rows(select_columns = c("year", "state")) %>%
     dplyr::rename_at(vars(matches("male|female|total")), funs(paste0(., "_", type)))
 
-  names(data) <- gsub("total_total",           "total",      names(data))
+  names(data) <- gsub("female_total", "total_female", names(data))
+  names(data) <- gsub("male_total", "total_male", names(data))
+
+ #names(data) <- gsub("total_total",           "total",      names(data))
   names(data) <- gsub("admissions_admissions", "admissions", names(data))
   names(data) <- gsub("releases_releases",     "releases",   names(data))
   names(data) <- gsub("prisoners_prisoners",   "prisoners",  names(data))
