@@ -120,11 +120,11 @@ clean_and_agg_data <- function(file, type) {
     dplyr::count() %>%
     spread(offense, n)
 
-  # sex-crime total
+  # Sex-crime total
   sex_total_counts <-
     data %>%
     dplyr::select(-race) %>%
-    dplyr::mutate(sex = paste0(sex, "_total")) %>%
+    dplyr::mutate(sex = paste0("total_", sex)) %>%
     dplyr::group_by(year,
                     sex,
                     state,
@@ -133,7 +133,7 @@ clean_and_agg_data <- function(file, type) {
     unite(temp, offense, sex) %>%
     spread(temp, n)
 
-  # race-crime_total
+  # Race-crime total
   race_total_counts <-
     data %>%
     dplyr::select(-sex) %>%
