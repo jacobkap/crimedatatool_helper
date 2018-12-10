@@ -8,14 +8,16 @@ make_all_na <- function(col) {
   col <- NA
 }
 
-dummy_rows_missing_years <- function(data) {
+dummy_rows_missing_years <- function(data, type = "arrest") {
   missing_years <- min(data$year):max(data$year)
   missing_years <- missing_years[!missing_years %in% data$year]
 
   if (length(missing_years) > 0) {
 
     temp <- data
+    if (type == "arrest") {
     temp <- temp[temp$number_of_months_reported %in% 12,]
+    }
     temp <- temp[1, ]
     temp <- splitstackshape::expandRows(temp,
                                         count = length(missing_years),
