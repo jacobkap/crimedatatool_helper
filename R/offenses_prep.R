@@ -14,7 +14,7 @@ ucr <-
   dplyr::mutate(agency = tolower(agency)) %>%
   dplyr::rename(ORI    = ori) %>%
   dplyr::select(starting_cols,
-                dplyr::matches("act|clr|unfound"))
+                dplyr::matches("act|clr|unfound|officer"))
 
                 # dplyr::matches("all_crimes"),
                 #
