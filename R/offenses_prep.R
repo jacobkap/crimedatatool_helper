@@ -3,11 +3,11 @@ source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
 
 ucr <-
   offenses_known_yearly_1960_2017 %>%
-  dplyr::filter(number_of_months_reported %in% 12,
-                !state %in% c("guam",
-                              "canal zone",
-                              "puerto rico",
-                              "virgin islands")) %>%
+  dplyr::filter(number_of_months_reported %in% 12) %>%
+                # !state %in% c("guam",
+                #               "canal zone",
+                #               "puerto rico",
+                #               "virgin islands")) %>%
   dplyr::left_join(crosswalk_agencies) %>%
   dplyr::filter(agency != "NANA",
                 ori    != "FL01394") %>%
@@ -16,44 +16,7 @@ ucr <-
   dplyr::select(starting_cols,
                 dplyr::matches("act|clr|unfound|officer"))
 
-                # dplyr::matches("all_crimes"),
-                #
-                # dplyr::matches("aggravated_assault"),
-                # dplyr::matches("assault_total"),
-                # dplyr::matches("gun_assault"),
-                # dplyr::matches("knife_assault"),
-                # dplyr::matches("other_weapon_assault"),
-                # dplyr::matches("simple_assault"),
-                # dplyr::matches("hand_feet_assault"),
-                #
-                # dplyr::matches("burglary_total"),
-                # dplyr::matches("attempted_burglary"),
-                # dplyr::matches("burg_force_entry"),
-                # dplyr::matches("burg_no_force_entry"),
-                #
-                # dplyr::matches("mtr_vhc_theft_total"),
-                # dplyr::matches("manslaughter"),
-                # dplyr::matches("murder"),
-                #
-                # dplyr::matches("officers_assaulted"),
-                # dplyr::matches("officers_killed_by_accident"),
-                # dplyr::matches("officers_killed_by_felony"),
-                #
-                # dplyr::matches("rape_total"),
-                # dplyr::matches("attempted_rape"),
-                # dplyr::matches("force_rape"),
-                #
-                # dplyr::matches("robbery_total"),
-                # dplyr::matches("gun_robbery"),
-                # dplyr::matches("knife_robbery"),
-                # dplyr::matches("other_weapon_robbery"),
-                # dplyr::matches("strong_arm_robbery"),
-                #
-                # dplyr::matches("theft_total"),
-                # dplyr::matches("auto_theft"),
-                # dplyr::matches("other_vhc_theft"),
-                # dplyr::matches("truck_bus_theft"))
-rm(ucr_offenses_known_yearly_1960_2017); gc()
+rm(offenses_known_yearly_1960_2017); gc()
 
 z = ucr[!duplicated(ucr$ORI),]
 z$temp <- paste(z$agency, z$state)

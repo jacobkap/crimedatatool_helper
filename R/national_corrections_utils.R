@@ -2,7 +2,7 @@ setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/raw_data")
 load("prisoners_census.rda")
 prisoners_census <-
   prisoners_census %>%
-  dplyr::select(-matches("indian|asian"))
+  dplyr::select(-tidyselect::matches("indian|asian"))
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/census_data")
 library(dplyr)

@@ -5,10 +5,10 @@ library(dplyr)
 library(asciiSetupReader)
 
 load("prisoners_census.rda")
-prisoners <-
-  spss_ascii_reader("national_prisoner_statistics_1978_2016.txt",
-                    "national_prisoner_statistics_1978_2016.sps") %>%
-  dplyr::rename_all(tolower)
+# prisoners <-
+#   spss_ascii_reader("national_prisoner_statistics_1978_2016.txt",
+#                     "national_prisoner_statistics_1978_2016.sps") %>%
+#   dplyr::rename_all(tolower)
 
 
 prisoners <-
