@@ -79,6 +79,20 @@ simpleCap <- function(word) {
   split_word <- gsub(" Of ", " of ", split_word)
 }
 
+save_state_data <- function(data) {
+  for (selected_state in sort(unique(data$state))) {
+    temp <-
+      data %>%
+      dplyr::filter(state %in% selected_state)
+
+    save_state     <- unique(temp$state)
+    save_state     <- gsub(" ", "_", save_state)
+
+    readr::write_csv(temp,
+                     path = paste0(save_state, "_","alcohol.csv"))
+  }
+}
+
 make_numeric <- function(x) {
   x <- suppressWarnings(readr::parse_number(x))
   return(x)
