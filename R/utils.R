@@ -79,7 +79,7 @@ simpleCap <- function(word) {
   split_word <- gsub(" Of ", " of ", split_word)
 }
 
-save_state_data <- function(data) {
+save_state_data <- function(data, save_type) {
   for (selected_state in sort(unique(data$state))) {
     temp <-
       data %>%
@@ -89,7 +89,7 @@ save_state_data <- function(data) {
     save_state     <- gsub(" ", "_", save_state)
 
     readr::write_csv(temp,
-                     path = paste0(save_state, "_","alcohol.csv"))
+                     path = paste0(save_state, "_", save_type, ".csv"))
   }
 }
 

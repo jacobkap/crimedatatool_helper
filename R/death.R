@@ -1,6 +1,6 @@
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/raw_data")
-library(dplyr)
-library(tidyr)
+source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
+
 
 death_totals <- clean_cdc_data("Underlying Cause of Death_intent, 1999-2017.txt",
                                split_fixed_num = 12)
@@ -24,17 +24,7 @@ data <- data.table::dcast(setDT(data), year+state+population~cause_of_death,
                                         "age_adjusted_rate"))
 
 setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/death")
-for (selected_state in sort(unique(data$state))) {
-  temp <-
-    data %>%
-    dplyr::filter(state %in% selected_state)
-
-  save_state     <- unique(temp$state)
-  save_state     <- gsub(" ", "_", save_state)
-
-  readr::write_csv(temp,
-                   path = paste0(save_state, "_","death.csv"))
-}
+save_state_data(data, "death")
 
 clean_cdc_data <- function(file_name, split_fixed_num) {
   data <- readr::read_lines(file_name)
@@ -90,8 +80,9 @@ cause_of_death_fix <- c(
   "^Drug poisonings \\(overdose\\) Homicide \\(X85\\)$"          = "drugs_overdose_homicide",
   "^Drug poisonings \\(overdose\\) Suicide \\(X60-X64\\)$"       = "drugs_overdose_suicide",
   "^Drug poisonings \\(overdose\\) Undetermined \\(Y10-Y14\\)$"  = "drugs_overdose_undetermined",
-  "^Drug poisonings \\(overdose\\) Unintentional \\(X40-X44\\)$" = "drugs_overdose_unintentional"
+  "^Drug poisonings \\(overdose\\) Unintentional \\(X40-X44\\)$" = "drugs_overdose_unintentional",
+  "^Unintentional$" = "total_unintentional",
+  "^Suicide$"       = "total_suicide",
+  "^Homicide$"      = "total_homicide",
+  "^Undetermined$"  = "total_undetermined"
 )
-
-
-
