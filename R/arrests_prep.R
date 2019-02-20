@@ -86,6 +86,10 @@ arrests <-
 rm(ucr_arrests_yearly_all_crimes_totals_sex_1974_2016); gc()
 rm(ucr_arrests_yearly_all_crimes_totals_race_1974_2016); gc()
 
+tot_arrest_cols <- grep("tot_arrest", names(arrests), value = TRUE)
+tot_arrest_cols <- tot_arrest_cols[!grepl("total", tot_arrest_cols)]
+arrests$total_arrests <- rowSums(arrests[, tot_arrest_cols], na.rm = TRUE)
+
 arrests <-
   arrests %>%
   dplyr::select(agency,
