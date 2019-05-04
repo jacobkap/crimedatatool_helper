@@ -4,6 +4,48 @@ library(data.table)
 library(fastDummies)
 library(splitstackshape)
 
+
+make_state_agency_choices <- function(data) {
+  data <- data.table::as.data.table(data)
+  for (selected_state in unique(data$state)) {
+    temp   <- data[state %in% selected_state]
+    agency <- unique(temp$agency)
+    agency <- jsonlite::toJSON(agency, pretty = FALSE)
+    write(agency, paste0(selected_state, "_agency_choices.json"))
+  }
+}
+
+make_largest_agency_json <- function(data) {
+  largest_agency <- data %>%
+    dplyr::group_by(state) %>%
+    dplyr::top_n(1, population) %>%
+    dplyr::select(state, agency)
+  largest_agency <- jsonlite::toJSON(largest_agency, pretty = TRUE)
+  write(largest_agency, "largest_agency_choices.json")
+}
+
+make_agency_csvs <- function(data, type = "crime") {
+  data <- data.table::data.table(data)
+  pb <- txtProgressBar(min = 0, max = length(unique(data$ORI)), style = 3)
+  for (i in 1:length(unique(data$ORI))) {
+    selected_ori = unique(data$ORI)[i]
+    temp   <- data[ORI %in% selected_ori]
+    temp   <- dummy_rows_missing_years(temp, type = "crime")
+
+    state  <- unique(temp$state)
+    agency <- unique(temp$agency)
+    state  <- gsub(" ", "_", state)
+    agency <- gsub(" |:", "_", agency)
+    agency <- gsub("/", "_", agency)
+    agency <- gsub("_+", "_", agency)
+    readr::write_csv(temp,
+                     path = paste0(state, "_", agency, ".csv"))
+
+    setTxtProgressBar(pb, i)    # update progress bar
+  }
+  close(pb)
+}
+
 make_all_na <- function(col) {
   col <- NA
 }
