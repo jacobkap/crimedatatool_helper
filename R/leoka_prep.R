@@ -72,21 +72,5 @@ for (selected_ori in sort(unique(leoka$ORI))) {
   }
 }
 
-for (selected_state in unique(leoka$state)) {
-  temp   <- leoka[state %in% selected_state]
-  agency <- unique(temp$agency)
-  agency <- jsonlite::toJSON(agency, pretty = FALSE)
-  write(agency, paste0(selected_state, "_agency_choices.json"))
-
-}
-
-largest_agency <- leoka %>%
-  dplyr::group_by(state) %>%
-  dplyr::top_n(1, population) %>%
-  dplyr::select(state, agency)
-largest_agency <- jsonlite::toJSON(largest_agency, pretty = TRUE)
-write(largest_agency, "largest_agency_choices.json")
-
-rm(leoka); gc()
-
-
+make_state_agency_choices(leoka)
+make_largest_agency_json(leoka)
