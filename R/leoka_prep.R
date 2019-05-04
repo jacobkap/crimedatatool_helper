@@ -47,9 +47,9 @@ z = z[duplicated(z$temp),]
 leoka <- leoka[!leoka$ORI %in% z$ORI, ]
 leoka$agency      <- sapply(leoka$agency, simpleCap)
 leoka$state       <- sapply(leoka$state, simpleCap)
-leoka$state       <- gsub(" Of ", " of ", leoka$state)
 
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")
+
+setwd(here::here("data/leoka"))
 leoka <- data.table::data.table(leoka)
 for (selected_ori in sort(unique(leoka$ORI))) {
   temp   <- leoka[ORI %in% selected_ori]
@@ -72,7 +72,6 @@ for (selected_ori in sort(unique(leoka$ORI))) {
   }
 }
 
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")
 for (selected_state in unique(leoka$state)) {
   temp   <- leoka[state %in% selected_state]
   agency <- unique(temp$agency)
@@ -81,7 +80,6 @@ for (selected_state in unique(leoka$state)) {
 
 }
 
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/leoka")
 largest_agency <- leoka %>%
   dplyr::group_by(state) %>%
   dplyr::top_n(1, population) %>%

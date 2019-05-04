@@ -106,37 +106,8 @@ z = z[duplicated(z$temp),]
 arrests <- arrests[!arrests$ORI %in% z$ORI, ]
 arrests$agency <- sapply(arrests$agency, simpleCap)
 arrests$state  <- sapply(arrests$state, simpleCap)
-arrests$state  <- gsub(" Of ", " of ", arrests$state)
 
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_data/data/arrests")
-arrests <- data.table::data.table(arrests)
-for (selected_ori in sort(unique(arrests$ORI))) {
-  temp   <- arrests[ORI %in% selected_ori]
-  state  <- unique(temp$state)
-  agency <- unique(temp$agency)
-  state  <- gsub(" ", "_", state)
-  agency <- gsub(" |:", "_", agency)
-  agency <- gsub("/", "_", agency)
-  agency <- gsub("_+", "_", agency)
-
-  readr::write_csv(temp,
-                   path = paste0(state, "_", agency, ".csv"))
-}
-
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_data/data/arrests")
-for (selected_state in unique(arrests$state)) {
-  temp   <- arrests[state %in% selected_state]
-  agency <- unique(temp$agency)
-  agency <- jsonlite::toJSON(agency, pretty = FALSE)
-  write(agency, paste0(selected_state, "_agency_choices.json"))
-}
-
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_data/data/arrests")
-largest_agency <- arrests %>%
-  dplyr::group_by(state) %>%
-  dplyr::top_n(1, population) %>%
-  dplyr::select(state, agency)
-largest_agency <- jsonlite::toJSON(largest_agency, pretty = TRUE)
-write(largest_agency, "largest_agency_choices.json")
-rm(arrests); gc()
-
+setwd(here::here("data/arrests"))
+make_agency_csvs(arrests)
+make_state_agency_choices(arrests)
+make_largest_agency_json(arrests)

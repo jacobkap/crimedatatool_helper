@@ -32,7 +32,7 @@ nibrs <-
 nibrs$agency <- sapply(nibrs$agency, simpleCap)
 nibrs$state <- sapply(nibrs$state, simpleCap)
 
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/nibrs")
+setwd(here::here("data/nibrs"))
 make_agency_csvs(nibrs)
 make_state_agency_choices(nibrs)
 make_largest_agency_json(nibrs)
