@@ -85,7 +85,7 @@ na_non_12_month_rows <- function(data) {
 
   temp <-
     data %>%
-    dplyr::filter(!number_of_months_reported  %in% 12 & year >= 1972) %>%
+    dplyr::filter(!number_of_months_reported %in% 12 & year >= 1972) %>%
     dplyr::mutate_at(vars(-one_of("year",
                                   "agency",
                                   "state",
