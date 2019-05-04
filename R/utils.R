@@ -24,13 +24,13 @@ make_largest_agency_json <- function(data) {
   write(largest_agency, "largest_agency_choices.json")
 }
 
-make_agency_csvs <- function(data, type = "crime") {
+make_agency_csvs <- function(data) {
   data <- data.table::data.table(data)
   pb <- txtProgressBar(min = 0, max = length(unique(data$ORI)), style = 3)
   for (i in 1:length(unique(data$ORI))) {
     selected_ori = unique(data$ORI)[i]
     temp   <- data[ORI %in% selected_ori]
-    temp   <- dummy_rows_missing_years(temp, type = "crime")
+    temp   <- dummy_rows_missing_years(temp)
 
     state  <- unique(temp$state)
     agency <- unique(temp$agency)
@@ -50,16 +50,13 @@ make_all_na <- function(col) {
   col <- NA
 }
 
-dummy_rows_missing_years <- function(data, type = "arrest") {
+dummy_rows_missing_years <- function(data) {
   missing_years <- min(data$year):max(data$year)
   missing_years <- missing_years[!missing_years %in% data$year]
 
   if (length(missing_years) > 0) {
 
     temp <- data
-    if (type == "arrest") {
-    temp <- temp[temp$number_of_months_reported %in% 12,]
-    }
     temp <- temp[1, ]
     temp <- splitstackshape::expandRows(temp,
                                         count = length(missing_years),
