@@ -1,0 +1,20 @@
+agency,year,state,population,ORI,theft_from_motor_vehicle,simple_assault,aggravated_assault,burglary_breaking_and_entering,destruction_damage_vandalism_of_property,motor_vehicle_theft,theft_of_motor_vehicle_parts_accessories,drug_narcotic_violations,all_other_larceny,theft_from_coin_operated_machine_or_device,rape,theft_from_building,shoplifting,robbery,pocket_picking,purse_snatching,sodomy,drug_equipment_violations,murder_nonnegligent_manslaughter,intimidation,embezzlement,weapon_law_violations,counterfeiting_forgery,arson,credit_card_automatic_teller_machine_fraud,stolen_property_offenses,false_pretenses_swindle_confidence_game,kidnaping_abduction,fondling_child_molest,impersonation,assisting_or_promoting_prostitution,pornography_obscene_material,incest,prostitution,operating_promoting_assisting_gambling,extortion_blackmail,betting_wagering,gambling_equipment_violations,statutory_rape,negligent_manslaughter,sexual_assault_with_an_object,welfare_fraud,wire_fraud,bribery,justifiable_homicide,sports_tampering,purchasing_prostitution,human_trafficking_commercial_sex_acts,human_trafficking_involuntary_servitude,identity_theft,animal_cruelty,hacking_computer_invasion
+Sp: Delta County,2016,Michigan,0,MI2102100,6,78,9,25,28,6,1,171,22,0,11,6,2,1,0,0,5,0,0,15,4,8,2,0,4,1,6,2,14,3,0,3,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2015,Michigan,0,MI2102100,0,42,5,8,20,7,0,178,20,0,6,13,1,0,0,0,2,0,1,13,4,11,2,0,4,1,1,0,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2014,Michigan,0,MI2102100,2,27,8,12,12,4,0,147,31,0,2,10,0,0,0,0,0,0,0,7,5,8,1,1,6,0,8,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2013,Michigan,0,MI2102100,3,36,8,33,22,4,3,108,37,0,5,10,5,0,0,0,2,0,0,9,5,5,0,2,3,0,4,0,2,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2012,Michigan,0,MI2102100,4,35,4,30,17,2,0,75,18,0,8,7,1,0,0,0,2,0,0,4,0,1,0,1,3,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2011,Michigan,0,MI2102100,3,54,3,20,25,5,1,70,45,0,5,8,2,0,0,0,1,0,0,6,1,3,2,1,0,2,6,1,3,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2010,Michigan,0,MI2102100,4,38,3,35,35,5,1,126,39,0,8,7,1,0,0,0,1,0,0,2,3,8,0,1,0,1,8,1,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2009,Michigan,0,MI2102100,5,42,1,39,23,4,0,99,39,1,5,5,0,0,0,0,2,20,0,3,1,2,3,0,2,1,15,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2008,Michigan,0,MI2102100,5,33,8,37,27,0,3,93,41,0,5,4,0,0,0,0,1,41,0,3,2,9,1,4,3,0,14,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2007,Michigan,0,MI2102100,3,45,7,44,33,4,1,95,46,0,3,11,1,0,0,0,2,34,1,6,0,5,2,2,4,0,14,1,4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2006,Michigan,0,MI2102100,5,44,8,46,52,2,2,140,55,0,9,10,0,0,0,1,1,53,0,3,3,16,2,4,7,1,24,1,6,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2005,Michigan,0,MI2102100,23,47,5,67,44,7,3,95,51,0,11,12,0,0,0,0,2,45,0,5,3,8,4,1,6,0,26,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2004,Michigan,0,MI2102100,15,37,12,68,53,10,1,119,38,0,9,8,2,0,0,0,1,51,0,6,5,9,3,3,4,2,10,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2003,Michigan,0,MI2102100,7,66,10,29,60,18,0,131,51,0,10,12,2,0,0,0,3,59,0,3,3,10,4,3,5,1,15,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2002,Michigan,0,MI2102100,11,71,7,38,62,4,0,110,52,0,7,8,1,0,1,1,4,46,0,7,7,7,4,2,5,2,11,1,8,5,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2001,Michigan,0,MI2102100,9,55,3,33,47,6,0,116,52,0,4,17,1,1,5,0,2,46,0,5,3,7,2,2,5,1,9,1,9,2,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0
+Sp: Delta County,2000,Michigan,0,MI2102100,11,76,9,45,68,2,0,129,49,0,3,12,0,0,4,0,5,50,1,5,4,14,5,5,4,2,11,1,5,0,0,1,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0
+Sp: Delta County,1999,Michigan,0,MI2102100,7,83,11,36,95,6,3,72,41,0,10,20,1,0,10,0,6,21,0,3,2,9,6,8,3,2,8,2,7,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sp: Delta County,1998,Michigan,0,MI2102100,10,53,8,48,87,11,1,109,41,0,8,15,0,0,4,1,8,16,0,2,0,4,3,11,1,1,6,0,7,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

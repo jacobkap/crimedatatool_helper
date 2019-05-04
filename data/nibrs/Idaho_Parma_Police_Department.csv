@@ -1,0 +1,25 @@
+agency,year,state,population,ORI,theft_from_motor_vehicle,simple_assault,aggravated_assault,burglary_breaking_and_entering,destruction_damage_vandalism_of_property,motor_vehicle_theft,theft_of_motor_vehicle_parts_accessories,drug_narcotic_violations,all_other_larceny,theft_from_coin_operated_machine_or_device,rape,theft_from_building,shoplifting,robbery,pocket_picking,purse_snatching,sodomy,drug_equipment_violations,murder_nonnegligent_manslaughter,intimidation,embezzlement,weapon_law_violations,counterfeiting_forgery,arson,credit_card_automatic_teller_machine_fraud,stolen_property_offenses,false_pretenses_swindle_confidence_game,kidnaping_abduction,fondling_child_molest,impersonation,assisting_or_promoting_prostitution,pornography_obscene_material,incest,prostitution,operating_promoting_assisting_gambling,extortion_blackmail,betting_wagering,gambling_equipment_violations,statutory_rape,negligent_manslaughter,sexual_assault_with_an_object,welfare_fraud,wire_fraud,bribery,justifiable_homicide,sports_tampering,purchasing_prostitution,human_trafficking_commercial_sex_acts,human_trafficking_involuntary_servitude,identity_theft,animal_cruelty,hacking_computer_invasion
+Parma Police Department,2016,Idaho,2101,ID0140300,1,10,4,4,8,4,0,28,0,0,0,1,4,1,0,0,0,31,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2015,Idaho,2086,ID0140300,0,12,4,0,10,0,1,31,0,0,0,0,2,0,0,0,0,38,0,1,0,4,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2014,Idaho,2058,ID0140300,1,24,1,10,10,1,0,27,1,0,0,5,2,0,0,0,0,30,0,0,2,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2013,Idaho,2030,ID0140300,1,8,0,9,5,2,0,11,0,0,0,6,2,0,0,0,0,8,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2012,Idaho,2026,ID0140300,10,16,2,8,7,6,0,7,3,0,0,7,1,0,0,1,0,10,0,0,0,1,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2011,Idaho,2005,ID0140300,0,12,3,3,11,2,1,18,2,0,0,5,1,1,0,0,0,13,0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2010,Idaho,1884,ID0140300,0,6,2,3,9,0,3,16,0,0,1,6,2,0,0,0,0,19,0,0,0,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2009,Idaho,1881,ID0140300,3,27,1,13,15,2,1,11,0,0,0,13,1,0,0,1,0,14,0,2,0,1,0,0,0,2,1,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2008,Idaho,1838,ID0140300,7,18,4,3,31,0,1,9,4,0,0,12,3,0,0,1,0,14,0,1,0,2,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2007,Idaho,1842,ID0140300,3,21,4,7,62,4,5,9,3,0,0,8,6,2,0,1,1,6,0,3,0,1,2,0,2,0,1,0,2,1,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2006,Idaho,1846,ID0140300,15,23,4,9,36,5,0,13,22,0,0,0,2,2,0,0,0,17,0,0,0,3,3,0,0,1,0,0,9,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Parma Police Department,2005,Idaho,NA,ID0140300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Parma Police Department,2004,Idaho,1839,ID0140300,9,18,2,16,16,4,0,13,21,0,1,1,2,0,0,0,0,9,0,0,0,5,2,1,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2003,Idaho,1838,ID0140300,8,17,9,9,27,4,1,17,30,0,0,3,1,0,0,0,0,19,0,0,1,5,2,1,1,5,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2002,Idaho,1835,ID0140300,3,12,5,21,13,7,1,14,11,0,0,1,4,0,0,0,0,21,0,0,0,5,2,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2001,Idaho,1808,ID0140300,20,16,4,8,9,12,0,22,14,0,3,0,4,0,0,0,0,14,0,0,0,1,1,2,0,3,5,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,2000,Idaho,0,ID0140300,5,12,0,15,16,5,0,5,8,0,0,3,9,0,0,1,0,7,0,1,0,1,3,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,1999,Idaho,1756,ID0140300,16,5,6,12,29,10,0,7,6,0,0,0,8,1,0,0,0,3,0,1,0,2,2,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,1998,Idaho,1807,ID0140300,24,10,6,26,38,7,1,6,18,0,0,6,12,1,0,0,0,8,1,0,0,3,3,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,1997,Idaho,2129,ID0140300,42,14,2,18,28,9,0,11,18,0,1,5,8,1,0,0,0,11,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,1996,Idaho,2093,ID0140300,16,13,6,25,51,9,0,8,21,0,0,0,6,1,0,0,0,10,0,0,0,2,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,1995,Idaho,2048,ID0140300,36,20,8,29,71,4,1,3,26,0,0,1,22,0,0,0,0,7,0,0,1,10,2,5,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,1994,Idaho,1808,ID0140300,27,24,12,32,67,9,3,3,32,0,0,3,8,0,0,0,0,1,0,0,0,4,3,0,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parma Police Department,1993,Idaho,1754,ID0140300,24,16,13,23,50,7,1,3,29,3,0,6,10,0,0,0,0,2,0,2,0,2,2,2,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

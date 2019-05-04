@@ -1,0 +1,20 @@
+agency,year,state,population,ORI,theft_from_motor_vehicle,simple_assault,aggravated_assault,burglary_breaking_and_entering,destruction_damage_vandalism_of_property,motor_vehicle_theft,theft_of_motor_vehicle_parts_accessories,drug_narcotic_violations,all_other_larceny,theft_from_coin_operated_machine_or_device,rape,theft_from_building,shoplifting,robbery,pocket_picking,purse_snatching,sodomy,drug_equipment_violations,murder_nonnegligent_manslaughter,intimidation,embezzlement,weapon_law_violations,counterfeiting_forgery,arson,credit_card_automatic_teller_machine_fraud,stolen_property_offenses,false_pretenses_swindle_confidence_game,kidnaping_abduction,fondling_child_molest,impersonation,assisting_or_promoting_prostitution,pornography_obscene_material,incest,prostitution,operating_promoting_assisting_gambling,extortion_blackmail,betting_wagering,gambling_equipment_violations,statutory_rape,negligent_manslaughter,sexual_assault_with_an_object,welfare_fraud,wire_fraud,bribery,justifiable_homicide,sports_tampering,purchasing_prostitution,human_trafficking_commercial_sex_acts,human_trafficking_involuntary_servitude,identity_theft,animal_cruelty,hacking_computer_invasion
+Sp: Clare County,2016,Michigan,0,MI1801800,3,17,5,12,4,1,0,48,6,0,8,0,2,0,0,0,2,1,0,4,2,6,1,1,1,1,2,1,4,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Sp: Clare County,2015,Michigan,0,MI1801800,13,17,7,9,1,1,0,55,10,0,6,3,1,0,0,0,7,2,0,5,1,1,2,1,2,0,0,0,7,1,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2014,Michigan,0,MI1801800,1,18,5,22,6,1,1,67,10,0,6,5,2,2,0,0,3,0,0,4,2,1,3,0,2,0,4,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2013,Michigan,0,MI1801800,3,16,2,33,11,4,0,63,19,0,13,5,4,1,0,0,3,0,0,1,2,2,1,1,6,1,6,0,7,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2012,Michigan,0,MI1801800,4,30,3,21,13,3,0,68,15,0,7,5,2,0,0,0,7,0,0,6,4,2,0,0,2,2,6,0,8,6,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2011,Michigan,0,MI1801800,3,19,2,32,6,2,0,89,14,0,5,6,1,0,0,0,3,0,0,10,3,2,0,0,3,0,5,0,5,2,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2010,Michigan,0,MI1801800,5,25,5,33,26,4,2,78,35,0,9,10,5,0,0,0,1,0,0,19,2,7,1,0,3,0,7,1,3,3,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2009,Michigan,0,MI1801800,5,39,7,31,20,4,2,41,22,0,6,7,4,0,0,0,2,5,0,18,4,3,4,0,2,1,6,0,5,2,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2008,Michigan,0,MI1801800,3,31,3,44,21,7,0,58,34,0,7,2,6,1,0,0,4,12,0,9,2,3,4,0,1,0,10,0,10,3,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2007,Michigan,0,MI1801800,8,30,1,59,21,3,0,83,22,0,8,6,2,0,0,0,4,22,0,23,5,6,2,0,2,0,19,0,8,4,0,2,0,1,0,0,0,0,0,3,0,0,1,0,1,0,0,0,0,0,0,0
+Sp: Clare County,2006,Michigan,0,MI1801800,5,30,4,16,16,2,0,88,16,0,11,1,2,0,0,0,2,22,0,7,3,2,6,2,1,5,10,2,9,6,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2005,Michigan,0,MI1801800,3,21,8,10,8,2,0,35,10,0,16,2,1,1,0,0,7,15,0,2,3,2,6,0,0,1,8,2,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2004,Michigan,0,MI1801800,10,33,4,26,13,5,0,46,9,0,5,4,0,2,0,0,3,23,0,3,1,8,4,0,3,2,17,2,5,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0
+Sp: Clare County,2003,Michigan,0,MI1801800,7,38,15,46,38,9,2,43,30,0,9,6,2,1,1,0,5,15,0,8,3,14,5,1,5,2,8,2,3,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2002,Michigan,0,MI1801800,14,45,9,49,41,7,0,24,38,0,15,11,1,1,0,0,3,7,0,9,2,1,4,5,4,1,4,2,7,3,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sp: Clare County,2001,Michigan,0,MI1801800,9,37,5,43,22,2,2,23,22,0,4,10,0,0,0,0,2,9,0,6,9,5,0,4,3,1,2,2,5,0,0,1,0,0,0,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0
+Sp: Clare County,2000,Michigan,0,MI1801800,12,23,3,44,28,9,1,18,32,0,13,4,1,0,0,0,4,8,0,5,0,9,3,7,1,2,4,0,14,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Sp: Clare County,1999,Michigan,0,MI1801800,8,11,2,19,16,7,2,8,11,0,4,6,1,0,0,0,5,2,0,3,1,4,2,4,0,0,6,0,6,1,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+Sp: Clare County,1998,Michigan,0,MI1801800,8,23,8,30,14,3,0,23,20,0,7,9,2,0,0,0,5,4,0,3,5,4,1,0,1,2,4,0,6,0,0,0,0,1,0,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
