@@ -12,18 +12,18 @@ border <- sector_profile_2011_2017
 save_as_csv(border, "sector_profile")
 
 save_as_csv <- function(data, file_name) {
-border$sector <- gsub(" border", " border total", border$sector)
-border$sector <- sapply(border$sector, simpleCap)
-border$sector <- gsub(" ", "_", border$sector)
+  border$sector <- gsub(" border", " border total", border$sector)
+  border$sector <- sapply(border$sector, simpleCap)
+  border$sector <- gsub(" ", "_", border$sector)
 
-for (sector in unique(border$sector)) {
-  temp <- border[border$sector %in% sector, ]
-  temp <-
-    temp %>%
-    dplyr::arrange(fiscal_year)
-  readr::write_csv(temp,
-                   path = paste0(file_name, "_", sector, ".csv"))
+  for (sector in unique(border$sector)) {
+    temp <- border[border$sector %in% sector, ]
+    temp <-
+      temp %>%
+      dplyr::arrange(fiscal_year)
+    readr::write_csv(temp,
+                     path = paste0(file_name, "_", sector, ".csv"))
 
-}
+  }
 }
 
