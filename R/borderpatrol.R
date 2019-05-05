@@ -7,17 +7,21 @@ load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/southwest_border_a
 load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/southwest_border_deaths_1998_2018.rda")
 
 
-seizures <- apprehensions_seizures_stats_2011_2017
+seizures <- apprehensions_seizures_stats_2011_2017 %>%
+  dplyr::select(-aliens_special_interest_county)
 border <- sector_profile_2011_2017
 save_as_csv(border, "sector_profile")
+save_as_csv(seizures, "seizures")
+save_as_csv(southwest_border_apprehensions_1960_2018, "southwest_apprehensions")
+save_as_csv(southwest_border_deaths_1998_2018, "southwest_deaths")
 
 save_as_csv <- function(data, file_name) {
-  border$sector <- gsub(" border", " border total", border$sector)
-  border$sector <- sapply(border$sector, simpleCap)
-  border$sector <- gsub(" ", "_", border$sector)
+  data$sector <- gsub(" border", " border total", data$sector)
+  data$sector <- sapply(data$sector, simpleCap)
+  data$sector <- gsub(" ", "_", data$sector)
 
-  for (sector in unique(border$sector)) {
-    temp <- border[border$sector %in% sector, ]
+  for (sector in unique(data$sector)) {
+    temp <- data[data$sector %in% sector, ]
     temp <-
       temp %>%
       dplyr::arrange(fiscal_year)
