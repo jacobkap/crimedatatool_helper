@@ -13,6 +13,7 @@ nationwide <-
 family <-
   family_child_total_monthly_2000_2018 %>%
   dplyr::select(-month) %>%
+  dplyr::filter(fiscal_year > 2009) %>%
   dplyr::group_by(sector,
                   fiscal_year) %>%
   dplyr::summarize_all(sum) %>%
