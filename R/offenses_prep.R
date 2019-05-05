@@ -1,5 +1,5 @@
 load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/offenses_known/offenses_known_yearly_1960_2017.rda")
-source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
+source(here::here('R/utils.R'))
 
 ucr <-
   offenses_known_yearly_1960_2017 %>%
