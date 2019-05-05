@@ -13,12 +13,9 @@ nationwide <-
   dplyr::mutate(sector = "nationwide total")
 family <-
   family_child_total_monthly_2000_2018 %>%
+  dplyr::filter(fiscal_year > 2009,
+                month == "yearly total") %>%
   dplyr::select(-month) %>%
-  dplyr::filter(fiscal_year > 2009) %>%
-  dplyr::group_by(sector,
-                  fiscal_year) %>%
-  dplyr::summarize_all(sum) %>%
-  dplyr::ungroup() %>%
   dplyr::arrange(desc(fiscal_year))
 
 seizures <- apprehensions_seizures_stats_2011_2017 %>%
