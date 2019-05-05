@@ -7,6 +7,7 @@ load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/southwest_border_a
 load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/southwest_border_deaths_1998_2018.rda")
 load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/family_child_total_monthly_2000_2018.rda")
 load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/nationwide_total_apprehensions_1925_2018.rda")
+load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/border_patrol_staffing_1992_2018.rda")
 nationwide <-
   nationwide_total_apprehensions_1925_2018 %>%
   dplyr::mutate(sector = "nationwide total")
@@ -29,12 +30,12 @@ save_as_csv(southwest_border_apprehensions_1960_2018, "southwest_apprehensions")
 save_as_csv(southwest_border_deaths_1998_2018, "southwest_deaths")
 save_as_csv(family, "family")
 save_as_csv(nationwide, "nationwide")
+save_as_csv(border_patrol_staffing_1992_2018, "staffing")
 
 save_as_csv <- function(data, file_name) {
   data$sector <- gsub(" border", " border total", data$sector)
   data$sector <- gsub("_", " ", data$sector)
   data$sector <- sapply(data$sector, simpleCap)
-  data$sector <- gsub(" ", "_", data$sector)
 
   for (sector in unique(data$sector)) {
     temp <- data[data$sector %in% sector, ]
