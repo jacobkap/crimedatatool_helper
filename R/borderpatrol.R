@@ -36,6 +36,7 @@ save_as_csv <- function(data, file_name) {
   data$sector <- gsub(" border", " border total", data$sector)
   data$sector <- gsub("_", " ", data$sector)
   data$sector <- sapply(data$sector, simpleCap)
+  data$sector <- gsub(" ", "_", data$sector)
 
   for (sector in unique(data$sector)) {
     temp <- data[data$sector %in% sector, ]
