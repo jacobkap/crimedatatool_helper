@@ -5,7 +5,15 @@ load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/sector_profile_201
 load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/apprehensions_seizures_stats_2011_2017.rda")
 load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/southwest_border_apprehensions_1960_2018.rda")
 load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/southwest_border_deaths_1998_2018.rda")
-
+load("C:/Users/user/Dropbox/R_project/borderpatrol/data/clean/family_child_total_monthly_2000_2018.rda")
+family <-
+  family_child_total_monthly_2000_2018 %>%
+  dplyr::select(-month) %>%
+  dplyr::group_by(sector,
+                  fiscal_year) %>%
+  dplyr::summarize_all(sum) %>%
+  dplyr::ungroup() %>%
+  dplyr::arrange(desc(fiscal_year))
 
 seizures <- apprehensions_seizures_stats_2011_2017 %>%
   dplyr::select(-aliens_special_interest_county)
@@ -14,6 +22,7 @@ save_as_csv(border, "sector_profile")
 save_as_csv(seizures, "seizures")
 save_as_csv(southwest_border_apprehensions_1960_2018, "southwest_apprehensions")
 save_as_csv(southwest_border_deaths_1998_2018, "southwest_deaths")
+save_as_csv(family, "family")
 
 save_as_csv <- function(data, file_name) {
   data$sector <- gsub(" border", " border total", data$sector)
