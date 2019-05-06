@@ -37,11 +37,13 @@ save_as_csv <- function(data, file_name) {
 
   for (sector in unique(data$sector)) {
     temp <- data[data$sector %in% sector, ]
+    sector_name <- unique(temp$sector)
+    sector_name <- gsub(" ", "_", sector_name)
     temp <-
       temp %>%
       dplyr::arrange(fiscal_year)
     readr::write_csv(temp,
-                     path = paste0(file_name, "_", sector, ".csv"))
+                     path = paste0(file_name, "_", sector_name, ".csv"))
 
   }
 }
