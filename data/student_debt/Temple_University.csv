@@ -1,0 +1,622 @@
+cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
+2015_2016,003371,Temple University,Private,Accounting and Related Services.,Bachelor's Degree,337,26000,25269
+2015_2016,003371,Temple University,Private,Accounting and Related Services.,Master's Degree,16,NA,24947
+2015_2016,003371,Temple University,Private,Accounting and Related Services.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Accounting and Related Services.,Bachelor's Degree,372,26171,25346
+2016_2017,003371,Temple University,Private,Accounting and Related Services.,Master's Degree,40,20500,26084
+2016_2017,003371,Temple University,Private,Accounting and Related Services.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,29,27000,25325
+2016_2017,003371,Temple University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,30,27000,24602
+2015_2016,003371,Temple University,Private,American Sign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,American Sign Language.,Undergraduate Certificate or Diploma,NA,NA,24273
+2015_2016,003371,Temple University,Private,Anthropology.,Bachelor's Degree,75,26500,25670
+2015_2016,003371,Temple University,Private,Anthropology.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Anthropology.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Anthropology.,Bachelor's Degree,70,25606,26024
+2016_2017,003371,Temple University,Private,Anthropology.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Anthropology.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Applied Horticulture and Horticultural Business Services.,Associate's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,21703
+2016_2017,003371,Temple University,Private,Applied Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Architectural Sciences and Technology.,Bachelor's Degree,32,25750,24407
+2015_2016,003371,Temple University,Private,Architectural Sciences and Technology.,Master's Degree,10,NA,75453
+2016_2017,003371,Temple University,Private,Architectural Sciences and Technology.,Bachelor's Degree,68,26185,25548
+2016_2017,003371,Temple University,Private,Architectural Sciences and Technology.,Master's Degree,NA,NA,75072
+2015_2016,003371,Temple University,Private,Architecture.,Bachelor's Degree,NA,27000,23994
+2015_2016,003371,Temple University,Private,Architecture.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Area Studies.,Undergraduate Certificate or Diploma,11,NA,26081
+2015_2016,003371,Temple University,Private,Area Studies.,Bachelor's Degree,NA,NA,22861
+2016_2017,003371,Temple University,Private,Area Studies.,Undergraduate Certificate or Diploma,NA,NA,30136
+2016_2017,003371,Temple University,Private,Area Studies.,Bachelor's Degree,NA,23000,22234
+2015_2016,003371,Temple University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,37,25000,23309
+2015_2016,003371,Temple University,Private,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,51,26000,26573
+2016_2017,003371,Temple University,Private,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Bioethics/Medical Ethics.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Bioethics/Medical Ethics.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Bioethics/Medical Ethics.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Bioethics/Medical Ethics.,Master's Degree,16,NA,156057
+2015_2016,003371,Temple University,Private,"Biological and Biomedical Sciences, Other.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Biological and Biomedical Sciences, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Biology, General.",Bachelor's Degree,247,26000,25225
+2015_2016,003371,Temple University,Private,"Biology, General.",Master's Degree,14,NA,101380
+2015_2016,003371,Temple University,Private,"Biology, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Biology, General.",Bachelor's Degree,281,26000,24958
+2016_2017,003371,Temple University,Private,"Biology, General.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Biology, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Biomedical/Medical Engineering.,Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Biomedical/Medical Engineering.,Bachelor's Degree,28,25250,23519
+2016_2017,003371,Temple University,Private,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Biotechnology.,Master's Degree,12,NA,30283
+2016_2017,003371,Temple University,Private,Biotechnology.,Master's Degree,17,NA,30986
+2015_2016,003371,Temple University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Business Administration, Management and Operations.",Master's Degree,146,47866,58894
+2015_2016,003371,Temple University,Private,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Business Administration, Management and Operations.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Business Administration, Management and Operations.",Master's Degree,203,47118,63350
+2016_2017,003371,Temple University,Private,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Business Administration, Management and Operations.",First Professional Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Business Administration, Management and Operations.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Business/Commerce, General.",Bachelor's Degree,137,25500,26638
+2015_2016,003371,Temple University,Private,"Business/Commerce, General.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Business/Commerce, General.",Bachelor's Degree,156,26000,26464
+2016_2017,003371,Temple University,Private,"Business/Commerce, General.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Chemistry.,Bachelor's Degree,69,26000,26274
+2015_2016,003371,Temple University,Private,Chemistry.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Chemistry.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Chemistry.,Bachelor's Degree,66,25872,26328
+2016_2017,003371,Temple University,Private,Chemistry.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Chemistry.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"City/Urban, Community and Regional Planning.",Bachelor's Degree,12,NA,26505
+2015_2016,003371,Temple University,Private,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"City/Urban, Community and Regional Planning.",Master's Degree,17,NA,31829
+2016_2017,003371,Temple University,Private,"City/Urban, Community and Regional Planning.",Bachelor's Degree,16,NA,25686
+2016_2017,003371,Temple University,Private,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"City/Urban, Community and Regional Planning.",Master's Degree,13,NA,33008
+2015_2016,003371,Temple University,Private,Civil Engineering Technologies/Technicians.,Bachelor's Degree,38,28140,30606
+2016_2017,003371,Temple University,Private,Civil Engineering Technologies/Technicians.,Bachelor's Degree,NA,28250,29240
+2015_2016,003371,Temple University,Private,Civil Engineering.,Bachelor's Degree,103,27000,26351
+2015_2016,003371,Temple University,Private,Civil Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Civil Engineering.,Bachelor's Degree,112,27000,26996
+2016_2017,003371,Temple University,Private,Civil Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,26220
+2015_2016,003371,Temple University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,45,51250,53734
+2015_2016,003371,Temple University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,22,75375,70220
+2016_2017,003371,Temple University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,52,48694,50230
+2016_2017,003371,Temple University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,18,NA,76359
+2016_2017,003371,Temple University,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Communication and Media Studies.,Bachelor's Degree,108,22416,22465
+2015_2016,003371,Temple University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Communication and Media Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Communication and Media Studies.,Bachelor's Degree,128,22100,22165
+2016_2017,003371,Temple University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Communication and Media Studies.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,144,25994,23757
+2015_2016,003371,Temple University,Private,Communication Disorders Sciences and Services.,Master's Degree,27,56000,65917
+2015_2016,003371,Temple University,Private,Communication Disorders Sciences and Services.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,139,25989,23487
+2016_2017,003371,Temple University,Private,Communication Disorders Sciences and Services.,Master's Degree,42,53263,60853
+2016_2017,003371,Temple University,Private,Communication Disorders Sciences and Services.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Computational Science.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,267,26000,24558
+2015_2016,003371,Temple University,Private,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,315,26000,25170
+2016_2017,003371,Temple University,Private,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Computer/Information Technology Administration and Management.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Computer/Information Technology Administration and Management.,Master's Degree,15,NA,34394
+2016_2017,003371,Temple University,Private,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Computer/Information Technology Administration and Management.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Computer/Information Technology Administration and Management.,Master's Degree,13,NA,32735
+2015_2016,003371,Temple University,Private,Criminal Justice and Corrections.,Bachelor's Degree,383,24500,23903
+2015_2016,003371,Temple University,Private,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Criminal Justice and Corrections.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Criminal Justice and Corrections.,Bachelor's Degree,350,24092,23732
+2016_2017,003371,Temple University,Private,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Criminal Justice and Corrections.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Dance.,Bachelor's Degree,22,27000,27016
+2015_2016,003371,Temple University,Private,Dance.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Dance.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Dance.,Bachelor's Degree,19,NA,27162
+2016_2017,003371,Temple University,Private,Dance.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Dance.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Dentistry.,First Professional Degree,213,277567,246332
+2016_2017,003371,Temple University,Private,Dentistry.,First Professional Degree,213,286484,259293
+2015_2016,003371,Temple University,Private,Design and Applied Arts.,Bachelor's Degree,59,27000,25719
+2015_2016,003371,Temple University,Private,Design and Applied Arts.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Design and Applied Arts.,Bachelor's Degree,69,27000,24803
+2016_2017,003371,Temple University,Private,Design and Applied Arts.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Dispute Resolution.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Dispute Resolution.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,84,26888,25854
+2015_2016,003371,Temple University,Private,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,92,26456,24264
+2016_2017,003371,Temple University,Private,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"East Asian Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,27959
+2015_2016,003371,Temple University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"East Asian Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,24103
+2016_2017,003371,Temple University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Economics.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Economics.,Bachelor's Degree,111,26500,24230
+2015_2016,003371,Temple University,Private,Economics.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Economics.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Economics.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Economics.,Bachelor's Degree,114,26000,24606
+2016_2017,003371,Temple University,Private,Economics.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Economics.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Education, General.",Master's Degree,31,32206,32800
+2015_2016,003371,Temple University,Private,"Education, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Education, General.",Master's Degree,36,29614,30292
+2016_2017,003371,Temple University,Private,"Education, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Educational Administration and Supervision.,Master's Degree,31,29089,30633
+2015_2016,003371,Temple University,Private,Educational Administration and Supervision.,Doctoral Degree,11,NA,53236
+2016_2017,003371,Temple University,Private,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Educational Administration and Supervision.,Master's Degree,42,27945,28455
+2016_2017,003371,Temple University,Private,Educational Administration and Supervision.,Doctoral Degree,16,NA,43038
+2016_2017,003371,Temple University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Educational/Instructional Media Design.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Educational/Instructional Media Design.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,58,27036,27374
+2015_2016,003371,Temple University,Private,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,62,27000,25071
+2016_2017,003371,Temple University,Private,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Engineering-Related Fields.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Engineering-Related Fields.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Engineering-Related Fields.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Engineering-Related Fields.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Engineering Technology, General.",Bachelor's Degree,30,25000,26100
+2016_2017,003371,Temple University,Private,"Engineering Technology, General.",Bachelor's Degree,32,25000,27179
+2015_2016,003371,Temple University,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Engineering, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Engineering, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,25513,24702
+2015_2016,003371,Temple University,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"English Language and Literature, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"English Language and Literature, General.",Bachelor's Degree,204,26000,24560
+2016_2017,003371,Temple University,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"English Language and Literature, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,63,26000,25843
+2015_2016,003371,Temple University,Private,Entrepreneurial and Small Business Operations.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Entrepreneurial and Small Business Operations.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,21713
+2016_2017,003371,Temple University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,63,24000,23342
+2016_2017,003371,Temple University,Private,Entrepreneurial and Small Business Operations.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Entrepreneurial and Small Business Operations.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Environmental Control Technologies/Technicians.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Environmental Control Technologies/Technicians.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Environmental/Environmental Health Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Environmental/Environmental Health Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Environmental/Environmental Health Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Environmental/Environmental Health Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,34,28321,30395
+2015_2016,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,28,27000,30765
+2016_2017,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,241,24200,23277
+2015_2016,003371,Temple University,Private,Film/Video and Photographic Arts.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Film/Video and Photographic Arts.,Master's Degree,13,NA,40304
+2015_2016,003371,Temple University,Private,Film/Video and Photographic Arts.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,207,23000,22037
+2016_2017,003371,Temple University,Private,Film/Video and Photographic Arts.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Film/Video and Photographic Arts.,Master's Degree,16,NA,48128
+2016_2017,003371,Temple University,Private,Film/Video and Photographic Arts.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Finance and Financial Management Services.,Bachelor's Degree,362,26000,24600
+2015_2016,003371,Temple University,Private,Finance and Financial Management Services.,Master's Degree,20,38067,38496
+2015_2016,003371,Temple University,Private,Finance and Financial Management Services.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Finance and Financial Management Services.,Bachelor's Degree,358,25000,23725
+2016_2017,003371,Temple University,Private,Finance and Financial Management Services.,Master's Degree,31,38736,39101
+2016_2017,003371,Temple University,Private,Finance and Financial Management Services.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Fine and Studio Arts.,Bachelor's Degree,158,27000,24813
+2015_2016,003371,Temple University,Private,Fine and Studio Arts.,Master's Degree,32,40890,38921
+2015_2016,003371,Temple University,Private,Fine and Studio Arts.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Fine and Studio Arts.,Bachelor's Degree,159,26316,24740
+2016_2017,003371,Temple University,Private,Fine and Studio Arts.,Master's Degree,29,41000,44070
+2016_2017,003371,Temple University,Private,Fine and Studio Arts.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Genetics.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Geography and Cartography.,Undergraduate Certificate or Diploma,15,NA,22257
+2015_2016,003371,Temple University,Private,Geography and Cartography.,Bachelor's Degree,36,25125,24564
+2015_2016,003371,Temple University,Private,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Geography and Cartography.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Geography and Cartography.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Geography and Cartography.,Undergraduate Certificate or Diploma,41,21500,20949
+2016_2017,003371,Temple University,Private,Geography and Cartography.,Bachelor's Degree,41,21243,20977
+2016_2017,003371,Temple University,Private,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Geography and Cartography.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Geography and Cartography.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,20,27000,26047
+2015_2016,003371,Temple University,Private,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,23,25562,24828
+2016_2017,003371,Temple University,Private,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Germanic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,24347
+2016_2017,003371,Temple University,Private,"Germanic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,24983
+2015_2016,003371,Temple University,Private,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Health and Medical Administrative Services.,Master's Degree,22,21925,29426
+2015_2016,003371,Temple University,Private,Health and Medical Administrative Services.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Health and Medical Administrative Services.,Master's Degree,17,NA,26364
+2016_2017,003371,Temple University,Private,Health and Medical Administrative Services.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,605,26899,25402
+2015_2016,003371,Temple University,Private,Health and Physical Education/Fitness.,Master's Degree,35,31500,30611
+2015_2016,003371,Temple University,Private,Health and Physical Education/Fitness.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,628,26000,24640
+2016_2017,003371,Temple University,Private,Health and Physical Education/Fitness.,Master's Degree,39,31628,33678
+2016_2017,003371,Temple University,Private,Health and Physical Education/Fitness.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,26651
+2016_2017,003371,Temple University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,26026,26979
+2016_2017,003371,Temple University,Private,Historic Preservation and Conservation.,Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,History.,Bachelor's Degree,NA,25363,24585
+2015_2016,003371,Temple University,Private,History.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,History.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,History.,Bachelor's Degree,NA,24250,23843
+2016_2017,003371,Temple University,Private,History.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,History.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Homeland Security.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Homeland Security.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Hospitality Administration/Management.,Bachelor's Degree,129,27000,25651
+2015_2016,003371,Temple University,Private,Hospitality Administration/Management.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Hospitality Administration/Management.,Bachelor's Degree,127,25755,24953
+2016_2017,003371,Temple University,Private,Hospitality Administration/Management.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,25146
+2016_2017,003371,Temple University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,43,28478,27125
+2015_2016,003371,Temple University,Private,Human Resources Management and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Human Resources Management and Services.,Bachelor's Degree,122,26375,26497
+2015_2016,003371,Temple University,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Human Resources Management and Services.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Human Resources Management and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Human Resources Management and Services.,Bachelor's Degree,132,26381,26448
+2016_2017,003371,Temple University,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Human Resources Management and Services.,Master's Degree,19,NA,40683
+2016_2017,003371,Temple University,Private,Human Resources Management and Services.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Insurance.,Bachelor's Degree,191,26000,24457
+2015_2016,003371,Temple University,Private,Insurance.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Insurance.,Bachelor's Degree,219,26000,24259
+2016_2017,003371,Temple University,Private,Insurance.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Intercultural/Multicultural and Diversity Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Intercultural/Multicultural and Diversity Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,International Business.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,International Business.,Bachelor's Degree,116,26125,25335
+2015_2016,003371,Temple University,Private,International Business.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,International Business.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,International Business.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,International Business.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,International Business.,Bachelor's Degree,127,27000,25523
+2016_2017,003371,Temple University,Private,International Business.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,International Business.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,International Business.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,29065
+2015_2016,003371,Temple University,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Journalism.,Bachelor's Degree,220,26000,24782
+2015_2016,003371,Temple University,Private,Journalism.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Journalism.,Bachelor's Degree,214,25000,23111
+2016_2017,003371,Temple University,Private,Journalism.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Landscape Architecture.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Landscape Architecture.,Bachelor's Degree,21,27000,27667
+2015_2016,003371,Temple University,Private,Landscape Architecture.,Master's Degree,11,NA,66292
+2016_2017,003371,Temple University,Private,Landscape Architecture.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Landscape Architecture.,Bachelor's Degree,13,NA,23165
+2016_2017,003371,Temple University,Private,Landscape Architecture.,Master's Degree,10,NA,80708
+2015_2016,003371,Temple University,Private,Law.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Law.,First Professional Degree,350,81619,85780
+2016_2017,003371,Temple University,Private,Law.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Law.,First Professional Degree,308,69583,78731
+2015_2016,003371,Temple University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,72,27000,27730
+2016_2017,003371,Temple University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,73,27000,27366
+2015_2016,003371,Temple University,Private,Legal Research and Advanced Professional Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,40,41904,53529
+2016_2017,003371,Temple University,Private,Legal Research and Advanced Professional Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,22,34500,46331
+2015_2016,003371,Temple University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,17,NA,23652
+2015_2016,003371,Temple University,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,20,22604,22532
+2016_2017,003371,Temple University,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Management Information Systems and Services.,Bachelor's Degree,69,26000,27622
+2016_2017,003371,Temple University,Private,Management Information Systems and Services.,Bachelor's Degree,67,25500,25694
+2015_2016,003371,Temple University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,65,24500,22389
+2015_2016,003371,Temple University,Private,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Management Sciences and Quantitative Methods.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,72,26124,23285
+2016_2017,003371,Temple University,Private,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Management Sciences and Quantitative Methods.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Marketing.,Bachelor's Degree,327,25000,23957
+2015_2016,003371,Temple University,Private,Marketing.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Marketing.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Marketing.,Bachelor's Degree,378,24000,23045
+2016_2017,003371,Temple University,Private,Marketing.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Marketing.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Mathematics and Computer Science.,Bachelor's Degree,10,NA,25353
+2015_2016,003371,Temple University,Private,Mathematics.,Bachelor's Degree,NA,25531,26105
+2015_2016,003371,Temple University,Private,Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Mathematics.,Bachelor's Degree,NA,26875,25407
+2016_2017,003371,Temple University,Private,Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Mathematics.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Mechanical Engineering.,Bachelor's Degree,155,26751,25233
+2015_2016,003371,Temple University,Private,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Mechanical Engineering.,Bachelor's Degree,153,25000,24103
+2016_2017,003371,Temple University,Private,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Medical Illustration and Informatics.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Medical Illustration and Informatics.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Medicine.,First Professional Degree,303,237556,215678
+2016_2017,003371,Temple University,Private,Medicine.,First Professional Degree,289,209037,206661
+2015_2016,003371,Temple University,Private,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Music.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Music.,Bachelor's Degree,38,26929,25754
+2015_2016,003371,Temple University,Private,Music.,Master's Degree,37,41000,38739
+2015_2016,003371,Temple University,Private,Music.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Music.,First Professional Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Music.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Music.,Bachelor's Degree,41,26697,24836
+2016_2017,003371,Temple University,Private,Music.,Master's Degree,32,32846,31612
+2016_2017,003371,Temple University,Private,Music.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Music.,First Professional Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Music.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,63,24251,22639
+2016_2017,003371,Temple University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,73,24250,22609
+2015_2016,003371,Temple University,Private,Natural Resources Management and Policy.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Natural Resources Management and Policy.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Natural Resources Management and Policy.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Natural Resources Management and Policy.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Natural Sciences.,Bachelor's Degree,26,31000,29572
+2016_2017,003371,Temple University,Private,Natural Sciences.,Bachelor's Degree,27,30005,30111
+2015_2016,003371,Temple University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,105,25000,23351
+2015_2016,003371,Temple University,Private,Neurobiology and Neurosciences.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,105,25000,24049
+2016_2017,003371,Temple University,Private,Neurobiology and Neurosciences.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Non-Professional General Legal Studies (Undergraduate).,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Non-Professional General Legal Studies (Undergraduate).,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Parks, Recreation and Leisure Facilities Management.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Parks, Recreation and Leisure Facilities Management.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Parks, Recreation and Leisure Studies.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Parks, Recreation and Leisure Studies.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Parks, Recreation and Leisure Studies.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Parks, Recreation and Leisure Studies.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,24,59501,89947
+2015_2016,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,249,136167,144153
+2015_2016,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,37,41000,89691
+2016_2017,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,249,136167,143468
+2016_2017,003371,Temple University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Philosophy.,Bachelor's Degree,29,26500,24870
+2015_2016,003371,Temple University,Private,Philosophy.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Philosophy.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Philosophy.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Philosophy.,Bachelor's Degree,24,25725,24727
+2016_2017,003371,Temple University,Private,Philosophy.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Philosophy.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Physical Sciences, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Physical Sciences, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Physics.,Bachelor's Degree,16,NA,26706
+2015_2016,003371,Temple University,Private,Physics.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Physics.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Physics.,Bachelor's Degree,13,NA,27034
+2016_2017,003371,Temple University,Private,Physics.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Physics.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Physiology, Pathology and Related Sciences.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Physiology, Pathology and Related Sciences.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Plant Sciences.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Plant Sciences.,Associate's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Plant Sciences.,Bachelor's Degree,11,NA,23543
+2016_2017,003371,Temple University,Private,Plant Sciences.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Plant Sciences.,Associate's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Plant Sciences.,Bachelor's Degree,18,NA,25010
+2015_2016,003371,Temple University,Private,Podiatric Medicine/Podiatry.,First Professional Degree,151,196464,196412
+2015_2016,003371,Temple University,Private,Podiatric Medicine/Podiatry.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Podiatric Medicine/Podiatry.,First Professional Degree,139,204367,200375
+2016_2017,003371,Temple University,Private,Podiatric Medicine/Podiatry.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Political Science and Government.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Political Science and Government.,Bachelor's Degree,167,25187,24645
+2015_2016,003371,Temple University,Private,Political Science and Government.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Political Science and Government.,Undergraduate Certificate or Diploma,13,NA,21952
+2016_2017,003371,Temple University,Private,Political Science and Government.,Bachelor's Degree,174,23375,22913
+2016_2017,003371,Temple University,Private,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Psychology, General.",Bachelor's Degree,526,23840,23265
+2015_2016,003371,Temple University,Private,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Psychology, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Psychology, General.",Bachelor's Degree,593,23250,22509
+2016_2017,003371,Temple University,Private,"Psychology, General.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Psychology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Public Health.,Bachelor's Degree,106,28000,29523
+2015_2016,003371,Temple University,Private,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Public Health.,Master's Degree,20,33762,58766
+2015_2016,003371,Temple University,Private,Public Health.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Public Health.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Public Health.,Bachelor's Degree,169,27000,27892
+2016_2017,003371,Temple University,Private,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Public Health.,Master's Degree,27,46800,62638
+2016_2017,003371,Temple University,Private,Public Health.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Public Health.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,507,25772,24304
+2015_2016,003371,Temple University,Private,"Public Relations, Advertising, and Applied Communication.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,511,26000,24781
+2016_2017,003371,Temple University,Private,"Public Relations, Advertising, and Applied Communication.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Public Relations, Advertising, and Applied Communication.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,374,25000,23521
+2015_2016,003371,Temple University,Private,"Radio, Television, and Digital Communication.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,380,24637,23260
+2016_2017,003371,Temple University,Private,"Radio, Television, and Digital Communication.",Master's Degree,17,NA,37726
+2015_2016,003371,Temple University,Private,Real Estate.,Bachelor's Degree,NA,NA,24369
+2016_2017,003371,Temple University,Private,Real Estate.,Bachelor's Degree,NA,NA,25553
+2015_2016,003371,Temple University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,104,27000,23917
+2015_2016,003371,Temple University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,39889
+2015_2016,003371,Temple University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,94,27000,24915
+2016_2017,003371,Temple University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,36389
+2016_2017,003371,Temple University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,95,27000,26714
+2015_2016,003371,Temple University,Private,Rehabilitation and Therapeutic Professions.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,43,73000,65488
+2015_2016,003371,Temple University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,129364,125353
+2015_2016,003371,Temple University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,109,27000,26792
+2016_2017,003371,Temple University,Private,Rehabilitation and Therapeutic Professions.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,43,78428,74589
+2016_2017,003371,Temple University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,134402,129119
+2016_2017,003371,Temple University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Religion/Religious Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,29883
+2015_2016,003371,Temple University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Religion/Religious Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Religion/Religious Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,30748
+2016_2017,003371,Temple University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Religion/Religious Studies.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,23,26516,28001
+2015_2016,003371,Temple University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,29,25625,25434
+2016_2017,003371,Temple University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,42,26250,25211
+2015_2016,003371,Temple University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,24840,23163
+2015_2016,003371,Temple University,Private,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Romance Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,46,24374,22814
+2016_2017,003371,Temple University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,24250,23146
+2016_2017,003371,Temple University,Private,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Romance Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Social Work.,Bachelor's Degree,154,26000,25671
+2015_2016,003371,Temple University,Private,Social Work.,Master's Degree,310,47336,48905
+2016_2017,003371,Temple University,Private,Social Work.,Bachelor's Degree,148,26253,26573
+2016_2017,003371,Temple University,Private,Social Work.,Master's Degree,334,50664,51075
+2015_2016,003371,Temple University,Private,Sociology.,Bachelor's Degree,64,23854,22098
+2015_2016,003371,Temple University,Private,Sociology.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Sociology.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Sociology.,Bachelor's Degree,38,22696,23188
+2016_2017,003371,Temple University,Private,Sociology.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Sociology.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Special Education and Teaching.,Master's Degree,24,20500,23285
+2016_2017,003371,Temple University,Private,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Special Education and Teaching.,Master's Degree,16,NA,18968
+2015_2016,003371,Temple University,Private,Statistics.,Master's Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Statistics.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Statistics.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Statistics.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,Sustainability Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Sustainability Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,295,27000,27038
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,47,27250,28523
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,41936,44331
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,256,27000,26737
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,47,25250,28803
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,41000,42108
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,199,27000,25911
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,16,NA,55360
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,161,26250,25563
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,11,NA,51820
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003371,Temple University,Private,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Teaching English or French as a Second or Foreign Language.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003371,Temple University,Private,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003371,Temple University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Teaching English or French as a Second or Foreign Language.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003371,Temple University,Private,Urban Studies/Affairs.,Doctoral Degree,NA,NA,NA
+2016_2017,003371,Temple University,Private,Urban Studies/Affairs.,Doctoral Degree,NA,NA,NA
+2015_2016,003371,Temple University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,29,27000,24874
+2016_2017,003371,Temple University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,34,26835,24967

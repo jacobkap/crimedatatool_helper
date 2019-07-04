@@ -1,0 +1,505 @@
+cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
+2015_2016,003051,Kent State University,Public,Accounting and Related Services.,Associate's Degree,13,NA,24254
+2015_2016,003051,Kent State University,Public,Accounting and Related Services.,Bachelor's Degree,135,25500,26379
+2015_2016,003051,Kent State University,Public,Accounting and Related Services.,Master's Degree,14,NA,17216
+2016_2017,003051,Kent State University,Public,Accounting and Related Services.,Associate's Degree,19,NA,26848
+2016_2017,003051,Kent State University,Public,Accounting and Related Services.,Bachelor's Degree,167,24750,25336
+2016_2017,003051,Kent State University,Public,Accounting and Related Services.,Master's Degree,10,NA,19658
+2015_2016,003051,Kent State University,Public,Agricultural Production Operations.,Associate's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Agricultural Production Operations.,Associate's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Air Transportation.,Bachelor's Degree,122,26000,26469
+2016_2017,003051,Kent State University,Public,Air Transportation.,Bachelor's Degree,104,26000,26379
+2015_2016,003051,Kent State University,Public,Allied Health and Medical Assisting Services.,Associate's Degree,189,18500,20670
+2015_2016,003051,Kent State University,Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Allied Health and Medical Assisting Services.,Associate's Degree,239,16329,19045
+2016_2017,003051,Kent State University,Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,49,19500,21751
+2015_2016,003051,Kent State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,51,22750,22606
+2016_2017,003051,Kent State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,54,20500,23483
+2016_2017,003051,Kent State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,66,26625,27581
+2015_2016,003051,Kent State University,Public,American Sign Language.,Bachelor's Degree,11,NA,32650
+2016_2017,003051,Kent State University,Public,American Sign Language.,Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Anthropology.,Bachelor's Degree,22,27000,27757
+2015_2016,003051,Kent State University,Public,Anthropology.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Anthropology.,Bachelor's Degree,24,27000,28459
+2016_2017,003051,Kent State University,Public,Anthropology.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Anthropology.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Applied Horticulture and Horticultural Business Services.,Associate's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Applied Horticulture and Horticultural Business Services.,Associate's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Architectural Sciences and Technology.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Architectural Sciences and Technology.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Architecture.,Bachelor's Degree,102,26000,26022
+2015_2016,003051,Kent State University,Public,Architecture.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Architecture.,Master's Degree,41,29500,28787
+2016_2017,003051,Kent State University,Public,Architecture.,Bachelor's Degree,107,26000,25241
+2016_2017,003051,Kent State University,Public,Architecture.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Architecture.,Master's Degree,61,29000,28046
+2015_2016,003051,Kent State University,Public,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,10,NA,10859
+2016_2017,003051,Kent State University,Public,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,13,NA,10815
+2015_2016,003051,Kent State University,Public,"Biology, General.",Bachelor's Degree,121,24500,24944
+2015_2016,003051,Kent State University,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Biology, General.",Bachelor's Degree,167,25000,25407
+2016_2017,003051,Kent State University,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Biotechnology.,Bachelor's Degree,14,NA,31028
+2016_2017,003051,Kent State University,Public,Biotechnology.,Bachelor's Degree,NA,NA,20430
+2015_2016,003051,Kent State University,Public,Botany/Plant Biology.,Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Botany/Plant Biology.,Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,308,24362,25863
+2015_2016,003051,Kent State University,Public,"Business Administration, Management and Operations.",Master's Degree,48,41000,36637
+2015_2016,003051,Kent State University,Public,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,380,25000,26338
+2016_2017,003051,Kent State University,Public,"Business Administration, Management and Operations.",Master's Degree,48,41000,42050
+2016_2017,003051,Kent State University,Public,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Business Operations Support and Assistant Services.,Associate's Degree,12,NA,22547
+2016_2017,003051,Kent State University,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Business/Commerce, General.",Associate's Degree,39,23500,27512
+2016_2017,003051,Kent State University,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Business/Commerce, General.",Associate's Degree,55,28000,28942
+2015_2016,003051,Kent State University,Public,Business/Managerial Economics.,Bachelor's Degree,45,26000,25988
+2015_2016,003051,Kent State University,Public,Business/Managerial Economics.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Business/Managerial Economics.,Bachelor's Degree,44,25750,24721
+2016_2017,003051,Kent State University,Public,Business/Managerial Economics.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Chemistry.,Bachelor's Degree,37,25010,26228
+2015_2016,003051,Kent State University,Public,Chemistry.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Chemistry.,Bachelor's Degree,48,24625,25307
+2016_2017,003051,Kent State University,Public,Chemistry.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"City/Urban, Community and Regional Planning.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"City/Urban, Community and Regional Planning.",Master's Degree,11,NA,38338
+2015_2016,003051,Kent State University,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,21,20135,30357
+2015_2016,003051,Kent State University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,24,44716,54918
+2016_2017,003051,Kent State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,24,17914,15409
+2016_2017,003051,Kent State University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,40495,42068
+2015_2016,003051,Kent State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Communication and Media Studies.,Bachelor's Degree,326,25500,26002
+2015_2016,003051,Kent State University,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Communication and Media Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Communication and Media Studies.,Bachelor's Degree,407,25042,25700
+2016_2017,003051,Kent State University,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Communication and Media Studies.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,77,24601,23137
+2015_2016,003051,Kent State University,Public,Communication Disorders Sciences and Services.,Master's Degree,36,32215,30795
+2015_2016,003051,Kent State University,Public,Communication Disorders Sciences and Services.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Communication Disorders Sciences and Services.,First Professional Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,93,25000,22685
+2016_2017,003051,Kent State University,Public,Communication Disorders Sciences and Services.,Master's Degree,48,30743,31385
+2016_2017,003051,Kent State University,Public,Communication Disorders Sciences and Services.,Doctoral Degree,NA,78917,79671
+2016_2017,003051,Kent State University,Public,Communication Disorders Sciences and Services.,First Professional Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,45,24990,24603
+2015_2016,003051,Kent State University,Public,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,67,26000,27370
+2016_2017,003051,Kent State University,Public,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Computer and Information Sciences, General.",Master's Degree,11,NA,23430
+2015_2016,003051,Kent State University,Public,Computer Programming.,Associate's Degree,44,20495,23588
+2016_2017,003051,Kent State University,Public,Computer Programming.,Associate's Degree,54,18000,19490
+2015_2016,003051,Kent State University,Public,Computer Science.,Bachelor's Degree,53,26000,26183
+2015_2016,003051,Kent State University,Public,Computer Science.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Computer Science.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Computer Science.,Bachelor's Degree,67,25000,24912
+2016_2017,003051,Kent State University,Public,Computer Science.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Computer Science.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Computer Systems Analysis.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Computer Systems Analysis.,Bachelor's Degree,52,24700,25430
+2016_2017,003051,Kent State University,Public,Computer Systems Analysis.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Computer Systems Analysis.,Bachelor's Degree,56,23750,25165
+2015_2016,003051,Kent State University,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Construction Management.,Bachelor's Degree,26,23157,22951
+2016_2017,003051,Kent State University,Public,Construction Management.,Bachelor's Degree,43,21500,22131
+2015_2016,003051,Kent State University,Public,"Crafts/Craft Design, Folk Art and Artisanry.",Bachelor's Degree,15,NA,33005
+2015_2016,003051,Kent State University,Public,"Crafts/Craft Design, Folk Art and Artisanry.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Crafts/Craft Design, Folk Art and Artisanry.",Bachelor's Degree,20,33250,35085
+2016_2017,003051,Kent State University,Public,"Crafts/Craft Design, Folk Art and Artisanry.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Criminal Justice and Corrections.,Associate's Degree,42,24497,29271
+2015_2016,003051,Kent State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,302,26000,28542
+2015_2016,003051,Kent State University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Criminal Justice and Corrections.,Associate's Degree,51,22103,27177
+2016_2017,003051,Kent State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,363,26000,28455
+2016_2017,003051,Kent State University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Curriculum and Instruction.,Master's Degree,10,NA,36717
+2015_2016,003051,Kent State University,Public,Curriculum and Instruction.,Doctoral Degree,10,NA,60337
+2016_2017,003051,Kent State University,Public,Curriculum and Instruction.,Master's Degree,10,NA,32178
+2016_2017,003051,Kent State University,Public,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Dance.,Bachelor's Degree,10,NA,26003
+2016_2017,003051,Kent State University,Public,Dance.,Bachelor's Degree,14,NA,26609
+2015_2016,003051,Kent State University,Public,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Design and Applied Arts.,Bachelor's Degree,212,26000,26219
+2015_2016,003051,Kent State University,Public,Design and Applied Arts.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Design and Applied Arts.,Bachelor's Degree,260,26000,26275
+2016_2017,003051,Kent State University,Public,Design and Applied Arts.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,46,21937,21866
+2015_2016,003051,Kent State University,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,21,20500,25256
+2016_2017,003051,Kent State University,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,67,25000,25588
+2016_2017,003051,Kent State University,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,22,22250,28105
+2015_2016,003051,Kent State University,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,15,NA,29088
+2016_2017,003051,Kent State University,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,20,28749,28231
+2015_2016,003051,Kent State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,64,26000,26380
+2015_2016,003051,Kent State University,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,66,26000,27251
+2016_2017,003051,Kent State University,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Education, General.",Bachelor's Degree,92,26500,29363
+2015_2016,003051,Kent State University,Public,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Education, General.",Bachelor's Degree,118,26955,29367
+2016_2017,003051,Kent State University,Public,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Education, Other.",Associate's Degree,25,16104,20578
+2015_2016,003051,Kent State University,Public,"Education, Other.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Education, Other.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Education, Other.",Associate's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Education, Other.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Education, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Educational Administration and Supervision.,Master's Degree,48,23854,25736
+2015_2016,003051,Kent State University,Public,Educational Administration and Supervision.,Doctoral Degree,11,NA,47793
+2015_2016,003051,Kent State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Educational Administration and Supervision.,Master's Degree,59,27993,27687
+2016_2017,003051,Kent State University,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,44322
+2016_2017,003051,Kent State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Educational Assessment, Evaluation, and Research.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Educational Assessment, Evaluation, and Research.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Educational Assessment, Evaluation, and Research.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Educational Assessment, Evaluation, and Research.",Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Educational/Instructional Media Design.,Master's Degree,11,NA,34550
+2016_2017,003051,Kent State University,Public,Educational/Instructional Media Design.,Master's Degree,24,26926,35519
+2015_2016,003051,Kent State University,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,11,NA,20953
+2016_2017,003051,Kent State University,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Engineering Technologies/Technicians, Other.",Associate's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Engineering Technology, General.",Bachelor's Degree,83,27090,28551
+2015_2016,003051,Kent State University,Public,"Engineering Technology, General.",Master's Degree,14,NA,41472
+2016_2017,003051,Kent State University,Public,"Engineering Technology, General.",Bachelor's Degree,76,29625,31452
+2016_2017,003051,Kent State University,Public,"Engineering Technology, General.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"English Language and Literature, General.",Bachelor's Degree,142,26125,27661
+2015_2016,003051,Kent State University,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"English Language and Literature, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"English Language and Literature, General.",Bachelor's Degree,134,25839,27763
+2016_2017,003051,Kent State University,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"English Language and Literature, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"English Language and Literature/Letters, Other.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"English Language and Literature/Letters, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Entrepreneurial and Small Business Operations.,Bachelor's Degree,36,28475,25617
+2016_2017,003051,Kent State University,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Entrepreneurial and Small Business Operations.,Bachelor's Degree,45,25595,24667
+2015_2016,003051,Kent State University,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,43616
+2015_2016,003051,Kent State University,Public,Finance and Financial Management Services.,Bachelor's Degree,106,25112,25126
+2016_2017,003051,Kent State University,Public,Finance and Financial Management Services.,Bachelor's Degree,151,25975,25760
+2015_2016,003051,Kent State University,Public,Fine and Studio Arts.,Bachelor's Degree,39,30250,31338
+2015_2016,003051,Kent State University,Public,Fine and Studio Arts.,Master's Degree,17,NA,42501
+2016_2017,003051,Kent State University,Public,Fine and Studio Arts.,Bachelor's Degree,67,29725,31120
+2016_2017,003051,Kent State University,Public,Fine and Studio Arts.,Master's Degree,21,33432,33171
+2015_2016,003051,Kent State University,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Forestry.,Associate's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Forestry.,Associate's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,15,NA,25825
+2016_2017,003051,Kent State University,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,25,25000,25191
+2015_2016,003051,Kent State University,Public,Geography and Cartography.,Bachelor's Degree,22,27500,28470
+2015_2016,003051,Kent State University,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Geography and Cartography.,Bachelor's Degree,24,25000,27830
+2016_2017,003051,Kent State University,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,46,35140,33030
+2015_2016,003051,Kent State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,53,26000,29430
+2016_2017,003051,Kent State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Gerontology.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Gerontology.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Gerontology.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Gerontology.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,10,NA,19485
+2015_2016,003051,Kent State University,Public,Health and Medical Administrative Services.,Associate's Degree,54,28305,28738
+2015_2016,003051,Kent State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,15788
+2016_2017,003051,Kent State University,Public,Health and Medical Administrative Services.,Associate's Degree,48,23986,24655
+2016_2017,003051,Kent State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Health and Medical Administrative Services.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,164,26000,26239
+2015_2016,003051,Kent State University,Public,Health and Physical Education/Fitness.,Master's Degree,23,25625,28292
+2016_2017,003051,Kent State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,188,26000,26703
+2016_2017,003051,Kent State University,Public,Health and Physical Education/Fitness.,Master's Degree,22,19319,18233
+2015_2016,003051,Kent State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,73,26000,27194
+2016_2017,003051,Kent State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,85,27000,27623
+2015_2016,003051,Kent State University,Public,History.,Bachelor's Degree,52,29880,30643
+2015_2016,003051,Kent State University,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,History.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,History.,Bachelor's Degree,60,27409,30517
+2016_2017,003051,Kent State University,Public,History.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,History.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Hospitality Administration/Management.,Bachelor's Degree,69,27000,29056
+2015_2016,003051,Kent State University,Public,Hospitality Administration/Management.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Hospitality Administration/Management.,Bachelor's Degree,92,26000,26751
+2016_2017,003051,Kent State University,Public,Hospitality Administration/Management.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,21,26000,27189
+2015_2016,003051,Kent State University,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,209,27332,28821
+2015_2016,003051,Kent State University,Public,"Human Development, Family Studies, and Related Services.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Human Development, Family Studies, and Related Services.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Human Development, Family Studies, and Related Services.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,44,26000,25274
+2016_2017,003051,Kent State University,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,257,28150,29568
+2016_2017,003051,Kent State University,Public,"Human Development, Family Studies, and Related Services.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Human Development, Family Studies, and Related Services.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Human Development, Family Studies, and Related Services.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Industrial Engineering.,Bachelor's Degree,27,30000,30598
+2016_2017,003051,Kent State University,Public,Industrial Engineering.,Bachelor's Degree,41,27000,28595
+2015_2016,003051,Kent State University,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Information Science/Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Information Science/Studies.,Master's Degree,40,34025,38290
+2016_2017,003051,Kent State University,Public,Information Science/Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Information Science/Studies.,Master's Degree,90,33259,34259
+2016_2017,003051,Kent State University,Public,Information Science/Studies.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Insurance.,Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Insurance.,Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,International and Comparative Education.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,International and Comparative Education.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,International and Comparative Education.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,International and Comparative Education.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,International Business.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,International Business.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,International Relations and National Security Studies.,Bachelor's Degree,20,22836,23353
+2016_2017,003051,Kent State University,Public,International Relations and National Security Studies.,Bachelor's Degree,28,22836,25828
+2015_2016,003051,Kent State University,Public,Journalism.,Bachelor's Degree,86,24232,25498
+2015_2016,003051,Kent State University,Public,Journalism.,Master's Degree,66,33910,30540
+2016_2017,003051,Kent State University,Public,Journalism.,Bachelor's Degree,100,24999,25285
+2016_2017,003051,Kent State University,Public,Journalism.,Master's Degree,64,32042,31523
+2016_2017,003051,Kent State University,Public,Landscape Architecture.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Legal Support Services.,Bachelor's Degree,26,26500,26307
+2016_2017,003051,Kent State University,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Legal Support Services.,Bachelor's Degree,39,26500,27357
+2015_2016,003051,Kent State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,400,21560,24735
+2015_2016,003051,Kent State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,192,26203,28321
+2016_2017,003051,Kent State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,1118,19000,22371
+2016_2017,003051,Kent State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,276,27511,28989
+2015_2016,003051,Kent State University,Public,Library Science and Administration.,Master's Degree,229,31448,32611
+2015_2016,003051,Kent State University,Public,Library Science and Administration.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Library Science and Administration.,Master's Degree,282,31028,32581
+2016_2017,003051,Kent State University,Public,Library Science and Administration.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,21,25250,28036
+2015_2016,003051,Kent State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,14,NA,28426
+2016_2017,003051,Kent State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Marketing.,Bachelor's Degree,176,25506,24610
+2016_2017,003051,Kent State University,Public,Marketing.,Bachelor's Degree,234,25000,23093
+2015_2016,003051,Kent State University,Public,Mathematics.,Bachelor's Degree,29,22476,24917
+2015_2016,003051,Kent State University,Public,Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Mathematics.,Bachelor's Degree,29,20626,21270
+2016_2017,003051,Kent State University,Public,Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,20,19418,20409
+2016_2017,003051,Kent State University,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,19,NA,22157
+2015_2016,003051,Kent State University,Public,Medical Illustration and Informatics.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Medical Illustration and Informatics.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Medical Illustration and Informatics.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,18,NA,36639
+2015_2016,003051,Kent State University,Public,Mental and Social Health Services and Allied Professions.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,48,41774,45574
+2016_2017,003051,Kent State University,Public,Mental and Social Health Services and Allied Professions.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Music.,Bachelor's Degree,23,25051,28060
+2015_2016,003051,Kent State University,Public,Music.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Music.,Master's Degree,14,NA,22528
+2015_2016,003051,Kent State University,Public,Music.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Music.,Bachelor's Degree,34,28187,32458
+2016_2017,003051,Kent State University,Public,Music.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Music.,Master's Degree,14,NA,22416
+2016_2017,003051,Kent State University,Public,Music.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,20,30512,30741
+2016_2017,003051,Kent State University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,24,20750,23673
+2015_2016,003051,Kent State University,Public,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,21,29317,28195
+2016_2017,003051,Kent State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,26,30875,30571
+2015_2016,003051,Kent State University,Public,Peace Studies and Conflict Resolution.,Bachelor's Degree,12,NA,18905
+2016_2017,003051,Kent State University,Public,Peace Studies and Conflict Resolution.,Bachelor's Degree,15,NA,19128
+2015_2016,003051,Kent State University,Public,Pharmacology and Toxicology.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Pharmacology and Toxicology.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Philosophy.,Bachelor's Degree,22,34125,35614
+2015_2016,003051,Kent State University,Public,Philosophy.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Philosophy.,Bachelor's Degree,23,32750,33250
+2016_2017,003051,Kent State University,Public,Philosophy.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Physics.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Physics.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Physics.,Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Physics.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Physics.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,16,NA,20825
+2015_2016,003051,Kent State University,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,16,NA,21640
+2016_2017,003051,Kent State University,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Podiatric Medicine/Podiatry.,First Professional Degree,159,221439,204280
+2016_2017,003051,Kent State University,Public,Podiatric Medicine/Podiatry.,First Professional Degree,NA,225063,213007
+2015_2016,003051,Kent State University,Public,Political Science and Government.,Bachelor's Degree,87,27921,27388
+2015_2016,003051,Kent State University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Political Science and Government.,Bachelor's Degree,101,27000,28239
+2016_2017,003051,Kent State University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Psychology, General.",Bachelor's Degree,432,27000,28306
+2016_2017,003051,Kent State University,Public,"Psychology, General.",Bachelor's Degree,506,26000,27716
+2015_2016,003051,Kent State University,Public,Public Administration.,Master's Degree,19,NA,33839
+2016_2017,003051,Kent State University,Public,Public Administration.,Master's Degree,28,27092,29853
+2015_2016,003051,Kent State University,Public,Public Health.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Public Health.,Associate's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Public Health.,Bachelor's Degree,249,28000,29305
+2015_2016,003051,Kent State University,Public,Public Health.,Master's Degree,46,37400,34820
+2015_2016,003051,Kent State University,Public,Public Health.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Public Health.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Public Health.,Bachelor's Degree,280,27345,29003
+2016_2017,003051,Kent State University,Public,Public Health.,Master's Degree,66,34811,34041
+2016_2017,003051,Kent State University,Public,Public Health.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,78,26000,25108
+2016_2017,003051,Kent State University,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,90,26000,26762
+2015_2016,003051,Kent State University,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,51,28663,27404
+2015_2016,003051,Kent State University,Public,"Radio, Television, and Digital Communication.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,67,25989,25312
+2016_2017,003051,Kent State University,Public,"Radio, Television, and Digital Communication.",Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,330,24000,25726
+2015_2016,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,819,26125,28436
+2015_2016,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,134,41000,40920
+2015_2016,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,317,24000,25561
+2016_2017,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,887,25484,27325
+2016_2017,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,149,41000,41639
+2016_2017,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,42416
+2015_2016,003051,Kent State University,Public,Research and Experimental Psychology.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Research and Experimental Psychology.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Research and Experimental Psychology.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Research and Experimental Psychology.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,21,27250,29213
+2015_2016,003051,Kent State University,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,22,27000,25685
+2016_2017,003051,Kent State University,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Social and Philosophical Foundations of Education.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Social and Philosophical Foundations of Education.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Sociology.,Bachelor's Degree,72,26000,27230
+2015_2016,003051,Kent State University,Public,Sociology.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Sociology.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Sociology.,Bachelor's Degree,NA,26500,29666
+2016_2017,003051,Kent State University,Public,Sociology.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Sociology.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Special Education and Teaching.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Special Education and Teaching.,Bachelor's Degree,101,27998,31425
+2015_2016,003051,Kent State University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Special Education and Teaching.,Master's Degree,24,37886,39248
+2015_2016,003051,Kent State University,Public,Special Education and Teaching.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Special Education and Teaching.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Special Education and Teaching.,Bachelor's Degree,102,25000,26829
+2016_2017,003051,Kent State University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Special Education and Teaching.,Master's Degree,30,35397,39931
+2016_2017,003051,Kent State University,Public,Special Education and Teaching.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,49787
+2015_2016,003051,Kent State University,Public,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,266,25838,24735
+2016_2017,003051,Kent State University,Public,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,366,25000,25015
+2015_2016,003051,Kent State University,Public,Student Counseling and Personnel Services.,Master's Degree,71,48106,47331
+2015_2016,003051,Kent State University,Public,Student Counseling and Personnel Services.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Student Counseling and Personnel Services.,Master's Degree,35,52442,46862
+2016_2017,003051,Kent State University,Public,Student Counseling and Personnel Services.,Doctoral Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,20,18462,19707
+2015_2016,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,250,27000,27935
+2015_2016,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,35,20500,27029
+2015_2016,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,58,17099,17604
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,228,25690,25489
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,38,22445,27704
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,154,26000,26194
+2015_2016,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,109,26594,26328
+2015_2016,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,154,26000,27630
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,127,26594,26135
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,29,26696,26876
+2015_2016,003051,Kent State University,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,22,32012,33372
+2015_2016,003051,Kent State University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Teaching English or French as a Second or Foreign Language.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,31,26000,27908
+2016_2017,003051,Kent State University,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,31,27000,31179
+2016_2017,003051,Kent State University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,11,NA,27716
+2016_2017,003051,Kent State University,Public,Teaching English or French as a Second or Foreign Language.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003051,Kent State University,Public,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Zoology/Animal Biology.,Bachelor's Degree,68,24933,22580
+2015_2016,003051,Kent State University,Public,Zoology/Animal Biology.,Master's Degree,NA,NA,NA
+2015_2016,003051,Kent State University,Public,Zoology/Animal Biology.,Doctoral Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Zoology/Animal Biology.,Bachelor's Degree,75,23000,21386
+2016_2017,003051,Kent State University,Public,Zoology/Animal Biology.,Master's Degree,NA,NA,NA
+2016_2017,003051,Kent State University,Public,Zoology/Animal Biology.,Doctoral Degree,NA,NA,NA

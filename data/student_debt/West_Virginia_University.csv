@@ -1,0 +1,413 @@
+cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
+2015_2016,003827,West Virginia University,Public,Accounting and Related Services.,Bachelor's Degree,89,23500,22151
+2015_2016,003827,West Virginia University,Public,Accounting and Related Services.,Master's Degree,20,17009,17647
+2016_2017,003827,West Virginia University,Public,Accounting and Related Services.,Bachelor's Degree,115,23250,21252
+2016_2017,003827,West Virginia University,Public,Accounting and Related Services.,Master's Degree,20,17809,17172
+2015_2016,003827,West Virginia University,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,10,NA,123563
+2016_2017,003827,West Virginia University,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,NA,NA,132802
+2015_2016,003827,West Virginia University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,54,26500,23985
+2015_2016,003827,West Virginia University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,74,25750,23506
+2016_2017,003827,West Virginia University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Agricultural Business and Management.,Bachelor's Degree,40,24900,24907
+2015_2016,003827,West Virginia University,Public,Agricultural Business and Management.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Agricultural Business and Management.,Bachelor's Degree,54,22563,21547
+2016_2017,003827,West Virginia University,Public,Agricultural Business and Management.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Agriculture, Agriculture Operations, and Related Sciences, Other.",Associate's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Agriculture, Agriculture Operations, and Related Sciences, Other.",Associate's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Agriculture, General.",Associate's Degree,11,NA,15972
+2015_2016,003827,West Virginia University,Public,"Agriculture, General.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Agriculture, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Agriculture, General.",Associate's Degree,14,NA,13642
+2016_2017,003827,West Virginia University,Public,"Agriculture, General.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Agriculture, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Air Transportation.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Air Transportation.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Allied Health and Medical Assisting Services.,Master's Degree,14,NA,102212
+2016_2017,003827,West Virginia University,Public,Allied Health and Medical Assisting Services.,Master's Degree,NA,102430,102823
+2015_2016,003827,West Virginia University,Public,Animal Sciences.,Bachelor's Degree,110,23375,22020
+2015_2016,003827,West Virginia University,Public,Animal Sciences.,Master's Degree,10,NA,24887
+2016_2017,003827,West Virginia University,Public,Animal Sciences.,Bachelor's Degree,124,23250,21885
+2016_2017,003827,West Virginia University,Public,Animal Sciences.,Master's Degree,15,NA,22866
+2016_2017,003827,West Virginia University,Public,"Arts, Entertainment,and Media Management.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Biology, General.",Bachelor's Degree,125,20800,19768
+2015_2016,003827,West Virginia University,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Biology, General.",Bachelor's Degree,142,22171,20913
+2016_2017,003827,West Virginia University,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Biomedical/Medical Engineering.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Business Administration, Management and Operations.",Associate's Degree,13,NA,12757
+2015_2016,003827,West Virginia University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,140,25000,22272
+2015_2016,003827,West Virginia University,Public,"Business Administration, Management and Operations.",Master's Degree,14,NA,27210
+2015_2016,003827,West Virginia University,Public,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Business Administration, Management and Operations.",Associate's Degree,11,NA,14321
+2016_2017,003827,West Virginia University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,175,22980,21786
+2016_2017,003827,West Virginia University,Public,"Business Administration, Management and Operations.",Master's Degree,24,20264,26613
+2016_2017,003827,West Virginia University,Public,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Business/Commerce, General.",Bachelor's Degree,37,22500,23534
+2015_2016,003827,West Virginia University,Public,"Business/Commerce, General.",Master's Degree,70,41721,53202
+2016_2017,003827,West Virginia University,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Business/Commerce, General.",Bachelor's Degree,54,22069,22173
+2016_2017,003827,West Virginia University,Public,"Business/Commerce, General.",Master's Degree,110,42976,51498
+2015_2016,003827,West Virginia University,Public,Business/Managerial Economics.,Bachelor's Degree,24,25500,24476
+2015_2016,003827,West Virginia University,Public,Business/Managerial Economics.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Business/Managerial Economics.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Business/Managerial Economics.,Bachelor's Degree,28,23625,22956
+2016_2017,003827,West Virginia University,Public,Business/Managerial Economics.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Business/Managerial Economics.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Chemical Engineering.,Bachelor's Degree,47,22500,23249
+2015_2016,003827,West Virginia University,Public,Chemical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Chemical Engineering.,Bachelor's Degree,50,24712,22912
+2016_2017,003827,West Virginia University,Public,Chemical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Chemistry.,Bachelor's Degree,28,23352,21554
+2015_2016,003827,West Virginia University,Public,Chemistry.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Chemistry.,Bachelor's Degree,34,21910,20864
+2016_2017,003827,West Virginia University,Public,Chemistry.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Civil Engineering.,Bachelor's Degree,85,26000,24329
+2015_2016,003827,West Virginia University,Public,Civil Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Civil Engineering.,Bachelor's Degree,90,25497,23678
+2016_2017,003827,West Virginia University,Public,Civil Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,10,NA,38207
+2015_2016,003827,West Virginia University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,35,25000,24757
+2016_2017,003827,West Virginia University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,39,26254,25622
+2015_2016,003827,West Virginia University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,45,21500,20835
+2015_2016,003827,West Virginia University,Public,Communication Disorders Sciences and Services.,Master's Degree,34,33567,39315
+2015_2016,003827,West Virginia University,Public,Communication Disorders Sciences and Services.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Communication Disorders Sciences and Services.,First Professional Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,38,22383,21233
+2016_2017,003827,West Virginia University,Public,Communication Disorders Sciences and Services.,Master's Degree,32,34627,39242
+2016_2017,003827,West Virginia University,Public,Communication Disorders Sciences and Services.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Communication Disorders Sciences and Services.,First Professional Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,85,21500,21588
+2015_2016,003827,West Virginia University,Public,"Communication, Journalism, and Related Programs, Other.",Master's Degree,11,NA,32753
+2015_2016,003827,West Virginia University,Public,"Communication, Journalism, and Related Programs, Other.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,91,21500,20437
+2016_2017,003827,West Virginia University,Public,"Communication, Journalism, and Related Programs, Other.",Master's Degree,24,23203,28400
+2016_2017,003827,West Virginia University,Public,"Communication, Journalism, and Related Programs, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Community Organization and Advocacy.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Community Organization and Advocacy.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,12,NA,23112
+2016_2017,003827,West Virginia University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,17,NA,23746
+2015_2016,003827,West Virginia University,Public,Computer Engineering.,Bachelor's Degree,34,26508,22302
+2015_2016,003827,West Virginia University,Public,Computer Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Computer Engineering.,Bachelor's Degree,34,26238,24579
+2016_2017,003827,West Virginia University,Public,Computer Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Computer Science.,Bachelor's Degree,39,23414,22219
+2015_2016,003827,West Virginia University,Public,Computer Science.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Computer Science.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Computer Science.,Bachelor's Degree,57,23403,23052
+2016_2017,003827,West Virginia University,Public,Computer Science.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Computer Science.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Criminal Justice and Corrections.,Associate's Degree,17,NA,15195
+2015_2016,003827,West Virginia University,Public,Criminal Justice and Corrections.,Bachelor's Degree,44,26419,26318
+2015_2016,003827,West Virginia University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Criminal Justice and Corrections.,Associate's Degree,20,11610,11974
+2016_2017,003827,West Virginia University,Public,Criminal Justice and Corrections.,Bachelor's Degree,64,25631,24063
+2016_2017,003827,West Virginia University,Public,Criminal Justice and Corrections.,Master's Degree,11,NA,19224
+2016_2017,003827,West Virginia University,Public,Criminal Justice and Corrections.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Criminology.,Bachelor's Degree,NA,25000,23662
+2016_2017,003827,West Virginia University,Public,Criminology.,Bachelor's Degree,NA,24818,23634
+2015_2016,003827,West Virginia University,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,24,27500,25684
+2015_2016,003827,West Virginia University,Public,Dental Support Services and Allied Professions.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,31,27000,27079
+2016_2017,003827,West Virginia University,Public,Dental Support Services and Allied Professions.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Dentistry.,First Professional Degree,79,176412,168925
+2016_2017,003827,West Virginia University,Public,Dentistry.,First Professional Degree,81,189292,187952
+2015_2016,003827,West Virginia University,Public,Design and Applied Arts.,Bachelor's Degree,44,26750,23563
+2015_2016,003827,West Virginia University,Public,Design and Applied Arts.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Design and Applied Arts.,Bachelor's Degree,76,26000,23750
+2016_2017,003827,West Virginia University,Public,Design and Applied Arts.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,25,25577,22763
+2015_2016,003827,West Virginia University,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,32,24864,20661
+2016_2017,003827,West Virginia University,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Economics.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Economics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Education, General.",Associate's Degree,17,NA,13149
+2015_2016,003827,West Virginia University,Public,"Education, General.",Master's Degree,99,21603,26148
+2015_2016,003827,West Virginia University,Public,"Education, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Education, General.",First Professional Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Education, General.",Associate's Degree,17,NA,13274
+2016_2017,003827,West Virginia University,Public,"Education, General.",Master's Degree,175,20587,26028
+2016_2017,003827,West Virginia University,Public,"Education, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Education, General.",First Professional Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Education, Other.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Education, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Educational Administration and Supervision.,Master's Degree,12,NA,31455
+2015_2016,003827,West Virginia University,Public,Educational/Instructional Media Design.,Master's Degree,11,NA,28489
+2015_2016,003827,West Virginia University,Public,Educational/Instructional Media Design.,First Professional Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Educational/Instructional Media Design.,Master's Degree,12,NA,35490
+2016_2017,003827,West Virginia University,Public,Educational/Instructional Media Design.,First Professional Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,49,22299,21388
+2015_2016,003827,West Virginia University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,74,24713,23398
+2016_2017,003827,West Virginia University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Engineering Technology, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Engineering Technology, General.",Bachelor's Degree,NA,NA,19483
+2015_2016,003827,West Virginia University,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Engineering, General.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Engineering, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Engineering, General.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Engineering, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"English Language and Literature, General.",Bachelor's Degree,61,24457,24111
+2015_2016,003827,West Virginia University,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"English Language and Literature, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"English Language and Literature, General.",Bachelor's Degree,70,22375,22305
+2016_2017,003827,West Virginia University,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"English Language and Literature, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Environmental/Environmental Health Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Environmental/Environmental Health Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Finance and Financial Management Services.,Bachelor's Degree,92,26000,24035
+2015_2016,003827,West Virginia University,Public,Finance and Financial Management Services.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Finance and Financial Management Services.,Bachelor's Degree,121,26000,23660
+2016_2017,003827,West Virginia University,Public,Finance and Financial Management Services.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Fine and Studio Arts.,Bachelor's Degree,41,27000,27815
+2015_2016,003827,West Virginia University,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Fine and Studio Arts.,Bachelor's Degree,46,26500,25813
+2016_2017,003827,West Virginia University,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Forestry.,Associate's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Forestry.,Bachelor's Degree,34,22750,21215
+2015_2016,003827,West Virginia University,Public,Forestry.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Forestry.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Forestry.,Associate's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Forestry.,Bachelor's Degree,37,24250,21450
+2016_2017,003827,West Virginia University,Public,Forestry.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Forestry.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Genetics.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Genetics.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Genetics.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Genetics.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Geography and Cartography.,Bachelor's Degree,34,22943,23525
+2015_2016,003827,West Virginia University,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Geography and Cartography.,Bachelor's Degree,41,25188,24473
+2016_2017,003827,West Virginia University,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,39,26000,25793
+2015_2016,003827,West Virginia University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,71,25000,23118
+2016_2017,003827,West Virginia University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Health and Medical Administrative Services.,Bachelor's Degree,10,NA,22027
+2015_2016,003827,West Virginia University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,155,25500,23732
+2015_2016,003827,West Virginia University,Public,Health and Physical Education/Fitness.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,192,26000,24656
+2016_2017,003827,West Virginia University,Public,Health and Physical Education/Fitness.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,12,NA,23813
+2015_2016,003827,West Virginia University,Public,History.,Bachelor's Degree,85,21500,21470
+2015_2016,003827,West Virginia University,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,History.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,History.,Bachelor's Degree,89,20741,21685
+2016_2017,003827,West Virginia University,Public,History.,Master's Degree,11,NA,19121
+2016_2017,003827,West Virginia University,Public,History.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,55,25728,24686
+2016_2017,003827,West Virginia University,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,72,24475,23628
+2015_2016,003827,West Virginia University,Public,Human Resources Management and Services.,Master's Degree,53,35447,36715
+2016_2017,003827,West Virginia University,Public,Human Resources Management and Services.,Master's Degree,60,39875,39149
+2015_2016,003827,West Virginia University,Public,Industrial Engineering.,Bachelor's Degree,69,27000,24541
+2015_2016,003827,West Virginia University,Public,Industrial Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Industrial Engineering.,Bachelor's Degree,86,27000,24534
+2016_2017,003827,West Virginia University,Public,Industrial Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Information Science/Studies.,Associate's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Information Science/Studies.,Associate's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Journalism.,Associate's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Journalism.,Bachelor's Degree,260,26000,24461
+2015_2016,003827,West Virginia University,Public,Journalism.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Journalism.,Associate's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Journalism.,Bachelor's Degree,351,26000,24139
+2016_2017,003827,West Virginia University,Public,Journalism.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Landscape Architecture.,Bachelor's Degree,22,27625,29141
+2015_2016,003827,West Virginia University,Public,Landscape Architecture.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Landscape Architecture.,Bachelor's Degree,20,28375,29169
+2016_2017,003827,West Virginia University,Public,Landscape Architecture.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Law.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Law.,First Professional Degree,179,89553,87307
+2016_2017,003827,West Virginia University,Public,Law.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Law.,First Professional Degree,169,84227,83920
+2015_2016,003827,West Virginia University,Public,"Legal Professions and Studies, Other.",Master's Degree,12,NA,20023
+2016_2017,003827,West Virginia University,Public,"Legal Professions and Studies, Other.",Master's Degree,24,34694,32719
+2015_2016,003827,West Virginia University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,42,10750,13175
+2015_2016,003827,West Virginia University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,264,23995,24087
+2016_2017,003827,West Virginia University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,55,11466,13389
+2016_2017,003827,West Virginia University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,331,22100,23224
+2016_2017,003827,West Virginia University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,40,26632,23543
+2015_2016,003827,West Virginia University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,47,26622,23138
+2016_2017,003827,West Virginia University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Management Information Systems and Services.,Bachelor's Degree,44,24466,24290
+2016_2017,003827,West Virginia University,Public,Management Information Systems and Services.,Bachelor's Degree,50,24466,23507
+2016_2017,003827,West Virginia University,Public,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Marketing.,Bachelor's Degree,97,25250,23633
+2016_2017,003827,West Virginia University,Public,Marketing.,Bachelor's Degree,126,25093,23385
+2016_2017,003827,West Virginia University,Public,Materials Engineering,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Mathematics.,Bachelor's Degree,13,NA,19323
+2015_2016,003827,West Virginia University,Public,Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Mathematics.,Bachelor's Degree,13,NA,15936
+2016_2017,003827,West Virginia University,Public,Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Mechanical Engineering.,Bachelor's Degree,127,25313,23864
+2015_2016,003827,West Virginia University,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Mechanical Engineering.,Bachelor's Degree,181,24931,23398
+2016_2017,003827,West Virginia University,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Medical Clinical Sciences/Graduate Medical Studies.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Medical Clinical Sciences/Graduate Medical Studies.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Medicine.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Medicine.,First Professional Degree,153,162000,155844
+2016_2017,003827,West Virginia University,Public,Medicine.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Medicine.,First Professional Degree,151,157147,156795
+2015_2016,003827,West Virginia University,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Mining and Mineral Engineering.,Bachelor's Degree,23,28252,25612
+2015_2016,003827,West Virginia University,Public,Mining and Mineral Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Mining and Mineral Engineering.,Bachelor's Degree,31,28654,25298
+2016_2017,003827,West Virginia University,Public,Mining and Mineral Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,226,26000,26437
+2016_2017,003827,West Virginia University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,309,26250,26580
+2015_2016,003827,West Virginia University,Public,Music.,Bachelor's Degree,27,22121,22016
+2015_2016,003827,West Virginia University,Public,Music.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Music.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Music.,Bachelor's Degree,30,22036,20016
+2016_2017,003827,West Virginia University,Public,Music.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Music.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Natural Resources Management and Policy.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Natural Resources Management and Policy.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Natural Resources Management and Policy.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Natural Resources Management and Policy.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,18,NA,24315
+2015_2016,003827,West Virginia University,Public,"Parks, Recreation and Leisure Facilities Management.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,17,NA,22975
+2016_2017,003827,West Virginia University,Public,"Parks, Recreation and Leisure Facilities Management.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Petroleum Engineering.,Bachelor's Degree,93,27000,26812
+2015_2016,003827,West Virginia University,Public,Petroleum Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Petroleum Engineering.,Bachelor's Degree,107,25921,25364
+2016_2017,003827,West Virginia University,Public,Petroleum Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,125,69751,73200
+2016_2017,003827,West Virginia University,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,131,70167,72980
+2015_2016,003827,West Virginia University,Public,Philosophy.,Bachelor's Degree,25,26564,25740
+2016_2017,003827,West Virginia University,Public,Philosophy.,Bachelor's Degree,NA,26250,22854
+2015_2016,003827,West Virginia University,Public,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Physics.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Physics.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Physics.,Bachelor's Degree,12,NA,24504
+2016_2017,003827,West Virginia University,Public,Physics.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Physics.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,104,25763,22548
+2015_2016,003827,West Virginia University,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,112,25183,22231
+2016_2017,003827,West Virginia University,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Plant Sciences.,Bachelor's Degree,18,NA,23695
+2015_2016,003827,West Virginia University,Public,Plant Sciences.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Plant Sciences.,Bachelor's Degree,27,24874,25889
+2016_2017,003827,West Virginia University,Public,Plant Sciences.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Political Science and Government.,Bachelor's Degree,78,23144,21607
+2015_2016,003827,West Virginia University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Political Science and Government.,Bachelor's Degree,112,23406,21708
+2016_2017,003827,West Virginia University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Psychology, General.",Bachelor's Degree,223,25838,24285
+2015_2016,003827,West Virginia University,Public,"Psychology, General.",Master's Degree,10,NA,35497
+2015_2016,003827,West Virginia University,Public,"Psychology, General.",Doctoral Degree,10,NA,35497
+2016_2017,003827,West Virginia University,Public,"Psychology, General.",Bachelor's Degree,268,25000,23644
+2016_2017,003827,West Virginia University,Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Psychology, General.",Doctoral Degree,16,NA,29404
+2015_2016,003827,West Virginia University,Public,Public Administration.,Master's Degree,19,NA,42255
+2016_2017,003827,West Virginia University,Public,Public Administration.,Master's Degree,27,31430,37036
+2015_2016,003827,West Virginia University,Public,Public Health.,Master's Degree,64,43852,46276
+2015_2016,003827,West Virginia University,Public,Public Health.,Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Public Health.,Master's Degree,64,43646,47420
+2016_2017,003827,West Virginia University,Public,Public Health.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,121,34600,37064
+2016_2017,003827,West Virginia University,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,189,36104,36672
+2015_2016,003827,West Virginia University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,219,25000,23363
+2015_2016,003827,West Virginia University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,49,35504,37786
+2015_2016,003827,West Virginia University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,266,25000,23939
+2016_2017,003827,West Virginia University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,45,39111,37243
+2016_2017,003827,West Virginia University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,70,24501,24728
+2015_2016,003827,West Virginia University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,59,76875,81743
+2016_2017,003827,West Virginia University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,76,27364,26500
+2016_2017,003827,West Virginia University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,61,79199,87131
+2015_2016,003827,West Virginia University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Science Technologies/Technicians, Other.",Associate's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Science Technologies/Technicians, Other.",Associate's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Social Work.,Bachelor's Degree,54,24679,24983
+2015_2016,003827,West Virginia University,Public,Social Work.,Master's Degree,119,34558,37249
+2016_2017,003827,West Virginia University,Public,Social Work.,Bachelor's Degree,80,27000,27276
+2016_2017,003827,West Virginia University,Public,Social Work.,Master's Degree,104,38958,41994
+2015_2016,003827,West Virginia University,Public,Sociology.,Bachelor's Degree,45,24510,22799
+2015_2016,003827,West Virginia University,Public,Sociology.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Sociology.,Bachelor's Degree,182,25291,24534
+2016_2017,003827,West Virginia University,Public,Sociology.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Sociology.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Special Education and Teaching.,Master's Degree,73,31398,30783
+2016_2017,003827,West Virginia University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Special Education and Teaching.,Master's Degree,100,31869,32631
+2015_2016,003827,West Virginia University,Public,Statistics.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Statistics.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Statistics.,Doctoral Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Student Counseling and Personnel Services.,Master's Degree,31,32085,30731
+2016_2017,003827,West Virginia University,Public,Student Counseling and Personnel Services.,Master's Degree,33,29002,28072
+2016_2017,003827,West Virginia University,Public,Systems Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,87,19787,19083
+2016_2017,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,61,26990,25235
+2015_2016,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,59,18851,20242
+2015_2016,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",First Professional Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,87,26000,23842
+2016_2017,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,97,24874,25039
+2016_2017,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",First Professional Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,"Visual and Performing Arts, General.",Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,"Visual and Performing Arts, General.",Master's Degree,NA,NA,NA
+2015_2016,003827,West Virginia University,Public,Wildlife and Wildlands Science and Management.,Bachelor's Degree,58,24367,23162
+2015_2016,003827,West Virginia University,Public,Wildlife and Wildlands Science and Management.,Master's Degree,NA,NA,NA
+2016_2017,003827,West Virginia University,Public,Wildlife and Wildlands Science and Management.,Bachelor's Degree,76,21750,22562
+2016_2017,003827,West Virginia University,Public,Wildlife and Wildlands Science and Management.,Master's Degree,NA,NA,NA

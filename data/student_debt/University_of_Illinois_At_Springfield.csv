@@ -1,0 +1,107 @@
+cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
+2015_2016,009333,University of Illinois At Springfield,Public,Accounting and Related Services.,Bachelor's Degree,43,21713,21567
+2015_2016,009333,University of Illinois At Springfield,Public,Accounting and Related Services.,Master's Degree,24,20035,21499
+2016_2017,009333,University of Illinois At Springfield,Public,Accounting and Related Services.,Bachelor's Degree,42,19942,20611
+2016_2017,009333,University of Illinois At Springfield,Public,Accounting and Related Services.,Master's Degree,15,NA,23135
+2016_2017,009333,University of Illinois At Springfield,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,"Biology, General.",Bachelor's Degree,33,25000,23432
+2015_2016,009333,University of Illinois At Springfield,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,"Biology, General.",Bachelor's Degree,36,18818,20492
+2016_2017,009333,University of Illinois At Springfield,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,"Business Administration, Management and Operations.",Bachelor's Degree,92,23469,22876
+2015_2016,009333,University of Illinois At Springfield,Public,"Business Administration, Management and Operations.",Master's Degree,12,NA,30338
+2016_2017,009333,University of Illinois At Springfield,Public,"Business Administration, Management and Operations.",Bachelor's Degree,120,20250,20900
+2016_2017,009333,University of Illinois At Springfield,Public,"Business Administration, Management and Operations.",Master's Degree,24,34367,33513
+2015_2016,009333,University of Illinois At Springfield,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,48,39397,41361
+2016_2017,009333,University of Illinois At Springfield,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,29,41581,39932
+2015_2016,009333,University of Illinois At Springfield,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,10,NA,17188
+2016_2017,009333,University of Illinois At Springfield,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,17,NA,18982
+2015_2016,009333,University of Illinois At Springfield,Public,Communication and Media Studies.,Bachelor's Degree,51,21501,22013
+2015_2016,009333,University of Illinois At Springfield,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Communication and Media Studies.,Bachelor's Degree,53,21157,21565
+2016_2017,009333,University of Illinois At Springfield,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Computer Science.,Bachelor's Degree,77,19710,20761
+2015_2016,009333,University of Illinois At Springfield,Public,Computer Science.,Master's Degree,47,26278,28121
+2016_2017,009333,University of Illinois At Springfield,Public,Computer Science.,Bachelor's Degree,78,19046,20603
+2016_2017,009333,University of Illinois At Springfield,Public,Computer Science.,Master's Degree,65,29031,28256
+2015_2016,009333,University of Illinois At Springfield,Public,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Computer Systems Analysis.,Master's Degree,10,NA,24861
+2016_2017,009333,University of Illinois At Springfield,Public,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Computer Systems Analysis.,Master's Degree,17,NA,32107
+2015_2016,009333,University of Illinois At Springfield,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Criminal Justice and Corrections.,Bachelor's Degree,33,18750,20580
+2016_2017,009333,University of Illinois At Springfield,Public,Criminal Justice and Corrections.,Bachelor's Degree,43,19000,20760
+2015_2016,009333,University of Illinois At Springfield,Public,Economics.,Bachelor's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Economics.,Bachelor's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Educational Administration and Supervision.,Master's Degree,20,25075,28617
+2015_2016,009333,University of Illinois At Springfield,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Educational Administration and Supervision.,Master's Degree,19,NA,30640
+2016_2017,009333,University of Illinois At Springfield,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,"English Language and Literature, General.",Bachelor's Degree,28,17520,18181
+2015_2016,009333,University of Illinois At Springfield,Public,"English Language and Literature, General.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,"English Language and Literature, General.",Bachelor's Degree,31,20154,20344
+2016_2017,009333,University of Illinois At Springfield,Public,"English Language and Literature, General.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,History.,Bachelor's Degree,25,18793,19567
+2015_2016,009333,University of Illinois At Springfield,Public,History.,Master's Degree,13,NA,31363
+2016_2017,009333,University of Illinois At Springfield,Public,History.,Bachelor's Degree,19,NA,22075
+2016_2017,009333,University of Illinois At Springfield,Public,History.,Master's Degree,11,NA,25257
+2015_2016,009333,University of Illinois At Springfield,Public,"Human Services, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,"Human Services, General.",Master's Degree,32,39709,37460
+2016_2017,009333,University of Illinois At Springfield,Public,"Human Services, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,"Human Services, General.",Master's Degree,29,32892,34247
+2015_2016,009333,University of Illinois At Springfield,Public,International/Global Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,International/Global Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Journalism.,Master's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Journalism.,Master's Degree,10,NA,25211
+2015_2016,009333,University of Illinois At Springfield,Public,"Legal Professions and Studies, Other.",Bachelor's Degree,15,NA,25212
+2015_2016,009333,University of Illinois At Springfield,Public,"Legal Professions and Studies, Other.",Master's Degree,12,NA,42935
+2016_2017,009333,University of Illinois At Springfield,Public,"Legal Professions and Studies, Other.",Bachelor's Degree,21,24680,23341
+2016_2017,009333,University of Illinois At Springfield,Public,"Legal Professions and Studies, Other.",Master's Degree,15,NA,33529
+2015_2016,009333,University of Illinois At Springfield,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,28,23678,23254
+2015_2016,009333,University of Illinois At Springfield,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,24,20377,19952
+2016_2017,009333,University of Illinois At Springfield,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,10,NA,39274
+2015_2016,009333,University of Illinois At Springfield,Public,Mathematics.,Bachelor's Degree,22,21579,21398
+2016_2017,009333,University of Illinois At Springfield,Public,Mathematics.,Bachelor's Degree,21,17148,18720
+2015_2016,009333,University of Illinois At Springfield,Public,Mental and Social Health Services and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Mental and Social Health Services and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,NA,NA,18308
+2016_2017,009333,University of Illinois At Springfield,Public,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,NA,13877,15175
+2015_2016,009333,University of Illinois At Springfield,Public,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Natural Resources Conservation and Research.,Master's Degree,10,NA,33742
+2016_2017,009333,University of Illinois At Springfield,Public,Natural Resources Conservation and Research.,Bachelor's Degree,10,NA,22142
+2016_2017,009333,University of Illinois At Springfield,Public,Natural Resources Conservation and Research.,Master's Degree,12,NA,29316
+2015_2016,009333,University of Illinois At Springfield,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Political Science and Government.,Bachelor's Degree,19,NA,16049
+2015_2016,009333,University of Illinois At Springfield,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Political Science and Government.,Bachelor's Degree,25,17436,20647
+2016_2017,009333,University of Illinois At Springfield,Public,Political Science and Government.,Master's Degree,10,NA,20469
+2015_2016,009333,University of Illinois At Springfield,Public,"Psychology, General.",Bachelor's Degree,65,19513,22660
+2016_2017,009333,University of Illinois At Springfield,Public,"Psychology, General.",Bachelor's Degree,88,19157,21684
+2015_2016,009333,University of Illinois At Springfield,Public,"Public Administration and Social Service Professions, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,"Public Administration and Social Service Professions, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Public Administration.,Master's Degree,56,29878,30501
+2015_2016,009333,University of Illinois At Springfield,Public,Public Administration.,Doctoral Degree,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Public Administration.,Master's Degree,54,31355,31324
+2016_2017,009333,University of Illinois At Springfield,Public,Public Administration.,Doctoral Degree,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,009333,University of Illinois At Springfield,Public,Public Health.,Master's Degree,26,30446,31955
+2016_2017,009333,University of Illinois At Springfield,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,009333,University of Illinois At Springfield,Public,Public Health.,Master's Degree,26,29688,31208
+2015_2016,009333,University of Illinois At Springfield,Public,Social Work.,Bachelor's Degree,40,21301,21856
+2016_2017,009333,University of Illinois At Springfield,Public,Social Work.,Bachelor's Degree,39,20270,18885
+2015_2016,009333,University of Illinois At Springfield,Public,Sociology and Anthropology.,Bachelor's Degree,NA,NA,18757
+2016_2017,009333,University of Illinois At Springfield,Public,Sociology and Anthropology.,Bachelor's Degree,NA,18000,19377
+2016_2017,009333,University of Illinois At Springfield,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA

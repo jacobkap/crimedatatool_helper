@@ -4,10 +4,6 @@ source(here::here('R/utils.R'))
 ucr <-
   offenses_known_yearly_1960_2017 %>%
   dplyr::filter(number_of_months_reported %in% 12) %>%
-                # !state %in% c("guam",
-                #               "canal zone",
-                #               "puerto rico",
-                #               "virgin islands")) %>%
   dplyr::left_join(crosswalk_agencies) %>%
   dplyr::filter(agency != "NANA",
                 ori    != "FL01394") %>%

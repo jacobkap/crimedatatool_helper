@@ -1,0 +1,658 @@
+cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
+2015_2016,002103,"University of Maryland, College Park",Public,Accounting and Related Services.,Bachelor's Degree,225,16500,17404
+2015_2016,002103,"University of Maryland, College Park",Public,Accounting and Related Services.,Master's Degree,23,64792,67656
+2016_2017,002103,"University of Maryland, College Park",Public,Accounting and Related Services.,Bachelor's Degree,208,16375,17239
+2016_2017,002103,"University of Maryland, College Park",Public,Accounting and Related Services.,Master's Degree,41,58931,60315
+2015_2016,002103,"University of Maryland, College Park",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,78,22390,22097
+2015_2016,002103,"University of Maryland, College Park",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,91,22728,22696
+2016_2017,002103,"University of Maryland, College Park",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Agricultural Business and Management.,Bachelor's Degree,22,19750,19020
+2015_2016,002103,"University of Maryland, College Park",Public,Agricultural Business and Management.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Agricultural Business and Management.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Agricultural Business and Management.,Bachelor's Degree,28,20750,18831
+2016_2017,002103,"University of Maryland, College Park",Public,Agricultural Business and Management.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Agricultural Business and Management.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Agricultural Engineering.,Bachelor's Degree,52,21422,20904
+2015_2016,002103,"University of Maryland, College Park",Public,Agricultural Engineering.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Agricultural Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Agricultural Engineering.,Bachelor's Degree,60,21172,18433
+2016_2017,002103,"University of Maryland, College Park",Public,Agricultural Engineering.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Agricultural Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Agriculture, Agriculture Operations, and Related Sciences, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Agriculture, Agriculture Operations, and Related Sciences, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Agriculture, Agriculture Operations, and Related Sciences, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Agriculture, Agriculture Operations, and Related Sciences, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Agriculture, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Agriculture, General.",Bachelor's Degree,15,NA,20965
+2015_2016,002103,"University of Maryland, College Park",Public,"Agriculture, General.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Agriculture, General.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Agriculture, General.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Agriculture, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Agriculture, General.",Bachelor's Degree,12,NA,19484
+2016_2017,002103,"University of Maryland, College Park",Public,"Agriculture, General.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Agriculture, General.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Agriculture, General.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Animal Sciences.,Bachelor's Degree,52,24640,20671
+2015_2016,002103,"University of Maryland, College Park",Public,Animal Sciences.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Animal Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Animal Sciences.,Bachelor's Degree,50,17462,18551
+2016_2017,002103,"University of Maryland, College Park",Public,Animal Sciences.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Animal Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Anthropology.,Bachelor's Degree,33,15000,16244
+2015_2016,002103,"University of Maryland, College Park",Public,Anthropology.,Master's Degree,12,NA,33768
+2015_2016,002103,"University of Maryland, College Park",Public,Anthropology.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Anthropology.,Bachelor's Degree,32,17919,17618
+2016_2017,002103,"University of Maryland, College Park",Public,Anthropology.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Anthropology.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Apparel and Textiles.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Apparel and Textiles.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Apparel and Textiles.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Apparel and Textiles.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Applied Mathematics.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Applied Mathematics.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Applied Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Applied Mathematics.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Applied Mathematics.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Applied Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Architecture.,Bachelor's Degree,44,17177,17820
+2015_2016,002103,"University of Maryland, College Park",Public,Architecture.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Architecture.,Master's Degree,28,44293,50050
+2016_2017,002103,"University of Maryland, College Park",Public,Architecture.,Bachelor's Degree,52,15250,16481
+2016_2017,002103,"University of Maryland, College Park",Public,Architecture.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Architecture.,Master's Degree,32,51502,53088
+2015_2016,002103,"University of Maryland, College Park",Public,Area Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Area Studies.,Bachelor's Degree,52,21611,21354
+2015_2016,002103,"University of Maryland, College Park",Public,Area Studies.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Area Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Area Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Area Studies.,Bachelor's Degree,49,22261,22373
+2016_2017,002103,"University of Maryland, College Park",Public,Area Studies.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Area Studies.,Doctoral Degree,12,NA,69651
+2015_2016,002103,"University of Maryland, College Park",Public,"Arts, Entertainment,and Media Management.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Arts, Entertainment,and Media Management.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Astronomy and Astrophysics.,Bachelor's Degree,13,NA,20138
+2015_2016,002103,"University of Maryland, College Park",Public,Astronomy and Astrophysics.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Astronomy and Astrophysics.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Astronomy and Astrophysics.,Bachelor's Degree,13,NA,20991
+2016_2017,002103,"University of Maryland, College Park",Public,Astronomy and Astrophysics.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Astronomy and Astrophysics.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Atmospheric Sciences and Meteorology.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Atmospheric Sciences and Meteorology.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Atmospheric Sciences and Meteorology.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Atmospheric Sciences and Meteorology.,Bachelor's Degree,13,NA,20696
+2016_2017,002103,"University of Maryland, College Park",Public,Atmospheric Sciences and Meteorology.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Atmospheric Sciences and Meteorology.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,40,21541,19977
+2015_2016,002103,"University of Maryland, College Park",Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,38,20000,18041
+2016_2017,002103,"University of Maryland, College Park",Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Biological and Physical Sciences.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Biological and Physical Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Biological and Physical Sciences.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Biological and Physical Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Biology, General.",Bachelor's Degree,339,19375,18141
+2015_2016,002103,"University of Maryland, College Park",Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Biology, General.",Bachelor's Degree,352,19000,18029
+2016_2017,002103,"University of Maryland, College Park",Public,"Biology, General.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Botany/Plant Biology.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Botany/Plant Biology.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Botany/Plant Biology.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Botany/Plant Biology.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Business Administration, Management and Operations.",Bachelor's Degree,165,19500,17659
+2015_2016,002103,"University of Maryland, College Park",Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Business Administration, Management and Operations.",Master's Degree,261,70966,76766
+2016_2017,002103,"University of Maryland, College Park",Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Business Administration, Management and Operations.",Bachelor's Degree,156,17844,17343
+2016_2017,002103,"University of Maryland, College Park",Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Business Administration, Management and Operations.",Master's Degree,337,68345,72466
+2015_2016,002103,"University of Maryland, College Park",Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Business/Commerce, General.",Master's Degree,NA,52700,60438
+2015_2016,002103,"University of Maryland, College Park",Public,"Business/Commerce, General.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Business/Commerce, General.",Master's Degree,NA,87152,96171
+2016_2017,002103,"University of Maryland, College Park",Public,"Business/Commerce, General.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Chemical Engineering.,Bachelor's Degree,55,23000,21026
+2015_2016,002103,"University of Maryland, College Park",Public,Chemical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Chemical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Chemical Engineering.,Bachelor's Degree,65,22500,20772
+2016_2017,002103,"University of Maryland, College Park",Public,Chemical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Chemical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Chemistry.,Bachelor's Degree,25,15000,17608
+2015_2016,002103,"University of Maryland, College Park",Public,Chemistry.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Chemistry.,Bachelor's Degree,23,17750,17172
+2016_2017,002103,"University of Maryland, College Park",Public,Chemistry.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"City/Urban, Community and Regional Planning.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"City/Urban, Community and Regional Planning.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"City/Urban, Community and Regional Planning.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"City/Urban, Community and Regional Planning.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Civil Engineering.,Bachelor's Degree,114,21250,20420
+2015_2016,002103,"University of Maryland, College Park",Public,Civil Engineering.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Civil Engineering.,Bachelor's Degree,111,21250,20114
+2016_2017,002103,"University of Maryland, College Park",Public,Civil Engineering.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Classics and Classical Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Classics and Classical Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,10,NA,23695
+2016_2017,002103,"University of Maryland, College Park",Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Communication and Media Studies.,Bachelor's Degree,255,19500,18972
+2015_2016,002103,"University of Maryland, College Park",Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Communication and Media Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Communication and Media Studies.,Bachelor's Degree,253,19000,18356
+2016_2017,002103,"University of Maryland, College Park",Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Communication and Media Studies.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Communication Disorders Sciences and Services.,Bachelor's Degree,58,20889,18919
+2015_2016,002103,"University of Maryland, College Park",Public,Communication Disorders Sciences and Services.,Master's Degree,23,42000,43902
+2015_2016,002103,"University of Maryland, College Park",Public,Communication Disorders Sciences and Services.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Communication Disorders Sciences and Services.,First Professional Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Communication Disorders Sciences and Services.,Bachelor's Degree,69,19500,17910
+2016_2017,002103,"University of Maryland, College Park",Public,Communication Disorders Sciences and Services.,Master's Degree,29,51260,49939
+2016_2017,002103,"University of Maryland, College Park",Public,Communication Disorders Sciences and Services.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Communication Disorders Sciences and Services.,First Professional Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Computer and Information Sciences, General.",Bachelor's Degree,200,21500,20489
+2015_2016,002103,"University of Maryland, College Park",Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Computer and Information Sciences, General.",Bachelor's Degree,270,21328,19937
+2016_2017,002103,"University of Maryland, College Park",Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Computer Engineering.,Bachelor's Degree,31,15500,15797
+2016_2017,002103,"University of Maryland, College Park",Public,Computer Engineering.,Bachelor's Degree,37,20500,18830
+2015_2016,002103,"University of Maryland, College Park",Public,Computer Programming.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Computer Programming.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Crafts/Craft Design, Folk Art and Artisanry.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Crafts/Craft Design, Folk Art and Artisanry.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Criminology.,Bachelor's Degree,353,16445,17371
+2015_2016,002103,"University of Maryland, College Park",Public,Criminology.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Criminology.,Doctoral Degree,11,NA,44936
+2016_2017,002103,"University of Maryland, College Park",Public,Criminology.,Bachelor's Degree,370,16468,17094
+2016_2017,002103,"University of Maryland, College Park",Public,Criminology.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Criminology.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Curriculum and Instruction.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Curriculum and Instruction.,Master's Degree,97,34500,34836
+2015_2016,002103,"University of Maryland, College Park",Public,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Curriculum and Instruction.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Curriculum and Instruction.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Curriculum and Instruction.,Master's Degree,154,33097,35433
+2016_2017,002103,"University of Maryland, College Park",Public,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Curriculum and Instruction.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Dance.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Dance.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Dance.,Bachelor's Degree,13,NA,19251
+2016_2017,002103,"University of Maryland, College Park",Public,Dance.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Demography and Population Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Demography and Population Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Dental Support Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,33,19500,19261
+2015_2016,002103,"University of Maryland, College Park",Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Drama/Theatre Arts and Stagecraft.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,42,18250,19120
+2016_2017,002103,"University of Maryland, College Park",Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Drama/Theatre Arts and Stagecraft.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,25,21500,21693
+2016_2017,002103,"University of Maryland, College Park",Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,35,21875,21306
+2015_2016,002103,"University of Maryland, College Park",Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,75,20561,20073
+2015_2016,002103,"University of Maryland, College Park",Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,67,24250,21398
+2016_2017,002103,"University of Maryland, College Park",Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Economics.,Bachelor's Degree,259,18852,19172
+2015_2016,002103,"University of Maryland, College Park",Public,Economics.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Economics.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Economics.,Bachelor's Degree,314,19022,18524
+2016_2017,002103,"University of Maryland, College Park",Public,Economics.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Economics.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Education, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Education, General.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Education, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Education, General.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Educational Administration and Supervision.,Master's Degree,15,NA,26604
+2015_2016,002103,"University of Maryland, College Park",Public,Educational Administration and Supervision.,Doctoral Degree,12,NA,44905
+2015_2016,002103,"University of Maryland, College Park",Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Educational Administration and Supervision.,Master's Degree,17,NA,26039
+2016_2017,002103,"University of Maryland, College Park",Public,Educational Administration and Supervision.,Doctoral Degree,14,NA,65085
+2016_2017,002103,"University of Maryland, College Park",Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Educational Assessment, Evaluation, and Research.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Educational Assessment, Evaluation, and Research.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Educational Assessment, Evaluation, and Research.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Educational Assessment, Evaluation, and Research.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Educational Assessment, Evaluation, and Research.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Educational Assessment, Evaluation, and Research.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Educational Assessment, Evaluation, and Research.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Educational Assessment, Evaluation, and Research.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,74,18250,18190
+2015_2016,002103,"University of Maryland, College Park",Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,91,19839,18926
+2016_2017,002103,"University of Maryland, College Park",Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Engineering, General.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Engineering, General.",Master's Degree,53,25900,29468
+2016_2017,002103,"University of Maryland, College Park",Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Engineering, General.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Engineering, General.",Master's Degree,56,26000,29816
+2015_2016,002103,"University of Maryland, College Park",Public,"Engineering, Other.",Bachelor's Degree,28,20500,20194
+2015_2016,002103,"University of Maryland, College Park",Public,"Engineering, Other.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Engineering, Other.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Engineering, Other.",Bachelor's Degree,24,21375,19351
+2016_2017,002103,"University of Maryland, College Park",Public,"Engineering, Other.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Engineering, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"English Language and Literature, General.",Bachelor's Degree,161,19500,20228
+2015_2016,002103,"University of Maryland, College Park",Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"English Language and Literature, General.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"English Language and Literature, General.",Bachelor's Degree,145,19500,19651
+2016_2017,002103,"University of Maryland, College Park",Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"English Language and Literature, General.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,23751,21605
+2015_2016,002103,"University of Maryland, College Park",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,19500,20881
+2016_2017,002103,"University of Maryland, College Park",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Family and Consumer Economics and Related Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Family and Consumer Economics and Related Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Film/Video and Photographic Arts.,Bachelor's Degree,12,NA,19586
+2016_2017,002103,"University of Maryland, College Park",Public,Film/Video and Photographic Arts.,Bachelor's Degree,20,23229,21891
+2015_2016,002103,"University of Maryland, College Park",Public,Finance and Financial Management Services.,Bachelor's Degree,188,18524,17282
+2015_2016,002103,"University of Maryland, College Park",Public,Finance and Financial Management Services.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Finance and Financial Management Services.,Bachelor's Degree,220,18077,17326
+2016_2017,002103,"University of Maryland, College Park",Public,Finance and Financial Management Services.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Fine and Studio Arts.,Bachelor's Degree,90,21250,20197
+2015_2016,002103,"University of Maryland, College Park",Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Fine and Studio Arts.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Fine and Studio Arts.,Bachelor's Degree,97,21000,20643
+2016_2017,002103,"University of Maryland, College Park",Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Fine and Studio Arts.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Food Science and Technology.,Bachelor's Degree,50,19250,18212
+2015_2016,002103,"University of Maryland, College Park",Public,Food Science and Technology.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Food Science and Technology.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Food Science and Technology.,Bachelor's Degree,52,21349,20780
+2016_2017,002103,"University of Maryland, College Park",Public,Food Science and Technology.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Food Science and Technology.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Foods, Nutrition, and Related Services.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Foods, Nutrition, and Related Services.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Forestry.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Forestry.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Geography and Cartography.,Bachelor's Degree,72,20500,19687
+2015_2016,002103,"University of Maryland, College Park",Public,Geography and Cartography.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Geography and Cartography.,Bachelor's Degree,89,21500,21119
+2016_2017,002103,"University of Maryland, College Park",Public,Geography and Cartography.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,13,NA,16805
+2016_2017,002103,"University of Maryland, College Park",Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Germanic Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,10,NA,19728
+2016_2017,002103,"University of Maryland, College Park",Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Germanic Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Gerontology.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Gerontology.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Health and Physical Education/Fitness.,Bachelor's Degree,246,19991,19667
+2015_2016,002103,"University of Maryland, College Park",Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Health and Physical Education/Fitness.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Health and Physical Education/Fitness.,Bachelor's Degree,277,20277,20551
+2016_2017,002103,"University of Maryland, College Park",Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Health and Physical Education/Fitness.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,History.,Bachelor's Degree,85,21500,21027
+2015_2016,002103,"University of Maryland, College Park",Public,History.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,History.,Doctoral Degree,10,NA,54719
+2016_2017,002103,"University of Maryland, College Park",Public,History.,Bachelor's Degree,96,21500,21195
+2016_2017,002103,"University of Maryland, College Park",Public,History.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,History.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Housing and Human Environments.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Housing and Human Environments.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Human Computer Interaction.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Human Computer Interaction.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,180,19500,19520
+2015_2016,002103,"University of Maryland, College Park",Public,"Human Development, Family Studies, and Related Services.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Human Development, Family Studies, and Related Services.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,174,19440,19381
+2016_2017,002103,"University of Maryland, College Park",Public,"Human Development, Family Studies, and Related Services.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Human Development, Family Studies, and Related Services.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Information Science/Studies.,Bachelor's Degree,108,20452,18440
+2015_2016,002103,"University of Maryland, College Park",Public,Information Science/Studies.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Information Science/Studies.,Bachelor's Degree,108,18653,18270
+2016_2017,002103,"University of Maryland, College Park",Public,Information Science/Studies.,Master's Degree,13,NA,53709
+2015_2016,002103,"University of Maryland, College Park",Public,Interior Architecture.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Interior Architecture.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,International Business.,Bachelor's Degree,49,15000,16238
+2016_2017,002103,"University of Maryland, College Park",Public,International Business.,Bachelor's Degree,44,18061,17443
+2015_2016,002103,"University of Maryland, College Park",Public,"Iranian/Persian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Iranian/Persian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Journalism.,Bachelor's Degree,136,22750,20848
+2015_2016,002103,"University of Maryland, College Park",Public,Journalism.,Master's Degree,23,33631,34169
+2015_2016,002103,"University of Maryland, College Park",Public,Journalism.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Journalism.,Bachelor's Degree,157,23000,21141
+2016_2017,002103,"University of Maryland, College Park",Public,Journalism.,Master's Degree,19,NA,34756
+2016_2017,002103,"University of Maryland, College Park",Public,Journalism.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Landscape Architecture.,Bachelor's Degree,13,NA,20204
+2015_2016,002103,"University of Maryland, College Park",Public,Landscape Architecture.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Landscape Architecture.,Bachelor's Degree,18,NA,22024
+2016_2017,002103,"University of Maryland, College Park",Public,Landscape Architecture.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Library Science and Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Library Science and Administration.,Master's Degree,100,33979,41004
+2015_2016,002103,"University of Maryland, College Park",Public,Library Science and Administration.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Library Science and Administration.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Library Science and Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Library Science and Administration.,Master's Degree,91,35175,42146
+2016_2017,002103,"University of Maryland, College Park",Public,Library Science and Administration.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Library Science and Administration.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Library Science, Other.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Library Science, Other.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,23,20132,20390
+2015_2016,002103,"University of Maryland, College Park",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,26,18112,18778
+2016_2017,002103,"University of Maryland, College Park",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Management Sciences and Quantitative Methods.,Bachelor's Degree,23,21742,21709
+2016_2017,002103,"University of Maryland, College Park",Public,Management Sciences and Quantitative Methods.,Bachelor's Degree,27,21000,19182
+2016_2017,002103,"University of Maryland, College Park",Public,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Marketing.,Bachelor's Degree,145,18500,17566
+2015_2016,002103,"University of Maryland, College Park",Public,Marketing.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Marketing.,Bachelor's Degree,139,18334,17200
+2016_2017,002103,"University of Maryland, College Park",Public,Marketing.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Materials Engineering,Bachelor's Degree,17,NA,24558
+2015_2016,002103,"University of Maryland, College Park",Public,Materials Engineering,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Materials Engineering,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Materials Engineering,Bachelor's Degree,22,21500,20225
+2016_2017,002103,"University of Maryland, College Park",Public,Materials Engineering,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Materials Engineering,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Mathematics.,Bachelor's Degree,69,18500,17572
+2015_2016,002103,"University of Maryland, College Park",Public,Mathematics.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Mathematics.,Bachelor's Degree,80,19125,18312
+2016_2017,002103,"University of Maryland, College Park",Public,Mathematics.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Mechanical Engineering.,Bachelor's Degree,219,19739,18718
+2015_2016,002103,"University of Maryland, College Park",Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Mechanical Engineering.,Bachelor's Degree,247,20001,19080
+2016_2017,002103,"University of Maryland, College Park",Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Mental and Social Health Services and Allied Professions.,Master's Degree,12,NA,32065
+2016_2017,002103,"University of Maryland, College Park",Public,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Bachelor's Degree,19,NA,19386
+2016_2017,002103,"University of Maryland, College Park",Public,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Bachelor's Degree,15,NA,18378
+2015_2016,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,15,NA,15455
+2015_2016,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,88,30750,33602
+2015_2016,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",First Professional Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,16,NA,14217
+2016_2017,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,112,33650,38047
+2016_2017,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",First Professional Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Multi/Interdisciplinary Studies, Other.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Museology/Museum Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Museology/Museum Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Music.,Bachelor's Degree,18,NA,20906
+2015_2016,002103,"University of Maryland, College Park",Public,Music.,Master's Degree,34,34024,35332
+2015_2016,002103,"University of Maryland, College Park",Public,Music.,Doctoral Degree,24,38707,55551
+2016_2017,002103,"University of Maryland, College Park",Public,Music.,Bachelor's Degree,18,NA,23117
+2016_2017,002103,"University of Maryland, College Park",Public,Music.,Master's Degree,29,35980,43719
+2016_2017,002103,"University of Maryland, College Park",Public,Music.,Doctoral Degree,23,37540,56540
+2015_2016,002103,"University of Maryland, College Park",Public,Natural Resources Conservation and Research.,Bachelor's Degree,61,19500,19815
+2015_2016,002103,"University of Maryland, College Park",Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Natural Resources Conservation and Research.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Natural Resources Conservation and Research.,Bachelor's Degree,55,21500,19747
+2016_2017,002103,"University of Maryland, College Park",Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Natural Resources Conservation and Research.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Natural Resources Management and Policy.,Master's Degree,20,59796,61276
+2016_2017,002103,"University of Maryland, College Park",Public,Natural Resources Management and Policy.,Master's Degree,17,NA,53491
+2015_2016,002103,"University of Maryland, College Park",Public,Neurobiology and Neurosciences.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Neurobiology and Neurosciences.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Nuclear Engineering.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Nuclear Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Nuclear Engineering.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Nuclear Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Nutrition Sciences.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Nutrition Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Nutrition Sciences.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Nutrition Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Parks, Recreation and Leisure Studies.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Parks, Recreation and Leisure Studies.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Pharmacology and Toxicology.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Pharmacology and Toxicology.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Philosophy.,Bachelor's Degree,27,20500,21087
+2015_2016,002103,"University of Maryland, College Park",Public,Philosophy.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Philosophy.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Philosophy.,Bachelor's Degree,22,20750,19488
+2016_2017,002103,"University of Maryland, College Park",Public,Philosophy.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Philosophy.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Physical Sciences.,Bachelor's Degree,13,NA,19150
+2016_2017,002103,"University of Maryland, College Park",Public,Physical Sciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Physics.,Bachelor's Degree,40,20831,18882
+2015_2016,002103,"University of Maryland, College Park",Public,Physics.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Physics.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Physics.,Bachelor's Degree,51,24052,20314
+2016_2017,002103,"University of Maryland, College Park",Public,Physics.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Physics.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Plant Sciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Plant Sciences.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Plant Sciences.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Plant Sciences.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Political Science and Government.,Bachelor's Degree,212,20937,19395
+2015_2016,002103,"University of Maryland, College Park",Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Political Science and Government.,Bachelor's Degree,226,20625,19549
+2016_2017,002103,"University of Maryland, College Park",Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Psychology, General.",Bachelor's Degree,269,19500,18962
+2015_2016,002103,"University of Maryland, College Park",Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Psychology, General.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Psychology, General.",Bachelor's Degree,257,18500,18476
+2016_2017,002103,"University of Maryland, College Park",Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Psychology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Psychology, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Psychology, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Public Health.,Bachelor's Degree,98,14174,16974
+2015_2016,002103,"University of Maryland, College Park",Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Public Health.,Master's Degree,38,34772,43954
+2015_2016,002103,"University of Maryland, College Park",Public,Public Health.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Public Health.,Bachelor's Degree,210,18875,18334
+2016_2017,002103,"University of Maryland, College Park",Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Public Health.,Master's Degree,45,38078,44707
+2016_2017,002103,"University of Maryland, College Park",Public,Public Health.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Public Policy Analysis.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Public Policy Analysis.,Master's Degree,88,38145,41826
+2015_2016,002103,"University of Maryland, College Park",Public,Public Policy Analysis.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Public Policy Analysis.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Public Policy Analysis.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Public Policy Analysis.,Master's Degree,90,35445,40503
+2016_2017,002103,"University of Maryland, College Park",Public,Public Policy Analysis.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Radio, Television, and Digital Communication.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Radio, Television, and Digital Communication.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Radio, Television, and Digital Communication.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Religion/Religious Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Religion/Religious Studies.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Religion/Religious Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Religion/Religious Studies.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Research and Experimental Psychology.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Research and Experimental Psychology.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,54,20875,20322
+2015_2016,002103,"University of Maryland, College Park",Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Romance Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,63,21001,20560
+2016_2017,002103,"University of Maryland, College Park",Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Romance Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Science, Technology and Society.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Science, Technology and Society.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Social and Philosophical Foundations of Education.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Social and Philosophical Foundations of Education.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Social Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Social Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Sociology.,Bachelor's Degree,117,21500,20831
+2015_2016,002103,"University of Maryland, College Park",Public,Sociology.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Sociology.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Sociology.,Bachelor's Degree,117,20366,20303
+2016_2017,002103,"University of Maryland, College Park",Public,Sociology.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Sociology.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Soil Sciences.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Soil Sciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Special Education and Teaching.,Bachelor's Degree,19,NA,16578
+2015_2016,002103,"University of Maryland, College Park",Public,Special Education and Teaching.,Master's Degree,42,24403,24658
+2015_2016,002103,"University of Maryland, College Park",Public,Special Education and Teaching.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Special Education and Teaching.,Bachelor's Degree,14,NA,18172
+2016_2017,002103,"University of Maryland, College Park",Public,Special Education and Teaching.,Master's Degree,27,20500,25763
+2016_2017,002103,"University of Maryland, College Park",Public,Special Education and Teaching.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Statistics.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Statistics.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Statistics.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Statistics.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Statistics.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Statistics.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Student Counseling and Personnel Services.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Student Counseling and Personnel Services.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Systems Engineering.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Systems Engineering.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Systems Science and Theory.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Systems Science and Theory.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Systems Science and Theory.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Systems Science and Theory.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,117,22000,20715
+2015_2016,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,141,21500,20492
+2016_2017,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,159,22352,21154
+2015_2016,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,53,20504,19538
+2016_2017,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Urban Studies/Affairs.,Master's Degree,14,NA,40663
+2016_2017,002103,"University of Maryland, College Park",Public,Urban Studies/Affairs.,Master's Degree,16,NA,55055
+2015_2016,002103,"University of Maryland, College Park",Public,Veterinary Biomedical and Clinical Sciences.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Veterinary Biomedical and Clinical Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Veterinary Biomedical and Clinical Sciences.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Veterinary Biomedical and Clinical Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Veterinary Medicine.,First Professional Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Veterinary Medicine.,First Professional Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Zoology/Animal Biology.,Bachelor's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Zoology/Animal Biology.,Master's Degree,NA,NA,NA
+2015_2016,002103,"University of Maryland, College Park",Public,Zoology/Animal Biology.,Doctoral Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Zoology/Animal Biology.,Bachelor's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Zoology/Animal Biology.,Master's Degree,NA,NA,NA
+2016_2017,002103,"University of Maryland, College Park",Public,Zoology/Animal Biology.,Doctoral Degree,NA,NA,NA

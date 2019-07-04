@@ -1,0 +1,389 @@
+cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
+2015_2016,003670,Brigham Young University,Private,Accounting and Related Services.,Bachelor's Degree,123,11000,12958
+2015_2016,003670,Brigham Young University,Private,Accounting and Related Services.,Master's Degree,65,13000,15538
+2016_2017,003670,Brigham Young University,Private,Accounting and Related Services.,Bachelor's Degree,136,12000,14296
+2016_2017,003670,Brigham Young University,Private,Accounting and Related Services.,Master's Degree,81,13000,14130
+2015_2016,003670,Brigham Young University,Private,Agricultural Business and Management.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Agricultural Business and Management.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Agricultural Production Operations.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,25,16081,17504
+2015_2016,003670,Brigham Young University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,27,15105,15415
+2016_2017,003670,Brigham Young University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Anthropology.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Anthropology.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,11,NA,13930
+2016_2017,003670,Brigham Young University,Private,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,16,NA,16769
+2015_2016,003670,Brigham Young University,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Archeology.,Bachelor's Degree,11,NA,18385
+2016_2017,003670,Brigham Young University,Private,Archeology.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Area Studies.,Bachelor's Degree,45,10000,15240
+2015_2016,003670,Brigham Young University,Private,Area Studies.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Area Studies.,Bachelor's Degree,56,10015,14414
+2016_2017,003670,Brigham Young University,Private,Area Studies.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Astronomy and Astrophysics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Astronomy and Astrophysics.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Astronomy and Astrophysics.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Astronomy and Astrophysics.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Bilingual, Multilingual, and Multicultural Education.",Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Bilingual, Multilingual, and Multicultural Education.",Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,29,10250,14192
+2015_2016,003670,Brigham Young University,Private,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,26,10000,14087
+2016_2017,003670,Brigham Young University,Private,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Biological and Physical Sciences.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Biological and Physical Sciences.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,12,NA,11780
+2016_2017,003670,Brigham Young University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,10,NA,9637
+2015_2016,003670,Brigham Young University,Private,Biotechnology.,Bachelor's Degree,13,NA,16637
+2015_2016,003670,Brigham Young University,Private,Biotechnology.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Biotechnology.,Bachelor's Degree,10,NA,8803
+2016_2017,003670,Brigham Young University,Private,Biotechnology.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,33,12003,13539
+2015_2016,003670,Brigham Young University,Private,"Business Administration, Management and Operations.",Master's Degree,171,41000,37388
+2016_2017,003670,Brigham Young University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,33,11914,14718
+2016_2017,003670,Brigham Young University,Private,"Business Administration, Management and Operations.",Master's Degree,197,41000,35020
+2015_2016,003670,Brigham Young University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Business/Managerial Economics.,Bachelor's Degree,11,NA,9016
+2016_2017,003670,Brigham Young University,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Chemical Engineering.,Bachelor's Degree,39,9698,14337
+2015_2016,003670,Brigham Young University,Private,Chemical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Chemical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Chemical Engineering.,Bachelor's Degree,41,9698,13803
+2016_2017,003670,Brigham Young University,Private,Chemical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Chemical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Chemistry.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Chemistry.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Chemistry.,Bachelor's Degree,10,NA,8038
+2016_2017,003670,Brigham Young University,Private,Chemistry.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Chemistry.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Civil Engineering.,Bachelor's Degree,34,10500,14512
+2015_2016,003670,Brigham Young University,Private,Civil Engineering.,Master's Degree,15,NA,15758
+2015_2016,003670,Brigham Young University,Private,Civil Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Civil Engineering.,Bachelor's Degree,37,11000,14516
+2016_2017,003670,Brigham Young University,Private,Civil Engineering.,Master's Degree,18,NA,14474
+2016_2017,003670,Brigham Young University,Private,Civil Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,12,NA,34993
+2015_2016,003670,Brigham Young University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,20,9275,11704
+2016_2017,003670,Brigham Young University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,19,NA,11728
+2015_2016,003670,Brigham Young University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,39,12690,12695
+2015_2016,003670,Brigham Young University,Private,Communication Disorders Sciences and Services.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,43,12000,13196
+2016_2017,003670,Brigham Young University,Private,Communication Disorders Sciences and Services.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,59,13500,16491
+2015_2016,003670,Brigham Young University,Private,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,61,13495,16742
+2016_2017,003670,Brigham Young University,Private,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Computer Engineering.,Bachelor's Degree,12,NA,16534
+2016_2017,003670,Brigham Young University,Private,Computer Engineering.,Bachelor's Degree,17,NA,15721
+2015_2016,003670,Brigham Young University,Private,Computer Science.,Bachelor's Degree,60,10094,14804
+2015_2016,003670,Brigham Young University,Private,Computer Science.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Computer Science.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Computer Science.,Bachelor's Degree,70,10000,16434
+2016_2017,003670,Brigham Young University,Private,Computer Science.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Computer Science.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Construction Management.,Bachelor's Degree,20,17640,20982
+2015_2016,003670,Brigham Young University,Private,Construction Management.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Construction Management.,Bachelor's Degree,16,NA,25085
+2016_2017,003670,Brigham Young University,Private,Construction Management.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Dance.,Bachelor's Degree,10,NA,18119
+2016_2017,003670,Brigham Young University,Private,Dance.,Bachelor's Degree,10,NA,15474
+2015_2016,003670,Brigham Young University,Private,Design and Applied Arts.,Bachelor's Degree,61,14925,17315
+2015_2016,003670,Brigham Young University,Private,Design and Applied Arts.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Design and Applied Arts.,Bachelor's Degree,54,15198,18040
+2016_2017,003670,Brigham Young University,Private,Design and Applied Arts.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,13,NA,9568
+2016_2017,003670,Brigham Young University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,10,NA,7750
+2015_2016,003670,Brigham Young University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,20,10500,15537
+2016_2017,003670,Brigham Young University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,23,15750,15654
+2015_2016,003670,Brigham Young University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,27,13500,17287
+2015_2016,003670,Brigham Young University,Private,"East Asian Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,19,NA,20387
+2016_2017,003670,Brigham Young University,Private,"East Asian Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,28,15229,18395
+2015_2016,003670,Brigham Young University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,38,15250,17836
+2016_2017,003670,Brigham Young University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Economics.,Bachelor's Degree,66,11789,14777
+2016_2017,003670,Brigham Young University,Private,Economics.,Bachelor's Degree,65,12500,14040
+2015_2016,003670,Brigham Young University,Private,"Education, Other.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Education, Other.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Educational Administration and Supervision.,Master's Degree,20,20137,21868
+2015_2016,003670,Brigham Young University,Private,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Educational Administration and Supervision.,Master's Degree,16,NA,19367
+2016_2017,003670,Brigham Young University,Private,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Educational Assessment, Evaluation, and Research.",Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Educational Assessment, Evaluation, and Research.",Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Educational/Instructional Media Design.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Educational/Instructional Media Design.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,25,14332,16063
+2015_2016,003670,Brigham Young University,Private,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,19,NA,15917
+2016_2017,003670,Brigham Young University,Private,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Engineering Technologies/Technicians, Other.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Engineering Technologies/Technicians, Other.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"English Language and Literature, General.",Bachelor's Degree,76,12001,16808
+2015_2016,003670,Brigham Young University,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"English Language and Literature, General.",Bachelor's Degree,82,14124,17567
+2016_2017,003670,Brigham Young University,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,16,NA,11947
+2016_2017,003670,Brigham Young University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,11,NA,10756
+2015_2016,003670,Brigham Young University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Family and Consumer Sciences/Human Sciences, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Family and Consumer Sciences/Human Sciences, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,31,11377,16863
+2015_2016,003670,Brigham Young University,Private,Film/Video and Photographic Arts.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Film/Video and Photographic Arts.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,35,11645,14665
+2016_2017,003670,Brigham Young University,Private,Film/Video and Photographic Arts.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Film/Video and Photographic Arts.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Finance and Financial Management Services.,Bachelor's Degree,66,11200,12729
+2016_2017,003670,Brigham Young University,Private,Finance and Financial Management Services.,Bachelor's Degree,76,11200,12005
+2015_2016,003670,Brigham Young University,Private,Fine and Studio Arts.,Bachelor's Degree,27,11075,13960
+2015_2016,003670,Brigham Young University,Private,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Fine and Studio Arts.,Bachelor's Degree,31,8300,12983
+2016_2017,003670,Brigham Young University,Private,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Food Science and Technology.,Bachelor's Degree,12,NA,12136
+2015_2016,003670,Brigham Young University,Private,Food Science and Technology.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Food Science and Technology.,Bachelor's Degree,14,NA,11381
+2016_2017,003670,Brigham Young University,Private,Food Science and Technology.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Genetics.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Genetics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Geography and Cartography.,Bachelor's Degree,28,13260,14855
+2015_2016,003670,Brigham Young University,Private,Geography and Cartography.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Geography and Cartography.,Bachelor's Degree,28,10442,11958
+2016_2017,003670,Brigham Young University,Private,Geography and Cartography.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Graphic Communications.,Bachelor's Degree,10,NA,12439
+2016_2017,003670,Brigham Young University,Private,Graphic Communications.,Bachelor's Degree,12,NA,13857
+2015_2016,003670,Brigham Young University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,54,13805,14887
+2015_2016,003670,Brigham Young University,Private,Health and Physical Education/Fitness.,Master's Degree,10,NA,23361
+2015_2016,003670,Brigham Young University,Private,Health and Physical Education/Fitness.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,69,12600,15029
+2016_2017,003670,Brigham Young University,Private,Health and Physical Education/Fitness.,Master's Degree,11,NA,23864
+2016_2017,003670,Brigham Young University,Private,Health and Physical Education/Fitness.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,History.,Bachelor's Degree,41,11383,16862
+2015_2016,003670,Brigham Young University,Private,History.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,History.,Bachelor's Degree,37,15500,16520
+2016_2017,003670,Brigham Young University,Private,History.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Housing and Human Environments.,Bachelor's Degree,11,NA,18767
+2016_2017,003670,Brigham Young University,Private,Housing and Human Environments.,Bachelor's Degree,13,NA,18021
+2015_2016,003670,Brigham Young University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,92,10876,12554
+2016_2017,003670,Brigham Young University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,93,11000,13782
+2015_2016,003670,Brigham Young University,Private,Human Resources Management and Services.,Bachelor's Degree,13,NA,14357
+2016_2017,003670,Brigham Young University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,International Relations and National Security Studies.,Bachelor's Degree,16,NA,12877
+2016_2017,003670,Brigham Young University,Private,International Relations and National Security Studies.,Bachelor's Degree,19,NA,13409
+2015_2016,003670,Brigham Young University,Private,Journalism.,Bachelor's Degree,26,12496,14788
+2016_2017,003670,Brigham Young University,Private,Journalism.,Bachelor's Degree,35,10770,14810
+2015_2016,003670,Brigham Young University,Private,Law.,Doctoral Degree,NA,60200,58200
+2015_2016,003670,Brigham Young University,Private,Law.,First Professional Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Law.,Doctoral Degree,NA,51250,51245
+2016_2017,003670,Brigham Young University,Private,Law.,First Professional Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,51,15987,17395
+2015_2016,003670,Brigham Young University,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,56,10123,14702
+2016_2017,003670,Brigham Young University,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Management Information Systems and Services.,Bachelor's Degree,34,11000,13989
+2015_2016,003670,Brigham Young University,Private,Management Information Systems and Services.,Master's Degree,36,11625,12259
+2016_2017,003670,Brigham Young University,Private,Management Information Systems and Services.,Bachelor's Degree,38,10352,11745
+2016_2017,003670,Brigham Young University,Private,Management Information Systems and Services.,Master's Degree,32,13885,13483
+2015_2016,003670,Brigham Young University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Manufacturing Engineering.,Bachelor's Degree,46,15683,19238
+2015_2016,003670,Brigham Young University,Private,Manufacturing Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Manufacturing Engineering.,Bachelor's Degree,34,13451,17627
+2016_2017,003670,Brigham Young University,Private,Manufacturing Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Marketing.,Bachelor's Degree,23,7500,10462
+2016_2017,003670,Brigham Young University,Private,Marketing.,Bachelor's Degree,23,5687,11926
+2015_2016,003670,Brigham Young University,Private,Mathematics.,Bachelor's Degree,16,NA,14632
+2015_2016,003670,Brigham Young University,Private,Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Mathematics.,Bachelor's Degree,14,NA,16113
+2016_2017,003670,Brigham Young University,Private,Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Mathematics.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Mechanical Engineering.,Bachelor's Degree,40,11721,14157
+2015_2016,003670,Brigham Young University,Private,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Mechanical Engineering.,Bachelor's Degree,51,11000,15424
+2016_2017,003670,Brigham Young University,Private,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Mental and Social Health Services and Allied Professions.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,13,NA,25625
+2016_2017,003670,Brigham Young University,Private,Mental and Social Health Services and Allied Professions.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Microbiological Sciences and Immunology.,Bachelor's Degree,23,7500,11457
+2015_2016,003670,Brigham Young University,Private,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Microbiological Sciences and Immunology.,Bachelor's Degree,26,7919,11167
+2016_2017,003670,Brigham Young University,Private,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Bachelor's Degree,20,17500,17810
+2016_2017,003670,Brigham Young University,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Bachelor's Degree,19,NA,17084
+2015_2016,003670,Brigham Young University,Private,Museology/Museum Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Museology/Museum Studies.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Museology/Museum Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Museology/Museum Studies.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Music.,Bachelor's Degree,22,14075,17027
+2015_2016,003670,Brigham Young University,Private,Music.,Master's Degree,16,NA,31284
+2016_2017,003670,Brigham Young University,Private,Music.,Bachelor's Degree,25,12500,17278
+2016_2017,003670,Brigham Young University,Private,Music.,Master's Degree,10,NA,30768
+2015_2016,003670,Brigham Young University,Private,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,52,9576,12765
+2015_2016,003670,Brigham Young University,Private,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,59,9152,11876
+2016_2017,003670,Brigham Young University,Private,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Nutrition Sciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Nutrition Sciences.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Nutrition Sciences.,Bachelor's Degree,10,NA,9531
+2016_2017,003670,Brigham Young University,Private,Nutrition Sciences.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,45,14000,15980
+2016_2017,003670,Brigham Young University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,22,14625,17779
+2015_2016,003670,Brigham Young University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Philosophy.,Bachelor's Degree,17,NA,18091
+2016_2017,003670,Brigham Young University,Private,Philosophy.,Bachelor's Degree,13,NA,14143
+2015_2016,003670,Brigham Young University,Private,Physics.,Bachelor's Degree,22,8547,9631
+2015_2016,003670,Brigham Young University,Private,Physics.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Physics.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Physics.,Bachelor's Degree,19,NA,9894
+2016_2017,003670,Brigham Young University,Private,Physics.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Physics.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,177,11000,13612
+2015_2016,003670,Brigham Young University,Private,"Physiology, Pathology and Related Sciences.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,187,11200,14383
+2016_2017,003670,Brigham Young University,Private,"Physiology, Pathology and Related Sciences.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Political Science and Government.,Bachelor's Degree,54,12788,14566
+2016_2017,003670,Brigham Young University,Private,Political Science and Government.,Bachelor's Degree,71,11000,13293
+2015_2016,003670,Brigham Young University,Private,"Psychology, General.",Bachelor's Degree,125,11129,14291
+2015_2016,003670,Brigham Young University,Private,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Psychology, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Psychology, General.",Bachelor's Degree,119,10950,13439
+2016_2017,003670,Brigham Young University,Private,"Psychology, General.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Psychology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Public Administration.,Master's Degree,79,31622,33138
+2016_2017,003670,Brigham Young University,Private,Public Administration.,Master's Degree,58,34908,34416
+2015_2016,003670,Brigham Young University,Private,Public Health.,Bachelor's Degree,65,12000,14541
+2016_2017,003670,Brigham Young University,Private,Public Health.,Bachelor's Degree,57,13000,15519
+2015_2016,003670,Brigham Young University,Private,Public Policy Analysis.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Public Policy Analysis.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,71,11798,15357
+2016_2017,003670,Brigham Young University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,56,10648,13631
+2015_2016,003670,Brigham Young University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,41,12500,14163
+2015_2016,003670,Brigham Young University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,14,NA,33698
+2016_2017,003670,Brigham Young University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,46,14107,16784
+2016_2017,003670,Brigham Young University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,13,NA,15624
+2016_2017,003670,Brigham Young University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Religious Education.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Religious Education.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Research and Experimental Psychology.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Research and Experimental Psychology.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,41,15380,17434
+2015_2016,003670,Brigham Young University,Private,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,50,13129,16188
+2016_2017,003670,Brigham Young University,Private,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,19,NA,15350
+2015_2016,003670,Brigham Young University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,17,NA,9926
+2016_2017,003670,Brigham Young University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Social Work.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Social Work.,Master's Degree,40,20500,24218
+2016_2017,003670,Brigham Young University,Private,Social Work.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Social Work.,Master's Degree,42,20500,23187
+2015_2016,003670,Brigham Young University,Private,Sociology.,Bachelor's Degree,45,12000,14916
+2015_2016,003670,Brigham Young University,Private,Sociology.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Sociology.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Sociology.,Bachelor's Degree,49,11500,14452
+2016_2017,003670,Brigham Young University,Private,Sociology.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Sociology.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Soil Sciences.,Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Soil Sciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Special Education and Teaching.,Bachelor's Degree,13,NA,10597
+2015_2016,003670,Brigham Young University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Special Education and Teaching.,Bachelor's Degree,13,NA,12096
+2016_2017,003670,Brigham Young University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Statistics.,Bachelor's Degree,25,11577,12848
+2015_2016,003670,Brigham Young University,Private,Statistics.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Statistics.,Bachelor's Degree,30,12435,14722
+2016_2017,003670,Brigham Young University,Private,Statistics.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Student Counseling and Personnel Services.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Student Counseling and Personnel Services.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,52,13059,13856
+2015_2016,003670,Brigham Young University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,62,10974,12065
+2016_2017,003670,Brigham Young University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,106,11000,13017
+2015_2016,003670,Brigham Young University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,96,12551,14896
+2016_2017,003670,Brigham Young University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Wildlife and Wildlands Science and Management.,Master's Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Wildlife and Wildlands Science and Management.,Doctoral Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Wildlife and Wildlands Science and Management.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Wildlife and Wildlands Science and Management.,Doctoral Degree,NA,NA,NA
+2015_2016,003670,Brigham Young University,Private,Zoology/Animal Biology.,Bachelor's Degree,23,13000,18099
+2015_2016,003670,Brigham Young University,Private,Zoology/Animal Biology.,Master's Degree,NA,NA,NA
+2016_2017,003670,Brigham Young University,Private,Zoology/Animal Biology.,Bachelor's Degree,28,9025,14005
+2016_2017,003670,Brigham Young University,Private,Zoology/Animal Biology.,Master's Degree,NA,NA,NA

@@ -1,8 +1,11 @@
-load("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/crosswalk_agencies.rda")
+load(here::here("data/crosswalk_agencies.rda"))
 library(tidyverse)
 library(data.table)
 library(fastDummies)
 library(splitstackshape)
+library(readr)
+library(here)
+library(dplyr)
 
 
 make_state_agency_choices <- function(data) {
@@ -24,13 +27,16 @@ make_largest_agency_json <- function(data) {
   write(largest_agency, "largest_agency_choices.json")
 }
 
-make_agency_csvs <- function(data) {
+make_agency_csvs <- function(data, yearly = TRUE) {
   data <- data.table::data.table(data)
   pb <- txtProgressBar(min = 0, max = length(unique(data$ORI)), style = 3)
   for (i in 1:length(unique(data$ORI))) {
     selected_ori = unique(data$ORI)[i]
     temp   <- data[ORI %in% selected_ori]
-    temp   <- dummy_rows_missing_years(temp)
+
+    if (yearly) {
+      temp   <- dummy_rows_missing_years(temp)
+    }
 
     state  <- unique(temp$state)
     agency <- unique(temp$agency)

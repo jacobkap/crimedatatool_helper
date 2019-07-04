@@ -1,0 +1,807 @@
+cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
+2015_2016,001081,Arizona State University,Public,Accounting and Related Services.,Bachelor's Degree,166,18438,20024
+2015_2016,001081,Arizona State University,Public,Accounting and Related Services.,Master's Degree,73,21400,27149
+2016_2017,001081,Arizona State University,Public,Accounting and Related Services.,Bachelor's Degree,224,17875,19197
+2016_2017,001081,Arizona State University,Public,Accounting and Related Services.,Master's Degree,69,22044,26897
+2015_2016,001081,Arizona State University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,82,23250,22836
+2015_2016,001081,Arizona State University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,17,NA,23028
+2015_2016,001081,Arizona State University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,91,20699,21291
+2016_2017,001081,Arizona State University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,18,NA,32601
+2016_2017,001081,Arizona State University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Agricultural Business and Management.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Agricultural Business and Management.,Master's Degree,15,NA,51565
+2016_2017,001081,Arizona State University,Public,Agricultural Business and Management.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Agricultural Business and Management.,Master's Degree,15,NA,51189
+2015_2016,001081,Arizona State University,Public,Air Transportation.,Bachelor's Degree,45,25000,23796
+2016_2017,001081,Arizona State University,Public,Air Transportation.,Bachelor's Degree,66,25114,23023
+2015_2016,001081,Arizona State University,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Anthropology.,Bachelor's Degree,104,23125,23441
+2015_2016,001081,Arizona State University,Public,Anthropology.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Anthropology.,Doctoral Degree,12,NA,55170
+2016_2017,001081,Arizona State University,Public,Anthropology.,Bachelor's Degree,129,21000,21644
+2016_2017,001081,Arizona State University,Public,Anthropology.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Anthropology.,Doctoral Degree,19,NA,72308
+2015_2016,001081,Arizona State University,Public,Applied Mathematics.,Bachelor's Degree,26,17887,20590
+2015_2016,001081,Arizona State University,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Applied Mathematics.,Bachelor's Degree,29,22000,21467
+2016_2017,001081,Arizona State University,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Applied Mathematics.,Doctoral Degree,12,NA,51702
+2015_2016,001081,Arizona State University,Public,Architectural Sciences and Technology.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Architectural Sciences and Technology.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Architecture.,Bachelor's Degree,46,22625,22727
+2015_2016,001081,Arizona State University,Public,Architecture.,Master's Degree,46,70027,80990
+2015_2016,001081,Arizona State University,Public,Architecture.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Architecture.,Bachelor's Degree,40,22125,23408
+2016_2017,001081,Arizona State University,Public,Architecture.,Master's Degree,26,75915,77913
+2016_2017,001081,Arizona State University,Public,Architecture.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Area Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Area Studies.,Bachelor's Degree,10,NA,28860
+2015_2016,001081,Arizona State University,Public,Area Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Area Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Area Studies.,Bachelor's Degree,NA,NA,25065
+2016_2017,001081,Arizona State University,Public,Area Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Area Studies.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Astronomy and Astrophysics.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Astronomy and Astrophysics.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Astronomy and Astrophysics.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Astronomy and Astrophysics.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,220,18125,19802
+2015_2016,001081,Arizona State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,262,17776,18710
+2016_2017,001081,Arizona State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Biological and Biomedical Sciences, Other.",Master's Degree,13,NA,33381
+2016_2017,001081,Arizona State University,Public,"Biological and Biomedical Sciences, Other.",Master's Degree,32,26194,29309
+2015_2016,001081,Arizona State University,Public,Biological/Biosystems Engineering.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Biological/Biosystems Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Biological/Biosystems Engineering.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Biological/Biosystems Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Biology, General.",Bachelor's Degree,618,20550,21352
+2015_2016,001081,Arizona State University,Public,"Biology, General.",Master's Degree,13,NA,33341
+2015_2016,001081,Arizona State University,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Biology, General.",Bachelor's Degree,762,20419,21011
+2016_2017,001081,Arizona State University,Public,"Biology, General.",Master's Degree,17,NA,32090
+2016_2017,001081,Arizona State University,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,10,NA,39809
+2015_2016,001081,Arizona State University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,11,NA,38087
+2016_2017,001081,Arizona State University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Biomedical/Medical Engineering.,Bachelor's Degree,107,20951,20690
+2015_2016,001081,Arizona State University,Public,Biomedical/Medical Engineering.,Master's Degree,37,20500,26230
+2015_2016,001081,Arizona State University,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Biomedical/Medical Engineering.,Bachelor's Degree,131,21045,20042
+2016_2017,001081,Arizona State University,Public,Biomedical/Medical Engineering.,Master's Degree,41,15524,22807
+2016_2017,001081,Arizona State University,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Botany/Plant Biology.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Botany/Plant Biology.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Botany/Plant Biology.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Botany/Plant Biology.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,536,20000,20454
+2015_2016,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Master's Degree,511,50795,51995
+2015_2016,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Graduate/Professional Certificate,NA,NA,34510
+2016_2017,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,800,19280,20076
+2016_2017,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Master's Degree,523,50848,53484
+2016_2017,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Business Administration, Management and Operations.",Graduate/Professional Certificate,NA,NA,52764
+2015_2016,001081,Arizona State University,Public,"Business, Management, Marketing, and Related Support Services, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,650,20500,20381
+2016_2017,001081,Arizona State University,Public,"Business, Management, Marketing, and Related Support Services, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,922,19750,20233
+2015_2016,001081,Arizona State University,Public,"Business/Commerce, General.",Master's Degree,42,28923,30472
+2016_2017,001081,Arizona State University,Public,"Business/Commerce, General.",Master's Degree,37,32904,33141
+2015_2016,001081,Arizona State University,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Chemical Engineering.,Bachelor's Degree,109,22820,23149
+2015_2016,001081,Arizona State University,Public,Chemical Engineering.,Master's Degree,11,NA,27534
+2015_2016,001081,Arizona State University,Public,Chemical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Chemical Engineering.,Bachelor's Degree,130,24035,24259
+2016_2017,001081,Arizona State University,Public,Chemical Engineering.,Master's Degree,15,NA,24494
+2016_2017,001081,Arizona State University,Public,Chemical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Chemistry.,Bachelor's Degree,40,25000,23543
+2015_2016,001081,Arizona State University,Public,Chemistry.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Chemistry.,Bachelor's Degree,49,21135,21066
+2016_2017,001081,Arizona State University,Public,Chemistry.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"City/Urban, Community and Regional Planning.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"City/Urban, Community and Regional Planning.",Bachelor's Degree,80,20702,20297
+2015_2016,001081,Arizona State University,Public,"City/Urban, Community and Regional Planning.",Master's Degree,18,NA,38740
+2015_2016,001081,Arizona State University,Public,"City/Urban, Community and Regional Planning.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"City/Urban, Community and Regional Planning.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"City/Urban, Community and Regional Planning.",Bachelor's Degree,97,20250,20031
+2016_2017,001081,Arizona State University,Public,"City/Urban, Community and Regional Planning.",Master's Degree,21,40000,46842
+2016_2017,001081,Arizona State University,Public,"City/Urban, Community and Regional Planning.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Civil Engineering.,Bachelor's Degree,96,22681,21811
+2015_2016,001081,Arizona State University,Public,Civil Engineering.,Master's Degree,26,25472,27011
+2015_2016,001081,Arizona State University,Public,Civil Engineering.,Doctoral Degree,12,NA,39805
+2016_2017,001081,Arizona State University,Public,Civil Engineering.,Bachelor's Degree,149,22863,21889
+2016_2017,001081,Arizona State University,Public,Civil Engineering.,Master's Degree,28,23438,24822
+2016_2017,001081,Arizona State University,Public,Civil Engineering.,Doctoral Degree,18,NA,38557
+2015_2016,001081,Arizona State University,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,14,NA,20590
+2015_2016,001081,Arizona State University,Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,58,76082,92563
+2016_2017,001081,Arizona State University,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,19,NA,20885
+2016_2017,001081,Arizona State University,Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,27,40592,45731
+2016_2017,001081,Arizona State University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,80,75371,85352
+2015_2016,001081,Arizona State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Cognitive Science.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Cognitive Science.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Cognitive Science.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Cognitive Science.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Communication and Media Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Communication and Media Studies.,Bachelor's Degree,774,21000,21361
+2015_2016,001081,Arizona State University,Public,Communication and Media Studies.,Master's Degree,31,41000,46681
+2015_2016,001081,Arizona State University,Public,Communication and Media Studies.,Doctoral Degree,11,NA,43680
+2016_2017,001081,Arizona State University,Public,Communication and Media Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Communication and Media Studies.,Bachelor's Degree,1077,21000,21391
+2016_2017,001081,Arizona State University,Public,Communication and Media Studies.,Master's Degree,30,38328,45483
+2016_2017,001081,Arizona State University,Public,Communication and Media Studies.,Doctoral Degree,12,NA,45143
+2015_2016,001081,Arizona State University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,62,18136,18061
+2015_2016,001081,Arizona State University,Public,Communication Disorders Sciences and Services.,Master's Degree,42,54634,54482
+2015_2016,001081,Arizona State University,Public,Communication Disorders Sciences and Services.,Doctoral Degree,15,NA,119117
+2016_2017,001081,Arizona State University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,96,17523,18541
+2016_2017,001081,Arizona State University,Public,Communication Disorders Sciences and Services.,Master's Degree,51,51479,54320
+2016_2017,001081,Arizona State University,Public,Communication Disorders Sciences and Services.,Doctoral Degree,18,NA,113702
+2015_2016,001081,Arizona State University,Public,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Community Organization and Advocacy.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Community Organization and Advocacy.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Community Organization and Advocacy.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Computer and Information Sciences and Support Services, Other.",Bachelor's Degree,15,NA,25232
+2016_2017,001081,Arizona State University,Public,"Computer and Information Sciences and Support Services, Other.",Bachelor's Degree,NA,25000,27423
+2015_2016,001081,Arizona State University,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,122,20000,20302
+2016_2017,001081,Arizona State University,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,156,21050,20707
+2015_2016,001081,Arizona State University,Public,Computer Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Computer Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Computer Engineering.,Bachelor's Degree,87,25141,24101
+2015_2016,001081,Arizona State University,Public,Computer Engineering.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Computer Engineering.,Bachelor's Degree,161,23756,24724
+2016_2017,001081,Arizona State University,Public,Computer Engineering.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Computer Science.,Bachelor's Degree,158,20887,21830
+2015_2016,001081,Arizona State University,Public,Computer Science.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Computer Science.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Computer Science.,Bachelor's Degree,231,19500,21475
+2016_2017,001081,Arizona State University,Public,Computer Science.,Master's Degree,11,NA,29107
+2016_2017,001081,Arizona State University,Public,Computer Science.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Computer Systems Analysis.,Bachelor's Degree,10,NA,22285
+2015_2016,001081,Arizona State University,Public,Computer Systems Analysis.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Computer Systems Analysis.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Computer/Information Technology Administration and Management.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,48,28625,28105
+2016_2017,001081,Arizona State University,Public,Computer/Information Technology Administration and Management.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Construction Engineering.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Construction Engineering.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Construction Engineering.,Bachelor's Degree,15,NA,22789
+2016_2017,001081,Arizona State University,Public,Construction Engineering.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Construction Management.,Bachelor's Degree,44,25750,26358
+2015_2016,001081,Arizona State University,Public,Construction Management.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Construction Management.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Construction Management.,Bachelor's Degree,70,21026,22570
+2016_2017,001081,Arizona State University,Public,Construction Management.,Master's Degree,24,31745,34075
+2016_2017,001081,Arizona State University,Public,Construction Management.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,595,21497,22311
+2015_2016,001081,Arizona State University,Public,Criminal Justice and Corrections.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Criminal Justice and Corrections.,Master's Degree,158,40968,43445
+2016_2017,001081,Arizona State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,768,20091,21551
+2016_2017,001081,Arizona State University,Public,Criminal Justice and Corrections.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Criminal Justice and Corrections.,Master's Degree,255,40664,45292
+2015_2016,001081,Arizona State University,Public,Criminology.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Criminology.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Criminology.,Master's Degree,12,NA,45374
+2016_2017,001081,Arizona State University,Public,Criminology.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Curriculum and Instruction.,Master's Degree,502,32870,36396
+2015_2016,001081,Arizona State University,Public,Curriculum and Instruction.,Doctoral Degree,15,NA,97352
+2016_2017,001081,Arizona State University,Public,Curriculum and Instruction.,Master's Degree,940,30500,35723
+2016_2017,001081,Arizona State University,Public,Curriculum and Instruction.,Doctoral Degree,14,NA,119348
+2015_2016,001081,Arizona State University,Public,Dance.,Bachelor's Degree,22,22507,22105
+2015_2016,001081,Arizona State University,Public,Dance.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Dance.,Bachelor's Degree,25,22250,21846
+2016_2017,001081,Arizona State University,Public,Dance.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Demography and Population Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Demography and Population Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Design and Applied Arts.,Bachelor's Degree,199,22500,22582
+2015_2016,001081,Arizona State University,Public,Design and Applied Arts.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Design and Applied Arts.,Master's Degree,22,69750,77289
+2016_2017,001081,Arizona State University,Public,Design and Applied Arts.,Bachelor's Degree,230,20500,21350
+2016_2017,001081,Arizona State University,Public,Design and Applied Arts.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Design and Applied Arts.,Master's Degree,26,48472,61101
+2015_2016,001081,Arizona State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,63,22250,21727
+2015_2016,001081,Arizona State University,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Drama/Theatre Arts and Stagecraft.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,71,19500,20634
+2016_2017,001081,Arizona State University,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,18,NA,45758
+2016_2017,001081,Arizona State University,Public,Drama/Theatre Arts and Stagecraft.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,26,24990,21896
+2015_2016,001081,Arizona State University,Public,"East Asian Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"East Asian Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,37,20500,21318
+2016_2017,001081,Arizona State University,Public,"East Asian Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"East Asian Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Economics.,Bachelor's Degree,150,18092,19489
+2015_2016,001081,Arizona State University,Public,Economics.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Economics.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Economics.,Bachelor's Degree,204,17967,18843
+2016_2017,001081,Arizona State University,Public,Economics.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Economics.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Education, General.",Doctoral Degree,20,37467,39475
+2016_2017,001081,Arizona State University,Public,"Education, General.",Doctoral Degree,26,40204,46729
+2015_2016,001081,Arizona State University,Public,"Education, Other.",Bachelor's Degree,115,21500,20827
+2015_2016,001081,Arizona State University,Public,"Education, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Education, Other.",Bachelor's Degree,149,21125,21474
+2016_2017,001081,Arizona State University,Public,"Education, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Educational Administration and Supervision.,Master's Degree,170,33550,38247
+2015_2016,001081,Arizona State University,Public,Educational Administration and Supervision.,Doctoral Degree,12,NA,78403
+2016_2017,001081,Arizona State University,Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Educational Administration and Supervision.,Master's Degree,235,34199,39471
+2016_2017,001081,Arizona State University,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Educational Assessment, Evaluation, and Research.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Educational Assessment, Evaluation, and Research.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Educational/Instructional Media Design.,Master's Degree,13,NA,39762
+2015_2016,001081,Arizona State University,Public,Educational/Instructional Media Design.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Educational/Instructional Media Design.,Master's Degree,12,NA,42730
+2016_2017,001081,Arizona State University,Public,Educational/Instructional Media Design.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,11,NA,30688
+2015_2016,001081,Arizona State University,Public,Electrical Engineering Technologies/Technicians.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Electrical Engineering Technologies/Technicians.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,129,21337,21666
+2015_2016,001081,Arizona State University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,20,26536,28791
+2015_2016,001081,Arizona State University,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,195,20764,21797
+2016_2017,001081,Arizona State University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,27,23238,26855
+2016_2017,001081,Arizona State University,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Engineering-Related Fields.,Bachelor's Degree,21,22500,25427
+2015_2016,001081,Arizona State University,Public,Engineering-Related Fields.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Engineering-Related Fields.,Bachelor's Degree,41,22500,23158
+2016_2017,001081,Arizona State University,Public,Engineering-Related Fields.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Engineering Science.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Engineering Science.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Engineering Science.,Master's Degree,10,NA,35935
+2015_2016,001081,Arizona State University,Public,"Engineering Technologies/Technicians, Other.",Master's Degree,27,21500,29931
+2016_2017,001081,Arizona State University,Public,"Engineering Technologies/Technicians, Other.",Master's Degree,42,30750,35155
+2015_2016,001081,Arizona State University,Public,"Engineering, General.",Bachelor's Degree,122,24999,25356
+2015_2016,001081,Arizona State University,Public,"Engineering, General.",Master's Degree,28,44585,41928
+2016_2017,001081,Arizona State University,Public,"Engineering, General.",Bachelor's Degree,183,24970,25500
+2016_2017,001081,Arizona State University,Public,"Engineering, General.",Master's Degree,50,29748,33678
+2015_2016,001081,Arizona State University,Public,"Engineering, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Engineering, Other.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Engineering, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Engineering, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"English Language and Literature, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"English Language and Literature, General.",Bachelor's Degree,294,21850,22076
+2015_2016,001081,Arizona State University,Public,"English Language and Literature, General.",Master's Degree,16,NA,36631
+2015_2016,001081,Arizona State University,Public,"English Language and Literature, General.",Doctoral Degree,18,NA,91713
+2016_2017,001081,Arizona State University,Public,"English Language and Literature, General.",Bachelor's Degree,414,21250,21635
+2016_2017,001081,Arizona State University,Public,"English Language and Literature, General.",Master's Degree,31,37192,40727
+2016_2017,001081,Arizona State University,Public,"English Language and Literature, General.",Doctoral Degree,19,NA,82740
+2015_2016,001081,Arizona State University,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Entrepreneurial and Small Business Operations.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Entrepreneurial and Small Business Operations.,Bachelor's Degree,32,14750,17350
+2016_2017,001081,Arizona State University,Public,Entrepreneurial and Small Business Operations.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Environmental Control Technologies/Technicians.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Environmental Control Technologies/Technicians.,Master's Degree,10,NA,38506
+2015_2016,001081,Arizona State University,Public,Environmental Design.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Environmental Design.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Environmental Design.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,21,25202,26668
+2016_2017,001081,Arizona State University,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,17,NA,23599
+2015_2016,001081,Arizona State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,47,26994,27275
+2015_2016,001081,Arizona State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,60,25870,26223
+2016_2017,001081,Arizona State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,38565
+2016_2017,001081,Arizona State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Family and Consumer Economics and Related Studies.,Bachelor's Degree,312,23591,23550
+2015_2016,001081,Arizona State University,Public,Family and Consumer Economics and Related Studies.,Master's Degree,81,30750,34449
+2016_2017,001081,Arizona State University,Public,Family and Consumer Economics and Related Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Family and Consumer Economics and Related Studies.,Bachelor's Degree,472,23250,23742
+2016_2017,001081,Arizona State University,Public,Family and Consumer Economics and Related Studies.,Master's Degree,170,30750,34765
+2015_2016,001081,Arizona State University,Public,Family and Consumer Sciences/Human Sciences Business Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Family and Consumer Sciences/Human Sciences Business Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Film/Video and Photographic Arts.,Bachelor's Degree,146,22579,25114
+2016_2017,001081,Arizona State University,Public,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Film/Video and Photographic Arts.,Bachelor's Degree,174,21968,24565
+2015_2016,001081,Arizona State University,Public,Finance and Financial Management Services.,Bachelor's Degree,171,17500,18652
+2015_2016,001081,Arizona State University,Public,Finance and Financial Management Services.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Finance and Financial Management Services.,Bachelor's Degree,203,19000,18490
+2016_2017,001081,Arizona State University,Public,Finance and Financial Management Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Finance and Financial Management Services.,Master's Degree,20,48122,51371
+2015_2016,001081,Arizona State University,Public,Fine and Studio Arts.,Bachelor's Degree,181,25000,24237
+2015_2016,001081,Arizona State University,Public,Fine and Studio Arts.,Master's Degree,19,NA,56190
+2015_2016,001081,Arizona State University,Public,Fine and Studio Arts.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Fine and Studio Arts.,Bachelor's Degree,243,25195,25421
+2016_2017,001081,Arizona State University,Public,Fine and Studio Arts.,Master's Degree,26,56333,51201
+2016_2017,001081,Arizona State University,Public,Fine and Studio Arts.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Foods, Nutrition, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,219,24250,23864
+2015_2016,001081,Arizona State University,Public,"Foods, Nutrition, and Related Services.",Master's Degree,20,22051,29843
+2016_2017,001081,Arizona State University,Public,"Foods, Nutrition, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,293,22000,22616
+2016_2017,001081,Arizona State University,Public,"Foods, Nutrition, and Related Services.",Master's Degree,22,24391,28455
+2015_2016,001081,Arizona State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Geography and Cartography.,Bachelor's Degree,63,20500,23224
+2015_2016,001081,Arizona State University,Public,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Geography and Cartography.,Master's Degree,12,NA,35183
+2015_2016,001081,Arizona State University,Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Geography and Cartography.,Bachelor's Degree,80,21390,22610
+2016_2017,001081,Arizona State University,Public,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Geography and Cartography.,Master's Degree,32,33645,35544
+2016_2017,001081,Arizona State University,Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Graphic Communications.,Bachelor's Degree,69,24523,24922
+2016_2017,001081,Arizona State University,Public,Graphic Communications.,Bachelor's Degree,117,25000,25117
+2015_2016,001081,Arizona State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,313,22500,21339
+2015_2016,001081,Arizona State University,Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Health and Physical Education/Fitness.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,441,20736,20729
+2016_2017,001081,Arizona State University,Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Health and Physical Education/Fitness.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,320,21144,21624
+2016_2017,001081,Arizona State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,415,22460,22833
+2015_2016,001081,Arizona State University,Public,History.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,History.,Bachelor's Degree,176,25000,23988
+2015_2016,001081,Arizona State University,Public,History.,Master's Degree,12,NA,57343
+2015_2016,001081,Arizona State University,Public,History.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,History.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,History.,Bachelor's Degree,235,25000,25080
+2016_2017,001081,Arizona State University,Public,History.,Master's Degree,36,41000,50076
+2016_2017,001081,Arizona State University,Public,History.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Homeland Security.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Homeland Security.,Master's Degree,35,27973,33028
+2016_2017,001081,Arizona State University,Public,Homeland Security.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Homeland Security.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Homeland Security.,Master's Degree,141,34750,39935
+2015_2016,001081,Arizona State University,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Hospitality Administration/Management.,Bachelor's Degree,54,20756,21179
+2015_2016,001081,Arizona State University,Public,Hospitality Administration/Management.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Hospitality Administration/Management.,Master's Degree,10,NA,43548
+2016_2017,001081,Arizona State University,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Hospitality Administration/Management.,Bachelor's Degree,77,20500,21226
+2016_2017,001081,Arizona State University,Public,Hospitality Administration/Management.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Hospitality Administration/Management.,Master's Degree,18,NA,43438
+2015_2016,001081,Arizona State University,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Human Development, Family Studies, and Related Services.",Master's Degree,29,38611,41476
+2016_2017,001081,Arizona State University,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Human Development, Family Studies, and Related Services.",Master's Degree,54,39055,45952
+2015_2016,001081,Arizona State University,Public,Industrial Engineering.,Bachelor's Degree,29,18500,19327
+2015_2016,001081,Arizona State University,Public,Industrial Engineering.,Master's Degree,13,NA,37486
+2015_2016,001081,Arizona State University,Public,Industrial Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Industrial Engineering.,Bachelor's Degree,35,18600,19690
+2016_2017,001081,Arizona State University,Public,Industrial Engineering.,Master's Degree,16,NA,31455
+2016_2017,001081,Arizona State University,Public,Industrial Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,12,NA,29060
+2015_2016,001081,Arizona State University,Public,Industrial Production Technologies/Technicians.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Industrial Production Technologies/Technicians.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Interior Architecture.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Interior Architecture.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,International Business.,Undergraduate Certificate or Diploma,131,18500,18882
+2015_2016,001081,Arizona State University,Public,International Business.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,International Business.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,International Business.,Master's Degree,13,NA,41985
+2016_2017,001081,Arizona State University,Public,International Business.,Undergraduate Certificate or Diploma,148,18209,17450
+2016_2017,001081,Arizona State University,Public,International Business.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,International Business.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,International Business.,Master's Degree,65,66306,69046
+2015_2016,001081,Arizona State University,Public,International Relations and National Security Studies.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,International Relations and National Security Studies.,Master's Degree,23,43075,54148
+2015_2016,001081,Arizona State University,Public,International/Global Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,International/Global Studies.,Bachelor's Degree,110,19000,19839
+2015_2016,001081,Arizona State University,Public,International/Global Studies.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,International/Global Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,International/Global Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,International/Global Studies.,Bachelor's Degree,150,19500,19666
+2016_2017,001081,Arizona State University,Public,International/Global Studies.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,International/Global Studies.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Journalism.,Bachelor's Degree,293,20000,19806
+2015_2016,001081,Arizona State University,Public,Journalism.,Master's Degree,11,NA,35624
+2016_2017,001081,Arizona State University,Public,Journalism.,Bachelor's Degree,321,21250,20308
+2016_2017,001081,Arizona State University,Public,Journalism.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Journalism.,Master's Degree,19,NA,33326
+2015_2016,001081,Arizona State University,Public,Landscape Architecture.,Bachelor's Degree,34,26488,24696
+2015_2016,001081,Arizona State University,Public,Landscape Architecture.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Landscape Architecture.,Bachelor's Degree,28,27000,24830
+2016_2017,001081,Arizona State University,Public,Landscape Architecture.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Law.,Doctoral Degree,NA,98714,99684
+2015_2016,001081,Arizona State University,Public,Law.,First Professional Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Law.,Doctoral Degree,NA,94325,96920
+2016_2017,001081,Arizona State University,Public,Law.,First Professional Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Legal Professions and Studies, Other.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Legal Professions and Studies, Other.",Master's Degree,14,NA,45168
+2015_2016,001081,Arizona State University,Public,Legal Research and Advanced Professional Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Legal Research and Advanced Professional Studies.,Master's Degree,53,52588,55806
+2016_2017,001081,Arizona State University,Public,Legal Research and Advanced Professional Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Legal Research and Advanced Professional Studies.,Master's Degree,93,49843,59016
+2015_2016,001081,Arizona State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,197,25000,25594
+2015_2016,001081,Arizona State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,72,42828,53230
+2016_2017,001081,Arizona State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,338,23644,23738
+2016_2017,001081,Arizona State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,86,48436,57876
+2015_2016,001081,Arizona State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Management Sciences and Quantitative Methods.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Management Sciences and Quantitative Methods.,Bachelor's Degree,19,NA,18323
+2015_2016,001081,Arizona State University,Public,Management Sciences and Quantitative Methods.,Master's Degree,169,41000,43408
+2016_2017,001081,Arizona State University,Public,Management Sciences and Quantitative Methods.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Management Sciences and Quantitative Methods.,Bachelor's Degree,47,20250,20593
+2016_2017,001081,Arizona State University,Public,Management Sciences and Quantitative Methods.,Master's Degree,185,42547,44278
+2015_2016,001081,Arizona State University,Public,Manufacturing Engineering.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Manufacturing Engineering.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Manufacturing Engineering.,Bachelor's Degree,11,NA,30960
+2016_2017,001081,Arizona State University,Public,Manufacturing Engineering.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Marketing.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Marketing.,Bachelor's Degree,197,17000,17477
+2015_2016,001081,Arizona State University,Public,Marketing.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Marketing.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Marketing.,Bachelor's Degree,251,18500,18082
+2016_2017,001081,Arizona State University,Public,Marketing.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Marketing.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Marketing.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Materials Engineering,Bachelor's Degree,17,NA,20351
+2015_2016,001081,Arizona State University,Public,Materials Engineering,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Materials Engineering,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Materials Engineering,Bachelor's Degree,18,NA,21418
+2016_2017,001081,Arizona State University,Public,Materials Engineering,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Materials Engineering,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Mathematics and Statistics, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Mathematics and Statistics, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Mathematics.,Bachelor's Degree,69,21900,22331
+2015_2016,001081,Arizona State University,Public,Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Mathematics.,Bachelor's Degree,90,19140,22637
+2016_2017,001081,Arizona State University,Public,Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Mechanical Engineering Related Technologies/Technicians.,Bachelor's Degree,42,27000,29484
+2015_2016,001081,Arizona State University,Public,Mechanical Engineering Related Technologies/Technicians.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Mechanical Engineering Related Technologies/Technicians.,Bachelor's Degree,24,27308,30806
+2016_2017,001081,Arizona State University,Public,Mechanical Engineering Related Technologies/Technicians.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Mechanical Engineering.,Bachelor's Degree,173,20539,21019
+2015_2016,001081,Arizona State University,Public,Mechanical Engineering.,Master's Degree,20,20500,26335
+2015_2016,001081,Arizona State University,Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Mechanical Engineering.,Bachelor's Degree,244,20500,20919
+2016_2017,001081,Arizona State University,Public,Mechanical Engineering.,Master's Degree,23,20500,22866
+2016_2017,001081,Arizona State University,Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Medicine.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Medieval and Renaissance Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Medieval and Renaissance Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Medieval and Renaissance Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Medieval and Renaissance Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Mental and Social Health Services and Allied Professions.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Mental and Social Health Services and Allied Professions.,Doctoral Degree,NA,NA,41526
+2015_2016,001081,Arizona State University,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,48,23380,24158
+2015_2016,001081,Arizona State University,Public,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,54,23380,23552
+2016_2017,001081,Arizona State University,Public,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Multi-/Interdisciplinary Studies, General.",Master's Degree,40,41000,44018
+2016_2017,001081,Arizona State University,Public,"Multi-/Interdisciplinary Studies, General.",Master's Degree,56,39450,42837
+2015_2016,001081,Arizona State University,Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,511,23511,23516
+2015_2016,001081,Arizona State University,Public,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,683,22500,23043
+2016_2017,001081,Arizona State University,Public,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Museology/Museum Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Museology/Museum Studies.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Museology/Museum Studies.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Museology/Museum Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Museology/Museum Studies.,Master's Degree,NA,NA,60885
+2016_2017,001081,Arizona State University,Public,Museology/Museum Studies.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Music.,Bachelor's Degree,44,16039,17183
+2015_2016,001081,Arizona State University,Public,Music.,Master's Degree,52,40602,41062
+2015_2016,001081,Arizona State University,Public,Music.,Doctoral Degree,37,51119,60828
+2016_2017,001081,Arizona State University,Public,Music.,Bachelor's Degree,43,12721,15189
+2016_2017,001081,Arizona State University,Public,Music.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Music.,Master's Degree,44,38205,43001
+2016_2017,001081,Arizona State University,Public,Music.,Doctoral Degree,55,45761,60011
+2015_2016,001081,Arizona State University,Public,Nanotechnology.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Nanotechnology.,Master's Degree,10,NA,23607
+2015_2016,001081,Arizona State University,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,68,21495,19968
+2015_2016,001081,Arizona State University,Public,Natural Resources Conservation and Research.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Natural Resources Conservation and Research.,Master's Degree,39,30750,34847
+2015_2016,001081,Arizona State University,Public,Natural Resources Conservation and Research.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,83,19854,19606
+2016_2017,001081,Arizona State University,Public,Natural Resources Conservation and Research.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Natural Resources Conservation and Research.,Master's Degree,61,34318,46237
+2016_2017,001081,Arizona State University,Public,Natural Resources Conservation and Research.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Natural Sciences.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Natural Sciences.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,134,21466,21548
+2015_2016,001081,Arizona State University,Public,Non-Professional General Legal Studies (Undergraduate).,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Non-Professional General Legal Studies (Undergraduate).,Doctoral Degree,11,NA,42100
+2016_2017,001081,Arizona State University,Public,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,169,20500,21037
+2016_2017,001081,Arizona State University,Public,Non-Professional General Legal Studies (Undergraduate).,Master's Degree,13,NA,22265
+2016_2017,001081,Arizona State University,Public,Non-Professional General Legal Studies (Undergraduate).,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Nuclear Engineering.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Nuclear Engineering.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,29,23250,21575
+2015_2016,001081,Arizona State University,Public,"Parks, Recreation and Leisure Studies.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Parks, Recreation and Leisure Studies.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,31,20500,20698
+2016_2017,001081,Arizona State University,Public,"Parks, Recreation and Leisure Studies.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Parks, Recreation and Leisure Studies.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Philosophy.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Philosophy.,Bachelor's Degree,41,22492,23535
+2015_2016,001081,Arizona State University,Public,Philosophy.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Philosophy.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Philosophy.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Philosophy.,Bachelor's Degree,63,20500,21069
+2016_2017,001081,Arizona State University,Public,Philosophy.,Master's Degree,10,NA,46371
+2016_2017,001081,Arizona State University,Public,Philosophy.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Physical Sciences.,Bachelor's Degree,41,22500,21770
+2016_2017,001081,Arizona State University,Public,Physical Sciences.,Bachelor's Degree,51,25869,26345
+2015_2016,001081,Arizona State University,Public,Physics.,Bachelor's Degree,41,24000,23417
+2015_2016,001081,Arizona State University,Public,Physics.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Physics.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Physics.,Bachelor's Degree,55,19778,20508
+2016_2017,001081,Arizona State University,Public,Physics.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Physics.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Political Science and Government.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Political Science and Government.,Bachelor's Degree,362,21108,21551
+2015_2016,001081,Arizona State University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Political Science and Government.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Political Science and Government.,Bachelor's Degree,512,20500,20874
+2016_2017,001081,Arizona State University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Psychology, General.",Bachelor's Degree,818,21000,21583
+2015_2016,001081,Arizona State University,Public,"Psychology, General.",Master's Degree,14,NA,30754
+2015_2016,001081,Arizona State University,Public,"Psychology, General.",Doctoral Degree,20,24485,44514
+2016_2017,001081,Arizona State University,Public,"Psychology, General.",Bachelor's Degree,1062,20500,21119
+2016_2017,001081,Arizona State University,Public,"Psychology, General.",Master's Degree,23,41000,42444
+2016_2017,001081,Arizona State University,Public,"Psychology, General.",Doctoral Degree,26,32776,56516
+2015_2016,001081,Arizona State University,Public,"Public Administration and Social Service Professions, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Public Administration and Social Service Professions, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Public Administration and Social Service Professions, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Public Administration and Social Service Professions, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Public Administration.,Master's Degree,64,50301,52998
+2015_2016,001081,Arizona State University,Public,Public Administration.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Public Administration.,Master's Degree,102,42872,49530
+2016_2017,001081,Arizona State University,Public,Public Administration.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Public Health.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Public Health.,Master's Degree,92,32668,36370
+2016_2017,001081,Arizona State University,Public,Public Health.,Bachelor's Degree,30,15000,17793
+2016_2017,001081,Arizona State University,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Public Health.,Master's Degree,127,35668,39423
+2015_2016,001081,Arizona State University,Public,Public Policy Analysis.,Bachelor's Degree,72,20826,21582
+2015_2016,001081,Arizona State University,Public,Public Policy Analysis.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Public Policy Analysis.,Master's Degree,11,NA,45554
+2015_2016,001081,Arizona State University,Public,Public Policy Analysis.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Public Policy Analysis.,Bachelor's Degree,106,21969,21434
+2016_2017,001081,Arizona State University,Public,Public Policy Analysis.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Public Policy Analysis.,Master's Degree,10,NA,45031
+2016_2017,001081,Arizona State University,Public,Public Policy Analysis.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,31,21500,20170
+2016_2017,001081,Arizona State University,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,15,NA,37007
+2015_2016,001081,Arizona State University,Public,Publishing.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Publishing.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Publishing.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Radio, Television, and Digital Communication.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Radio, Television, and Digital Communication.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Radio, Television, and Digital Communication.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Radio, Television, and Digital Communication.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Real Estate Development.,Master's Degree,24,53598,58239
+2016_2017,001081,Arizona State University,Public,Real Estate Development.,Master's Degree,25,54597,51444
+2015_2016,001081,Arizona State University,Public,Real Estate.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,496,22250,22905
+2015_2016,001081,Arizona State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,13,NA,33128
+2015_2016,001081,Arizona State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,84,72129,77160
+2015_2016,001081,Arizona State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,633,21875,22641
+2016_2017,001081,Arizona State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,10,NA,43236
+2016_2017,001081,Arizona State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,85,71500,76164
+2016_2017,001081,Arizona State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Religion/Religious Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Religion/Religious Studies.,Bachelor's Degree,19,NA,27437
+2015_2016,001081,Arizona State University,Public,Religion/Religious Studies.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Religion/Religious Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Religion/Religious Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Religion/Religious Studies.,Bachelor's Degree,32,25625,26953
+2016_2017,001081,Arizona State University,Public,Religion/Religious Studies.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Religion/Religious Studies.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,34,22733,25844
+2015_2016,001081,Arizona State University,Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,52,25419,26378
+2016_2017,001081,Arizona State University,Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,73,21000,21195
+2015_2016,001081,Arizona State University,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,10,NA,25871
+2015_2016,001081,Arizona State University,Public,"Romance Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,84,22713,21616
+2016_2017,001081,Arizona State University,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Romance Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Science Technologies/Technicians, Other.",Bachelor's Degree,110,24839,24210
+2016_2017,001081,Arizona State University,Public,"Science Technologies/Technicians, Other.",Bachelor's Degree,141,25000,24315
+2015_2016,001081,Arizona State University,Public,"Science, Technology and Society.",Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Science, Technology and Society.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Science, Technology and Society.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Science, Technology and Society.",Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Science, Technology and Society.",Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Science, Technology and Society.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Science, Technology and Society.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Science, Technology and Society.",Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,13,NA,18397
+2016_2017,001081,Arizona State University,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,13,NA,19382
+2015_2016,001081,Arizona State University,Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Social Sciences, General.",Bachelor's Degree,25,19560,22145
+2016_2017,001081,Arizona State University,Public,"Social Sciences, General.",Bachelor's Degree,34,20693,21054
+2015_2016,001081,Arizona State University,Public,"Social Sciences, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Social Sciences, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Social Work.,Bachelor's Degree,198,22625,21455
+2015_2016,001081,Arizona State University,Public,Social Work.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Social Work.,Master's Degree,493,41000,44009
+2015_2016,001081,Arizona State University,Public,Social Work.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Social Work.,Bachelor's Degree,273,19681,20768
+2016_2017,001081,Arizona State University,Public,Social Work.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Social Work.,Master's Degree,489,41000,44112
+2016_2017,001081,Arizona State University,Public,Social Work.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Sociology.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Sociology.,Bachelor's Degree,276,23000,23591
+2015_2016,001081,Arizona State University,Public,Sociology.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Sociology.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Sociology.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Sociology.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Sociology.,Bachelor's Degree,386,21500,22331
+2016_2017,001081,Arizona State University,Public,Sociology.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Sociology.,Master's Degree,45,35274,40107
+2016_2017,001081,Arizona State University,Public,Sociology.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Special Education and Teaching.,Bachelor's Degree,137,18209,19962
+2015_2016,001081,Arizona State University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Special Education and Teaching.,Master's Degree,72,40819,42550
+2016_2017,001081,Arizona State University,Public,Special Education and Teaching.,Bachelor's Degree,150,15863,18685
+2016_2017,001081,Arizona State University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Special Education and Teaching.,Master's Degree,67,40639,45563
+2016_2017,001081,Arizona State University,Public,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Statistics.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Statistics.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Statistics.,Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Statistics.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Statistics.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Statistics.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Statistics.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Statistics.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Student Counseling and Personnel Services.,Master's Degree,37,62180,66899
+2015_2016,001081,Arizona State University,Public,Student Counseling and Personnel Services.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Student Counseling and Personnel Services.,Master's Degree,57,62180,64580
+2016_2017,001081,Arizona State University,Public,Student Counseling and Personnel Services.,Doctoral Degree,12,NA,70310
+2015_2016,001081,Arizona State University,Public,Systems Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Systems Engineering.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Systems Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Taxation.,Master's Degree,42,30347,30483
+2016_2017,001081,Arizona State University,Public,Taxation.,Master's Degree,37,29500,28893
+2015_2016,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,547,19500,20953
+2015_2016,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,284,36544,38282
+2016_2017,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,21,21500,22795
+2016_2017,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,586,18750,20605
+2016_2017,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,242,31300,36686
+2016_2017,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,NA,21600
+2015_2016,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,15,NA,42787
+2016_2017,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,19,NA,20441
+2016_2017,001081,Arizona State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,28,42094,49758
+2015_2016,001081,Arizona State University,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,19,NA,31317
+2015_2016,001081,Arizona State University,Public,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Visual and Performing Arts, General.",Bachelor's Degree,75,19000,20515
+2015_2016,001081,Arizona State University,Public,"Visual and Performing Arts, General.",Master's Degree,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Visual and Performing Arts, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Visual and Performing Arts, General.",Bachelor's Degree,105,19250,20849
+2016_2017,001081,Arizona State University,Public,"Visual and Performing Arts, General.",Master's Degree,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Visual and Performing Arts, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001081,Arizona State University,Public,"Visual and Performing Arts, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Visual and Performing Arts, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,"Visual and Performing Arts, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001081,Arizona State University,Public,Wildlife and Wildlands Science and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
