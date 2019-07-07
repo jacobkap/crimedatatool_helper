@@ -1,118 +1,118 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003549,Blinn College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,10,NA,23211
-2016_2017,003549,Blinn College,Public,Accounting and Related Services.,Associate's Degree,10,NA,12559
-2015_2016,003549,Blinn College,Public,"Agriculture, General.",Associate's Degree,11,NA,13627
-2016_2017,003549,Blinn College,Public,"Agriculture, General.",Associate's Degree,16,NA,12341
+2015_2016,003549,Blinn College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003549,Blinn College,Public,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,10,,23211
+2016_2017,003549,Blinn College,Public,Accounting and Related Services.,Associate's Degree,10,,12559
+2015_2016,003549,Blinn College,Public,"Agriculture, General.",Associate's Degree,11,,13627
+2016_2017,003549,Blinn College,Public,"Agriculture, General.",Associate's Degree,16,,12341
 2015_2016,003549,Blinn College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,21,12000,11776
 2016_2017,003549,Blinn College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,27,9793,12682
-2015_2016,003549,Blinn College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003549,Blinn College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,18,NA,15113
-2016_2017,003549,Blinn College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003549,Blinn College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,19,NA,15424
-2015_2016,003549,Blinn College,Public,Anthropology.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Anthropology.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Archeology.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Archeology.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Architectural Sciences and Technology.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Architectural Sciences and Technology.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Biology Technician/Biotechnology Laboratory Technician.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Biology Technician/Biotechnology Laboratory Technician.,Associate's Degree,NA,NA,NA
+2015_2016,003549,Blinn College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,003549,Blinn College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,18,,15113
+2016_2017,003549,Blinn College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2016_2017,003549,Blinn College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,19,,15424
+2015_2016,003549,Blinn College,Public,Anthropology.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Anthropology.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Archeology.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Archeology.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Architectural Sciences and Technology.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Architectural Sciences and Technology.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Biology Technician/Biotechnology Laboratory Technician.,Undergraduate Certificate or Diploma,,,
+2016_2017,003549,Blinn College,Public,Biology Technician/Biotechnology Laboratory Technician.,Associate's Degree,,,
 2015_2016,003549,Blinn College,Public,"Biology, General.",Associate's Degree,40,10875,14168
 2016_2017,003549,Blinn College,Public,"Biology, General.",Associate's Degree,35,11000,14169
-2015_2016,003549,Blinn College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003549,Blinn College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,003549,Blinn College,Public,"Business Administration, Management and Operations.",Associate's Degree,22,20503,22135
-2016_2017,003549,Blinn College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,10,NA,23111
+2016_2017,003549,Blinn College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,10,,23111
 2016_2017,003549,Blinn College,Public,"Business Administration, Management and Operations.",Associate's Degree,25,18981,22444
-2015_2016,003549,Blinn College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
+2015_2016,003549,Blinn College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003549,Blinn College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003549,Blinn College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
 2015_2016,003549,Blinn College,Public,"Business/Commerce, General.",Associate's Degree,58,11875,12360
 2016_2017,003549,Blinn College,Public,"Business/Commerce, General.",Associate's Degree,64,12770,14212
-2015_2016,003549,Blinn College,Public,Chemistry.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Chemistry.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Communication and Media Studies.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Communication and Media Studies.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Computer Science.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Computer Science.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,11,NA,15549
-2015_2016,003549,Blinn College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003549,Blinn College,Public,Chemistry.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Chemistry.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Communication and Media Studies.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Communication and Media Studies.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Computer Science.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Computer Science.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2015_2016,003549,Blinn College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2016_2017,003549,Blinn College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,11,,15549
+2015_2016,003549,Blinn College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2015_2016,003549,Blinn College,Public,Criminal Justice and Corrections.,Associate's Degree,31,10750,11940
-2016_2017,003549,Blinn College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,13,NA,7046
+2016_2017,003549,Blinn College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,13,,7046
 2016_2017,003549,Blinn College,Public,Criminal Justice and Corrections.,Associate's Degree,35,8790,12082
-2015_2016,003549,Blinn College,Public,Dental Support Services and Allied Professions.,Associate's Degree,18,NA,17004
-2016_2017,003549,Blinn College,Public,Dental Support Services and Allied Professions.,Associate's Degree,18,NA,16362
-2015_2016,003549,Blinn College,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Economics.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Economics.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,"English Language and Literature, General.",Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,"English Language and Literature, General.",Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Fire Protection.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Fire Protection.,Associate's Degree,13,NA,14529
-2016_2017,003549,Blinn College,Public,Fire Protection.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Fire Protection.,Associate's Degree,16,NA,11148
-2015_2016,003549,Blinn College,Public,Geography and Cartography.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Geography and Cartography.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Geological and Earth Sciences/Geosciences.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Geological and Earth Sciences/Geosciences.,Associate's Degree,NA,NA,NA
+2015_2016,003549,Blinn College,Public,Dental Support Services and Allied Professions.,Associate's Degree,18,,17004
+2016_2017,003549,Blinn College,Public,Dental Support Services and Allied Professions.,Associate's Degree,18,,16362
+2015_2016,003549,Blinn College,Public,Design and Applied Arts.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Design and Applied Arts.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Economics.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Economics.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,"Education, General.",Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,"Education, General.",Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,"Engineering, General.",Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,"English Language and Literature, General.",Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,"English Language and Literature, General.",Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Fine and Studio Arts.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Fine and Studio Arts.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Fire Protection.,Undergraduate Certificate or Diploma,,,
+2015_2016,003549,Blinn College,Public,Fire Protection.,Associate's Degree,13,,14529
+2016_2017,003549,Blinn College,Public,Fire Protection.,Undergraduate Certificate or Diploma,,,
+2016_2017,003549,Blinn College,Public,Fire Protection.,Associate's Degree,16,,11148
+2015_2016,003549,Blinn College,Public,Geography and Cartography.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Geography and Cartography.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Geological and Earth Sciences/Geosciences.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Geological and Earth Sciences/Geosciences.,Associate's Degree,,,
 2015_2016,003549,Blinn College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,33,19546,21834
 2015_2016,003549,Blinn College,Public,Health and Medical Administrative Services.,Associate's Degree,26,25842,25036
 2016_2017,003549,Blinn College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,26,17632,20248
 2016_2017,003549,Blinn College,Public,Health and Medical Administrative Services.,Associate's Degree,23,19546,22916
-2015_2016,003549,Blinn College,Public,Health and Physical Education/Fitness.,Associate's Degree,17,NA,12397
-2016_2017,003549,Blinn College,Public,Health and Physical Education/Fitness.,Associate's Degree,16,NA,16879
-2015_2016,003549,Blinn College,Public,History.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,History.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003549,Blinn College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003549,Blinn College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Legal Support Services.,Associate's Degree,18,NA,16717
-2016_2017,003549,Blinn College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Legal Support Services.,Associate's Degree,16,NA,17788
+2015_2016,003549,Blinn College,Public,Health and Physical Education/Fitness.,Associate's Degree,17,,12397
+2016_2017,003549,Blinn College,Public,Health and Physical Education/Fitness.,Associate's Degree,16,,16879
+2015_2016,003549,Blinn College,Public,History.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,History.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2015_2016,003549,Blinn College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2016_2017,003549,Blinn College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003549,Blinn College,Public,Legal Support Services.,Associate's Degree,18,,16717
+2016_2017,003549,Blinn College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003549,Blinn College,Public,Legal Support Services.,Associate's Degree,16,,17788
 2015_2016,003549,Blinn College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,85,12000,12648
 2016_2017,003549,Blinn College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,148,12000,13258
-2015_2016,003549,Blinn College,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Mathematics.,Associate's Degree,12,NA,12172
-2016_2017,003549,Blinn College,Public,Mathematics.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Music.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Music.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Natural Sciences.,Associate's Degree,17,NA,14401
-2016_2017,003549,Blinn College,Public,Natural Sciences.,Associate's Degree,15,NA,12372
-2016_2017,003549,Blinn College,Public,Philosophy.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Physics.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Physics.,Associate's Degree,NA,NA,NA
+2015_2016,003549,Blinn College,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Mathematics.,Associate's Degree,12,,12172
+2016_2017,003549,Blinn College,Public,Mathematics.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Music.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Music.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Natural Sciences.,Associate's Degree,17,,14401
+2016_2017,003549,Blinn College,Public,Natural Sciences.,Associate's Degree,15,,12372
+2016_2017,003549,Blinn College,Public,Philosophy.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Physics.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Physics.,Associate's Degree,,,
 2015_2016,003549,Blinn College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,24,10500,13520
 2016_2017,003549,Blinn College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,79,10500,13954
-2015_2016,003549,Blinn College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,"Psychology, General.",Associate's Degree,11,NA,13149
-2016_2017,003549,Blinn College,Public,"Psychology, General.",Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Real Estate.,Undergraduate Certificate or Diploma,11,NA,10816
-2016_2017,003549,Blinn College,Public,Real Estate.,Undergraduate Certificate or Diploma,15,NA,16893
+2015_2016,003549,Blinn College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2015_2016,003549,Blinn College,Public,Precision Metal Working.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,003549,Blinn College,Public,Precision Metal Working.,Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,"Psychology, General.",Associate's Degree,11,,13149
+2016_2017,003549,Blinn College,Public,"Psychology, General.",Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Real Estate.,Undergraduate Certificate or Diploma,11,,10816
+2016_2017,003549,Blinn College,Public,Real Estate.,Undergraduate Certificate or Diploma,15,,16893
 2015_2016,003549,Blinn College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,90,14889,17167
 2016_2017,003549,Blinn College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,101,17721,18580
-2015_2016,003549,Blinn College,Public,"Social Sciences, General.",Associate's Degree,14,NA,18840
-2016_2017,003549,Blinn College,Public,"Social Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,003549,Blinn College,Public,Sociology.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,Sociology.,Associate's Degree,NA,NA,NA
-2016_2017,003549,Blinn College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
+2015_2016,003549,Blinn College,Public,"Social Sciences, General.",Associate's Degree,14,,18840
+2016_2017,003549,Blinn College,Public,"Social Sciences, General.",Associate's Degree,,,
+2015_2016,003549,Blinn College,Public,Sociology.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,Sociology.,Associate's Degree,,,
+2016_2017,003549,Blinn College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,

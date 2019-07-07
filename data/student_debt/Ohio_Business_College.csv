@@ -1,36 +1,36 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,021585,Ohio Business College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021585,Ohio Business College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,28020,28679
-2016_2017,021585,Ohio Business College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,26500,25987
+2015_2016,021585,Ohio Business College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,021585,Ohio Business College,Proprietary,Accounting and Related Services.,Associate's Degree,,28020,28679
+2016_2017,021585,Ohio Business College,Proprietary,Accounting and Related Services.,Associate's Degree,,26500,25987
 2015_2016,021585,Ohio Business College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,270,10000,10928
-2015_2016,021585,Ohio Business College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2016_2017,021585,Ohio Business College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,10008,11297
-2016_2017,021585,Ohio Business College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2015_2016,021585,Ohio Business College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021585,Ohio Business College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,29536,29688
-2016_2017,021585,Ohio Business College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021585,Ohio Business College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,27000,28312
-2015_2016,021585,Ohio Business College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,16394
-2015_2016,021585,Ohio Business College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,28833,31426
-2016_2017,021585,Ohio Business College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021585,Ohio Business College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,32573
-2015_2016,021585,Ohio Business College,Proprietary,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021585,Ohio Business College,Proprietary,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,26667,26488
-2016_2017,021585,Ohio Business College,Proprietary,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021585,Ohio Business College,Proprietary,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,25832,25705
-2015_2016,021585,Ohio Business College,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,021585,Ohio Business College,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
+2015_2016,021585,Ohio Business College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2016_2017,021585,Ohio Business College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,10008,11297
+2016_2017,021585,Ohio Business College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2015_2016,021585,Ohio Business College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,021585,Ohio Business College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,29536,29688
+2016_2017,021585,Ohio Business College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,021585,Ohio Business College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,27000,28312
+2015_2016,021585,Ohio Business College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,16394
+2015_2016,021585,Ohio Business College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,28833,31426
+2016_2017,021585,Ohio Business College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,021585,Ohio Business College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,,32573
+2015_2016,021585,Ohio Business College,Proprietary,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,021585,Ohio Business College,Proprietary,Computer Engineering Technologies/Technicians.,Associate's Degree,,26667,26488
+2016_2017,021585,Ohio Business College,Proprietary,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,021585,Ohio Business College,Proprietary,Computer Engineering Technologies/Technicians.,Associate's Degree,,25832,25705
+2015_2016,021585,Ohio Business College,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,021585,Ohio Business College,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
 2015_2016,021585,Ohio Business College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,74,9500,8410
-2016_2017,021585,Ohio Business College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,9500,8125
+2016_2017,021585,Ohio Business College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,9500,8125
 2015_2016,021585,Ohio Business College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,30,12694,14111
 2015_2016,021585,Ohio Business College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,92,29133,28497
-2016_2017,021585,Ohio Business College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,12694,14241
-2016_2017,021585,Ohio Business College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,25017,27425
-2015_2016,021585,Ohio Business College,Proprietary,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2016_2017,021585,Ohio Business College,Proprietary,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2015_2016,021585,Ohio Business College,Proprietary,Human Resources Management and Services.,Associate's Degree,NA,31759,33309
-2016_2017,021585,Ohio Business College,Proprietary,Human Resources Management and Services.,Associate's Degree,NA,31666,30471
-2015_2016,021585,Ohio Business College,Proprietary,Legal Support Services.,Associate's Degree,NA,30500,29326
-2016_2017,021585,Ohio Business College,Proprietary,Legal Support Services.,Associate's Degree,NA,30500,30629
-2015_2016,021585,Ohio Business College,Proprietary,Marketing.,Associate's Degree,NA,NA,32173
-2016_2017,021585,Ohio Business College,Proprietary,Marketing.,Associate's Degree,NA,NA,NA
+2016_2017,021585,Ohio Business College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,12694,14241
+2016_2017,021585,Ohio Business College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,25017,27425
+2015_2016,021585,Ohio Business College,Proprietary,Hospitality Administration/Management.,Associate's Degree,,,
+2016_2017,021585,Ohio Business College,Proprietary,Hospitality Administration/Management.,Associate's Degree,,,
+2015_2016,021585,Ohio Business College,Proprietary,Human Resources Management and Services.,Associate's Degree,,31759,33309
+2016_2017,021585,Ohio Business College,Proprietary,Human Resources Management and Services.,Associate's Degree,,31666,30471
+2015_2016,021585,Ohio Business College,Proprietary,Legal Support Services.,Associate's Degree,,30500,29326
+2016_2017,021585,Ohio Business College,Proprietary,Legal Support Services.,Associate's Degree,,30500,30629
+2015_2016,021585,Ohio Business College,Proprietary,Marketing.,Associate's Degree,,,32173
+2016_2017,021585,Ohio Business College,Proprietary,Marketing.,Associate's Degree,,,

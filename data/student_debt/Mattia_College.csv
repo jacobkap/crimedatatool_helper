@@ -1,14 +1,14 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,033484,Mattia College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,12414,12609
-2015_2016,033484,Mattia College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2016_2017,033484,Mattia College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,033484,Mattia College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2015_2016,033484,Mattia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,033484,Mattia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,25012,24629
-2016_2017,033484,Mattia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2015_2016,033484,Mattia College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,11740,11240
-2016_2017,033484,Mattia College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,033484,Mattia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,26223,27677
-2015_2016,033484,Mattia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,15738,NA
-2016_2017,033484,Mattia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,24966
-2016_2017,033484,Mattia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
+2015_2016,033484,Mattia College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,12414,12609
+2015_2016,033484,Mattia College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2016_2017,033484,Mattia College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,033484,Mattia College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2015_2016,033484,Mattia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,033484,Mattia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,25012,24629
+2016_2017,033484,Mattia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2015_2016,033484,Mattia College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,11740,11240
+2016_2017,033484,Mattia College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,033484,Mattia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,26223,27677
+2015_2016,033484,Mattia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,15738,
+2016_2017,033484,Mattia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,24966
+2016_2017,033484,Mattia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,

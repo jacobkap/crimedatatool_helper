@@ -1,16 +1,16 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,031444,American College of Healthcare And Technology,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9500,8926
-2015_2016,031444,American College of Healthcare And Technology,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2016_2017,031444,American College of Healthcare And Technology,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9500,9014
+2015_2016,031444,American College of Healthcare And Technology,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9500,8926
+2015_2016,031444,American College of Healthcare And Technology,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2016_2017,031444,American College of Healthcare And Technology,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9500,9014
 2015_2016,031444,American College of Healthcare And Technology,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,89,19877,15822
-2015_2016,031444,American College of Healthcare And Technology,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,20000,17170
+2015_2016,031444,American College of Healthcare And Technology,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,20000,17170
 2016_2017,031444,American College of Healthcare And Technology,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,111,20000,16930
-2016_2017,031444,American College of Healthcare And Technology,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,20000,18378
-2015_2016,031444,American College of Healthcare And Technology,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,031444,American College of Healthcare And Technology,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,031444,American College of Healthcare And Technology,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,20000,18378
+2015_2016,031444,American College of Healthcare And Technology,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,031444,American College of Healthcare And Technology,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2015_2016,031444,American College of Healthcare And Technology,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,171,9500,8993
 2016_2017,031444,American College of Healthcare And Technology,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,118,9500,9247
-2015_2016,031444,American College of Healthcare And Technology,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,031444,American College of Healthcare And Technology,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,031444,American College of Healthcare And Technology,Proprietary,Veterinary Biomedical and Clinical Sciences.,Undergraduate Certificate or Diploma,NA,9500,8166
-2016_2017,031444,American College of Healthcare And Technology,Proprietary,Veterinary Biomedical and Clinical Sciences.,Undergraduate Certificate or Diploma,NA,9500,8509
+2015_2016,031444,American College of Healthcare And Technology,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,031444,American College of Healthcare And Technology,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,031444,American College of Healthcare And Technology,Proprietary,Veterinary Biomedical and Clinical Sciences.,Undergraduate Certificate or Diploma,,9500,8166
+2016_2017,031444,American College of Healthcare And Technology,Proprietary,Veterinary Biomedical and Clinical Sciences.,Undergraduate Certificate or Diploma,,9500,8509

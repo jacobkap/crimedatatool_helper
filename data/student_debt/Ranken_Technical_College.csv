@@ -1,32 +1,32 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,012500,Ranken Technical College,Private,Architectural Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,012500,Ranken Technical College,Private,Architectural Engineering Technologies/Technicians.,Bachelor's Degree,13,NA,31068
-2016_2017,012500,Ranken Technical College,Private,Architectural Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,012500,Ranken Technical College,Private,Architectural Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,012500,Ranken Technical College,Private,Architectural Sciences and Technology.,Associate's Degree,NA,NA,NA
-2016_2017,012500,Ranken Technical College,Private,Architectural Sciences and Technology.,Associate's Degree,11,NA,15561
-2015_2016,012500,Ranken Technical College,Private,Basic Skills and Developmental/Remedial Education.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012500,Ranken Technical College,Private,Basic Skills and Developmental/Remedial Education.,Associate's Degree,NA,20462,21661
-2016_2017,012500,Ranken Technical College,Private,Basic Skills and Developmental/Remedial Education.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012500,Ranken Technical College,Private,Basic Skills and Developmental/Remedial Education.,Associate's Degree,NA,20350,19650
-2015_2016,012500,Ranken Technical College,Private,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,17936
-2016_2017,012500,Ranken Technical College,Private,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,17759
-2015_2016,012500,Ranken Technical College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012500,Ranken Technical College,Private,Architectural Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,012500,Ranken Technical College,Private,Architectural Engineering Technologies/Technicians.,Bachelor's Degree,13,,31068
+2016_2017,012500,Ranken Technical College,Private,Architectural Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,012500,Ranken Technical College,Private,Architectural Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,012500,Ranken Technical College,Private,Architectural Sciences and Technology.,Associate's Degree,,,
+2016_2017,012500,Ranken Technical College,Private,Architectural Sciences and Technology.,Associate's Degree,11,,15561
+2015_2016,012500,Ranken Technical College,Private,Basic Skills and Developmental/Remedial Education.,Undergraduate Certificate or Diploma,,,
+2015_2016,012500,Ranken Technical College,Private,Basic Skills and Developmental/Remedial Education.,Associate's Degree,,20462,21661
+2016_2017,012500,Ranken Technical College,Private,Basic Skills and Developmental/Remedial Education.,Undergraduate Certificate or Diploma,,,
+2016_2017,012500,Ranken Technical College,Private,Basic Skills and Developmental/Remedial Education.,Associate's Degree,,20350,19650
+2015_2016,012500,Ranken Technical College,Private,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,17936
+2016_2017,012500,Ranken Technical College,Private,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,17759
+2015_2016,012500,Ranken Technical College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,012500,Ranken Technical College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,30,24395,25105
-2016_2017,012500,Ranken Technical College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,012500,Ranken Technical College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,012500,Ranken Technical College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,38,15475,18736
-2015_2016,012500,Ranken Technical College,Private,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,12998
-2015_2016,012500,Ranken Technical College,Private,Carpenters.,Associate's Degree,NA,NA,16539
-2016_2017,012500,Ranken Technical College,Private,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,12266
+2015_2016,012500,Ranken Technical College,Private,Carpenters.,Undergraduate Certificate or Diploma,,,12998
+2015_2016,012500,Ranken Technical College,Private,Carpenters.,Associate's Degree,,,16539
+2016_2017,012500,Ranken Technical College,Private,Carpenters.,Undergraduate Certificate or Diploma,,,12266
 2016_2017,012500,Ranken Technical College,Private,Carpenters.,Associate's Degree,22,12000,14172
-2015_2016,012500,Ranken Technical College,Private,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,18000,20005
+2015_2016,012500,Ranken Technical College,Private,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,18000,20005
 2015_2016,012500,Ranken Technical College,Private,Computer Engineering Technologies/Technicians.,Associate's Degree,131,16050,16283
 2016_2017,012500,Ranken Technical College,Private,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,32,14625,15698
 2016_2017,012500,Ranken Technical College,Private,Computer Engineering Technologies/Technicians.,Associate's Degree,141,13029,14488
 2015_2016,012500,Ranken Technical College,Private,Computer Programming.,Associate's Degree,32,14850,15509
 2016_2017,012500,Ranken Technical College,Private,Computer Programming.,Associate's Degree,30,12000,13910
-2015_2016,012500,Ranken Technical College,Private,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012500,Ranken Technical College,Private,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012500,Ranken Technical College,Private,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,012500,Ranken Technical College,Private,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
 2015_2016,012500,Ranken Technical College,Private,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,76,14250,14751
 2015_2016,012500,Ranken Technical College,Private,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,89,16000,16154
 2016_2017,012500,Ranken Technical College,Private,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,40,16125,16298
@@ -43,10 +43,10 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,012500,Ranken Technical College,Private,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,49,12000,13166
 2016_2017,012500,Ranken Technical College,Private,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,23,17250,15947
 2016_2017,012500,Ranken Technical College,Private,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,41,12000,12763
-2015_2016,012500,Ranken Technical College,Private,"Mechanic and Repair Technologies/Technicians, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012500,Ranken Technical College,Private,"Mechanic and Repair Technologies/Technicians, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012500,Ranken Technical College,Private,"Mechanic and Repair Technologies/Technicians, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,012500,Ranken Technical College,Private,"Mechanic and Repair Technologies/Technicians, Other.",Undergraduate Certificate or Diploma,,,
 2015_2016,012500,Ranken Technical College,Private,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,20,5950,13052
-2016_2017,012500,Ranken Technical College,Private,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,11,NA,8223
+2016_2017,012500,Ranken Technical College,Private,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,11,,8223
 2015_2016,012500,Ranken Technical College,Private,Precision Metal Working.,Undergraduate Certificate or Diploma,95,12450,13324
 2015_2016,012500,Ranken Technical College,Private,Precision Metal Working.,Associate's Degree,67,12000,14268
 2016_2017,012500,Ranken Technical College,Private,Precision Metal Working.,Undergraduate Certificate or Diploma,63,11399,11858

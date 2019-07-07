@@ -1,63 +1,63 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,009226,Francis Marion University,Public,Accounting and Related Services.,Bachelor's Degree,26,32000,34047
 2016_2017,009226,Francis Marion University,Public,Accounting and Related Services.,Bachelor's Degree,28,31000,31498
-2015_2016,009226,Francis Marion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
+2015_2016,009226,Francis Marion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,,,
+2016_2017,009226,Francis Marion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,,,
+2015_2016,009226,Francis Marion University,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
 2015_2016,009226,Francis Marion University,Public,"Biology, General.",Bachelor's Degree,117,32071,32941
 2016_2017,009226,Francis Marion University,Public,"Biology, General.",Bachelor's Degree,143,31000,32347
 2015_2016,009226,Francis Marion University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,44,27939,28874
-2015_2016,009226,Francis Marion University,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
+2015_2016,009226,Francis Marion University,Public,"Business Administration, Management and Operations.",Master's Degree,,,
 2016_2017,009226,Francis Marion University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,61,28999,29596
-2016_2017,009226,Francis Marion University,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,17,NA,41185
-2015_2016,009226,Francis Marion University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,009226,Francis Marion University,Public,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,009226,Francis Marion University,Public,Business/Managerial Economics.,Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,Business/Managerial Economics.,Bachelor's Degree,,,
+2015_2016,009226,Francis Marion University,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,Chemistry.,Bachelor's Degree,,,
+2015_2016,009226,Francis Marion University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,17,,41185
+2015_2016,009226,Francis Marion University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,
 2016_2017,009226,Francis Marion University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,23,44962,42036
-2016_2017,009226,Francis Marion University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,Communication and Media Studies.,Bachelor's Degree,18,NA,35961
+2016_2017,009226,Francis Marion University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,
+2015_2016,009226,Francis Marion University,Public,Communication and Media Studies.,Bachelor's Degree,18,,35961
 2016_2017,009226,Francis Marion University,Public,Communication and Media Studies.,Bachelor's Degree,26,35273,34695
-2016_2017,009226,Francis Marion University,Public,Communication Disorders Sciences and Services.,Master's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,009226,Francis Marion University,Public,Communication Disorders Sciences and Services.,Master's Degree,,,
+2015_2016,009226,Francis Marion University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,009226,Francis Marion University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,009226,Francis Marion University,Public,Economics.,Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,Economics.,Bachelor's Degree,,,
+2015_2016,009226,Francis Marion University,Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,,,
 2015_2016,009226,Francis Marion University,Public,"English Language and Literature, General.",Bachelor's Degree,37,31000,35707
 2016_2017,009226,Francis Marion University,Public,"English Language and Literature, General.",Bachelor's Degree,43,31000,34004
-2015_2016,009226,Francis Marion University,Public,Finance and Financial Management Services.,Bachelor's Degree,13,NA,32734
-2016_2017,009226,Francis Marion University,Public,Finance and Financial Management Services.,Bachelor's Degree,13,NA,29850
-2015_2016,009226,Francis Marion University,Public,Fine and Studio Arts.,Bachelor's Degree,10,NA,30204
-2016_2017,009226,Francis Marion University,Public,Fine and Studio Arts.,Bachelor's Degree,15,NA,30734
-2015_2016,009226,Francis Marion University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,31735,33224
+2015_2016,009226,Francis Marion University,Public,Finance and Financial Management Services.,Bachelor's Degree,13,,32734
+2016_2017,009226,Francis Marion University,Public,Finance and Financial Management Services.,Bachelor's Degree,13,,29850
+2015_2016,009226,Francis Marion University,Public,Fine and Studio Arts.,Bachelor's Degree,10,,30204
+2016_2017,009226,Francis Marion University,Public,Fine and Studio Arts.,Bachelor's Degree,15,,30734
+2015_2016,009226,Francis Marion University,Public,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,Health and Medical Administrative Services.,Bachelor's Degree,,31735,33224
 2015_2016,009226,Francis Marion University,Public,History.,Bachelor's Degree,24,27644,31280
 2016_2017,009226,Francis Marion University,Public,History.,Bachelor's Degree,22,32551,34961
-2015_2016,009226,Francis Marion University,Public,Industrial Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,Industrial Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,009226,Francis Marion University,Public,Industrial Engineering.,Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,Industrial Engineering.,Bachelor's Degree,,,
+2015_2016,009226,Francis Marion University,Public,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,International Relations and National Security Studies.,Bachelor's Degree,,,
 2015_2016,009226,Francis Marion University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,41,35979,35382
 2016_2017,009226,Francis Marion University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,51,35979,35431
-2015_2016,009226,Francis Marion University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,Management Information Systems and Services.,Bachelor's Degree,11,NA,33679
-2015_2016,009226,Francis Marion University,Public,Marketing.,Bachelor's Degree,18,NA,30509
-2016_2017,009226,Francis Marion University,Public,Marketing.,Bachelor's Degree,18,NA,22967
-2015_2016,009226,Francis Marion University,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Bachelor's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,Physics.,Bachelor's Degree,12,NA,20053
-2016_2017,009226,Francis Marion University,Public,Physics.,Bachelor's Degree,10,NA,27287
+2015_2016,009226,Francis Marion University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2015_2016,009226,Francis Marion University,Public,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,Management Information Systems and Services.,Bachelor's Degree,11,,33679
+2015_2016,009226,Francis Marion University,Public,Marketing.,Bachelor's Degree,18,,30509
+2016_2017,009226,Francis Marion University,Public,Marketing.,Bachelor's Degree,18,,22967
+2015_2016,009226,Francis Marion University,Public,Mathematics.,Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,Mathematics.,Bachelor's Degree,,,
+2015_2016,009226,Francis Marion University,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Bachelor's Degree,,,
+2015_2016,009226,Francis Marion University,Public,Physics.,Bachelor's Degree,12,,20053
+2016_2017,009226,Francis Marion University,Public,Physics.,Bachelor's Degree,10,,27287
 2015_2016,009226,Francis Marion University,Public,Political Science and Government.,Bachelor's Degree,24,34523,36352
 2016_2017,009226,Francis Marion University,Public,Political Science and Government.,Bachelor's Degree,31,28000,29976
 2015_2016,009226,Francis Marion University,Public,"Psychology, General.",Bachelor's Degree,70,33448,34053
@@ -71,8 +71,8 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,009226,Francis Marion University,Public,Special Education and Teaching.,Master's Degree,25,34211,33818
 2016_2017,009226,Francis Marion University,Public,Special Education and Teaching.,Master's Degree,37,34170,34347
 2015_2016,009226,Francis Marion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,59,35576,36208
-2015_2016,009226,Francis Marion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,009226,Francis Marion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,009226,Francis Marion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,76,36843,37291
-2016_2017,009226,Francis Marion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,009226,Francis Marion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,009226,Francis Marion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2016_2017,009226,Francis Marion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,009226,Francis Marion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,009226,Francis Marion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

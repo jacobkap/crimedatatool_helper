@@ -1,9 +1,9 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,042075,Medical Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,3833,4135
-2016_2017,042075,Medical Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,4656,4682
-2015_2016,042075,Medical Career Institute,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,042075,Medical Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,3833,4135
+2016_2017,042075,Medical Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,4656,4682
+2015_2016,042075,Medical Career Institute,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
 2016_2017,042075,Medical Career Institute,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,25,12999,13677
-2015_2016,042075,Medical Career Institute,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,042075,Medical Career Institute,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,042075,Medical Career Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,042075,Medical Career Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,042075,Medical Career Institute,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,042075,Medical Career Institute,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,042075,Medical Career Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,042075,Medical Career Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,

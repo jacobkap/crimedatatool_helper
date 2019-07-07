@@ -1,121 +1,121 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003370,Swarthmore College,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Archeology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Archeology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Astronomy and Astrophysics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Astronomy and Astrophysics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,003370,Swarthmore College,Private,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Archeology.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Archeology.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Area Studies.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Astronomy and Astrophysics.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Astronomy and Astrophysics.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Biological and Physical Sciences.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Biological and Physical Sciences.,Bachelor's Degree,,,
 2015_2016,003370,Swarthmore College,Private,"Biology, General.",Bachelor's Degree,31,22000,19587
-2016_2017,003370,Swarthmore College,Private,"Biology, General.",Bachelor's Degree,17,NA,21000
-2015_2016,003370,Swarthmore College,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Classical and Ancient Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Classical and Ancient Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Cognitive Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Cognitive Science.,Bachelor's Degree,NA,NA,NA
+2016_2017,003370,Swarthmore College,Private,"Biology, General.",Bachelor's Degree,17,,21000
+2015_2016,003370,Swarthmore College,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Classical and Ancient Studies.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Classical and Ancient Studies.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Cognitive Science.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Cognitive Science.,Bachelor's Degree,,,
 2015_2016,003370,Swarthmore College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,20,21500,19761
 2016_2017,003370,Swarthmore College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,23,22000,20701
-2015_2016,003370,Swarthmore College,Private,Cultural Studies/Critical Theory and Analysis.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Cultural Studies/Critical Theory and Analysis.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Dance.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Dance.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003370,Swarthmore College,Private,Cultural Studies/Critical Theory and Analysis.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Cultural Studies/Critical Theory and Analysis.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Dance.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Dance.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,003370,Swarthmore College,Private,Economics.,Bachelor's Degree,21,19500,17237
 2016_2017,003370,Swarthmore College,Private,Economics.,Bachelor's Degree,23,21500,17562
-2015_2016,003370,Swarthmore College,Private,"Education, Other.",Bachelor's Degree,16,NA,15023
-2016_2017,003370,Swarthmore College,Private,"Education, Other.",Bachelor's Degree,15,NA,14886
-2015_2016,003370,Swarthmore College,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Engineering, General.",Bachelor's Degree,17,NA,20709
-2015_2016,003370,Swarthmore College,Private,"English Language and Literature, General.",Bachelor's Degree,15,NA,17640
-2016_2017,003370,Swarthmore College,Private,"English Language and Literature, General.",Bachelor's Degree,10,NA,13853
-2015_2016,003370,Swarthmore College,Private,"English Language and Literature/Letters, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"English Language and Literature/Letters, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,15,NA,16284
-2016_2017,003370,Swarthmore College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Literature.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Literature.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Mathematics.,Bachelor's Degree,16,NA,17301
-2016_2017,003370,Swarthmore College,Private,Mathematics.,Bachelor's Degree,11,NA,15754
-2015_2016,003370,Swarthmore College,Private,Medieval and Renaissance Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Medieval and Renaissance Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Physical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Physical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003370,Swarthmore College,Private,"Education, Other.",Bachelor's Degree,16,,15023
+2016_2017,003370,Swarthmore College,Private,"Education, Other.",Bachelor's Degree,15,,14886
+2015_2016,003370,Swarthmore College,Private,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Engineering, General.",Bachelor's Degree,17,,20709
+2015_2016,003370,Swarthmore College,Private,"English Language and Literature, General.",Bachelor's Degree,15,,17640
+2016_2017,003370,Swarthmore College,Private,"English Language and Literature, General.",Bachelor's Degree,10,,13853
+2015_2016,003370,Swarthmore College,Private,"English Language and Literature/Letters, Other.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"English Language and Literature/Letters, Other.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,History.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,History.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,15,,16284
+2016_2017,003370,Swarthmore College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Literature.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Literature.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Mathematics.,Bachelor's Degree,16,,17301
+2016_2017,003370,Swarthmore College,Private,Mathematics.,Bachelor's Degree,11,,15754
+2015_2016,003370,Swarthmore College,Private,Medieval and Renaissance Studies.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Medieval and Renaissance Studies.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Music.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Music.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Physical Sciences, Other.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Physical Sciences, Other.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Physics.,Bachelor's Degree,,,
 2015_2016,003370,Swarthmore College,Private,Political Science and Government.,Bachelor's Degree,24,14700,15252
 2016_2017,003370,Swarthmore College,Private,Political Science and Government.,Bachelor's Degree,20,18750,17218
-2015_2016,003370,Swarthmore College,Private,"Psychology, General.",Bachelor's Degree,17,NA,21568
-2016_2017,003370,Swarthmore College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Psychology, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Psychology, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Public Administration and Social Service Professions, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Public Administration and Social Service Professions, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Public Policy Analysis.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Public Policy Analysis.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Research and Experimental Psychology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Research and Experimental Psychology.,Bachelor's Degree,14,NA,16293
-2015_2016,003370,Swarthmore College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,Sociology and Anthropology.,Bachelor's Degree,14,NA,15719
-2016_2017,003370,Swarthmore College,Private,Sociology and Anthropology.,Bachelor's Degree,10,NA,16212
-2015_2016,003370,Swarthmore College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003370,Swarthmore College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003370,Swarthmore College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,003370,Swarthmore College,Private,"Psychology, General.",Bachelor's Degree,17,,21568
+2016_2017,003370,Swarthmore College,Private,"Psychology, General.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Psychology, Other.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Psychology, Other.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Public Administration and Social Service Professions, Other.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Public Administration and Social Service Professions, Other.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Public Policy Analysis.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Public Policy Analysis.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Research and Experimental Psychology.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Research and Experimental Psychology.,Bachelor's Degree,14,,16293
+2015_2016,003370,Swarthmore College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Social Sciences, Other.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Social Sciences, Other.",Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,Sociology and Anthropology.,Bachelor's Degree,14,,15719
+2016_2017,003370,Swarthmore College,Private,Sociology and Anthropology.,Bachelor's Degree,10,,16212
+2015_2016,003370,Swarthmore College,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,003370,Swarthmore College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,,,
+2016_2017,003370,Swarthmore College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,,,

@@ -1,6 +1,6 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,031281,College of Health Care Professions (the),Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,587,9500,8527
-2015_2016,031281,College of Health Care Professions (the),Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,17477,17984
+2015_2016,031281,College of Health Care Professions (the),Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,17477,17984
 2015_2016,034263,College of Health Care Professions (the),Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,194,9500,8589
 2016_2017,031281,College of Health Care Professions (the),Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,929,9500,8224
 2016_2017,031281,College of Health Care Professions (the),Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,97,17420,18082
@@ -8,37 +8,37 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,031281,College of Health Care Professions (the),Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,383,16393,15733
 2015_2016,031281,College of Health Care Professions (the),Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,149,20746,21368
 2015_2016,034263,College of Health Care Professions (the),Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,136,16500,15604
-2015_2016,034263,College of Health Care Professions (the),Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,13,NA,21061
+2015_2016,034263,College of Health Care Professions (the),Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,13,,21061
 2016_2017,031281,College of Health Care Professions (the),Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,428,16307,15205
 2016_2017,031281,College of Health Care Professions (the),Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,274,23676,23289
 2016_2017,034263,College of Health Care Professions (the),Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,148,16500,15387
-2016_2017,034263,College of Health Care Professions (the),Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,16,NA,21385
-2015_2016,031281,College of Health Care Professions (the),Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,031281,College of Health Care Professions (the),Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,034263,College of Health Care Professions (the),Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,16,,21385
+2015_2016,031281,College of Health Care Professions (the),Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,031281,College of Health Care Professions (the),Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2015_2016,031281,College of Health Care Professions (the),Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,214,9500,8699
-2015_2016,031281,College of Health Care Professions (the),Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,NA,NA,NA
+2015_2016,031281,College of Health Care Professions (the),Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,,,
 2015_2016,034263,College of Health Care Professions (the),Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,63,9500,8684
 2016_2017,031281,College of Health Care Professions (the),Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,218,9500,8481
 2016_2017,034263,College of Health Care Professions (the),Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,64,9500,8511
 2015_2016,031281,College of Health Care Professions (the),Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,148,9500,9096
 2015_2016,031281,College of Health Care Professions (the),Proprietary,Health and Medical Administrative Services.,Associate's Degree,107,17551,17833
-2015_2016,031281,College of Health Care Professions (the),Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,031281,College of Health Care Professions (the),Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,,
 2015_2016,034263,College of Health Care Professions (the),Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,32,9500,8936
 2016_2017,031281,College of Health Care Professions (the),Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,202,9500,9157
 2016_2017,031281,College of Health Care Professions (the),Proprietary,Health and Medical Administrative Services.,Associate's Degree,166,16977,17340
-2016_2017,031281,College of Health Care Professions (the),Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,031281,College of Health Care Professions (the),Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,,
 2016_2017,034263,College of Health Care Professions (the),Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,25,9500,8940
-2015_2016,031281,College of Health Care Professions (the),Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,7521,7073
-2015_2016,034263,College of Health Care Professions (the),Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,7521,7426
-2016_2017,031281,College of Health Care Professions (the),Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,7079
-2016_2017,034263,College of Health Care Professions (the),Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,031281,College of Health Care Professions (the),Proprietary,Medical Illustration and Informatics.,Bachelor's Degree,NA,NA,NA
-2016_2017,031281,College of Health Care Professions (the),Proprietary,Medical Illustration and Informatics.,Bachelor's Degree,NA,NA,NA
+2015_2016,031281,College of Health Care Professions (the),Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,7521,7073
+2015_2016,034263,College of Health Care Professions (the),Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,7521,7426
+2016_2017,031281,College of Health Care Professions (the),Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,7079
+2016_2017,034263,College of Health Care Professions (the),Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
+2015_2016,031281,College of Health Care Professions (the),Proprietary,Medical Illustration and Informatics.,Bachelor's Degree,,,
+2016_2017,031281,College of Health Care Professions (the),Proprietary,Medical Illustration and Informatics.,Bachelor's Degree,,,
 2015_2016,031281,College of Health Care Professions (the),Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,62,15753,14645
-2016_2017,031281,College of Health Care Professions (the),Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,15753,15084
-2015_2016,031281,College of Health Care Professions (the),Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
-2015_2016,031281,College of Health Care Professions (the),Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,031281,College of Health Care Professions (the),Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,21871,20295
-2016_2017,031281,College of Health Care Professions (the),Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
+2016_2017,031281,College of Health Care Professions (the),Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,15753,15084
+2015_2016,031281,College of Health Care Professions (the),Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
+2015_2016,031281,College of Health Care Professions (the),Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,031281,College of Health Care Professions (the),Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,21871,20295
+2016_2017,031281,College of Health Care Professions (the),Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
 2015_2016,031281,College of Health Care Professions (the),Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,89,6268,5975
 2016_2017,031281,College of Health Care Professions (the),Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,71,6136,6082

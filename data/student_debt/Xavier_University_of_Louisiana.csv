@@ -1,101 +1,101 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002032,Xavier University of Louisiana,Private,Accounting and Related Services.,Bachelor's Degree,11,NA,34467
-2016_2017,002032,Xavier University of Louisiana,Private,Accounting and Related Services.,Bachelor's Degree,11,NA,31082
-2015_2016,002032,Xavier University of Louisiana,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,002032,Xavier University of Louisiana,Private,Accounting and Related Services.,Bachelor's Degree,11,,34467
+2016_2017,002032,Xavier University of Louisiana,Private,Accounting and Related Services.,Bachelor's Degree,11,,31082
+2015_2016,002032,Xavier University of Louisiana,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
 2015_2016,002032,Xavier University of Louisiana,Private,"Biology, General.",Bachelor's Degree,162,29000,29733
 2016_2017,002032,Xavier University of Louisiana,Private,"Biology, General.",Bachelor's Degree,151,27000,28385
-2015_2016,002032,Xavier University of Louisiana,Private,Biomedical/Medical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Biomedical/Medical Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,35003
-2016_2017,002032,Xavier University of Louisiana,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,28898,30958
-2015_2016,002032,Xavier University of Louisiana,Private,Chemical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Chemical Engineering.,Bachelor's Degree,NA,NA,NA
+2015_2016,002032,Xavier University of Louisiana,Private,Biomedical/Medical Engineering.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Biomedical/Medical Engineering.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,35003
+2016_2017,002032,Xavier University of Louisiana,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,28898,30958
+2015_2016,002032,Xavier University of Louisiana,Private,Chemical Engineering.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Chemical Engineering.,Bachelor's Degree,,,
 2015_2016,002032,Xavier University of Louisiana,Private,Chemistry.,Bachelor's Degree,54,27841,29781
 2016_2017,002032,Xavier University of Louisiana,Private,Chemistry.,Bachelor's Degree,56,28750,29196
-2015_2016,002032,Xavier University of Louisiana,Private,Civil Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Civil Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,NA,NA,41807
-2016_2017,002032,Xavier University of Louisiana,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"Computer and Information Sciences and Support Services, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Computer and Information Sciences and Support Services, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"English Language and Literature, General.",Bachelor's Degree,10,NA,22663
-2016_2017,002032,Xavier University of Louisiana,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Mechanical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Mechanical Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,112577,109136
-2015_2016,002032,Xavier University of Louisiana,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,117132,115535
-2016_2017,002032,Xavier University of Louisiana,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Political Science and Government.,Bachelor's Degree,14,NA,35550
-2016_2017,002032,Xavier University of Louisiana,Private,Political Science and Government.,Bachelor's Degree,16,NA,29705
+2015_2016,002032,Xavier University of Louisiana,Private,Civil Engineering.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Civil Engineering.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,,,41807
+2016_2017,002032,Xavier University of Louisiana,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"Computer and Information Sciences and Support Services, Other.",Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Computer and Information Sciences and Support Services, Other.",Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"Education, General.",Master's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Education, General.",Master's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Educational Administration and Supervision.,Doctoral Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Educational Administration and Supervision.,Doctoral Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Engineering, General.",Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"English Language and Literature, General.",Bachelor's Degree,10,,22663
+2016_2017,002032,Xavier University of Louisiana,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,History.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,History.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Information Science/Studies.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Mechanical Engineering.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Mechanical Engineering.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Microbiological Sciences and Immunology.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Microbiological Sciences and Immunology.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Music.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Music.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,112577,109136
+2015_2016,002032,Xavier University of Louisiana,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,117132,115535
+2016_2017,002032,Xavier University of Louisiana,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Physics.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Physics.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Political Science and Government.,Bachelor's Degree,14,,35550
+2016_2017,002032,Xavier University of Louisiana,Private,Political Science and Government.,Bachelor's Degree,16,,29705
 2015_2016,002032,Xavier University of Louisiana,Private,"Psychology, General.",Bachelor's Degree,55,31000,32157
 2016_2017,002032,Xavier University of Louisiana,Private,"Psychology, General.",Bachelor's Degree,57,28917,28417
 2015_2016,002032,Xavier University of Louisiana,Private,Public Health.,Bachelor's Degree,23,38051,36941
 2016_2017,002032,Xavier University of Louisiana,Private,Public Health.,Bachelor's Degree,33,31000,33027
-2015_2016,002032,Xavier University of Louisiana,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,27000,25939
-2016_2017,002032,Xavier University of Louisiana,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,29465,28131
-2015_2016,002032,Xavier University of Louisiana,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Sociology.,Bachelor's Degree,16,NA,40834
-2016_2017,002032,Xavier University of Louisiana,Private,Sociology.,Bachelor's Degree,NA,NA,37928
-2015_2016,002032,Xavier University of Louisiana,Private,Special Education and Teaching.,Master's Degree,NA,NA,37535
-2016_2017,002032,Xavier University of Louisiana,Private,Special Education and Teaching.,Master's Degree,NA,NA,40496
-2015_2016,002032,Xavier University of Louisiana,Private,Statistics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Statistics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Student Counseling and Personnel Services.,Master's Degree,NA,55691,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Student Counseling and Personnel Services.,Master's Degree,NA,57329,56559
-2015_2016,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002032,Xavier University of Louisiana,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002032,Xavier University of Louisiana,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,46872
+2015_2016,002032,Xavier University of Louisiana,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,27000,25939
+2016_2017,002032,Xavier University of Louisiana,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,29465,28131
+2015_2016,002032,Xavier University of Louisiana,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Sociology.,Bachelor's Degree,16,,40834
+2016_2017,002032,Xavier University of Louisiana,Private,Sociology.,Bachelor's Degree,,,37928
+2015_2016,002032,Xavier University of Louisiana,Private,Special Education and Teaching.,Master's Degree,,,37535
+2016_2017,002032,Xavier University of Louisiana,Private,Special Education and Teaching.,Master's Degree,,,40496
+2015_2016,002032,Xavier University of Louisiana,Private,Statistics.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Statistics.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Student Counseling and Personnel Services.,Master's Degree,,55691,
+2016_2017,002032,Xavier University of Louisiana,Private,Student Counseling and Personnel Services.,Master's Degree,,57329,56559
+2015_2016,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2015_2016,002032,Xavier University of Louisiana,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,002032,Xavier University of Louisiana,Private,Theological and Ministerial Studies.,Master's Degree,,,46872

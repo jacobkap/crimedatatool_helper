@@ -1,141 +1,141 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,001526,Saint Leo University,Private,Accounting and Related Services.,Bachelor's Degree,187,29000,31674
-2015_2016,001526,Saint Leo University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,,,
 2015_2016,001526,Saint Leo University,Private,Accounting and Related Services.,Master's Degree,32,30750,32212
 2016_2017,001526,Saint Leo University,Private,Accounting and Related Services.,Bachelor's Degree,180,28125,31000
-2016_2017,001526,Saint Leo University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,,,
 2016_2017,001526,Saint Leo University,Private,Accounting and Related Services.,Master's Degree,59,35875,35758
 2015_2016,001526,Saint Leo University,Private,"Biology, General.",Bachelor's Degree,46,25500,26778
 2016_2017,001526,Saint Leo University,Private,"Biology, General.",Bachelor's Degree,46,25884,27731
 2015_2016,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Associate's Degree,43,30500,31147
 2015_2016,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,404,28250,29328
-2015_2016,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2015_2016,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Master's Degree,746,46125,45195
-2015_2016,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Doctoral Degree,,,
 2016_2017,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Associate's Degree,76,32187,31532
 2016_2017,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,498,29250,29766
-2016_2017,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2016_2017,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Master's Degree,846,51237,47464
-2016_2017,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,29472
-2015_2016,001526,Saint Leo University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,30250,NA
-2015_2016,001526,Saint Leo University,Private,"Business/Commerce, General.",Master's Degree,NA,46125,44121
-2016_2017,001526,Saint Leo University,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,31812,30724
-2016_2017,001526,Saint Leo University,Private,"Business/Commerce, General.",Master's Degree,NA,46125,44704
-2015_2016,001526,Saint Leo University,Private,Business/Corporate Communications.,Bachelor's Degree,NA,NA,26627
-2016_2017,001526,Saint Leo University,Private,Business/Corporate Communications.,Bachelor's Degree,15,NA,24839
+2016_2017,001526,Saint Leo University,Private,"Business Administration, Management and Operations.",Doctoral Degree,,,
+2015_2016,001526,Saint Leo University,Private,"Business/Commerce, General.",Associate's Degree,,,29472
+2015_2016,001526,Saint Leo University,Private,"Business/Commerce, General.",Bachelor's Degree,,30250,
+2015_2016,001526,Saint Leo University,Private,"Business/Commerce, General.",Master's Degree,,46125,44121
+2016_2017,001526,Saint Leo University,Private,"Business/Commerce, General.",Associate's Degree,,,
+2016_2017,001526,Saint Leo University,Private,"Business/Commerce, General.",Bachelor's Degree,,31812,30724
+2016_2017,001526,Saint Leo University,Private,"Business/Commerce, General.",Master's Degree,,46125,44704
+2015_2016,001526,Saint Leo University,Private,Business/Corporate Communications.,Bachelor's Degree,,,26627
+2016_2017,001526,Saint Leo University,Private,Business/Corporate Communications.,Bachelor's Degree,15,,24839
 2015_2016,001526,Saint Leo University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,52,55391,47932
-2016_2017,001526,Saint Leo University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
 2016_2017,001526,Saint Leo University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,37,56375,47581
-2015_2016,001526,Saint Leo University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,"Computer and Information Sciences, General.",Associate's Degree,,,
 2015_2016,001526,Saint Leo University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,114,29401,29464
-2016_2017,001526,Saint Leo University,Private,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,"Computer and Information Sciences, General.",Associate's Degree,,,
 2016_2017,001526,Saint Leo University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,122,27101,27695
-2016_2017,001526,Saint Leo University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Master's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,11,NA,25795
-2016_2017,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Post-baccalaureate Certificate,,,
+2015_2016,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Master's Degree,,,
+2016_2017,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,11,,25795
+2016_2017,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Post-baccalaureate Certificate,,,
 2016_2017,001526,Saint Leo University,Private,Computer/Information Technology Administration and Management.,Master's Degree,23,51250,55856
-2015_2016,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2015_2016,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Associate's Degree,32,29500,29102
 2015_2016,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Bachelor's Degree,551,26027,27690
-2015_2016,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Post-baccalaureate Certificate,,,
 2015_2016,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Master's Degree,267,50311,46408
-2016_2017,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2016_2017,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Associate's Degree,39,30500,31491
 2016_2017,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Bachelor's Degree,479,28125,29600
-2016_2017,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Post-baccalaureate Certificate,,,
 2016_2017,001526,Saint Leo University,Private,Criminal Justice and Corrections.,Master's Degree,314,56375,51125
-2015_2016,001526,Saint Leo University,Private,Criminology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Criminology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Criminology.,Master's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,"Education, General.",Master's Degree,NA,41000,39120
-2016_2017,001526,Saint Leo University,Private,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,"Education, General.",Master's Degree,NA,45495,42672
-2015_2016,001526,Saint Leo University,Private,"Education, Other.",Bachelor's Degree,NA,NA,24179
-2015_2016,001526,Saint Leo University,Private,"Education, Other.",Master's Degree,NA,NA,47396
-2016_2017,001526,Saint Leo University,Private,"Education, Other.",Bachelor's Degree,15,NA,25488
-2016_2017,001526,Saint Leo University,Private,"Education, Other.",Master's Degree,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Criminology.,Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,Criminology.,Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,Criminology.,Master's Degree,,,
+2015_2016,001526,Saint Leo University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,Economics.,Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,Economics.,Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,"Education, General.",Post-baccalaureate Certificate,,,
+2015_2016,001526,Saint Leo University,Private,"Education, General.",Master's Degree,,41000,39120
+2016_2017,001526,Saint Leo University,Private,"Education, General.",Post-baccalaureate Certificate,,,
+2016_2017,001526,Saint Leo University,Private,"Education, General.",Master's Degree,,45495,42672
+2015_2016,001526,Saint Leo University,Private,"Education, Other.",Bachelor's Degree,,,24179
+2015_2016,001526,Saint Leo University,Private,"Education, Other.",Master's Degree,,,47396
+2016_2017,001526,Saint Leo University,Private,"Education, Other.",Bachelor's Degree,15,,25488
+2016_2017,001526,Saint Leo University,Private,"Education, Other.",Master's Degree,,,
 2015_2016,001526,Saint Leo University,Private,Educational Administration and Supervision.,Master's Degree,76,41000,39341
 2016_2017,001526,Saint Leo University,Private,Educational Administration and Supervision.,Master's Degree,103,48000,43264
-2015_2016,001526,Saint Leo University,Private,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
 2015_2016,001526,Saint Leo University,Private,Educational/Instructional Media Design.,Master's Degree,21,55218,51082
-2016_2017,001526,Saint Leo University,Private,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
 2016_2017,001526,Saint Leo University,Private,Educational/Instructional Media Design.,Master's Degree,22,56375,51993
-2015_2016,001526,Saint Leo University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,"English Language and Literature/Letters, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,"English Language and Literature/Letters, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,"English Language and Literature/Letters, Other.",Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,"English Language and Literature/Letters, Other.",Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
 2015_2016,001526,Saint Leo University,Private,Health and Medical Administrative Services.,Bachelor's Degree,196,30907,31354
-2015_2016,001526,Saint Leo University,Private,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Health and Medical Administrative Services.,Post-baccalaureate Certificate,,,
 2016_2017,001526,Saint Leo University,Private,Health and Medical Administrative Services.,Bachelor's Degree,181,31185,32152
-2016_2017,001526,Saint Leo University,Private,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,Health and Medical Administrative Services.,Post-baccalaureate Certificate,,,
 2015_2016,001526,Saint Leo University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,45,21750,21146
 2016_2017,001526,Saint Leo University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,56,23771,22872
-2015_2016,001526,Saint Leo University,Private,History.,Bachelor's Degree,10,NA,18616
-2016_2017,001526,Saint Leo University,Private,History.,Bachelor's Degree,10,NA,20435
-2015_2016,001526,Saint Leo University,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Master's Degree,16,NA,56173
+2015_2016,001526,Saint Leo University,Private,History.,Bachelor's Degree,10,,18616
+2016_2017,001526,Saint Leo University,Private,History.,Bachelor's Degree,10,,20435
+2015_2016,001526,Saint Leo University,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Master's Degree,16,,56173
 2016_2017,001526,Saint Leo University,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Master's Degree,25,56375,53513
-2015_2016,001526,Saint Leo University,Private,Homeland Security.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Homeland Security.,Undergraduate Certificate or Diploma,,,
 2015_2016,001526,Saint Leo University,Private,Homeland Security.,Bachelor's Degree,99,29500,29728
-2015_2016,001526,Saint Leo University,Private,Homeland Security.,Master's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Homeland Security.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Homeland Security.,Master's Degree,,,
+2016_2017,001526,Saint Leo University,Private,Homeland Security.,Undergraduate Certificate or Diploma,,,
 2016_2017,001526,Saint Leo University,Private,Homeland Security.,Bachelor's Degree,82,25025,27555
-2016_2017,001526,Saint Leo University,Private,Homeland Security.,Master's Degree,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,Homeland Security.,Master's Degree,,,
 2015_2016,001526,Saint Leo University,Private,Hospitality Administration/Management.,Bachelor's Degree,20,25078,24457
 2016_2017,001526,Saint Leo University,Private,Hospitality Administration/Management.,Bachelor's Degree,26,25025,24442
 2015_2016,001526,Saint Leo University,Private,Human Resources Management and Services.,Bachelor's Degree,117,31000,32190
-2015_2016,001526,Saint Leo University,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
+2015_2016,001526,Saint Leo University,Private,Human Resources Management and Services.,Master's Degree,,,
 2016_2017,001526,Saint Leo University,Private,Human Resources Management and Services.,Bachelor's Degree,103,34000,32218
-2016_2017,001526,Saint Leo University,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
+2016_2017,001526,Saint Leo University,Private,Human Resources Management and Services.,Master's Degree,,,
 2015_2016,001526,Saint Leo University,Private,"Human Services, General.",Bachelor's Degree,124,25500,29478
 2016_2017,001526,Saint Leo University,Private,"Human Services, General.",Bachelor's Degree,156,28060,31630
-2016_2017,001526,Saint Leo University,Private,"Human Services, General.",Master's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,001526,Saint Leo University,Private,"Human Services, General.",Master's Degree,,,
+2015_2016,001526,Saint Leo University,Private,International Business.,Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,International Business.,Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,International/Global Studies.,Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,International/Global Studies.,Bachelor's Degree,,,
 2015_2016,001526,Saint Leo University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,323,20241,23305
 2015_2016,001526,Saint Leo University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,50,24903,27038
 2016_2017,001526,Saint Leo University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,409,21125,23740
-2016_2017,001526,Saint Leo University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,31312,30829
-2015_2016,001526,Saint Leo University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,34022,32510
-2016_2017,001526,Saint Leo University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,36189
+2016_2017,001526,Saint Leo University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,31312,30829
+2015_2016,001526,Saint Leo University,Private,Management Information Systems and Services.,Bachelor's Degree,,34022,32510
+2016_2017,001526,Saint Leo University,Private,Management Information Systems and Services.,Bachelor's Degree,,,36189
 2015_2016,001526,Saint Leo University,Private,Marketing.,Bachelor's Degree,57,27000,28569
-2015_2016,001526,Saint Leo University,Private,Marketing.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Marketing.,Master's Degree,NA,NA,NA
+2015_2016,001526,Saint Leo University,Private,Marketing.,Post-baccalaureate Certificate,,,
+2015_2016,001526,Saint Leo University,Private,Marketing.,Master's Degree,,,
 2016_2017,001526,Saint Leo University,Private,Marketing.,Bachelor's Degree,46,27069,28501
-2016_2017,001526,Saint Leo University,Private,Marketing.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Marketing.,Master's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Mathematics.,Bachelor's Degree,11,NA,27635
-2016_2017,001526,Saint Leo University,Private,Mathematics.,Bachelor's Degree,NA,NA,26259
-2015_2016,001526,Saint Leo University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Political Science and Government.,Bachelor's Degree,14,NA,22818
-2016_2017,001526,Saint Leo University,Private,Political Science and Government.,Bachelor's Degree,17,NA,23023
+2016_2017,001526,Saint Leo University,Private,Marketing.,Post-baccalaureate Certificate,,,
+2016_2017,001526,Saint Leo University,Private,Marketing.,Master's Degree,,,
+2015_2016,001526,Saint Leo University,Private,Mathematics.,Bachelor's Degree,11,,27635
+2016_2017,001526,Saint Leo University,Private,Mathematics.,Bachelor's Degree,,,26259
+2015_2016,001526,Saint Leo University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,Political Science and Government.,Bachelor's Degree,14,,22818
+2016_2017,001526,Saint Leo University,Private,Political Science and Government.,Bachelor's Degree,17,,23023
 2015_2016,001526,Saint Leo University,Private,"Psychology, General.",Bachelor's Degree,423,26769,27551
 2016_2017,001526,Saint Leo University,Private,"Psychology, General.",Bachelor's Degree,402,25125,26962
 2015_2016,001526,Saint Leo University,Private,Religion/Religious Studies.,Bachelor's Degree,22,37575,37048
 2016_2017,001526,Saint Leo University,Private,Religion/Religious Studies.,Bachelor's Degree,33,30875,34610
-2016_2017,001526,Saint Leo University,Private,Research and Experimental Psychology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,10,NA,25574
-2016_2017,001526,Saint Leo University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,14,NA,22403
-2015_2016,001526,Saint Leo University,Private,Social Work.,Bachelor's Degree,NA,22719,23787
+2016_2017,001526,Saint Leo University,Private,Research and Experimental Psychology.,Bachelor's Degree,,,
+2015_2016,001526,Saint Leo University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,10,,25574
+2016_2017,001526,Saint Leo University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,14,,22403
+2015_2016,001526,Saint Leo University,Private,Social Work.,Bachelor's Degree,,22719,23787
 2015_2016,001526,Saint Leo University,Private,Social Work.,Master's Degree,58,51250,50658
 2016_2017,001526,Saint Leo University,Private,Social Work.,Bachelor's Degree,129,22000,23168
 2016_2017,001526,Saint Leo University,Private,Social Work.,Master's Degree,134,51250,51242
@@ -147,11 +147,11 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,001526,Saint Leo University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,108,25000,23330
 2015_2016,001526,Saint Leo University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,45,49275,42951
 2016_2017,001526,Saint Leo University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,27,56375,48980
-2015_2016,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,41426
-2015_2016,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Master's Degree,11,NA,46119
-2016_2017,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Master's Degree,19,NA,49137
+2015_2016,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,41426
+2015_2016,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,,,
+2015_2016,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Master's Degree,11,,46119
+2016_2017,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,,,
+2016_2017,001526,Saint Leo University,Private,Theological and Ministerial Studies.,Master's Degree,19,,49137

@@ -1,61 +1,61 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,003389,Washington And Jefferson College,Private,Accounting and Related Services.,Bachelor's Degree,53,27000,26255
 2016_2017,003389,Washington And Jefferson College,Private,Accounting and Related Services.,Bachelor's Degree,49,27000,27315
-2015_2016,003389,Washington And Jefferson College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,15,NA,24033
-2016_2017,003389,Washington And Jefferson College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,16,NA,24321
+2015_2016,003389,Washington And Jefferson College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,15,,24033
+2016_2017,003389,Washington And Jefferson College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,16,,24321
 2015_2016,003389,Washington And Jefferson College,Private,"Biology, General.",Bachelor's Degree,24,27000,27027
 2016_2017,003389,Washington And Jefferson College,Private,"Biology, General.",Bachelor's Degree,21,27000,26949
 2015_2016,003389,Washington And Jefferson College,Private,"Business/Commerce, General.",Bachelor's Degree,66,27000,25718
 2016_2017,003389,Washington And Jefferson College,Private,"Business/Commerce, General.",Bachelor's Degree,62,27000,26674
-2015_2016,003389,Washington And Jefferson College,Private,Cell/Cellular Biology and Anatomical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,Cell/Cellular Biology and Anatomical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,Chemistry.,Bachelor's Degree,10,NA,25737
-2016_2017,003389,Washington And Jefferson College,Private,Chemistry.,Bachelor's Degree,14,NA,25679
-2015_2016,003389,Washington And Jefferson College,Private,Communication and Media Studies.,Bachelor's Degree,13,NA,27676
+2015_2016,003389,Washington And Jefferson College,Private,Cell/Cellular Biology and Anatomical Sciences.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,Cell/Cellular Biology and Anatomical Sciences.,Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,Chemistry.,Bachelor's Degree,10,,25737
+2016_2017,003389,Washington And Jefferson College,Private,Chemistry.,Bachelor's Degree,14,,25679
+2015_2016,003389,Washington And Jefferson College,Private,Communication and Media Studies.,Bachelor's Degree,13,,27676
 2016_2017,003389,Washington And Jefferson College,Private,Communication and Media Studies.,Bachelor's Degree,21,27000,28128
-2015_2016,003389,Washington And Jefferson College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,16,NA,26645
-2016_2017,003389,Washington And Jefferson College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,10,NA,27150
-2015_2016,003389,Washington And Jefferson College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
+2015_2016,003389,Washington And Jefferson College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,16,,26645
+2016_2017,003389,Washington And Jefferson College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,10,,27150
+2015_2016,003389,Washington And Jefferson College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
 2015_2016,003389,Washington And Jefferson College,Private,Economics.,Bachelor's Degree,30,27000,24289
 2016_2017,003389,Washington And Jefferson College,Private,Economics.,Bachelor's Degree,27,26000,24609
-2015_2016,003389,Washington And Jefferson College,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003389,Washington And Jefferson College,Private,"Education, General.",Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,"Education, General.",Bachelor's Degree,,,
 2015_2016,003389,Washington And Jefferson College,Private,"English Language and Literature, General.",Bachelor's Degree,26,27000,26080
-2016_2017,003389,Washington And Jefferson College,Private,"English Language and Literature, General.",Bachelor's Degree,18,NA,27329
-2015_2016,003389,Washington And Jefferson College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,History.,Bachelor's Degree,19,NA,24652
-2016_2017,003389,Washington And Jefferson College,Private,History.,Bachelor's Degree,16,NA,24775
-2015_2016,003389,Washington And Jefferson College,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,Mathematics.,Bachelor's Degree,NA,NA,26280
-2015_2016,003389,Washington And Jefferson College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,15,NA,25139
-2015_2016,003389,Washington And Jefferson College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2016_2017,003389,Washington And Jefferson College,Private,"English Language and Literature, General.",Bachelor's Degree,18,,27329
+2015_2016,003389,Washington And Jefferson College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,History.,Bachelor's Degree,19,,24652
+2016_2017,003389,Washington And Jefferson College,Private,History.,Bachelor's Degree,16,,24775
+2015_2016,003389,Washington And Jefferson College,Private,International Business.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,International Business.,Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,International/Global Studies.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,International/Global Studies.,Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,Mathematics.,Bachelor's Degree,,,26280
+2015_2016,003389,Washington And Jefferson College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,Music.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,Music.,Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,15,,25139
+2015_2016,003389,Washington And Jefferson College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,Physics.,Bachelor's Degree,,,
 2015_2016,003389,Washington And Jefferson College,Private,Political Science and Government.,Bachelor's Degree,21,27000,28041
-2016_2017,003389,Washington And Jefferson College,Private,Political Science and Government.,Bachelor's Degree,17,NA,26800
+2016_2017,003389,Washington And Jefferson College,Private,Political Science and Government.,Bachelor's Degree,17,,26800
 2015_2016,003389,Washington And Jefferson College,Private,"Psychology, General.",Bachelor's Degree,54,27000,26337
 2016_2017,003389,Washington And Jefferson College,Private,"Psychology, General.",Bachelor's Degree,47,27000,25344
-2015_2016,003389,Washington And Jefferson College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,12,NA,22135
-2016_2017,003389,Washington And Jefferson College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,Sociology.,Bachelor's Degree,NA,NA,27622
-2016_2017,003389,Washington And Jefferson College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003389,Washington And Jefferson College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,25098
-2015_2016,003389,Washington And Jefferson College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003389,Washington And Jefferson College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,003389,Washington And Jefferson College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,12,,22135
+2016_2017,003389,Washington And Jefferson College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,Sociology.,Bachelor's Degree,,,27622
+2016_2017,003389,Washington And Jefferson College,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,003389,Washington And Jefferson College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,25098
+2015_2016,003389,Washington And Jefferson College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003389,Washington And Jefferson College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

@@ -1,167 +1,167 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,003954,University of Central Florida,Public,Accounting and Related Services.,Bachelor's Degree,116,18146,18745
-2015_2016,003954,University of Central Florida,Public,Accounting and Related Services.,Master's Degree,14,NA,14517
+2015_2016,003954,University of Central Florida,Public,Accounting and Related Services.,Master's Degree,14,,14517
 2016_2017,003954,University of Central Florida,Public,Accounting and Related Services.,Bachelor's Degree,240,18375,19180
 2016_2017,003954,University of Central Florida,Public,Accounting and Related Services.,Master's Degree,42,15113,17563
 2015_2016,003954,University of Central Florida,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,51,18190,20417
-2015_2016,003954,University of Central Florida,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,108,20510,21782
-2016_2017,003954,University of Central Florida,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,12,NA,22262
+2016_2017,003954,University of Central Florida,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,12,,22262
 2016_2017,003954,University of Central Florida,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,30,19354,20325
 2015_2016,003954,University of Central Florida,Public,Anthropology.,Bachelor's Degree,27,26000,26631
-2015_2016,003954,University of Central Florida,Public,Anthropology.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Anthropology.,Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Anthropology.,Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,Anthropology.,Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,Anthropology.,Bachelor's Degree,79,17750,20514
-2016_2017,003954,University of Central Florida,Public,Anthropology.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Anthropology.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Architecture.,Bachelor's Degree,10,NA,16238
+2016_2017,003954,University of Central Florida,Public,Anthropology.,Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,Anthropology.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Applied Mathematics.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Applied Mathematics.,Doctoral Degree,,,
+2016_2017,003954,University of Central Florida,Public,Applied Mathematics.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Applied Mathematics.,Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,Architecture.,Bachelor's Degree,10,,16238
 2016_2017,003954,University of Central Florida,Public,Architecture.,Bachelor's Degree,29,15000,15935
-2015_2016,003954,University of Central Florida,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Area Studies.,Bachelor's Degree,,,
 2015_2016,003954,University of Central Florida,Public,"Biology, General.",Bachelor's Degree,181,17750,19452
-2015_2016,003954,University of Central Florida,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Biology, General.",Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Biology, General.",Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Biology, General.",Bachelor's Degree,393,18750,19748
-2016_2017,003954,University of Central Florida,Public,"Biology, General.",Master's Degree,15,NA,22827
-2016_2017,003954,University of Central Florida,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Biotechnology.,Bachelor's Degree,10,NA,19460
-2015_2016,003954,University of Central Florida,Public,Biotechnology.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Biotechnology.,Bachelor's Degree,18,NA,20997
-2016_2017,003954,University of Central Florida,Public,Biotechnology.,Master's Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"Biology, General.",Master's Degree,15,,22827
+2016_2017,003954,University of Central Florida,Public,"Biology, General.",Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,Biotechnology.,Bachelor's Degree,10,,19460
+2015_2016,003954,University of Central Florida,Public,Biotechnology.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Biotechnology.,Bachelor's Degree,18,,20997
+2016_2017,003954,University of Central Florida,Public,Biotechnology.,Master's Degree,,,
 2015_2016,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Bachelor's Degree,102,17934,17728
-2015_2016,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Master's Degree,18,NA,39006
-2015_2016,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Master's Degree,18,,39006
+2015_2016,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Bachelor's Degree,204,18750,18986
-2016_2017,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2016_2017,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Master's Degree,71,40637,41244
-2016_2017,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"Business Administration, Management and Operations.",Doctoral Degree,,,
 2015_2016,003954,University of Central Florida,Public,"Business/Commerce, General.",Bachelor's Degree,70,21954,22070
 2015_2016,003954,University of Central Florida,Public,"Business/Commerce, General.",Master's Degree,39,40109,37845
 2016_2017,003954,University of Central Florida,Public,"Business/Commerce, General.",Bachelor's Degree,170,21144,20630
 2016_2017,003954,University of Central Florida,Public,"Business/Commerce, General.",Master's Degree,117,35548,35012
-2015_2016,003954,University of Central Florida,Public,Business/Managerial Economics.,Bachelor's Degree,18,NA,11235
+2015_2016,003954,University of Central Florida,Public,Business/Managerial Economics.,Bachelor's Degree,18,,11235
 2016_2017,003954,University of Central Florida,Public,Business/Managerial Economics.,Bachelor's Degree,39,16500,16777
-2015_2016,003954,University of Central Florida,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Chemistry.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Chemistry.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Chemistry.,Bachelor's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Chemistry.,Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,Chemistry.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Chemistry.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Chemistry.,Bachelor's Degree,25,24339,21359
-2016_2017,003954,University of Central Florida,Public,Chemistry.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Chemistry.,Master's Degree,10,NA,43185
-2016_2017,003954,University of Central Florida,Public,Chemistry.,Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"City/Urban, Community and Regional Planning.",Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"City/Urban, Community and Regional Planning.",Master's Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Chemistry.,Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,Chemistry.,Master's Degree,10,,43185
+2016_2017,003954,University of Central Florida,Public,Chemistry.,Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,"City/Urban, Community and Regional Planning.",Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,"City/Urban, Community and Regional Planning.",Master's Degree,,,
 2015_2016,003954,University of Central Florida,Public,Civil Engineering.,Bachelor's Degree,34,19000,22113
-2015_2016,003954,University of Central Florida,Public,Civil Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Civil Engineering.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Civil Engineering.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Civil Engineering.,Bachelor's Degree,93,22500,22518
-2016_2017,003954,University of Central Florida,Public,Civil Engineering.,Master's Degree,12,NA,20609
-2016_2017,003954,University of Central Florida,Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,23850,22892
-2015_2016,003954,University of Central Florida,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,11,NA,25636
-2015_2016,003954,University of Central Florida,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,12,NA,62732
-2016_2017,003954,University of Central Florida,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,23500,21109
+2016_2017,003954,University of Central Florida,Public,Civil Engineering.,Master's Degree,12,,20609
+2016_2017,003954,University of Central Florida,Public,Civil Engineering.,Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,23850,22892
+2015_2016,003954,University of Central Florida,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,11,,25636
+2015_2016,003954,University of Central Florida,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,12,,62732
+2016_2017,003954,University of Central Florida,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,23500,21109
 2016_2017,003954,University of Central Florida,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,32,38615,39235
 2016_2017,003954,University of Central Florida,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,24,53716,60381
-2015_2016,003954,University of Central Florida,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,10,NA,25799
+2015_2016,003954,University of Central Florida,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,10,,25799
 2016_2017,003954,University of Central Florida,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,33,19150,21746
 2015_2016,003954,University of Central Florida,Public,Communication and Media Studies.,Bachelor's Degree,97,18500,19555
-2015_2016,003954,University of Central Florida,Public,Communication and Media Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Communication and Media Studies.,Master's Degree,10,NA,21248
+2015_2016,003954,University of Central Florida,Public,Communication and Media Studies.,Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,Communication and Media Studies.,Master's Degree,10,,21248
 2016_2017,003954,University of Central Florida,Public,Communication and Media Studies.,Bachelor's Degree,212,16969,18501
-2016_2017,003954,University of Central Florida,Public,Communication and Media Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Communication and Media Studies.,Master's Degree,19,NA,23298
+2016_2017,003954,University of Central Florida,Public,Communication and Media Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,Communication and Media Studies.,Master's Degree,19,,23298
 2015_2016,003954,University of Central Florida,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,75,18750,17974
 2015_2016,003954,University of Central Florida,Public,Communication Disorders Sciences and Services.,Master's Degree,21,45491,46231
 2016_2017,003954,University of Central Florida,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,181,18750,18776
 2016_2017,003954,University of Central Florida,Public,Communication Disorders Sciences and Services.,Master's Degree,81,47137,46808
 2015_2016,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Bachelor's Degree,94,18812,20517
-2015_2016,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Bachelor's Degree,295,20500,20756
-2016_2017,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Master's Degree,19,NA,26080
-2016_2017,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Master's Degree,19,,26080
+2016_2017,003954,University of Central Florida,Public,"Computer and Information Sciences, General.",Doctoral Degree,,,
 2015_2016,003954,University of Central Florida,Public,Computer Engineering.,Bachelor's Degree,25,25606,23651
-2015_2016,003954,University of Central Florida,Public,Computer Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Computer Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Computer Engineering.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Computer Engineering.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Computer Engineering.,Bachelor's Degree,83,24250,23984
-2016_2017,003954,University of Central Florida,Public,Computer Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Computer Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Computer Engineering.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Computer Engineering.,Doctoral Degree,,,
 2015_2016,003954,University of Central Florida,Public,Criminal Justice and Corrections.,Bachelor's Degree,130,16590,19218
-2015_2016,003954,University of Central Florida,Public,Criminal Justice and Corrections.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Criminal Justice and Corrections.,Post-baccalaureate Certificate,,,
 2015_2016,003954,University of Central Florida,Public,Criminal Justice and Corrections.,Master's Degree,26,43135,43325
 2016_2017,003954,University of Central Florida,Public,Criminal Justice and Corrections.,Bachelor's Degree,338,17937,18809
-2016_2017,003954,University of Central Florida,Public,Criminal Justice and Corrections.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Criminal Justice and Corrections.,Post-baccalaureate Certificate,,,
 2016_2017,003954,University of Central Florida,Public,Criminal Justice and Corrections.,Master's Degree,71,38139,38350
-2015_2016,003954,University of Central Florida,Public,Curriculum and Instruction.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Curriculum and Instruction.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,16,NA,18780
-2015_2016,003954,University of Central Florida,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Curriculum and Instruction.,Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Curriculum and Instruction.,Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,16,,18780
+2015_2016,003954,University of Central Florida,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,48,24800,24313
-2016_2017,003954,University of Central Florida,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Economics.,Bachelor's Degree,15,NA,16745
-2015_2016,003954,University of Central Florida,Public,Economics.,Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,,,
+2016_2017,003954,University of Central Florida,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,Economics.,Bachelor's Degree,15,,16745
+2015_2016,003954,University of Central Florida,Public,Economics.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Economics.,Bachelor's Degree,28,18094,19814
-2016_2017,003954,University of Central Florida,Public,Economics.,Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Education, General.",Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Education, General.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Education, General.",Master's Degree,17,NA,44701
+2016_2017,003954,University of Central Florida,Public,Economics.,Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Education, General.",Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,"Education, General.",Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Education, General.",Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Education, General.",Graduate/Professional Certificate,,,
+2016_2017,003954,University of Central Florida,Public,"Education, General.",Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,"Education, General.",Master's Degree,17,,44701
 2016_2017,003954,University of Central Florida,Public,"Education, General.",Doctoral Degree,40,39356,48391
-2016_2017,003954,University of Central Florida,Public,"Education, General.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"Education, General.",Graduate/Professional Certificate,,,
 2015_2016,003954,University of Central Florida,Public,Educational Administration and Supervision.,Master's Degree,46,21157,25576
-2015_2016,003954,University of Central Florida,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Educational Administration and Supervision.,Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
 2016_2017,003954,University of Central Florida,Public,Educational Administration and Supervision.,Master's Degree,132,25289,27798
 2016_2017,003954,University of Central Florida,Public,Educational Administration and Supervision.,Doctoral Degree,26,35044,49233
-2016_2017,003954,University of Central Florida,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2015_2016,003954,University of Central Florida,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
 2016_2017,003954,University of Central Florida,Public,Educational/Instructional Media Design.,Master's Degree,20,40809,45221
 2015_2016,003954,University of Central Florida,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,56,22000,23570
-2015_2016,003954,University of Central Florida,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,146,22714,23147
-2016_2017,003954,University of Central Florida,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Engineering-Related Fields.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Engineering-Related Fields.,Master's Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,Engineering-Related Fields.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Engineering-Related Fields.,Master's Degree,,,
 2015_2016,003954,University of Central Florida,Public,"English Language and Literature, General.",Bachelor's Degree,81,19397,20291
-2015_2016,003954,University of Central Florida,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,"English Language and Literature, General.",Bachelor's Degree,231,18807,20103
-2016_2017,003954,University of Central Florida,Public,"English Language and Literature, General.",Master's Degree,17,NA,35974
-2015_2016,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,12,NA,19778
-2015_2016,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"English Language and Literature, General.",Master's Degree,17,,35974
+2015_2016,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,12,,19778
+2015_2016,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,25,16813,18193
-2016_2017,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Environmental/Environmental Health Engineering.,Doctoral Degree,,,
 2015_2016,003954,University of Central Florida,Public,Film/Video and Photographic Arts.,Bachelor's Degree,45,22500,23838
-2015_2016,003954,University of Central Florida,Public,Film/Video and Photographic Arts.,Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Film/Video and Photographic Arts.,Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,Film/Video and Photographic Arts.,Bachelor's Degree,115,21750,21855
-2016_2017,003954,University of Central Florida,Public,Film/Video and Photographic Arts.,Master's Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Film/Video and Photographic Arts.,Master's Degree,,,
 2015_2016,003954,University of Central Florida,Public,Finance and Financial Management Services.,Bachelor's Degree,157,17520,18217
 2016_2017,003954,University of Central Florida,Public,Finance and Financial Management Services.,Bachelor's Degree,330,16999,18408
 2015_2016,003954,University of Central Florida,Public,Fine and Studio Arts.,Bachelor's Degree,70,26875,24798
-2015_2016,003954,University of Central Florida,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Fine and Studio Arts.,Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,Fine and Studio Arts.,Bachelor's Degree,181,23464,22733
-2016_2017,003954,University of Central Florida,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Fine and Studio Arts.,Master's Degree,,,
 2015_2016,003954,University of Central Florida,Public,Health and Medical Administrative Services.,Bachelor's Degree,106,23625,23718
 2015_2016,003954,University of Central Florida,Public,Health and Medical Administrative Services.,Master's Degree,21,36210,37906
 2016_2017,003954,University of Central Florida,Public,Health and Medical Administrative Services.,Bachelor's Degree,314,19477,20529
@@ -169,186 +169,186 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,003954,University of Central Florida,Public,Health and Physical Education/Fitness.,Master's Degree,21,27123,25000
 2016_2017,003954,University of Central Florida,Public,Health and Physical Education/Fitness.,Master's Degree,36,26656,25895
 2015_2016,003954,University of Central Florida,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,155,17750,19684
-2015_2016,003954,University of Central Florida,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,14,NA,42793
+2015_2016,003954,University of Central Florida,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,14,,42793
 2016_2017,003954,University of Central Florida,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,480,20210,20483
 2016_2017,003954,University of Central Florida,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,85,46600,46759
 2015_2016,003954,University of Central Florida,Public,History.,Bachelor's Degree,32,22490,21560
-2015_2016,003954,University of Central Florida,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,History.,Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,History.,Bachelor's Degree,101,20000,20648
-2016_2017,003954,University of Central Florida,Public,History.,Master's Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,History.,Master's Degree,,,
 2015_2016,003954,University of Central Florida,Public,Hospitality Administration/Management.,Bachelor's Degree,241,16938,17870
-2015_2016,003954,University of Central Florida,Public,Hospitality Administration/Management.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Hospitality Administration/Management.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Hospitality Administration/Management.,Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Hospitality Administration/Management.,Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,Hospitality Administration/Management.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Hospitality Administration/Management.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Hospitality Administration/Management.,Bachelor's Degree,572,17503,18393
-2016_2017,003954,University of Central Florida,Public,Hospitality Administration/Management.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Hospitality Administration/Management.,Master's Degree,15,NA,33480
-2016_2017,003954,University of Central Florida,Public,Hospitality Administration/Management.,Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Hospitality Administration/Management.,Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,Hospitality Administration/Management.,Master's Degree,15,,33480
+2016_2017,003954,University of Central Florida,Public,Hospitality Administration/Management.,Doctoral Degree,,,
 2015_2016,003954,University of Central Florida,Public,Industrial Engineering.,Bachelor's Degree,26,17662,17386
-2015_2016,003954,University of Central Florida,Public,Industrial Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Industrial Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Industrial Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Industrial Engineering.,Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,Industrial Engineering.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Industrial Engineering.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Industrial Engineering.,Bachelor's Degree,82,18250,19532
-2016_2017,003954,University of Central Florida,Public,Industrial Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Industrial Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Industrial Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,International Relations and National Security Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Industrial Engineering.,Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,Industrial Engineering.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Industrial Engineering.,Doctoral Degree,,,
+2016_2017,003954,University of Central Florida,Public,International Relations and National Security Studies.,Doctoral Degree,,,
 2015_2016,003954,University of Central Florida,Public,International/Global Studies.,Bachelor's Degree,24,18219,19363
 2016_2017,003954,University of Central Florida,Public,International/Global Studies.,Bachelor's Degree,57,18000,17134
-2015_2016,003954,University of Central Florida,Public,Journalism.,Bachelor's Degree,10,NA,22186
+2015_2016,003954,University of Central Florida,Public,Journalism.,Bachelor's Degree,10,,22186
 2016_2017,003954,University of Central Florida,Public,Journalism.,Bachelor's Degree,27,19416,19528
 2015_2016,003954,University of Central Florida,Public,Legal Support Services.,Bachelor's Degree,73,21064,20846
 2016_2017,003954,University of Central Florida,Public,Legal Support Services.,Bachelor's Degree,193,20013,19888
-2015_2016,003954,University of Central Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,13125,14216
-2016_2017,003954,University of Central Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,14250,15503
-2015_2016,003954,University of Central Florida,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,13125,14216
+2016_2017,003954,University of Central Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,003954,University of Central Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,14250,15503
+2015_2016,003954,University of Central Florida,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,003954,University of Central Florida,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
 2015_2016,003954,University of Central Florida,Public,Marketing.,Bachelor's Degree,119,17995,18987
 2016_2017,003954,University of Central Florida,Public,Marketing.,Bachelor's Degree,238,17656,18416
-2015_2016,003954,University of Central Florida,Public,Materials Engineering,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Materials Engineering,Doctoral Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Materials Engineering,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Materials Engineering,Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Mathematics.,Bachelor's Degree,11,NA,16346
+2015_2016,003954,University of Central Florida,Public,Materials Engineering,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Materials Engineering,Doctoral Degree,,,
+2016_2017,003954,University of Central Florida,Public,Materials Engineering,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Materials Engineering,Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,Mathematics.,Bachelor's Degree,11,,16346
 2016_2017,003954,University of Central Florida,Public,Mathematics.,Bachelor's Degree,33,22371,21262
 2015_2016,003954,University of Central Florida,Public,Mechanical Engineering.,Bachelor's Degree,97,25922,23848
-2015_2016,003954,University of Central Florida,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Mechanical Engineering.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Mechanical Engineering.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Mechanical Engineering.,Bachelor's Degree,257,22639,22070
-2016_2017,003954,University of Central Florida,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Medicine.,First Professional Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Mechanical Engineering.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Mechanical Engineering.,Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,Medicine.,First Professional Degree,,,
 2016_2017,003954,University of Central Florida,Public,Medicine.,First Professional Degree,86,172580,161332
-2015_2016,003954,University of Central Florida,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,20,49645,53246
-2015_2016,003954,University of Central Florida,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Microbiological Sciences and Immunology.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Microbiological Sciences and Immunology.,Master's Degree,,,
 2015_2016,003954,University of Central Florida,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,161,21726,22784
-2015_2016,003954,University of Central Florida,Public,"Multi-/Interdisciplinary Studies, General.",Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Multi-/Interdisciplinary Studies, General.",Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,419,19825,21595
-2016_2017,003954,University of Central Florida,Public,"Multi-/Interdisciplinary Studies, General.",Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Music.,Bachelor's Degree,19,NA,18329
-2015_2016,003954,University of Central Florida,Public,Music.,Master's Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"Multi-/Interdisciplinary Studies, General.",Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Music.,Bachelor's Degree,19,,18329
+2015_2016,003954,University of Central Florida,Public,Music.,Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,Music.,Bachelor's Degree,34,14730,17424
-2016_2017,003954,University of Central Florida,Public,Music.,Master's Degree,12,NA,21581
-2015_2016,003954,University of Central Florida,Public,Nanotechnology.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Nanotechnology.,Master's Degree,14,NA,30422
-2015_2016,003954,University of Central Florida,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Philosophy.,Bachelor's Degree,18,NA,21768
-2015_2016,003954,University of Central Florida,Public,Physics.,Bachelor's Degree,11,NA,20449
-2015_2016,003954,University of Central Florida,Public,Physics.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Physics.,Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Music.,Master's Degree,12,,21581
+2015_2016,003954,University of Central Florida,Public,Nanotechnology.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Nanotechnology.,Master's Degree,14,,30422
+2015_2016,003954,University of Central Florida,Public,Philosophy.,Bachelor's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Philosophy.,Bachelor's Degree,18,,21768
+2015_2016,003954,University of Central Florida,Public,Physics.,Bachelor's Degree,11,,20449
+2015_2016,003954,University of Central Florida,Public,Physics.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Physics.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Physics.,Bachelor's Degree,23,25000,21013
-2016_2017,003954,University of Central Florida,Public,Physics.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Physics.,Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Physics.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Physics.,Doctoral Degree,,,
 2015_2016,003954,University of Central Florida,Public,Political Science and Government.,Bachelor's Degree,87,20500,20274
-2015_2016,003954,University of Central Florida,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Political Science and Government.,Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,Political Science and Government.,Bachelor's Degree,229,20400,20012
-2016_2017,003954,University of Central Florida,Public,Political Science and Government.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Political Science and Government.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Political Science and Government.,Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,Political Science and Government.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Political Science and Government.,Doctoral Degree,,,
 2015_2016,003954,University of Central Florida,Public,"Psychology, General.",Bachelor's Degree,406,17750,18780
-2015_2016,003954,University of Central Florida,Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Psychology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Psychology, General.",Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Psychology, General.",Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Psychology, General.",Bachelor's Degree,905,17500,18240
-2016_2017,003954,University of Central Florida,Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"Psychology, General.",Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Psychology, General.",Doctoral Degree,23,39748,44760
-2015_2016,003954,University of Central Florida,Public,"Public Administration and Social Service Professions, Other.",Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Public Administration and Social Service Professions, Other.",Doctoral Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Public Administration and Social Service Professions, Other.",Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Public Administration and Social Service Professions, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Public Administration and Social Service Professions, Other.",Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Public Administration and Social Service Professions, Other.",Doctoral Degree,,,
+2016_2017,003954,University of Central Florida,Public,"Public Administration and Social Service Professions, Other.",Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,"Public Administration and Social Service Professions, Other.",Doctoral Degree,,,
 2015_2016,003954,University of Central Florida,Public,Public Administration.,Bachelor's Degree,26,23788,23943
-2015_2016,003954,University of Central Florida,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Public Administration.,Post-baccalaureate Certificate,,,
 2015_2016,003954,University of Central Florida,Public,Public Administration.,Master's Degree,32,36752,39594
 2016_2017,003954,University of Central Florida,Public,Public Administration.,Bachelor's Degree,61,21077,21093
-2016_2017,003954,University of Central Florida,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Public Administration.,Post-baccalaureate Certificate,,,
 2016_2017,003954,University of Central Florida,Public,Public Administration.,Master's Degree,61,38550,41300
 2015_2016,003954,University of Central Florida,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,46,15687,17601
 2016_2017,003954,University of Central Florida,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,96,16992,18056
 2015_2016,003954,University of Central Florida,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,44,16250,18093
 2016_2017,003954,University of Central Florida,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,94,16750,17966
-2015_2016,003954,University of Central Florida,Public,Real Estate.,Bachelor's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Real Estate.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Real Estate.,Bachelor's Degree,15,NA,21939
-2016_2017,003954,University of Central Florida,Public,Real Estate.,Master's Degree,10,NA,33004
+2015_2016,003954,University of Central Florida,Public,Real Estate.,Bachelor's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Real Estate.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Real Estate.,Bachelor's Degree,15,,21939
+2016_2017,003954,University of Central Florida,Public,Real Estate.,Master's Degree,10,,33004
 2015_2016,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,146,15831,16129
-2015_2016,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,,,
 2015_2016,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,20,32649,34630
-2015_2016,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,463,14500,15780
-2016_2017,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,,,
 2016_2017,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,60,25900,30389
-2016_2017,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,90166,95551
-2015_2016,003954,University of Central Florida,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,90462,92261
-2016_2017,003954,University of Central Florida,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Religion/Religious Studies.,Bachelor's Degree,14,NA,19705
-2015_2016,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2016_2017,003954,University of Central Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,003954,University of Central Florida,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,90166,95551
+2015_2016,003954,University of Central Florida,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2016_2017,003954,University of Central Florida,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,90462,92261
+2016_2017,003954,University of Central Florida,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2015_2016,003954,University of Central Florida,Public,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Religion/Religious Studies.,Bachelor's Degree,14,,19705
+2015_2016,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,20,25500,25136
-2016_2017,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Rhetoric and Composition/Writing Studies.,Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,23,16430,18247
-2016_2017,003954,University of Central Florida,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,"Social Sciences, General.",Bachelor's Degree,13,NA,15128
+2016_2017,003954,University of Central Florida,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,003954,University of Central Florida,Public,"Social Sciences, General.",Bachelor's Degree,13,,15128
 2015_2016,003954,University of Central Florida,Public,Social Work.,Bachelor's Degree,80,20947,21887
-2015_2016,003954,University of Central Florida,Public,Social Work.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Social Work.,Post-baccalaureate Certificate,,,
 2015_2016,003954,University of Central Florida,Public,Social Work.,Master's Degree,88,26710,33395
 2016_2017,003954,University of Central Florida,Public,Social Work.,Bachelor's Degree,106,21367,21030
-2016_2017,003954,University of Central Florida,Public,Social Work.,Post-baccalaureate Certificate,NA,NA,17429
+2016_2017,003954,University of Central Florida,Public,Social Work.,Post-baccalaureate Certificate,,,17429
 2016_2017,003954,University of Central Florida,Public,Social Work.,Master's Degree,180,29550,37126
 2015_2016,003954,University of Central Florida,Public,Sociology.,Bachelor's Degree,52,18574,20746
-2015_2016,003954,University of Central Florida,Public,Sociology.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Sociology.,Doctoral Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Sociology.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Sociology.,Doctoral Degree,,,
 2016_2017,003954,University of Central Florida,Public,Sociology.,Bachelor's Degree,113,18750,21030
-2016_2017,003954,University of Central Florida,Public,Sociology.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Sociology.,Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,21701
+2016_2017,003954,University of Central Florida,Public,Sociology.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Sociology.,Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,Special Education and Teaching.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,21701
 2016_2017,003954,University of Central Florida,Public,Special Education and Teaching.,Master's Degree,21,37972,41315
-2015_2016,003954,University of Central Florida,Public,Statistics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Statistics.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Statistics.,Bachelor's Degree,16,NA,23475
-2016_2017,003954,University of Central Florida,Public,Statistics.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Statistics.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Statistics.,Bachelor's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Statistics.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Statistics.,Bachelor's Degree,16,,23475
+2016_2017,003954,University of Central Florida,Public,Statistics.,Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,Statistics.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,,,
 2015_2016,003954,University of Central Florida,Public,Student Counseling and Personnel Services.,Master's Degree,34,44075,43122
-2016_2017,003954,University of Central Florida,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003954,University of Central Florida,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,,,
 2016_2017,003954,University of Central Florida,Public,Student Counseling and Personnel Services.,Master's Degree,79,47210,45703
-2015_2016,003954,University of Central Florida,Public,Systems Science and Theory.,Master's Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Systems Science and Theory.,Doctoral Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Systems Science and Theory.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Systems Science and Theory.,Doctoral Degree,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Taxation.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Taxation.,Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,Systems Science and Theory.,Master's Degree,,,
+2015_2016,003954,University of Central Florida,Public,Systems Science and Theory.,Doctoral Degree,,,
+2016_2017,003954,University of Central Florida,Public,Systems Science and Theory.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Systems Science and Theory.,Doctoral Degree,,,
+2015_2016,003954,University of Central Florida,Public,Taxation.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Taxation.,Master's Degree,,,
 2015_2016,003954,University of Central Florida,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,221,18750,19766
-2015_2016,003954,University of Central Florida,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,16,NA,30198
+2015_2016,003954,University of Central Florida,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,16,,30198
 2016_2017,003954,University of Central Florida,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,469,18750,19401
 2016_2017,003954,University of Central Florida,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,30,29012,30061
 2015_2016,003954,University of Central Florida,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,180,19685,19784
 2015_2016,003954,University of Central Florida,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,38,23950,29086
 2016_2017,003954,University of Central Florida,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,422,18750,19531
 2016_2017,003954,University of Central Florida,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,92,29282,31722
-2015_2016,003954,University of Central Florida,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003954,University of Central Florida,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003954,University of Central Florida,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,16,NA,24181
+2015_2016,003954,University of Central Florida,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
+2015_2016,003954,University of Central Florida,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,003954,University of Central Florida,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
+2016_2017,003954,University of Central Florida,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,16,,24181
 2015_2016,003954,University of Central Florida,Public,"Visual and Performing Arts, General.",Bachelor's Degree,31,22500,23315
-2015_2016,003954,University of Central Florida,Public,"Visual and Performing Arts, General.",Master's Degree,NA,NA,NA
+2015_2016,003954,University of Central Florida,Public,"Visual and Performing Arts, General.",Master's Degree,,,
 2016_2017,003954,University of Central Florida,Public,"Visual and Performing Arts, General.",Bachelor's Degree,130,22474,22396
 2016_2017,003954,University of Central Florida,Public,"Visual and Performing Arts, General.",Master's Degree,31,41000,43164

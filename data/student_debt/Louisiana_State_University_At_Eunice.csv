@@ -1,46 +1,46 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002012,Louisiana State University At Eunice,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002012,Louisiana State University At Eunice,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
 2015_2016,002012,Louisiana State University At Eunice,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,26,12488,17671
-2016_2017,002012,Louisiana State University At Eunice,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002012,Louisiana State University At Eunice,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
 2016_2017,002012,Louisiana State University At Eunice,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,24,9327,14917
-2015_2016,002012,Louisiana State University At Eunice,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,Business Operations Support and Assistant Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,Criminal Justice and Corrections.,Associate's Degree,12,NA,22597
-2016_2017,002012,Louisiana State University At Eunice,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,Criminal Justice and Corrections.,Associate's Degree,17,NA,19291
-2015_2016,002012,Louisiana State University At Eunice,Public,Data Processing.,Associate's Degree,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,Data Processing.,Associate's Degree,10,NA,15452
-2015_2016,002012,Louisiana State University At Eunice,Public,Fire Protection.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,Fire Protection.,Associate's Degree,16,NA,12861
-2016_2017,002012,Louisiana State University At Eunice,Public,Fire Protection.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,Human Resources Management and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,Human Resources Management and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002012,Louisiana State University At Eunice,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,Business Operations Support and Assistant Services.,Bachelor's Degree,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,Criminal Justice and Corrections.,Associate's Degree,12,,22597
+2016_2017,002012,Louisiana State University At Eunice,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,Criminal Justice and Corrections.,Associate's Degree,17,,19291
+2015_2016,002012,Louisiana State University At Eunice,Public,Data Processing.,Associate's Degree,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,Data Processing.,Associate's Degree,10,,15452
+2015_2016,002012,Louisiana State University At Eunice,Public,Fire Protection.,Undergraduate Certificate or Diploma,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,Fire Protection.,Associate's Degree,16,,12861
+2016_2017,002012,Louisiana State University At Eunice,Public,Fire Protection.,Undergraduate Certificate or Diploma,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,Fire Protection.,Associate's Degree,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,Human Resources Management and Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,Human Resources Management and Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,002012,Louisiana State University At Eunice,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,63,11821,14947
-2015_2016,002012,Louisiana State University At Eunice,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2015_2016,002012,Louisiana State University At Eunice,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
 2016_2017,002012,Louisiana State University At Eunice,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,71,11527,14061
-2015_2016,002012,Louisiana State University At Eunice,Public,Management Sciences and Quantitative Methods.,Associate's Degree,NA,12000,15013
-2016_2017,002012,Louisiana State University At Eunice,Public,Management Sciences and Quantitative Methods.,Associate's Degree,NA,NA,17601
-2016_2017,002012,Louisiana State University At Eunice,Public,Physical Science Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002012,Louisiana State University At Eunice,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002012,Louisiana State University At Eunice,Public,Management Sciences and Quantitative Methods.,Associate's Degree,,12000,15013
+2016_2017,002012,Louisiana State University At Eunice,Public,Management Sciences and Quantitative Methods.,Associate's Degree,,,17601
+2016_2017,002012,Louisiana State University At Eunice,Public,Physical Science Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,002012,Louisiana State University At Eunice,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
 2015_2016,002012,Louisiana State University At Eunice,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,54,20741,22417
-2015_2016,002012,Louisiana State University At Eunice,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
+2015_2016,002012,Louisiana State University At Eunice,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
 2016_2017,002012,Louisiana State University At Eunice,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,55,19600,21039
-2015_2016,002012,Louisiana State University At Eunice,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,002012,Louisiana State University At Eunice,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
+2015_2016,002012,Louisiana State University At Eunice,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,002012,Louisiana State University At Eunice,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,

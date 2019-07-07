@@ -1,16 +1,16 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,002845,Suny College At Geneseo,Public,Accounting and Related Services.,Bachelor's Degree,56,17250,17728
-2015_2016,002845,Suny College At Geneseo,Public,Accounting and Related Services.,Master's Degree,NA,NA,NA
+2015_2016,002845,Suny College At Geneseo,Public,Accounting and Related Services.,Master's Degree,,,
 2016_2017,002845,Suny College At Geneseo,Public,Accounting and Related Services.,Bachelor's Degree,70,19000,18433
-2016_2017,002845,Suny College At Geneseo,Public,Accounting and Related Services.,Master's Degree,15,NA,14601
+2016_2017,002845,Suny College At Geneseo,Public,Accounting and Related Services.,Master's Degree,15,,14601
 2015_2016,002845,Suny College At Geneseo,Public,Anthropology.,Bachelor's Degree,23,26000,22199
 2016_2017,002845,Suny College At Geneseo,Public,Anthropology.,Bachelor's Degree,23,27000,23386
-2015_2016,002845,Suny College At Geneseo,Public,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,NA,NA,NA
+2015_2016,002845,Suny College At Geneseo,Public,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Area Studies.,Bachelor's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,,,
 2015_2016,002845,Suny College At Geneseo,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,35,25995,21854
 2016_2017,002845,Suny College At Geneseo,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,40,24875,21164
 2015_2016,002845,Suny College At Geneseo,Public,"Biology, General.",Bachelor's Degree,108,22369,19778
@@ -21,27 +21,27 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,002845,Suny College At Geneseo,Public,Chemistry.,Bachelor's Degree,40,23208,19979
 2015_2016,002845,Suny College At Geneseo,Public,Communication and Media Studies.,Bachelor's Degree,70,20500,18906
 2016_2017,002845,Suny College At Geneseo,Public,Communication and Media Studies.,Bachelor's Degree,100,20000,18407
-2015_2016,002845,Suny College At Geneseo,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,Communication Disorders Sciences and Services.,Master's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Communication Disorders Sciences and Services.,Master's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
+2015_2016,002845,Suny College At Geneseo,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,Communication Disorders Sciences and Services.,Master's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Communication Disorders Sciences and Services.,Master's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
 2015_2016,002845,Suny College At Geneseo,Public,Economics.,Bachelor's Degree,30,16926,18384
 2016_2017,002845,Suny College At Geneseo,Public,Economics.,Bachelor's Degree,47,19500,18114
-2015_2016,002845,Suny College At Geneseo,Public,"Education, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,"Education, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,002845,Suny College At Geneseo,Public,"Education, Other.",Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,"Education, Other.",Bachelor's Degree,,,
 2015_2016,002845,Suny College At Geneseo,Public,"English Language and Literature, General.",Bachelor's Degree,67,20500,19790
-2015_2016,002845,Suny College At Geneseo,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,002845,Suny College At Geneseo,Public,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,002845,Suny College At Geneseo,Public,"English Language and Literature, General.",Bachelor's Degree,84,20750,19795
-2016_2017,002845,Suny College At Geneseo,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,Geography and Cartography.,Bachelor's Degree,11,NA,15935
+2016_2017,002845,Suny College At Geneseo,Public,"English Language and Literature, General.",Master's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,Geography and Cartography.,Bachelor's Degree,11,,15935
 2016_2017,002845,Suny College At Geneseo,Public,Geography and Cartography.,Bachelor's Degree,29,21500,20261
 2015_2016,002845,Suny College At Geneseo,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,20,19125,18548
 2016_2017,002845,Suny College At Geneseo,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,35,19000,17288
@@ -49,17 +49,17 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,002845,Suny College At Geneseo,Public,History.,Bachelor's Degree,44,20117,19421
 2015_2016,002845,Suny College At Geneseo,Public,International Relations and National Security Studies.,Bachelor's Degree,52,19750,18622
 2016_2017,002845,Suny College At Geneseo,Public,International Relations and National Security Studies.,Bachelor's Degree,71,20000,19573
-2015_2016,002845,Suny College At Geneseo,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,22384
-2016_2017,002845,Suny College At Geneseo,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,24181,23381
+2015_2016,002845,Suny College At Geneseo,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,22384
+2016_2017,002845,Suny College At Geneseo,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,24181,23381
 2015_2016,002845,Suny College At Geneseo,Public,Mathematics.,Bachelor's Degree,78,20500,20101
-2015_2016,002845,Suny College At Geneseo,Public,Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,002845,Suny College At Geneseo,Public,Mathematics.,Master's Degree,,,
 2016_2017,002845,Suny College At Geneseo,Public,Mathematics.,Bachelor's Degree,101,23250,20210
-2016_2017,002845,Suny College At Geneseo,Public,Mathematics.,Master's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Philosophy.,Bachelor's Degree,11,NA,24709
+2016_2017,002845,Suny College At Geneseo,Public,Mathematics.,Master's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,Music.,Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Music.,Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Neurobiology and Neurosciences.,Bachelor's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,Philosophy.,Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Philosophy.,Bachelor's Degree,11,,24709
 2015_2016,002845,Suny College At Geneseo,Public,Physics.,Bachelor's Degree,24,23750,21938
 2016_2017,002845,Suny College At Geneseo,Public,Physics.,Bachelor's Degree,35,18543,18768
 2015_2016,002845,Suny College At Geneseo,Public,Political Science and Government.,Bachelor's Degree,43,21500,20263
@@ -67,20 +67,20 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,002845,Suny College At Geneseo,Public,"Psychology, General.",Bachelor's Degree,175,20500,19280
 2016_2017,002845,Suny College At Geneseo,Public,"Psychology, General.",Bachelor's Degree,220,21875,20529
 2015_2016,002845,Suny College At Geneseo,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,30,24273,22305
-2015_2016,002845,Suny College At Geneseo,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,002845,Suny College At Geneseo,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
 2016_2017,002845,Suny College At Geneseo,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,47,23547,21697
-2016_2017,002845,Suny College At Geneseo,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
+2016_2017,002845,Suny College At Geneseo,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,Social and Philosophical Foundations of Education.,Master's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Social and Philosophical Foundations of Education.,Master's Degree,,,
 2015_2016,002845,Suny College At Geneseo,Public,Sociology.,Bachelor's Degree,49,21500,21094
 2016_2017,002845,Suny College At Geneseo,Public,Sociology.,Bachelor's Degree,70,21525,21478
-2015_2016,002845,Suny College At Geneseo,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,22500,21261
-2015_2016,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,22594,20807
-2016_2017,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,002845,Suny College At Geneseo,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,22500,21261
+2015_2016,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,22594,20807
+2016_2017,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
 2015_2016,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,23,18000,17689
-2016_2017,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2016_2017,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
 2016_2017,002845,Suny College At Geneseo,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,35,13926,14993

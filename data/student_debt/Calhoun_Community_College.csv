@@ -1,63 +1,63 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001013,Calhoun Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,10,NA,15230
-2016_2017,001013,Calhoun Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,16,NA,15660
-2015_2016,001013,Calhoun Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,10,NA,13238
-2016_2017,001013,Calhoun Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,18,NA,15385
-2015_2016,001013,Calhoun Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001013,Calhoun Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,10,,15230
+2016_2017,001013,Calhoun Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,16,,15660
+2015_2016,001013,Calhoun Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,001013,Calhoun Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,10,,13238
+2016_2017,001013,Calhoun Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,18,,15385
+2015_2016,001013,Calhoun Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,001013,Calhoun Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,001013,Calhoun Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,25,13893,15875
-2016_2017,001013,Calhoun Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,16,NA,18514
-2015_2016,001013,Calhoun Community College,Public,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,17,NA,15204
-2016_2017,001013,Calhoun Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,16,NA,15969
-2015_2016,001013,Calhoun Community College,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Dental Support Services and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Dental Support Services and Allied Professions.,Associate's Degree,14,NA,11026
-2015_2016,001013,Calhoun Community College,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001013,Calhoun Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,16,,18514
+2015_2016,001013,Calhoun Community College,Public,Carpenters.,Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,Carpenters.,Undergraduate Certificate or Diploma,,,
+2015_2016,001013,Calhoun Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2016_2017,001013,Calhoun Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2015_2016,001013,Calhoun Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,001013,Calhoun Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,17,,15204
+2016_2017,001013,Calhoun Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,16,,15969
+2015_2016,001013,Calhoun Community College,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,001013,Calhoun Community College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,,,
+2016_2017,001013,Calhoun Community College,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,,,
+2015_2016,001013,Calhoun Community College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2015_2016,001013,Calhoun Community College,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,001013,Calhoun Community College,Public,Dental Support Services and Allied Professions.,Associate's Degree,,,
+2016_2017,001013,Calhoun Community College,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,Dental Support Services and Allied Professions.,Associate's Degree,14,,11026
+2015_2016,001013,Calhoun Community College,Public,Design and Applied Arts.,Associate's Degree,,,
+2016_2017,001013,Calhoun Community College,Public,Design and Applied Arts.,Associate's Degree,,,
+2015_2016,001013,Calhoun Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,001013,Calhoun Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2015_2016,001013,Calhoun Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,,,
+2016_2017,001013,Calhoun Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,,,
+2015_2016,001013,Calhoun Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2015_2016,001013,Calhoun Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2016_2017,001013,Calhoun Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2015_2016,001013,Calhoun Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
 2015_2016,001013,Calhoun Community College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,47,12583,13421
-2016_2017,001013,Calhoun Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001013,Calhoun Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
 2016_2017,001013,Calhoun Community College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,57,11509,12306
-2015_2016,001013,Calhoun Community College,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
+2015_2016,001013,Calhoun Community College,Public,Legal Support Services.,Associate's Degree,,,
 2015_2016,001013,Calhoun Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,271,12000,13297
 2016_2017,001013,Calhoun Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,300,11500,13109
-2015_2016,001013,Calhoun Community College,Public,Mason/Masonry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Mason/Masonry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Military Systems and Maintenance Technology.,Associate's Degree,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,Music.,Associate's Degree,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Music.,Associate's Degree,NA,NA,NA
-2015_2016,001013,Calhoun Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,13,NA,11639
-2015_2016,001013,Calhoun Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001013,Calhoun Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001013,Calhoun Community College,Public,Mason/Masonry.,Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,Mason/Masonry.,Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,,,
+2015_2016,001013,Calhoun Community College,Public,Military Systems and Maintenance Technology.,Associate's Degree,,,
+2015_2016,001013,Calhoun Community College,Public,Music.,Associate's Degree,,,
+2016_2017,001013,Calhoun Community College,Public,Music.,Associate's Degree,,,
+2015_2016,001013,Calhoun Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,13,,11639
+2015_2016,001013,Calhoun Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,001013,Calhoun Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
 2015_2016,001013,Calhoun Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,152,13694,13965
 2016_2017,001013,Calhoun Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,139,13716,14409
-2015_2016,001013,Calhoun Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001013,Calhoun Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,

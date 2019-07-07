@@ -1,60 +1,60 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003810,Concord University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,003810,Concord University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
+2015_2016,003810,Concord University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,003810,Concord University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
 2015_2016,003810,Concord University,Public,"Biology, General.",Bachelor's Degree,28,18945,19869
 2016_2017,003810,Concord University,Public,"Biology, General.",Bachelor's Degree,30,17125,18440
 2015_2016,003810,Concord University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,54,22300,21608
 2016_2017,003810,Concord University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,65,21250,22115
-2015_2016,003810,Concord University,Public,Chemistry.,Bachelor's Degree,11,NA,19522
-2016_2017,003810,Concord University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003810,Concord University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,003810,Concord University,Public,Curriculum and Instruction.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003810,Concord University,Public,Curriculum and Instruction.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003810,Concord University,Public,Design and Applied Arts.,Bachelor's Degree,10,NA,24963
-2016_2017,003810,Concord University,Public,Design and Applied Arts.,Bachelor's Degree,14,NA,21460
+2015_2016,003810,Concord University,Public,Chemistry.,Bachelor's Degree,11,,19522
+2016_2017,003810,Concord University,Public,Chemistry.,Bachelor's Degree,,,
+2015_2016,003810,Concord University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,003810,Concord University,Public,Curriculum and Instruction.,Graduate/Professional Certificate,,,
+2016_2017,003810,Concord University,Public,Curriculum and Instruction.,Graduate/Professional Certificate,,,
+2015_2016,003810,Concord University,Public,Design and Applied Arts.,Bachelor's Degree,10,,24963
+2016_2017,003810,Concord University,Public,Design and Applied Arts.,Bachelor's Degree,14,,21460
 2015_2016,003810,Concord University,Public,"Education, General.",Master's Degree,26,28783,25442
 2016_2017,003810,Concord University,Public,"Education, General.",Master's Degree,37,23341,23668
-2015_2016,003810,Concord University,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003810,Concord University,Public,"English Language and Literature, General.",Bachelor's Degree,10,NA,21238
-2015_2016,003810,Concord University,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003810,Concord University,Public,Fine and Studio Arts.,Bachelor's Degree,13,NA,23881
-2015_2016,003810,Concord University,Public,Geography and Cartography.,Bachelor's Degree,15,NA,24777
-2016_2017,003810,Concord University,Public,Geography and Cartography.,Bachelor's Degree,12,NA,26513
-2015_2016,003810,Concord University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003810,Concord University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003810,Concord University,Public,History.,Bachelor's Degree,17,NA,22989
-2016_2017,003810,Concord University,Public,History.,Bachelor's Degree,18,NA,21078
-2015_2016,003810,Concord University,Public,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003810,Concord University,Public,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003810,Concord University,Public,Journalism.,Bachelor's Degree,NA,NA,NA
-2016_2017,003810,Concord University,Public,Journalism.,Bachelor's Degree,10,NA,21696
+2015_2016,003810,Concord University,Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003810,Concord University,Public,"English Language and Literature, General.",Bachelor's Degree,10,,21238
+2015_2016,003810,Concord University,Public,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003810,Concord University,Public,Fine and Studio Arts.,Bachelor's Degree,13,,23881
+2015_2016,003810,Concord University,Public,Geography and Cartography.,Bachelor's Degree,15,,24777
+2016_2017,003810,Concord University,Public,Geography and Cartography.,Bachelor's Degree,12,,26513
+2015_2016,003810,Concord University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,003810,Concord University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2015_2016,003810,Concord University,Public,History.,Bachelor's Degree,17,,22989
+2016_2017,003810,Concord University,Public,History.,Bachelor's Degree,18,,21078
+2015_2016,003810,Concord University,Public,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,003810,Concord University,Public,Information Science/Studies.,Bachelor's Degree,,,
+2015_2016,003810,Concord University,Public,Journalism.,Bachelor's Degree,,,
+2016_2017,003810,Concord University,Public,Journalism.,Bachelor's Degree,10,,21696
 2015_2016,003810,Concord University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,68,20150,22564
 2016_2017,003810,Concord University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,87,23000,23550
-2015_2016,003810,Concord University,Public,Mathematics.,Bachelor's Degree,13,NA,12728
-2016_2017,003810,Concord University,Public,Mathematics.,Bachelor's Degree,14,NA,13635
-2015_2016,003810,Concord University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003810,Concord University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003810,Concord University,Public,Political Science and Government.,Bachelor's Degree,11,NA,22235
-2016_2017,003810,Concord University,Public,Political Science and Government.,Bachelor's Degree,15,NA,19150
+2015_2016,003810,Concord University,Public,Mathematics.,Bachelor's Degree,13,,12728
+2016_2017,003810,Concord University,Public,Mathematics.,Bachelor's Degree,14,,13635
+2015_2016,003810,Concord University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003810,Concord University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,003810,Concord University,Public,Political Science and Government.,Bachelor's Degree,11,,22235
+2016_2017,003810,Concord University,Public,Political Science and Government.,Bachelor's Degree,15,,19150
 2015_2016,003810,Concord University,Public,"Psychology, General.",Bachelor's Degree,37,19990,19758
 2016_2017,003810,Concord University,Public,"Psychology, General.",Bachelor's Degree,25,17500,19543
-2015_2016,003810,Concord University,Public,Public Health.,Master's Degree,10,NA,22799
-2016_2017,003810,Concord University,Public,Public Health.,Master's Degree,10,NA,24417
-2015_2016,003810,Concord University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003810,Concord University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003810,Concord University,Public,Public Health.,Master's Degree,10,,22799
+2016_2017,003810,Concord University,Public,Public Health.,Master's Degree,10,,24417
+2015_2016,003810,Concord University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003810,Concord University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,003810,Concord University,Public,Social Work.,Bachelor's Degree,23,15062,20072
 2015_2016,003810,Concord University,Public,Social Work.,Master's Degree,28,36385,30602
-2016_2017,003810,Concord University,Public,Social Work.,Bachelor's Degree,19,NA,17039
+2016_2017,003810,Concord University,Public,Social Work.,Bachelor's Degree,19,,17039
 2016_2017,003810,Concord University,Public,Social Work.,Master's Degree,54,26344,26934
-2015_2016,003810,Concord University,Public,Sociology.,Bachelor's Degree,16,NA,23440
-2016_2017,003810,Concord University,Public,Sociology.,Bachelor's Degree,19,NA,21216
-2015_2016,003810,Concord University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,003810,Concord University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,003810,Concord University,Public,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003810,Concord University,Public,Sociology.,Bachelor's Degree,16,,23440
+2016_2017,003810,Concord University,Public,Sociology.,Bachelor's Degree,19,,21216
+2015_2016,003810,Concord University,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,003810,Concord University,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,003810,Concord University,Public,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,003810,Concord University,Public,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,27,19500,21201
-2016_2017,003810,Concord University,Public,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003810,Concord University,Public,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,003810,Concord University,Public,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,22,21125,20285
 2015_2016,003810,Concord University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,93,21200,20873
-2015_2016,003810,Concord University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,003810,Concord University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,003810,Concord University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,95,21457,21369
-2016_2017,003810,Concord University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2016_2017,003810,Concord University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,

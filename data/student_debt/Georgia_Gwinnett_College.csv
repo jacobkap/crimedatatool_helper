@@ -1,30 +1,30 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,041429,Georgia Gwinnett College,Public,"Biology, General.",Bachelor's Degree,24,18250,20943
-2016_2017,041429,Georgia Gwinnett College,Public,"Biology, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,041429,Georgia Gwinnett College,Public,"Biology, General.",Bachelor's Degree,,,
 2015_2016,041429,Georgia Gwinnett College,Public,"Business/Commerce, General.",Bachelor's Degree,66,22475,23394
 2016_2017,041429,Georgia Gwinnett College,Public,"Business/Commerce, General.",Bachelor's Degree,83,23250,24826
-2015_2016,041429,Georgia Gwinnett College,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,041429,Georgia Gwinnett College,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
+2015_2016,041429,Georgia Gwinnett College,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,041429,Georgia Gwinnett College,Public,Chemistry.,Bachelor's Degree,,,
 2015_2016,041429,Georgia Gwinnett College,Public,"Computer and Information Sciences, General.",Bachelor's Degree,23,27032,28241
-2016_2017,041429,Georgia Gwinnett College,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,041429,Georgia Gwinnett College,Public,Criminal Justice and Corrections.,Bachelor's Degree,12,NA,21959
-2016_2017,041429,Georgia Gwinnett College,Public,Criminal Justice and Corrections.,Bachelor's Degree,14,NA,25234
-2015_2016,041429,Georgia Gwinnett College,Public,"English Language and Literature, General.",Bachelor's Degree,15,NA,24724
-2016_2017,041429,Georgia Gwinnett College,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,041429,Georgia Gwinnett College,Public,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,041429,Georgia Gwinnett College,Public,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,041429,Georgia Gwinnett College,Public,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,041429,Georgia Gwinnett College,Public,History.,Bachelor's Degree,12,NA,24631
-2015_2016,041429,Georgia Gwinnett College,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,041429,Georgia Gwinnett College,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,041429,Georgia Gwinnett College,Public,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,041429,Georgia Gwinnett College,Public,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,041429,Georgia Gwinnett College,Public,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2016_2017,041429,Georgia Gwinnett College,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,041429,Georgia Gwinnett College,Public,Criminal Justice and Corrections.,Bachelor's Degree,12,,21959
+2016_2017,041429,Georgia Gwinnett College,Public,Criminal Justice and Corrections.,Bachelor's Degree,14,,25234
+2015_2016,041429,Georgia Gwinnett College,Public,"English Language and Literature, General.",Bachelor's Degree,15,,24724
+2016_2017,041429,Georgia Gwinnett College,Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,041429,Georgia Gwinnett College,Public,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,041429,Georgia Gwinnett College,Public,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,041429,Georgia Gwinnett College,Public,History.,Bachelor's Degree,,,
+2016_2017,041429,Georgia Gwinnett College,Public,History.,Bachelor's Degree,12,,24631
+2015_2016,041429,Georgia Gwinnett College,Public,Mathematics.,Bachelor's Degree,,,
+2016_2017,041429,Georgia Gwinnett College,Public,Mathematics.,Bachelor's Degree,,,
+2016_2017,041429,Georgia Gwinnett College,Public,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,041429,Georgia Gwinnett College,Public,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,041429,Georgia Gwinnett College,Public,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,041429,Georgia Gwinnett College,Public,"Psychology, General.",Bachelor's Degree,32,20125,23094
 2016_2017,041429,Georgia Gwinnett College,Public,"Psychology, General.",Bachelor's Degree,21,27859,28245
-2015_2016,041429,Georgia Gwinnett College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
+2015_2016,041429,Georgia Gwinnett College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
 2016_2017,041429,Georgia Gwinnett College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,24,17250,19865
-2015_2016,041429,Georgia Gwinnett College,Public,Special Education and Teaching.,Bachelor's Degree,15,NA,20272
+2015_2016,041429,Georgia Gwinnett College,Public,Special Education and Teaching.,Bachelor's Degree,15,,20272
 2016_2017,041429,Georgia Gwinnett College,Public,Special Education and Teaching.,Bachelor's Degree,25,16000,19166
 2015_2016,041429,Georgia Gwinnett College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,56,18000,20315
 2016_2017,041429,Georgia Gwinnett College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,57,17750,19774

@@ -1,19 +1,19 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,032243,New Professions Technical Institute,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,16,NA,7302
+2015_2016,032243,New Professions Technical Institute,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,16,,7302
 2016_2017,032243,New Professions Technical Institute,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,21,7826,7900
 2015_2016,032243,New Professions Technical Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,47,9386,8989
 2016_2017,032243,New Professions Technical Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,51,9404,8522
-2015_2016,032243,New Professions Technical Institute,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,032243,New Professions Technical Institute,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,032243,New Professions Technical Institute,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,032243,New Professions Technical Institute,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,032243,New Professions Technical Institute,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,8278
-2016_2017,032243,New Professions Technical Institute,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,7529
-2015_2016,032243,New Professions Technical Institute,Proprietary,"English Language and Literature, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,032243,New Professions Technical Institute,Proprietary,"English Language and Literature, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,032243,New Professions Technical Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,032243,New Professions Technical Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,032243,New Professions Technical Institute,Proprietary,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,032243,New Professions Technical Institute,Proprietary,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,032243,New Professions Technical Institute,Proprietary,International Business.,Undergraduate Certificate or Diploma,NA,NA,7666
-2016_2017,032243,New Professions Technical Institute,Proprietary,International Business.,Undergraduate Certificate or Diploma,NA,NA,7687
+2015_2016,032243,New Professions Technical Institute,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,032243,New Professions Technical Institute,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,032243,New Professions Technical Institute,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,032243,New Professions Technical Institute,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,032243,New Professions Technical Institute,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,,,8278
+2016_2017,032243,New Professions Technical Institute,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,,,7529
+2015_2016,032243,New Professions Technical Institute,Proprietary,"English Language and Literature, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,032243,New Professions Technical Institute,Proprietary,"English Language and Literature, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,032243,New Professions Technical Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,032243,New Professions Technical Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,032243,New Professions Technical Institute,Proprietary,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,032243,New Professions Technical Institute,Proprietary,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,032243,New Professions Technical Institute,Proprietary,International Business.,Undergraduate Certificate or Diploma,,,7666
+2016_2017,032243,New Professions Technical Institute,Proprietary,International Business.,Undergraduate Certificate or Diploma,,,7687

@@ -1,58 +1,58 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002004,Dillard University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,39674
-2016_2017,002004,Dillard University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,42400
+2015_2016,002004,Dillard University,Private,Accounting and Related Services.,Bachelor's Degree,,,39674
+2016_2017,002004,Dillard University,Private,Accounting and Related Services.,Bachelor's Degree,,,42400
 2015_2016,002004,Dillard University,Private,"Biology, General.",Bachelor's Degree,31,31000,33443
 2016_2017,002004,Dillard University,Private,"Biology, General.",Bachelor's Degree,44,28750,30968
-2015_2016,002004,Dillard University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,32437,35222
+2015_2016,002004,Dillard University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,32437,35222
 2016_2017,002004,Dillard University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,22,31250,33976
-2015_2016,002004,Dillard University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
+2015_2016,002004,Dillard University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Chemistry.,Bachelor's Degree,,,
 2015_2016,002004,Dillard University,Private,Communication and Media Studies.,Bachelor's Degree,24,31875,32515
-2016_2017,002004,Dillard University,Private,Communication and Media Studies.,Bachelor's Degree,NA,29500,29896
-2015_2016,002004,Dillard University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Music.,Bachelor's Degree,NA,NA,29011
-2015_2016,002004,Dillard University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002004,Dillard University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2016_2017,002004,Dillard University,Private,Communication and Media Studies.,Bachelor's Degree,,29500,29896
+2015_2016,002004,Dillard University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,History.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,History.,Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,International Business.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,International Business.,Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Music.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Music.,Bachelor's Degree,,,29011
+2015_2016,002004,Dillard University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Physics.,Bachelor's Degree,,,
+2015_2016,002004,Dillard University,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,002004,Dillard University,Private,"Psychology, General.",Bachelor's Degree,34,32984,34504
-2016_2017,002004,Dillard University,Private,"Psychology, General.",Bachelor's Degree,NA,32334,34416
-2015_2016,002004,Dillard University,Private,Public Health.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002004,Dillard University,Private,"Psychology, General.",Bachelor's Degree,,32334,34416
+2015_2016,002004,Dillard University,Private,Public Health.,Undergraduate Certificate or Diploma,,,
 2015_2016,002004,Dillard University,Private,Public Health.,Bachelor's Degree,61,37500,37131
-2016_2017,002004,Dillard University,Private,Public Health.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002004,Dillard University,Private,Public Health.,Undergraduate Certificate or Diploma,,,
 2016_2017,002004,Dillard University,Private,Public Health.,Bachelor's Degree,74,36112,37173
 2015_2016,002004,Dillard University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,26,33667,33631
 2016_2017,002004,Dillard University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,31,40000,37287
-2016_2017,002004,Dillard University,Private,Social Work.,Bachelor's Degree,NA,NA,NA
+2016_2017,002004,Dillard University,Private,Social Work.,Bachelor's Degree,,,
 2015_2016,002004,Dillard University,Private,Sociology.,Bachelor's Degree,30,40500,37788
-2016_2017,002004,Dillard University,Private,Sociology.,Bachelor's Degree,17,NA,36122
-2015_2016,002004,Dillard University,Private,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
-2016_2017,002004,Dillard University,Private,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
+2016_2017,002004,Dillard University,Private,Sociology.,Bachelor's Degree,17,,36122
+2015_2016,002004,Dillard University,Private,Urban Studies/Affairs.,Bachelor's Degree,,,
+2016_2017,002004,Dillard University,Private,Urban Studies/Affairs.,Bachelor's Degree,,,

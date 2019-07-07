@@ -1,125 +1,125 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001954,Bellarmine University,Private,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Accounting and Related Services.,Bachelor's Degree,15,NA,23061
-2015_2016,001954,Bellarmine University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Accounting and Related Services.,Bachelor's Degree,19,NA,22984
-2016_2017,001954,Bellarmine University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,14,NA,23486
+2015_2016,001954,Bellarmine University,Private,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,001954,Bellarmine University,Private,Accounting and Related Services.,Bachelor's Degree,15,,23061
+2015_2016,001954,Bellarmine University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,,,
+2016_2017,001954,Bellarmine University,Private,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,001954,Bellarmine University,Private,Accounting and Related Services.,Bachelor's Degree,19,,22984
+2016_2017,001954,Bellarmine University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,,,
+2015_2016,001954,Bellarmine University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,14,,23486
 2016_2017,001954,Bellarmine University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,20,12500,17527
-2016_2017,001954,Bellarmine University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
+2016_2017,001954,Bellarmine University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,,,
+2015_2016,001954,Bellarmine University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
 2015_2016,001954,Bellarmine University,Private,"Biology, General.",Bachelor's Degree,36,27000,24520
 2016_2017,001954,Bellarmine University,Private,"Biology, General.",Bachelor's Degree,48,27000,25735
-2016_2017,001954,Bellarmine University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
+2016_2017,001954,Bellarmine University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Business Administration, Management and Operations.",Master's Degree,,,
 2015_2016,001954,Bellarmine University,Private,"Business/Commerce, General.",Bachelor's Degree,54,24695,22835
 2015_2016,001954,Bellarmine University,Private,"Business/Commerce, General.",Master's Degree,63,31750,34391
-2016_2017,001954,Bellarmine University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,26500,24066
+2016_2017,001954,Bellarmine University,Private,"Business/Commerce, General.",Bachelor's Degree,,26500,24066
 2016_2017,001954,Bellarmine University,Private,"Business/Commerce, General.",Master's Degree,67,33540,35903
-2015_2016,001954,Bellarmine University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Chemistry.,Bachelor's Degree,NA,NA,23655
-2015_2016,001954,Bellarmine University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,21170
-2016_2017,001954,Bellarmine University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
+2015_2016,001954,Bellarmine University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Chemistry.,Bachelor's Degree,,,23655
+2015_2016,001954,Bellarmine University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,001954,Bellarmine University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,21170
+2016_2017,001954,Bellarmine University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,001954,Bellarmine University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
 2015_2016,001954,Bellarmine University,Private,Communication and Media Studies.,Bachelor's Degree,38,27000,24810
-2015_2016,001954,Bellarmine University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,001954,Bellarmine University,Private,Communication and Media Studies.,Master's Degree,,,
 2016_2017,001954,Bellarmine University,Private,Communication and Media Studies.,Bachelor's Degree,48,25000,22107
-2016_2017,001954,Bellarmine University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Computer Software and Media Applications.,Master's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Computer Software and Media Applications.,Master's Degree,18,NA,23504
-2015_2016,001954,Bellarmine University,Private,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
+2016_2017,001954,Bellarmine University,Private,Communication and Media Studies.,Master's Degree,,,
+2015_2016,001954,Bellarmine University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,"Computer and Information Sciences, General.",Master's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Computer and Information Sciences, General.",Master's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Computer Software and Media Applications.,Master's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Computer Software and Media Applications.,Master's Degree,18,,23504
+2015_2016,001954,Bellarmine University,Private,Computer Systems Analysis.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Computer Systems Analysis.,Bachelor's Degree,,,
 2015_2016,001954,Bellarmine University,Private,Criminal Justice and Corrections.,Bachelor's Degree,20,27000,27810
-2016_2017,001954,Bellarmine University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,27000,27247
-2015_2016,001954,Bellarmine University,Private,Design and Applied Arts.,Bachelor's Degree,10,NA,25468
-2016_2017,001954,Bellarmine University,Private,Design and Applied Arts.,Bachelor's Degree,11,NA,24531
-2015_2016,001954,Bellarmine University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Economics.,Bachelor's Degree,14,NA,20894
-2016_2017,001954,Bellarmine University,Private,Economics.,Bachelor's Degree,17,NA,22954
-2015_2016,001954,Bellarmine University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,27500,30474
-2016_2017,001954,Bellarmine University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,25526,29077
-2015_2016,001954,Bellarmine University,Private,"English Language and Literature, General.",Bachelor's Degree,15,NA,25502
-2016_2017,001954,Bellarmine University,Private,"English Language and Literature, General.",Bachelor's Degree,15,NA,24317
-2015_2016,001954,Bellarmine University,Private,Finance and Financial Management Services.,Bachelor's Degree,14,NA,25115
+2016_2017,001954,Bellarmine University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,27000,27247
+2015_2016,001954,Bellarmine University,Private,Design and Applied Arts.,Bachelor's Degree,10,,25468
+2016_2017,001954,Bellarmine University,Private,Design and Applied Arts.,Bachelor's Degree,11,,24531
+2015_2016,001954,Bellarmine University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Economics.,Bachelor's Degree,14,,20894
+2016_2017,001954,Bellarmine University,Private,Economics.,Bachelor's Degree,17,,22954
+2015_2016,001954,Bellarmine University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Educational Administration and Supervision.,Doctoral Degree,,,
+2015_2016,001954,Bellarmine University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,,27500,30474
+2016_2017,001954,Bellarmine University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Educational Administration and Supervision.,Doctoral Degree,,,
+2016_2017,001954,Bellarmine University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,,25526,29077
+2015_2016,001954,Bellarmine University,Private,"English Language and Literature, General.",Bachelor's Degree,15,,25502
+2016_2017,001954,Bellarmine University,Private,"English Language and Literature, General.",Bachelor's Degree,15,,24317
+2015_2016,001954,Bellarmine University,Private,Finance and Financial Management Services.,Bachelor's Degree,14,,25115
 2016_2017,001954,Bellarmine University,Private,Finance and Financial Management Services.,Bachelor's Degree,21,27000,24383
-2015_2016,001954,Bellarmine University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Fine and Studio Arts.,Bachelor's Degree,13,NA,24575
-2016_2017,001954,Bellarmine University,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,001954,Bellarmine University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Fine and Studio Arts.,Bachelor's Degree,13,,24575
+2016_2017,001954,Bellarmine University,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,
 2015_2016,001954,Bellarmine University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,36,27000,25745
 2016_2017,001954,Bellarmine University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,52,25275,23086
-2015_2016,001954,Bellarmine University,Private,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,History.,Bachelor's Degree,16,NA,26849
-2015_2016,001954,Bellarmine University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,14,NA,27324
-2016_2017,001954,Bellarmine University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,11,NA,29192
-2015_2016,001954,Bellarmine University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Music.,Bachelor's Degree,14,NA,25007
-2016_2017,001954,Bellarmine University,Private,Music.,Bachelor's Degree,12,NA,22416
-2015_2016,001954,Bellarmine University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,15,NA,21078
-2016_2017,001954,Bellarmine University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,19,NA,22579
-2015_2016,001954,Bellarmine University,Private,"Philosophy and Religious Studies, Other.",Master's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Philosophy and Religious Studies, Other.",Master's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Political Science and Government.,Bachelor's Degree,19,NA,23043
+2015_2016,001954,Bellarmine University,Private,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,,,
+2015_2016,001954,Bellarmine University,Private,History.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,History.,Bachelor's Degree,16,,26849
+2015_2016,001954,Bellarmine University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,14,,27324
+2016_2017,001954,Bellarmine University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,11,,29192
+2015_2016,001954,Bellarmine University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Music.,Bachelor's Degree,14,,25007
+2016_2017,001954,Bellarmine University,Private,Music.,Bachelor's Degree,12,,22416
+2015_2016,001954,Bellarmine University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,15,,21078
+2016_2017,001954,Bellarmine University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,19,,22579
+2015_2016,001954,Bellarmine University,Private,"Philosophy and Religious Studies, Other.",Master's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Philosophy and Religious Studies, Other.",Master's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Physics.,Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Political Science and Government.,Bachelor's Degree,19,,23043
 2016_2017,001954,Bellarmine University,Private,Political Science and Government.,Bachelor's Degree,26,26775,22851
 2015_2016,001954,Bellarmine University,Private,"Psychology, General.",Bachelor's Degree,80,26000,24078
 2016_2017,001954,Bellarmine University,Private,"Psychology, General.",Bachelor's Degree,91,26000,24050
-2015_2016,001954,Bellarmine University,Private,"Radio, Television, and Digital Communication.",Master's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Radio, Television, and Digital Communication.",Master's Degree,NA,NA,NA
+2015_2016,001954,Bellarmine University,Private,"Radio, Television, and Digital Communication.",Master's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Radio, Television, and Digital Communication.",Master's Degree,,,
 2015_2016,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,205,25000,24572
 2015_2016,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,21,28116,30404
-2015_2016,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2015_2016,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2015_2016,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
 2016_2017,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,210,25000,23631
 2016_2017,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,42,32114,30955
-2016_2017,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,105467,102993
-2015_2016,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,123727,116127
-2016_2017,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Sociology.,Bachelor's Degree,10,NA,22457
-2016_2017,001954,Bellarmine University,Private,Sociology.,Bachelor's Degree,11,NA,23125
+2016_2017,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,105467,102993
+2015_2016,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2016_2017,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,123727,116127
+2016_2017,001954,Bellarmine University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2015_2016,001954,Bellarmine University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Sociology.,Bachelor's Degree,10,,22457
+2016_2017,001954,Bellarmine University,Private,Sociology.,Bachelor's Degree,11,,23125
 2015_2016,001954,Bellarmine University,Private,Special Education and Teaching.,Bachelor's Degree,35,27000,24340
-2015_2016,001954,Bellarmine University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2015_2016,001954,Bellarmine University,Private,Special Education and Teaching.,Master's Degree,,,
 2016_2017,001954,Bellarmine University,Private,Special Education and Teaching.,Bachelor's Degree,46,27000,24827
-2016_2017,001954,Bellarmine University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Taxation.,Master's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Taxation.,Master's Degree,NA,NA,NA
+2016_2017,001954,Bellarmine University,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Taxation.,Master's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Taxation.,Master's Degree,,,
 2015_2016,001954,Bellarmine University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,39,27000,22809
 2015_2016,001954,Bellarmine University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,87,29085,31091
 2016_2017,001954,Bellarmine University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,50,27000,24408
 2016_2017,001954,Bellarmine University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,84,26192,30456
-2015_2016,001954,Bellarmine University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,001954,Bellarmine University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001954,Bellarmine University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,001954,Bellarmine University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,001954,Bellarmine University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,001954,Bellarmine University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,001954,Bellarmine University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,

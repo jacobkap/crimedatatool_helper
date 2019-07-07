@@ -1,143 +1,143 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003482,Christian Brothers University,Private,Accounting and Related Services.,Bachelor's Degree,13,NA,29298
-2015_2016,003482,Christian Brothers University,Private,Accounting and Related Services.,Master's Degree,11,NA,29147
-2016_2017,003482,Christian Brothers University,Private,Accounting and Related Services.,Bachelor's Degree,16,NA,28719
-2016_2017,003482,Christian Brothers University,Private,Accounting and Related Services.,Master's Degree,11,NA,38612
+2015_2016,003482,Christian Brothers University,Private,Accounting and Related Services.,Bachelor's Degree,13,,29298
+2015_2016,003482,Christian Brothers University,Private,Accounting and Related Services.,Master's Degree,11,,29147
+2016_2017,003482,Christian Brothers University,Private,Accounting and Related Services.,Bachelor's Degree,16,,28719
+2016_2017,003482,Christian Brothers University,Private,Accounting and Related Services.,Master's Degree,11,,38612
 2015_2016,003482,Christian Brothers University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,61,121311,105163
 2016_2017,003482,Christian Brothers University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,71,134105,114345
-2015_2016,003482,Christian Brothers University,Private,Biochemical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Biochemical Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Biology, General.",Bachelor's Degree,18,NA,27417
-2016_2017,003482,Christian Brothers University,Private,"Biology, General.",Bachelor's Degree,15,NA,25468
-2015_2016,003482,Christian Brothers University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,003482,Christian Brothers University,Private,Biochemical Engineering.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Biochemical Engineering.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Biological and Physical Sciences.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Biological and Physical Sciences.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Biology, General.",Bachelor's Degree,18,,27417
+2016_2017,003482,Christian Brothers University,Private,"Biology, General.",Bachelor's Degree,15,,25468
+2015_2016,003482,Christian Brothers University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,,,
 2015_2016,003482,Christian Brothers University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,36,29000,30922
 2015_2016,003482,Christian Brothers University,Private,"Business Administration, Management and Operations.",Master's Degree,55,32438,31336
 2016_2017,003482,Christian Brothers University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,52,27000,25845
 2016_2017,003482,Christian Brothers University,Private,"Business Administration, Management and Operations.",Master's Degree,48,34874,33164
-2015_2016,003482,Christian Brothers University,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Business/Commerce, General.",Bachelor's Degree,15,NA,36620
-2016_2017,003482,Christian Brothers University,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Business/Commerce, General.",Bachelor's Degree,19,NA,39854
-2015_2016,003482,Christian Brothers University,Private,Business/Corporate Communications.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Business/Corporate Communications.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Chemical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Chemical Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Civil Engineering.,Bachelor's Degree,10,NA,33652
-2016_2017,003482,Christian Brothers University,Private,Civil Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Clinical, Counseling and Applied Psychology.",Associate's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,11,NA,34690
-2016_2017,003482,Christian Brothers University,Private,"Clinical, Counseling and Applied Psychology.",Associate's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,18,NA,35769
-2015_2016,003482,Christian Brothers University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,003482,Christian Brothers University,Private,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Business/Commerce, General.",Bachelor's Degree,15,,36620
+2016_2017,003482,Christian Brothers University,Private,"Business/Commerce, General.",Associate's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Business/Commerce, General.",Bachelor's Degree,19,,39854
+2015_2016,003482,Christian Brothers University,Private,Business/Corporate Communications.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Business/Corporate Communications.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Chemical Engineering.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Chemical Engineering.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Civil Engineering.,Bachelor's Degree,10,,33652
+2016_2017,003482,Christian Brothers University,Private,Civil Engineering.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Clinical, Counseling and Applied Psychology.",Associate's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,11,,34690
+2016_2017,003482,Christian Brothers University,Private,"Clinical, Counseling and Applied Psychology.",Associate's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,18,,35769
+2015_2016,003482,Christian Brothers University,Private,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Criminal Justice and Corrections.,Master's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Criminal Justice and Corrections.,Master's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
 2015_2016,003482,Christian Brothers University,Private,"Education, General.",Master's Degree,20,13341,21124
 2016_2017,003482,Christian Brothers University,Private,"Education, General.",Master's Degree,26,11770,16931
-2015_2016,003482,Christian Brothers University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Engineering-Related Fields.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Engineering-Related Fields.,Master's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Engineering-Related Fields.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Engineering-Related Fields.,Master's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Finance and Financial Management Services.,Master's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Finance and Financial Management Services.,Master's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,History.,Bachelor's Degree,11,NA,23258
-2015_2016,003482,Christian Brothers University,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Mechanical Engineering.,Bachelor's Degree,15,NA,25612
-2016_2017,003482,Christian Brothers University,Private,Mechanical Engineering.,Bachelor's Degree,14,NA,22125
-2015_2016,003482,Christian Brothers University,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003482,Christian Brothers University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Engineering-Related Fields.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Engineering-Related Fields.,Master's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Engineering-Related Fields.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Engineering-Related Fields.,Master's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Engineering Physics.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Engineering Physics.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Engineering, General.",Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Finance and Financial Management Services.,Master's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Finance and Financial Management Services.,Master's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Health and Medical Administrative Services.,Master's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Health and Medical Administrative Services.,Master's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,History.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,History.,Bachelor's Degree,11,,23258
+2015_2016,003482,Christian Brothers University,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Information Science/Studies.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,International Business.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,International Business.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Mechanical Engineering.,Bachelor's Degree,15,,25612
+2016_2017,003482,Christian Brothers University,Private,Mechanical Engineering.,Bachelor's Degree,14,,22125
+2015_2016,003482,Christian Brothers University,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
 2015_2016,003482,Christian Brothers University,Private,Natural Sciences.,Bachelor's Degree,31,27000,31156
 2016_2017,003482,Christian Brothers University,Private,Natural Sciences.,Bachelor's Degree,26,27000,26989
-2015_2016,003482,Christian Brothers University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003482,Christian Brothers University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Physics.,Bachelor's Degree,,,
 2015_2016,003482,Christian Brothers University,Private,"Psychology, General.",Bachelor's Degree,26,28294,27495
-2016_2017,003482,Christian Brothers University,Private,"Psychology, General.",Associate's Degree,NA,NA,NA
+2016_2017,003482,Christian Brothers University,Private,"Psychology, General.",Associate's Degree,,,
 2016_2017,003482,Christian Brothers University,Private,"Psychology, General.",Bachelor's Degree,28,27000,26560
-2015_2016,003482,Christian Brothers University,Private,Public Health.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Public Health.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Real Estate.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Real Estate.,Bachelor's Degree,NA,NA,NA
+2015_2016,003482,Christian Brothers University,Private,Public Health.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Public Health.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Real Estate.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Real Estate.,Bachelor's Degree,,,
 2015_2016,003482,Christian Brothers University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,47,23332,22758
 2016_2017,003482,Christian Brothers University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,38,19010,20407
-2015_2016,003482,Christian Brothers University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,Sustainability Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,Sustainability Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
+2015_2016,003482,Christian Brothers University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Religion/Religious Studies.,Master's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Religion/Religious Studies.,Master's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,Sustainability Studies.,Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,Sustainability Studies.,Bachelor's Degree,,,
+2015_2016,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
 2015_2016,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,26,25710,27839
-2016_2017,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,18,NA,30886
-2015_2016,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2016_2017,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,18,,30886
+2015_2016,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,003482,Christian Brothers University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,

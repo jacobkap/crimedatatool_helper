@@ -1,34 +1,34 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,010319,Fortis Institute - Towson,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,838,10016,10626
-2015_2016,010319,Fortis Institute - Towson,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,19250,16764
+2015_2016,010319,Fortis Institute - Towson,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,19250,16764
 2016_2017,010319,Fortis Institute - Towson,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,759,9500,10149
-2016_2017,010319,Fortis Institute - Towson,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,18011,16243
+2016_2017,010319,Fortis Institute - Towson,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,18011,16243
 2015_2016,010319,Fortis Institute - Towson,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,151,6333,9436
-2015_2016,010319,Fortis Institute - Towson,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,25528,25980
+2015_2016,010319,Fortis Institute - Towson,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,25528,25980
 2016_2017,010319,Fortis Institute - Towson,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,120,6333,9015
 2016_2017,010319,Fortis Institute - Towson,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,49,26166,27453
 2015_2016,010319,Fortis Institute - Towson,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,259,13000,12916
 2015_2016,010319,Fortis Institute - Towson,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,125,20000,23601
 2016_2017,010319,Fortis Institute - Towson,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,240,13000,12558
 2016_2017,010319,Fortis Institute - Towson,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,124,20000,24235
-2015_2016,010319,Fortis Institute - Towson,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010319,Fortis Institute - Towson,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,14,NA,11233
-2016_2017,010319,Fortis Institute - Towson,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,11,NA,10600
-2015_2016,010319,Fortis Institute - Towson,Proprietary,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,010319,Fortis Institute - Towson,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2015_2016,010319,Fortis Institute - Towson,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,14,,11233
+2016_2017,010319,Fortis Institute - Towson,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,11,,10600
+2015_2016,010319,Fortis Institute - Towson,Proprietary,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
 2015_2016,010319,Fortis Institute - Towson,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,94,12021,12187
 2015_2016,010319,Fortis Institute - Towson,Proprietary,Health and Medical Administrative Services.,Associate's Degree,22,20000,21911
 2016_2017,010319,Fortis Institute - Towson,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,82,11704,12272
-2016_2017,010319,Fortis Institute - Towson,Proprietary,Health and Medical Administrative Services.,Associate's Degree,16,NA,18523
-2015_2016,010319,Fortis Institute - Towson,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,15625,14602
+2016_2017,010319,Fortis Institute - Towson,Proprietary,Health and Medical Administrative Services.,Associate's Degree,16,,18523
+2015_2016,010319,Fortis Institute - Towson,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,15625,14602
 2016_2017,010319,Fortis Institute - Towson,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,265,13000,13110
-2015_2016,010319,Fortis Institute - Towson,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,18625,19864
-2015_2016,010319,Fortis Institute - Towson,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,NA,NA
-2016_2017,010319,Fortis Institute - Towson,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,18264,20372
-2015_2016,010319,Fortis Institute - Towson,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,12200,11892
+2015_2016,010319,Fortis Institute - Towson,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,18625,19864
+2015_2016,010319,Fortis Institute - Towson,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,,
+2016_2017,010319,Fortis Institute - Towson,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,18264,20372
+2015_2016,010319,Fortis Institute - Towson,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,,12200,11892
 2016_2017,010319,Fortis Institute - Towson,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,112,13000,12214
-2015_2016,010319,Fortis Institute - Towson,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,010319,Fortis Institute - Towson,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2015_2016,010319,Fortis Institute - Towson,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,316,29028,31130
-2016_2017,010319,Fortis Institute - Towson,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,010319,Fortis Institute - Towson,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2016_2017,010319,Fortis Institute - Towson,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,277,30500,31539
-2015_2016,010319,Fortis Institute - Towson,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,7600,7148
-2016_2017,010319,Fortis Institute - Towson,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,7600,7338
+2015_2016,010319,Fortis Institute - Towson,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,7600,7148
+2016_2017,010319,Fortis Institute - Towson,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,7600,7338

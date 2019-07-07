@@ -1,20 +1,20 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,012050,Rosedale Technical College,Private,Air Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012050,Rosedale Technical College,Private,Air Transportation.,Associate's Degree,NA,NA,NA
-2016_2017,012050,Rosedale Technical College,Private,Air Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012050,Rosedale Technical College,Private,Air Transportation.,Associate's Degree,NA,NA,NA
-2015_2016,012050,Rosedale Technical College,Private,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,15875
+2015_2016,012050,Rosedale Technical College,Private,Air Transportation.,Undergraduate Certificate or Diploma,,,
+2015_2016,012050,Rosedale Technical College,Private,Air Transportation.,Associate's Degree,,,
+2016_2017,012050,Rosedale Technical College,Private,Air Transportation.,Undergraduate Certificate or Diploma,,,
+2016_2017,012050,Rosedale Technical College,Private,Air Transportation.,Associate's Degree,,,
+2015_2016,012050,Rosedale Technical College,Private,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,15875
 2015_2016,012050,Rosedale Technical College,Private,Electrical and Power Transmission Installers.,Associate's Degree,43,14000,14705
-2016_2017,012050,Rosedale Technical College,Private,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,14867
+2016_2017,012050,Rosedale Technical College,Private,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,14867
 2016_2017,012050,Rosedale Technical College,Private,Electrical and Power Transmission Installers.,Associate's Degree,55,14360,14629
 2015_2016,012050,Rosedale Technical College,Private,Ground Transportation.,Undergraduate Certificate or Diploma,33,3325,3173
 2016_2017,012050,Rosedale Technical College,Private,Ground Transportation.,Undergraduate Certificate or Diploma,41,3325,3654
-2015_2016,012050,Rosedale Technical College,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,15,NA,12135
-2016_2017,012050,Rosedale Technical College,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,13,NA,13875
-2015_2016,012050,Rosedale Technical College,Private,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,012050,Rosedale Technical College,Private,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2015_2016,012050,Rosedale Technical College,Private,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,12895
-2016_2017,012050,Rosedale Technical College,Private,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,9500,10787
+2015_2016,012050,Rosedale Technical College,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,15,,12135
+2016_2017,012050,Rosedale Technical College,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,13,,13875
+2015_2016,012050,Rosedale Technical College,Private,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2016_2017,012050,Rosedale Technical College,Private,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2015_2016,012050,Rosedale Technical College,Private,Precision Metal Working.,Undergraduate Certificate or Diploma,,,12895
+2016_2017,012050,Rosedale Technical College,Private,Precision Metal Working.,Undergraduate Certificate or Diploma,,9500,10787
 2015_2016,012050,Rosedale Technical College,Private,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,44,18050,16551
 2015_2016,012050,Rosedale Technical College,Private,Vehicle Maintenance and Repair Technologies.,Associate's Degree,163,15551,15497
 2016_2017,012050,Rosedale Technical College,Private,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,43,19000,17006

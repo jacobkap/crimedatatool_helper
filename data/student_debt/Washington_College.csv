@@ -1,63 +1,63 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002108,Washington College,Private,Anthropology.,Bachelor's Degree,16,NA,26553
+2015_2016,002108,Washington College,Private,Anthropology.,Bachelor's Degree,16,,26553
 2016_2017,002108,Washington College,Private,Anthropology.,Bachelor's Degree,21,24250,22373
-2015_2016,002108,Washington College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,002108,Washington College,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,002108,Washington College,Private,Area Studies.,Bachelor's Degree,,,
 2015_2016,002108,Washington College,Private,"Biology, General.",Bachelor's Degree,48,24625,23338
 2016_2017,002108,Washington College,Private,"Biology, General.",Bachelor's Degree,51,24250,23380
-2015_2016,002108,Washington College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,002108,Washington College,Private,"Business/Commerce, General.",Bachelor's Degree,NA,24250,21906
-2016_2017,002108,Washington College,Private,"Business/Commerce, General.",Bachelor's Degree,NA,23750,20120
-2015_2016,002108,Washington College,Private,Chemistry.,Bachelor's Degree,14,NA,22071
-2016_2017,002108,Washington College,Private,Chemistry.,Bachelor's Degree,11,NA,22045
-2015_2016,002108,Washington College,Private,Computer Science.,Bachelor's Degree,12,NA,22529
-2016_2017,002108,Washington College,Private,Computer Science.,Bachelor's Degree,10,NA,23072
-2015_2016,002108,Washington College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,10,NA,22519
-2016_2017,002108,Washington College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,11,NA,20608
-2015_2016,002108,Washington College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,002108,Washington College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,002108,Washington College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,002108,Washington College,Private,"Business/Commerce, General.",Bachelor's Degree,,24250,21906
+2016_2017,002108,Washington College,Private,"Business/Commerce, General.",Bachelor's Degree,,23750,20120
+2015_2016,002108,Washington College,Private,Chemistry.,Bachelor's Degree,14,,22071
+2016_2017,002108,Washington College,Private,Chemistry.,Bachelor's Degree,11,,22045
+2015_2016,002108,Washington College,Private,Computer Science.,Bachelor's Degree,12,,22529
+2016_2017,002108,Washington College,Private,Computer Science.,Bachelor's Degree,10,,23072
+2015_2016,002108,Washington College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,10,,22519
+2016_2017,002108,Washington College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,11,,20608
+2015_2016,002108,Washington College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2016_2017,002108,Washington College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
 2015_2016,002108,Washington College,Private,Economics.,Bachelor's Degree,31,24250,24020
 2016_2017,002108,Washington College,Private,Economics.,Bachelor's Degree,39,24250,23278
 2015_2016,002108,Washington College,Private,"English Language and Literature, General.",Bachelor's Degree,32,24250,23712
-2015_2016,002108,Washington College,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,002108,Washington College,Private,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,002108,Washington College,Private,"English Language and Literature, General.",Bachelor's Degree,28,23750,20230
-2016_2017,002108,Washington College,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2015_2016,002108,Washington College,Private,Fine and Studio Arts.,Bachelor's Degree,12,NA,24205
-2016_2017,002108,Washington College,Private,Fine and Studio Arts.,Bachelor's Degree,14,NA,23100
-2015_2016,002108,Washington College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,002108,Washington College,Private,"English Language and Literature, General.",Master's Degree,,,
+2015_2016,002108,Washington College,Private,Fine and Studio Arts.,Bachelor's Degree,12,,24205
+2016_2017,002108,Washington College,Private,Fine and Studio Arts.,Bachelor's Degree,14,,23100
+2015_2016,002108,Washington College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002108,Washington College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,002108,Washington College,Private,History.,Bachelor's Degree,24,27000,25385
-2015_2016,002108,Washington College,Private,History.,Master's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,History.,Bachelor's Degree,15,NA,23329
-2016_2017,002108,Washington College,Private,History.,Master's Degree,NA,NA,NA
+2015_2016,002108,Washington College,Private,History.,Master's Degree,,,
+2016_2017,002108,Washington College,Private,History.,Bachelor's Degree,15,,23329
+2016_2017,002108,Washington College,Private,History.,Master's Degree,,,
 2015_2016,002108,Washington College,Private,International Relations and National Security Studies.,Bachelor's Degree,21,24250,23535
-2016_2017,002108,Washington College,Private,International Relations and National Security Studies.,Bachelor's Degree,17,NA,23769
-2015_2016,002108,Washington College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,18,NA,20144
-2015_2016,002108,Washington College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,19,NA,21482
-2016_2017,002108,Washington College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2015_2016,002108,Washington College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,002108,Washington College,Private,Mathematics.,Bachelor's Degree,16,NA,23117
-2016_2017,002108,Washington College,Private,Mathematics.,Bachelor's Degree,12,NA,19189
-2015_2016,002108,Washington College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002108,Washington College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002108,Washington College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,19,NA,23264
+2016_2017,002108,Washington College,Private,International Relations and National Security Studies.,Bachelor's Degree,17,,23769
+2015_2016,002108,Washington College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,18,,20144
+2015_2016,002108,Washington College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2016_2017,002108,Washington College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,19,,21482
+2016_2017,002108,Washington College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2015_2016,002108,Washington College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,002108,Washington College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2015_2016,002108,Washington College,Private,Mathematics.,Bachelor's Degree,16,,23117
+2016_2017,002108,Washington College,Private,Mathematics.,Bachelor's Degree,12,,19189
+2015_2016,002108,Washington College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,002108,Washington College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,002108,Washington College,Private,Music.,Bachelor's Degree,,,
+2016_2017,002108,Washington College,Private,Music.,Bachelor's Degree,,,
+2015_2016,002108,Washington College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,19,,23264
 2016_2017,002108,Washington College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,24,24250,21349
-2015_2016,002108,Washington College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002108,Washington College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002108,Washington College,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,002108,Washington College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002108,Washington College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002108,Washington College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,002108,Washington College,Private,Physics.,Bachelor's Degree,,,
 2015_2016,002108,Washington College,Private,Political Science and Government.,Bachelor's Degree,26,24250,24978
 2016_2017,002108,Washington College,Private,Political Science and Government.,Bachelor's Degree,25,24250,22471
 2015_2016,002108,Washington College,Private,"Psychology, General.",Bachelor's Degree,45,24250,23057
-2015_2016,002108,Washington College,Private,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,002108,Washington College,Private,"Psychology, General.",Master's Degree,,,
 2016_2017,002108,Washington College,Private,"Psychology, General.",Bachelor's Degree,44,23730,20909
-2016_2017,002108,Washington College,Private,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,002108,Washington College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,12,NA,23854
-2016_2017,002108,Washington College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,24704
-2015_2016,002108,Washington College,Private,Sociology.,Bachelor's Degree,11,NA,23280
-2016_2017,002108,Washington College,Private,Sociology.,Bachelor's Degree,16,NA,22416
+2016_2017,002108,Washington College,Private,"Psychology, General.",Master's Degree,,,
+2015_2016,002108,Washington College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,12,,23854
+2016_2017,002108,Washington College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,24704
+2015_2016,002108,Washington College,Private,Sociology.,Bachelor's Degree,11,,23280
+2016_2017,002108,Washington College,Private,Sociology.,Bachelor's Degree,16,,22416

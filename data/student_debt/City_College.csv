@@ -1,48 +1,48 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,025154,City College,Private,Accounting and Related Services.,Associate's Degree,13,NA,24703
-2015_2016,025154,City College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,43718
-2016_2017,025154,City College,Private,Accounting and Related Services.,Associate's Degree,13,NA,25888
-2016_2017,025154,City College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,49809
+2015_2016,025154,City College,Private,Accounting and Related Services.,Associate's Degree,13,,24703
+2015_2016,025154,City College,Private,Accounting and Related Services.,Bachelor's Degree,,,43718
+2016_2017,025154,City College,Private,Accounting and Related Services.,Associate's Degree,13,,25888
+2016_2017,025154,City College,Private,Accounting and Related Services.,Bachelor's Degree,,,49809
 2015_2016,025154,City College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,117,27000,26972
-2015_2016,030799,City College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,NA,26000,26178
+2015_2016,030799,City College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,,26000,26178
 2016_2017,025154,City College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,149,27326,26890
-2016_2017,030799,City College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,NA,27481,28106
+2016_2017,030799,City College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,,27481,28106
 2015_2016,025154,City College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,66,29535,28227
 2015_2016,030799,City College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,24,27146,26782
 2016_2017,025154,City College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,81,28167,27551
-2016_2017,030799,City College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,25201,23893
+2016_2017,030799,City College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,25201,23893
 2015_2016,025154,City College,Private,Audiovisual Communications Technologies/Technicians.,Associate's Degree,25,29000,28498
 2016_2017,025154,City College,Private,Audiovisual Communications Technologies/Technicians.,Associate's Degree,23,27800,26461
 2015_2016,025154,City College,Private,"Business Administration, Management and Operations.",Associate's Degree,65,27300,27277
 2015_2016,025154,City College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,43,48125,44499
-2015_2016,030799,City College,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,28922
+2015_2016,030799,City College,Private,"Business Administration, Management and Operations.",Associate's Degree,,,28922
 2016_2017,025154,City College,Private,"Business Administration, Management and Operations.",Associate's Degree,72,27503,27713
 2016_2017,025154,City College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,37,45732,42989
-2016_2017,030799,City College,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2015_2016,025154,City College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,025154,City College,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2015_2016,030799,City College,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,025154,City College,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,030799,City College,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2015_2016,025154,City College,Private,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030799,City College,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
+2015_2016,025154,City College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,025154,City College,Private,Criminal Justice and Corrections.,Associate's Degree,,,
+2015_2016,030799,City College,Private,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,025154,City College,Private,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,030799,City College,Private,Criminal Justice and Corrections.,Associate's Degree,,,
+2015_2016,025154,City College,Private,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,025154,City College,Private,Health and Medical Administrative Services.,Associate's Degree,44,27858,27128
 2015_2016,025154,City College,Private,Health and Medical Administrative Services.,Bachelor's Degree,43,45347,39685
-2015_2016,030799,City College,Private,Health and Medical Administrative Services.,Associate's Degree,16,NA,28838
+2015_2016,030799,City College,Private,Health and Medical Administrative Services.,Associate's Degree,16,,28838
 2016_2017,025154,City College,Private,Health and Medical Administrative Services.,Associate's Degree,67,28500,29081
 2016_2017,025154,City College,Private,Health and Medical Administrative Services.,Bachelor's Degree,58,47379,43236
-2016_2017,030799,City College,Private,Health and Medical Administrative Services.,Associate's Degree,NA,NA,27919
-2015_2016,025154,City College,Private,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,025154,City College,Private,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,025154,City College,Private,Legal Support Services.,Associate's Degree,NA,28513,27946
-2015_2016,030799,City College,Private,Legal Support Services.,Associate's Degree,NA,27500,NA
-2016_2017,025154,City College,Private,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,025154,City College,Private,Legal Support Services.,Associate's Degree,NA,27100,27422
-2016_2017,030799,City College,Private,Legal Support Services.,Associate's Degree,NA,28267,29681
-2015_2016,025154,City College,Private,Mental and Social Health Services and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,025154,City College,Private,Mental and Social Health Services and Allied Professions.,Associate's Degree,NA,NA,NA
+2016_2017,030799,City College,Private,Health and Medical Administrative Services.,Associate's Degree,,,27919
+2015_2016,025154,City College,Private,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
+2016_2017,025154,City College,Private,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
+2015_2016,025154,City College,Private,Legal Support Services.,Associate's Degree,,28513,27946
+2015_2016,030799,City College,Private,Legal Support Services.,Associate's Degree,,27500,
+2016_2017,025154,City College,Private,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,025154,City College,Private,Legal Support Services.,Associate's Degree,,27100,27422
+2016_2017,030799,City College,Private,Legal Support Services.,Associate's Degree,,28267,29681
+2015_2016,025154,City College,Private,Mental and Social Health Services and Allied Professions.,Associate's Degree,,,
+2016_2017,025154,City College,Private,Mental and Social Health Services and Allied Professions.,Associate's Degree,,,
 2015_2016,025154,City College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,43,24088,24254
-2015_2016,025154,City College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2015_2016,030799,City College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,24228,24065
+2015_2016,025154,City College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2015_2016,030799,City College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,24228,24065
 2016_2017,025154,City College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,35,24958,24771
-2016_2017,025154,City College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,030799,City College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,25326
+2016_2017,025154,City College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,030799,City College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,25326

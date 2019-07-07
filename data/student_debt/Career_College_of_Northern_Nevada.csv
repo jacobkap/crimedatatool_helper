@@ -4,13 +4,13 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,026215,Career College of Northern Nevada,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,29,10388,10130
 2016_2017,026215,Career College of Northern Nevada,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,115,15949,15872
 2015_2016,026215,Career College of Northern Nevada,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,45,17738,16412
-2016_2017,026215,Career College of Northern Nevada,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,18145,16959
-2015_2016,026215,Career College of Northern Nevada,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,19300,18603
+2016_2017,026215,Career College of Northern Nevada,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,18145,16959
+2015_2016,026215,Career College of Northern Nevada,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,19300,18603
 2016_2017,026215,Career College of Northern Nevada,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,32,18806,18262
 2015_2016,026215,Career College of Northern Nevada,Proprietary,Health and Medical Administrative Services.,Associate's Degree,42,19058,19253
 2016_2017,026215,Career College of Northern Nevada,Proprietary,Health and Medical Administrative Services.,Associate's Degree,42,17951,17857
 2015_2016,026215,Career College of Northern Nevada,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,95,8244,7859
-2015_2016,026215,Career College of Northern Nevada,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,NA,NA,NA
+2015_2016,026215,Career College of Northern Nevada,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,,,
 2016_2017,026215,Career College of Northern Nevada,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,72,8601,8016
 2015_2016,026215,Career College of Northern Nevada,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,76,9098,7798
 2016_2017,026215,Career College of Northern Nevada,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,87,9310,8109

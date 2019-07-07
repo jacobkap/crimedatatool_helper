@@ -1,304 +1,304 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,001616,Boise State University,Public,Accounting and Related Services.,Bachelor's Degree,144,25500,27161
-2015_2016,001616,Boise State University,Public,Accounting and Related Services.,Master's Degree,16,NA,22054
+2015_2016,001616,Boise State University,Public,Accounting and Related Services.,Master's Degree,16,,22054
 2016_2017,001616,Boise State University,Public,Accounting and Related Services.,Bachelor's Degree,132,25125,26096
 2016_2017,001616,Boise State University,Public,Accounting and Related Services.,Master's Degree,24,15239,18483
-2015_2016,001616,Boise State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,001616,Boise State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
 2015_2016,001616,Boise State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,137,19000,21185
-2016_2017,001616,Boise State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,15,NA,19681
-2016_2017,001616,Boise State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,15,,19681
+2016_2017,001616,Boise State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
 2016_2017,001616,Boise State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,170,18602,20319
-2015_2016,001616,Boise State University,Public,American Sign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001616,Boise State University,Public,American Sign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001616,Boise State University,Public,American Sign Language.,Undergraduate Certificate or Diploma,,,
+2016_2017,001616,Boise State University,Public,American Sign Language.,Undergraduate Certificate or Diploma,,,
 2015_2016,001616,Boise State University,Public,Anthropology.,Bachelor's Degree,43,26136,29437
-2015_2016,001616,Boise State University,Public,Anthropology.,Master's Degree,11,NA,32684
-2016_2017,001616,Boise State University,Public,Anthropology.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Anthropology.,Master's Degree,11,,32684
+2016_2017,001616,Boise State University,Public,Anthropology.,Undergraduate Certificate or Diploma,,,
 2016_2017,001616,Boise State University,Public,Anthropology.,Bachelor's Degree,44,26392,30725
-2016_2017,001616,Boise State University,Public,Anthropology.,Master's Degree,NA,NA,35054
-2015_2016,001616,Boise State University,Public,Applied Mathematics.,Bachelor's Degree,14,NA,21163
-2016_2017,001616,Boise State University,Public,Applied Mathematics.,Bachelor's Degree,17,NA,23987
-2015_2016,001616,Boise State University,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,11,NA,28014
-2016_2017,001616,Boise State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Anthropology.,Master's Degree,,,35054
+2015_2016,001616,Boise State University,Public,Applied Mathematics.,Bachelor's Degree,14,,21163
+2016_2017,001616,Boise State University,Public,Applied Mathematics.,Bachelor's Degree,17,,23987
+2015_2016,001616,Boise State University,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2015_2016,001616,Boise State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,,,
+2015_2016,001616,Boise State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,11,,28014
+2016_2017,001616,Boise State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,,,
+2015_2016,001616,Boise State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
+2016_2017,001616,Boise State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
+2016_2017,001616,Boise State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
 2015_2016,001616,Boise State University,Public,"Biology, General.",Bachelor's Degree,147,23690,24341
-2015_2016,001616,Boise State University,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"Biology, General.",Master's Degree,,,
 2016_2017,001616,Boise State University,Public,"Biology, General.",Bachelor's Degree,145,21969,23843
-2016_2017,001616,Boise State University,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Biology, General.",Master's Degree,,,
+2015_2016,001616,Boise State University,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,001616,Boise State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,119,23367,23609
-2015_2016,001616,Boise State University,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2015_2016,001616,Boise State University,Public,"Business Administration, Management and Operations.",Master's Degree,84,30750,30594
 2016_2017,001616,Boise State University,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,42,25000,27864
 2016_2017,001616,Boise State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,144,24451,23783
-2016_2017,001616,Boise State University,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2016_2017,001616,Boise State University,Public,"Business Administration, Management and Operations.",Master's Degree,93,34068,32493
 2015_2016,001616,Boise State University,Public,"Business/Commerce, General.",Bachelor's Degree,151,22691,24991
-2016_2017,001616,Boise State University,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,24624
+2016_2017,001616,Boise State University,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,24624
 2016_2017,001616,Boise State University,Public,"Business/Commerce, General.",Bachelor's Degree,154,22739,25144
-2015_2016,001616,Boise State University,Public,Business/Managerial Economics.,Bachelor's Degree,17,NA,20090
-2016_2017,001616,Boise State University,Public,Business/Managerial Economics.,Bachelor's Degree,10,NA,17806
-2015_2016,001616,Boise State University,Public,Chemistry.,Bachelor's Degree,18,NA,22075
-2015_2016,001616,Boise State University,Public,Chemistry.,Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Business/Managerial Economics.,Bachelor's Degree,17,,20090
+2016_2017,001616,Boise State University,Public,Business/Managerial Economics.,Bachelor's Degree,10,,17806
+2015_2016,001616,Boise State University,Public,Chemistry.,Bachelor's Degree,18,,22075
+2015_2016,001616,Boise State University,Public,Chemistry.,Master's Degree,,,
 2016_2017,001616,Boise State University,Public,Chemistry.,Bachelor's Degree,22,17744,22603
-2016_2017,001616,Boise State University,Public,Chemistry.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Master's Degree,11,NA,38509
-2015_2016,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Chemistry.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Master's Degree,11,,38509
+2015_2016,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Graduate/Professional Certificate,,,
+2016_2017,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Master's Degree,,,
+2016_2017,001616,Boise State University,Public,"City/Urban, Community and Regional Planning.",Graduate/Professional Certificate,,,
 2015_2016,001616,Boise State University,Public,Civil Engineering.,Bachelor's Degree,47,26000,27120
-2015_2016,001616,Boise State University,Public,Civil Engineering.,Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Civil Engineering.,Master's Degree,,,
 2016_2017,001616,Boise State University,Public,Civil Engineering.,Bachelor's Degree,42,20250,22679
-2016_2017,001616,Boise State University,Public,Civil Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Civil Engineering.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
+2016_2017,001616,Boise State University,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
+2015_2016,001616,Boise State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
 2015_2016,001616,Boise State University,Public,Communication and Media Studies.,Bachelor's Degree,250,24776,24608
-2015_2016,001616,Boise State University,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Communication and Media Studies.,Master's Degree,,,
 2016_2017,001616,Boise State University,Public,Communication and Media Studies.,Bachelor's Degree,254,24304,23448
-2016_2017,001616,Boise State University,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Communication and Media Studies.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,,,
 2015_2016,001616,Boise State University,Public,"Communication, Journalism, and Related Programs, Other.",Undergraduate Certificate or Diploma,49,27868,28264
-2015_2016,001616,Boise State University,Public,"Communication, Journalism, and Related Programs, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Communication, Journalism, and Related Programs, Other.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"Communication, Journalism, and Related Programs, Other.",Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,"Communication, Journalism, and Related Programs, Other.",Graduate/Professional Certificate,,,
 2016_2017,001616,Boise State University,Public,"Communication, Journalism, and Related Programs, Other.",Undergraduate Certificate or Diploma,70,27937,28114
-2016_2017,001616,Boise State University,Public,"Communication, Journalism, and Related Programs, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Communication, Journalism, and Related Programs, Other.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Community Organization and Advocacy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Community Organization and Advocacy.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Community Organization and Advocacy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Community Organization and Advocacy.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Communication, Journalism, and Related Programs, Other.",Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,"Communication, Journalism, and Related Programs, Other.",Graduate/Professional Certificate,,,
+2015_2016,001616,Boise State University,Public,Community Organization and Advocacy.,Undergraduate Certificate or Diploma,,,
+2015_2016,001616,Boise State University,Public,Community Organization and Advocacy.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Community Organization and Advocacy.,Undergraduate Certificate or Diploma,,,
+2016_2017,001616,Boise State University,Public,Community Organization and Advocacy.,Post-baccalaureate Certificate,,,
 2015_2016,001616,Boise State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,47,31000,28170
 2016_2017,001616,Boise State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,65,26500,26224
-2015_2016,001616,Boise State University,Public,Computer Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Computer Engineering.,Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Computer Engineering.,Master's Degree,,,
+2016_2017,001616,Boise State University,Public,Computer Engineering.,Master's Degree,,,
 2015_2016,001616,Boise State University,Public,Computer Science.,Bachelor's Degree,70,26971,27046
-2015_2016,001616,Boise State University,Public,Computer Science.,Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Computer Science.,Master's Degree,,,
 2016_2017,001616,Boise State University,Public,Computer Science.,Bachelor's Degree,80,28146,29358
-2016_2017,001616,Boise State University,Public,Computer Science.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Computer Science.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
 2015_2016,001616,Boise State University,Public,Construction Management.,Bachelor's Degree,28,28376,31582
 2016_2017,001616,Boise State University,Public,Construction Management.,Bachelor's Degree,39,26000,29635
 2015_2016,001616,Boise State University,Public,Criminal Justice and Corrections.,Associate's Degree,23,22586,26709
 2015_2016,001616,Boise State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,136,22448,24687
-2015_2016,001616,Boise State University,Public,Criminal Justice and Corrections.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Criminal Justice and Corrections.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Criminal Justice and Corrections.,Associate's Degree,18,NA,24894
+2015_2016,001616,Boise State University,Public,Criminal Justice and Corrections.,Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,Criminal Justice and Corrections.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Criminal Justice and Corrections.,Graduate/Professional Certificate,,,
+2016_2017,001616,Boise State University,Public,Criminal Justice and Corrections.,Associate's Degree,18,,24894
 2016_2017,001616,Boise State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,129,21500,22600
-2016_2017,001616,Boise State University,Public,Criminal Justice and Corrections.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Criminal Justice and Corrections.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Curriculum and Instruction.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Curriculum and Instruction.,Master's Degree,17,NA,22424
-2016_2017,001616,Boise State University,Public,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Criminal Justice and Corrections.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Criminal Justice and Corrections.,Master's Degree,,,
+2016_2017,001616,Boise State University,Public,Criminal Justice and Corrections.,Graduate/Professional Certificate,,,
+2015_2016,001616,Boise State University,Public,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Curriculum and Instruction.,Doctoral Degree,,,
+2016_2017,001616,Boise State University,Public,Curriculum and Instruction.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Curriculum and Instruction.,Master's Degree,17,,22424
+2016_2017,001616,Boise State University,Public,Curriculum and Instruction.,Doctoral Degree,,,
+2015_2016,001616,Boise State University,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,,,
 2015_2016,001616,Boise State University,Public,Design and Applied Arts.,Bachelor's Degree,93,28501,28261
-2015_2016,001616,Boise State University,Public,Design and Applied Arts.,Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Design and Applied Arts.,Master's Degree,,,
 2016_2017,001616,Boise State University,Public,Design and Applied Arts.,Bachelor's Degree,76,27466,26906
-2016_2017,001616,Boise State University,Public,Design and Applied Arts.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Dispute Resolution.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Dispute Resolution.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Dispute Resolution.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,13,NA,24485
-2016_2017,001616,Boise State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,13,NA,30001
-2015_2016,001616,Boise State University,Public,"East Asian Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"East Asian Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Design and Applied Arts.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Dispute Resolution.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Dispute Resolution.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Dispute Resolution.,Graduate/Professional Certificate,,,
+2015_2016,001616,Boise State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,13,,24485
+2016_2017,001616,Boise State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,13,,30001
+2015_2016,001616,Boise State University,Public,"East Asian Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
+2016_2017,001616,Boise State University,Public,"East Asian Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
 2015_2016,001616,Boise State University,Public,Economics.,Bachelor's Degree,20,22346,24263
-2016_2017,001616,Boise State University,Public,Economics.,Bachelor's Degree,17,NA,26201
-2015_2016,001616,Boise State University,Public,"Education, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Education, General.",Graduate/Professional Certificate,NA,NA,21626
-2016_2017,001616,Boise State University,Public,"Education, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Education, General.",Graduate/Professional Certificate,NA,NA,23010
+2016_2017,001616,Boise State University,Public,Economics.,Bachelor's Degree,17,,26201
+2015_2016,001616,Boise State University,Public,"Education, General.",Bachelor's Degree,,,
+2015_2016,001616,Boise State University,Public,"Education, General.",Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,"Education, General.",Graduate/Professional Certificate,,,21626
+2016_2017,001616,Boise State University,Public,"Education, General.",Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,"Education, General.",Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,"Education, General.",Graduate/Professional Certificate,,,23010
 2015_2016,001616,Boise State University,Public,Educational Administration and Supervision.,Master's Degree,26,29745,28754
-2015_2016,001616,Boise State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
 2016_2017,001616,Boise State University,Public,Educational Administration and Supervision.,Master's Degree,39,27406,29206
-2016_2017,001616,Boise State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2015_2016,001616,Boise State University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
 2015_2016,001616,Boise State University,Public,Educational/Instructional Media Design.,Master's Degree,131,25861,28421
-2015_2016,001616,Boise State University,Public,Educational/Instructional Media Design.,Doctoral Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Educational/Instructional Media Design.,Doctoral Degree,,,
+2015_2016,001616,Boise State University,Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,,,
+2016_2017,001616,Boise State University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
 2016_2017,001616,Boise State University,Public,Educational/Instructional Media Design.,Master's Degree,128,20750,26807
-2016_2017,001616,Boise State University,Public,Educational/Instructional Media Design.,Doctoral Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Educational/Instructional Media Design.,Doctoral Degree,,,
+2016_2017,001616,Boise State University,Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,,,
 2015_2016,001616,Boise State University,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,30,23025,26894
-2015_2016,001616,Boise State University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2015_2016,001616,Boise State University,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,,,
 2016_2017,001616,Boise State University,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,37,20738,26106
-2016_2017,001616,Boise State University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2016_2017,001616,Boise State University,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,,,
 2015_2016,001616,Boise State University,Public,"English Language and Literature, General.",Bachelor's Degree,96,24841,26718
-2015_2016,001616,Boise State University,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,001616,Boise State University,Public,"English Language and Literature, General.",Bachelor's Degree,98,24133,25551
-2016_2017,001616,Boise State University,Public,"English Language and Literature, General.",Master's Degree,15,NA,23537
-2015_2016,001616,Boise State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,17,NA,28941
+2016_2017,001616,Boise State University,Public,"English Language and Literature, General.",Master's Degree,15,,23537
+2015_2016,001616,Boise State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,001616,Boise State University,Public,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,17,,28941
 2016_2017,001616,Boise State University,Public,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,22,29340,30808
 2015_2016,001616,Boise State University,Public,Finance and Financial Management Services.,Bachelor's Degree,81,25000,25747
 2016_2017,001616,Boise State University,Public,Finance and Financial Management Services.,Bachelor's Degree,79,25000,24662
-2015_2016,001616,Boise State University,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Geography and Cartography.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Geography and Cartography.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,001616,Boise State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,001616,Boise State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,001616,Boise State University,Public,Geography and Cartography.,Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,Geography and Cartography.,Graduate/Professional Certificate,,,
+2016_2017,001616,Boise State University,Public,Geography and Cartography.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Geography and Cartography.,Graduate/Professional Certificate,,,
 2015_2016,001616,Boise State University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,34,31000,31409
-2015_2016,001616,Boise State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,,,
 2016_2017,001616,Boise State University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,36,27565,27322
-2016_2017,001616,Boise State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Germanic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Gerontology.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Gerontology.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Gerontology.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Gerontology.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2016_2017,001616,Boise State University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,,,
+2015_2016,001616,Boise State University,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,"Germanic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
+2016_2017,001616,Boise State University,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001616,Boise State University,Public,Gerontology.,Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,Gerontology.,Graduate/Professional Certificate,,,
+2016_2017,001616,Boise State University,Public,Gerontology.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Gerontology.,Graduate/Professional Certificate,,,
+2015_2016,001616,Boise State University,Public,Health and Medical Administrative Services.,Associate's Degree,,,
+2015_2016,001616,Boise State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Health and Medical Administrative Services.,Associate's Degree,,,
+2016_2017,001616,Boise State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,,,
 2015_2016,001616,Boise State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,104,24360,26014
-2015_2016,001616,Boise State University,Public,Health and Physical Education/Fitness.,Master's Degree,10,NA,17914
+2015_2016,001616,Boise State University,Public,Health and Physical Education/Fitness.,Master's Degree,10,,17914
 2016_2017,001616,Boise State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,89,24449,24855
-2016_2017,001616,Boise State University,Public,Health and Physical Education/Fitness.,Master's Degree,18,NA,25221
+2016_2017,001616,Boise State University,Public,Health and Physical Education/Fitness.,Master's Degree,18,,25221
 2015_2016,001616,Boise State University,Public,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,262,24251,25474
 2016_2017,001616,Boise State University,Public,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,278,24191,25362
-2015_2016,001616,Boise State University,Public,"Health Services/Allied Health/Health Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Health Services/Allied Health/Health Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,19,NA,29139
-2016_2017,001616,Boise State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,19,NA,24015
+2015_2016,001616,Boise State University,Public,"Health Services/Allied Health/Health Sciences, General.",Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,"Health Services/Allied Health/Health Sciences, General.",Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,19,,29139
+2016_2017,001616,Boise State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,19,,24015
 2015_2016,001616,Boise State University,Public,History.,Bachelor's Degree,53,26000,25635
-2015_2016,001616,Boise State University,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,History.,Master's Degree,,,
 2016_2017,001616,Boise State University,Public,History.,Bachelor's Degree,55,25500,27869
-2016_2017,001616,Boise State University,Public,History.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Human Development, Family Studies, and Related Services.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Human Development, Family Studies, and Related Services.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Human Development, Family Studies, and Related Services.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Human Resources Management and Services.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Human Resources Management and Services.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Information Science/Studies.,Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Information Science/Studies.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001616,Boise State University,Public,History.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,"Human Development, Family Studies, and Related Services.",Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,"Human Development, Family Studies, and Related Services.",Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,"Human Development, Family Studies, and Related Services.",Graduate/Professional Certificate,,,
+2015_2016,001616,Boise State University,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,Human Resources Management and Services.,Graduate/Professional Certificate,,,
+2016_2017,001616,Boise State University,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Human Resources Management and Services.,Graduate/Professional Certificate,,,
+2015_2016,001616,Boise State University,Public,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Information Science/Studies.,Master's Degree,,,
+2016_2017,001616,Boise State University,Public,Information Science/Studies.,Graduate/Professional Certificate,,,
 2015_2016,001616,Boise State University,Public,International Business.,Bachelor's Degree,26,17500,20474
 2016_2017,001616,Boise State University,Public,International Business.,Bachelor's Degree,22,23375,23081
 2015_2016,001616,Boise State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,78,17500,19591
-2015_2016,001616,Boise State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,28817
+2015_2016,001616,Boise State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,28817
 2016_2017,001616,Boise State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,77,17500,20273
-2016_2017,001616,Boise State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,25500,26640
-2015_2016,001616,Boise State University,Public,Management Information Systems and Services.,Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Management Information Systems and Services.,Master's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,25500,26640
+2015_2016,001616,Boise State University,Public,Management Information Systems and Services.,Master's Degree,,,
+2016_2017,001616,Boise State University,Public,Management Information Systems and Services.,Master's Degree,,,
 2015_2016,001616,Boise State University,Public,Marketing.,Bachelor's Degree,104,22375,22383
 2016_2017,001616,Boise State University,Public,Marketing.,Bachelor's Degree,114,22209,21625
 2015_2016,001616,Boise State University,Public,Materials Engineering,Bachelor's Degree,21,31000,33885
-2015_2016,001616,Boise State University,Public,Materials Engineering,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Materials Engineering,Doctoral Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Materials Engineering,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Materials Engineering,Doctoral Degree,,,
 2016_2017,001616,Boise State University,Public,Materials Engineering,Bachelor's Degree,25,28569,32800
-2016_2017,001616,Boise State University,Public,Materials Engineering,Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Materials Engineering,Doctoral Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Mathematics.,Bachelor's Degree,11,NA,18892
-2015_2016,001616,Boise State University,Public,Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Mathematics.,Bachelor's Degree,19,NA,24745
-2016_2017,001616,Boise State University,Public,Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Materials Engineering,Master's Degree,,,
+2016_2017,001616,Boise State University,Public,Materials Engineering,Doctoral Degree,,,
+2015_2016,001616,Boise State University,Public,Mathematics.,Bachelor's Degree,11,,18892
+2015_2016,001616,Boise State University,Public,Mathematics.,Master's Degree,,,
+2016_2017,001616,Boise State University,Public,Mathematics.,Bachelor's Degree,19,,24745
+2016_2017,001616,Boise State University,Public,Mathematics.,Master's Degree,,,
 2015_2016,001616,Boise State University,Public,Mechanical Engineering.,Bachelor's Degree,102,23422,25325
-2015_2016,001616,Boise State University,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Mechanical Engineering.,Master's Degree,,,
 2016_2017,001616,Boise State University,Public,Mechanical Engineering.,Bachelor's Degree,88,26249,28857
-2016_2017,001616,Boise State University,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Mental and Social Health Services and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Mental and Social Health Services and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Mechanical Engineering.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Mental and Social Health Services and Allied Professions.,Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,,,
+2016_2017,001616,Boise State University,Public,Mental and Social Health Services and Allied Professions.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,,,
+2015_2016,001616,Boise State University,Public,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
+2016_2017,001616,Boise State University,Public,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
 2015_2016,001616,Boise State University,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,85,29090,29954
 2016_2017,001616,Boise State University,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,124,25000,27066
 2015_2016,001616,Boise State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,33,24669,25131
-2015_2016,001616,Boise State University,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
 2016_2017,001616,Boise State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,39,32192,30402
-2016_2017,001616,Boise State University,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Music.,Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Music.,Master's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Music.,Bachelor's Degree,,,
+2015_2016,001616,Boise State University,Public,Music.,Master's Degree,,,
+2016_2017,001616,Boise State University,Public,Music.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Music.,Master's Degree,,,
 2015_2016,001616,Boise State University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,32,27214,30329
 2016_2017,001616,Boise State University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,37,22792,26762
-2015_2016,001616,Boise State University,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Physics.,Bachelor's Degree,16,NA,30643
+2015_2016,001616,Boise State University,Public,Philosophy.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Philosophy.,Bachelor's Degree,,,
+2015_2016,001616,Boise State University,Public,Physics.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Physics.,Bachelor's Degree,16,,30643
 2015_2016,001616,Boise State University,Public,Political Science and Government.,Bachelor's Degree,97,24750,23949
 2016_2017,001616,Boise State University,Public,Political Science and Government.,Bachelor's Degree,78,22750,22448
-2016_2017,001616,Boise State University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Political Science and Government.,Master's Degree,,,
 2015_2016,001616,Boise State University,Public,"Psychology, General.",Bachelor's Degree,238,25000,26076
 2016_2017,001616,Boise State University,Public,"Psychology, General.",Bachelor's Degree,247,24225,25356
-2015_2016,001616,Boise State University,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Public Administration.,Master's Degree,16,NA,28771
-2016_2017,001616,Boise State University,Public,Public Administration.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Public Administration.,Master's Degree,19,NA,34778
-2015_2016,001616,Boise State University,Public,Public Health.,Bachelor's Degree,NA,NA,37449
-2015_2016,001616,Boise State University,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Public Health.,Master's Degree,13,NA,24910
-2015_2016,001616,Boise State University,Public,Public Health.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Public Health.,Bachelor's Degree,NA,30967,31138
-2016_2017,001616,Boise State University,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Public Health.,Master's Degree,14,NA,32622
-2016_2017,001616,Boise State University,Public,Public Health.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Public Policy Analysis.,Doctoral Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Public Policy Analysis.,Doctoral Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Public Administration.,Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,Public Administration.,Master's Degree,16,,28771
+2016_2017,001616,Boise State University,Public,Public Administration.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Public Administration.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Public Administration.,Master's Degree,19,,34778
+2015_2016,001616,Boise State University,Public,Public Health.,Bachelor's Degree,,,37449
+2015_2016,001616,Boise State University,Public,Public Health.,Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,Public Health.,Master's Degree,13,,24910
+2015_2016,001616,Boise State University,Public,Public Health.,Graduate/Professional Certificate,,,
+2016_2017,001616,Boise State University,Public,Public Health.,Bachelor's Degree,,30967,31138
+2016_2017,001616,Boise State University,Public,Public Health.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Public Health.,Master's Degree,14,,32622
+2016_2017,001616,Boise State University,Public,Public Health.,Graduate/Professional Certificate,,,
+2015_2016,001616,Boise State University,Public,Public Policy Analysis.,Doctoral Degree,,,
+2016_2017,001616,Boise State University,Public,Public Policy Analysis.,Doctoral Degree,,,
 2015_2016,001616,Boise State University,Public,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,21,25000,26398
-2015_2016,001616,Boise State University,Public,"Public Relations, Advertising, and Applied Communication.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"Public Relations, Advertising, and Applied Communication.",Post-baccalaureate Certificate,,,
 2016_2017,001616,Boise State University,Public,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,24,25000,23478
-2016_2017,001616,Boise State University,Public,"Public Relations, Advertising, and Applied Communication.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Public Relations, Advertising, and Applied Communication.",Post-baccalaureate Certificate,,,
 2015_2016,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,384,22147,24060
-2015_2016,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
+2015_2016,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
 2016_2017,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,380,20549,22621
-2016_2017,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,17,NA,46901
-2016_2017,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,32243
-2015_2016,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,17,,46901
+2016_2017,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2016_2017,001616,Boise State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
+2015_2016,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,32243
+2015_2016,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Graduate/Professional Certificate,,,
+2016_2017,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
 2015_2016,001616,Boise State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,50,20794,22938
-2016_2017,001616,Boise State University,Public,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,13,NA,19320
+2016_2017,001616,Boise State University,Public,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,13,,19320
 2016_2017,001616,Boise State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,44,26829,25667
-2015_2016,001616,Boise State University,Public,"Social Sciences, General.",Associate's Degree,11,NA,21373
+2015_2016,001616,Boise State University,Public,"Social Sciences, General.",Associate's Degree,11,,21373
 2015_2016,001616,Boise State University,Public,"Social Sciences, General.",Bachelor's Degree,77,25000,28930
-2016_2017,001616,Boise State University,Public,"Social Sciences, General.",Associate's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Social Sciences, General.",Associate's Degree,,,
 2016_2017,001616,Boise State University,Public,"Social Sciences, General.",Bachelor's Degree,75,25000,26216
 2015_2016,001616,Boise State University,Public,Social Work.,Bachelor's Degree,76,24500,23794
 2015_2016,001616,Boise State University,Public,Social Work.,Master's Degree,180,25744,28940
@@ -307,29 +307,29 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,001616,Boise State University,Public,Sociology.,Bachelor's Degree,48,27553,28345
 2016_2017,001616,Boise State University,Public,Sociology.,Bachelor's Degree,45,23500,25796
 2015_2016,001616,Boise State University,Public,Special Education and Teaching.,Bachelor's Degree,22,33600,32802
-2015_2016,001616,Boise State University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,001616,Boise State University,Public,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Special Education and Teaching.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001616,Boise State University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,Special Education and Teaching.,Master's Degree,,,
+2015_2016,001616,Boise State University,Public,Special Education and Teaching.,Graduate/Professional Certificate,,,
+2016_2017,001616,Boise State University,Public,Special Education and Teaching.,Undergraduate Certificate or Diploma,,,
 2016_2017,001616,Boise State University,Public,Special Education and Teaching.,Bachelor's Degree,28,25121,25660
-2016_2017,001616,Boise State University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,Special Education and Teaching.,Master's Degree,,,
 2015_2016,001616,Boise State University,Public,Student Counseling and Personnel Services.,Master's Degree,28,57606,49461
 2016_2017,001616,Boise State University,Public,Student Counseling and Personnel Services.,Master's Degree,25,50098,46432
 2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,83,29687,30668
-2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,99,28506,27379
-2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,,,
 2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,94,27465,29528
-2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
 2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,21,17416,20920
-2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,25189,29259
+2015_2016,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,,25189,29259
 2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,59,24562,26692
-2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
 2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,24,20282,22745
-2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,20500,25459
-2015_2016,001616,Boise State University,Public,Zoology/Animal Biology.,Master's Degree,NA,NA,NA
-2016_2017,001616,Boise State University,Public,Zoology/Animal Biology.,Master's Degree,NA,NA,NA
+2016_2017,001616,Boise State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,,20500,25459
+2015_2016,001616,Boise State University,Public,Zoology/Animal Biology.,Master's Degree,,,
+2016_2017,001616,Boise State University,Public,Zoology/Animal Biology.,Master's Degree,,,

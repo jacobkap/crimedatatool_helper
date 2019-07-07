@@ -1,60 +1,60 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003687,Green Mountain College,Private,Agricultural Production Operations.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Agricultural Production Operations.,Master's Degree,16,NA,26266
-2016_2017,003687,Green Mountain College,Private,Agricultural Production Operations.,Bachelor's Degree,14,NA,22173
+2015_2016,003687,Green Mountain College,Private,Agricultural Production Operations.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Agricultural Production Operations.,Master's Degree,16,,26266
+2016_2017,003687,Green Mountain College,Private,Agricultural Production Operations.,Bachelor's Degree,14,,22173
 2016_2017,003687,Green Mountain College,Private,Agricultural Production Operations.,Master's Degree,24,28260,26068
-2015_2016,003687,Green Mountain College,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Business/Managerial Economics.,Master's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Business/Managerial Economics.,Bachelor's Degree,12,NA,26260
-2016_2017,003687,Green Mountain College,Private,Business/Managerial Economics.,Master's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Communication and Media Studies.,Bachelor's Degree,11,NA,28430
-2015_2016,003687,Green Mountain College,Private,Community Organization and Advocacy.,Master's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Community Organization and Advocacy.,Master's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Environmental Design.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Environmental Design.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Hospitality Administration/Management.,Bachelor's Degree,12,NA,19837
-2015_2016,003687,Green Mountain College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,13,NA,25511
-2015_2016,003687,Green Mountain College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,17,NA,25470
-2015_2016,003687,Green Mountain College,Private,Natural Resources Conservation and Research.,Master's Degree,15,NA,22918
+2015_2016,003687,Green Mountain College,Private,"Biology, General.",Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,"Biology, General.",Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Business/Managerial Economics.,Master's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Business/Managerial Economics.,Bachelor's Degree,12,,26260
+2016_2017,003687,Green Mountain College,Private,Business/Managerial Economics.,Master's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Communication and Media Studies.,Bachelor's Degree,11,,28430
+2015_2016,003687,Green Mountain College,Private,Community Organization and Advocacy.,Master's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Community Organization and Advocacy.,Master's Degree,,,
+2015_2016,003687,Green Mountain College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Environmental Design.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Environmental Design.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,History.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,History.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,003687,Green Mountain College,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,003687,Green Mountain College,Private,Hospitality Administration/Management.,Bachelor's Degree,12,,19837
+2015_2016,003687,Green Mountain College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,,,
+2016_2017,003687,Green Mountain College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,13,,25511
+2015_2016,003687,Green Mountain College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,17,,25470
+2015_2016,003687,Green Mountain College,Private,Natural Resources Conservation and Research.,Master's Degree,15,,22918
 2016_2017,003687,Green Mountain College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,31,24000,23264
 2016_2017,003687,Green Mountain College,Private,Natural Resources Conservation and Research.,Master's Degree,27,24712,24432
-2015_2016,003687,Green Mountain College,Private,Natural Resources Management and Policy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Natural Resources Management and Policy.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,16,NA,23905
-2015_2016,003687,Green Mountain College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,"Psychology, General.",Bachelor's Degree,13,NA,21799
-2015_2016,003687,Green Mountain College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,Sustainability Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,Sustainability Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,003687,Green Mountain College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003687,Green Mountain College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,003687,Green Mountain College,Private,Natural Resources Management and Policy.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Natural Resources Management and Policy.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,16,,23905
+2015_2016,003687,Green Mountain College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,"Psychology, General.",Bachelor's Degree,13,,21799
+2015_2016,003687,Green Mountain College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,Sustainability Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,003687,Green Mountain College,Private,Sustainability Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,003687,Green Mountain College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,003687,Green Mountain College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003687,Green Mountain College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

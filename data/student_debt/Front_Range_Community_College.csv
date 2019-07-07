@@ -1,5 +1,5 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,007933,Front Range Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,15,NA,22191
+2015_2016,007933,Front Range Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,15,,22191
 2015_2016,007933,Front Range Community College,Public,Accounting and Related Services.,Associate's Degree,68,19709,22386
 2016_2017,007933,Front Range Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,36,18706,21818
 2016_2017,007933,Front Range Community College,Public,Accounting and Related Services.,Associate's Degree,81,19000,21161
@@ -9,100 +9,100 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,007933,Front Range Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,36,13875,16096
 2015_2016,007933,Front Range Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,59,6500,10717
 2016_2017,007933,Front Range Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,80,9375,13424
-2016_2017,007933,Front Range Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Alternative and Complementary Medicine and Medical Systems.,Undergraduate Certificate or Diploma,12,NA,19044
-2015_2016,007933,Front Range Community College,Public,Alternative and Complementary Medicine and Medical Systems.,Associate's Degree,NA,20750,19591
+2016_2017,007933,Front Range Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2015_2016,007933,Front Range Community College,Public,Alternative and Complementary Medicine and Medical Systems.,Undergraduate Certificate or Diploma,12,,19044
+2015_2016,007933,Front Range Community College,Public,Alternative and Complementary Medicine and Medical Systems.,Associate's Degree,,20750,19591
 2016_2017,007933,Front Range Community College,Public,Alternative and Complementary Medicine and Medical Systems.,Undergraduate Certificate or Diploma,26,16500,19089
-2016_2017,007933,Front Range Community College,Public,Alternative and Complementary Medicine and Medical Systems.,Associate's Degree,NA,16125,17522
-2015_2016,007933,Front Range Community College,Public,American Sign Language.,Associate's Degree,10,NA,19713
-2016_2017,007933,Front Range Community College,Public,American Sign Language.,Associate's Degree,12,NA,15669
-2015_2016,007933,Front Range Community College,Public,Animal Sciences.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Animal Sciences.,Associate's Degree,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,Animal Sciences.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,Animal Sciences.,Associate's Degree,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,17,NA,21318
+2016_2017,007933,Front Range Community College,Public,Alternative and Complementary Medicine and Medical Systems.,Associate's Degree,,16125,17522
+2015_2016,007933,Front Range Community College,Public,American Sign Language.,Associate's Degree,10,,19713
+2016_2017,007933,Front Range Community College,Public,American Sign Language.,Associate's Degree,12,,15669
+2015_2016,007933,Front Range Community College,Public,Animal Sciences.,Undergraduate Certificate or Diploma,,,
+2015_2016,007933,Front Range Community College,Public,Animal Sciences.,Associate's Degree,,,
+2016_2017,007933,Front Range Community College,Public,Animal Sciences.,Undergraduate Certificate or Diploma,,,
+2016_2017,007933,Front Range Community College,Public,Animal Sciences.,Associate's Degree,,,
+2015_2016,007933,Front Range Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,17,,21318
 2015_2016,007933,Front Range Community College,Public,Applied Horticulture and Horticultural Business Services.,Associate's Degree,23,16903,20058
-2016_2017,007933,Front Range Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,18,NA,19540
+2016_2017,007933,Front Range Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,18,,19540
 2016_2017,007933,Front Range Community College,Public,Applied Horticulture and Horticultural Business Services.,Associate's Degree,22,16701,19600
-2015_2016,007933,Front Range Community College,Public,Architectural Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,Architectural Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,Audiovisual Communications Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2015_2016,007933,Front Range Community College,Public,Architectural Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,007933,Front Range Community College,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,007933,Front Range Community College,Public,Architectural Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,007933,Front Range Community College,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,007933,Front Range Community College,Public,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,007933,Front Range Community College,Public,Audiovisual Communications Technologies/Technicians.,Associate's Degree,,,
 2015_2016,007933,Front Range Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,38,15166,19504
-2015_2016,007933,Front Range Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,15550,18364
+2015_2016,007933,Front Range Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,,15550,18364
 2016_2017,007933,Front Range Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,205,17000,19853
-2016_2017,007933,Front Range Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,17500,19390
-2015_2016,007933,Front Range Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,007933,Front Range Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,,17500,19390
+2015_2016,007933,Front Range Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2016_2017,007933,Front Range Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,34,15848,15666
 2015_2016,007933,Front Range Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,26,14375,16877
 2015_2016,007933,Front Range Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,38,21745,22999
 2016_2017,007933,Front Range Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,31,14250,16884
 2016_2017,007933,Front Range Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,47,22241,23024
-2015_2016,007933,Front Range Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,11,NA,15486
+2015_2016,007933,Front Range Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,11,,15486
 2015_2016,007933,Front Range Community College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,26,13386,16206
 2016_2017,007933,Front Range Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,38,18250,20085
 2016_2017,007933,Front Range Community College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,46,14125,18078
 2015_2016,007933,Front Range Community College,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,22,8885,9674
 2016_2017,007933,Front Range Community College,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,22,10650,11607
-2015_2016,007933,Front Range Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Design and Applied Arts.,Associate's Degree,14,NA,23925
-2016_2017,007933,Front Range Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,13,NA,18667
+2015_2016,007933,Front Range Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,007933,Front Range Community College,Public,Design and Applied Arts.,Associate's Degree,14,,23925
+2016_2017,007933,Front Range Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,13,,18667
 2016_2017,007933,Front Range Community College,Public,Design and Applied Arts.,Associate's Degree,21,18751,18287
-2015_2016,007933,Front Range Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,16,NA,17354
-2016_2017,007933,Front Range Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,18,NA,16403
-2016_2017,007933,Front Range Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,18,NA,14426
-2015_2016,007933,Front Range Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,14,NA,20781
-2016_2017,007933,Front Range Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,18,NA,17239
+2015_2016,007933,Front Range Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,007933,Front Range Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,16,,17354
+2016_2017,007933,Front Range Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,18,,16403
+2016_2017,007933,Front Range Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,18,,14426
+2015_2016,007933,Front Range Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,007933,Front Range Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,14,,20781
+2016_2017,007933,Front Range Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,18,,17239
 2016_2017,007933,Front Range Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,21,14210,17123
 2015_2016,007933,Front Range Community College,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,21,9500,11194
-2016_2017,007933,Front Range Community College,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,17,NA,14193
-2015_2016,007933,Front Range Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,14,NA,16218
+2016_2017,007933,Front Range Community College,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,17,,14193
+2015_2016,007933,Front Range Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,14,,16218
 2015_2016,007933,Front Range Community College,Public,Graphic Communications.,Associate's Degree,33,17500,18899
 2016_2017,007933,Front Range Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,35,13500,18624
 2016_2017,007933,Front Range Community College,Public,Graphic Communications.,Associate's Degree,41,17351,17705
-2015_2016,007933,Front Range Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,12,NA,25350
+2015_2016,007933,Front Range Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,12,,25350
 2015_2016,007933,Front Range Community College,Public,Health and Medical Administrative Services.,Associate's Degree,41,20000,22066
 2016_2017,007933,Front Range Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,27,23749,28195
 2016_2017,007933,Front Range Community College,Public,Health and Medical Administrative Services.,Associate's Degree,52,20088,24152
-2016_2017,007933,Front Range Community College,Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,10,NA,18359
+2016_2017,007933,Front Range Community College,Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,007933,Front Range Community College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,007933,Front Range Community College,Public,Hospitality Administration/Management.,Associate's Degree,,,
+2016_2017,007933,Front Range Community College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,007933,Front Range Community College,Public,Hospitality Administration/Management.,Associate's Degree,,,
+2015_2016,007933,Front Range Community College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,10,,18359
 2015_2016,007933,Front Range Community College,Public,Legal Support Services.,Associate's Degree,23,14773,20245
-2016_2017,007933,Front Range Community College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,12,NA,24577
-2016_2017,007933,Front Range Community College,Public,Legal Support Services.,Associate's Degree,17,NA,23364
+2016_2017,007933,Front Range Community College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,12,,24577
+2016_2017,007933,Front Range Community College,Public,Legal Support Services.,Associate's Degree,17,,23364
 2015_2016,007933,Front Range Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,979,14500,17919
 2016_2017,007933,Front Range Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,1088,14250,17284
 2015_2016,007933,Front Range Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,128,14237,19399
 2016_2017,007933,Front Range Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,148,12232,17696
-2015_2016,007933,Front Range Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,15,NA,15595
-2015_2016,007933,Front Range Community College,Public,Precision Metal Working.,Associate's Degree,14,NA,10171
+2015_2016,007933,Front Range Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,15,,15595
+2015_2016,007933,Front Range Community College,Public,Precision Metal Working.,Associate's Degree,14,,10171
 2016_2017,007933,Front Range Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,38,11250,15333
 2016_2017,007933,Front Range Community College,Public,Precision Metal Working.,Associate's Degree,22,14250,15602
-2015_2016,007933,Front Range Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,007933,Front Range Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2015_2016,007933,Front Range Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,239,20501,22503
-2016_2017,007933,Front Range Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,007933,Front Range Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2016_2017,007933,Front Range Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,261,19250,21216
-2015_2016,007933,Front Range Community College,Public,"Science Technologies/Technicians, Other.",Associate's Degree,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,"Science Technologies/Technicians, Other.",Associate's Degree,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,007933,Front Range Community College,Public,"Science Technologies/Technicians, Other.",Associate's Degree,,,
+2016_2017,007933,Front Range Community College,Public,"Science Technologies/Technicians, Other.",Associate's Degree,,,
+2016_2017,007933,Front Range Community College,Public,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,007933,Front Range Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,21,19000,21294
-2015_2016,007933,Front Range Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,18,NA,20350
+2015_2016,007933,Front Range Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,18,,20350
 2016_2017,007933,Front Range Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,39,13750,19552
-2016_2017,007933,Front Range Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,19,NA,24839
-2015_2016,007933,Front Range Community College,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,007933,Front Range Community College,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,13,NA,16052
+2016_2017,007933,Front Range Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,19,,24839
+2015_2016,007933,Front Range Community College,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,,,
+2016_2017,007933,Front Range Community College,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,,,
+2015_2016,007933,Front Range Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,13,,16052
 2015_2016,007933,Front Range Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,29,20000,19109
 2016_2017,007933,Front Range Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,30,9875,14241
 2016_2017,007933,Front Range Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,26,15187,17684
-2015_2016,007933,Front Range Community College,Public,Wildlife and Wildlands Science and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,007933,Front Range Community College,Public,Wildlife and Wildlands Science and Management.,Associate's Degree,NA,NA,14739
+2015_2016,007933,Front Range Community College,Public,Wildlife and Wildlands Science and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,007933,Front Range Community College,Public,Wildlife and Wildlands Science and Management.,Associate's Degree,,,14739
 2016_2017,007933,Front Range Community College,Public,Wildlife and Wildlands Science and Management.,Undergraduate Certificate or Diploma,20,14238,13356
-2016_2017,007933,Front Range Community College,Public,Wildlife and Wildlands Science and Management.,Associate's Degree,NA,12625,14260
+2016_2017,007933,Front Range Community College,Public,Wildlife and Wildlands Science and Management.,Associate's Degree,,12625,14260

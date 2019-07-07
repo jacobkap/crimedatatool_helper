@@ -1,19 +1,19 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,010198,Ecpi University,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
+2015_2016,010198,Ecpi University,Proprietary,Accounting and Related Services.,Associate's Degree,,,
 2015_2016,010198,Ecpi University,Proprietary,Accounting and Related Services.,Bachelor's Degree,37,32010,30167
 2016_2017,010198,Ecpi University,Proprietary,Accounting and Related Services.,Bachelor's Degree,46,37807,35693
-2015_2016,010198,Ecpi University,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,010198,Ecpi University,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,010198,Ecpi University,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,921,16342,16792
 2016_2017,010198,Ecpi University,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,31,12585,12973
 2016_2017,010198,Ecpi University,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,1107,16357,16756
 2015_2016,010198,Ecpi University,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,118,23020,23355
 2016_2017,010198,Ecpi University,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,128,23000,22224
-2016_2017,010198,Ecpi University,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
+2016_2017,010198,Ecpi University,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
 2015_2016,010198,Ecpi University,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,122,37514,34907
-2015_2016,010198,Ecpi University,Proprietary,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
+2015_2016,010198,Ecpi University,Proprietary,"Business Administration, Management and Operations.",Master's Degree,,,
 2016_2017,010198,Ecpi University,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,161,35045,31846
 2016_2017,010198,Ecpi University,Proprietary,"Business Administration, Management and Operations.",Master's Degree,42,22617,23614
-2015_2016,010198,Ecpi University,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,NA,39619,36477
+2015_2016,010198,Ecpi University,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,,39619,36477
 2015_2016,010198,Ecpi University,Proprietary,"Computer and Information Sciences, General.",Master's Degree,22,25448,23075
 2016_2017,010198,Ecpi University,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,24,41915,36520
 2016_2017,010198,Ecpi University,Proprietary,"Computer and Information Sciences, General.",Master's Degree,27,25528,23905
@@ -21,36 +21,36 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,010198,Ecpi University,Proprietary,Computer Engineering Technologies/Technicians.,Bachelor's Degree,85,33250,30980
 2016_2017,010198,Ecpi University,Proprietary,Computer Engineering Technologies/Technicians.,Associate's Degree,148,23869,22948
 2016_2017,010198,Ecpi University,Proprietary,Computer Engineering Technologies/Technicians.,Bachelor's Degree,90,37158,31757
-2015_2016,010198,Ecpi University,Proprietary,Computer Programming.,Associate's Degree,19,NA,23071
+2015_2016,010198,Ecpi University,Proprietary,Computer Programming.,Associate's Degree,19,,23071
 2015_2016,010198,Ecpi University,Proprietary,Computer Programming.,Bachelor's Degree,63,31016,31317
 2016_2017,010198,Ecpi University,Proprietary,Computer Programming.,Associate's Degree,25,26124,24207
 2016_2017,010198,Ecpi University,Proprietary,Computer Programming.,Bachelor's Degree,91,34203,33856
-2015_2016,010198,Ecpi University,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,010198,Ecpi University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2016_2017,010198,Ecpi University,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,010198,Ecpi University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2015_2016,010198,Ecpi University,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010198,Ecpi University,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010198,Ecpi University,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,010198,Ecpi University,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,010198,Ecpi University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,,,
+2016_2017,010198,Ecpi University,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,010198,Ecpi University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,,,
+2015_2016,010198,Ecpi University,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2016_2017,010198,Ecpi University,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2015_2016,010198,Ecpi University,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
 2015_2016,010198,Ecpi University,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,262,23207,22372
 2015_2016,010198,Ecpi University,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,258,37198,34258
-2015_2016,010198,Ecpi University,Proprietary,Computer/Information Technology Administration and Management.,Master's Degree,NA,NA,NA
+2015_2016,010198,Ecpi University,Proprietary,Computer/Information Technology Administration and Management.,Master's Degree,,,
 2016_2017,010198,Ecpi University,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,333,23476,22993
 2016_2017,010198,Ecpi University,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,361,36177,33072
-2016_2017,010198,Ecpi University,Proprietary,Computer/Information Technology Administration and Management.,Master's Degree,12,NA,20349
-2015_2016,010198,Ecpi University,Proprietary,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,010198,Ecpi University,Proprietary,Computer/Information Technology Administration and Management.,Master's Degree,12,,20349
+2015_2016,010198,Ecpi University,Proprietary,Criminal Justice and Corrections.,Associate's Degree,,,
 2015_2016,010198,Ecpi University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,149,31421,28772
 2016_2017,010198,Ecpi University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,172,31014,28420
-2015_2016,010198,Ecpi University,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,010198,Ecpi University,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,010198,Ecpi University,Proprietary,Culinary Arts and Related Services.,Associate's Degree,198,17532,16602
-2016_2017,010198,Ecpi University,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,010198,Ecpi University,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,010198,Ecpi University,Proprietary,Culinary Arts and Related Services.,Associate's Degree,238,18464,17380
 2015_2016,010198,Ecpi University,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,112,14282,15295
 2016_2017,010198,Ecpi University,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,139,15143,15670
-2015_2016,010198,Ecpi University,Proprietary,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010198,Ecpi University,Proprietary,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2015_2016,010198,Ecpi University,Proprietary,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010198,Ecpi University,Proprietary,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
 2015_2016,010198,Ecpi University,Proprietary,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Bachelor's Degree,70,39488,36959
-2016_2017,010198,Ecpi University,Proprietary,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2016_2017,010198,Ecpi University,Proprietary,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
 2016_2017,010198,Ecpi University,Proprietary,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Bachelor's Degree,83,39044,35451
 2015_2016,010198,Ecpi University,Proprietary,Health and Medical Administrative Services.,Associate's Degree,57,20000,20405
 2015_2016,010198,Ecpi University,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,98,39604,38128
@@ -60,19 +60,19 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,010198,Ecpi University,Proprietary,Hospitality Administration/Management.,Bachelor's Degree,44,27471,24721
 2015_2016,010198,Ecpi University,Proprietary,Management Information Systems and Services.,Bachelor's Degree,46,36276,32089
 2016_2017,010198,Ecpi University,Proprietary,Management Information Systems and Services.,Bachelor's Degree,45,36009,31633
-2015_2016,010198,Ecpi University,Proprietary,Marine Transportation.,Associate's Degree,NA,NA,NA
-2015_2016,010198,Ecpi University,Proprietary,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,010198,Ecpi University,Proprietary,Mechanical Engineering Related Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,010198,Ecpi University,Proprietary,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,010198,Ecpi University,Proprietary,Mechanical Engineering Related Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2015_2016,010198,Ecpi University,Proprietary,Marine Transportation.,Associate's Degree,,,
+2015_2016,010198,Ecpi University,Proprietary,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,,,
+2015_2016,010198,Ecpi University,Proprietary,Mechanical Engineering Related Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,010198,Ecpi University,Proprietary,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,,,
+2016_2017,010198,Ecpi University,Proprietary,Mechanical Engineering Related Technologies/Technicians.,Bachelor's Degree,,,
 2015_2016,010198,Ecpi University,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,951,20000,19047
-2015_2016,010198,Ecpi University,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,NA,NA
+2015_2016,010198,Ecpi University,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,,
 2016_2017,010198,Ecpi University,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,1044,20000,20135
 2015_2016,010198,Ecpi University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,459,26637,25791
 2015_2016,010198,Ecpi University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,20,28547,28821
-2015_2016,010198,Ecpi University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2015_2016,010198,Ecpi University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2016_2017,010198,Ecpi University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,428,26539,25940
-2016_2017,010198,Ecpi University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,12500,17460
-2016_2017,010198,Ecpi University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2016_2017,010198,Ecpi University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,12500,17460
+2016_2017,010198,Ecpi University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2015_2016,010198,Ecpi University,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,35,14584,14663
 2016_2017,010198,Ecpi University,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,41,14761,16164

@@ -1,24 +1,24 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,002107,Stevenson University,Private,Accounting and Related Services.,Bachelor's Degree,30,27000,26880
 2016_2017,002107,Stevenson University,Private,Accounting and Related Services.,Bachelor's Degree,34,27000,27420
-2015_2016,002107,Stevenson University,Private,Applied Mathematics.,Bachelor's Degree,11,NA,22119
-2016_2017,002107,Stevenson University,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002107,Stevenson University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,17,NA,29663
-2016_2017,002107,Stevenson University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,19,NA,27309
+2015_2016,002107,Stevenson University,Private,Applied Mathematics.,Bachelor's Degree,11,,22119
+2016_2017,002107,Stevenson University,Private,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,002107,Stevenson University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,17,,29663
+2016_2017,002107,Stevenson University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,19,,27309
 2015_2016,002107,Stevenson University,Private,"Biology, General.",Bachelor's Degree,47,27000,29857
 2016_2017,002107,Stevenson University,Private,"Biology, General.",Bachelor's Degree,36,27000,31552
-2015_2016,002107,Stevenson University,Private,Biotechnology.,Bachelor's Degree,12,NA,24279
-2016_2017,002107,Stevenson University,Private,Biotechnology.,Bachelor's Degree,13,NA,23078
+2015_2016,002107,Stevenson University,Private,Biotechnology.,Bachelor's Degree,12,,24279
+2016_2017,002107,Stevenson University,Private,Biotechnology.,Bachelor's Degree,13,,23078
 2015_2016,002107,Stevenson University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,114,27000,27257
 2016_2017,002107,Stevenson University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,102,27000,26325
 2015_2016,002107,Stevenson University,Private,Business/Corporate Communications.,Bachelor's Degree,57,27000,26335
 2016_2017,002107,Stevenson University,Private,Business/Corporate Communications.,Bachelor's Degree,66,25641,24790
-2015_2016,002107,Stevenson University,Private,Chemistry.,Bachelor's Degree,12,NA,31080
-2016_2017,002107,Stevenson University,Private,Chemistry.,Bachelor's Degree,14,NA,30899
-2015_2016,002107,Stevenson University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,002107,Stevenson University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,002107,Stevenson University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
-2016_2017,002107,Stevenson University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,002107,Stevenson University,Private,Chemistry.,Bachelor's Degree,12,,31080
+2016_2017,002107,Stevenson University,Private,Chemistry.,Bachelor's Degree,14,,30899
+2015_2016,002107,Stevenson University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,002107,Stevenson University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,002107,Stevenson University,Private,Communication and Media Studies.,Master's Degree,,,
+2016_2017,002107,Stevenson University,Private,Communication and Media Studies.,Master's Degree,,,
 2015_2016,002107,Stevenson University,Private,Computer Systems Networking and Telecommunications.,Bachelor's Degree,79,27000,26404
 2016_2017,002107,Stevenson University,Private,Computer Systems Networking and Telecommunications.,Bachelor's Degree,73,27000,26443
 2015_2016,002107,Stevenson University,Private,Criminal Justice and Corrections.,Bachelor's Degree,90,27000,27336
@@ -27,36 +27,36 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,002107,Stevenson University,Private,Criminal Justice and Corrections.,Master's Degree,36,29838,32183
 2015_2016,002107,Stevenson University,Private,Design and Applied Arts.,Bachelor's Degree,49,27000,25888
 2016_2017,002107,Stevenson University,Private,Design and Applied Arts.,Bachelor's Degree,32,27000,27128
-2016_2017,002107,Stevenson University,Private,Design and Applied Arts.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002107,Stevenson University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002107,Stevenson University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,002107,Stevenson University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002107,Stevenson University,Private,"English Language and Literature, General.",Bachelor's Degree,11,NA,26985
+2016_2017,002107,Stevenson University,Private,Design and Applied Arts.,Post-baccalaureate Certificate,,,
+2015_2016,002107,Stevenson University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002107,Stevenson University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,002107,Stevenson University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,002107,Stevenson University,Private,"English Language and Literature, General.",Bachelor's Degree,11,,26985
 2015_2016,002107,Stevenson University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,25,26000,26477
 2016_2017,002107,Stevenson University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,24,27000,27551
-2015_2016,002107,Stevenson University,Private,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2016_2017,002107,Stevenson University,Private,Health and Medical Administrative Services.,Master's Degree,16,NA,41162
-2015_2016,002107,Stevenson University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002107,Stevenson University,Private,History.,Bachelor's Degree,NA,NA,NA
+2015_2016,002107,Stevenson University,Private,Health and Medical Administrative Services.,Master's Degree,,,
+2016_2017,002107,Stevenson University,Private,Health and Medical Administrative Services.,Master's Degree,16,,41162
+2015_2016,002107,Stevenson University,Private,History.,Bachelor's Degree,,,
+2016_2017,002107,Stevenson University,Private,History.,Bachelor's Degree,,,
 2015_2016,002107,Stevenson University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,67,27000,27216
 2016_2017,002107,Stevenson University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,67,27000,27105
-2015_2016,002107,Stevenson University,Private,Information Science/Studies.,Bachelor's Degree,17,NA,30191
+2015_2016,002107,Stevenson University,Private,Information Science/Studies.,Bachelor's Degree,17,,30191
 2015_2016,002107,Stevenson University,Private,Information Science/Studies.,Master's Degree,35,30750,32852
-2016_2017,002107,Stevenson University,Private,Information Science/Studies.,Bachelor's Degree,18,NA,29515
+2016_2017,002107,Stevenson University,Private,Information Science/Studies.,Bachelor's Degree,18,,29515
 2016_2017,002107,Stevenson University,Private,Information Science/Studies.,Master's Degree,46,30260,33377
 2015_2016,002107,Stevenson University,Private,"Legal Professions and Studies, Other.",Master's Degree,53,41445,41505
 2016_2017,002107,Stevenson University,Private,"Legal Professions and Studies, Other.",Master's Degree,64,41000,38816
 2015_2016,002107,Stevenson University,Private,Legal Support Services.,Bachelor's Degree,45,27000,29391
 2016_2017,002107,Stevenson University,Private,Legal Support Services.,Bachelor's Degree,42,27500,30845
 2015_2016,002107,Stevenson University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,48,29687,30646
-2015_2016,002107,Stevenson University,Private,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
+2015_2016,002107,Stevenson University,Private,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
 2016_2017,002107,Stevenson University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,60,30525,29789
-2015_2016,002107,Stevenson University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,002107,Stevenson University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
+2015_2016,002107,Stevenson University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,002107,Stevenson University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
 2015_2016,002107,Stevenson University,Private,"Psychology, General.",Bachelor's Degree,60,27000,28236
 2016_2017,002107,Stevenson University,Private,"Psychology, General.",Bachelor's Degree,70,27000,26731
-2015_2016,002107,Stevenson University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,002107,Stevenson University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
+2015_2016,002107,Stevenson University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
+2016_2017,002107,Stevenson University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
 2015_2016,002107,Stevenson University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,186,24712,23023
 2015_2016,002107,Stevenson University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,43,42215,35950
 2016_2017,002107,Stevenson University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,205,25000,23613
@@ -64,7 +64,7 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,002107,Stevenson University,Private,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,23,25000,25535
 2016_2017,002107,Stevenson University,Private,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,31,26500,27527
 2015_2016,002107,Stevenson University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,84,26849,24064
-2015_2016,002107,Stevenson University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,002107,Stevenson University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,002107,Stevenson University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,89,26750,24074
-2016_2017,002107,Stevenson University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002107,Stevenson University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2016_2017,002107,Stevenson University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,002107,Stevenson University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,

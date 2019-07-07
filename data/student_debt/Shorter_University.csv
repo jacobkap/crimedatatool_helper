@@ -1,83 +1,83 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001591,Shorter University,Private,Accounting and Related Services.,Bachelor's Degree,10,NA,19868
-2015_2016,001591,Shorter University,Private,Accounting and Related Services.,Master's Degree,13,NA,23478
-2016_2017,001591,Shorter University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Accounting and Related Services.,Master's Degree,13,NA,21720
+2015_2016,001591,Shorter University,Private,Accounting and Related Services.,Bachelor's Degree,10,,19868
+2015_2016,001591,Shorter University,Private,Accounting and Related Services.,Master's Degree,13,,23478
+2016_2017,001591,Shorter University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Accounting and Related Services.,Master's Degree,13,,21720
 2015_2016,001591,Shorter University,Private,"Biology, General.",Bachelor's Degree,21,19500,20731
-2016_2017,001591,Shorter University,Private,"Biology, General.",Bachelor's Degree,16,NA,18313
-2015_2016,001591,Shorter University,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,001591,Shorter University,Private,"Biology, General.",Bachelor's Degree,16,,18313
+2015_2016,001591,Shorter University,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,001591,Shorter University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,238,38062,36009
 2015_2016,001591,Shorter University,Private,"Business Administration, Management and Operations.",Master's Degree,155,26630,25915
-2016_2017,001591,Shorter University,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,001591,Shorter University,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,001591,Shorter University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,226,38360,35684
 2016_2017,001591,Shorter University,Private,"Business Administration, Management and Operations.",Master's Degree,166,27259,27521
-2015_2016,001591,Shorter University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Communication and Media Studies.,Bachelor's Degree,10,NA,28516
-2016_2017,001591,Shorter University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2015_2016,001591,Shorter University,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Communication and Media Studies.,Bachelor's Degree,10,,28516
+2016_2017,001591,Shorter University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2015_2016,001591,Shorter University,Private,Criminal Justice and Corrections.,Bachelor's Degree,36,25465,24064
-2016_2017,001591,Shorter University,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,001591,Shorter University,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2016_2017,001591,Shorter University,Private,Criminal Justice and Corrections.,Bachelor's Degree,39,26000,26552
-2015_2016,001591,Shorter University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
+2015_2016,001591,Shorter University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Economics.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Economics.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Health and Physical Education/Fitness.,Associate's Degree,,,
 2015_2016,001591,Shorter University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,30,23626,22567
-2016_2017,001591,Shorter University,Private,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
+2016_2017,001591,Shorter University,Private,Health and Physical Education/Fitness.,Associate's Degree,,,
 2016_2017,001591,Shorter University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,38,22059,22605
-2015_2016,001591,Shorter University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,History.,Bachelor's Degree,NA,NA,NA
+2015_2016,001591,Shorter University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,History.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,History.,Bachelor's Degree,,,
 2015_2016,001591,Shorter University,Private,"Human Services, General.",Bachelor's Degree,107,48438,42477
 2016_2017,001591,Shorter University,Private,"Human Services, General.",Bachelor's Degree,99,42585,40287
-2015_2016,001591,Shorter University,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,001591,Shorter University,Private,International/Global Studies.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,International/Global Studies.,Bachelor's Degree,,,
 2015_2016,001591,Shorter University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,149,24250,22858
 2015_2016,001591,Shorter University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,32,25875,25179
 2016_2017,001591,Shorter University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,146,24250,23080
-2016_2017,001591,Shorter University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,21317,25176
-2015_2016,001591,Shorter University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Music.,Bachelor's Degree,10,NA,21082
-2015_2016,001591,Shorter University,Private,Natural Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Natural Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2016_2017,001591,Shorter University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,21317,25176
+2015_2016,001591,Shorter University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Music.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Music.,Bachelor's Degree,10,,21082
+2015_2016,001591,Shorter University,Private,Natural Sciences.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Natural Sciences.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,001591,Shorter University,Private,"Psychology, General.",Bachelor's Degree,28,27000,27654
-2016_2017,001591,Shorter University,Private,"Psychology, General.",Bachelor's Degree,19,NA,31848
+2016_2017,001591,Shorter University,Private,"Psychology, General.",Bachelor's Degree,19,,31848
 2015_2016,001591,Shorter University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,29,29000,26568
 2016_2017,001591,Shorter University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,41,25000,24928
-2015_2016,001591,Shorter University,Private,Religion/Religious Studies.,Bachelor's Degree,10,NA,23937
-2016_2017,001591,Shorter University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001591,Shorter University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
+2015_2016,001591,Shorter University,Private,Religion/Religious Studies.,Bachelor's Degree,10,,23937
+2016_2017,001591,Shorter University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001591,Shorter University,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Sociology.,Bachelor's Degree,,,
 2015_2016,001591,Shorter University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,57,32250,35021
-2015_2016,001591,Shorter University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,31911
-2016_2017,001591,Shorter University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,16,NA,25799
-2015_2016,001591,Shorter University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,11,NA,24688
-2016_2017,001591,Shorter University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,13,NA,26459
-2015_2016,001591,Shorter University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001591,Shorter University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,001591,Shorter University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,31911
+2016_2017,001591,Shorter University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,16,,25799
+2015_2016,001591,Shorter University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,11,,24688
+2016_2017,001591,Shorter University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,13,,26459
+2015_2016,001591,Shorter University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,001591,Shorter University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,

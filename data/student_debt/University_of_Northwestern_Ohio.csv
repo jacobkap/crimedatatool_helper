@@ -1,11 +1,11 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,004861,University of Northwestern Ohio,Private,Accounting and Related Services.,Associate's Degree,14,NA,23612
+2015_2016,004861,University of Northwestern Ohio,Private,Accounting and Related Services.,Associate's Degree,14,,23612
 2015_2016,004861,University of Northwestern Ohio,Private,Accounting and Related Services.,Bachelor's Degree,30,31000,31692
-2016_2017,004861,University of Northwestern Ohio,Private,Accounting and Related Services.,Associate's Degree,11,NA,22491
+2016_2017,004861,University of Northwestern Ohio,Private,Accounting and Related Services.,Associate's Degree,11,,22491
 2016_2017,004861,University of Northwestern Ohio,Private,Accounting and Related Services.,Bachelor's Degree,31,30303,30713
-2015_2016,004861,University of Northwestern Ohio,Private,Agricultural Business and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,004861,University of Northwestern Ohio,Private,Agricultural Business and Management.,Undergraduate Certificate or Diploma,,,
 2015_2016,004861,University of Northwestern Ohio,Private,Agricultural Business and Management.,Associate's Degree,35,18167,17911
-2016_2017,004861,University of Northwestern Ohio,Private,Agricultural Business and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,004861,University of Northwestern Ohio,Private,Agricultural Business and Management.,Undergraduate Certificate or Diploma,,,
 2016_2017,004861,University of Northwestern Ohio,Private,Agricultural Business and Management.,Associate's Degree,36,18667,20435
 2015_2016,004861,University of Northwestern Ohio,Private,Agricultural Mechanization.,Undergraduate Certificate or Diploma,26,15292,17624
 2015_2016,004861,University of Northwestern Ohio,Private,Agricultural Mechanization.,Associate's Degree,48,18500,18828
@@ -19,54 +19,54 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,004861,University of Northwestern Ohio,Private,"Business Administration, Management and Operations.",Associate's Degree,29,23406,22707
 2016_2017,004861,University of Northwestern Ohio,Private,"Business Administration, Management and Operations.",Bachelor's Degree,137,31000,32124
 2016_2017,004861,University of Northwestern Ohio,Private,"Business Administration, Management and Operations.",Master's Degree,40,41000,36318
-2015_2016,004861,University of Northwestern Ohio,Private,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,Computer Software and Media Applications.,Associate's Degree,NA,NA,18644
-2016_2017,004861,University of Northwestern Ohio,Private,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Computer Software and Media Applications.,Associate's Degree,NA,NA,22881
-2015_2016,004861,University of Northwestern Ohio,Private,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,Computer/Information Technology Administration and Management.,Associate's Degree,16,NA,17304
-2016_2017,004861,University of Northwestern Ohio,Private,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Computer/Information Technology Administration and Management.,Associate's Degree,18,NA,18909
-2015_2016,004861,University of Northwestern Ohio,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,37746
-2016_2017,004861,University of Northwestern Ohio,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,35659
-2015_2016,004861,University of Northwestern Ohio,Private,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2015_2016,004861,University of Northwestern Ohio,Private,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,004861,University of Northwestern Ohio,Private,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,004861,University of Northwestern Ohio,Private,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,004861,University of Northwestern Ohio,Private,Computer Software and Media Applications.,Associate's Degree,,,18644
+2016_2017,004861,University of Northwestern Ohio,Private,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Computer Software and Media Applications.,Associate's Degree,,,22881
+2015_2016,004861,University of Northwestern Ohio,Private,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,004861,University of Northwestern Ohio,Private,Computer/Information Technology Administration and Management.,Associate's Degree,16,,17304
+2016_2017,004861,University of Northwestern Ohio,Private,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Computer/Information Technology Administration and Management.,Associate's Degree,18,,18909
+2015_2016,004861,University of Northwestern Ohio,Private,Criminal Justice and Corrections.,Associate's Degree,,,
+2015_2016,004861,University of Northwestern Ohio,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,37746
+2016_2017,004861,University of Northwestern Ohio,Private,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,35659
+2015_2016,004861,University of Northwestern Ohio,Private,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
 2015_2016,004861,University of Northwestern Ohio,Private,Ground Transportation.,Undergraduate Certificate or Diploma,51,23917,23771
 2016_2017,004861,University of Northwestern Ohio,Private,Ground Transportation.,Undergraduate Certificate or Diploma,59,22750,23224
-2015_2016,004861,University of Northwestern Ohio,Private,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,18,NA,28021
+2015_2016,004861,University of Northwestern Ohio,Private,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,18,,28021
 2015_2016,004861,University of Northwestern Ohio,Private,Health and Medical Administrative Services.,Associate's Degree,69,23500,23739
-2015_2016,004861,University of Northwestern Ohio,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,41010
-2016_2017,004861,University of Northwestern Ohio,Private,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,004861,University of Northwestern Ohio,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,41010
+2016_2017,004861,University of Northwestern Ohio,Private,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,004861,University of Northwestern Ohio,Private,Health and Medical Administrative Services.,Associate's Degree,41,23500,21589
-2016_2017,004861,University of Northwestern Ohio,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,34365
-2015_2016,004861,University of Northwestern Ohio,Private,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,11,NA,11886
+2016_2017,004861,University of Northwestern Ohio,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,34365
+2015_2016,004861,University of Northwestern Ohio,Private,Health and Physical Education/Fitness.,Associate's Degree,,,
+2015_2016,004861,University of Northwestern Ohio,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Health and Physical Education/Fitness.,Associate's Degree,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,004861,University of Northwestern Ohio,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,11,,11886
 2015_2016,004861,University of Northwestern Ohio,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,32,15280,15720
-2016_2017,004861,University of Northwestern Ohio,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,004861,University of Northwestern Ohio,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
 2016_2017,004861,University of Northwestern Ohio,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,34,13084,14545
-2015_2016,004861,University of Northwestern Ohio,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,Hospitality Administration/Management.,Associate's Degree,13,NA,22967
-2016_2017,004861,University of Northwestern Ohio,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Hospitality Administration/Management.,Associate's Degree,14,NA,19821
-2015_2016,004861,University of Northwestern Ohio,Private,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,Legal Support Services.,Associate's Degree,NA,NA,28402
-2016_2017,004861,University of Northwestern Ohio,Private,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Legal Support Services.,Associate's Degree,NA,NA,28712
-2015_2016,004861,University of Northwestern Ohio,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,Marketing.,Associate's Degree,NA,NA,NA
-2015_2016,004861,University of Northwestern Ohio,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,004861,University of Northwestern Ohio,Private,Marketing.,Associate's Degree,11,NA,21549
-2016_2017,004861,University of Northwestern Ohio,Private,Marketing.,Bachelor's Degree,15,NA,32589
+2015_2016,004861,University of Northwestern Ohio,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,004861,University of Northwestern Ohio,Private,Hospitality Administration/Management.,Associate's Degree,13,,22967
+2016_2017,004861,University of Northwestern Ohio,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Hospitality Administration/Management.,Associate's Degree,14,,19821
+2015_2016,004861,University of Northwestern Ohio,Private,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,004861,University of Northwestern Ohio,Private,Legal Support Services.,Associate's Degree,,,28402
+2016_2017,004861,University of Northwestern Ohio,Private,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Legal Support Services.,Associate's Degree,,,28712
+2015_2016,004861,University of Northwestern Ohio,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,004861,University of Northwestern Ohio,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,004861,University of Northwestern Ohio,Private,Marketing.,Associate's Degree,,,
+2015_2016,004861,University of Northwestern Ohio,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,004861,University of Northwestern Ohio,Private,Marketing.,Associate's Degree,11,,21549
+2016_2017,004861,University of Northwestern Ohio,Private,Marketing.,Bachelor's Degree,15,,32589
 2015_2016,004861,University of Northwestern Ohio,Private,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,206,18500,19570
 2015_2016,004861,University of Northwestern Ohio,Private,Vehicle Maintenance and Repair Technologies.,Associate's Degree,737,21750,22632
 2016_2017,004861,University of Northwestern Ohio,Private,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,171,16584,19428

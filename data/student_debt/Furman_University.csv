@@ -1,100 +1,100 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003434,Furman University,Private,Accounting and Related Services.,Bachelor's Degree,17,NA,27639
+2015_2016,003434,Furman University,Private,Accounting and Related Services.,Bachelor's Degree,17,,27639
 2016_2017,003434,Furman University,Private,Accounting and Related Services.,Bachelor's Degree,22,26814,22260
-2015_2016,003434,Furman University,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
+2015_2016,003434,Furman University,Private,Anthropology.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Anthropology.,Bachelor's Degree,,,
 2015_2016,003434,Furman University,Private,Area Studies.,Bachelor's Degree,20,21310,18990
-2016_2017,003434,Furman University,Private,Area Studies.,Bachelor's Degree,16,NA,23315
+2016_2017,003434,Furman University,Private,Area Studies.,Bachelor's Degree,16,,23315
 2015_2016,003434,Furman University,Private,"Biology, General.",Bachelor's Degree,20,23750,19591
 2016_2017,003434,Furman University,Private,"Biology, General.",Bachelor's Degree,20,18992,17838
 2015_2016,003434,Furman University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,51,25000,22697
 2016_2017,003434,Furman University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,61,21500,23269
-2015_2016,003434,Furman University,Private,Chemistry.,Bachelor's Degree,10,NA,26056
-2015_2016,003434,Furman University,Private,Chemistry.,Master's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Chemistry.,Bachelor's Degree,10,NA,19755
-2016_2017,003434,Furman University,Private,Chemistry.,Master's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003434,Furman University,Private,Chemistry.,Bachelor's Degree,10,,26056
+2015_2016,003434,Furman University,Private,Chemistry.,Master's Degree,,,
+2016_2017,003434,Furman University,Private,Chemistry.,Bachelor's Degree,10,,19755
+2016_2017,003434,Furman University,Private,Chemistry.,Master's Degree,,,
+2015_2016,003434,Furman University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,003434,Furman University,Private,Communication and Media Studies.,Bachelor's Degree,31,23251,20393
 2016_2017,003434,Furman University,Private,Communication and Media Studies.,Bachelor's Degree,36,25484,22060
-2015_2016,003434,Furman University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Computer Science.,Bachelor's Degree,11,NA,23505
-2015_2016,003434,Furman University,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Economics.,Bachelor's Degree,12,NA,22709
-2016_2017,003434,Furman University,Private,Economics.,Bachelor's Degree,16,NA,22942
-2015_2016,003434,Furman University,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,33238
-2016_2017,003434,Furman University,Private,Educational Administration and Supervision.,Master's Degree,10,NA,19137
-2016_2017,003434,Furman University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,24578
-2015_2016,003434,Furman University,Private,"Engineering, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Engineering, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,"English Language and Literature, General.",Bachelor's Degree,12,NA,27533
-2016_2017,003434,Furman University,Private,"English Language and Literature, General.",Bachelor's Degree,15,NA,23701
-2015_2016,003434,Furman University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Fine and Studio Arts.,Bachelor's Degree,12,NA,19585
-2015_2016,003434,Furman University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
+2015_2016,003434,Furman University,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Computer Science.,Bachelor's Degree,11,,23505
+2015_2016,003434,Furman University,Private,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,003434,Furman University,Private,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,003434,Furman University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,Economics.,Bachelor's Degree,12,,22709
+2016_2017,003434,Furman University,Private,Economics.,Bachelor's Degree,16,,22942
+2015_2016,003434,Furman University,Private,"Education, General.",Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,"Education, General.",Master's Degree,,,
+2016_2017,003434,Furman University,Private,"Education, General.",Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,"Education, General.",Master's Degree,,,
+2015_2016,003434,Furman University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,003434,Furman University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,,,33238
+2016_2017,003434,Furman University,Private,Educational Administration and Supervision.,Master's Degree,10,,19137
+2016_2017,003434,Furman University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,,,24578
+2015_2016,003434,Furman University,Private,"Engineering, Other.",Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,"Engineering, Other.",Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,"English Language and Literature, General.",Bachelor's Degree,12,,27533
+2016_2017,003434,Furman University,Private,"English Language and Literature, General.",Bachelor's Degree,15,,23701
+2015_2016,003434,Furman University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Fine and Studio Arts.,Bachelor's Degree,12,,19585
+2015_2016,003434,Furman University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
 2015_2016,003434,Furman University,Private,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,22,20000,20346
 2016_2017,003434,Furman University,Private,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,55,20500,19788
-2015_2016,003434,Furman University,Private,History.,Bachelor's Degree,19,NA,18174
-2016_2017,003434,Furman University,Private,History.,Bachelor's Degree,19,NA,20248
-2015_2016,003434,Furman University,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,003434,Furman University,Private,History.,Bachelor's Degree,19,,18174
+2016_2017,003434,Furman University,Private,History.,Bachelor's Degree,19,,20248
+2015_2016,003434,Furman University,Private,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Information Science/Studies.,Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
 2015_2016,003434,Furman University,Private,Music.,Bachelor's Degree,40,26934,23845
 2016_2017,003434,Furman University,Private,Music.,Bachelor's Degree,36,26000,22724
-2015_2016,003434,Furman University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,12,NA,21361
-2016_2017,003434,Furman University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Philosophy.,Bachelor's Degree,11,NA,19954
-2016_2017,003434,Furman University,Private,Philosophy.,Bachelor's Degree,19,NA,20160
-2015_2016,003434,Furman University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003434,Furman University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,12,,21361
+2016_2017,003434,Furman University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,Philosophy.,Bachelor's Degree,11,,19954
+2016_2017,003434,Furman University,Private,Philosophy.,Bachelor's Degree,19,,20160
+2015_2016,003434,Furman University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Physics.,Bachelor's Degree,,,
 2015_2016,003434,Furman University,Private,Political Science and Government.,Bachelor's Degree,57,25000,21632
 2016_2017,003434,Furman University,Private,Political Science and Government.,Bachelor's Degree,55,26294,22097
-2015_2016,003434,Furman University,Private,"Psychology, General.",Bachelor's Degree,13,NA,22326
-2016_2017,003434,Furman University,Private,"Psychology, General.",Bachelor's Degree,15,NA,20803
-2016_2017,003434,Furman University,Private,Public Health.,Bachelor's Degree,NA,NA,NA
+2015_2016,003434,Furman University,Private,"Psychology, General.",Bachelor's Degree,13,,22326
+2016_2017,003434,Furman University,Private,"Psychology, General.",Bachelor's Degree,15,,20803
+2016_2017,003434,Furman University,Private,Public Health.,Bachelor's Degree,,,
 2015_2016,003434,Furman University,Private,Religion/Religious Studies.,Bachelor's Degree,21,19500,19215
 2016_2017,003434,Furman University,Private,Religion/Religious Studies.,Bachelor's Degree,20,25250,21281
 2015_2016,003434,Furman University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,20,19424,18781
-2016_2017,003434,Furman University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,19,NA,20675
-2015_2016,003434,Furman University,Private,Sociology.,Bachelor's Degree,13,NA,17997
-2016_2017,003434,Furman University,Private,Sociology.,Bachelor's Degree,11,NA,20699
-2015_2016,003434,Furman University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Sustainability Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Sustainability Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,11,NA,23775
-2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,11,NA,18991
-2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2015_2016,003434,Furman University,Private,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
-2016_2017,003434,Furman University,Private,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
+2016_2017,003434,Furman University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,19,,20675
+2015_2016,003434,Furman University,Private,Sociology.,Bachelor's Degree,13,,17997
+2016_2017,003434,Furman University,Private,Sociology.,Bachelor's Degree,11,,20699
+2015_2016,003434,Furman University,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,003434,Furman University,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,003434,Furman University,Private,Sustainability Studies.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Sustainability Studies.,Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,,,
+2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,,,
+2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,11,,23775
+2015_2016,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,11,,18991
+2016_2017,003434,Furman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,003434,Furman University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,003434,Furman University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2015_2016,003434,Furman University,Private,Urban Studies/Affairs.,Bachelor's Degree,,,
+2016_2017,003434,Furman University,Private,Urban Studies/Affairs.,Bachelor's Degree,,,

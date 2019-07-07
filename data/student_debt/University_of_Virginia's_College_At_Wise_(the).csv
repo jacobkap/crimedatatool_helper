@@ -1,61 +1,61 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Accounting and Related Services.,Bachelor's Degree,NA,NA,18389
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"Biology, General.",Bachelor's Degree,NA,NA,16313
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"Biology, General.",Bachelor's Degree,NA,NA,17891
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"Business Administration, Management and Operations.",Bachelor's Degree,NA,16125,18113
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"Business Administration, Management and Operations.",Bachelor's Degree,NA,15000,17879
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Communication and Media Studies.,Bachelor's Degree,NA,NA,19011
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Communication and Media Studies.,Bachelor's Degree,NA,NA,19903
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Criminal Justice and Corrections.,Bachelor's Degree,NA,19216,19316
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Criminal Justice and Corrections.,Bachelor's Degree,NA,20785,20820
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"Education, General.",Bachelor's Degree,NA,19784,18544
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"Education, General.",Bachelor's Degree,NA,NA,17345
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,23021
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,25219
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Accounting and Related Services.,Bachelor's Degree,,,18389
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Area Studies.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Biological and Physical Sciences.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Biological and Physical Sciences.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"Biology, General.",Bachelor's Degree,,,16313
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"Biology, General.",Bachelor's Degree,,,17891
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"Business Administration, Management and Operations.",Bachelor's Degree,,16125,18113
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"Business Administration, Management and Operations.",Bachelor's Degree,,15000,17879
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"Business/Commerce, General.",Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"Business/Commerce, General.",Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Chemistry.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Communication and Media Studies.,Bachelor's Degree,,,19011
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Communication and Media Studies.,Bachelor's Degree,,,19903
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Computer Science.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Computer Science.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Criminal Justice and Corrections.,Bachelor's Degree,,19216,19316
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Criminal Justice and Corrections.,Bachelor's Degree,,20785,20820
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Economics.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Economics.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"Education, General.",Bachelor's Degree,,19784,18544
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"Education, General.",Bachelor's Degree,,,17345
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Health and Physical Education/Fitness.,Bachelor's Degree,,,23021
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Health and Physical Education/Fitness.,Bachelor's Degree,,,25219
 2015_2016,003747,University of Virginia's College At Wise (the),Public,History.,Bachelor's Degree,20,20160,18908
-2016_2017,003747,University of Virginia's College At Wise (the),Public,History.,Bachelor's Degree,17,NA,18492
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"Psychology, General.",Bachelor's Degree,NA,21500,22374
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"Psychology, General.",Bachelor's Degree,NA,19754,22005
+2016_2017,003747,University of Virginia's College At Wise (the),Public,History.,Bachelor's Degree,17,,18492
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Mathematics.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Mathematics.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Music.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Music.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"Psychology, General.",Bachelor's Degree,,21500,22374
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"Psychology, General.",Bachelor's Degree,,19754,22005
 2015_2016,003747,University of Virginia's College At Wise (the),Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,23,24156,22702
 2016_2017,003747,University of Virginia's College At Wise (the),Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,25,25513,24120
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003747,University of Virginia's College At Wise (the),Public,Sociology.,Bachelor's Degree,NA,NA,22999
-2016_2017,003747,University of Virginia's College At Wise (the),Public,Sociology.,Bachelor's Degree,NA,NA,17879
-2015_2016,003747,University of Virginia's College At Wise (the),Public,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003747,University of Virginia's College At Wise (the),Public,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,003747,University of Virginia's College At Wise (the),Public,Sociology.,Bachelor's Degree,,,22999
+2016_2017,003747,University of Virginia's College At Wise (the),Public,Sociology.,Bachelor's Degree,,,17879
+2015_2016,003747,University of Virginia's College At Wise (the),Public,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2016_2017,003747,University of Virginia's College At Wise (the),Public,"Visual and Performing Arts, General.",Bachelor's Degree,,,

@@ -7,7 +7,7 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,003706,Christopher Newport University,Public,Chemistry.,Bachelor's Degree,39,26000,23158
 2015_2016,003706,Christopher Newport University,Public,Communication and Media Studies.,Bachelor's Degree,146,25000,22789
 2016_2017,003706,Christopher Newport University,Public,Communication and Media Studies.,Bachelor's Degree,149,25000,22549
-2015_2016,003706,Christopher Newport University,Public,Computer Engineering.,Bachelor's Degree,19,NA,25092
+2015_2016,003706,Christopher Newport University,Public,Computer Engineering.,Bachelor's Degree,19,,25092
 2016_2017,003706,Christopher Newport University,Public,Computer Engineering.,Bachelor's Degree,25,26540,22459
 2015_2016,003706,Christopher Newport University,Public,Computer Science.,Bachelor's Degree,57,25000,23073
 2016_2017,003706,Christopher Newport University,Public,Computer Science.,Bachelor's Degree,76,26270,23252
@@ -17,24 +17,24 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,003706,Christopher Newport University,Public,"English Language and Literature, General.",Bachelor's Degree,65,24895,22781
 2015_2016,003706,Christopher Newport University,Public,History.,Bachelor's Degree,74,26000,22257
 2016_2017,003706,Christopher Newport University,Public,History.,Bachelor's Degree,84,26000,23084
-2015_2016,003706,Christopher Newport University,Public,Information Science/Studies.,Bachelor's Degree,18,NA,20627
+2015_2016,003706,Christopher Newport University,Public,Information Science/Studies.,Bachelor's Degree,18,,20627
 2016_2017,003706,Christopher Newport University,Public,Information Science/Studies.,Bachelor's Degree,23,24332,22229
-2015_2016,003706,Christopher Newport University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003706,Christopher Newport University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,26000,22395
+2015_2016,003706,Christopher Newport University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003706,Christopher Newport University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,26000,22395
 2015_2016,003706,Christopher Newport University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,25,23000,20673
 2016_2017,003706,Christopher Newport University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,25,26546,24587
 2015_2016,003706,Christopher Newport University,Public,Mathematics.,Bachelor's Degree,20,26500,24241
 2016_2017,003706,Christopher Newport University,Public,Mathematics.,Bachelor's Degree,20,22750,21050
 2015_2016,003706,Christopher Newport University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,56,26993,23698
 2016_2017,003706,Christopher Newport University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,77,26970,25071
-2015_2016,003706,Christopher Newport University,Public,Music.,Bachelor's Degree,12,NA,22508
-2016_2017,003706,Christopher Newport University,Public,Music.,Bachelor's Degree,18,NA,24073
-2015_2016,003706,Christopher Newport University,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2016_2017,003706,Christopher Newport University,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2015_2016,003706,Christopher Newport University,Public,Philosophy.,Bachelor's Degree,11,NA,22766
-2016_2017,003706,Christopher Newport University,Public,Philosophy.,Bachelor's Degree,18,NA,22745
-2015_2016,003706,Christopher Newport University,Public,Physics.,Master's Degree,NA,NA,NA
-2016_2017,003706,Christopher Newport University,Public,Physics.,Master's Degree,NA,NA,NA
+2015_2016,003706,Christopher Newport University,Public,Music.,Bachelor's Degree,12,,22508
+2016_2017,003706,Christopher Newport University,Public,Music.,Bachelor's Degree,18,,24073
+2015_2016,003706,Christopher Newport University,Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2016_2017,003706,Christopher Newport University,Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2015_2016,003706,Christopher Newport University,Public,Philosophy.,Bachelor's Degree,11,,22766
+2016_2017,003706,Christopher Newport University,Public,Philosophy.,Bachelor's Degree,18,,22745
+2015_2016,003706,Christopher Newport University,Public,Physics.,Master's Degree,,,
+2016_2017,003706,Christopher Newport University,Public,Physics.,Master's Degree,,,
 2015_2016,003706,Christopher Newport University,Public,Political Science and Government.,Bachelor's Degree,78,25000,22076
 2016_2017,003706,Christopher Newport University,Public,Political Science and Government.,Bachelor's Degree,107,26000,23867
 2015_2016,003706,Christopher Newport University,Public,"Psychology, General.",Bachelor's Degree,172,26000,23500

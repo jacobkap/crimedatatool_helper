@@ -1,130 +1,130 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002371,University of Northwestern- St Paul,Private,Accounting and Related Services.,Bachelor's Degree,12,NA,19849
-2016_2017,002371,University of Northwestern- St Paul,Private,Accounting and Related Services.,Bachelor's Degree,18,NA,22113
-2015_2016,002371,University of Northwestern- St Paul,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,Accounting and Related Services.,Bachelor's Degree,12,,19849
+2016_2017,002371,University of Northwestern- St Paul,Private,Accounting and Related Services.,Bachelor's Degree,18,,22113
+2015_2016,002371,University of Northwestern- St Paul,Private,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,,,
 2015_2016,002371,University of Northwestern- St Paul,Private,Bible/Biblical Studies.,Bachelor's Degree,85,21875,22848
-2016_2017,002371,University of Northwestern- St Paul,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002371,University of Northwestern- St Paul,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,,,
 2016_2017,002371,University of Northwestern- St Paul,Private,Bible/Biblical Studies.,Bachelor's Degree,272,23531,23298
-2015_2016,002371,University of Northwestern- St Paul,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,11,NA,19502
+2015_2016,002371,University of Northwestern- St Paul,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,11,,19502
 2015_2016,002371,University of Northwestern- St Paul,Private,"Biology, General.",Bachelor's Degree,31,21500,21224
 2016_2017,002371,University of Northwestern- St Paul,Private,"Biology, General.",Bachelor's Degree,51,21500,21885
 2015_2016,002371,University of Northwestern- St Paul,Private,"Business Administration, Management and Operations.",Bachelor's Degree,26,22875,24775
-2015_2016,002371,University of Northwestern- St Paul,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,"Business Administration, Management and Operations.",Master's Degree,,,
 2016_2017,002371,University of Northwestern- St Paul,Private,"Business Administration, Management and Operations.",Bachelor's Degree,36,21375,23232
-2016_2017,002371,University of Northwestern- St Paul,Private,"Business Administration, Management and Operations.",Master's Degree,12,NA,24432
-2015_2016,002371,University of Northwestern- St Paul,Private,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Communication and Media Studies.,Associate's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Communication and Media Studies.,Bachelor's Degree,16,NA,20983
-2016_2017,002371,University of Northwestern- St Paul,Private,Communication and Media Studies.,Associate's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Communication and Media Studies.,Bachelor's Degree,19,NA,24071
-2015_2016,002371,University of Northwestern- St Paul,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Criminal Justice and Corrections.,Bachelor's Degree,19,NA,22824
+2016_2017,002371,University of Northwestern- St Paul,Private,"Business Administration, Management and Operations.",Master's Degree,12,,24432
+2015_2016,002371,University of Northwestern- St Paul,Private,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Communication and Media Studies.,Associate's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Communication and Media Studies.,Bachelor's Degree,16,,20983
+2016_2017,002371,University of Northwestern- St Paul,Private,Communication and Media Studies.,Associate's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Communication and Media Studies.,Bachelor's Degree,19,,24071
+2015_2016,002371,University of Northwestern- St Paul,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Computer Software and Media Applications.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Computer Software and Media Applications.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Criminal Justice and Corrections.,Bachelor's Degree,19,,22824
 2016_2017,002371,University of Northwestern- St Paul,Private,Criminal Justice and Corrections.,Bachelor's Degree,25,26000,21755
-2015_2016,002371,University of Northwestern- St Paul,Private,Design and Applied Arts.,Bachelor's Degree,11,NA,22782
-2016_2017,002371,University of Northwestern- St Paul,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Engineering-Related Fields.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,"English Language and Literature, General.",Bachelor's Degree,18,NA,20566
-2016_2017,002371,University of Northwestern- St Paul,Private,"English Language and Literature, General.",Bachelor's Degree,18,NA,18694
-2015_2016,002371,University of Northwestern- St Paul,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Graphic Communications.,Bachelor's Degree,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,Design and Applied Arts.,Bachelor's Degree,11,,22782
+2016_2017,002371,University of Northwestern- St Paul,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,"Education, General.",Master's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,"Education, General.",Master's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Engineering-Related Fields.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,"Engineering, General.",Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,"English Language and Literature, General.",Bachelor's Degree,18,,20566
+2016_2017,002371,University of Northwestern- St Paul,Private,"English Language and Literature, General.",Bachelor's Degree,18,,18694
+2015_2016,002371,University of Northwestern- St Paul,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Graphic Communications.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Graphic Communications.,Bachelor's Degree,,,
 2015_2016,002371,University of Northwestern- St Paul,Private,Health and Physical Education/Fitness.,Bachelor's Degree,41,21500,20755
 2016_2017,002371,University of Northwestern- St Paul,Private,Health and Physical Education/Fitness.,Bachelor's Degree,44,20651,22035
-2015_2016,002371,University of Northwestern- St Paul,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,17,NA,18401
-2016_2017,002371,University of Northwestern- St Paul,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,16,NA,19121
-2015_2016,002371,University of Northwestern- St Paul,Private,History.,Bachelor's Degree,14,NA,19899
-2016_2017,002371,University of Northwestern- St Paul,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Master's Degree,19,NA,29859
-2016_2017,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,17,,18401
+2016_2017,002371,University of Northwestern- St Paul,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,16,,19121
+2015_2016,002371,University of Northwestern- St Paul,Private,History.,Bachelor's Degree,14,,19899
+2016_2017,002371,University of Northwestern- St Paul,Private,History.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Master's Degree,19,,29859
+2016_2017,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
 2016_2017,002371,University of Northwestern- St Paul,Private,Human Resources Management and Services.,Master's Degree,21,34166,33024
-2015_2016,002371,University of Northwestern- St Paul,Private,"Human Services, General.",Master's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,"Human Services, General.",Master's Degree,11,NA,32579
-2015_2016,002371,University of Northwestern- St Paul,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,International/Global Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,International/Global Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Journalism.,Associate's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Journalism.,Associate's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,26916
-2015_2016,002371,University of Northwestern- St Paul,Private,Marketing.,Associate's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Marketing.,Bachelor's Degree,18,NA,19003
-2016_2017,002371,University of Northwestern- St Paul,Private,Marketing.,Associate's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Marketing.,Bachelor's Degree,17,NA,20781
-2015_2016,002371,University of Northwestern- St Paul,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,16,NA,24142
-2016_2017,002371,University of Northwestern- St Paul,Private,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,"Human Services, General.",Master's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,"Human Services, General.",Master's Degree,11,,32579
+2015_2016,002371,University of Northwestern- St Paul,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,International Business.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,International Business.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,International/Global Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,International/Global Studies.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,International/Global Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,International/Global Studies.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Journalism.,Associate's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Journalism.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Journalism.,Associate's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Journalism.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Management Information Systems and Services.,Bachelor's Degree,,,26916
+2015_2016,002371,University of Northwestern- St Paul,Private,Marketing.,Associate's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Marketing.,Bachelor's Degree,18,,19003
+2016_2017,002371,University of Northwestern- St Paul,Private,Marketing.,Associate's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Marketing.,Bachelor's Degree,17,,20781
+2015_2016,002371,University of Northwestern- St Paul,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,16,,24142
+2016_2017,002371,University of Northwestern- St Paul,Private,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
 2016_2017,002371,University of Northwestern- St Paul,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,23,25125,23209
-2015_2016,002371,University of Northwestern- St Paul,Private,Music.,Bachelor's Degree,15,NA,20221
-2016_2017,002371,University of Northwestern- St Paul,Private,Music.,Bachelor's Degree,17,NA,18412
-2015_2016,002371,University of Northwestern- St Paul,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,Music.,Bachelor's Degree,15,,20221
+2016_2017,002371,University of Northwestern- St Paul,Private,Music.,Bachelor's Degree,17,,18412
+2015_2016,002371,University of Northwestern- St Paul,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,,,
 2015_2016,002371,University of Northwestern- St Paul,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,22,24875,28165
-2016_2017,002371,University of Northwestern- St Paul,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002371,University of Northwestern- St Paul,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,,,
 2016_2017,002371,University of Northwestern- St Paul,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,20,24585,25633
-2015_2016,002371,University of Northwestern- St Paul,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Philosophy.,Bachelor's Degree,,,
 2015_2016,002371,University of Northwestern- St Paul,Private,"Psychology, General.",Bachelor's Degree,71,21500,21493
 2016_2017,002371,University of Northwestern- St Paul,Private,"Psychology, General.",Bachelor's Degree,69,21875,22169
-2015_2016,002371,University of Northwestern- St Paul,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,19237
+2015_2016,002371,University of Northwestern- St Paul,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,19237
 2016_2017,002371,University of Northwestern- St Paul,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,21,19625,19240
-2015_2016,002371,University of Northwestern- St Paul,Private,"Radio, Television, and Digital Communication.",Associate's Degree,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,"Radio, Television, and Digital Communication.",Associate's Degree,,,
 2015_2016,002371,University of Northwestern- St Paul,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,26,20875,20222
-2016_2017,002371,University of Northwestern- St Paul,Private,"Radio, Television, and Digital Communication.",Associate's Degree,NA,NA,NA
+2016_2017,002371,University of Northwestern- St Paul,Private,"Radio, Television, and Digital Communication.",Associate's Degree,,,
 2016_2017,002371,University of Northwestern- St Paul,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,24,20485,18541
 2015_2016,002371,University of Northwestern- St Paul,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,21,31000,25714
 2016_2017,002371,University of Northwestern- St Paul,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,44,28000,25655
-2015_2016,002371,University of Northwestern- St Paul,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002371,University of Northwestern- St Paul,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,15,NA,22640
-2015_2016,002371,University of Northwestern- St Paul,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,Religious Education.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Religious Education.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,002371,University of Northwestern- St Paul,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,15,,22640
+2015_2016,002371,University of Northwestern- St Paul,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,"Social Sciences, General.",Bachelor's Degree,,,
 2015_2016,002371,University of Northwestern- St Paul,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,58,25406,22833
 2016_2017,002371,University of Northwestern- St Paul,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,62,21865,22750
 2015_2016,002371,University of Northwestern- St Paul,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,22,26875,25683
 2016_2017,002371,University of Northwestern- St Paul,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,26,27000,24557
-2015_2016,002371,University of Northwestern- St Paul,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
 2015_2016,002371,University of Northwestern- St Paul,Private,Theological and Ministerial Studies.,Bachelor's Degree,25,23250,25110
-2015_2016,002371,University of Northwestern- St Paul,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,,,
 2015_2016,002371,University of Northwestern- St Paul,Private,Theological and Ministerial Studies.,Master's Degree,21,34166,35713
 2016_2017,002371,University of Northwestern- St Paul,Private,Theological and Ministerial Studies.,Bachelor's Degree,25,23431,26810
-2016_2017,002371,University of Northwestern- St Paul,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002371,University of Northwestern- St Paul,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,,,
 2016_2017,002371,University of Northwestern- St Paul,Private,Theological and Ministerial Studies.,Master's Degree,21,31219,35513
-2015_2016,002371,University of Northwestern- St Paul,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002371,University of Northwestern- St Paul,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002371,University of Northwestern- St Paul,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2016_2017,002371,University of Northwestern- St Paul,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,

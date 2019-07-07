@@ -1,13 +1,13 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,042087,Colorado State University - Global Campus,Public,Accounting and Related Services.,Bachelor's Degree,223,26500,25608
-2015_2016,042087,Colorado State University - Global Campus,Public,Accounting and Related Services.,Master's Degree,NA,NA,NA
+2015_2016,042087,Colorado State University - Global Campus,Public,Accounting and Related Services.,Master's Degree,,,
 2016_2017,042087,Colorado State University - Global Campus,Public,Accounting and Related Services.,Bachelor's Degree,339,26562,26470
 2016_2017,042087,Colorado State University - Global Campus,Public,Accounting and Related Services.,Master's Degree,47,30639,29160
 2015_2016,042087,Colorado State University - Global Campus,Public,"Business Administration, Management and Operations.",Bachelor's Degree,489,24530,24140
 2015_2016,042087,Colorado State University - Global Campus,Public,"Business Administration, Management and Operations.",Master's Degree,29,39541,38853
 2016_2017,042087,Colorado State University - Global Campus,Public,"Business Administration, Management and Operations.",Bachelor's Degree,557,25000,25170
 2016_2017,042087,Colorado State University - Global Campus,Public,"Business Administration, Management and Operations.",Master's Degree,53,39016,36303
-2015_2016,042087,Colorado State University - Global Campus,Public,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,042087,Colorado State University - Global Campus,Public,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,,,
 2015_2016,042087,Colorado State University - Global Campus,Public,Communication and Media Studies.,Bachelor's Degree,60,20408,22014
 2016_2017,042087,Colorado State University - Global Campus,Public,Communication and Media Studies.,Bachelor's Degree,77,25266,26373
 2015_2016,042087,Colorado State University - Global Campus,Public,"Computer and Information Sciences, General.",Bachelor's Degree,234,22250,22728
@@ -30,10 +30,10 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,042087,Colorado State University - Global Campus,Public,Human Resources Management and Services.,Master's Degree,210,43697,39061
 2015_2016,042087,Colorado State University - Global Campus,Public,"Human Services, General.",Bachelor's Degree,29,26000,22999
 2016_2017,042087,Colorado State University - Global Campus,Public,"Human Services, General.",Bachelor's Degree,77,26361,25608
-2015_2016,042087,Colorado State University - Global Campus,Public,International Business.,Bachelor's Degree,NA,NA,20495
-2015_2016,042087,Colorado State University - Global Campus,Public,International Business.,Master's Degree,11,NA,39262
-2016_2017,042087,Colorado State University - Global Campus,Public,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,042087,Colorado State University - Global Campus,Public,International Business.,Master's Degree,16,NA,38635
+2015_2016,042087,Colorado State University - Global Campus,Public,International Business.,Bachelor's Degree,,,20495
+2015_2016,042087,Colorado State University - Global Campus,Public,International Business.,Master's Degree,11,,39262
+2016_2017,042087,Colorado State University - Global Campus,Public,International Business.,Bachelor's Degree,,,
+2016_2017,042087,Colorado State University - Global Campus,Public,International Business.,Master's Degree,16,,38635
 2015_2016,042087,Colorado State University - Global Campus,Public,Management Information Systems and Services.,Bachelor's Degree,24,20848,21374
 2015_2016,042087,Colorado State University - Global Campus,Public,Management Information Systems and Services.,Master's Degree,21,34317,33402
 2016_2017,042087,Colorado State University - Global Campus,Public,Management Information Systems and Services.,Bachelor's Degree,67,21500,21552
@@ -42,8 +42,8 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,042087,Colorado State University - Global Campus,Public,Management Sciences and Quantitative Methods.,Master's Degree,118,42040,36756
 2015_2016,042087,Colorado State University - Global Campus,Public,Marketing.,Bachelor's Degree,60,19566,22041
 2016_2017,042087,Colorado State University - Global Campus,Public,Marketing.,Bachelor's Degree,118,19000,21683
-2015_2016,042087,Colorado State University - Global Campus,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,042087,Colorado State University - Global Campus,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,042087,Colorado State University - Global Campus,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2016_2017,042087,Colorado State University - Global Campus,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
 2015_2016,042087,Colorado State University - Global Campus,Public,Public Administration.,Bachelor's Degree,48,22640,23674
 2016_2017,042087,Colorado State University - Global Campus,Public,Public Administration.,Bachelor's Degree,40,23158,25539
 2015_2016,042087,Colorado State University - Global Campus,Public,"Social Sciences, General.",Bachelor's Degree,89,26379,26145

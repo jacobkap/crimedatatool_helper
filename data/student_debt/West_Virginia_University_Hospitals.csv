@@ -1,6 +1,6 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,012573,West Virginia University Hospitals,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,14,NA,8275
-2015_2016,012573,West Virginia University Hospitals,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2016_2017,012573,West Virginia University Hospitals,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,13,NA,9296
-2015_2016,012573,West Virginia University Hospitals,Private,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,012573,West Virginia University Hospitals,Private,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,012573,West Virginia University Hospitals,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,14,,8275
+2015_2016,012573,West Virginia University Hospitals,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2016_2017,012573,West Virginia University Hospitals,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,13,,9296
+2015_2016,012573,West Virginia University Hospitals,Private,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,,,
+2016_2017,012573,West Virginia University Hospitals,Private,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,,,

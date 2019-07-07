@@ -1,13 +1,13 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003797,University of Puget Sound,Private,Area Studies.,Bachelor's Degree,NA,NA,22915
-2016_2017,003797,University of Puget Sound,Private,Area Studies.,Bachelor's Degree,NA,NA,21780
-2015_2016,003797,University of Puget Sound,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,10,NA,20198
-2016_2017,003797,University of Puget Sound,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,15,NA,21504
-2015_2016,003797,University of Puget Sound,Private,Bioethics/Medical Ethics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,Bioethics/Medical Ethics.,Bachelor's Degree,NA,NA,22148
-2015_2016,003797,University of Puget Sound,Private,Biological and Physical Sciences.,Bachelor's Degree,10,NA,28153
+2015_2016,003797,University of Puget Sound,Private,Area Studies.,Bachelor's Degree,,,22915
+2016_2017,003797,University of Puget Sound,Private,Area Studies.,Bachelor's Degree,,,21780
+2015_2016,003797,University of Puget Sound,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,10,,20198
+2016_2017,003797,University of Puget Sound,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,15,,21504
+2015_2016,003797,University of Puget Sound,Private,Bioethics/Medical Ethics.,Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,Bioethics/Medical Ethics.,Bachelor's Degree,,,22148
+2015_2016,003797,University of Puget Sound,Private,Biological and Physical Sciences.,Bachelor's Degree,10,,28153
 2016_2017,003797,University of Puget Sound,Private,Biological and Physical Sciences.,Bachelor's Degree,25,27000,23979
 2015_2016,003797,University of Puget Sound,Private,"Biology, General.",Bachelor's Degree,34,27000,22506
 2016_2017,003797,University of Puget Sound,Private,"Biology, General.",Bachelor's Degree,38,27000,21889
@@ -15,88 +15,88 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,003797,University of Puget Sound,Private,"Business Administration, Management and Operations.",Bachelor's Degree,82,25000,22004
 2015_2016,003797,University of Puget Sound,Private,Cell/Cellular Biology and Anatomical Sciences.,Bachelor's Degree,27,21500,22279
 2016_2017,003797,University of Puget Sound,Private,Cell/Cellular Biology and Anatomical Sciences.,Bachelor's Degree,29,23250,22757
-2015_2016,003797,University of Puget Sound,Private,Chemistry.,Bachelor's Degree,NA,NA,20754
+2015_2016,003797,University of Puget Sound,Private,Chemistry.,Bachelor's Degree,,,20754
 2016_2017,003797,University of Puget Sound,Private,Chemistry.,Bachelor's Degree,21,23250,20158
-2015_2016,003797,University of Puget Sound,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,Communication and Media Studies.,Bachelor's Degree,14,NA,25964
+2015_2016,003797,University of Puget Sound,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,Communication and Media Studies.,Bachelor's Degree,14,,25964
 2016_2017,003797,University of Puget Sound,Private,Communication and Media Studies.,Bachelor's Degree,35,26000,24079
 2015_2016,003797,University of Puget Sound,Private,Computer Science.,Bachelor's Degree,27,25000,23747
 2016_2017,003797,University of Puget Sound,Private,Computer Science.,Bachelor's Degree,30,25327,24667
-2015_2016,003797,University of Puget Sound,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,11,NA,23409
-2016_2017,003797,University of Puget Sound,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,12,NA,25416
+2015_2016,003797,University of Puget Sound,Private,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,11,,23409
+2016_2017,003797,University of Puget Sound,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,12,,25416
 2015_2016,003797,University of Puget Sound,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,22,22751,21014
-2016_2017,003797,University of Puget Sound,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,20750,19551
+2016_2017,003797,University of Puget Sound,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,20750,19551
 2015_2016,003797,University of Puget Sound,Private,Economics.,Bachelor's Degree,48,25375,22059
 2016_2017,003797,University of Puget Sound,Private,Economics.,Bachelor's Degree,47,27000,22977
-2015_2016,003797,University of Puget Sound,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003797,University of Puget Sound,Private,"Education, General.",Bachelor's Degree,,,
 2015_2016,003797,University of Puget Sound,Private,"Education, General.",Master's Degree,28,30747,32896
-2016_2017,003797,University of Puget Sound,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,003797,University of Puget Sound,Private,"Education, General.",Bachelor's Degree,,,
 2016_2017,003797,University of Puget Sound,Private,"Education, General.",Master's Degree,46,40823,36251
-2015_2016,003797,University of Puget Sound,Private,"English Language and Literature, General.",Bachelor's Degree,17,NA,23547
-2016_2017,003797,University of Puget Sound,Private,"English Language and Literature, General.",Bachelor's Degree,NA,27000,24888
-2015_2016,003797,University of Puget Sound,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,24931
-2016_2017,003797,University of Puget Sound,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,26850,25756
-2015_2016,003797,University of Puget Sound,Private,Fine and Studio Arts.,Bachelor's Degree,19,NA,23824
+2015_2016,003797,University of Puget Sound,Private,"English Language and Literature, General.",Bachelor's Degree,17,,23547
+2016_2017,003797,University of Puget Sound,Private,"English Language and Literature, General.",Bachelor's Degree,,27000,24888
+2015_2016,003797,University of Puget Sound,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,24931
+2016_2017,003797,University of Puget Sound,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,26850,25756
+2015_2016,003797,University of Puget Sound,Private,Fine and Studio Arts.,Bachelor's Degree,19,,23824
 2016_2017,003797,University of Puget Sound,Private,Fine and Studio Arts.,Bachelor's Degree,23,25000,21492
-2015_2016,003797,University of Puget Sound,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,24939
+2015_2016,003797,University of Puget Sound,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,24939
 2015_2016,003797,University of Puget Sound,Private,Health and Physical Education/Fitness.,Bachelor's Degree,42,27000,25660
 2016_2017,003797,University of Puget Sound,Private,Health and Physical Education/Fitness.,Bachelor's Degree,37,25000,23188
-2015_2016,003797,University of Puget Sound,Private,History.,Bachelor's Degree,13,NA,22000
+2015_2016,003797,University of Puget Sound,Private,History.,Bachelor's Degree,13,,22000
 2016_2017,003797,University of Puget Sound,Private,History.,Bachelor's Degree,20,27000,24350
-2015_2016,003797,University of Puget Sound,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,International Relations and National Security Studies.,Bachelor's Degree,19,NA,20771
-2016_2017,003797,University of Puget Sound,Private,International Relations and National Security Studies.,Bachelor's Degree,17,NA,19861
-2015_2016,003797,University of Puget Sound,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,Mathematics.,Bachelor's Degree,NA,25000,22651
-2016_2017,003797,University of Puget Sound,Private,Mathematics.,Bachelor's Degree,NA,26949,23122
-2015_2016,003797,University of Puget Sound,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,27000,22037
+2015_2016,003797,University of Puget Sound,Private,International Business.,Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,International Business.,Bachelor's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,International Relations and National Security Studies.,Bachelor's Degree,19,,20771
+2016_2017,003797,University of Puget Sound,Private,International Relations and National Security Studies.,Bachelor's Degree,17,,19861
+2015_2016,003797,University of Puget Sound,Private,International/Global Studies.,Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,International/Global Studies.,Bachelor's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,Mathematics.,Bachelor's Degree,,25000,22651
+2016_2017,003797,University of Puget Sound,Private,Mathematics.,Bachelor's Degree,,26949,23122
+2015_2016,003797,University of Puget Sound,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,27000,22037
 2015_2016,003797,University of Puget Sound,Private,Music.,Bachelor's Degree,22,27000,23503
 2016_2017,003797,University of Puget Sound,Private,Music.,Bachelor's Degree,25,27000,23433
-2015_2016,003797,University of Puget Sound,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,23104
-2016_2017,003797,University of Puget Sound,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,25327,21720
-2015_2016,003797,University of Puget Sound,Private,Philosophy.,Bachelor's Degree,13,NA,25500
-2016_2017,003797,University of Puget Sound,Private,Philosophy.,Bachelor's Degree,NA,NA,25418
-2015_2016,003797,University of Puget Sound,Private,Physics.,Bachelor's Degree,10,NA,24033
-2016_2017,003797,University of Puget Sound,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003797,University of Puget Sound,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,,23104
+2016_2017,003797,University of Puget Sound,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,25327,21720
+2015_2016,003797,University of Puget Sound,Private,Philosophy.,Bachelor's Degree,13,,25500
+2016_2017,003797,University of Puget Sound,Private,Philosophy.,Bachelor's Degree,,,25418
+2015_2016,003797,University of Puget Sound,Private,Physics.,Bachelor's Degree,10,,24033
+2016_2017,003797,University of Puget Sound,Private,Physics.,Bachelor's Degree,,,
 2015_2016,003797,University of Puget Sound,Private,Political Science and Government.,Bachelor's Degree,41,27000,25089
 2016_2017,003797,University of Puget Sound,Private,Political Science and Government.,Bachelor's Degree,55,27000,24716
 2015_2016,003797,University of Puget Sound,Private,"Psychology, General.",Bachelor's Degree,46,25805,23526
 2016_2017,003797,University of Puget Sound,Private,"Psychology, General.",Bachelor's Degree,65,23667,21760
 2015_2016,003797,University of Puget Sound,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,45,93784,84152
-2015_2016,003797,University of Puget Sound,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,99150,95764
-2015_2016,003797,University of Puget Sound,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
+2015_2016,003797,University of Puget Sound,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,99150,95764
+2015_2016,003797,University of Puget Sound,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
 2016_2017,003797,University of Puget Sound,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,48,98702,92007
-2016_2017,003797,University of Puget Sound,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,95481,94629
-2016_2017,003797,University of Puget Sound,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
+2016_2017,003797,University of Puget Sound,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,95481,94629
+2016_2017,003797,University of Puget Sound,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
 2015_2016,003797,University of Puget Sound,Private,Religion/Religious Studies.,Bachelor's Degree,22,27000,23102
-2016_2017,003797,University of Puget Sound,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,22165
-2015_2016,003797,University of Puget Sound,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,16,NA,24971
-2016_2017,003797,University of Puget Sound,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,13,NA,23923
+2016_2017,003797,University of Puget Sound,Private,Religion/Religious Studies.,Bachelor's Degree,,,22165
+2015_2016,003797,University of Puget Sound,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,16,,24971
+2016_2017,003797,University of Puget Sound,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,13,,23923
 2015_2016,003797,University of Puget Sound,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,54,24495,20878
-2016_2017,003797,University of Puget Sound,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,23000,21032
-2015_2016,003797,University of Puget Sound,Private,"Science, Technology and Society.",Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,"Science, Technology and Society.",Bachelor's Degree,16,NA,20281
-2015_2016,003797,University of Puget Sound,Private,Sociology and Anthropology.,Bachelor's Degree,14,NA,17106
+2016_2017,003797,University of Puget Sound,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,23000,21032
+2015_2016,003797,University of Puget Sound,Private,"Science, Technology and Society.",Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,"Science, Technology and Society.",Bachelor's Degree,16,,20281
+2015_2016,003797,University of Puget Sound,Private,Sociology and Anthropology.,Bachelor's Degree,14,,17106
 2016_2017,003797,University of Puget Sound,Private,Sociology and Anthropology.,Bachelor's Degree,25,21740,18950
-2015_2016,003797,University of Puget Sound,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003797,University of Puget Sound,Private,Student Counseling and Personnel Services.,Master's Degree,14,NA,49765
-2016_2017,003797,University of Puget Sound,Private,Student Counseling and Personnel Services.,Master's Degree,15,NA,47053
-2015_2016,003797,University of Puget Sound,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003797,University of Puget Sound,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,003797,University of Puget Sound,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,003797,University of Puget Sound,Private,Student Counseling and Personnel Services.,Master's Degree,14,,49765
+2016_2017,003797,University of Puget Sound,Private,Student Counseling and Personnel Services.,Master's Degree,15,,47053
+2015_2016,003797,University of Puget Sound,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003797,University of Puget Sound,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

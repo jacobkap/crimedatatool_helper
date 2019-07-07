@@ -1,16 +1,16 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,001881,Ashford University,Proprietary,Accounting and Related Services.,Bachelor's Degree,443,37968,38072
-2015_2016,001881,Ashford University,Proprietary,Accounting and Related Services.,Master's Degree,NA,NA,NA
+2015_2016,001881,Ashford University,Proprietary,Accounting and Related Services.,Master's Degree,,,
 2016_2017,001881,Ashford University,Proprietary,Accounting and Related Services.,Bachelor's Degree,370,36063,36602
-2016_2017,001881,Ashford University,Proprietary,Accounting and Related Services.,Master's Degree,NA,NA,NA
+2016_2017,001881,Ashford University,Proprietary,Accounting and Related Services.,Master's Degree,,,
 2015_2016,001881,Ashford University,Proprietary,Alternative and Complementary Medicine and Medical Systems.,Bachelor's Degree,303,37500,38118
 2016_2017,001881,Ashford University,Proprietary,Alternative and Complementary Medicine and Medical Systems.,Bachelor's Degree,331,38601,38418
 2015_2016,001881,Ashford University,Proprietary,Anthropology.,Bachelor's Degree,60,43905,41785
 2016_2017,001881,Ashford University,Proprietary,Anthropology.,Bachelor's Degree,54,44257,39456
 2015_2016,001881,Ashford University,Proprietary,Behavioral Sciences.,Bachelor's Degree,963,40625,39948
 2016_2017,001881,Ashford University,Proprietary,Behavioral Sciences.,Bachelor's Degree,952,40188,39541
-2015_2016,001881,Ashford University,Proprietary,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001881,Ashford University,Proprietary,"Biology, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001881,Ashford University,Proprietary,"Biology, General.",Bachelor's Degree,,,
+2016_2017,001881,Ashford University,Proprietary,"Biology, General.",Bachelor's Degree,,,
 2015_2016,001881,Ashford University,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,407,27875,26330
 2015_2016,001881,Ashford University,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,2785,37625,37834
 2015_2016,001881,Ashford University,Proprietary,"Business Administration, Management and Operations.",Master's Degree,2319,41000,41539
@@ -21,34 +21,34 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,001881,Ashford University,Proprietary,Business/Managerial Economics.,Bachelor's Degree,34,43281,40939
 2015_2016,001881,Ashford University,Proprietary,Communication and Media Studies.,Bachelor's Degree,122,34151,35935
 2016_2017,001881,Ashford University,Proprietary,Communication and Media Studies.,Bachelor's Degree,120,29813,33685
-2015_2016,001881,Ashford University,Proprietary,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001881,Ashford University,Proprietary,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,001881,Ashford University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,22026
-2016_2017,001881,Ashford University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,19352
+2015_2016,001881,Ashford University,Proprietary,Computer Science.,Bachelor's Degree,,,
+2016_2017,001881,Ashford University,Proprietary,Computer Science.,Bachelor's Degree,,,
+2015_2016,001881,Ashford University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,,,22026
+2016_2017,001881,Ashford University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,,,19352
 2015_2016,001881,Ashford University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,1093,40188,39276
-2015_2016,001881,Ashford University,Proprietary,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2015_2016,001881,Ashford University,Proprietary,Criminal Justice and Corrections.,Master's Degree,,,
 2016_2017,001881,Ashford University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,811,37188,37484
 2016_2017,001881,Ashford University,Proprietary,Criminal Justice and Corrections.,Master's Degree,62,41000,43728
-2015_2016,001881,Ashford University,Proprietary,Design and Applied Arts.,Bachelor's Degree,11,NA,22324
-2016_2017,001881,Ashford University,Proprietary,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
+2015_2016,001881,Ashford University,Proprietary,Design and Applied Arts.,Bachelor's Degree,11,,22324
+2016_2017,001881,Ashford University,Proprietary,Design and Applied Arts.,Bachelor's Degree,,,
 2015_2016,001881,Ashford University,Proprietary,"Education, General.",Bachelor's Degree,524,35500,36612
 2015_2016,001881,Ashford University,Proprietary,"Education, General.",Master's Degree,1746,41000,42169
 2016_2017,001881,Ashford University,Proprietary,"Education, General.",Bachelor's Degree,447,34375,35518
 2016_2017,001881,Ashford University,Proprietary,"Education, General.",Master's Degree,1495,41000,41742
-2015_2016,001881,Ashford University,Proprietary,"Education, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001881,Ashford University,Proprietary,"Education, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,001881,Ashford University,Proprietary,"Education, Other.",Bachelor's Degree,,,
+2016_2017,001881,Ashford University,Proprietary,"Education, Other.",Bachelor's Degree,,,
 2015_2016,001881,Ashford University,Proprietary,"Educational Assessment, Evaluation, and Research.",Bachelor's Degree,97,46438,41368
 2016_2017,001881,Ashford University,Proprietary,"Educational Assessment, Evaluation, and Research.",Bachelor's Degree,86,40748,38949
-2015_2016,001881,Ashford University,Proprietary,Educational/Instructional Media Design.,Bachelor's Degree,19,NA,38390
+2015_2016,001881,Ashford University,Proprietary,Educational/Instructional Media Design.,Bachelor's Degree,19,,38390
 2016_2017,001881,Ashford University,Proprietary,Educational/Instructional Media Design.,Bachelor's Degree,24,32031,31696
 2015_2016,001881,Ashford University,Proprietary,"English Language and Literature, General.",Bachelor's Degree,210,40123,39075
 2016_2017,001881,Ashford University,Proprietary,"English Language and Literature, General.",Bachelor's Degree,163,38063,37425
-2015_2016,001881,Ashford University,Proprietary,"English Language and Literature/Letters, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001881,Ashford University,Proprietary,"English Language and Literature/Letters, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,001881,Ashford University,Proprietary,"English Language and Literature/Letters, Other.",Bachelor's Degree,,,
+2016_2017,001881,Ashford University,Proprietary,"English Language and Literature/Letters, Other.",Bachelor's Degree,,,
 2015_2016,001881,Ashford University,Proprietary,Entrepreneurial and Small Business Operations.,Bachelor's Degree,121,44875,42721
 2016_2017,001881,Ashford University,Proprietary,Entrepreneurial and Small Business Operations.,Bachelor's Degree,106,47377,42799
-2015_2016,001881,Ashford University,Proprietary,Family and Consumer Economics and Related Studies.,Bachelor's Degree,14,NA,35799
-2016_2017,001881,Ashford University,Proprietary,Family and Consumer Economics and Related Studies.,Bachelor's Degree,13,NA,33934
+2015_2016,001881,Ashford University,Proprietary,Family and Consumer Economics and Related Studies.,Bachelor's Degree,14,,35799
+2016_2017,001881,Ashford University,Proprietary,Family and Consumer Economics and Related Studies.,Bachelor's Degree,13,,33934
 2015_2016,001881,Ashford University,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,109,38187,37187
 2016_2017,001881,Ashford University,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,112,37310,35656
 2015_2016,001881,Ashford University,Proprietary,Gerontology.,Bachelor's Degree,62,46500,42460
@@ -83,16 +83,16 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,001881,Ashford University,Proprietary,Marketing.,Bachelor's Degree,173,39316,38619
 2015_2016,001881,Ashford University,Proprietary,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,342,40718,40403
 2016_2017,001881,Ashford University,Proprietary,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,262,39332,38776
-2015_2016,001881,Ashford University,Proprietary,Military Applied Sciences.,Associate's Degree,NA,NA,NA
-2015_2016,001881,Ashford University,Proprietary,Military Applied Sciences.,Bachelor's Degree,10,NA,37749
-2016_2017,001881,Ashford University,Proprietary,Military Applied Sciences.,Associate's Degree,10,NA,22283
-2016_2017,001881,Ashford University,Proprietary,Military Applied Sciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,001881,Ashford University,Proprietary,Military Applied Sciences.,Associate's Degree,,,
+2015_2016,001881,Ashford University,Proprietary,Military Applied Sciences.,Bachelor's Degree,10,,37749
+2016_2017,001881,Ashford University,Proprietary,Military Applied Sciences.,Associate's Degree,10,,22283
+2016_2017,001881,Ashford University,Proprietary,Military Applied Sciences.,Bachelor's Degree,,,
 2015_2016,001881,Ashford University,Proprietary,Natural Resources Conservation and Research.,Bachelor's Degree,145,46563,43282
 2016_2017,001881,Ashford University,Proprietary,Natural Resources Conservation and Research.,Bachelor's Degree,118,42683,40632
 2015_2016,001881,Ashford University,Proprietary,Political Science and Government.,Bachelor's Degree,84,36563,37787
 2016_2017,001881,Ashford University,Proprietary,Political Science and Government.,Bachelor's Degree,73,34375,36861
 2015_2016,001881,Ashford University,Proprietary,"Psychology, General.",Bachelor's Degree,1374,43313,40913
-2015_2016,001881,Ashford University,Proprietary,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,001881,Ashford University,Proprietary,"Psychology, General.",Master's Degree,,,
 2016_2017,001881,Ashford University,Proprietary,"Psychology, General.",Bachelor's Degree,1066,43666,39923
 2016_2017,001881,Ashford University,Proprietary,"Psychology, General.",Master's Degree,158,40540,43514
 2015_2016,001881,Ashford University,Proprietary,Public Administration.,Bachelor's Degree,36,39106,39059
@@ -101,27 +101,27 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,001881,Ashford University,Proprietary,Public Administration.,Master's Degree,243,41000,43503
 2015_2016,001881,Ashford University,Proprietary,Real Estate.,Bachelor's Degree,51,38625,36872
 2016_2017,001881,Ashford University,Proprietary,Real Estate.,Bachelor's Degree,68,35317,34496
-2015_2016,001881,Ashford University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,001881,Ashford University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
+2015_2016,001881,Ashford University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,001881,Ashford University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
 2015_2016,001881,Ashford University,Proprietary,Social and Philosophical Foundations of Education.,Bachelor's Degree,28,34500,37079
-2016_2017,001881,Ashford University,Proprietary,Social and Philosophical Foundations of Education.,Bachelor's Degree,16,NA,41112
+2016_2017,001881,Ashford University,Proprietary,Social and Philosophical Foundations of Education.,Bachelor's Degree,16,,41112
 2015_2016,001881,Ashford University,Proprietary,"Social Sciences, General.",Bachelor's Degree,347,49688,45337
 2016_2017,001881,Ashford University,Proprietary,"Social Sciences, General.",Bachelor's Degree,167,48125,42972
 2015_2016,001881,Ashford University,Proprietary,Sociology.,Bachelor's Degree,357,43269,40871
 2016_2017,001881,Ashford University,Proprietary,Sociology.,Bachelor's Degree,244,45000,41098
-2015_2016,001881,Ashford University,Proprietary,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,001881,Ashford University,Proprietary,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,001881,Ashford University,Proprietary,Sustainability Studies.,Bachelor's Degree,17,NA,44385
-2016_2017,001881,Ashford University,Proprietary,Sustainability Studies.,Bachelor's Degree,14,NA,41855
+2015_2016,001881,Ashford University,Proprietary,Special Education and Teaching.,Master's Degree,,,
+2016_2017,001881,Ashford University,Proprietary,Special Education and Teaching.,Master's Degree,,,
+2015_2016,001881,Ashford University,Proprietary,Sustainability Studies.,Bachelor's Degree,17,,44385
+2016_2017,001881,Ashford University,Proprietary,Sustainability Studies.,Bachelor's Degree,14,,41855
 2015_2016,001881,Ashford University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,705,27875,25910
 2015_2016,001881,Ashford University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,1911,36770,37595
 2015_2016,001881,Ashford University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,361,37354,48355
 2016_2017,001881,Ashford University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,503,27308,24896
 2016_2017,001881,Ashford University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,1665,34500,35702
 2016_2017,001881,Ashford University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,301,37354,49262
-2015_2016,001881,Ashford University,Proprietary,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,18974
-2016_2017,001881,Ashford University,Proprietary,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,16624
+2015_2016,001881,Ashford University,Proprietary,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,18974
+2016_2017,001881,Ashford University,Proprietary,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,16624
 2015_2016,001881,Ashford University,Proprietary,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,48,34500,35920
 2016_2017,001881,Ashford University,Proprietary,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,31,32354,34708
-2015_2016,001881,Ashford University,Proprietary,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001881,Ashford University,Proprietary,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001881,Ashford University,Proprietary,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2016_2017,001881,Ashford University,Proprietary,"Visual and Performing Arts, General.",Bachelor's Degree,,,

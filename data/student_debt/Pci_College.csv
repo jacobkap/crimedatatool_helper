@@ -1,11 +1,11 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,034793,Pci College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,20000,18287
-2015_2016,034793,Pci College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2016_2017,034793,Pci College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,20000,18850
-2016_2017,034793,Pci College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,21234
-2015_2016,034793,Pci College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,034793,Pci College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,034793,Pci College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,034793,Pci College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,034793,Pci College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,6561
-2016_2017,034793,Pci College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,7219
+2015_2016,034793,Pci College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,20000,18287
+2015_2016,034793,Pci College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2016_2017,034793,Pci College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,20000,18850
+2016_2017,034793,Pci College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,21234
+2015_2016,034793,Pci College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2016_2017,034793,Pci College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2015_2016,034793,Pci College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,034793,Pci College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,034793,Pci College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,6561
+2016_2017,034793,Pci College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,7219

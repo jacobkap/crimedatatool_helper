@@ -1,53 +1,53 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001341,Westmont College,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,001341,Westmont College,Private,Anthropology.,Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,Anthropology.,Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,Area Studies.,Bachelor's Degree,,,
 2015_2016,001341,Westmont College,Private,"Biology, General.",Bachelor's Degree,27,24250,22036
 2016_2017,001341,Westmont College,Private,"Biology, General.",Bachelor's Degree,35,25000,22461
 2015_2016,001341,Westmont College,Private,Business/Managerial Economics.,Bachelor's Degree,51,23000,21787
 2016_2017,001341,Westmont College,Private,Business/Managerial Economics.,Bachelor's Degree,53,21000,20680
-2015_2016,001341,Westmont College,Private,Chemistry.,Bachelor's Degree,10,NA,20721
-2016_2017,001341,Westmont College,Private,Chemistry.,Bachelor's Degree,12,NA,17293
+2015_2016,001341,Westmont College,Private,Chemistry.,Bachelor's Degree,10,,20721
+2016_2017,001341,Westmont College,Private,Chemistry.,Bachelor's Degree,12,,17293
 2015_2016,001341,Westmont College,Private,Communication and Media Studies.,Bachelor's Degree,20,22733,19110
 2016_2017,001341,Westmont College,Private,Communication and Media Studies.,Bachelor's Degree,20,21000,20189
-2015_2016,001341,Westmont College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,"English Language and Literature, General.",Bachelor's Degree,19,NA,20212
+2015_2016,001341,Westmont College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,Engineering Physics.,Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,Engineering Physics.,Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,"English Language and Literature, General.",Bachelor's Degree,19,,20212
 2016_2017,001341,Westmont College,Private,"English Language and Literature, General.",Bachelor's Degree,24,21282,19528
-2015_2016,001341,Westmont College,Private,Fine and Studio Arts.,Bachelor's Degree,13,NA,21533
-2016_2017,001341,Westmont College,Private,Fine and Studio Arts.,Bachelor's Degree,15,NA,18867
+2015_2016,001341,Westmont College,Private,Fine and Studio Arts.,Bachelor's Degree,13,,21533
+2016_2017,001341,Westmont College,Private,Fine and Studio Arts.,Bachelor's Degree,15,,18867
 2015_2016,001341,Westmont College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,55,23000,21339
 2016_2017,001341,Westmont College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,68,22434,21042
-2015_2016,001341,Westmont College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,16,NA,20716
-2016_2017,001341,Westmont College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,19356
-2015_2016,001341,Westmont College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,Music.,Bachelor's Degree,10,NA,22135
-2016_2017,001341,Westmont College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,Political Science and Government.,Bachelor's Degree,11,NA,21355
+2015_2016,001341,Westmont College,Private,History.,Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,History.,Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,16,,20716
+2016_2017,001341,Westmont College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,19356
+2015_2016,001341,Westmont College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,Music.,Bachelor's Degree,10,,22135
+2016_2017,001341,Westmont College,Private,Music.,Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,Physics.,Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,Political Science and Government.,Bachelor's Degree,11,,21355
 2015_2016,001341,Westmont College,Private,"Psychology, General.",Bachelor's Degree,24,19282,19908
 2016_2017,001341,Westmont College,Private,"Psychology, General.",Bachelor's Degree,30,23087,21596
-2015_2016,001341,Westmont College,Private,Religion/Religious Studies.,Bachelor's Degree,11,NA,22522
-2016_2017,001341,Westmont College,Private,Religion/Religious Studies.,Bachelor's Degree,15,NA,21134
-2015_2016,001341,Westmont College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001341,Westmont College,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001341,Westmont College,Private,Sociology.,Bachelor's Degree,13,NA,22138
-2016_2017,001341,Westmont College,Private,Sociology.,Bachelor's Degree,12,NA,19298
-2015_2016,001341,Westmont College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001341,Westmont College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001341,Westmont College,Private,Religion/Religious Studies.,Bachelor's Degree,11,,22522
+2016_2017,001341,Westmont College,Private,Religion/Religious Studies.,Bachelor's Degree,15,,21134
+2015_2016,001341,Westmont College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,001341,Westmont College,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,001341,Westmont College,Private,Sociology.,Bachelor's Degree,13,,22138
+2016_2017,001341,Westmont College,Private,Sociology.,Bachelor's Degree,12,,19298
+2015_2016,001341,Westmont College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2016_2017,001341,Westmont College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,

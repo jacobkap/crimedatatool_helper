@@ -1,140 +1,140 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,002873,Nassau Community College,Public,Accounting and Related Services.,Associate's Degree,29,10500,10813
 2016_2017,002873,Nassau Community College,Public,Accounting and Related Services.,Associate's Degree,33,11000,11801
-2015_2016,002873,Nassau Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,15,NA,14722
-2016_2017,002873,Nassau Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,19,NA,12845
+2015_2016,002873,Nassau Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,15,,14722
+2016_2017,002873,Nassau Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,19,,12845
 2015_2016,002873,Nassau Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,35,12000,13298
 2016_2017,002873,Nassau Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,46,12625,14940
-2015_2016,002873,Nassau Community College,Public,American Sign Language.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,American Sign Language.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Audiovisual Communications Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Audiovisual Communications Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,"Biology, General.",Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Biology, General.",Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002873,Nassau Community College,Public,American Sign Language.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,American Sign Language.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Audiovisual Communications Technologies/Technicians.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Audiovisual Communications Technologies/Technicians.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,"Biology, General.",Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,"Biology, General.",Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,002873,Nassau Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,76,8974,10161
-2016_2017,002873,Nassau Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002873,Nassau Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,002873,Nassau Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,91,8850,10036
-2015_2016,002873,Nassau Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,10,NA,11068
+2015_2016,002873,Nassau Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,10,,11068
 2015_2016,002873,Nassau Community College,Public,Communication and Media Studies.,Associate's Degree,24,9675,10829
 2016_2017,002873,Nassau Community College,Public,Communication and Media Studies.,Associate's Degree,26,9875,10937
-2015_2016,002873,Nassau Community College,Public,"Communications Technologies/Technicians and Support Services, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Communications Technologies/Technicians and Support Services, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Community Organization and Advocacy.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Community Organization and Advocacy.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,"Computer and Information Sciences and Support Services, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Computer and Information Sciences and Support Services, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002873,Nassau Community College,Public,"Communications Technologies/Technicians and Support Services, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,"Communications Technologies/Technicians and Support Services, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Community Organization and Advocacy.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Community Organization and Advocacy.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,"Computer and Information Sciences and Support Services, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,"Computer and Information Sciences and Support Services, Other.",Undergraduate Certificate or Diploma,,,
 2015_2016,002873,Nassau Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,27,10720,12988
-2016_2017,002873,Nassau Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002873,Nassau Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
 2016_2017,002873,Nassau Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,21,10725,11752
-2015_2016,002873,Nassau Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Computer Science.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Computer Science.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Construction Trades, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002873,Nassau Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Computer Science.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Computer Science.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,"Construction Trades, Other.",Undergraduate Certificate or Diploma,,,
 2015_2016,002873,Nassau Community College,Public,Criminal Justice and Corrections.,Associate's Degree,76,11000,11647
 2016_2017,002873,Nassau Community College,Public,Criminal Justice and Corrections.,Associate's Degree,76,11130,11572
-2015_2016,002873,Nassau Community College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Dance.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Dance.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Data Processing.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Design and Applied Arts.,Associate's Degree,19,NA,12259
-2016_2017,002873,Nassau Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002873,Nassau Community College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Culinary Arts and Related Services.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Culinary Arts and Related Services.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Dance.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Dance.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Data Processing.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Design and Applied Arts.,Associate's Degree,19,,12259
+2016_2017,002873,Nassau Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
 2016_2017,002873,Nassau Community College,Public,Design and Applied Arts.,Associate's Degree,21,9000,11090
-2015_2016,002873,Nassau Community College,Public,Dietetics and Clinical Nutrition Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Dietetics and Clinical Nutrition Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,11,NA,10531
-2016_2017,002873,Nassau Community College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Engineering Science.,Associate's Degree,NA,NA,6988
-2016_2017,002873,Nassau Community College,Public,Engineering Science.,Associate's Degree,12,NA,7736
-2015_2016,002873,Nassau Community College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Film/Video and Photographic Arts.,Associate's Degree,NA,NA,12641
-2016_2017,002873,Nassau Community College,Public,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Film/Video and Photographic Arts.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Finance and Financial Management Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Finance and Financial Management Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Fine and Studio Arts.,Associate's Degree,14,NA,10027
-2016_2017,002873,Nassau Community College,Public,Fine and Studio Arts.,Associate's Degree,10,NA,10597
-2015_2016,002873,Nassau Community College,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,"Foods, Nutrition, and Related Services.",Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Foods, Nutrition, and Related Services.",Associate's Degree,10,NA,11310
-2015_2016,002873,Nassau Community College,Public,Funeral Service and Mortuary Science.,Associate's Degree,19,NA,18343
-2016_2017,002873,Nassau Community College,Public,Funeral Service and Mortuary Science.,Associate's Degree,19,NA,18401
-2015_2016,002873,Nassau Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,17089
-2016_2017,002873,Nassau Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Health and Medical Administrative Services.,Associate's Degree,15,NA,16374
-2015_2016,002873,Nassau Community College,Public,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,"Health Professions and Related Clinical Sciences, Other.",Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Health Professions and Related Clinical Sciences, Other.",Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Homeland Security.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Homeland Security.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,"Human Services, General.",Associate's Degree,NA,12300,11782
+2015_2016,002873,Nassau Community College,Public,Dietetics and Clinical Nutrition Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Dietetics and Clinical Nutrition Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,11,,10531
+2016_2017,002873,Nassau Community College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Engineering Science.,Associate's Degree,,,6988
+2016_2017,002873,Nassau Community College,Public,Engineering Science.,Associate's Degree,12,,7736
+2015_2016,002873,Nassau Community College,Public,"Engineering, General.",Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,"Engineering, General.",Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Film/Video and Photographic Arts.,Associate's Degree,,,12641
+2016_2017,002873,Nassau Community College,Public,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Film/Video and Photographic Arts.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Finance and Financial Management Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Finance and Financial Management Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Fine and Studio Arts.,Associate's Degree,14,,10027
+2016_2017,002873,Nassau Community College,Public,Fine and Studio Arts.,Associate's Degree,10,,10597
+2015_2016,002873,Nassau Community College,Public,Fire Protection.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Fire Protection.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,"Foods, Nutrition, and Related Services.",Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,"Foods, Nutrition, and Related Services.",Associate's Degree,10,,11310
+2015_2016,002873,Nassau Community College,Public,Funeral Service and Mortuary Science.,Associate's Degree,19,,18343
+2016_2017,002873,Nassau Community College,Public,Funeral Service and Mortuary Science.,Associate's Degree,19,,18401
+2015_2016,002873,Nassau Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Health and Medical Administrative Services.,Associate's Degree,,,17089
+2016_2017,002873,Nassau Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Health and Medical Administrative Services.,Associate's Degree,15,,16374
+2015_2016,002873,Nassau Community College,Public,Health and Physical Education/Fitness.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Health and Physical Education/Fitness.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,"Health Professions and Related Clinical Sciences, Other.",Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,"Health Professions and Related Clinical Sciences, Other.",Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Homeland Security.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Homeland Security.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Hospitality Administration/Management.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Hospitality Administration/Management.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,"Human Services, General.",Associate's Degree,,12300,11782
 2016_2017,002873,Nassau Community College,Public,"Human Services, General.",Associate's Degree,26,10700,11249
-2015_2016,002873,Nassau Community College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002873,Nassau Community College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,002873,Nassau Community College,Public,Legal Support Services.,Associate's Degree,39,9500,11431
-2016_2017,002873,Nassau Community College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002873,Nassau Community College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,002873,Nassau Community College,Public,Legal Support Services.,Associate's Degree,36,12233,12310
 2015_2016,002873,Nassau Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,572,9565,10855
 2016_2017,002873,Nassau Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,581,10000,10886
-2015_2016,002873,Nassau Community College,Public,Marketing.,Associate's Degree,NA,NA,9511
+2015_2016,002873,Nassau Community College,Public,Marketing.,Associate's Degree,,,9511
 2016_2017,002873,Nassau Community College,Public,Marketing.,Associate's Degree,22,10305,11141
-2016_2017,002873,Nassau Community College,Public,Mathematics.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Music.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Music.,Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,"Public Relations, Advertising, and Applied Communication.",Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Public Relations, Advertising, and Applied Communication.",Associate's Degree,NA,NA,NA
+2016_2017,002873,Nassau Community College,Public,Mathematics.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Music.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Music.,Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,"Public Relations, Advertising, and Applied Communication.",Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,"Public Relations, Advertising, and Applied Communication.",Associate's Degree,,,
 2015_2016,002873,Nassau Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,122,12125,13735
 2016_2017,002873,Nassau Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,103,12000,14033
-2015_2016,002873,Nassau Community College,Public,Rehabilitation and Therapeutic Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Rehabilitation and Therapeutic Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Rhetoric and Composition/Writing Studies.,Associate's Degree,NA,NA,NA
+2015_2016,002873,Nassau Community College,Public,Rehabilitation and Therapeutic Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Rehabilitation and Therapeutic Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Rhetoric and Composition/Writing Studies.,Associate's Degree,,,
 2015_2016,002873,Nassau Community College,Public,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,25,11211,10852
 2016_2017,002873,Nassau Community College,Public,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,25,11000,10323
-2015_2016,002873,Nassau Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,8966
-2016_2017,002873,Nassau Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,9603,8462
-2015_2016,002873,Nassau Community College,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Associate's Degree,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002873,Nassau Community College,Public,Teaching Assistants/Aides.,Associate's Degree,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002873,Nassau Community College,Public,Teaching Assistants/Aides.,Associate's Degree,NA,NA,NA
+2015_2016,002873,Nassau Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,8966
+2016_2017,002873,Nassau Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,9603,8462
+2015_2016,002873,Nassau Community College,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Associate's Degree,,,
+2015_2016,002873,Nassau Community College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,,,
+2015_2016,002873,Nassau Community College,Public,Teaching Assistants/Aides.,Associate's Degree,,,
+2016_2017,002873,Nassau Community College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,,,
+2016_2017,002873,Nassau Community College,Public,Teaching Assistants/Aides.,Associate's Degree,,,

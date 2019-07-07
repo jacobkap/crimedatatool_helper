@@ -1,16 +1,16 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,001164,Chapman University,Private,Accounting and Related Services.,Bachelor's Degree,50,21083,22675
-2015_2016,001164,Chapman University,Private,Accounting and Related Services.,Master's Degree,NA,NA,NA
+2015_2016,001164,Chapman University,Private,Accounting and Related Services.,Master's Degree,,,
 2016_2017,001164,Chapman University,Private,Accounting and Related Services.,Bachelor's Degree,55,19850,20193
-2016_2017,001164,Chapman University,Private,Accounting and Related Services.,Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,18,NA,24228
-2016_2017,001164,Chapman University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Alternative and Complementary Medicine and Medical Systems.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,19,NA,21513
+2016_2017,001164,Chapman University,Private,Accounting and Related Services.,Master's Degree,,,
+2015_2016,001164,Chapman University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,18,,24228
+2016_2017,001164,Chapman University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,,,
+2015_2016,001164,Chapman University,Private,Alternative and Complementary Medicine and Medical Systems.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Anthropology.,Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Area Studies.,Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,19,,21513
 2016_2017,001164,Chapman University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,21,23250,22936
 2015_2016,001164,Chapman University,Private,"Biology, General.",Bachelor's Degree,45,22430,21271
 2016_2017,001164,Chapman University,Private,"Biology, General.",Bachelor's Degree,42,19500,20415
@@ -22,117 +22,117 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,001164,Chapman University,Private,Business/Corporate Communications.,Bachelor's Degree,93,23250,21454
 2015_2016,001164,Chapman University,Private,Business/Managerial Economics.,Bachelor's Degree,36,22363,20678
 2016_2017,001164,Chapman University,Private,Business/Managerial Economics.,Bachelor's Degree,39,19500,19500
-2015_2016,001164,Chapman University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,87523
-2015_2016,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,85150
-2016_2017,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,17,NA,86328
-2016_2017,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,90569,86436
-2016_2017,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,90674,87716
+2015_2016,001164,Chapman University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2015_2016,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,,87523
+2015_2016,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,85150
+2016_2017,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,17,,86328
+2016_2017,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,90569,86436
+2016_2017,001164,Chapman University,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,90674,87716
 2015_2016,001164,Chapman University,Private,Communication and Media Studies.,Bachelor's Degree,96,20125,20145
 2016_2017,001164,Chapman University,Private,Communication and Media Studies.,Bachelor's Degree,90,19500,19819
-2015_2016,001164,Chapman University,Private,Communication Disorders Sciences and Services.,Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Communication Disorders Sciences and Services.,Graduate/Professional Certificate,NA,NA,72813
+2015_2016,001164,Chapman University,Private,Communication Disorders Sciences and Services.,Master's Degree,,,
+2015_2016,001164,Chapman University,Private,Communication Disorders Sciences and Services.,Graduate/Professional Certificate,,,72813
 2016_2017,001164,Chapman University,Private,Communication Disorders Sciences and Services.,Master's Degree,36,89250,81078
-2016_2017,001164,Chapman University,Private,Communication Disorders Sciences and Services.,Graduate/Professional Certificate,NA,86914,79809
-2015_2016,001164,Chapman University,Private,Computational Science.,Doctoral Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Computational Science.,Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Computational Science.,Doctoral Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Computer Programming.,Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Computer Programming.,Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Computer Science.,Bachelor's Degree,17,NA,24953
+2016_2017,001164,Chapman University,Private,Communication Disorders Sciences and Services.,Graduate/Professional Certificate,,86914,79809
+2015_2016,001164,Chapman University,Private,Computational Science.,Doctoral Degree,,,
+2016_2017,001164,Chapman University,Private,Computational Science.,Master's Degree,,,
+2016_2017,001164,Chapman University,Private,Computational Science.,Doctoral Degree,,,
+2015_2016,001164,Chapman University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Computer Programming.,Master's Degree,,,
+2016_2017,001164,Chapman University,Private,Computer Programming.,Master's Degree,,,
+2015_2016,001164,Chapman University,Private,Computer Science.,Bachelor's Degree,17,,24953
 2016_2017,001164,Chapman University,Private,Computer Science.,Bachelor's Degree,21,26000,26511
-2015_2016,001164,Chapman University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Curriculum and Instruction.,Doctoral Degree,13,NA,70928
-2016_2017,001164,Chapman University,Private,Curriculum and Instruction.,Doctoral Degree,NA,NA,84303
+2015_2016,001164,Chapman University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Curriculum and Instruction.,Doctoral Degree,13,,70928
+2016_2017,001164,Chapman University,Private,Curriculum and Instruction.,Doctoral Degree,,,84303
 2015_2016,001164,Chapman University,Private,Dance.,Bachelor's Degree,34,25250,23111
 2016_2017,001164,Chapman University,Private,Dance.,Bachelor's Degree,28,26470,22347
 2015_2016,001164,Chapman University,Private,Design and Applied Arts.,Bachelor's Degree,25,19500,19919
 2016_2017,001164,Chapman University,Private,Design and Applied Arts.,Bachelor's Degree,23,19989,21000
 2015_2016,001164,Chapman University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,75,21500,20030
-2015_2016,001164,Chapman University,Private,Drama/Theatre Arts and Stagecraft.,Master's Degree,18,NA,109958
+2015_2016,001164,Chapman University,Private,Drama/Theatre Arts and Stagecraft.,Master's Degree,18,,109958
 2016_2017,001164,Chapman University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,75,23000,21514
 2016_2017,001164,Chapman University,Private,Drama/Theatre Arts and Stagecraft.,Master's Degree,24,127109,118212
-2015_2016,001164,Chapman University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Economics.,Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Economics.,Master's Degree,NA,NA,NA
+2015_2016,001164,Chapman University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Economics.,Master's Degree,,,
+2016_2017,001164,Chapman University,Private,Economics.,Master's Degree,,,
 2015_2016,001164,Chapman University,Private,"Education, General.",Bachelor's Degree,65,23250,21575
-2015_2016,001164,Chapman University,Private,"Education, General.",Master's Degree,NA,NA,NA
+2015_2016,001164,Chapman University,Private,"Education, General.",Master's Degree,,,
 2016_2017,001164,Chapman University,Private,"Education, General.",Bachelor's Degree,67,23250,22119
-2015_2016,001164,Chapman University,Private,Educational Administration and Supervision.,Master's Degree,15,NA,25385
-2015_2016,001164,Chapman University,Private,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Educational Administration and Supervision.,Master's Degree,10,NA,28568
-2016_2017,001164,Chapman University,Private,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
+2015_2016,001164,Chapman University,Private,Educational Administration and Supervision.,Master's Degree,15,,25385
+2015_2016,001164,Chapman University,Private,Educational Administration and Supervision.,Doctoral Degree,,,
+2016_2017,001164,Chapman University,Private,Educational Administration and Supervision.,Master's Degree,10,,28568
+2016_2017,001164,Chapman University,Private,Educational Administration and Supervision.,Doctoral Degree,,,
 2015_2016,001164,Chapman University,Private,"English Language and Literature, General.",Bachelor's Degree,23,20008,20951
-2015_2016,001164,Chapman University,Private,"English Language and Literature, General.",Master's Degree,12,NA,67988
+2015_2016,001164,Chapman University,Private,"English Language and Literature, General.",Master's Degree,12,,67988
 2016_2017,001164,Chapman University,Private,"English Language and Literature, General.",Bachelor's Degree,24,23250,23438
-2016_2017,001164,Chapman University,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2016_2017,001164,Chapman University,Private,"English Language and Literature, General.",Master's Degree,,,
 2015_2016,001164,Chapman University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,117,23000,22289
 2015_2016,001164,Chapman University,Private,Film/Video and Photographic Arts.,Master's Degree,67,140821,137910
 2016_2017,001164,Chapman University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,129,23250,22977
 2016_2017,001164,Chapman University,Private,Film/Video and Photographic Arts.,Master's Degree,62,134604,136754
-2015_2016,001164,Chapman University,Private,Fine and Studio Arts.,Bachelor's Degree,11,NA,20090
-2016_2017,001164,Chapman University,Private,Fine and Studio Arts.,Bachelor's Degree,11,NA,20595
+2015_2016,001164,Chapman University,Private,Fine and Studio Arts.,Bachelor's Degree,11,,20090
+2016_2017,001164,Chapman University,Private,Fine and Studio Arts.,Bachelor's Degree,11,,20595
 2015_2016,001164,Chapman University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,29,25749,23137
 2016_2017,001164,Chapman University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,45,26000,23361
 2015_2016,001164,Chapman University,Private,History.,Bachelor's Degree,23,23000,23364
-2016_2017,001164,Chapman University,Private,History.,Bachelor's Degree,16,NA,23859
-2016_2017,001164,Chapman University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,International/Global Studies.,Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,International/Global Studies.,Master's Degree,NA,NA,NA
+2016_2017,001164,Chapman University,Private,History.,Bachelor's Degree,16,,23859
+2016_2017,001164,Chapman University,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,International/Global Studies.,Master's Degree,,,
+2016_2017,001164,Chapman University,Private,International/Global Studies.,Master's Degree,,,
 2015_2016,001164,Chapman University,Private,Journalism.,Bachelor's Degree,32,16750,16916
 2016_2017,001164,Chapman University,Private,Journalism.,Bachelor's Degree,37,17500,18157
-2015_2016,001164,Chapman University,Private,Law.,Doctoral Degree,NA,133114,135582
+2015_2016,001164,Chapman University,Private,Law.,Doctoral Degree,,133114,135582
 2015_2016,001164,Chapman University,Private,Law.,First Professional Degree,103,153000,140303
-2016_2017,001164,Chapman University,Private,Law.,Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Law.,Doctoral Degree,NA,148852,140055
-2016_2017,001164,Chapman University,Private,Law.,First Professional Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,Doctoral Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,First Professional Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,Doctoral Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,First Professional Degree,NA,NA,119306
-2015_2016,001164,Chapman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,20250,17777
-2015_2016,001164,Chapman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",First Professional Degree,NA,183341,171854
-2016_2017,001164,Chapman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
+2016_2017,001164,Chapman University,Private,Law.,Master's Degree,,,
+2016_2017,001164,Chapman University,Private,Law.,Doctoral Degree,,148852,140055
+2016_2017,001164,Chapman University,Private,Law.,First Professional Degree,,,
+2015_2016,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,,,
+2015_2016,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,Doctoral Degree,,,
+2015_2016,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,First Professional Degree,,,
+2016_2017,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,,,
+2016_2017,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,Doctoral Degree,,,
+2016_2017,001164,Chapman University,Private,Legal Research and Advanced Professional Studies.,First Professional Degree,,,119306
+2015_2016,001164,Chapman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,20250,17777
+2015_2016,001164,Chapman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2015_2016,001164,Chapman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",First Professional Degree,,183341,171854
+2016_2017,001164,Chapman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
 2015_2016,001164,Chapman University,Private,Mathematics.,Bachelor's Degree,26,25862,22794
 2016_2017,001164,Chapman University,Private,Mathematics.,Bachelor's Degree,23,25500,22714
 2015_2016,001164,Chapman University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,28,75847,76587
 2016_2017,001164,Chapman University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,37,74403,77424
-2016_2017,001164,Chapman University,Private,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
+2016_2017,001164,Chapman University,Private,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
 2015_2016,001164,Chapman University,Private,Music.,Bachelor's Degree,39,26000,21658
 2016_2017,001164,Chapman University,Private,Music.,Bachelor's Degree,37,27000,22342
-2015_2016,001164,Chapman University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Natural Resources Management and Policy.,Bachelor's Degree,10,NA,18444
-2016_2017,001164,Chapman University,Private,Natural Resources Management and Policy.,Bachelor's Degree,19,NA,20176
-2015_2016,001164,Chapman University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Nutrition Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Nutrition Sciences.,Master's Degree,11,NA,45853
-2016_2017,001164,Chapman University,Private,Nutrition Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Nutrition Sciences.,Master's Degree,10,NA,32553
-2015_2016,001164,Chapman University,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,17,NA,21807
-2015_2016,001164,Chapman University,Private,Peace Studies and Conflict Resolution.,Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,12,NA,21345
-2016_2017,001164,Chapman University,Private,Peace Studies and Conflict Resolution.,Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Philosophy.,Bachelor's Degree,NA,NA,18842
-2015_2016,001164,Chapman University,Private,"Physical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,001164,Chapman University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Natural Resources Conservation and Research.,Master's Degree,,,
+2016_2017,001164,Chapman University,Private,Natural Resources Conservation and Research.,Master's Degree,,,
+2015_2016,001164,Chapman University,Private,Natural Resources Management and Policy.,Bachelor's Degree,10,,18444
+2016_2017,001164,Chapman University,Private,Natural Resources Management and Policy.,Bachelor's Degree,19,,20176
+2015_2016,001164,Chapman University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Nutrition Sciences.,Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Nutrition Sciences.,Master's Degree,11,,45853
+2016_2017,001164,Chapman University,Private,Nutrition Sciences.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Nutrition Sciences.,Master's Degree,10,,32553
+2015_2016,001164,Chapman University,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,17,,21807
+2015_2016,001164,Chapman University,Private,Peace Studies and Conflict Resolution.,Master's Degree,,,
+2016_2017,001164,Chapman University,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,12,,21345
+2016_2017,001164,Chapman University,Private,Peace Studies and Conflict Resolution.,Master's Degree,,,
+2016_2017,001164,Chapman University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,,,
+2016_2017,001164,Chapman University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,,
+2015_2016,001164,Chapman University,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Philosophy.,Bachelor's Degree,,,18842
+2015_2016,001164,Chapman University,Private,"Physical Sciences, Other.",Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Physics.,Bachelor's Degree,,,
 2015_2016,001164,Chapman University,Private,Political Science and Government.,Bachelor's Degree,59,21500,21435
 2016_2017,001164,Chapman University,Private,Political Science and Government.,Bachelor's Degree,51,19500,21171
 2015_2016,001164,Chapman University,Private,"Psychology, General.",Bachelor's Degree,121,24000,21927
@@ -140,43 +140,43 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,001164,Chapman University,Private,Public Health.,Bachelor's Degree,52,20000,21433
 2016_2017,001164,Chapman University,Private,Public Health.,Bachelor's Degree,52,22125,21890
 2015_2016,001164,Chapman University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,70,23175,22446
-2015_2016,001164,Chapman University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
+2015_2016,001164,Chapman University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,,,
 2016_2017,001164,Chapman University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,69,23000,21382
-2016_2017,001164,Chapman University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,148379,129742
-2015_2016,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,16,NA,153924
-2016_2017,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,149338,138446
-2016_2017,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,16,NA,153924
-2015_2016,001164,Chapman University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,001164,Chapman University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,,,
+2015_2016,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,148379,129742
+2015_2016,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,16,,153924
+2016_2017,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,149338,138446
+2016_2017,001164,Chapman University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,16,,153924
+2015_2016,001164,Chapman University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
 2015_2016,001164,Chapman University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,29,23677,22241
 2015_2016,001164,Chapman University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,21,49118,52053
 2016_2017,001164,Chapman University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,31,21500,17841
-2016_2017,001164,Chapman University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,19,NA,59742
+2016_2017,001164,Chapman University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,19,,59742
 2015_2016,001164,Chapman University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,23,23250,22038
-2016_2017,001164,Chapman University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,17,NA,22998
-2015_2016,001164,Chapman University,Private,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Social Work.,Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Social Work.,Bachelor's Degree,NA,NA,NA
+2016_2017,001164,Chapman University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,17,,22998
+2015_2016,001164,Chapman University,Private,Social and Philosophical Foundations of Education.,Master's Degree,,,
+2015_2016,001164,Chapman University,Private,"Social Sciences, Other.",Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,"Social Sciences, Other.",Bachelor's Degree,,,
+2015_2016,001164,Chapman University,Private,Social Work.,Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,Social Work.,Bachelor's Degree,,,
 2015_2016,001164,Chapman University,Private,Sociology.,Bachelor's Degree,33,20000,19919
 2016_2017,001164,Chapman University,Private,Sociology.,Bachelor's Degree,31,19014,19470
-2015_2016,001164,Chapman University,Private,Special Education and Teaching.,Master's Degree,15,NA,54888
-2015_2016,001164,Chapman University,Private,Special Education and Teaching.,Doctoral Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001164,Chapman University,Private,Special Education and Teaching.,Master's Degree,15,,54888
+2015_2016,001164,Chapman University,Private,Special Education and Teaching.,Doctoral Degree,,,
+2015_2016,001164,Chapman University,Private,Special Education and Teaching.,Graduate/Professional Certificate,,,
 2016_2017,001164,Chapman University,Private,Special Education and Teaching.,Master's Degree,24,52484,47367
-2016_2017,001164,Chapman University,Private,Special Education and Teaching.,Doctoral Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,44886
-2015_2016,001164,Chapman University,Private,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2015_2016,001164,Chapman University,Private,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001164,Chapman University,Private,Special Education and Teaching.,Doctoral Degree,,,
+2016_2017,001164,Chapman University,Private,Special Education and Teaching.,Graduate/Professional Certificate,,,44886
+2015_2016,001164,Chapman University,Private,Student Counseling and Personnel Services.,Master's Degree,,,
+2015_2016,001164,Chapman University,Private,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
+2016_2017,001164,Chapman University,Private,Student Counseling and Personnel Services.,Master's Degree,,,
+2016_2017,001164,Chapman University,Private,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
 2015_2016,001164,Chapman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,25,46431,44807
-2015_2016,001164,Chapman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001164,Chapman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,,,
 2016_2017,001164,Chapman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,42,46792,45605
-2016_2017,001164,Chapman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,46353
-2015_2016,001164,Chapman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001164,Chapman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2016_2017,001164,Chapman University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,,,46353
+2015_2016,001164,Chapman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001164,Chapman University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

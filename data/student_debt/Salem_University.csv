@@ -1,38 +1,38 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003820,Salem University,Proprietary,"Biology, General.",Associate's Degree,NA,NA,NA
-2015_2016,003820,Salem University,Proprietary,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003820,Salem University,Proprietary,"Biology, General.",Associate's Degree,NA,NA,15708
-2016_2017,003820,Salem University,Proprietary,"Biology, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003820,Salem University,Proprietary,"Biology, General.",Associate's Degree,,,
+2015_2016,003820,Salem University,Proprietary,"Biology, General.",Bachelor's Degree,,,
+2016_2017,003820,Salem University,Proprietary,"Biology, General.",Associate's Degree,,,15708
+2016_2017,003820,Salem University,Proprietary,"Biology, General.",Bachelor's Degree,,,
 2015_2016,003820,Salem University,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,129,12500,18010
 2015_2016,003820,Salem University,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,60,30801,32593
 2015_2016,003820,Salem University,Proprietary,"Business Administration, Management and Operations.",Master's Degree,110,28200,29934
 2016_2017,003820,Salem University,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,106,11875,15873
 2016_2017,003820,Salem University,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,86,23442,25104
 2016_2017,003820,Salem University,Proprietary,"Business Administration, Management and Operations.",Master's Degree,75,28200,30053
-2015_2016,003820,Salem University,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,18,NA,22349
-2015_2016,003820,Salem University,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003820,Salem University,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,18,,22349
+2015_2016,003820,Salem University,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,,,
 2016_2017,003820,Salem University,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,26,12500,14750
-2016_2017,003820,Salem University,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,14,NA,24509
-2015_2016,003820,Salem University,Proprietary,Criminal Justice and Corrections.,Associate's Degree,NA,17856,19719
+2016_2017,003820,Salem University,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,14,,24509
+2015_2016,003820,Salem University,Proprietary,Criminal Justice and Corrections.,Associate's Degree,,17856,19719
 2015_2016,003820,Salem University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,28,31934,31271
-2016_2017,003820,Salem University,Proprietary,Criminal Justice and Corrections.,Associate's Degree,NA,13000,15529
-2016_2017,003820,Salem University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,26587,26470
-2015_2016,003820,Salem University,Proprietary,Curriculum and Instruction.,Master's Degree,NA,25370,22922
-2016_2017,003820,Salem University,Proprietary,Curriculum and Instruction.,Master's Degree,NA,16678,NA
-2015_2016,003820,Salem University,Proprietary,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,003820,Salem University,Proprietary,Educational Administration and Supervision.,Graduate/Professional Certificate,10,NA,14619
-2016_2017,003820,Salem University,Proprietary,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,003820,Salem University,Proprietary,Educational Administration and Supervision.,Graduate/Professional Certificate,16,NA,12662
-2015_2016,003820,Salem University,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,14904
-2016_2017,003820,Salem University,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003820,Salem University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
-2015_2016,003820,Salem University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,003820,Salem University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
-2016_2017,003820,Salem University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,003820,Salem University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
-2015_2016,003820,Salem University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,003820,Salem University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,003820,Salem University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,003820,Salem University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,003820,Salem University,Proprietary,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003820,Salem University,Proprietary,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003820,Salem University,Proprietary,Criminal Justice and Corrections.,Associate's Degree,,13000,15529
+2016_2017,003820,Salem University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,26587,26470
+2015_2016,003820,Salem University,Proprietary,Curriculum and Instruction.,Master's Degree,,25370,22922
+2016_2017,003820,Salem University,Proprietary,Curriculum and Instruction.,Master's Degree,,16678,
+2015_2016,003820,Salem University,Proprietary,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,003820,Salem University,Proprietary,Educational Administration and Supervision.,Graduate/Professional Certificate,10,,14619
+2016_2017,003820,Salem University,Proprietary,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,003820,Salem University,Proprietary,Educational Administration and Supervision.,Graduate/Professional Certificate,16,,12662
+2015_2016,003820,Salem University,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,14904
+2016_2017,003820,Salem University,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2015_2016,003820,Salem University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
+2015_2016,003820,Salem University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,003820,Salem University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
+2016_2017,003820,Salem University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,003820,Salem University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
+2015_2016,003820,Salem University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,003820,Salem University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,003820,Salem University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,003820,Salem University,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,003820,Salem University,Proprietary,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
+2016_2017,003820,Salem University,Proprietary,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,

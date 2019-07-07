@@ -1,96 +1,96 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001943,University of Saint Mary,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Biology, General.",Bachelor's Degree,18,NA,22138
-2016_2017,001943,University of Saint Mary,Private,"Biology, General.",Bachelor's Degree,18,NA,22806
-2015_2016,001943,University of Saint Mary,Private,"Business Administration, Management and Operations.",Bachelor's Degree,14,NA,27801
+2015_2016,001943,University of Saint Mary,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Biology, General.",Bachelor's Degree,18,,22138
+2016_2017,001943,University of Saint Mary,Private,"Biology, General.",Bachelor's Degree,18,,22806
+2015_2016,001943,University of Saint Mary,Private,"Business Administration, Management and Operations.",Bachelor's Degree,14,,27801
 2015_2016,001943,University of Saint Mary,Private,"Business Administration, Management and Operations.",Master's Degree,30,31793,31751
-2016_2017,001943,University of Saint Mary,Private,"Business Administration, Management and Operations.",Bachelor's Degree,13,NA,23789
+2016_2017,001943,University of Saint Mary,Private,"Business Administration, Management and Operations.",Bachelor's Degree,13,,23789
 2016_2017,001943,University of Saint Mary,Private,"Business Administration, Management and Operations.",Master's Degree,51,31756,31976
-2015_2016,001943,University of Saint Mary,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,10,NA,44802
-2015_2016,001943,University of Saint Mary,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Criminology.,Bachelor's Degree,NA,NA,30585
-2016_2017,001943,University of Saint Mary,Private,Criminology.,Bachelor's Degree,NA,NA,33011
-2015_2016,001943,University of Saint Mary,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Finance and Financial Management Services.,Master's Degree,10,NA,34365
-2016_2017,001943,University of Saint Mary,Private,Finance and Financial Management Services.,Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Health and Medical Administrative Services.,Master's Degree,15,NA,35374
-2016_2017,001943,University of Saint Mary,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Health and Physical Education/Fitness.,Bachelor's Degree,12,NA,33475
-2016_2017,001943,University of Saint Mary,Private,Health and Physical Education/Fitness.,Bachelor's Degree,11,NA,29876
-2015_2016,001943,University of Saint Mary,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Marketing.,Master's Degree,11,NA,28437
-2016_2017,001943,University of Saint Mary,Private,Marketing.,Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Medical Illustration and Informatics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Medical Illustration and Informatics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2015_2016,001943,University of Saint Mary,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,10,,44802
+2015_2016,001943,University of Saint Mary,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Criminology.,Bachelor's Degree,,,30585
+2016_2017,001943,University of Saint Mary,Private,Criminology.,Bachelor's Degree,,,33011
+2015_2016,001943,University of Saint Mary,Private,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Education, General.",Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Education, General.",Master's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Education, General.",Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Education, General.",Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Educational/Instructional Media Design.,Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Finance and Financial Management Services.,Master's Degree,10,,34365
+2016_2017,001943,University of Saint Mary,Private,Finance and Financial Management Services.,Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Health and Medical Administrative Services.,Master's Degree,15,,35374
+2016_2017,001943,University of Saint Mary,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Health and Medical Administrative Services.,Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Health and Physical Education/Fitness.,Bachelor's Degree,12,,33475
+2016_2017,001943,University of Saint Mary,Private,Health and Physical Education/Fitness.,Bachelor's Degree,11,,29876
+2015_2016,001943,University of Saint Mary,Private,History.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,History.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Human Resources Management and Services.,Master's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Human Resources Management and Services.,Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Management Sciences and Quantitative Methods.,Master's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Management Sciences and Quantitative Methods.,Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Marketing.,Master's Degree,11,,28437
+2016_2017,001943,University of Saint Mary,Private,Marketing.,Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Medical Illustration and Informatics.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Medical Illustration and Informatics.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Music.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Music.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,001943,University of Saint Mary,Private,"Psychology, General.",Bachelor's Degree,21,23250,23787
 2016_2017,001943,University of Saint Mary,Private,"Psychology, General.",Bachelor's Degree,24,26500,26971
-2015_2016,001943,University of Saint Mary,Private,"Psychology, Other.",Master's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Psychology, Other.",Master's Degree,NA,NA,NA
+2015_2016,001943,University of Saint Mary,Private,"Psychology, Other.",Master's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Psychology, Other.",Master's Degree,,,
 2015_2016,001943,University of Saint Mary,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,93,21020,20291
-2015_2016,001943,University of Saint Mary,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2015_2016,001943,University of Saint Mary,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2016_2017,001943,University of Saint Mary,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,105,21500,21006
-2016_2017,001943,University of Saint Mary,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,69951,82187
-2015_2016,001943,University of Saint Mary,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,70057,87216
-2016_2017,001943,University of Saint Mary,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Special Education and Teaching.,Master's Degree,NA,18020,21732
-2016_2017,001943,University of Saint Mary,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,20566
-2015_2016,001943,University of Saint Mary,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,24488
-2016_2017,001943,University of Saint Mary,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2015_2016,001943,University of Saint Mary,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001943,University of Saint Mary,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,001943,University of Saint Mary,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,69951,82187
+2015_2016,001943,University of Saint Mary,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,70057,87216
+2016_2017,001943,University of Saint Mary,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Special Education and Teaching.,Master's Degree,,18020,21732
+2016_2017,001943,University of Saint Mary,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,20566
+2015_2016,001943,University of Saint Mary,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,24488
+2016_2017,001943,University of Saint Mary,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2015_2016,001943,University of Saint Mary,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,001943,University of Saint Mary,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,

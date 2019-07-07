@@ -1,66 +1,66 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,006725,University of Tennessee Health Science Center,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,15,NA,123671
-2016_2017,006725,University of Tennessee Health Science Center,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,13,NA,128239
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,17,NA,85498
+2015_2016,006725,University of Tennessee Health Science Center,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,15,,123671
+2016_2017,006725,University of Tennessee Health Science Center,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,13,,128239
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,17,,85498
 2016_2017,006725,University of Tennessee Health Science Center,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,42,95267,87488
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Biological and Biomedical Sciences, Other.",Master's Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,"Biological and Biomedical Sciences, Other.",Master's Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Master's Degree,NA,NA,53959
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Biological and Biomedical Sciences, Other.",Master's Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,"Biological and Biomedical Sciences, Other.",Master's Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Biomedical/Medical Engineering.,Master's Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Biomedical/Medical Engineering.,Doctoral Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,Biomedical/Medical Engineering.,Master's Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,Biomedical/Medical Engineering.,Doctoral Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Master's Degree,,,53959
 2016_2017,006725,University of Tennessee Health Science Center,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,20,23853,20088
-2016_2017,006725,University of Tennessee Health Science Center,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Master's Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,11,NA,9136
-2015_2016,006725,University of Tennessee Health Science Center,Public,Communication Disorders Sciences and Services.,Master's Degree,NA,57790,66309
-2015_2016,006725,University of Tennessee Health Science Center,Public,Communication Disorders Sciences and Services.,Doctoral Degree,NA,62677,88204
+2016_2017,006725,University of Tennessee Health Science Center,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Master's Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,11,,9136
+2015_2016,006725,University of Tennessee Health Science Center,Public,Communication Disorders Sciences and Services.,Master's Degree,,57790,66309
+2015_2016,006725,University of Tennessee Health Science Center,Public,Communication Disorders Sciences and Services.,Doctoral Degree,,62677,88204
 2016_2017,006725,University of Tennessee Health Science Center,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,40,7500,7712
 2016_2017,006725,University of Tennessee Health Science Center,Public,Communication Disorders Sciences and Services.,Master's Degree,50,41000,53033
-2016_2017,006725,University of Tennessee Health Science Center,Public,Communication Disorders Sciences and Services.,Doctoral Degree,NA,66916,91463
-2015_2016,006725,University of Tennessee Health Science Center,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,NA,15000,17422
-2015_2016,006725,University of Tennessee Health Science Center,Public,Dental Support Services and Allied Professions.,Master's Degree,NA,NA,NA
+2016_2017,006725,University of Tennessee Health Science Center,Public,Communication Disorders Sciences and Services.,Doctoral Degree,,66916,91463
+2015_2016,006725,University of Tennessee Health Science Center,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,,15000,17422
+2015_2016,006725,University of Tennessee Health Science Center,Public,Dental Support Services and Allied Professions.,Master's Degree,,,
 2016_2017,006725,University of Tennessee Health Science Center,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,50,15000,17532
-2016_2017,006725,University of Tennessee Health Science Center,Public,Dental Support Services and Allied Professions.,Master's Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Dentistry.,First Professional Degree,NA,226561,218376
+2016_2017,006725,University of Tennessee Health Science Center,Public,Dental Support Services and Allied Professions.,Master's Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Dentistry.,First Professional Degree,,226561,218376
 2016_2017,006725,University of Tennessee Health Science Center,Public,Dentistry.,First Professional Degree,154,235260,232629
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Master's Degree,19,NA,31808
-2015_2016,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Doctoral Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Post-baccalaureate Certificate,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Master's Degree,19,,31808
+2015_2016,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Doctoral Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Post-baccalaureate Certificate,,,
 2016_2017,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Master's Degree,32,35422,42617
-2016_2017,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Doctoral Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,First Professional Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Medicine.,First Professional Degree,NA,179777,177374
+2016_2017,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,Doctoral Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,Health and Medical Administrative Services.,First Professional Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Medicine.,First Professional Degree,,179777,177374
 2016_2017,006725,University of Tennessee Health Science Center,Public,Medicine.,First Professional Degree,260,180877,180764
-2015_2016,006725,University of Tennessee Health Science Center,Public,Pharmacology and Toxicology.,Master's Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,Pharmacology and Toxicology.,Master's Degree,18,NA,27022
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,NA,141723,140165
-2016_2017,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,NA,NA
+2015_2016,006725,University of Tennessee Health Science Center,Public,Pharmacology and Toxicology.,Master's Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,Pharmacology and Toxicology.,Master's Degree,18,,27022
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,,141723,140165
+2016_2017,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,,
 2016_2017,006725,University of Tennessee Health Science Center,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,275,143756,149899
-2015_2016,006725,University of Tennessee Health Science Center,Public,Public Health.,Master's Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Public Health.,Doctoral Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,Public Health.,Master's Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,Public Health.,Doctoral Degree,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,14957,14086
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,59341,61458
+2015_2016,006725,University of Tennessee Health Science Center,Public,Public Health.,Master's Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Public Health.,Doctoral Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,Public Health.,Master's Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,Public Health.,Doctoral Degree,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,14957,14086
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,59341,61458
 2015_2016,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,50,85400,90141
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,76500,81874
-2015_2016,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,76500,81874
+2015_2016,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2016_2017,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,72,16584,16461
-2016_2017,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2016_2017,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,73286,81940
-2016_2017,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,006725,University of Tennessee Health Science Center,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,61500,65394
-2015_2016,006725,University of Tennessee Health Science Center,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,61500,73967
+2016_2017,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2016_2017,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,73286,81940
+2016_2017,006725,University of Tennessee Health Science Center,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
+2015_2016,006725,University of Tennessee Health Science Center,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,61500,65394
+2015_2016,006725,University of Tennessee Health Science Center,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,61500,73967
 2016_2017,006725,University of Tennessee Health Science Center,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,55,59508,58583
 2016_2017,006725,University of Tennessee Health Science Center,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,86,61500,72223

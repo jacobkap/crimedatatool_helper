@@ -1,55 +1,55 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001604,Young Harris College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,"Biology, General.",Bachelor's Degree,18,NA,22417
+2015_2016,001604,Young Harris College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2016_2017,001604,Young Harris College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2015_2016,001604,Young Harris College,Private,"Biology, General.",Bachelor's Degree,18,,22417
 2016_2017,001604,Young Harris College,Private,"Biology, General.",Bachelor's Degree,30,25750,23912
-2015_2016,001604,Young Harris College,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,001604,Young Harris College,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,001604,Young Harris College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,23,27000,26494
 2016_2017,001604,Young Harris College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,47,27000,26066
-2015_2016,001604,Young Harris College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,001604,Young Harris College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,Communication and Media Studies.,Bachelor's Degree,,,
 2016_2017,001604,Young Harris College,Private,Communication and Media Studies.,Bachelor's Degree,21,27000,23207
-2015_2016,001604,Young Harris College,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,12,NA,25877
-2016_2017,001604,Young Harris College,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,14,NA,26466
-2015_2016,001604,Young Harris College,Private,"Education, General.",Associate's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,"Education, General.",Associate's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,"Education, General.",Bachelor's Degree,NA,NA,23412
-2015_2016,001604,Young Harris College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,History.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,History.,Bachelor's Degree,18,NA,24581
-2015_2016,001604,Young Harris College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Outdoor Education.,Associate's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Outdoor Education.,Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Outdoor Education.,Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001604,Young Harris College,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2015_2016,001604,Young Harris College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,12,,25877
+2016_2017,001604,Young Harris College,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2016_2017,001604,Young Harris College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,14,,26466
+2015_2016,001604,Young Harris College,Private,"Education, General.",Associate's Degree,,,
+2015_2016,001604,Young Harris College,Private,"Education, General.",Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,"Education, General.",Associate's Degree,,,
+2016_2017,001604,Young Harris College,Private,"Education, General.",Bachelor's Degree,,,23412
+2015_2016,001604,Young Harris College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,Fine and Studio Arts.,Associate's Degree,,,
+2015_2016,001604,Young Harris College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,History.,Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,History.,Undergraduate Certificate or Diploma,,,
+2016_2017,001604,Young Harris College,Private,History.,Bachelor's Degree,18,,24581
+2015_2016,001604,Young Harris College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,001604,Young Harris College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,001604,Young Harris College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,Music.,Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,Music.,Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,Outdoor Education.,Associate's Degree,,,
+2015_2016,001604,Young Harris College,Private,Outdoor Education.,Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,Outdoor Education.,Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,"Psychology, General.",Bachelor's Degree,,,
 2016_2017,001604,Young Harris College,Private,"Psychology, General.",Bachelor's Degree,27,25000,25141
-2015_2016,001604,Young Harris College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,001604,Young Harris College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001604,Young Harris College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,001604,Young Harris College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,001604,Young Harris College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001604,Young Harris College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

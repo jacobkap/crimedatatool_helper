@@ -1,348 +1,348 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,011462,University of Alaska Anchorage,Public,Accounting and Related Services.,Associate's Degree,31,18750,21060
 2015_2016,011462,University of Alaska Anchorage,Public,Accounting and Related Services.,Bachelor's Degree,50,27249,28119
-2016_2017,011462,University of Alaska Anchorage,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,011462,University of Alaska Anchorage,Public,Accounting and Related Services.,Associate's Degree,26,26208,28285
 2016_2017,011462,University of Alaska Anchorage,Public,Accounting and Related Services.,Bachelor's Degree,56,25815,26371
-2016_2017,011462,University of Alaska Anchorage,Public,Agricultural Production Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,Agricultural Production Operations.,Undergraduate Certificate or Diploma,,,
 2015_2016,011462,University of Alaska Anchorage,Public,Air Transportation.,Associate's Degree,25,13200,19878
 2015_2016,011462,University of Alaska Anchorage,Public,Air Transportation.,Bachelor's Degree,25,23000,23161
-2016_2017,011462,University of Alaska Anchorage,Public,Air Transportation.,Associate's Degree,16,NA,22228
+2016_2017,011462,University of Alaska Anchorage,Public,Air Transportation.,Associate's Degree,16,,22228
 2016_2017,011462,University of Alaska Anchorage,Public,Air Transportation.,Bachelor's Degree,24,23295,24087
-2015_2016,011462,University of Alaska Anchorage,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,011462,University of Alaska Anchorage,Public,Allied Health and Medical Assisting Services.,Associate's Degree,31,12000,16965
-2015_2016,011462,University of Alaska Anchorage,Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,011462,University of Alaska Anchorage,Public,Allied Health and Medical Assisting Services.,Associate's Degree,40,12875,17235
-2016_2017,011462,University of Alaska Anchorage,Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,14,NA,20222
-2016_2017,011462,University of Alaska Anchorage,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,15,NA,17891
-2015_2016,011462,University of Alaska Anchorage,Public,"American Indian/Native American Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"American Indian/Native American Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Anthropology.,Bachelor's Degree,11,NA,31680
-2015_2016,011462,University of Alaska Anchorage,Public,Anthropology.,Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Anthropology.,Bachelor's Degree,16,NA,29465
-2016_2017,011462,University of Alaska Anchorage,Public,Anthropology.,Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,14,,20222
+2016_2017,011462,University of Alaska Anchorage,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,15,,17891
+2015_2016,011462,University of Alaska Anchorage,Public,"American Indian/Native American Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"American Indian/Native American Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Anthropology.,Bachelor's Degree,11,,31680
+2015_2016,011462,University of Alaska Anchorage,Public,Anthropology.,Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Anthropology.,Bachelor's Degree,16,,29465
+2016_2017,011462,University of Alaska Anchorage,Public,Anthropology.,Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,,,
 2015_2016,011462,University of Alaska Anchorage,Public,Biological and Physical Sciences.,Bachelor's Degree,21,23000,23439
 2016_2017,011462,University of Alaska Anchorage,Public,Biological and Physical Sciences.,Bachelor's Degree,32,19721,23916
 2015_2016,011462,University of Alaska Anchorage,Public,"Biology, General.",Bachelor's Degree,32,28699,27432
-2015_2016,011462,University of Alaska Anchorage,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,"Biology, General.",Master's Degree,,,
 2016_2017,011462,University of Alaska Anchorage,Public,"Biology, General.",Bachelor's Degree,31,16500,19950
-2016_2017,011462,University of Alaska Anchorage,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,"Biology, General.",Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Bachelor's Degree,55,28250,27286
-2015_2016,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Bachelor's Degree,69,25000,24224
-2016_2017,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Master's Degree,10,NA,28786
-2015_2016,011462,University of Alaska Anchorage,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,"Business Administration, Management and Operations.",Master's Degree,10,,28786
+2015_2016,011462,University of Alaska Anchorage,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
 2015_2016,011462,University of Alaska Anchorage,Public,"Business, Management, Marketing, and Related Support Services, Other.",Associate's Degree,21,11000,13738
 2016_2017,011462,University of Alaska Anchorage,Public,"Business, Management, Marketing, and Related Support Services, Other.",Associate's Degree,24,22689,22276
-2015_2016,011462,University of Alaska Anchorage,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Civil Engineering.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Chemistry.,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Civil Engineering.,Undergraduate Certificate or Diploma,,,
 2015_2016,011462,University of Alaska Anchorage,Public,Civil Engineering.,Bachelor's Degree,20,34739,30260
-2015_2016,011462,University of Alaska Anchorage,Public,Civil Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Civil Engineering.,Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Civil Engineering.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,Civil Engineering.,Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Civil Engineering.,Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Civil Engineering.,Undergraduate Certificate or Diploma,,,
 2016_2017,011462,University of Alaska Anchorage,Public,Civil Engineering.,Bachelor's Degree,23,24569,24827
-2016_2017,011462,University of Alaska Anchorage,Public,Civil Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Civil Engineering.,Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,13,NA,26596
-2016_2017,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,13,NA,21878
-2015_2016,011462,University of Alaska Anchorage,Public,Community Organization and Advocacy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Community Organization and Advocacy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Computer Programming.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Computer Programming.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,17,NA,19193
-2016_2017,011462,University of Alaska Anchorage,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,17,NA,15503
-2015_2016,011462,University of Alaska Anchorage,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Construction Management.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Construction Management.,Bachelor's Degree,15,NA,27321
-2015_2016,011462,University of Alaska Anchorage,Public,Construction Management.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Construction Management.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Construction Management.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Construction Management.,Bachelor's Degree,17,NA,25149
-2016_2017,011462,University of Alaska Anchorage,Public,Construction Management.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Construction Management.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,Civil Engineering.,Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Civil Engineering.,Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,13,,26596
+2016_2017,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,13,,21878
+2015_2016,011462,University of Alaska Anchorage,Public,Community Organization and Advocacy.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Community Organization and Advocacy.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Computer Programming.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Computer Programming.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,17,,19193
+2016_2017,011462,University of Alaska Anchorage,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,17,,15503
+2015_2016,011462,University of Alaska Anchorage,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Construction Management.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Construction Management.,Bachelor's Degree,15,,27321
+2015_2016,011462,University of Alaska Anchorage,Public,Construction Management.,Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Construction Management.,Graduate/Professional Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Construction Management.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Construction Management.,Bachelor's Degree,17,,25149
+2016_2017,011462,University of Alaska Anchorage,Public,Construction Management.,Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Construction Management.,Graduate/Professional Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2015_2016,011462,University of Alaska Anchorage,Public,Criminal Justice and Corrections.,Bachelor's Degree,31,21000,22264
-2016_2017,011462,University of Alaska Anchorage,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Criminal Justice and Corrections.,Associate's Degree,,,
 2016_2017,011462,University of Alaska Anchorage,Public,Criminal Justice and Corrections.,Bachelor's Degree,33,23635,22261
 2015_2016,011462,University of Alaska Anchorage,Public,Culinary Arts and Related Services.,Associate's Degree,21,15250,18539
-2016_2017,011462,University of Alaska Anchorage,Public,Culinary Arts and Related Services.,Associate's Degree,15,NA,17470
-2015_2016,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,11,NA,7373
-2015_2016,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Associate's Degree,13,NA,26302
-2015_2016,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Associate's Degree,16,NA,23346
-2016_2017,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,13,NA,28609
-2016_2017,011462,University of Alaska Anchorage,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,11,NA,26965
-2015_2016,011462,University of Alaska Anchorage,Public,Economics.,Bachelor's Degree,13,NA,20763
-2016_2017,011462,University of Alaska Anchorage,Public,Economics.,Bachelor's Degree,12,NA,25604
+2016_2017,011462,University of Alaska Anchorage,Public,Culinary Arts and Related Services.,Associate's Degree,15,,17470
+2015_2016,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,11,,7373
+2015_2016,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Associate's Degree,13,,26302
+2015_2016,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Associate's Degree,16,,23346
+2016_2017,011462,University of Alaska Anchorage,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Design and Applied Arts.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Design and Applied Arts.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Graduate/Professional Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Dietetics and Clinical Nutrition Services.,Graduate/Professional Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,13,,28609
+2016_2017,011462,University of Alaska Anchorage,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,11,,26965
+2015_2016,011462,University of Alaska Anchorage,Public,Economics.,Bachelor's Degree,13,,20763
+2016_2017,011462,University of Alaska Anchorage,Public,Economics.,Bachelor's Degree,12,,25604
 2015_2016,011462,University of Alaska Anchorage,Public,"Education, General.",Master's Degree,22,19775,19228
-2016_2017,011462,University of Alaska Anchorage,Public,"Education, General.",Master's Degree,14,NA,23257
-2016_2017,011462,University of Alaska Anchorage,Public,"Education, Other.",Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,30774
-2016_2017,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Master's Degree,10,NA,24820
-2016_2017,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,16,NA,22138
-2015_2016,011462,University of Alaska Anchorage,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Engineering-Related Technologies.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Engineering-Related Technologies.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Engineering-Related Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Engineering-Related Technologies.,Bachelor's Degree,13,NA,27351
+2016_2017,011462,University of Alaska Anchorage,Public,"Education, General.",Master's Degree,14,,23257
+2016_2017,011462,University of Alaska Anchorage,Public,"Education, Other.",Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,30774
+2016_2017,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Master's Degree,10,,24820
+2016_2017,011462,University of Alaska Anchorage,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,16,,22138
+2015_2016,011462,University of Alaska Anchorage,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Engineering-Related Technologies.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Engineering-Related Technologies.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Engineering-Related Technologies.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Engineering-Related Technologies.,Bachelor's Degree,13,,27351
 2015_2016,011462,University of Alaska Anchorage,Public,"Engineering, General.",Bachelor's Degree,37,25000,25631
 2016_2017,011462,University of Alaska Anchorage,Public,"Engineering, General.",Bachelor's Degree,25,25000,26951
-2015_2016,011462,University of Alaska Anchorage,Public,"Engineering, Other.",Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Engineering, Other.",Master's Degree,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,"Engineering, Other.",Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Engineering, Other.",Master's Degree,,,
 2015_2016,011462,University of Alaska Anchorage,Public,"English Language and Literature, General.",Bachelor's Degree,28,17250,22079
-2015_2016,011462,University of Alaska Anchorage,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,011462,University of Alaska Anchorage,Public,"English Language and Literature, General.",Bachelor's Degree,30,21654,23318
-2016_2017,011462,University of Alaska Anchorage,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Environmental/Environmental Health Engineering.,Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Environmental/Environmental Health Engineering.,Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Associate's Degree,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,"English Language and Literature, General.",Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Environmental/Environmental Health Engineering.,Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Environmental/Environmental Health Engineering.,Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Associate's Degree,,,
 2015_2016,011462,University of Alaska Anchorage,Public,Finance and Financial Management Services.,Bachelor's Degree,24,21243,25340
 2016_2017,011462,University of Alaska Anchorage,Public,Finance and Financial Management Services.,Bachelor's Degree,22,23877,27165
 2015_2016,011462,University of Alaska Anchorage,Public,Fine and Studio Arts.,Bachelor's Degree,21,32750,30242
-2016_2017,011462,University of Alaska Anchorage,Public,Fine and Studio Arts.,Bachelor's Degree,18,NA,31262
-2015_2016,011462,University of Alaska Anchorage,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,11,NA,17967
-2016_2017,011462,University of Alaska Anchorage,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,14,NA,17746
-2015_2016,011462,University of Alaska Anchorage,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Health and Physical Education/Fitness.,Bachelor's Degree,12,NA,28626
-2016_2017,011462,University of Alaska Anchorage,Public,Health and Physical Education/Fitness.,Bachelor's Degree,11,NA,29636
-2015_2016,011462,University of Alaska Anchorage,Public,Health/Medical Preparatory Programs.,Undergraduate Certificate or Diploma,NA,NA,14587
+2016_2017,011462,University of Alaska Anchorage,Public,Fine and Studio Arts.,Bachelor's Degree,18,,31262
+2015_2016,011462,University of Alaska Anchorage,Public,Fire Protection.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Fire Protection.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,11,,17967
+2016_2017,011462,University of Alaska Anchorage,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,14,,17746
+2015_2016,011462,University of Alaska Anchorage,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Health and Physical Education/Fitness.,Bachelor's Degree,12,,28626
+2016_2017,011462,University of Alaska Anchorage,Public,Health and Physical Education/Fitness.,Bachelor's Degree,11,,29636
+2015_2016,011462,University of Alaska Anchorage,Public,Health/Medical Preparatory Programs.,Undergraduate Certificate or Diploma,,,14587
 2015_2016,011462,University of Alaska Anchorage,Public,Health/Medical Preparatory Programs.,Associate's Degree,137,21000,24316
-2016_2017,011462,University of Alaska Anchorage,Public,Health/Medical Preparatory Programs.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,Health/Medical Preparatory Programs.,Undergraduate Certificate or Diploma,,,
 2016_2017,011462,University of Alaska Anchorage,Public,Health/Medical Preparatory Programs.,Associate's Degree,133,18000,20719
-2015_2016,011462,University of Alaska Anchorage,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
 2015_2016,011462,University of Alaska Anchorage,Public,History.,Bachelor's Degree,21,22592,24906
 2016_2017,011462,University of Alaska Anchorage,Public,History.,Bachelor's Degree,28,18540,20744
-2015_2016,011462,University of Alaska Anchorage,Public,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Hospitality Administration/Management.,Bachelor's Degree,13,NA,20479
-2015_2016,011462,University of Alaska Anchorage,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,14,NA,24240
-2016_2017,011462,University of Alaska Anchorage,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,11,NA,20978
-2015_2016,011462,University of Alaska Anchorage,Public,"Human Services, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Human Services, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Human Services, General.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Human Services, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,Hospitality Administration/Management.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Hospitality Administration/Management.,Bachelor's Degree,13,,20479
+2015_2016,011462,University of Alaska Anchorage,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,14,,24240
+2016_2017,011462,University of Alaska Anchorage,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,11,,20978
+2015_2016,011462,University of Alaska Anchorage,Public,"Human Services, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Human Services, General.",Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Human Services, General.",Graduate/Professional Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Human Services, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
 2015_2016,011462,University of Alaska Anchorage,Public,Industrial Production Technologies/Technicians.,Associate's Degree,37,14978,16978
-2016_2017,011462,University of Alaska Anchorage,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
 2016_2017,011462,University of Alaska Anchorage,Public,Industrial Production Technologies/Technicians.,Associate's Degree,30,16000,18383
-2015_2016,011462,University of Alaska Anchorage,Public,International/Global Studies.,Bachelor's Degree,12,NA,30405
-2016_2017,011462,University of Alaska Anchorage,Public,International/Global Studies.,Bachelor's Degree,15,NA,27155
-2015_2016,011462,University of Alaska Anchorage,Public,Journalism.,Bachelor's Degree,14,NA,23539
-2016_2017,011462,University of Alaska Anchorage,Public,Journalism.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Journalism.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Journalism.,Bachelor's Degree,18,NA,27274
-2015_2016,011462,University of Alaska Anchorage,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Legal Support Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Legal Support Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,International/Global Studies.,Bachelor's Degree,12,,30405
+2016_2017,011462,University of Alaska Anchorage,Public,International/Global Studies.,Bachelor's Degree,15,,27155
+2015_2016,011462,University of Alaska Anchorage,Public,Journalism.,Bachelor's Degree,14,,23539
+2016_2017,011462,University of Alaska Anchorage,Public,Journalism.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Journalism.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Journalism.,Bachelor's Degree,18,,27274
+2015_2016,011462,University of Alaska Anchorage,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Legal Support Services.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Legal Support Services.,Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Legal Support Services.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Legal Support Services.,Post-baccalaureate Certificate,,,
 2015_2016,011462,University of Alaska Anchorage,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,148,14970,20081
-2015_2016,011462,University of Alaska Anchorage,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
 2016_2017,011462,University of Alaska Anchorage,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,160,16678,19724
-2016_2017,011462,University of Alaska Anchorage,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,17,NA,30018
-2016_2017,011462,University of Alaska Anchorage,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,13,NA,27071
-2015_2016,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Management Sciences and Quantitative Methods.,Master's Degree,19,NA,29929
-2016_2017,011462,University of Alaska Anchorage,Public,Management Sciences and Quantitative Methods.,Master's Degree,13,NA,38970
-2015_2016,011462,University of Alaska Anchorage,Public,Marketing.,Bachelor's Degree,NA,NA,27745
-2016_2017,011462,University of Alaska Anchorage,Public,Marketing.,Bachelor's Degree,NA,23727,25310
-2015_2016,011462,University of Alaska Anchorage,Public,Mathematics.,Bachelor's Degree,16,NA,18071
-2016_2017,011462,University of Alaska Anchorage,Public,Mathematics.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Mathematics.,Bachelor's Degree,10,NA,20105
-2015_2016,011462,University of Alaska Anchorage,Public,Mechanical Engineering.,Bachelor's Degree,14,NA,23020
-2015_2016,011462,University of Alaska Anchorage,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,17,,30018
+2016_2017,011462,University of Alaska Anchorage,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,13,,27071
+2015_2016,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Management Sciences and Quantitative Methods.,Master's Degree,19,,29929
+2016_2017,011462,University of Alaska Anchorage,Public,Management Sciences and Quantitative Methods.,Master's Degree,13,,38970
+2015_2016,011462,University of Alaska Anchorage,Public,Marketing.,Bachelor's Degree,,,27745
+2016_2017,011462,University of Alaska Anchorage,Public,Marketing.,Bachelor's Degree,,23727,25310
+2015_2016,011462,University of Alaska Anchorage,Public,Mathematics.,Bachelor's Degree,16,,18071
+2016_2017,011462,University of Alaska Anchorage,Public,Mathematics.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Mathematics.,Bachelor's Degree,10,,20105
+2015_2016,011462,University of Alaska Anchorage,Public,Mechanical Engineering.,Bachelor's Degree,14,,23020
+2015_2016,011462,University of Alaska Anchorage,Public,Mechanical Engineering.,Master's Degree,,,
 2016_2017,011462,University of Alaska Anchorage,Public,Mechanical Engineering.,Bachelor's Degree,30,23163,23142
-2016_2017,011462,University of Alaska Anchorage,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,Mechanical Engineering.,Master's Degree,,,
 2015_2016,011462,University of Alaska Anchorage,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,26,20746,21586
-2015_2016,011462,University of Alaska Anchorage,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,16,NA,34930
+2015_2016,011462,University of Alaska Anchorage,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,16,,34930
 2016_2017,011462,University of Alaska Anchorage,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,22,19506,20362
-2016_2017,011462,University of Alaska Anchorage,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,17,NA,32211
-2015_2016,011462,University of Alaska Anchorage,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Natural Resources Conservation and Research.,Bachelor's Degree,11,NA,20051
-2016_2017,011462,University of Alaska Anchorage,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Naval Architecture and Marine Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Naval Architecture and Marine Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Outdoor Education.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Outdoor Education.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Outdoor Education.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Philosophy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Philosophy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Philosophy.,Bachelor's Degree,NA,NA,26435
-2015_2016,011462,University of Alaska Anchorage,Public,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Political Science and Government.,Bachelor's Degree,11,NA,27883
-2015_2016,011462,University of Alaska Anchorage,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,12,NA,16165
-2016_2017,011462,University of Alaska Anchorage,Public,Precision Metal Working.,Associate's Degree,10,NA,18930
+2016_2017,011462,University of Alaska Anchorage,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,17,,32211
+2015_2016,011462,University of Alaska Anchorage,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Music.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Music.,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Natural Resources Conservation and Research.,Bachelor's Degree,11,,20051
+2016_2017,011462,University of Alaska Anchorage,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Naval Architecture and Marine Engineering.,Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Naval Architecture and Marine Engineering.,Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Outdoor Education.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Outdoor Education.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Outdoor Education.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Philosophy.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Philosophy.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Philosophy.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Philosophy.,Bachelor's Degree,,,26435
+2015_2016,011462,University of Alaska Anchorage,Public,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Political Science and Government.,Bachelor's Degree,11,,27883
+2015_2016,011462,University of Alaska Anchorage,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Precision Metal Working.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,12,,16165
+2016_2017,011462,University of Alaska Anchorage,Public,Precision Metal Working.,Associate's Degree,10,,18930
 2015_2016,011462,University of Alaska Anchorage,Public,"Psychology, General.",Bachelor's Degree,63,25000,25465
-2015_2016,011462,University of Alaska Anchorage,Public,"Psychology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,"Psychology, General.",Doctoral Degree,,,
 2016_2017,011462,University of Alaska Anchorage,Public,"Psychology, General.",Bachelor's Degree,61,21250,23040
-2016_2017,011462,University of Alaska Anchorage,Public,"Psychology, General.",Doctoral Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Public Administration.,Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Public Administration.,Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Public Health.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Public Health.,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Public Health.,Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Public Health.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Public Health.,Bachelor's Degree,17,NA,16963
-2016_2017,011462,University of Alaska Anchorage,Public,Public Health.,Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,16,NA,18235
-2016_2017,011462,University of Alaska Anchorage,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,23285
+2016_2017,011462,University of Alaska Anchorage,Public,"Psychology, General.",Doctoral Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Public Administration.,Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Public Administration.,Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Public Health.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Public Health.,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Public Health.,Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Public Health.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Public Health.,Bachelor's Degree,17,,16963
+2016_2017,011462,University of Alaska Anchorage,Public,Public Health.,Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,16,,18235
+2016_2017,011462,University of Alaska Anchorage,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,23285
 2015_2016,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,121,22832,25491
-2015_2016,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,10,NA,23379
-2015_2016,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,23499
+2015_2016,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,10,,23379
+2015_2016,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,23499
 2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,105,24870,27215
-2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,10,NA,25639
-2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Science Technologies/Technicians, Other.",Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Science Technologies/Technicians, Other.",Bachelor's Degree,14,NA,25982
-2016_2017,011462,University of Alaska Anchorage,Public,"Science Technologies/Technicians, Other.",Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Science Technologies/Technicians, Other.",Bachelor's Degree,10,NA,24348
-2016_2017,011462,University of Alaska Anchorage,Public,"Social Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Social Work.,Bachelor's Degree,16,NA,26611
-2015_2016,011462,University of Alaska Anchorage,Public,Social Work.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,10,,25639
+2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Science Technologies/Technicians, Other.",Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Science Technologies/Technicians, Other.",Bachelor's Degree,14,,25982
+2016_2017,011462,University of Alaska Anchorage,Public,"Science Technologies/Technicians, Other.",Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Science Technologies/Technicians, Other.",Bachelor's Degree,10,,24348
+2016_2017,011462,University of Alaska Anchorage,Public,"Social Sciences, General.",Associate's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Social Work.,Bachelor's Degree,16,,26611
+2015_2016,011462,University of Alaska Anchorage,Public,Social Work.,Post-baccalaureate Certificate,,,
 2015_2016,011462,University of Alaska Anchorage,Public,Social Work.,Master's Degree,26,39913,39246
-2015_2016,011462,University of Alaska Anchorage,Public,Social Work.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,Social Work.,Graduate/Professional Certificate,,,
 2016_2017,011462,University of Alaska Anchorage,Public,Social Work.,Bachelor's Degree,29,24000,26705
-2016_2017,011462,University of Alaska Anchorage,Public,Social Work.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,Social Work.,Post-baccalaureate Certificate,,,
 2016_2017,011462,University of Alaska Anchorage,Public,Social Work.,Master's Degree,23,32646,33400
-2016_2017,011462,University of Alaska Anchorage,Public,Social Work.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Sociology.,Bachelor's Degree,11,NA,26942
-2016_2017,011462,University of Alaska Anchorage,Public,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Associate's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Master's Degree,14,NA,42339
-2015_2016,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Master's Degree,15,NA,42881
-2016_2017,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,Sustainability Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,011462,University of Alaska Anchorage,Public,Social Work.,Graduate/Professional Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Sociology.,Bachelor's Degree,11,,26942
+2016_2017,011462,University of Alaska Anchorage,Public,Sociology.,Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Undergraduate Certificate or Diploma,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Graduate/Professional Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Undergraduate Certificate or Diploma,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Associate's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Special Education and Teaching.,Graduate/Professional Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Master's Degree,14,,42339
+2015_2016,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Master's Degree,15,,42881
+2016_2017,011462,University of Alaska Anchorage,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,Sustainability Studies.,Undergraduate Certificate or Diploma,,,
 2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,52,21375,24466
-2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
+2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
 2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,59,22000,23452
-2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,011462,University of Alaska Anchorage,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,12,NA,22732
-2015_2016,011462,University of Alaska Anchorage,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,15,NA,23492
-2016_2017,011462,University of Alaska Anchorage,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,15,NA,18762
-2016_2017,011462,University of Alaska Anchorage,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,14,NA,23371
+2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,011462,University of Alaska Anchorage,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,,,
+2015_2016,011462,University of Alaska Anchorage,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,12,,22732
+2015_2016,011462,University of Alaska Anchorage,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,15,,23492
+2016_2017,011462,University of Alaska Anchorage,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,15,,18762
+2016_2017,011462,University of Alaska Anchorage,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,14,,23371

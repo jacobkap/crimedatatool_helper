@@ -1,108 +1,108 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002499,Rockhurst University,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,15,NA,22341
-2016_2017,002499,Rockhurst University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,14,NA,22773
+2015_2016,002499,Rockhurst University,Private,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,15,,22341
+2016_2017,002499,Rockhurst University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,14,,22773
 2015_2016,002499,Rockhurst University,Private,"Biology, General.",Bachelor's Degree,38,22228,20886
 2016_2017,002499,Rockhurst University,Private,"Biology, General.",Bachelor's Degree,48,20874,19711
-2015_2016,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
+2015_2016,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
 2015_2016,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Master's Degree,79,30750,30023
-2015_2016,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Doctoral Degree,,,
+2016_2017,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,36,26175,23889
-2016_2017,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2016_2017,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Master's Degree,91,27740,30402
-2016_2017,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,26000,23241
-2015_2016,002499,Rockhurst University,Private,"Business/Commerce, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,"Business/Commerce, General.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,24268,23220
-2016_2017,002499,Rockhurst University,Private,"Business/Commerce, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,"Business/Commerce, General.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Business/Corporate Communications.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Business/Corporate Communications.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Civil Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Civil Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Communication and Media Studies.,Bachelor's Degree,10,NA,20681
-2016_2017,002499,Rockhurst University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,16,NA,22876
+2016_2017,002499,Rockhurst University,Private,"Business Administration, Management and Operations.",Doctoral Degree,,,
+2015_2016,002499,Rockhurst University,Private,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,002499,Rockhurst University,Private,"Business/Commerce, General.",Bachelor's Degree,,26000,23241
+2015_2016,002499,Rockhurst University,Private,"Business/Commerce, General.",Post-baccalaureate Certificate,,,
+2015_2016,002499,Rockhurst University,Private,"Business/Commerce, General.",Graduate/Professional Certificate,,,
+2016_2017,002499,Rockhurst University,Private,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,002499,Rockhurst University,Private,"Business/Commerce, General.",Bachelor's Degree,,24268,23220
+2016_2017,002499,Rockhurst University,Private,"Business/Commerce, General.",Post-baccalaureate Certificate,,,
+2016_2017,002499,Rockhurst University,Private,"Business/Commerce, General.",Graduate/Professional Certificate,,,
+2015_2016,002499,Rockhurst University,Private,Business/Corporate Communications.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Business/Corporate Communications.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Civil Engineering.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Civil Engineering.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Communication and Media Studies.,Bachelor's Degree,10,,20681
+2016_2017,002499,Rockhurst University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,16,,22876
 2015_2016,002499,Rockhurst University,Private,Communication Disorders Sciences and Services.,Master's Degree,59,49772,54282
 2016_2017,002499,Rockhurst University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,22,27000,26282
 2016_2017,002499,Rockhurst University,Private,Communication Disorders Sciences and Services.,Master's Degree,53,47634,52149
-2015_2016,002499,Rockhurst University,Private,Community Organization and Advocacy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Community Organization and Advocacy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Criminal Justice and Corrections.,Bachelor's Degree,14,NA,20884
-2016_2017,002499,Rockhurst University,Private,Criminal Justice and Corrections.,Bachelor's Degree,14,NA,22278
-2015_2016,002499,Rockhurst University,Private,Economics.,Bachelor's Degree,17,NA,24469
-2016_2017,002499,Rockhurst University,Private,Economics.,Bachelor's Degree,11,NA,21421
+2015_2016,002499,Rockhurst University,Private,Community Organization and Advocacy.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Community Organization and Advocacy.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Criminal Justice and Corrections.,Bachelor's Degree,14,,20884
+2016_2017,002499,Rockhurst University,Private,Criminal Justice and Corrections.,Bachelor's Degree,14,,22278
+2015_2016,002499,Rockhurst University,Private,Economics.,Bachelor's Degree,17,,24469
+2016_2017,002499,Rockhurst University,Private,Economics.,Bachelor's Degree,11,,21421
 2015_2016,002499,Rockhurst University,Private,"Education, General.",Master's Degree,48,37175,38539
 2016_2017,002499,Rockhurst University,Private,"Education, General.",Master's Degree,37,36500,39975
-2015_2016,002499,Rockhurst University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,"English Language and Literature, General.",Bachelor's Degree,17,NA,25707
-2016_2017,002499,Rockhurst University,Private,"English Language and Literature, General.",Bachelor's Degree,19,NA,25826
-2016_2017,002499,Rockhurst University,Private,Finance and Financial Management Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002499,Rockhurst University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,"English Language and Literature, General.",Bachelor's Degree,17,,25707
+2016_2017,002499,Rockhurst University,Private,"English Language and Literature, General.",Bachelor's Degree,19,,25826
+2016_2017,002499,Rockhurst University,Private,Finance and Financial Management Services.,Post-baccalaureate Certificate,,,
+2015_2016,002499,Rockhurst University,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
 2015_2016,002499,Rockhurst University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,44,24125,22606
-2016_2017,002499,Rockhurst University,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002499,Rockhurst University,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
 2016_2017,002499,Rockhurst University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,44,25000,22112
-2015_2016,002499,Rockhurst University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,History.,Bachelor's Degree,NA,NA,22649
-2016_2017,002499,Rockhurst University,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Journalism.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Journalism.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Legal Support Services.,Undergraduate Certificate or Diploma,12,NA,17762
-2016_2017,002499,Rockhurst University,Private,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Management Sciences and Quantitative Methods.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Management Sciences and Quantitative Methods.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Management Sciences and Quantitative Methods.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Mechanical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Mechanical Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Physics.,Bachelor's Degree,17,NA,23498
+2015_2016,002499,Rockhurst University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,,,
+2016_2017,002499,Rockhurst University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,,,
+2015_2016,002499,Rockhurst University,Private,History.,Bachelor's Degree,,,22649
+2016_2017,002499,Rockhurst University,Private,History.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,International/Global Studies.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,International/Global Studies.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Journalism.,Undergraduate Certificate or Diploma,,,
+2016_2017,002499,Rockhurst University,Private,Journalism.,Undergraduate Certificate or Diploma,,,
+2015_2016,002499,Rockhurst University,Private,Legal Support Services.,Undergraduate Certificate or Diploma,12,,17762
+2016_2017,002499,Rockhurst University,Private,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002499,Rockhurst University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Management Sciences and Quantitative Methods.,Post-baccalaureate Certificate,,,
+2016_2017,002499,Rockhurst University,Private,Management Sciences and Quantitative Methods.,Undergraduate Certificate or Diploma,,,
+2016_2017,002499,Rockhurst University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Management Sciences and Quantitative Methods.,Post-baccalaureate Certificate,,,
+2016_2017,002499,Rockhurst University,Private,Management Sciences and Quantitative Methods.,Master's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Mechanical Engineering.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Mechanical Engineering.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Physics.,Bachelor's Degree,17,,23498
 2016_2017,002499,Rockhurst University,Private,Physics.,Bachelor's Degree,21,27000,23823
 2015_2016,002499,Rockhurst University,Private,Political Science and Government.,Bachelor's Degree,20,26000,22466
-2016_2017,002499,Rockhurst University,Private,Political Science and Government.,Bachelor's Degree,16,NA,24351
+2016_2017,002499,Rockhurst University,Private,Political Science and Government.,Bachelor's Degree,16,,24351
 2015_2016,002499,Rockhurst University,Private,"Psychology, General.",Bachelor's Degree,58,26316,24616
 2016_2017,002499,Rockhurst University,Private,"Psychology, General.",Bachelor's Degree,58,27000,25835
 2015_2016,002499,Rockhurst University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,106,10500,9267
 2016_2017,002499,Rockhurst University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,124,9971,9184
 2015_2016,002499,Rockhurst University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,50,65335,62317
-2015_2016,002499,Rockhurst University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,116563,112642
-2015_2016,002499,Rockhurst University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
+2015_2016,002499,Rockhurst University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,116563,112642
+2015_2016,002499,Rockhurst University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
 2016_2017,002499,Rockhurst University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,64,61216,61813
-2016_2017,002499,Rockhurst University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,116563,114023
-2016_2017,002499,Rockhurst University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002499,Rockhurst University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,116563,114023
+2016_2017,002499,Rockhurst University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2015_2016,002499,Rockhurst University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,002499,Rockhurst University,Private,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,002499,Rockhurst University,Private,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,,,
 2015_2016,002499,Rockhurst University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,25,23250,21743
 2016_2017,002499,Rockhurst University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,25,23500,22134
-2015_2016,002499,Rockhurst University,Private,"Social Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002499,Rockhurst University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,"Social Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002499,Rockhurst University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002499,Rockhurst University,Private,"Social Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,002499,Rockhurst University,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,002499,Rockhurst University,Private,"Social Sciences, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,002499,Rockhurst University,Private,"Social Sciences, General.",Bachelor's Degree,,,
 2015_2016,002499,Rockhurst University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,21,22500,20033
 2016_2017,002499,Rockhurst University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,25,24025,22407

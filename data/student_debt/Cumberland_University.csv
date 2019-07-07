@@ -1,93 +1,93 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003485,Cumberland University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Accounting and Related Services.,Bachelor's Degree,16,NA,23745
-2015_2016,003485,Cumberland University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,12,NA,19840
-2015_2016,003485,Cumberland University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Biological and Biomedical Sciences, Other.",Associate's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Biological and Biomedical Sciences, Other.",Associate's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Biology, General.",Associate's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Biology, General.",Bachelor's Degree,16,NA,31884
-2016_2017,003485,Cumberland University,Private,"Biology, General.",Associate's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Biology, General.",Bachelor's Degree,NA,NA,30421
-2015_2016,003485,Cumberland University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,12,NA,20258
-2015_2016,003485,Cumberland University,Private,"Business Administration, Management and Operations.",Master's Degree,17,NA,22654
-2016_2017,003485,Cumberland University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,18,NA,23520
+2015_2016,003485,Cumberland University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Accounting and Related Services.,Bachelor's Degree,16,,23745
+2015_2016,003485,Cumberland University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,12,,19840
+2015_2016,003485,Cumberland University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Biological and Biomedical Sciences, Other.",Associate's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Biological and Biomedical Sciences, Other.",Associate's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Biology, General.",Associate's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Biology, General.",Bachelor's Degree,16,,31884
+2016_2017,003485,Cumberland University,Private,"Biology, General.",Associate's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Biology, General.",Bachelor's Degree,,,30421
+2015_2016,003485,Cumberland University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,12,,20258
+2015_2016,003485,Cumberland University,Private,"Business Administration, Management and Operations.",Master's Degree,17,,22654
+2016_2017,003485,Cumberland University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,18,,23520
 2016_2017,003485,Cumberland University,Private,"Business Administration, Management and Operations.",Master's Degree,33,25374,22635
-2016_2017,003485,Cumberland University,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,003485,Cumberland University,Private,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2015_2016,003485,Cumberland University,Private,Criminal Justice and Corrections.,Bachelor's Degree,22,25000,23279
-2016_2017,003485,Cumberland University,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,003485,Cumberland University,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2016_2017,003485,Cumberland University,Private,Criminal Justice and Corrections.,Bachelor's Degree,23,23250,28019
-2015_2016,003485,Cumberland University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003485,Cumberland University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Education, General.",Bachelor's Degree,,,
 2015_2016,003485,Cumberland University,Private,"Education, General.",Master's Degree,31,19995,21855
-2016_2017,003485,Cumberland University,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,003485,Cumberland University,Private,"Education, General.",Bachelor's Degree,,,
 2016_2017,003485,Cumberland University,Private,"Education, General.",Master's Degree,42,21475,24804
-2015_2016,003485,Cumberland University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Fine and Studio Arts.,Master's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Fine and Studio Arts.,Master's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Health and Physical Education/Fitness.,Master's Degree,16,NA,17129
-2016_2017,003485,Cumberland University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Health and Physical Education/Fitness.,Master's Degree,12,NA,16052
-2015_2016,003485,Cumberland University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,11,NA,28147
-2015_2016,003485,Cumberland University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,13,NA,24328
-2015_2016,003485,Cumberland University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Psychology, General.",Bachelor's Degree,16,NA,21856
-2016_2017,003485,Cumberland University,Private,"Psychology, General.",Bachelor's Degree,11,NA,21958
+2015_2016,003485,Cumberland University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,003485,Cumberland University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Engineering, General.",Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,Fine and Studio Arts.,Associate's Degree,,,
+2015_2016,003485,Cumberland University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,Fine and Studio Arts.,Master's Degree,,,
+2016_2017,003485,Cumberland University,Private,Fine and Studio Arts.,Associate's Degree,,,
+2016_2017,003485,Cumberland University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Fine and Studio Arts.,Master's Degree,,,
+2016_2017,003485,Cumberland University,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,Health and Physical Education/Fitness.,Master's Degree,16,,17129
+2016_2017,003485,Cumberland University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Health and Physical Education/Fitness.,Master's Degree,12,,16052
+2015_2016,003485,Cumberland University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,History.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,History.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,11,,28147
+2015_2016,003485,Cumberland University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,13,,24328
+2015_2016,003485,Cumberland University,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,Music.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Music.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Psychology, General.",Bachelor's Degree,16,,21856
+2016_2017,003485,Cumberland University,Private,"Psychology, General.",Bachelor's Degree,11,,21958
 2015_2016,003485,Cumberland University,Private,Public Administration.,Master's Degree,21,25540,25798
-2016_2017,003485,Cumberland University,Private,Public Administration.,Master's Degree,11,NA,31413
+2016_2017,003485,Cumberland University,Private,Public Administration.,Master's Degree,11,,31413
 2015_2016,003485,Cumberland University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,269,20000,22353
 2016_2017,003485,Cumberland University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,253,21875,23596
-2015_2016,003485,Cumberland University,Private,"Social Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Social Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
+2015_2016,003485,Cumberland University,Private,"Social Sciences, General.",Associate's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Social Sciences, General.",Associate's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,003485,Cumberland University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
 2015_2016,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,30,23350,23114
-2015_2016,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,10,NA,20204
-2016_2017,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,21375,20971
-2016_2017,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,17,NA,18918
-2015_2016,003485,Cumberland University,Private,"Visual and Performing Arts, General.",Master's Degree,NA,NA,NA
-2016_2017,003485,Cumberland University,Private,"Visual and Performing Arts, General.",Master's Degree,NA,NA,NA
+2015_2016,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,10,,20204
+2016_2017,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,21375,20971
+2016_2017,003485,Cumberland University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,17,,18918
+2015_2016,003485,Cumberland University,Private,"Visual and Performing Arts, General.",Master's Degree,,,
+2016_2017,003485,Cumberland University,Private,"Visual and Performing Arts, General.",Master's Degree,,,

@@ -1,81 +1,81 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001486,Florida Memorial University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Air Transportation.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Air Transportation.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Biology, General.",Bachelor's Degree,13,NA,44470
-2016_2017,001486,Florida Memorial University,Private,"Biology, General.",Bachelor's Degree,13,NA,39329
-2015_2016,001486,Florida Memorial University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,40034
-2015_2016,001486,Florida Memorial University,Private,"Business/Commerce, General.",Master's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,32493
-2016_2017,001486,Florida Memorial University,Private,"Business/Commerce, General.",Master's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
+2015_2016,001486,Florida Memorial University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Air Transportation.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Air Transportation.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Biology, General.",Bachelor's Degree,13,,44470
+2016_2017,001486,Florida Memorial University,Private,"Biology, General.",Bachelor's Degree,13,,39329
+2015_2016,001486,Florida Memorial University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Business/Commerce, General.",Bachelor's Degree,,,40034
+2015_2016,001486,Florida Memorial University,Private,"Business/Commerce, General.",Master's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Business/Commerce, General.",Bachelor's Degree,,,32493
+2016_2017,001486,Florida Memorial University,Private,"Business/Commerce, General.",Master's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Computer Science.,Bachelor's Degree,,,
 2015_2016,001486,Florida Memorial University,Private,Criminal Justice and Corrections.,Bachelor's Degree,48,43500,41247
 2016_2017,001486,Florida Memorial University,Private,Criminal Justice and Corrections.,Bachelor's Degree,44,40500,39714
-2015_2016,001486,Florida Memorial University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,29141
-2016_2017,001486,Florida Memorial University,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,34308
-2015_2016,001486,Florida Memorial University,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Legal Research and Advanced Professional Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Legal Research and Advanced Professional Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2015_2016,001486,Florida Memorial University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Finance and Financial Management Services.,Bachelor's Degree,,,29141
+2016_2017,001486,Florida Memorial University,Private,Finance and Financial Management Services.,Bachelor's Degree,,,34308
+2015_2016,001486,Florida Memorial University,Private,International/Global Studies.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Legal Research and Advanced Professional Studies.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Legal Research and Advanced Professional Studies.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Music.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Music.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,001486,Florida Memorial University,Private,"Psychology, General.",Bachelor's Degree,38,41562,38353
 2016_2017,001486,Florida Memorial University,Private,"Psychology, General.",Bachelor's Degree,40,38875,36837
-2015_2016,001486,Florida Memorial University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,40288
-2016_2017,001486,Florida Memorial University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,39936
-2015_2016,001486,Florida Memorial University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Social Work.,Bachelor's Degree,14,NA,44111
-2016_2017,001486,Florida Memorial University,Private,Social Work.,Bachelor's Degree,19,NA,41687
-2015_2016,001486,Florida Memorial University,Private,Sociology.,Bachelor's Degree,10,NA,46501
-2016_2017,001486,Florida Memorial University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,Sustainability Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,Sustainability Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,16,NA,40531
-2015_2016,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,11,NA,46773
-2016_2017,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,44525
-2015_2016,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,40776
-2016_2017,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,001486,Florida Memorial University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,40288
+2016_2017,001486,Florida Memorial University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,39936
+2015_2016,001486,Florida Memorial University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Social Work.,Bachelor's Degree,14,,44111
+2016_2017,001486,Florida Memorial University,Private,Social Work.,Bachelor's Degree,19,,41687
+2015_2016,001486,Florida Memorial University,Private,Sociology.,Bachelor's Degree,10,,46501
+2016_2017,001486,Florida Memorial University,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,Sustainability Studies.,Bachelor's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,Sustainability Studies.,Bachelor's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,16,,40531
+2015_2016,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,11,,46773
+2016_2017,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,44525
+2015_2016,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,40776
+2016_2017,001486,Florida Memorial University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,

@@ -1,7 +1,7 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,032753,Cosmetology Career Institute,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,84,16500,14427
-2016_2017,032753,Cosmetology Career Institute,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,16499,14351
-2015_2016,032753,Cosmetology Career Institute,Proprietary,"Education, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,032753,Cosmetology Career Institute,Proprietary,"Education, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,032753,Cosmetology Career Institute,Proprietary,Educational Administration and Supervision.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,032753,Cosmetology Career Institute,Proprietary,Educational Administration and Supervision.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,032753,Cosmetology Career Institute,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,16499,14351
+2015_2016,032753,Cosmetology Career Institute,Proprietary,"Education, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,032753,Cosmetology Career Institute,Proprietary,"Education, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,032753,Cosmetology Career Institute,Proprietary,Educational Administration and Supervision.,Undergraduate Certificate or Diploma,,,
+2016_2017,032753,Cosmetology Career Institute,Proprietary,Educational Administration and Supervision.,Undergraduate Certificate or Diploma,,,

@@ -1,111 +1,111 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,003955,University of West Florida (the),Public,Accounting and Related Services.,Bachelor's Degree,35,25000,24323
-2015_2016,003955,University of West Florida (the),Public,Accounting and Related Services.,Master's Degree,15,NA,16293
+2015_2016,003955,University of West Florida (the),Public,Accounting and Related Services.,Master's Degree,15,,16293
 2016_2017,003955,University of West Florida (the),Public,Accounting and Related Services.,Bachelor's Degree,52,25000,25732
-2016_2017,003955,University of West Florida (the),Public,Accounting and Related Services.,Master's Degree,18,NA,20041
-2015_2016,003955,University of West Florida (the),Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,16,NA,24896
-2016_2017,003955,University of West Florida (the),Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,17,NA,21100
+2016_2017,003955,University of West Florida (the),Public,Accounting and Related Services.,Master's Degree,18,,20041
+2015_2016,003955,University of West Florida (the),Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,16,,24896
+2016_2017,003955,University of West Florida (the),Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,17,,21100
 2015_2016,003955,University of West Florida (the),Public,Anthropology.,Bachelor's Degree,37,19500,22754
-2015_2016,003955,University of West Florida (the),Public,Anthropology.,Master's Degree,13,NA,28771
+2015_2016,003955,University of West Florida (the),Public,Anthropology.,Master's Degree,13,,28771
 2016_2017,003955,University of West Florida (the),Public,Anthropology.,Bachelor's Degree,37,21665,22874
-2016_2017,003955,University of West Florida (the),Public,Anthropology.,Master's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,"Biology, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003955,University of West Florida (the),Public,Anthropology.,Master's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,Biological and Physical Sciences.,Bachelor's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,Biological and Physical Sciences.,Bachelor's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,"Biology, General.",Undergraduate Certificate or Diploma,,,
 2015_2016,003955,University of West Florida (the),Public,"Biology, General.",Bachelor's Degree,56,22255,21497
-2015_2016,003955,University of West Florida (the),Public,"Biology, General.",Master's Degree,13,NA,35037
-2016_2017,003955,University of West Florida (the),Public,"Biology, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,"Biology, General.",Master's Degree,13,,35037
+2016_2017,003955,University of West Florida (the),Public,"Biology, General.",Undergraduate Certificate or Diploma,,,
 2016_2017,003955,University of West Florida (the),Public,"Biology, General.",Bachelor's Degree,74,22500,22134
-2016_2017,003955,University of West Florida (the),Public,"Biology, General.",Master's Degree,18,NA,34830
-2015_2016,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,16701
+2016_2017,003955,University of West Florida (the),Public,"Biology, General.",Master's Degree,18,,34830
+2015_2016,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,16701
 2015_2016,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Bachelor's Degree,33,16750,18150
 2015_2016,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Master's Degree,57,31446,32876
-2015_2016,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,22487,20638
+2015_2016,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Graduate/Professional Certificate,,,
+2016_2017,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,22487,20638
 2016_2017,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Bachelor's Degree,65,18174,19689
 2016_2017,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Master's Degree,50,28084,30830
-2016_2017,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,"Business/Commerce, General.",Bachelor's Degree,14,NA,20620
+2016_2017,003955,University of West Florida (the),Public,"Business Administration, Management and Operations.",Graduate/Professional Certificate,,,
+2015_2016,003955,University of West Florida (the),Public,"Business/Commerce, General.",Bachelor's Degree,14,,20620
 2016_2017,003955,University of West Florida (the),Public,"Business/Commerce, General.",Bachelor's Degree,25,15750,19530
-2016_2017,003955,University of West Florida (the),Public,"Business/Commerce, General.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
+2016_2017,003955,University of West Florida (the),Public,"Business/Commerce, General.",Graduate/Professional Certificate,,,
+2015_2016,003955,University of West Florida (the),Public,Business/Managerial Economics.,Bachelor's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,Business/Managerial Economics.,Bachelor's Degree,,,
 2015_2016,003955,University of West Florida (the),Public,Chemistry.,Bachelor's Degree,23,24315,20070
 2016_2017,003955,University of West Florida (the),Public,Chemistry.,Bachelor's Degree,24,22796,23094
 2015_2016,003955,University of West Florida (the),Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,24,26017,24987
 2016_2017,003955,University of West Florida (the),Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,32,19772,20613
-2015_2016,003955,University of West Florida (the),Public,Communication and Media Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,Communication and Media Studies.,Undergraduate Certificate or Diploma,,,
 2015_2016,003955,University of West Florida (the),Public,Communication and Media Studies.,Bachelor's Degree,107,18750,20129
-2015_2016,003955,University of West Florida (the),Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Communication and Media Studies.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Communication and Media Studies.,Undergraduate Certificate or Diploma,NA,NA,21523
+2015_2016,003955,University of West Florida (the),Public,Communication and Media Studies.,Master's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,Communication and Media Studies.,Graduate/Professional Certificate,,,
+2016_2017,003955,University of West Florida (the),Public,Communication and Media Studies.,Undergraduate Certificate or Diploma,,,21523
 2016_2017,003955,University of West Florida (the),Public,Communication and Media Studies.,Bachelor's Degree,142,18750,19940
-2016_2017,003955,University of West Florida (the),Public,Communication and Media Studies.,Master's Degree,10,NA,30326
-2016_2017,003955,University of West Florida (the),Public,Communication and Media Studies.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,31472
+2016_2017,003955,University of West Florida (the),Public,Communication and Media Studies.,Master's Degree,10,,30326
+2016_2017,003955,University of West Florida (the),Public,Communication and Media Studies.,Graduate/Professional Certificate,,,
+2015_2016,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,31472
 2015_2016,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Bachelor's Degree,96,23922,23422
-2015_2016,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Master's Degree,16,NA,27902
-2015_2016,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,29250,26788
+2015_2016,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Master's Degree,16,,27902
+2015_2016,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Graduate/Professional Certificate,,,
+2016_2017,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,29250,26788
 2016_2017,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Bachelor's Degree,111,23500,22675
-2016_2017,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Master's Degree,15,NA,34281
-2016_2017,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Computer Engineering.,Bachelor's Degree,12,NA,24599
-2016_2017,003955,University of West Florida (the),Public,Computer Engineering.,Bachelor's Degree,17,NA,24452
+2016_2017,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Master's Degree,15,,34281
+2016_2017,003955,University of West Florida (the),Public,"Computer and Information Sciences, General.",Graduate/Professional Certificate,,,
+2015_2016,003955,University of West Florida (the),Public,Computer Engineering.,Bachelor's Degree,12,,24599
+2016_2017,003955,University of West Florida (the),Public,Computer Engineering.,Bachelor's Degree,17,,24452
 2015_2016,003955,University of West Florida (the),Public,Criminal Justice and Corrections.,Bachelor's Degree,92,18625,18544
-2015_2016,003955,University of West Florida (the),Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,Criminal Justice and Corrections.,Master's Degree,,,
 2016_2017,003955,University of West Florida (the),Public,Criminal Justice and Corrections.,Bachelor's Degree,108,17125,18300
-2016_2017,003955,University of West Florida (the),Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2016_2017,003955,University of West Florida (the),Public,Criminal Justice and Corrections.,Master's Degree,,,
 2015_2016,003955,University of West Florida (the),Public,Curriculum and Instruction.,Master's Degree,38,39657,50160
 2015_2016,003955,University of West Florida (the),Public,Curriculum and Instruction.,Doctoral Degree,25,71268,72208
-2015_2016,003955,University of West Florida (the),Public,Curriculum and Instruction.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,Curriculum and Instruction.,Graduate/Professional Certificate,,,
 2016_2017,003955,University of West Florida (the),Public,Curriculum and Instruction.,Master's Degree,51,38296,48052
-2016_2017,003955,University of West Florida (the),Public,Curriculum and Instruction.,Doctoral Degree,NA,NA,63041
-2016_2017,003955,University of West Florida (the),Public,Curriculum and Instruction.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003955,University of West Florida (the),Public,Curriculum and Instruction.,Doctoral Degree,,,63041
+2016_2017,003955,University of West Florida (the),Public,Curriculum and Instruction.,Graduate/Professional Certificate,,,
 2015_2016,003955,University of West Florida (the),Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,22,18500,18894
 2016_2017,003955,University of West Florida (the),Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,20,19750,19239
 2015_2016,003955,University of West Florida (the),Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,25,23934,23076
 2016_2017,003955,University of West Florida (the),Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,37,20549,21031
-2015_2016,003955,University of West Florida (the),Public,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Economics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,Economics.,Bachelor's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,Economics.,Bachelor's Degree,,,
 2015_2016,003955,University of West Florida (the),Public,Educational Administration and Supervision.,Master's Degree,226,21341,25412
-2015_2016,003955,University of West Florida (the),Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
 2016_2017,003955,University of West Florida (the),Public,Educational Administration and Supervision.,Master's Degree,265,22464,25228
-2016_2017,003955,University of West Florida (the),Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003955,University of West Florida (the),Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2015_2016,003955,University of West Florida (the),Public,Educational/Instructional Media Design.,Master's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,,,
+2016_2017,003955,University of West Florida (the),Public,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,,,
 2015_2016,003955,University of West Florida (the),Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,38,20228,24835
 2016_2017,003955,University of West Florida (the),Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,49,25000,24938
-2015_2016,003955,University of West Florida (the),Public,"Engineering Technology, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,"Engineering Technology, General.",Bachelor's Degree,11,NA,17916
-2016_2017,003955,University of West Florida (the),Public,"Engineering Technology, General.",Undergraduate Certificate or Diploma,NA,NA,22196
+2015_2016,003955,University of West Florida (the),Public,"Engineering Technology, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,003955,University of West Florida (the),Public,"Engineering Technology, General.",Bachelor's Degree,11,,17916
+2016_2017,003955,University of West Florida (the),Public,"Engineering Technology, General.",Undergraduate Certificate or Diploma,,,22196
 2016_2017,003955,University of West Florida (the),Public,"Engineering Technology, General.",Bachelor's Degree,24,17950,20488
 2015_2016,003955,University of West Florida (the),Public,"English Language and Literature, General.",Bachelor's Degree,33,19250,18977
-2015_2016,003955,University of West Florida (the),Public,"English Language and Literature, General.",Master's Degree,12,NA,36184
-2016_2017,003955,University of West Florida (the),Public,"English Language and Literature, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,"English Language and Literature, General.",Master's Degree,12,,36184
+2016_2017,003955,University of West Florida (the),Public,"English Language and Literature, General.",Undergraduate Certificate or Diploma,,,
 2016_2017,003955,University of West Florida (the),Public,"English Language and Literature, General.",Bachelor's Degree,32,19371,20592
-2016_2017,003955,University of West Florida (the),Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2016_2017,003955,University of West Florida (the),Public,"English Language and Literature, General.",Master's Degree,,,
 2015_2016,003955,University of West Florida (the),Public,Finance and Financial Management Services.,Bachelor's Degree,24,29497,25352
 2016_2017,003955,University of West Florida (the),Public,Finance and Financial Management Services.,Bachelor's Degree,27,27750,23443
 2015_2016,003955,University of West Florida (the),Public,Fine and Studio Arts.,Bachelor's Degree,51,22474,21524
 2016_2017,003955,University of West Florida (the),Public,Fine and Studio Arts.,Bachelor's Degree,54,21732,22246
-2016_2017,003955,University of West Florida (the),Public,Geography and Cartography.,Master's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
+2016_2017,003955,University of West Florida (the),Public,Geography and Cartography.,Master's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
 2015_2016,003955,University of West Florida (the),Public,Health and Physical Education/Fitness.,Bachelor's Degree,87,19500,20573
-2015_2016,003955,University of West Florida (the),Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,Health and Physical Education/Fitness.,Master's Degree,,,
 2016_2017,003955,University of West Florida (the),Public,Health and Physical Education/Fitness.,Bachelor's Degree,134,19858,21016
-2016_2017,003955,University of West Florida (the),Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,NA,22525,21607
+2016_2017,003955,University of West Florida (the),Public,Health and Physical Education/Fitness.,Master's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,,22525,21607
 2015_2016,003955,University of West Florida (the),Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,174,21562,22913
-2016_2017,003955,University of West Florida (the),Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,NA,21250,21532
+2016_2017,003955,University of West Florida (the),Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,,21250,21532
 2016_2017,003955,University of West Florida (the),Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,190,20500,21637
 2015_2016,003955,University of West Florida (the),Public,History.,Bachelor's Degree,33,18547,20824
-2015_2016,003955,University of West Florida (the),Public,History.,Master's Degree,11,NA,34024
+2015_2016,003955,University of West Florida (the),Public,History.,Master's Degree,11,,34024
 2016_2017,003955,University of West Florida (the),Public,History.,Bachelor's Degree,27,18500,19381
-2016_2017,003955,University of West Florida (the),Public,History.,Master's Degree,11,NA,37369
+2016_2017,003955,University of West Florida (the),Public,History.,Master's Degree,11,,37369
 2015_2016,003955,University of West Florida (the),Public,Hospitality Administration/Management.,Bachelor's Degree,48,19250,20818
 2016_2017,003955,University of West Florida (the),Public,Hospitality Administration/Management.,Bachelor's Degree,57,20000,19463
 2015_2016,003955,University of West Florida (the),Public,International Relations and National Security Studies.,Bachelor's Degree,39,18750,18278
@@ -113,80 +113,80 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,003955,University of West Florida (the),Public,Legal Support Services.,Bachelor's Degree,26,23821,22316
 2016_2017,003955,University of West Florida (the),Public,Legal Support Services.,Bachelor's Degree,26,20891,21390
 2015_2016,003955,University of West Florida (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,82,16750,14956
-2015_2016,003955,University of West Florida (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
 2016_2017,003955,University of West Florida (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,304,20996,20829
-2016_2017,003955,University of West Florida (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Management Information Systems and Services.,Bachelor's Degree,12,NA,19340
-2016_2017,003955,University of West Florida (the),Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Management Information Systems and Services.,Bachelor's Degree,14,NA,19850
-2015_2016,003955,University of West Florida (the),Public,Marketing.,Undergraduate Certificate or Diploma,NA,24800,23601
+2016_2017,003955,University of West Florida (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003955,University of West Florida (the),Public,Management Information Systems and Services.,Bachelor's Degree,12,,19340
+2016_2017,003955,University of West Florida (the),Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003955,University of West Florida (the),Public,Management Information Systems and Services.,Bachelor's Degree,14,,19850
+2015_2016,003955,University of West Florida (the),Public,Marketing.,Undergraduate Certificate or Diploma,,24800,23601
 2015_2016,003955,University of West Florida (the),Public,Marketing.,Bachelor's Degree,34,18125,21662
-2016_2017,003955,University of West Florida (the),Public,Marketing.,Undergraduate Certificate or Diploma,NA,21000,22360
+2016_2017,003955,University of West Florida (the),Public,Marketing.,Undergraduate Certificate or Diploma,,21000,22360
 2016_2017,003955,University of West Florida (the),Public,Marketing.,Bachelor's Degree,36,16875,19461
 2015_2016,003955,University of West Florida (the),Public,Mathematics.,Bachelor's Degree,20,15874,18597
-2015_2016,003955,University of West Florida (the),Public,Mathematics.,Master's Degree,19,NA,25569
+2015_2016,003955,University of West Florida (the),Public,Mathematics.,Master's Degree,19,,25569
 2016_2017,003955,University of West Florida (the),Public,Mathematics.,Bachelor's Degree,20,19125,21065
 2016_2017,003955,University of West Florida (the),Public,Mathematics.,Master's Degree,24,29963,27967
-2016_2017,003955,University of West Florida (the),Public,Mechanical Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,16,NA,28165
-2015_2016,003955,University of West Florida (the),Public,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,14,NA,23406
+2016_2017,003955,University of West Florida (the),Public,Mechanical Engineering.,Bachelor's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,16,,28165
+2015_2016,003955,University of West Florida (the),Public,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,14,,23406
 2016_2017,003955,University of West Florida (the),Public,Mental and Social Health Services and Allied Professions.,Master's Degree,27,25690,24965
-2015_2016,003955,University of West Florida (the),Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Music.,Bachelor's Degree,10,NA,27913
-2015_2016,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,Music.,Bachelor's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,Music.,Bachelor's Degree,10,,27913
+2015_2016,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
 2015_2016,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Bachelor's Degree,20,21083,21391
-2015_2016,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,17433
+2015_2016,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Graduate/Professional Certificate,,,
+2016_2017,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,17433
 2016_2017,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Bachelor's Degree,29,20046,19924
-2016_2017,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,Physics.,Bachelor's Degree,10,NA,19683
-2016_2017,003955,University of West Florida (the),Public,Physics.,Bachelor's Degree,14,NA,21589
-2015_2016,003955,University of West Florida (the),Public,Political Science and Government.,Bachelor's Degree,14,NA,22689
-2015_2016,003955,University of West Florida (the),Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,Natural Resources Conservation and Research.,Graduate/Professional Certificate,,,
+2015_2016,003955,University of West Florida (the),Public,Philosophy.,Bachelor's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,Philosophy.,Bachelor's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,Physics.,Bachelor's Degree,10,,19683
+2016_2017,003955,University of West Florida (the),Public,Physics.,Bachelor's Degree,14,,21589
+2015_2016,003955,University of West Florida (the),Public,Political Science and Government.,Bachelor's Degree,14,,22689
+2015_2016,003955,University of West Florida (the),Public,Political Science and Government.,Master's Degree,,,
 2016_2017,003955,University of West Florida (the),Public,Political Science and Government.,Bachelor's Degree,26,26092,25421
-2016_2017,003955,University of West Florida (the),Public,Political Science and Government.,Master's Degree,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,"Psychology, General.",Undergraduate Certificate or Diploma,NA,NA,20283
+2016_2017,003955,University of West Florida (the),Public,Political Science and Government.,Master's Degree,,,
+2015_2016,003955,University of West Florida (the),Public,"Psychology, General.",Undergraduate Certificate or Diploma,,,20283
 2015_2016,003955,University of West Florida (the),Public,"Psychology, General.",Bachelor's Degree,134,19750,19572
 2015_2016,003955,University of West Florida (the),Public,"Psychology, General.",Master's Degree,26,37894,36330
-2015_2016,003955,University of West Florida (the),Public,"Psychology, General.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,"Psychology, General.",Undergraduate Certificate or Diploma,NA,21000,20044
+2015_2016,003955,University of West Florida (the),Public,"Psychology, General.",Graduate/Professional Certificate,,,
+2016_2017,003955,University of West Florida (the),Public,"Psychology, General.",Undergraduate Certificate or Diploma,,21000,20044
 2016_2017,003955,University of West Florida (the),Public,"Psychology, General.",Bachelor's Degree,144,19375,18827
 2016_2017,003955,University of West Florida (the),Public,"Psychology, General.",Master's Degree,33,32137,34488
-2016_2017,003955,University of West Florida (the),Public,"Psychology, General.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003955,University of West Florida (the),Public,"Psychology, General.",Graduate/Professional Certificate,,,
 2015_2016,003955,University of West Florida (the),Public,Public Health.,Master's Degree,25,33527,35016
-2015_2016,003955,University of West Florida (the),Public,Public Health.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,Public Health.,Graduate/Professional Certificate,,,
 2016_2017,003955,University of West Florida (the),Public,Public Health.,Master's Degree,28,29390,31916
 2015_2016,003955,University of West Florida (the),Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,148,13759,15184
-2015_2016,003955,University of West Florida (the),Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2015_2016,003955,University of West Florida (the),Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2016_2017,003955,University of West Florida (the),Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,212,11771,13263
-2016_2017,003955,University of West Florida (the),Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2016_2017,003955,University of West Florida (the),Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2015_2016,003955,University of West Florida (the),Public,"Social Sciences, General.",Bachelor's Degree,72,26067,25603
 2016_2017,003955,University of West Florida (the),Public,"Social Sciences, General.",Bachelor's Degree,85,25000,24339
-2015_2016,003955,University of West Florida (the),Public,"Social Sciences, Other.",Bachelor's Degree,11,NA,26440
-2016_2017,003955,University of West Florida (the),Public,"Social Sciences, Other.",Bachelor's Degree,16,NA,27554
+2015_2016,003955,University of West Florida (the),Public,"Social Sciences, Other.",Bachelor's Degree,11,,26440
+2016_2017,003955,University of West Florida (the),Public,"Social Sciences, Other.",Bachelor's Degree,16,,27554
 2015_2016,003955,University of West Florida (the),Public,Social Work.,Bachelor's Degree,73,19179,20786
 2015_2016,003955,University of West Florida (the),Public,Social Work.,Master's Degree,73,30550,32537
 2016_2017,003955,University of West Florida (the),Public,Social Work.,Bachelor's Degree,87,17750,19788
-2016_2017,003955,University of West Florida (the),Public,Social Work.,Master's Degree,NA,26241,28700
+2016_2017,003955,University of West Florida (the),Public,Social Work.,Master's Degree,,26241,28700
 2015_2016,003955,University of West Florida (the),Public,Special Education and Teaching.,Bachelor's Degree,84,25191,25415
 2015_2016,003955,University of West Florida (the),Public,Special Education and Teaching.,Master's Degree,62,30689,31659
 2016_2017,003955,University of West Florida (the),Public,Special Education and Teaching.,Bachelor's Degree,77,25000,24745
 2016_2017,003955,University of West Florida (the),Public,Special Education and Teaching.,Master's Degree,82,29784,29715
 2015_2016,003955,University of West Florida (the),Public,Student Counseling and Personnel Services.,Master's Degree,20,22440,22047
-2016_2017,003955,University of West Florida (the),Public,Student Counseling and Personnel Services.,Master's Degree,12,NA,23198
-2015_2016,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,19,NA,20336
+2016_2017,003955,University of West Florida (the),Public,Student Counseling and Personnel Services.,Master's Degree,12,,23198
+2015_2016,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,19,,20336
 2016_2017,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,20,14546,19639
-2015_2016,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,16,NA,20906
-2015_2016,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,NA,22262
-2016_2017,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,12,NA,29661
+2015_2016,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,,,
+2015_2016,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,16,,20906
+2015_2016,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,,,
+2016_2017,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,,22262
+2016_2017,003955,University of West Florida (the),Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,12,,29661

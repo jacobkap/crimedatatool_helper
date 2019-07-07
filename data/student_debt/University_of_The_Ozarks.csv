@@ -1,54 +1,54 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001094,University of The Ozarks,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,"Biology, General.",Bachelor's Degree,11,NA,14891
-2016_2017,001094,University of The Ozarks,Private,"Biology, General.",Bachelor's Degree,13,NA,19746
-2015_2016,001094,University of The Ozarks,Private,"Business Administration, Management and Operations.",Bachelor's Degree,13,NA,21288
-2016_2017,001094,University of The Ozarks,Private,"Business Administration, Management and Operations.",Bachelor's Degree,10,NA,20293
-2015_2016,001094,University of The Ozarks,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Public Health.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Public Health.,Bachelor's Degree,12,NA,19625
-2015_2016,001094,University of The Ozarks,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,10,NA,15486
-2016_2017,001094,University of The Ozarks,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,001094,University of The Ozarks,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001094,University of The Ozarks,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,001094,University of The Ozarks,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,"Biology, General.",Bachelor's Degree,11,,14891
+2016_2017,001094,University of The Ozarks,Private,"Biology, General.",Bachelor's Degree,13,,19746
+2015_2016,001094,University of The Ozarks,Private,"Business Administration, Management and Operations.",Bachelor's Degree,13,,21288
+2016_2017,001094,University of The Ozarks,Private,"Business Administration, Management and Operations.",Bachelor's Degree,10,,20293
+2015_2016,001094,University of The Ozarks,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Economics.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Economics.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,History.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,History.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,International Business.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,International Business.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Music.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Music.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,"Psychology, General.",Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Public Health.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Public Health.,Bachelor's Degree,12,,19625
+2015_2016,001094,University of The Ozarks,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,10,,15486
+2016_2017,001094,University of The Ozarks,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,001094,University of The Ozarks,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001094,University of The Ozarks,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

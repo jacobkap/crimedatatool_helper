@@ -1,5 +1,5 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,009748,Carrington College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
+2015_2016,009748,Carrington College,Proprietary,Accounting and Related Services.,Associate's Degree,,,
 2015_2016,009748,Carrington College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,1338,11623,10732
 2015_2016,009748,Carrington College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,972,20000,20089
 2015_2016,021006,Carrington College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,1791,9500,8752
@@ -15,26 +15,26 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,022180,Carrington College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,31,27291,22715
 2016_2017,030425,Carrington College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,467,9500,9327
 2015_2016,009748,Carrington College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,67,20000,18597
-2015_2016,009748,Carrington College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
+2015_2016,009748,Carrington College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
 2015_2016,021006,Carrington College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,59,37307,33629
 2015_2016,030425,Carrington College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,34,32499,25996
 2016_2017,009748,Carrington College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,91,20000,18646
-2016_2017,009748,Carrington College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
+2016_2017,009748,Carrington College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
 2016_2017,021006,Carrington College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,26,37187,33169
 2016_2017,030425,Carrington College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,57,15104,17157
-2015_2016,009748,Carrington College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,009748,Carrington College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,021006,Carrington College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,22,25637,25239
-2016_2017,021006,Carrington College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,26904
-2016_2017,022180,Carrington College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,009748,Carrington College,Proprietary,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,009748,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,021006,Carrington College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,26904
+2016_2017,022180,Carrington College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,009748,Carrington College,Proprietary,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,009748,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2015_2016,009748,Carrington College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,115,19576,18050
-2015_2016,021006,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030425,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,021006,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2015_2016,030425,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2016_2017,009748,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,55,8653,9324
 2016_2017,009748,Carrington College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,102,19493,17860
-2016_2017,021006,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,8848
-2016_2017,030425,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,021006,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,8848
+2016_2017,030425,Carrington College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2015_2016,009748,Carrington College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,792,12872,12215
 2015_2016,009748,Carrington College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,315,25195,28411
 2015_2016,021006,Carrington College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,592,9500,8651
@@ -48,35 +48,35 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,021006,Carrington College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,592,9213,8564
 2016_2017,021006,Carrington College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,92,27268,24112
 2016_2017,022180,Carrington College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,150,9500,8702
-2016_2017,022180,Carrington College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,NA,27187,23531
+2016_2017,022180,Carrington College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,,27187,23531
 2016_2017,030425,Carrington College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,163,9500,9697
-2015_2016,009748,Carrington College,Proprietary,"Engineering, Other.",Associate's Degree,NA,NA,NA
+2015_2016,009748,Carrington College,Proprietary,"Engineering, Other.",Associate's Degree,,,
 2015_2016,021006,Carrington College,Proprietary,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,49,9100,8761
-2016_2017,009748,Carrington College,Proprietary,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,009748,Carrington College,Proprietary,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,,,
 2016_2017,021006,Carrington College,Proprietary,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,115,9095,8332
 2015_2016,009748,Carrington College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,413,12103,11487
-2015_2016,009748,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,10500,11182
+2015_2016,009748,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,10500,11182
 2015_2016,021006,Carrington College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,361,9500,9250
-2015_2016,021006,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
+2015_2016,021006,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,,
 2015_2016,022180,Carrington College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,55,9500,8845
-2015_2016,022180,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
+2015_2016,022180,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,,
 2015_2016,030425,Carrington College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,61,9500,8546
-2015_2016,030425,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
+2015_2016,030425,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,,
 2016_2017,009748,Carrington College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,520,11694,10957
-2016_2017,009748,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,NA,13761
+2016_2017,009748,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,,13761
 2016_2017,021006,Carrington College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,336,9500,9244
-2016_2017,021006,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
+2016_2017,021006,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,,
 2016_2017,022180,Carrington College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,48,9500,9388
-2016_2017,022180,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
+2016_2017,022180,Carrington College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,,
 2016_2017,030425,Carrington College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,63,9500,9757
-2015_2016,009748,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,15,NA,14600
-2015_2016,021006,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,15,NA,13095
-2015_2016,022180,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,030425,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
+2015_2016,009748,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,15,,14600
+2015_2016,021006,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,15,,13095
+2015_2016,022180,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
+2015_2016,030425,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
 2016_2017,009748,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,35,15298,14779
 2016_2017,021006,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,37,15716,14682
-2016_2017,022180,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,19,NA,15409
-2016_2017,030425,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
+2016_2017,022180,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,19,,15409
+2016_2017,030425,Carrington College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
 2015_2016,009748,Carrington College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,242,17375,16656
 2015_2016,009748,Carrington College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,154,24474,24942
 2015_2016,022180,Carrington College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,65,15188,14491
@@ -90,10 +90,10 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,021006,Carrington College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,183,32500,29196
 2016_2017,022180,Carrington College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,286,26511,24782
 2015_2016,009748,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,137,6966,6519
-2015_2016,021006,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,022180,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,021006,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,022180,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,030425,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,71,7600,6989
 2016_2017,009748,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,87,6966,6116
 2016_2017,021006,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,21,7388,7281
-2016_2017,022180,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,022180,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,030425,Carrington College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,76,7599,7020

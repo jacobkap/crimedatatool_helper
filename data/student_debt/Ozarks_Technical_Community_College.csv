@@ -1,34 +1,34 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,030830,Ozarks Technical Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,20,17887,19508
 2015_2016,030830,Ozarks Technical Community College,Public,Accounting and Related Services.,Associate's Degree,33,25704,25224
-2016_2017,030830,Ozarks Technical Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,17,NA,20149
+2016_2017,030830,Ozarks Technical Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,17,,20149
 2016_2017,030830,Ozarks Technical Community College,Public,Accounting and Related Services.,Associate's Degree,38,18226,20873
-2015_2016,030830,Ozarks Technical Community College,Public,"Agriculture, General.",Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,"Agriculture, General.",Associate's Degree,NA,NA,NA
+2015_2016,030830,Ozarks Technical Community College,Public,"Agriculture, General.",Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,"Agriculture, General.",Associate's Degree,,,
 2015_2016,030830,Ozarks Technical Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,37,16119,18157
 2016_2017,030830,Ozarks Technical Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,40,14874,16807
-2015_2016,030830,Ozarks Technical Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,18,NA,15259
-2015_2016,030830,Ozarks Technical Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,16676,17695
+2015_2016,030830,Ozarks Technical Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,18,,15259
+2015_2016,030830,Ozarks Technical Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,16676,17695
 2016_2017,030830,Ozarks Technical Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,23,10500,15061
-2016_2017,030830,Ozarks Technical Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,16365,18834
-2015_2016,030830,Ozarks Technical Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Applied Horticulture and Horticultural Business Services.,Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Applied Horticulture and Horticultural Business Services.,Associate's Degree,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,"Biology, General.",Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,"Biology, General.",Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,25260
-2016_2017,030830,Ozarks Technical Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,21859
-2015_2016,030830,Ozarks Technical Community College,Public,Chemistry.,Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Chemistry.,Associate's Degree,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,18608
-2015_2016,030830,Ozarks Technical Community College,Public,Communications Technology/Technician.,Undergraduate Certificate or Diploma,16,NA,15732
+2016_2017,030830,Ozarks Technical Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,16365,18834
+2015_2016,030830,Ozarks Technical Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Applied Horticulture and Horticultural Business Services.,Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Applied Horticulture and Horticultural Business Services.,Associate's Degree,,,
+2015_2016,030830,Ozarks Technical Community College,Public,"Biology, General.",Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,"Biology, General.",Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,25260
+2016_2017,030830,Ozarks Technical Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,21859
+2015_2016,030830,Ozarks Technical Community College,Public,Chemistry.,Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Chemistry.,Associate's Degree,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,18608
+2015_2016,030830,Ozarks Technical Community College,Public,Communications Technology/Technician.,Undergraduate Certificate or Diploma,16,,15732
 2015_2016,030830,Ozarks Technical Community College,Public,Communications Technology/Technician.,Associate's Degree,23,12556,14958
-2016_2017,030830,Ozarks Technical Community College,Public,Communications Technology/Technician.,Undergraduate Certificate or Diploma,13,NA,8368
+2016_2017,030830,Ozarks Technical Community College,Public,Communications Technology/Technician.,Undergraduate Certificate or Diploma,13,,8368
 2016_2017,030830,Ozarks Technical Community College,Public,Communications Technology/Technician.,Associate's Degree,20,9962,10918
 2015_2016,030830,Ozarks Technical Community College,Public,Computer Programming.,Undergraduate Certificate or Diploma,21,16172,16577
 2015_2016,030830,Ozarks Technical Community College,Public,Computer Programming.,Associate's Degree,29,17500,17262
@@ -36,14 +36,14 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,030830,Ozarks Technical Community College,Public,Computer Programming.,Associate's Degree,34,14307,18119
 2015_2016,030830,Ozarks Technical Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,23,16498,19283
 2015_2016,030830,Ozarks Technical Community College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,46,16623,18127
-2016_2017,030830,Ozarks Technical Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,15,NA,21562
+2016_2017,030830,Ozarks Technical Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,15,,21562
 2016_2017,030830,Ozarks Technical Community College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,34,19476,20824
-2015_2016,030830,Ozarks Technical Community College,Public,Construction Engineering Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Construction Engineering Technologies.,Associate's Degree,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,"Construction Trades, General.",Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,"Construction Trades, General.",Associate's Degree,NA,NA,NA
+2015_2016,030830,Ozarks Technical Community College,Public,Construction Engineering Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Construction Engineering Technologies.,Associate's Degree,,,
+2015_2016,030830,Ozarks Technical Community College,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,030830,Ozarks Technical Community College,Public,"Construction Trades, General.",Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,030830,Ozarks Technical Community College,Public,"Construction Trades, General.",Associate's Degree,,,
 2015_2016,030830,Ozarks Technical Community College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,21,16500,21514
 2015_2016,030830,Ozarks Technical Community College,Public,Culinary Arts and Related Services.,Associate's Degree,59,17500,21405
 2016_2017,030830,Ozarks Technical Community College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,25,13500,18277
@@ -52,77 +52,77 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,030830,Ozarks Technical Community College,Public,Dental Support Services and Allied Professions.,Associate's Degree,67,14688,16219
 2016_2017,030830,Ozarks Technical Community College,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,33,6750,11152
 2016_2017,030830,Ozarks Technical Community College,Public,Dental Support Services and Allied Professions.,Associate's Degree,81,10831,14258
-2015_2016,030830,Ozarks Technical Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,16,NA,17143
-2015_2016,030830,Ozarks Technical Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,16,NA,13971
-2016_2017,030830,Ozarks Technical Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,16,NA,17479
-2016_2017,030830,Ozarks Technical Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,18,NA,16542
-2015_2016,030830,Ozarks Technical Community College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,"Engineering, General.",Undergraduate Certificate or Diploma,10,NA,16854
-2015_2016,030830,Ozarks Technical Community College,Public,"Engineering, General.",Associate's Degree,16,NA,13992
-2016_2017,030830,Ozarks Technical Community College,Public,"Engineering, General.",Undergraduate Certificate or Diploma,12,NA,17588
-2016_2017,030830,Ozarks Technical Community College,Public,"Engineering, General.",Associate's Degree,19,NA,16470
-2015_2016,030830,Ozarks Technical Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Fire Protection.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Fire Protection.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Graphic Communications.,Associate's Degree,16,NA,20306
-2016_2017,030830,Ozarks Technical Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Graphic Communications.,Associate's Degree,18,NA,16011
+2015_2016,030830,Ozarks Technical Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,16,,17143
+2015_2016,030830,Ozarks Technical Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,16,,13971
+2016_2017,030830,Ozarks Technical Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,16,,17479
+2016_2017,030830,Ozarks Technical Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,18,,16542
+2015_2016,030830,Ozarks Technical Community College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2015_2016,030830,Ozarks Technical Community College,Public,"Engineering, General.",Undergraduate Certificate or Diploma,10,,16854
+2015_2016,030830,Ozarks Technical Community College,Public,"Engineering, General.",Associate's Degree,16,,13992
+2016_2017,030830,Ozarks Technical Community College,Public,"Engineering, General.",Undergraduate Certificate or Diploma,12,,17588
+2016_2017,030830,Ozarks Technical Community College,Public,"Engineering, General.",Associate's Degree,19,,16470
+2015_2016,030830,Ozarks Technical Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Fire Protection.,Undergraduate Certificate or Diploma,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Fire Protection.,Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Fire Protection.,Undergraduate Certificate or Diploma,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Fire Protection.,Associate's Degree,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Graphic Communications.,Associate's Degree,16,,20306
+2016_2017,030830,Ozarks Technical Community College,Public,Graphic Communications.,Undergraduate Certificate or Diploma,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Graphic Communications.,Associate's Degree,18,,16011
 2015_2016,030830,Ozarks Technical Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,26,19086,19410
-2015_2016,030830,Ozarks Technical Community College,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
+2015_2016,030830,Ozarks Technical Community College,Public,Health and Medical Administrative Services.,Associate's Degree,,,
 2016_2017,030830,Ozarks Technical Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,24,15365,17570
-2016_2017,030830,Ozarks Technical Community College,Public,Health and Medical Administrative Services.,Associate's Degree,15,NA,24092
+2016_2017,030830,Ozarks Technical Community College,Public,Health and Medical Administrative Services.,Associate's Degree,15,,24092
 2015_2016,030830,Ozarks Technical Community College,Public,"Health Professions and Related Clinical Sciences, Other.",Undergraduate Certificate or Diploma,151,12337,16328
-2015_2016,030830,Ozarks Technical Community College,Public,"Health Professions and Related Clinical Sciences, Other.",Associate's Degree,NA,12500,15268
+2015_2016,030830,Ozarks Technical Community College,Public,"Health Professions and Related Clinical Sciences, Other.",Associate's Degree,,12500,15268
 2016_2017,030830,Ozarks Technical Community College,Public,"Health Professions and Related Clinical Sciences, Other.",Undergraduate Certificate or Diploma,148,12000,15855
-2016_2017,030830,Ozarks Technical Community College,Public,"Health Professions and Related Clinical Sciences, Other.",Associate's Degree,NA,12500,15122
-2016_2017,030830,Ozarks Technical Community College,Public,Health/Medical Preparatory Programs.,Associate's Degree,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,13,NA,12714
-2015_2016,030830,Ozarks Technical Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,9000,14199
-2016_2017,030830,Ozarks Technical Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,NA,NA,20340
-2015_2016,030830,Ozarks Technical Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,11,NA,7300
-2015_2016,030830,Ozarks Technical Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,15,NA,17142
-2016_2017,030830,Ozarks Technical Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030830,Ozarks Technical Community College,Public,"Health Professions and Related Clinical Sciences, Other.",Associate's Degree,,12500,15122
+2016_2017,030830,Ozarks Technical Community College,Public,Health/Medical Preparatory Programs.,Associate's Degree,,,
+2015_2016,030830,Ozarks Technical Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,13,,12714
+2015_2016,030830,Ozarks Technical Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,9000,14199
+2016_2017,030830,Ozarks Technical Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,,,20340
+2015_2016,030830,Ozarks Technical Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,11,,7300
+2015_2016,030830,Ozarks Technical Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,15,,17142
+2016_2017,030830,Ozarks Technical Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,,,
 2016_2017,030830,Ozarks Technical Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,20,17222,18635
 2015_2016,030830,Ozarks Technical Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,30,15381,18098
 2015_2016,030830,Ozarks Technical Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,45,14268,18280
-2016_2017,030830,Ozarks Technical Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,19,NA,17148
+2016_2017,030830,Ozarks Technical Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,19,,17148
 2016_2017,030830,Ozarks Technical Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,41,14250,17953
-2015_2016,030830,Ozarks Technical Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,12,NA,17898
-2016_2017,030830,Ozarks Technical Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,12,NA,12547
-2016_2017,030830,Ozarks Technical Community College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,17,NA,17579
+2015_2016,030830,Ozarks Technical Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,12,,17898
+2016_2017,030830,Ozarks Technical Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,12,,12547
+2016_2017,030830,Ozarks Technical Community College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,17,,17579
 2015_2016,030830,Ozarks Technical Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,769,11560,15240
 2016_2017,030830,Ozarks Technical Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,783,11754,15746
-2015_2016,030830,Ozarks Technical Community College,Public,Management Information Systems and Services.,Associate's Degree,NA,NA,NA
+2015_2016,030830,Ozarks Technical Community College,Public,Management Information Systems and Services.,Associate's Degree,,,
 2015_2016,030830,Ozarks Technical Community College,Public,Marketing.,Undergraduate Certificate or Diploma,50,16122,18502
 2015_2016,030830,Ozarks Technical Community College,Public,Marketing.,Associate's Degree,66,16485,18221
 2016_2017,030830,Ozarks Technical Community College,Public,Marketing.,Undergraduate Certificate or Diploma,55,17000,19919
 2016_2017,030830,Ozarks Technical Community College,Public,Marketing.,Associate's Degree,57,18452,20869
-2015_2016,030830,Ozarks Technical Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2015_2016,030830,Ozarks Technical Community College,Public,Physical Science Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Physical Science Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,Physical Science Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2015_2016,030830,Ozarks Technical Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,,,
+2015_2016,030830,Ozarks Technical Community College,Public,Physical Science Technologies/Technicians.,Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Physical Science Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,030830,Ozarks Technical Community College,Public,Physical Science Technologies/Technicians.,Associate's Degree,,,
 2015_2016,030830,Ozarks Technical Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,112,14435,16322
 2016_2017,030830,Ozarks Technical Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,118,16568,17607
 2015_2016,030830,Ozarks Technical Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,48,8883,13782
-2015_2016,030830,Ozarks Technical Community College,Public,Precision Metal Working.,Associate's Degree,NA,14804,17883
+2015_2016,030830,Ozarks Technical Community College,Public,Precision Metal Working.,Associate's Degree,,14804,17883
 2016_2017,030830,Ozarks Technical Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,41,9000,13356
 2016_2017,030830,Ozarks Technical Community College,Public,Precision Metal Working.,Associate's Degree,30,15180,19465
-2015_2016,030830,Ozarks Technical Community College,Public,"Precision Production, Other.",Associate's Degree,NA,NA,NA
-2016_2017,030830,Ozarks Technical Community College,Public,"Precision Production, Other.",Associate's Degree,NA,NA,NA
+2015_2016,030830,Ozarks Technical Community College,Public,"Precision Production, Other.",Associate's Degree,,,
+2016_2017,030830,Ozarks Technical Community College,Public,"Precision Production, Other.",Associate's Degree,,,
 2015_2016,030830,Ozarks Technical Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,58,21794,21807
 2016_2017,030830,Ozarks Technical Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,69,19215,21715
 2015_2016,030830,Ozarks Technical Community College,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Associate's Degree,88,13726,16041

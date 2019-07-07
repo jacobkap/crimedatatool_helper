@@ -1,105 +1,105 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001606,Brigham Young University - Hawaii,Private,Accounting and Related Services.,Bachelor's Degree,10,NA,7885
-2016_2017,001606,Brigham Young University - Hawaii,Private,Accounting and Related Services.,Bachelor's Degree,10,NA,9402
-2015_2016,001606,Brigham Young University - Hawaii,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Biology Technician/Biotechnology Laboratory Technician.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Biology Technician/Biotechnology Laboratory Technician.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001606,Brigham Young University - Hawaii,Private,Accounting and Related Services.,Bachelor's Degree,10,,7885
+2016_2017,001606,Brigham Young University - Hawaii,Private,Accounting and Related Services.,Bachelor's Degree,10,,9402
+2015_2016,001606,Brigham Young University - Hawaii,Private,Anthropology.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Anthropology.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Area Studies.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Biological and Physical Sciences.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Biological and Physical Sciences.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Biology Technician/Biotechnology Laboratory Technician.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Biology Technician/Biotechnology Laboratory Technician.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Biology, General.",Bachelor's Degree,,,
 2016_2017,001606,Brigham Young University - Hawaii,Private,"Biology, General.",Bachelor's Degree,20,15182,14240
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,001606,Brigham Young University - Hawaii,Private,"Business Administration, Management and Operations.",Bachelor's Degree,39,10000,10667
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,001606,Brigham Young University - Hawaii,Private,"Business Administration, Management and Operations.",Bachelor's Degree,42,11358,11856
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Business/Managerial Economics.,Associate's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Business/Managerial Economics.,Associate's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Computer and Information Sciences and Support Services, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Computer and Information Sciences and Support Services, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Business/Commerce, General.",Associate's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Business/Managerial Economics.,Associate's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Business/Managerial Economics.,Associate's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Computer and Information Sciences and Support Services, Other.",Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Computer and Information Sciences and Support Services, Other.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Computer Science.,Bachelor's Degree,,,
 2015_2016,001606,Brigham Young University - Hawaii,Private,Cultural Studies/Critical Theory and Analysis.,Bachelor's Degree,23,9000,10844
 2016_2017,001606,Brigham Young University - Hawaii,Private,Cultural Studies/Critical Theory and Analysis.,Bachelor's Degree,26,8500,9568
-2015_2016,001606,Brigham Young University - Hawaii,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Fine and Studio Arts.,Bachelor's Degree,13,NA,14279
-2016_2017,001606,Brigham Young University - Hawaii,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Hospitality Administration/Management.,Bachelor's Degree,13,NA,10609
-2015_2016,001606,Brigham Young University - Hawaii,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Leisure and Recreational Activities.,Bachelor's Degree,NA,8246,10718
-2016_2017,001606,Brigham Young University - Hawaii,Private,Leisure and Recreational Activities.,Bachelor's Degree,NA,9718,11592
+2015_2016,001606,Brigham Young University - Hawaii,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Fine and Studio Arts.,Bachelor's Degree,13,,14279
+2016_2017,001606,Brigham Young University - Hawaii,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,History.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,History.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Hospitality Administration/Management.,Associate's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Hospitality Administration/Management.,Associate's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Hospitality Administration/Management.,Bachelor's Degree,13,,10609
+2015_2016,001606,Brigham Young University - Hawaii,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Information Science/Studies.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,International Business.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,International Business.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Leisure and Recreational Activities.,Bachelor's Degree,,8246,10718
+2016_2017,001606,Brigham Young University - Hawaii,Private,Leisure and Recreational Activities.,Bachelor's Degree,,9718,11592
 2015_2016,001606,Brigham Young University - Hawaii,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,29,5500,6168
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,14,NA,12304
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,14,,12304
 2016_2017,001606,Brigham Young University - Hawaii,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,34,5500,6567
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,9416
-2015_2016,001606,Brigham Young University - Hawaii,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Political Science and Government.,Bachelor's Degree,13,NA,8939
-2016_2017,001606,Brigham Young University - Hawaii,Private,Political Science and Government.,Bachelor's Degree,14,NA,10708
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,9416
+2015_2016,001606,Brigham Young University - Hawaii,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Music.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Music.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Physical Sciences.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Physical Sciences.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Political Science and Government.,Bachelor's Degree,13,,8939
+2016_2017,001606,Brigham Young University - Hawaii,Private,Political Science and Government.,Bachelor's Degree,14,,10708
 2015_2016,001606,Brigham Young University - Hawaii,Private,"Psychology, General.",Bachelor's Degree,24,8977,8517
 2016_2017,001606,Brigham Young University - Hawaii,Private,"Psychology, General.",Bachelor's Degree,23,9810,9709
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Social Sciences, General.",Bachelor's Degree,,,
 2015_2016,001606,Brigham Young University - Hawaii,Private,Social Work.,Bachelor's Degree,20,10925,10527
 2016_2017,001606,Brigham Young University - Hawaii,Private,Social Work.,Bachelor's Degree,23,9856,9777
-2015_2016,001606,Brigham Young University - Hawaii,Private,Special Education and Teaching.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Special Education and Teaching.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Student Counseling and Personnel Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Student Counseling and Personnel Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,13,NA,11758
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,10,NA,11703
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,001606,Brigham Young University - Hawaii,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2016_2017,001606,Brigham Young University - Hawaii,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
+2015_2016,001606,Brigham Young University - Hawaii,Private,Special Education and Teaching.,Undergraduate Certificate or Diploma,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Special Education and Teaching.,Undergraduate Certificate or Diploma,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Student Counseling and Personnel Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Student Counseling and Personnel Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,13,,11758
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,10,,11703
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,001606,Brigham Young University - Hawaii,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2016_2017,001606,Brigham Young University - Hawaii,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,

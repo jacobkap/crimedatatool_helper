@@ -1,40 +1,40 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,43,80500,86532
 2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,81,90544,88338
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Biology, General.",Master's Degree,NA,NA,71749
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Biology, General.",First Professional Degree,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Biology, General.",Master's Degree,NA,83319,85119
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Biology, General.",First Professional Degree,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Biology, General.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Business Administration, Management and Operations.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Business Administration, Management and Operations.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,13,NA,35924
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,139420,137957
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",First Professional Degree,NA,NA,NA
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,16,NA,34502
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,150167,154622
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",First Professional Degree,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,83545
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Biology, General.",Master's Degree,,,71749
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Biology, General.",First Professional Degree,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Biology, General.",Master's Degree,,83319,85119
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Biology, General.",First Professional Degree,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Biology, General.",Graduate/Professional Certificate,,,
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Business Administration, Management and Operations.",Graduate/Professional Certificate,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Business Administration, Management and Operations.",Graduate/Professional Certificate,,,
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,13,,35924
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,139420,137957
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",First Professional Degree,,,
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,16,,34502
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,150167,154622
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",First Professional Degree,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,83545
 2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Criminal Justice and Corrections.,Master's Degree,24,46299,60996
 2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Criminal Justice and Corrections.,Master's Degree,46,47250,57472
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Health/Medical Preparatory Programs.,Master's Degree,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Health/Medical Preparatory Programs.,Master's Degree,NA,NA,NA
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,60125
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,58353,61497
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,,,
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Health/Medical Preparatory Programs.,Master's Degree,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Health/Medical Preparatory Programs.,Master's Degree,,,
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Human Resources Management and Services.,Master's Degree,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Human Resources Management and Services.,Master's Degree,,,
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,,,60125
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,,58353,61497
 2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Osteopathic Medicine/Osteopathy.,First Professional Degree,644,239221,217216
 2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Osteopathic Medicine/Osteopathy.,First Professional Degree,610,250207,229528
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,NA,NA
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,NA,193096,180313
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,NA,210779,192632
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Psychology, Other.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Psychology, Other.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Public Health.,Master's Degree,NA,NA,NA
-2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Public Health.,Master's Degree,NA,NA,57275
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,,
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,,193096,180313
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,,210779,192632
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,"Psychology, Other.",Graduate/Professional Certificate,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,"Psychology, Other.",Graduate/Professional Certificate,,,
+2015_2016,003352,Philadelphia College of Osteopathic Medicine,Private,Public Health.,Master's Degree,,,
+2016_2017,003352,Philadelphia College of Osteopathic Medicine,Private,Public Health.,Master's Degree,,,57275

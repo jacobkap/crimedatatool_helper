@@ -1,18 +1,18 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,002775,Molloy College,Private,Accounting and Related Services.,Bachelor's Degree,49,26024,24534
-2015_2016,002775,Molloy College,Private,Accounting and Related Services.,Master's Degree,18,NA,27183
+2015_2016,002775,Molloy College,Private,Accounting and Related Services.,Master's Degree,18,,27183
 2016_2017,002775,Molloy College,Private,Accounting and Related Services.,Bachelor's Degree,42,25412,24936
-2016_2017,002775,Molloy College,Private,Accounting and Related Services.,Master's Degree,18,NA,30103
+2016_2017,002775,Molloy College,Private,Accounting and Related Services.,Master's Degree,18,,30103
 2015_2016,002775,Molloy College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,24,18000,18941
 2016_2017,002775,Molloy College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,44,21000,19244
-2015_2016,002775,Molloy College,Private,"Bilingual, Multilingual, and Multicultural Education.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002775,Molloy College,Private,"Bilingual, Multilingual, and Multicultural Education.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002775,Molloy College,Private,"Bilingual, Multilingual, and Multicultural Education.",Graduate/Professional Certificate,,,
+2016_2017,002775,Molloy College,Private,"Bilingual, Multilingual, and Multicultural Education.",Graduate/Professional Certificate,,,
 2015_2016,002775,Molloy College,Private,"Biology, General.",Bachelor's Degree,30,27000,27352
 2016_2017,002775,Molloy College,Private,"Biology, General.",Bachelor's Degree,41,26000,24940
 2015_2016,002775,Molloy College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,30,26000,23674
 2015_2016,002775,Molloy College,Private,"Business Administration, Management and Operations.",Master's Degree,20,34576,34862
 2016_2017,002775,Molloy College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,44,27000,24505
-2016_2017,002775,Molloy College,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002775,Molloy College,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2016_2017,002775,Molloy College,Private,"Business Administration, Management and Operations.",Master's Degree,34,32354,30900
 2015_2016,002775,Molloy College,Private,Communication and Media Studies.,Bachelor's Degree,27,25000,22622
 2016_2017,002775,Molloy College,Private,Communication and Media Studies.,Bachelor's Degree,36,25000,24191
@@ -20,87 +20,87 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,002775,Molloy College,Private,Communication Disorders Sciences and Services.,Master's Degree,37,41000,48746
 2016_2017,002775,Molloy College,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,28,24125,24116
 2016_2017,002775,Molloy College,Private,Communication Disorders Sciences and Services.,Master's Degree,57,41000,50475
-2015_2016,002775,Molloy College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002775,Molloy College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
 2015_2016,002775,Molloy College,Private,Criminal Justice and Corrections.,Bachelor's Degree,29,25000,24679
-2015_2016,002775,Molloy College,Private,Criminal Justice and Corrections.,Master's Degree,14,NA,30819
+2015_2016,002775,Molloy College,Private,Criminal Justice and Corrections.,Master's Degree,14,,30819
 2016_2017,002775,Molloy College,Private,Criminal Justice and Corrections.,Bachelor's Degree,32,25375,24061
-2016_2017,002775,Molloy College,Private,Criminal Justice and Corrections.,Master's Degree,12,NA,36206
-2015_2016,002775,Molloy College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Finance and Financial Management Services.,Master's Degree,12,NA,29035
-2016_2017,002775,Molloy College,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Finance and Financial Management Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002775,Molloy College,Private,Criminal Justice and Corrections.,Master's Degree,12,,36206
+2015_2016,002775,Molloy College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,Finance and Financial Management Services.,Master's Degree,12,,29035
+2016_2017,002775,Molloy College,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Finance and Financial Management Services.,Post-baccalaureate Certificate,,,
 2016_2017,002775,Molloy College,Private,Finance and Financial Management Services.,Master's Degree,20,20500,25120
-2015_2016,002775,Molloy College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,27398
-2016_2017,002775,Molloy College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,History.,Bachelor's Degree,15,NA,21321
-2016_2017,002775,Molloy College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,19,NA,28209
-2015_2016,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,11,NA,31391
-2016_2017,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Marketing.,Master's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Marketing.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Marketing.,Master's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2015_2016,002775,Molloy College,Private,Fine and Studio Arts.,Bachelor's Degree,,,27398
+2016_2017,002775,Molloy College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,Health and Medical Administrative Services.,Master's Degree,,,
+2016_2017,002775,Molloy College,Private,Health and Medical Administrative Services.,Master's Degree,,,
+2015_2016,002775,Molloy College,Private,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,History.,Bachelor's Degree,15,,21321
+2016_2017,002775,Molloy College,Private,History.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Information Science/Studies.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,19,,28209
+2015_2016,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2016_2017,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,11,,31391
+2016_2017,002775,Molloy College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2015_2016,002775,Molloy College,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,Marketing.,Master's Degree,,,
+2016_2017,002775,Molloy College,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Marketing.,Post-baccalaureate Certificate,,,
+2016_2017,002775,Molloy College,Private,Marketing.,Master's Degree,,,
+2015_2016,002775,Molloy College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,Music.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Music.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,002775,Molloy College,Private,"Psychology, General.",Bachelor's Degree,31,27000,27611
 2016_2017,002775,Molloy College,Private,"Psychology, General.",Bachelor's Degree,41,26000,25093
 2015_2016,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,435,29000,31347
 2015_2016,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,79,41000,39092
-2015_2016,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2015_2016,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2016_2017,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,426,29119,31334
 2016_2017,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,86,41000,41741
-2016_2017,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2016_2017,002775,Molloy College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
+2015_2016,002775,Molloy College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,,,
+2016_2017,002775,Molloy College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,,,
+2015_2016,002775,Molloy College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,002775,Molloy College,Private,Social Work.,Bachelor's Degree,25,20000,21698
 2016_2017,002775,Molloy College,Private,Social Work.,Bachelor's Degree,47,24476,23889
-2015_2016,002775,Molloy College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
+2015_2016,002775,Molloy College,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,Sociology.,Bachelor's Degree,,,
 2015_2016,002775,Molloy College,Private,Special Education and Teaching.,Bachelor's Degree,38,27000,26725
 2015_2016,002775,Molloy College,Private,Special Education and Teaching.,Master's Degree,51,31530,31795
-2015_2016,002775,Molloy College,Private,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002775,Molloy College,Private,Special Education and Teaching.,Graduate/Professional Certificate,,,
 2016_2017,002775,Molloy College,Private,Special Education and Teaching.,Bachelor's Degree,22,27000,26103
 2016_2017,002775,Molloy College,Private,Special Education and Teaching.,Master's Degree,54,22000,27170
-2016_2017,002775,Molloy College,Private,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002775,Molloy College,Private,Special Education and Teaching.,Graduate/Professional Certificate,,,
 2015_2016,002775,Molloy College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,24,22782,21739
 2015_2016,002775,Molloy College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,22,35500,34995
 2016_2017,002775,Molloy College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,25,24486,21626
-2016_2017,002775,Molloy College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,17,NA,31838
-2015_2016,002775,Molloy College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,002775,Molloy College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2015_2016,002775,Molloy College,Private,Teaching English or French as a Second or Foreign Language.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002775,Molloy College,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,16,NA,28560
-2016_2017,002775,Molloy College,Private,Teaching English or French as a Second or Foreign Language.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002775,Molloy College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,17,,31838
+2015_2016,002775,Molloy College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,002775,Molloy College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,002775,Molloy College,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2015_2016,002775,Molloy College,Private,Teaching English or French as a Second or Foreign Language.,Graduate/Professional Certificate,,,
+2016_2017,002775,Molloy College,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,16,,28560
+2016_2017,002775,Molloy College,Private,Teaching English or French as a Second or Foreign Language.,Graduate/Professional Certificate,,,

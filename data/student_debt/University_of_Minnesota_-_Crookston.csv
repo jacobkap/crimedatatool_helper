@@ -1,68 +1,68 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,004069,University of Minnesota - Crookston,Public,Accounting and Related Services.,Bachelor's Degree,46,24626,23303
 2016_2017,004069,University of Minnesota - Crookston,Public,Accounting and Related Services.,Bachelor's Degree,56,25331,25239
-2015_2016,004069,University of Minnesota - Crookston,Public,Agricultural Business and Management.,Bachelor's Degree,15,NA,16778
-2016_2017,004069,University of Minnesota - Crookston,Public,Agricultural Business and Management.,Bachelor's Degree,16,NA,18142
-2015_2016,004069,University of Minnesota - Crookston,Public,Agricultural Mechanization.,Bachelor's Degree,15,NA,17998
-2016_2017,004069,University of Minnesota - Crookston,Public,Agricultural Mechanization.,Bachelor's Degree,12,NA,18212
-2015_2016,004069,University of Minnesota - Crookston,Public,Agricultural Production Operations.,Bachelor's Degree,17,NA,22646
-2016_2017,004069,University of Minnesota - Crookston,Public,Agricultural Production Operations.,Bachelor's Degree,17,NA,21724
-2015_2016,004069,University of Minnesota - Crookston,Public,Air Transportation.,Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,Air Transportation.,Bachelor's Degree,NA,NA,NA
+2015_2016,004069,University of Minnesota - Crookston,Public,Agricultural Business and Management.,Bachelor's Degree,15,,16778
+2016_2017,004069,University of Minnesota - Crookston,Public,Agricultural Business and Management.,Bachelor's Degree,16,,18142
+2015_2016,004069,University of Minnesota - Crookston,Public,Agricultural Mechanization.,Bachelor's Degree,15,,17998
+2016_2017,004069,University of Minnesota - Crookston,Public,Agricultural Mechanization.,Bachelor's Degree,12,,18212
+2015_2016,004069,University of Minnesota - Crookston,Public,Agricultural Production Operations.,Bachelor's Degree,17,,22646
+2016_2017,004069,University of Minnesota - Crookston,Public,Agricultural Production Operations.,Bachelor's Degree,17,,21724
+2015_2016,004069,University of Minnesota - Crookston,Public,Air Transportation.,Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,Air Transportation.,Bachelor's Degree,,,
 2015_2016,004069,University of Minnesota - Crookston,Public,Animal Sciences.,Bachelor's Degree,39,20500,20569
 2016_2017,004069,University of Minnesota - Crookston,Public,Animal Sciences.,Bachelor's Degree,36,20449,20803
-2015_2016,004069,University of Minnesota - Crookston,Public,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,004069,University of Minnesota - Crookston,Public,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,"Biology, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,004069,University of Minnesota - Crookston,Public,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,,,
+2015_2016,004069,University of Minnesota - Crookston,Public,"Biology, General.",Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,"Biology, General.",Bachelor's Degree,,,
 2015_2016,004069,University of Minnesota - Crookston,Public,"Business Administration, Management and Operations.",Bachelor's Degree,66,23454,24040
 2016_2017,004069,University of Minnesota - Crookston,Public,"Business Administration, Management and Operations.",Bachelor's Degree,82,20488,20670
-2015_2016,004069,University of Minnesota - Crookston,Public,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,10,NA,20416
+2015_2016,004069,University of Minnesota - Crookston,Public,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,10,,20416
 2016_2017,004069,University of Minnesota - Crookston,Public,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,23,20375,18964
-2015_2016,004069,University of Minnesota - Crookston,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,004069,University of Minnesota - Crookston,Public,Communication and Media Studies.,Bachelor's Degree,15,NA,21249
-2016_2017,004069,University of Minnesota - Crookston,Public,Communication and Media Studies.,Bachelor's Degree,19,NA,20854
-2015_2016,004069,University of Minnesota - Crookston,Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,004069,University of Minnesota - Crookston,Public,Criminal Justice and Corrections.,Bachelor's Degree,13,NA,23922
-2016_2017,004069,University of Minnesota - Crookston,Public,Criminal Justice and Corrections.,Bachelor's Degree,15,NA,24123
-2015_2016,004069,University of Minnesota - Crookston,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,004069,University of Minnesota - Crookston,Public,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2015_2016,004069,University of Minnesota - Crookston,Public,Finance and Financial Management Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004069,University of Minnesota - Crookston,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,21256
-2016_2017,004069,University of Minnesota - Crookston,Public,Finance and Financial Management Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,22060,21832
-2015_2016,004069,University of Minnesota - Crookston,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,004069,University of Minnesota - Crookston,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,004069,University of Minnesota - Crookston,Public,Communication and Media Studies.,Bachelor's Degree,15,,21249
+2016_2017,004069,University of Minnesota - Crookston,Public,Communication and Media Studies.,Bachelor's Degree,19,,20854
+2015_2016,004069,University of Minnesota - Crookston,Public,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,004069,University of Minnesota - Crookston,Public,Criminal Justice and Corrections.,Bachelor's Degree,13,,23922
+2016_2017,004069,University of Minnesota - Crookston,Public,Criminal Justice and Corrections.,Bachelor's Degree,15,,24123
+2015_2016,004069,University of Minnesota - Crookston,Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,004069,University of Minnesota - Crookston,Public,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2015_2016,004069,University of Minnesota - Crookston,Public,Finance and Financial Management Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,004069,University of Minnesota - Crookston,Public,Finance and Financial Management Services.,Bachelor's Degree,,,21256
+2016_2017,004069,University of Minnesota - Crookston,Public,Finance and Financial Management Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,Finance and Financial Management Services.,Bachelor's Degree,,22060,21832
+2015_2016,004069,University of Minnesota - Crookston,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,004069,University of Minnesota - Crookston,Public,Health and Medical Administrative Services.,Bachelor's Degree,46,21368,24448
-2016_2017,004069,University of Minnesota - Crookston,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,004069,University of Minnesota - Crookston,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,004069,University of Minnesota - Crookston,Public,Health and Medical Administrative Services.,Bachelor's Degree,57,23161,23972
-2015_2016,004069,University of Minnesota - Crookston,Public,Health and Physical Education/Fitness.,Bachelor's Degree,12,NA,25732
-2016_2017,004069,University of Minnesota - Crookston,Public,Health and Physical Education/Fitness.,Bachelor's Degree,15,NA,23298
-2015_2016,004069,University of Minnesota - Crookston,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,004069,University of Minnesota - Crookston,Public,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2015_2016,004069,University of Minnesota - Crookston,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004069,University of Minnesota - Crookston,Public,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,004069,University of Minnesota - Crookston,Public,Management Information Systems and Services.,Bachelor's Degree,10,NA,22409
-2016_2017,004069,University of Minnesota - Crookston,Public,Management Information Systems and Services.,Bachelor's Degree,13,NA,24271
-2015_2016,004069,University of Minnesota - Crookston,Public,Marketing.,Bachelor's Degree,17,NA,23118
-2016_2017,004069,University of Minnesota - Crookston,Public,Marketing.,Bachelor's Degree,NA,NA,22450
+2015_2016,004069,University of Minnesota - Crookston,Public,Health and Physical Education/Fitness.,Bachelor's Degree,12,,25732
+2016_2017,004069,University of Minnesota - Crookston,Public,Health and Physical Education/Fitness.,Bachelor's Degree,15,,23298
+2015_2016,004069,University of Minnesota - Crookston,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2015_2016,004069,University of Minnesota - Crookston,Public,Hospitality Administration/Management.,Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,Hospitality Administration/Management.,Bachelor's Degree,,,
+2015_2016,004069,University of Minnesota - Crookston,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,004069,University of Minnesota - Crookston,Public,International Business.,Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,International Business.,Bachelor's Degree,,,
+2015_2016,004069,University of Minnesota - Crookston,Public,Management Information Systems and Services.,Bachelor's Degree,10,,22409
+2016_2017,004069,University of Minnesota - Crookston,Public,Management Information Systems and Services.,Bachelor's Degree,13,,24271
+2015_2016,004069,University of Minnesota - Crookston,Public,Marketing.,Bachelor's Degree,17,,23118
+2016_2017,004069,University of Minnesota - Crookston,Public,Marketing.,Bachelor's Degree,,,22450
 2015_2016,004069,University of Minnesota - Crookston,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,26,15513,17423
 2016_2017,004069,University of Minnesota - Crookston,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,27,17697,18142
 2015_2016,004069,University of Minnesota - Crookston,Public,Natural Resources Conservation and Research.,Bachelor's Degree,49,17750,20340
 2016_2017,004069,University of Minnesota - Crookston,Public,Natural Resources Conservation and Research.,Bachelor's Degree,52,18116,19279
 2015_2016,004069,University of Minnesota - Crookston,Public,Plant Sciences.,Bachelor's Degree,28,18132,18168
 2016_2017,004069,University of Minnesota - Crookston,Public,Plant Sciences.,Bachelor's Degree,31,18625,18202
-2015_2016,004069,University of Minnesota - Crookston,Public,Taxation.,Undergraduate Certificate or Diploma,12,NA,23552
-2016_2017,004069,University of Minnesota - Crookston,Public,Taxation.,Undergraduate Certificate or Diploma,12,NA,27210
-2015_2016,004069,University of Minnesota - Crookston,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,10,NA,21500
-2015_2016,004069,University of Minnesota - Crookston,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,004069,University of Minnesota - Crookston,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,004069,University of Minnesota - Crookston,Public,Taxation.,Undergraduate Certificate or Diploma,12,,23552
+2016_2017,004069,University of Minnesota - Crookston,Public,Taxation.,Undergraduate Certificate or Diploma,12,,27210
+2015_2016,004069,University of Minnesota - Crookston,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,10,,21500
+2015_2016,004069,University of Minnesota - Crookston,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,004069,University of Minnesota - Crookston,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

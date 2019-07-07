@@ -1,9 +1,9 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2015_2016,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,First Professional Degree,NA,29000,31446
-2015_2016,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2016_2017,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,First Professional Degree,NA,33000,NA
-2016_2017,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002331,Western Theological Seminary,Private,"Theology and Religious Vocations, Other.",Master's Degree,NA,NA,NA
-2016_2017,002331,Western Theological Seminary,Private,"Theology and Religious Vocations, Other.",Master's Degree,NA,NA,NA
+2015_2016,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2015_2016,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,First Professional Degree,,29000,31446
+2015_2016,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,Graduate/Professional Certificate,,,
+2016_2017,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2016_2017,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,First Professional Degree,,33000,
+2016_2017,002331,Western Theological Seminary,Private,Theological and Ministerial Studies.,Graduate/Professional Certificate,,,
+2015_2016,002331,Western Theological Seminary,Private,"Theology and Religious Vocations, Other.",Master's Degree,,,
+2016_2017,002331,Western Theological Seminary,Private,"Theology and Religious Vocations, Other.",Master's Degree,,,

@@ -1,33 +1,33 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001753,School of The Art Institute of Chicago,Private,Architecture.,Master's Degree,10,NA,67105
-2016_2017,001753,School of The Art Institute of Chicago,Private,Architecture.,Master's Degree,19,NA,76001
-2015_2016,001753,School of The Art Institute of Chicago,Private,"Arts, Entertainment,and Media Management.",Master's Degree,NA,NA,NA
-2016_2017,001753,School of The Art Institute of Chicago,Private,"Arts, Entertainment,and Media Management.",Master's Degree,NA,NA,NA
-2015_2016,001753,School of The Art Institute of Chicago,Private,Design and Applied Arts.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001753,School of The Art Institute of Chicago,Private,Design and Applied Arts.,Master's Degree,NA,NA,NA
-2016_2017,001753,School of The Art Institute of Chicago,Private,Design and Applied Arts.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001753,School of The Art Institute of Chicago,Private,Design and Applied Arts.,Master's Degree,NA,NA,NA
+2015_2016,001753,School of The Art Institute of Chicago,Private,Architecture.,Master's Degree,10,,67105
+2016_2017,001753,School of The Art Institute of Chicago,Private,Architecture.,Master's Degree,19,,76001
+2015_2016,001753,School of The Art Institute of Chicago,Private,"Arts, Entertainment,and Media Management.",Master's Degree,,,
+2016_2017,001753,School of The Art Institute of Chicago,Private,"Arts, Entertainment,and Media Management.",Master's Degree,,,
+2015_2016,001753,School of The Art Institute of Chicago,Private,Design and Applied Arts.,Post-baccalaureate Certificate,,,
+2015_2016,001753,School of The Art Institute of Chicago,Private,Design and Applied Arts.,Master's Degree,,,
+2016_2017,001753,School of The Art Institute of Chicago,Private,Design and Applied Arts.,Post-baccalaureate Certificate,,,
+2016_2017,001753,School of The Art Institute of Chicago,Private,Design and Applied Arts.,Master's Degree,,,
 2015_2016,001753,School of The Art Institute of Chicago,Private,Fine and Studio Arts.,Bachelor's Degree,268,26062,26059
-2015_2016,001753,School of The Art Institute of Chicago,Private,Fine and Studio Arts.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001753,School of The Art Institute of Chicago,Private,Fine and Studio Arts.,Post-baccalaureate Certificate,,,
 2015_2016,001753,School of The Art Institute of Chicago,Private,Fine and Studio Arts.,Master's Degree,70,63383,61017
 2016_2017,001753,School of The Art Institute of Chicago,Private,Fine and Studio Arts.,Bachelor's Degree,443,27000,26172
-2016_2017,001753,School of The Art Institute of Chicago,Private,Fine and Studio Arts.,Post-baccalaureate Certificate,13,NA,13428
+2016_2017,001753,School of The Art Institute of Chicago,Private,Fine and Studio Arts.,Post-baccalaureate Certificate,13,,13428
 2016_2017,001753,School of The Art Institute of Chicago,Private,Fine and Studio Arts.,Master's Degree,143,68607,64557
-2015_2016,001753,School of The Art Institute of Chicago,Private,Interior Architecture.,Bachelor's Degree,NA,NA,NA
-2015_2016,001753,School of The Art Institute of Chicago,Private,Interior Architecture.,Master's Degree,NA,NA,NA
-2016_2017,001753,School of The Art Institute of Chicago,Private,Interior Architecture.,Bachelor's Degree,NA,NA,NA
-2016_2017,001753,School of The Art Institute of Chicago,Private,Interior Architecture.,Master's Degree,NA,NA,NA
-2015_2016,001753,School of The Art Institute of Chicago,Private,Journalism.,Master's Degree,NA,NA,NA
-2016_2017,001753,School of The Art Institute of Chicago,Private,Journalism.,Master's Degree,NA,NA,NA
-2015_2016,001753,School of The Art Institute of Chicago,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,12,NA,79400
+2015_2016,001753,School of The Art Institute of Chicago,Private,Interior Architecture.,Bachelor's Degree,,,
+2015_2016,001753,School of The Art Institute of Chicago,Private,Interior Architecture.,Master's Degree,,,
+2016_2017,001753,School of The Art Institute of Chicago,Private,Interior Architecture.,Bachelor's Degree,,,
+2016_2017,001753,School of The Art Institute of Chicago,Private,Interior Architecture.,Master's Degree,,,
+2015_2016,001753,School of The Art Institute of Chicago,Private,Journalism.,Master's Degree,,,
+2016_2017,001753,School of The Art Institute of Chicago,Private,Journalism.,Master's Degree,,,
+2015_2016,001753,School of The Art Institute of Chicago,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,12,,79400
 2016_2017,001753,School of The Art Institute of Chicago,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,25,71518,70521
-2015_2016,001753,School of The Art Institute of Chicago,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001753,School of The Art Institute of Chicago,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2016_2017,001753,School of The Art Institute of Chicago,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,10,NA,21538
-2016_2017,001753,School of The Art Institute of Chicago,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,18,NA,55484
-2015_2016,001753,School of The Art Institute of Chicago,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,001753,School of The Art Institute of Chicago,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,19,NA,40879
-2015_2016,001753,School of The Art Institute of Chicago,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001753,School of The Art Institute of Chicago,Private,"Visual and Performing Arts, General.",Master's Degree,NA,NA,NA
-2016_2017,001753,School of The Art Institute of Chicago,Private,"Visual and Performing Arts, General.",Bachelor's Degree,12,NA,27104
-2016_2017,001753,School of The Art Institute of Chicago,Private,"Visual and Performing Arts, General.",Master's Degree,NA,NA,NA
+2015_2016,001753,School of The Art Institute of Chicago,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,001753,School of The Art Institute of Chicago,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2016_2017,001753,School of The Art Institute of Chicago,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,10,,21538
+2016_2017,001753,School of The Art Institute of Chicago,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,18,,55484
+2015_2016,001753,School of The Art Institute of Chicago,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,001753,School of The Art Institute of Chicago,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,19,,40879
+2015_2016,001753,School of The Art Institute of Chicago,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2015_2016,001753,School of The Art Institute of Chicago,Private,"Visual and Performing Arts, General.",Master's Degree,,,
+2016_2017,001753,School of The Art Institute of Chicago,Private,"Visual and Performing Arts, General.",Bachelor's Degree,12,,27104
+2016_2017,001753,School of The Art Institute of Chicago,Private,"Visual and Performing Arts, General.",Master's Degree,,,

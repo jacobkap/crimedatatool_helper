@@ -1,53 +1,53 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003662,Victoria College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,12,NA,18628
-2015_2016,003662,Victoria College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003662,Victoria College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,12,NA,12576
-2015_2016,003662,Victoria College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003662,Victoria College,Public,"Business Administration, Management and Operations.",Associate's Degree,13,NA,11498
-2015_2016,003662,Victoria College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,16,NA,12804
-2016_2017,003662,Victoria College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003662,Victoria College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,12,,18628
+2015_2016,003662,Victoria College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2016_2017,003662,Victoria College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,12,,12576
+2015_2016,003662,Victoria College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,003662,Victoria College,Public,"Business Administration, Management and Operations.",Associate's Degree,13,,11498
+2015_2016,003662,Victoria College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003662,Victoria College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,003662,Victoria College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2015_2016,003662,Victoria College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,003662,Victoria College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2016_2017,003662,Victoria College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2015_2016,003662,Victoria College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,16,,12804
+2016_2017,003662,Victoria College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
 2016_2017,003662,Victoria College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,26,11505,13054
-2015_2016,003662,Victoria College,Public,Fire Protection.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Fire Protection.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2015_2016,003662,Victoria College,Public,Fire Protection.,Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,Fire Protection.,Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,Fire Protection.,Undergraduate Certificate or Diploma,,,
+2016_2017,003662,Victoria College,Public,Fire Protection.,Associate's Degree,,,
+2015_2016,003662,Victoria College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,003662,Victoria College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
 2015_2016,003662,Victoria College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,40,7615,10756
 2016_2017,003662,Victoria College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,54,8793,10935
-2016_2017,003662,Victoria College,Public,"Multi-/Interdisciplinary Studies, General.",Associate's Degree,13,NA,10141
-2015_2016,003662,Victoria College,Public,Physical Science Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003662,Victoria College,Public,Physical Science Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Physical Science Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Physical Science Technologies/Technicians.,Associate's Degree,12,NA,12580
+2016_2017,003662,Victoria College,Public,"Multi-/Interdisciplinary Studies, General.",Associate's Degree,13,,10141
+2015_2016,003662,Victoria College,Public,Physical Science Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003662,Victoria College,Public,Physical Science Technologies/Technicians.,Associate's Degree,,,
+2016_2017,003662,Victoria College,Public,Physical Science Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,003662,Victoria College,Public,Physical Science Technologies/Technicians.,Associate's Degree,12,,12580
 2015_2016,003662,Victoria College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,76,9500,11471
 2016_2017,003662,Victoria College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,96,9500,11718
-2015_2016,003662,Victoria College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003662,Victoria College,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
+2015_2016,003662,Victoria College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,003662,Victoria College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,003662,Victoria College,Public,Precision Metal Working.,Associate's Degree,,,
 2015_2016,003662,Victoria College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,66,11685,13776
 2016_2017,003662,Victoria College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,58,11885,13413

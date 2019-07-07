@@ -1,101 +1,101 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,002986,Winston-salem State University,Public,Accounting and Related Services.,Bachelor's Degree,21,25100,27570
 2016_2017,002986,Winston-salem State University,Public,Accounting and Related Services.,Bachelor's Degree,31,25000,25422
-2016_2017,002986,Winston-salem State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
+2016_2017,002986,Winston-salem State University,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
 2015_2016,002986,Winston-salem State University,Public,"Biology, General.",Bachelor's Degree,31,25282,24954
 2016_2017,002986,Winston-salem State University,Public,"Biology, General.",Bachelor's Degree,42,26000,26126
-2015_2016,002986,Winston-salem State University,Public,Biotechnology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,Biotechnology.,Bachelor's Degree,NA,NA,NA
+2015_2016,002986,Winston-salem State University,Public,Biotechnology.,Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,Biotechnology.,Bachelor's Degree,,,
 2015_2016,002986,Winston-salem State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,54,27219,27526
-2015_2016,002986,Winston-salem State University,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
+2015_2016,002986,Winston-salem State University,Public,"Business Administration, Management and Operations.",Master's Degree,,,
 2016_2017,002986,Winston-salem State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,52,27561,27531
-2016_2017,002986,Winston-salem State University,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,Chemistry.,Bachelor's Degree,11,NA,21239
-2016_2017,002986,Winston-salem State University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
+2016_2017,002986,Winston-salem State University,Public,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,002986,Winston-salem State University,Public,Chemistry.,Bachelor's Degree,11,,21239
+2016_2017,002986,Winston-salem State University,Public,Chemistry.,Bachelor's Degree,,,
 2015_2016,002986,Winston-salem State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,37,26156,26470
 2016_2017,002986,Winston-salem State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,40,18125,21786
 2015_2016,002986,Winston-salem State University,Public,Communication and Media Studies.,Bachelor's Degree,53,29638,28347
 2016_2017,002986,Winston-salem State University,Public,Communication and Media Studies.,Bachelor's Degree,50,26671,27836
-2015_2016,002986,Winston-salem State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,30190,25544
-2015_2016,002986,Winston-salem State University,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,29250,27679
-2016_2017,002986,Winston-salem State University,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,Computer Programming.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,Computer Programming.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,Computer Science.,Bachelor's Degree,16,NA,26083
+2015_2016,002986,Winston-salem State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,30190,25544
+2015_2016,002986,Winston-salem State University,Public,"Computer and Information Sciences, General.",Master's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,29250,27679
+2016_2017,002986,Winston-salem State University,Public,"Computer and Information Sciences, General.",Master's Degree,,,
+2015_2016,002986,Winston-salem State University,Public,Computer Programming.,Post-baccalaureate Certificate,,,
+2016_2017,002986,Winston-salem State University,Public,Computer Programming.,Post-baccalaureate Certificate,,,
+2015_2016,002986,Winston-salem State University,Public,Computer Science.,Bachelor's Degree,16,,26083
 2016_2017,002986,Winston-salem State University,Public,Computer Science.,Bachelor's Degree,22,28519,26893
 2015_2016,002986,Winston-salem State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,41,28742,27120
-2016_2017,002986,Winston-salem State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,NA,25927,25462
-2015_2016,002986,Winston-salem State University,Public,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,"Education, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,"English Language and Literature, General.",Bachelor's Degree,17,NA,32741
-2016_2017,002986,Winston-salem State University,Public,"English Language and Literature, General.",Bachelor's Degree,12,NA,32430
-2015_2016,002986,Winston-salem State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,Finance and Financial Management Services.,Bachelor's Degree,15,NA,29550
-2016_2017,002986,Winston-salem State University,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,24681
-2015_2016,002986,Winston-salem State University,Public,Fine and Studio Arts.,Bachelor's Degree,16,NA,35365
-2016_2017,002986,Winston-salem State University,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,Gerontology.,Bachelor's Degree,17,NA,40823
-2016_2017,002986,Winston-salem State University,Public,Gerontology.,Bachelor's Degree,NA,NA,38627
+2016_2017,002986,Winston-salem State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,,25927,25462
+2015_2016,002986,Winston-salem State University,Public,Economics.,Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,Economics.,Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,"Education, General.",Bachelor's Degree,,,
+2015_2016,002986,Winston-salem State University,Public,"English Language and Literature, General.",Bachelor's Degree,17,,32741
+2016_2017,002986,Winston-salem State University,Public,"English Language and Literature, General.",Bachelor's Degree,12,,32430
+2015_2016,002986,Winston-salem State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,002986,Winston-salem State University,Public,Finance and Financial Management Services.,Bachelor's Degree,15,,29550
+2016_2017,002986,Winston-salem State University,Public,Finance and Financial Management Services.,Bachelor's Degree,,,24681
+2015_2016,002986,Winston-salem State University,Public,Fine and Studio Arts.,Bachelor's Degree,16,,35365
+2016_2017,002986,Winston-salem State University,Public,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,002986,Winston-salem State University,Public,Gerontology.,Bachelor's Degree,17,,40823
+2016_2017,002986,Winston-salem State University,Public,Gerontology.,Bachelor's Degree,,,38627
 2015_2016,002986,Winston-salem State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,80,28697,27574
-2015_2016,002986,Winston-salem State University,Public,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
+2015_2016,002986,Winston-salem State University,Public,Health and Medical Administrative Services.,Master's Degree,,,
 2016_2017,002986,Winston-salem State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,113,30169,28506
-2016_2017,002986,Winston-salem State University,Public,Health and Medical Administrative Services.,Master's Degree,12,NA,30412
+2016_2017,002986,Winston-salem State University,Public,Health and Medical Administrative Services.,Master's Degree,12,,30412
 2015_2016,002986,Winston-salem State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,82,27000,26314
 2016_2017,002986,Winston-salem State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,119,25000,23369
-2015_2016,002986,Winston-salem State University,Public,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,002986,Winston-salem State University,Public,History.,Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,History.,Bachelor's Degree,,,
+2015_2016,002986,Winston-salem State University,Public,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,Information Science/Studies.,Bachelor's Degree,,,
 2015_2016,002986,Winston-salem State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,73,33107,33213
 2016_2017,002986,Winston-salem State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,106,33854,33453
-2015_2016,002986,Winston-salem State University,Public,Marketing.,Bachelor's Degree,13,NA,28743
-2016_2017,002986,Winston-salem State University,Public,Marketing.,Bachelor's Degree,11,NA,29231
-2015_2016,002986,Winston-salem State University,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,Music.,Bachelor's Degree,NA,NA,33749
-2015_2016,002986,Winston-salem State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,NA,NA,NA
+2015_2016,002986,Winston-salem State University,Public,Marketing.,Bachelor's Degree,13,,28743
+2016_2017,002986,Winston-salem State University,Public,Marketing.,Bachelor's Degree,11,,29231
+2015_2016,002986,Winston-salem State University,Public,Mathematics.,Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,Mathematics.,Bachelor's Degree,,,
+2015_2016,002986,Winston-salem State University,Public,Music.,Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,Music.,Bachelor's Degree,,,33749
+2015_2016,002986,Winston-salem State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,,,
 2015_2016,002986,Winston-salem State University,Public,Political Science and Government.,Bachelor's Degree,24,25993,25442
 2016_2017,002986,Winston-salem State University,Public,Political Science and Government.,Bachelor's Degree,21,25986,22490
 2015_2016,002986,Winston-salem State University,Public,"Psychology, General.",Bachelor's Degree,71,26000,26602
 2016_2017,002986,Winston-salem State University,Public,"Psychology, General.",Bachelor's Degree,79,25000,24725
 2015_2016,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,291,12500,15203
 2015_2016,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,63,29659,29439
-2015_2016,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2016_2017,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,315,13192,15624
 2016_2017,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,35,31228,30664
-2016_2017,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2016_2017,002986,Winston-salem State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2015_2016,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,73,31000,32712
 2015_2016,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,38,30918,31726
-2015_2016,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,NA,47026
-2015_2016,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
+2015_2016,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,,47026
+2015_2016,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
 2016_2017,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,110,29125,29664
 2016_2017,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,64,30870,31467
-2016_2017,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,50056,52777
-2016_2017,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,50056,52777
+2016_2017,002986,Winston-salem State University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2015_2016,002986,Winston-salem State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,002986,Winston-salem State University,Public,Social Work.,Bachelor's Degree,36,29797,29270
 2016_2017,002986,Winston-salem State University,Public,Social Work.,Bachelor's Degree,34,26736,28316
 2015_2016,002986,Winston-salem State University,Public,Sociology.,Bachelor's Degree,25,28500,29648
 2016_2017,002986,Winston-salem State University,Public,Sociology.,Bachelor's Degree,28,28500,27894
-2015_2016,002986,Winston-salem State University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2015_2016,002986,Winston-salem State University,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,Special Education and Teaching.,Master's Degree,,,
 2015_2016,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,44,31000,32129
-2015_2016,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,61,29200,30070
-2016_2017,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,10,NA,29571
-2016_2017,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,25686
-2016_2017,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002986,Winston-salem State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2016_2017,002986,Winston-salem State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
+2016_2017,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,10,,29571
+2016_2017,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,25686
+2016_2017,002986,Winston-salem State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
+2015_2016,002986,Winston-salem State University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
+2015_2016,002986,Winston-salem State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2016_2017,002986,Winston-salem State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,

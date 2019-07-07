@@ -1,12 +1,12 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,003039,Columbus College of Art & Design,Private,Design and Applied Arts.,Bachelor's Degree,259,27000,28959
 2016_2017,003039,Columbus College of Art & Design,Private,Design and Applied Arts.,Bachelor's Degree,227,27000,28473
-2016_2017,003039,Columbus College of Art & Design,Private,Design and Applied Arts.,Master's Degree,NA,NA,NA
-2015_2016,003039,Columbus College of Art & Design,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,27000,30580
+2016_2017,003039,Columbus College of Art & Design,Private,Design and Applied Arts.,Master's Degree,,,
+2015_2016,003039,Columbus College of Art & Design,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,27000,30580
 2016_2017,003039,Columbus College of Art & Design,Private,Film/Video and Photographic Arts.,Bachelor's Degree,46,27000,29468
 2015_2016,003039,Columbus College of Art & Design,Private,Fine and Studio Arts.,Bachelor's Degree,63,30750,32352
 2016_2017,003039,Columbus College of Art & Design,Private,Fine and Studio Arts.,Bachelor's Degree,50,30875,32313
 2015_2016,003039,Columbus College of Art & Design,Private,Graphic Communications.,Bachelor's Degree,23,27000,28067
 2016_2017,003039,Columbus College of Art & Design,Private,Graphic Communications.,Bachelor's Degree,44,27000,29695
-2015_2016,003039,Columbus College of Art & Design,Private,"Visual and Performing Arts, General.",Master's Degree,19,NA,54786
-2016_2017,003039,Columbus College of Art & Design,Private,"Visual and Performing Arts, General.",Master's Degree,16,NA,55292
+2015_2016,003039,Columbus College of Art & Design,Private,"Visual and Performing Arts, General.",Master's Degree,19,,54786
+2016_2017,003039,Columbus College of Art & Design,Private,"Visual and Performing Arts, General.",Master's Degree,16,,55292

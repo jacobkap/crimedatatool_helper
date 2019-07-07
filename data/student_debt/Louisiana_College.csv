@@ -1,105 +1,105 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002007,Louisiana College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,16,NA,15314
-2015_2016,002007,Louisiana College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,27257
-2015_2016,002007,Louisiana College,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,28436
-2016_2017,002007,Louisiana College,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,29557
-2015_2016,002007,Louisiana College,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Education, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Education, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
+2015_2016,002007,Louisiana College,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2016_2017,002007,Louisiana College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,16,,15314
+2015_2016,002007,Louisiana College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Biology, General.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Biology, General.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,27257
+2015_2016,002007,Louisiana College,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Computer Software and Media Applications.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Computer Software and Media Applications.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,28436
+2016_2017,002007,Louisiana College,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,29557
+2015_2016,002007,Louisiana College,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Education, Other.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Education, Other.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2015_2016,002007,Louisiana College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
 2015_2016,002007,Louisiana College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,23,26273,27869
-2016_2017,002007,Louisiana College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,26763,26956
-2015_2016,002007,Louisiana College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Pastoral Counseling and Specialized Ministries.,Associate's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Pastoral Counseling and Specialized Ministries.,Associate's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Public Administration.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Public Administration.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
+2016_2017,002007,Louisiana College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,26763,26956
+2015_2016,002007,Louisiana College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,History.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,History.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Journalism.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Journalism.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,,,
+2015_2016,002007,Louisiana College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Music.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Music.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Pastoral Counseling and Specialized Ministries.,Associate's Degree,,,
+2015_2016,002007,Louisiana College,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,,,
+2016_2017,002007,Louisiana College,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,,,
+2016_2017,002007,Louisiana College,Private,Pastoral Counseling and Specialized Ministries.,Associate's Degree,,,
+2016_2017,002007,Louisiana College,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,,,
+2015_2016,002007,Louisiana College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Psychology, General.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Public Administration.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Public Administration.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
 2015_2016,002007,Louisiana College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,53,18789,20925
 2016_2017,002007,Louisiana College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,56,21350,23738
-2016_2017,002007,Louisiana College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Social Work.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Social Work.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Social Work.,Master's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,12,NA,25585
+2016_2017,002007,Louisiana College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
+2015_2016,002007,Louisiana College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Religious Education.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Religious Education.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Social Work.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Social Work.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Social Work.,Master's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,12,,25585
 2015_2016,002007,Louisiana College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,82,19491,21254
-2016_2017,002007,Louisiana College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
+2016_2017,002007,Louisiana College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
 2016_2017,002007,Louisiana College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,89,17275,21071
-2015_2016,002007,Louisiana College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,23813
-2015_2016,002007,Louisiana College,Private,Teaching Assistants/Aides.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Teaching Assistants/Aides.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002007,Louisiana College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002007,Louisiana College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002007,Louisiana College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,23813
+2015_2016,002007,Louisiana College,Private,Teaching Assistants/Aides.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Teaching Assistants/Aides.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2015_2016,002007,Louisiana College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2016_2017,002007,Louisiana College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,

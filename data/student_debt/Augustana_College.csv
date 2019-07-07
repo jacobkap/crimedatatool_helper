@@ -1,89 +1,89 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,001633,Augustana College,Private,Accounting and Related Services.,Bachelor's Degree,53,27000,25367
 2016_2017,001633,Augustana College,Private,Accounting and Related Services.,Bachelor's Degree,53,27000,23724
-2015_2016,001633,Augustana College,Private,Anthropology.,Bachelor's Degree,NA,NA,26006
-2016_2017,001633,Augustana College,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,Applied Mathematics.,Bachelor's Degree,11,NA,25701
-2015_2016,001633,Augustana College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,001633,Augustana College,Private,Anthropology.,Bachelor's Degree,,,26006
+2016_2017,001633,Augustana College,Private,Anthropology.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,Applied Mathematics.,Bachelor's Degree,11,,25701
+2015_2016,001633,Augustana College,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,Area Studies.,Bachelor's Degree,,,
 2015_2016,001633,Augustana College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,21,27000,24444
-2016_2017,001633,Augustana College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,22750,21843
+2016_2017,001633,Augustana College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,22750,21843
 2015_2016,001633,Augustana College,Private,"Biology, General.",Bachelor's Degree,179,27000,24233
 2016_2017,001633,Augustana College,Private,"Biology, General.",Bachelor's Degree,143,26958,23988
 2015_2016,001633,Augustana College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,144,27000,25416
 2016_2017,001633,Augustana College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,141,27000,24816
-2015_2016,001633,Augustana College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,001633,Augustana College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,001633,Augustana College,Private,Communication and Media Studies.,Bachelor's Degree,73,27000,26625
 2016_2017,001633,Augustana College,Private,Communication and Media Studies.,Bachelor's Degree,70,27000,27018
 2015_2016,001633,Augustana College,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,53,27000,23927
 2016_2017,001633,Augustana College,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,46,27000,24045
-2015_2016,001633,Augustana College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,24636
+2015_2016,001633,Augustana College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,,24636
 2015_2016,001633,Augustana College,Private,Computer Science.,Bachelor's Degree,23,26697,25054
-2016_2017,001633,Augustana College,Private,Computer Science.,Bachelor's Degree,12,NA,26208
-2015_2016,001633,Augustana College,Private,Design and Applied Arts.,Bachelor's Degree,NA,26500,26750
-2016_2017,001633,Augustana College,Private,Design and Applied Arts.,Bachelor's Degree,17,NA,26674
-2015_2016,001633,Augustana College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Economics.,Bachelor's Degree,NA,NA,25938
+2016_2017,001633,Augustana College,Private,Computer Science.,Bachelor's Degree,12,,26208
+2015_2016,001633,Augustana College,Private,Design and Applied Arts.,Bachelor's Degree,,26500,26750
+2016_2017,001633,Augustana College,Private,Design and Applied Arts.,Bachelor's Degree,17,,26674
+2015_2016,001633,Augustana College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Economics.,Bachelor's Degree,,,25938
 2016_2017,001633,Augustana College,Private,Economics.,Bachelor's Degree,25,27000,25582
-2015_2016,001633,Augustana College,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,001633,Augustana College,Private,Engineering Physics.,Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,Engineering Physics.,Bachelor's Degree,,,
 2015_2016,001633,Augustana College,Private,"English Language and Literature, General.",Bachelor's Degree,28,27000,26554
-2016_2017,001633,Augustana College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,25722
-2015_2016,001633,Augustana College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Fine and Studio Arts.,Bachelor's Degree,11,NA,28430
-2016_2017,001633,Augustana College,Private,Fine and Studio Arts.,Bachelor's Degree,10,NA,23667
-2015_2016,001633,Augustana College,Private,Geography and Cartography.,Bachelor's Degree,10,NA,20809
-2016_2017,001633,Augustana College,Private,Geography and Cartography.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,13,NA,23820
-2016_2017,001633,Augustana College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,001633,Augustana College,Private,"English Language and Literature, General.",Bachelor's Degree,,,25722
+2015_2016,001633,Augustana College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Fine and Studio Arts.,Bachelor's Degree,11,,28430
+2016_2017,001633,Augustana College,Private,Fine and Studio Arts.,Bachelor's Degree,10,,23667
+2015_2016,001633,Augustana College,Private,Geography and Cartography.,Bachelor's Degree,10,,20809
+2016_2017,001633,Augustana College,Private,Geography and Cartography.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,13,,23820
+2016_2017,001633,Augustana College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,001633,Augustana College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,48,27000,25091
 2016_2017,001633,Augustana College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,28,26979,23249
-2015_2016,001633,Augustana College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,History.,Bachelor's Degree,12,NA,25629
-2015_2016,001633,Augustana College,Private,International Business.,Bachelor's Degree,11,NA,22162
-2016_2017,001633,Augustana College,Private,International Business.,Bachelor's Degree,NA,NA,24402
-2015_2016,001633,Augustana College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Mathematics.,Bachelor's Degree,13,NA,25104
-2016_2017,001633,Augustana College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Music.,Bachelor's Degree,10,NA,23759
-2016_2017,001633,Augustana College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,19,NA,22910
-2016_2017,001633,Augustana College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,17,NA,25927
+2015_2016,001633,Augustana College,Private,History.,Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,History.,Bachelor's Degree,12,,25629
+2015_2016,001633,Augustana College,Private,International Business.,Bachelor's Degree,11,,22162
+2016_2017,001633,Augustana College,Private,International Business.,Bachelor's Degree,,,24402
+2015_2016,001633,Augustana College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Mathematics.,Bachelor's Degree,13,,25104
+2016_2017,001633,Augustana College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Music.,Bachelor's Degree,10,,23759
+2016_2017,001633,Augustana College,Private,Music.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,19,,22910
+2016_2017,001633,Augustana College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,17,,25927
 2015_2016,001633,Augustana College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,30,26312,26522
 2016_2017,001633,Augustana College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,23,26624,23628
-2015_2016,001633,Augustana College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,001633,Augustana College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,Physics.,Bachelor's Degree,,,
 2015_2016,001633,Augustana College,Private,Political Science and Government.,Bachelor's Degree,29,27000,27840
 2016_2017,001633,Augustana College,Private,Political Science and Government.,Bachelor's Degree,29,27000,26985
 2015_2016,001633,Augustana College,Private,"Psychology, General.",Bachelor's Degree,84,27000,25453
 2016_2017,001633,Augustana College,Private,"Psychology, General.",Bachelor's Degree,86,26992,24707
-2015_2016,001633,Augustana College,Private,Public Health.,Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,Public Health.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,28124
-2016_2017,001633,Augustana College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,27587
-2016_2017,001633,Augustana College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,14,NA,23763
+2015_2016,001633,Augustana College,Private,Public Health.,Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,Public Health.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Religion/Religious Studies.,Bachelor's Degree,,,28124
+2016_2017,001633,Augustana College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,27587
+2016_2017,001633,Augustana College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,14,,23763
 2015_2016,001633,Augustana College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,31,27000,27904
 2016_2017,001633,Augustana College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,37,27000,25684
-2015_2016,001633,Augustana College,Private,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001633,Augustana College,Private,Sociology and Anthropology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001633,Augustana College,Private,Sociology and Anthropology.,Bachelor's Degree,NA,NA,NA
+2015_2016,001633,Augustana College,Private,"Social Sciences, Other.",Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,"Social Sciences, Other.",Bachelor's Degree,,,
+2015_2016,001633,Augustana College,Private,Sociology and Anthropology.,Bachelor's Degree,,,
+2016_2017,001633,Augustana College,Private,Sociology and Anthropology.,Bachelor's Degree,,,
 2015_2016,001633,Augustana College,Private,Sociology.,Bachelor's Degree,40,27000,29042
 2016_2017,001633,Augustana College,Private,Sociology.,Bachelor's Degree,42,27000,26702
 2015_2016,001633,Augustana College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,28,26450,22184

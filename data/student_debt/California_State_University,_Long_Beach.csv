@@ -1,41 +1,41 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001139,"California State University, Long Beach",Public,Accounting and Related Services.,Bachelor's Degree,NA,18336,18636
-2016_2017,001139,"California State University, Long Beach",Public,Accounting and Related Services.,Bachelor's Degree,NA,14208,15957
-2016_2017,001139,"California State University, Long Beach",Public,Accounting and Related Services.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Accounting and Related Services.,Bachelor's Degree,,18336,18636
+2016_2017,001139,"California State University, Long Beach",Public,Accounting and Related Services.,Bachelor's Degree,,14208,15957
+2016_2017,001139,"California State University, Long Beach",Public,Accounting and Related Services.,Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,67,20000,20966
-2015_2016,001139,"California State University, Long Beach",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,71,17291,19670
-2016_2017,001139,"California State University, Long Beach",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,14,NA,23143
-2016_2017,001139,"California State University, Long Beach",Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,17,NA,18800
+2016_2017,001139,"California State University, Long Beach",Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,14,,23143
+2016_2017,001139,"California State University, Long Beach",Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,17,,18800
 2015_2016,001139,"California State University, Long Beach",Public,Anthropology.,Bachelor's Degree,74,18561,19107
-2015_2016,001139,"California State University, Long Beach",Public,Anthropology.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Anthropology.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Anthropology.,Bachelor's Degree,75,16459,16888
-2016_2017,001139,"California State University, Long Beach",Public,Anthropology.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Applied Mathematics.,Bachelor's Degree,NA,NA,19811
-2015_2016,001139,"California State University, Long Beach",Public,Applied Mathematics.,Master's Degree,NA,29107,33019
-2016_2017,001139,"California State University, Long Beach",Public,Applied Mathematics.,Bachelor's Degree,NA,NA,19477
-2016_2017,001139,"California State University, Long Beach",Public,Applied Mathematics.,Master's Degree,NA,34520,33504
+2016_2017,001139,"California State University, Long Beach",Public,Anthropology.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Applied Mathematics.,Bachelor's Degree,,,19811
+2015_2016,001139,"California State University, Long Beach",Public,Applied Mathematics.,Master's Degree,,29107,33019
+2016_2017,001139,"California State University, Long Beach",Public,Applied Mathematics.,Bachelor's Degree,,,19477
+2016_2017,001139,"California State University, Long Beach",Public,Applied Mathematics.,Master's Degree,,34520,33504
 2015_2016,001139,"California State University, Long Beach",Public,Area Studies.,Bachelor's Degree,50,22973,21457
-2015_2016,001139,"California State University, Long Beach",Public,Area Studies.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Area Studies.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Area Studies.,Bachelor's Degree,52,18809,20133
-2016_2017,001139,"California State University, Long Beach",Public,Area Studies.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Arts, Entertainment,and Media Management.",Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Arts, Entertainment,and Media Management.",Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,NA,NA,28735
-2016_2017,001139,"California State University, Long Beach",Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,NA,NA,23203
+2016_2017,001139,"California State University, Long Beach",Public,Area Studies.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Arts, Entertainment,and Media Management.",Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Arts, Entertainment,and Media Management.",Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,,,28735
+2016_2017,001139,"California State University, Long Beach",Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,,,23203
 2015_2016,001139,"California State University, Long Beach",Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,86,13109,16597
-2015_2016,001139,"California State University, Long Beach",Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,79,13792,17032
-2016_2017,001139,"California State University, Long Beach",Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,"Biology, General.",Bachelor's Degree,142,16190,17608
-2015_2016,001139,"California State University, Long Beach",Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,"Biology, General.",Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,"Biology, General.",Bachelor's Degree,163,13908,16055
-2016_2017,001139,"California State University, Long Beach",Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Biomedical/Medical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Biomedical/Medical Engineering.,Bachelor's Degree,NA,NA,22355
-2015_2016,001139,"California State University, Long Beach",Public,Biotechnology.,Post-baccalaureate Certificate,NA,NA,19649
-2016_2017,001139,"California State University, Long Beach",Public,Biotechnology.,Post-baccalaureate Certificate,NA,NA,23272
+2016_2017,001139,"California State University, Long Beach",Public,"Biology, General.",Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Biomedical/Medical Engineering.,Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Biomedical/Medical Engineering.,Bachelor's Degree,,,22355
+2015_2016,001139,"California State University, Long Beach",Public,Biotechnology.,Post-baccalaureate Certificate,,,19649
+2016_2017,001139,"California State University, Long Beach",Public,Biotechnology.,Post-baccalaureate Certificate,,,23272
 2015_2016,001139,"California State University, Long Beach",Public,"Business Administration, Management and Operations.",Bachelor's Degree,223,15000,17259
 2015_2016,001139,"California State University, Long Beach",Public,"Business Administration, Management and Operations.",Master's Degree,49,41000,38030
 2016_2017,001139,"California State University, Long Beach",Public,"Business Administration, Management and Operations.",Bachelor's Degree,205,14247,16269
@@ -45,93 +45,93 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,001139,"California State University, Long Beach",Public,Chemical Engineering.,Bachelor's Degree,53,22983,22703
 2016_2017,001139,"California State University, Long Beach",Public,Chemical Engineering.,Bachelor's Degree,64,20000,20071
 2015_2016,001139,"California State University, Long Beach",Public,Chemistry.,Bachelor's Degree,34,15515,17068
-2015_2016,001139,"California State University, Long Beach",Public,Chemistry.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Chemistry.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Chemistry.,Bachelor's Degree,34,13722,17068
-2016_2017,001139,"California State University, Long Beach",Public,Chemistry.,Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,Chemistry.,Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,Civil Engineering.,Bachelor's Degree,111,18398,19888
-2015_2016,001139,"California State University, Long Beach",Public,Civil Engineering.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Civil Engineering.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Civil Engineering.,Bachelor's Degree,107,17000,19094
-2016_2017,001139,"California State University, Long Beach",Public,Civil Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,41000,39632
-2016_2017,001139,"California State University, Long Beach",Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,30302,29716
+2016_2017,001139,"California State University, Long Beach",Public,Civil Engineering.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,,41000,39632
+2016_2017,001139,"California State University, Long Beach",Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,,30302,29716
 2015_2016,001139,"California State University, Long Beach",Public,Communication and Media Studies.,Bachelor's Degree,392,15000,16857
-2015_2016,001139,"California State University, Long Beach",Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Communication and Media Studies.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Communication and Media Studies.,Bachelor's Degree,402,15000,16770
-2016_2017,001139,"California State University, Long Beach",Public,Communication and Media Studies.,Master's Degree,11,NA,23944
+2016_2017,001139,"California State University, Long Beach",Public,Communication and Media Studies.,Master's Degree,11,,23944
 2015_2016,001139,"California State University, Long Beach",Public,Communication Disorders Sciences and Services.,Bachelor's Degree,45,20500,19504
-2015_2016,001139,"California State University, Long Beach",Public,Communication Disorders Sciences and Services.,Master's Degree,19,NA,30516
+2015_2016,001139,"California State University, Long Beach",Public,Communication Disorders Sciences and Services.,Master's Degree,19,,30516
 2016_2017,001139,"California State University, Long Beach",Public,Communication Disorders Sciences and Services.,Bachelor's Degree,34,22967,21234
 2016_2017,001139,"California State University, Long Beach",Public,Communication Disorders Sciences and Services.,Master's Degree,39,41000,36762
-2015_2016,001139,"California State University, Long Beach",Public,Computer Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Computer Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Computer Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Computer Engineering Technologies/Technicians.,Bachelor's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,Computer Engineering.,Bachelor's Degree,53,15180,18769
-2015_2016,001139,"California State University, Long Beach",Public,Computer Engineering.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Computer Engineering.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Computer Engineering.,Bachelor's Degree,55,21404,21335
-2016_2017,001139,"California State University, Long Beach",Public,Computer Engineering.,Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,Computer Engineering.,Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,Computer Science.,Bachelor's Degree,87,19333,19054
-2015_2016,001139,"California State University, Long Beach",Public,Computer Science.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Computer Science.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Computer Science.,Bachelor's Degree,120,16750,18563
-2016_2017,001139,"California State University, Long Beach",Public,Computer Science.,Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,Computer Science.,Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,Construction Engineering Technologies.,Bachelor's Degree,53,23000,22543
 2016_2017,001139,"California State University, Long Beach",Public,Construction Engineering Technologies.,Bachelor's Degree,41,23180,22010
 2015_2016,001139,"California State University, Long Beach",Public,Criminal Justice and Corrections.,Bachelor's Degree,93,15000,16872
-2015_2016,001139,"California State University, Long Beach",Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Criminal Justice and Corrections.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Criminal Justice and Corrections.,Bachelor's Degree,109,13000,15675
-2016_2017,001139,"California State University, Long Beach",Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Curriculum and Instruction.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Curriculum and Instruction.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Curriculum and Instruction.,Master's Degree,NA,NA,24004
+2016_2017,001139,"California State University, Long Beach",Public,Criminal Justice and Corrections.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Curriculum and Instruction.,Post-baccalaureate Certificate,,,
+2015_2016,001139,"California State University, Long Beach",Public,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Curriculum and Instruction.,Post-baccalaureate Certificate,,,
+2016_2017,001139,"California State University, Long Beach",Public,Curriculum and Instruction.,Master's Degree,,,24004
 2015_2016,001139,"California State University, Long Beach",Public,Dance.,Bachelor's Degree,35,22250,17506
-2015_2016,001139,"California State University, Long Beach",Public,Dance.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Dance.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Dance.,Bachelor's Degree,39,21683,18344
-2016_2017,001139,"California State University, Long Beach",Public,Dance.,Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,Dance.,Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,Design and Applied Arts.,Bachelor's Degree,157,16568,19890
 2016_2017,001139,"California State University, Long Beach",Public,Design and Applied Arts.,Bachelor's Degree,190,20371,21118
 2015_2016,001139,"California State University, Long Beach",Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,98,17141,18641
-2015_2016,001139,"California State University, Long Beach",Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Dietetics and Clinical Nutrition Services.,Master's Degree,12,NA,29348
+2015_2016,001139,"California State University, Long Beach",Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,,,
+2015_2016,001139,"California State University, Long Beach",Public,Dietetics and Clinical Nutrition Services.,Master's Degree,12,,29348
 2016_2017,001139,"California State University, Long Beach",Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,85,15648,17388
-2016_2017,001139,"California State University, Long Beach",Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Dietetics and Clinical Nutrition Services.,Master's Degree,18,NA,25381
+2016_2017,001139,"California State University, Long Beach",Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,,,
+2016_2017,001139,"California State University, Long Beach",Public,Dietetics and Clinical Nutrition Services.,Master's Degree,18,,25381
 2015_2016,001139,"California State University, Long Beach",Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,68,15153,16622
-2015_2016,001139,"California State University, Long Beach",Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,11,NA,63882
+2015_2016,001139,"California State University, Long Beach",Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,11,,63882
 2016_2017,001139,"California State University, Long Beach",Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,72,15000,17203
-2016_2017,001139,"California State University, Long Beach",Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,14210
-2016_2017,001139,"California State University, Long Beach",Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,15784
-2015_2016,001139,"California State University, Long Beach",Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,15,NA,22653
-2016_2017,001139,"California State University, Long Beach",Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,15,NA,18713
+2016_2017,001139,"California State University, Long Beach",Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,14210
+2016_2017,001139,"California State University, Long Beach",Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,15784
+2015_2016,001139,"California State University, Long Beach",Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,15,,22653
+2016_2017,001139,"California State University, Long Beach",Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,15,,18713
 2015_2016,001139,"California State University, Long Beach",Public,Economics.,Bachelor's Degree,87,18000,17174
-2015_2016,001139,"California State University, Long Beach",Public,Economics.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Economics.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Economics.,Bachelor's Degree,90,15000,15500
-2016_2017,001139,"California State University, Long Beach",Public,Economics.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,Master's Degree,NA,NA,26660
-2015_2016,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,Doctoral Degree,NA,68800,60602
-2015_2016,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,First Professional Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,Master's Degree,NA,NA,26158
+2016_2017,001139,"California State University, Long Beach",Public,Economics.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Education, General.",Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Education, General.",Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,Master's Degree,,,26660
+2015_2016,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,Doctoral Degree,,68800,60602
+2015_2016,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,First Professional Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,Master's Degree,,,26158
 2016_2017,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,Doctoral Degree,39,70000,65717
-2016_2017,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,First Professional Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,13,NA,26001
-2016_2017,001139,"California State University, Long Beach",Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,16,NA,19449
+2016_2017,001139,"California State University, Long Beach",Public,Educational Administration and Supervision.,First Professional Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Educational/Instructional Media Design.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,13,,26001
+2016_2017,001139,"California State University, Long Beach",Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,16,,19449
 2015_2016,001139,"California State University, Long Beach",Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,80,19881,21168
-2015_2016,001139,"California State University, Long Beach",Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,16,NA,21700
+2015_2016,001139,"California State University, Long Beach",Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,16,,21700
 2016_2017,001139,"California State University, Long Beach",Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,110,20604,21845
-2016_2017,001139,"California State University, Long Beach",Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,12,NA,21146
-2015_2016,001139,"California State University, Long Beach",Public,Engineering-Related Fields.,Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Engineering-Related Fields.,Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Engineering Technology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Engineering Technology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Engineering, General.",Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Engineering, General.",Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,12,,21146
+2015_2016,001139,"California State University, Long Beach",Public,Engineering-Related Fields.,Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Engineering-Related Fields.,Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Engineering Technology, General.",Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Engineering Technology, General.",Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Engineering, General.",Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Engineering, General.",Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Engineering, General.",Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,"English Language and Literature, General.",Bachelor's Degree,156,14552,16355
 2015_2016,001139,"California State University, Long Beach",Public,"English Language and Literature, General.",Master's Degree,38,31800,28206
 2016_2017,001139,"California State University, Long Beach",Public,"English Language and Literature, General.",Bachelor's Degree,174,15000,16583
@@ -139,32 +139,32 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,001139,"California State University, Long Beach",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,68,12818,15835
 2016_2017,001139,"California State University, Long Beach",Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,77,15000,17866
 2015_2016,001139,"California State University, Long Beach",Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,334,15000,17231
-2015_2016,001139,"California State University, Long Beach",Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,388,15000,17669
-2016_2017,001139,"California State University, Long Beach",Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Finance and Financial Management Services.,Bachelor's Degree,NA,14208,16900
-2016_2017,001139,"California State University, Long Beach",Public,Finance and Financial Management Services.,Bachelor's Degree,NA,14017,16192
+2016_2017,001139,"California State University, Long Beach",Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Finance and Financial Management Services.,Bachelor's Degree,,14208,16900
+2016_2017,001139,"California State University, Long Beach",Public,Finance and Financial Management Services.,Bachelor's Degree,,14017,16192
 2015_2016,001139,"California State University, Long Beach",Public,Fine and Studio Arts.,Bachelor's Degree,356,20120,20518
-2015_2016,001139,"California State University, Long Beach",Public,Fine and Studio Arts.,Master's Degree,18,NA,52669
+2015_2016,001139,"California State University, Long Beach",Public,Fine and Studio Arts.,Master's Degree,18,,52669
 2016_2017,001139,"California State University, Long Beach",Public,Fine and Studio Arts.,Bachelor's Degree,366,18241,19304
-2016_2017,001139,"California State University, Long Beach",Public,Fine and Studio Arts.,Master's Degree,13,NA,52046
+2016_2017,001139,"California State University, Long Beach",Public,Fine and Studio Arts.,Master's Degree,13,,52046
 2015_2016,001139,"California State University, Long Beach",Public,Geography and Cartography.,Bachelor's Degree,70,17161,19203
-2015_2016,001139,"California State University, Long Beach",Public,Geography and Cartography.,Master's Degree,13,NA,23308
+2015_2016,001139,"California State University, Long Beach",Public,Geography and Cartography.,Master's Degree,13,,23308
 2016_2017,001139,"California State University, Long Beach",Public,Geography and Cartography.,Bachelor's Degree,75,19732,19974
-2016_2017,001139,"California State University, Long Beach",Public,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,Geography and Cartography.,Post-baccalaureate Certificate,,,
 2016_2017,001139,"California State University, Long Beach",Public,Geography and Cartography.,Master's Degree,28,20500,22843
-2015_2016,001139,"California State University, Long Beach",Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,14,NA,22209
-2015_2016,001139,"California State University, Long Beach",Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,17,NA,19795
-2016_2017,001139,"California State University, Long Beach",Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Gerontology.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Gerontology.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,14,,22209
+2015_2016,001139,"California State University, Long Beach",Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,17,,19795
+2016_2017,001139,"California State University, Long Beach",Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Gerontology.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Gerontology.,Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,Health and Medical Administrative Services.,Bachelor's Degree,267,14000,15795
 2015_2016,001139,"California State University, Long Beach",Public,Health and Medical Administrative Services.,Master's Degree,38,29900,29290
 2016_2017,001139,"California State University, Long Beach",Public,Health and Medical Administrative Services.,Bachelor's Degree,308,14119,16172
@@ -173,152 +173,152 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,001139,"California State University, Long Beach",Public,Health and Physical Education/Fitness.,Master's Degree,38,23554,26518
 2016_2017,001139,"California State University, Long Beach",Public,Health and Physical Education/Fitness.,Bachelor's Degree,274,16011,18467
 2016_2017,001139,"California State University, Long Beach",Public,Health and Physical Education/Fitness.,Master's Degree,66,25500,28104
-2015_2016,001139,"California State University, Long Beach",Public,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,History.,Bachelor's Degree,127,15791,17530
-2015_2016,001139,"California State University, Long Beach",Public,History.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,History.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,History.,Bachelor's Degree,144,14813,16491
-2016_2017,001139,"California State University, Long Beach",Public,History.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Master's Degree,15,NA,37681
+2016_2017,001139,"California State University, Long Beach",Public,History.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Master's Degree,15,,37681
 2016_2017,001139,"California State University, Long Beach",Public,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Master's Degree,21,28046,32577
 2015_2016,001139,"California State University, Long Beach",Public,Hospitality Administration/Management.,Bachelor's Degree,46,12404,18396
 2016_2017,001139,"California State University, Long Beach",Public,Hospitality Administration/Management.,Bachelor's Degree,48,11285,16388
 2015_2016,001139,"California State University, Long Beach",Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,250,15000,17154
 2016_2017,001139,"California State University, Long Beach",Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,268,14672,16329
-2015_2016,001139,"California State University, Long Beach",Public,Human Resources Management and Services.,Bachelor's Degree,NA,12748,15090
-2016_2017,001139,"California State University, Long Beach",Public,Human Resources Management and Services.,Bachelor's Degree,NA,13272,14938
-2015_2016,001139,"California State University, Long Beach",Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,International Relations and National Security Studies.,Bachelor's Degree,NA,15250,NA
-2016_2017,001139,"California State University, Long Beach",Public,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,International/Global Studies.,Bachelor's Degree,17,NA,14472
+2015_2016,001139,"California State University, Long Beach",Public,Human Resources Management and Services.,Bachelor's Degree,,12748,15090
+2016_2017,001139,"California State University, Long Beach",Public,Human Resources Management and Services.,Bachelor's Degree,,13272,14938
+2015_2016,001139,"California State University, Long Beach",Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,International Relations and National Security Studies.,Bachelor's Degree,,15250,
+2016_2017,001139,"California State University, Long Beach",Public,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,International/Global Studies.,Bachelor's Degree,17,,14472
 2016_2017,001139,"California State University, Long Beach",Public,International/Global Studies.,Bachelor's Degree,48,13875,14879
 2015_2016,001139,"California State University, Long Beach",Public,Journalism.,Bachelor's Degree,142,18320,18235
 2016_2017,001139,"California State University, Long Beach",Public,Journalism.,Bachelor's Degree,162,16350,17028
-2015_2016,001139,"California State University, Long Beach",Public,Leisure and Recreational Activities.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Leisure and Recreational Activities.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Leisure and Recreational Activities.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Leisure and Recreational Activities.,Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,184,18531,19379
 2016_2017,001139,"California State University, Long Beach",Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,154,17707,18558
 2015_2016,001139,"California State University, Long Beach",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,49,15750,18870
-2015_2016,001139,"California State University, Long Beach",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,11,NA,43175
-2015_2016,001139,"California State University, Long Beach",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,11,,43175
+2015_2016,001139,"California State University, Long Beach",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Graduate/Professional Certificate,,,
 2016_2017,001139,"California State University, Long Beach",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,59,15000,18074
-2016_2017,001139,"California State University, Long Beach",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,13,NA,45811
-2016_2017,001139,"California State University, Long Beach",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Management Information Systems and Services.,Bachelor's Degree,NA,16491,17725
-2016_2017,001139,"California State University, Long Beach",Public,Management Information Systems and Services.,Bachelor's Degree,NA,14569,17015
-2015_2016,001139,"California State University, Long Beach",Public,Manufacturing Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Manufacturing Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Marketing.,Bachelor's Degree,NA,16500,17648
-2016_2017,001139,"California State University, Long Beach",Public,Marketing.,Bachelor's Degree,NA,16670,17506
+2016_2017,001139,"California State University, Long Beach",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,13,,45811
+2016_2017,001139,"California State University, Long Beach",Public,"Linguistic, Comparative, and Related Language Studies and Services.",Graduate/Professional Certificate,,,
+2015_2016,001139,"California State University, Long Beach",Public,Management Information Systems and Services.,Bachelor's Degree,,16491,17725
+2016_2017,001139,"California State University, Long Beach",Public,Management Information Systems and Services.,Bachelor's Degree,,14569,17015
+2015_2016,001139,"California State University, Long Beach",Public,Manufacturing Engineering.,Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Manufacturing Engineering.,Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Marketing.,Bachelor's Degree,,16500,17648
+2016_2017,001139,"California State University, Long Beach",Public,Marketing.,Bachelor's Degree,,16670,17506
 2015_2016,001139,"California State University, Long Beach",Public,Mathematics.,Bachelor's Degree,33,12804,15410
-2015_2016,001139,"California State University, Long Beach",Public,Mathematics.,Master's Degree,11,NA,28682
+2015_2016,001139,"California State University, Long Beach",Public,Mathematics.,Master's Degree,11,,28682
 2016_2017,001139,"California State University, Long Beach",Public,Mathematics.,Bachelor's Degree,31,12000,17169
-2016_2017,001139,"California State University, Long Beach",Public,Mathematics.,Master's Degree,10,NA,26184
+2016_2017,001139,"California State University, Long Beach",Public,Mathematics.,Master's Degree,10,,26184
 2015_2016,001139,"California State University, Long Beach",Public,Mechanical Engineering.,Bachelor's Degree,173,18058,18860
-2015_2016,001139,"California State University, Long Beach",Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Mechanical Engineering.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Mechanical Engineering.,Bachelor's Degree,175,20000,20022
-2016_2017,001139,"California State University, Long Beach",Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,32056,31258
-2016_2017,001139,"California State University, Long Beach",Public,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,33266,31141
-2015_2016,001139,"California State University, Long Beach",Public,Microbiological Sciences and Immunology.,Bachelor's Degree,18,NA,19663
-2015_2016,001139,"California State University, Long Beach",Public,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Microbiological Sciences and Immunology.,Bachelor's Degree,18,NA,17529
-2016_2017,001139,"California State University, Long Beach",Public,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,Mechanical Engineering.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Mental and Social Health Services and Allied Professions.,Master's Degree,,32056,31258
+2016_2017,001139,"California State University, Long Beach",Public,Mental and Social Health Services and Allied Professions.,Master's Degree,,33266,31141
+2015_2016,001139,"California State University, Long Beach",Public,Microbiological Sciences and Immunology.,Bachelor's Degree,18,,19663
+2015_2016,001139,"California State University, Long Beach",Public,Microbiological Sciences and Immunology.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Microbiological Sciences and Immunology.,Bachelor's Degree,18,,17529
+2016_2017,001139,"California State University, Long Beach",Public,Microbiological Sciences and Immunology.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,Music.,Bachelor's Degree,72,19724,20354
-2015_2016,001139,"California State University, Long Beach",Public,Music.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Music.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Music.,Bachelor's Degree,78,18871,18585
-2016_2017,001139,"California State University, Long Beach",Public,Music.,Master's Degree,10,NA,28618
+2016_2017,001139,"California State University, Long Beach",Public,Music.,Master's Degree,10,,28618
 2015_2016,001139,"California State University, Long Beach",Public,Natural Resources Conservation and Research.,Bachelor's Degree,61,21518,20911
 2016_2017,001139,"California State University, Long Beach",Public,Natural Resources Conservation and Research.,Bachelor's Degree,51,16250,18566
 2015_2016,001139,"California State University, Long Beach",Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,53,14506,16663
-2015_2016,001139,"California State University, Long Beach",Public,"Parks, Recreation and Leisure Studies.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Parks, Recreation and Leisure Studies.",Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,"Parks, Recreation and Leisure Studies.",Post-baccalaureate Certificate,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Parks, Recreation and Leisure Studies.",Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,58,17612,17652
-2016_2017,001139,"California State University, Long Beach",Public,"Parks, Recreation and Leisure Studies.",Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,"Parks, Recreation and Leisure Studies.",Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,Philosophy.,Bachelor's Degree,22,15000,15591
-2015_2016,001139,"California State University, Long Beach",Public,Philosophy.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Philosophy.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Philosophy.,Bachelor's Degree,36,12583,14360
-2016_2017,001139,"California State University, Long Beach",Public,Philosophy.,Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,Philosophy.,Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,Physics.,Bachelor's Degree,34,19457,21240
-2015_2016,001139,"California State University, Long Beach",Public,Physics.,Master's Degree,10,NA,38180
+2015_2016,001139,"California State University, Long Beach",Public,Physics.,Master's Degree,10,,38180
 2016_2017,001139,"California State University, Long Beach",Public,Physics.,Bachelor's Degree,43,19250,18998
-2016_2017,001139,"California State University, Long Beach",Public,Physics.,Master's Degree,10,NA,44201
+2016_2017,001139,"California State University, Long Beach",Public,Physics.,Master's Degree,10,,44201
 2015_2016,001139,"California State University, Long Beach",Public,Political Science and Government.,Bachelor's Degree,163,17864,18431
-2015_2016,001139,"California State University, Long Beach",Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Political Science and Government.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Political Science and Government.,Bachelor's Degree,196,15125,17782
-2016_2017,001139,"California State University, Long Beach",Public,Political Science and Government.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,Political Science and Government.,Post-baccalaureate Certificate,,,
+2016_2017,001139,"California State University, Long Beach",Public,Political Science and Government.,Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,"Psychology, General.",Bachelor's Degree,425,15000,15921
-2015_2016,001139,"California State University, Long Beach",Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,"Psychology, General.",Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,"Psychology, General.",Bachelor's Degree,452,13512,15187
-2016_2017,001139,"California State University, Long Beach",Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,"Psychology, General.",Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Public Administration.,Post-baccalaureate Certificate,,,
 2015_2016,001139,"California State University, Long Beach",Public,Public Administration.,Master's Degree,89,32500,34033
-2016_2017,001139,"California State University, Long Beach",Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,Public Administration.,Post-baccalaureate Certificate,,,
 2016_2017,001139,"California State University, Long Beach",Public,Public Administration.,Master's Degree,103,37338,35647
-2015_2016,001139,"California State University, Long Beach",Public,Public Health.,Bachelor's Degree,NA,17139,17698
+2015_2016,001139,"California State University, Long Beach",Public,Public Health.,Bachelor's Degree,,17139,17698
 2015_2016,001139,"California State University, Long Beach",Public,Public Health.,Master's Degree,24,30739,26691
-2016_2017,001139,"California State University, Long Beach",Public,Public Health.,Bachelor's Degree,NA,15000,17018
+2016_2017,001139,"California State University, Long Beach",Public,Public Health.,Bachelor's Degree,,15000,17018
 2016_2017,001139,"California State University, Long Beach",Public,Public Health.,Master's Degree,26,26910,23546
-2015_2016,001139,"California State University, Long Beach",Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,16500,17122
-2016_2017,001139,"California State University, Long Beach",Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,15755,17590
+2015_2016,001139,"California State University, Long Beach",Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,,16500,17122
+2016_2017,001139,"California State University, Long Beach",Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,,15755,17590
 2015_2016,001139,"California State University, Long Beach",Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,221,16054,17845
 2015_2016,001139,"California State University, Long Beach",Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,113,37104,34639
-2015_2016,001139,"California State University, Long Beach",Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,33864,33734
+2015_2016,001139,"California State University, Long Beach",Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,33864,33734
 2016_2017,001139,"California State University, Long Beach",Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,250,15000,17509
 2016_2017,001139,"California State University, Long Beach",Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,99,33570,33462
-2016_2017,001139,"California State University, Long Beach",Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,33310,33100
-2015_2016,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,Master's Degree,12,NA,55481
-2015_2016,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,84011,82636
-2015_2016,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,71600,76004
-2016_2017,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Religion/Religious Studies.,Bachelor's Degree,11,NA,13571
-2015_2016,001139,"California State University, Long Beach",Public,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Religion/Religious Studies.,Bachelor's Degree,12,NA,14090
-2016_2017,001139,"California State University, Long Beach",Public,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,15121,16649
-2015_2016,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,15000,16394
-2016_2017,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Master's Degree,10,NA,21896
+2016_2017,001139,"California State University, Long Beach",Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,33310,33100
+2015_2016,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,Master's Degree,12,,55481
+2015_2016,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,84011,82636
+2015_2016,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,71600,76004
+2016_2017,001139,"California State University, Long Beach",Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Religion/Religious Studies.,Bachelor's Degree,11,,13571
+2015_2016,001139,"California State University, Long Beach",Public,Religion/Religious Studies.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Religion/Religious Studies.,Bachelor's Degree,12,,14090
+2016_2017,001139,"California State University, Long Beach",Public,Religion/Religious Studies.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,15121,16649
+2015_2016,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,,,
+2015_2016,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,15000,16394
+2016_2017,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,,,
+2016_2017,001139,"California State University, Long Beach",Public,Rhetoric and Composition/Writing Studies.,Master's Degree,10,,21896
 2015_2016,001139,"California State University, Long Beach",Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,62,18664,20348
-2015_2016,001139,"California State University, Long Beach",Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,62,17431,18638
-2016_2017,001139,"California State University, Long Beach",Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,31415
-2016_2017,001139,"California State University, Long Beach",Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,33564
+2016_2017,001139,"California State University, Long Beach",Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Social and Philosophical Foundations of Education.,Master's Degree,,,31415
+2016_2017,001139,"California State University, Long Beach",Public,Social and Philosophical Foundations of Education.,Master's Degree,,,33564
 2015_2016,001139,"California State University, Long Beach",Public,Social Work.,Bachelor's Degree,69,13451,15460
 2015_2016,001139,"California State University, Long Beach",Public,Social Work.,Master's Degree,303,31428,33123
 2016_2017,001139,"California State University, Long Beach",Public,Social Work.,Bachelor's Degree,75,13276,15298
 2016_2017,001139,"California State University, Long Beach",Public,Social Work.,Master's Degree,320,32423,32943
 2015_2016,001139,"California State University, Long Beach",Public,Sociology.,Bachelor's Degree,340,14017,15517
-2015_2016,001139,"California State University, Long Beach",Public,Sociology.,Master's Degree,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,Sociology.,Master's Degree,,,
 2016_2017,001139,"California State University, Long Beach",Public,Sociology.,Bachelor's Degree,350,13000,14565
-2016_2017,001139,"California State University, Long Beach",Public,Sociology.,Master's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Special Education and Teaching.,Master's Degree,14,NA,23178
-2015_2016,001139,"California State University, Long Beach",Public,Statistics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,Statistics.,Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Statistics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,Statistics.,Master's Degree,NA,NA,NA
+2016_2017,001139,"California State University, Long Beach",Public,Sociology.,Master's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Special Education and Teaching.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Special Education and Teaching.,Master's Degree,14,,23178
+2015_2016,001139,"California State University, Long Beach",Public,Statistics.,Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,Statistics.,Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Statistics.,Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,Statistics.,Master's Degree,,,
 2015_2016,001139,"California State University, Long Beach",Public,Student Counseling and Personnel Services.,Master's Degree,57,28000,28670
 2016_2017,001139,"California State University, Long Beach",Public,Student Counseling and Personnel Services.,Master's Degree,46,31124,30641
-2015_2016,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,25264
-2015_2016,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,23883
-2015_2016,001139,"California State University, Long Beach",Public,Urban Studies/Affairs.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,25264
+2015_2016,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001139,"California State University, Long Beach",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,23883
+2015_2016,001139,"California State University, Long Beach",Public,Urban Studies/Affairs.,Post-baccalaureate Certificate,,,

@@ -1,88 +1,88 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003280,Keystone College,Private,Accounting and Related Services.,Bachelor's Degree,17,NA,30937
-2015_2016,003280,Keystone College,Private,Accounting and Related Services.,Master's Degree,NA,NA,NA
+2015_2016,003280,Keystone College,Private,Accounting and Related Services.,Bachelor's Degree,17,,30937
+2015_2016,003280,Keystone College,Private,Accounting and Related Services.,Master's Degree,,,
 2016_2017,003280,Keystone College,Private,Accounting and Related Services.,Bachelor's Degree,25,29088,30709
-2016_2017,003280,Keystone College,Private,Accounting and Related Services.,Master's Degree,10,NA,28552
-2015_2016,003280,Keystone College,Private,"Architecture and Related Services, Other.",Associate's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Architecture and Related Services, Other.",Associate's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,"Biology, General.",Bachelor's Degree,19,NA,33096
-2016_2017,003280,Keystone College,Private,"Biology, General.",Bachelor's Degree,15,NA,37627
-2015_2016,003280,Keystone College,Private,"Business Administration, Management and Operations.",Associate's Degree,11,NA,21192
+2016_2017,003280,Keystone College,Private,Accounting and Related Services.,Master's Degree,10,,28552
+2015_2016,003280,Keystone College,Private,"Architecture and Related Services, Other.",Associate's Degree,,,
+2016_2017,003280,Keystone College,Private,"Architecture and Related Services, Other.",Associate's Degree,,,
+2015_2016,003280,Keystone College,Private,"Biology, General.",Bachelor's Degree,19,,33096
+2016_2017,003280,Keystone College,Private,"Biology, General.",Bachelor's Degree,15,,37627
+2015_2016,003280,Keystone College,Private,"Business Administration, Management and Operations.",Associate's Degree,11,,21192
 2015_2016,003280,Keystone College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,64,25156,27138
-2016_2017,003280,Keystone College,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,003280,Keystone College,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,003280,Keystone College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,51,26218,28026
 2015_2016,003280,Keystone College,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,56,30500,32217
 2016_2017,003280,Keystone College,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,53,31000,31176
-2015_2016,003280,Keystone College,Private,"Communication, Journalism, and Related Programs, Other.",Associate's Degree,NA,NA,NA
+2015_2016,003280,Keystone College,Private,"Communication, Journalism, and Related Programs, Other.",Associate's Degree,,,
 2015_2016,003280,Keystone College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,29,27000,28688
-2016_2017,003280,Keystone College,Private,"Communication, Journalism, and Related Programs, Other.",Associate's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,26000,27412
-2015_2016,003280,Keystone College,Private,"Computer and Information Sciences and Support Services, Other.",Associate's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Computer and Information Sciences and Support Services, Other.",Associate's Degree,NA,NA,NA
+2016_2017,003280,Keystone College,Private,"Communication, Journalism, and Related Programs, Other.",Associate's Degree,,,
+2016_2017,003280,Keystone College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,26000,27412
+2015_2016,003280,Keystone College,Private,"Computer and Information Sciences and Support Services, Other.",Associate's Degree,,,
+2016_2017,003280,Keystone College,Private,"Computer and Information Sciences and Support Services, Other.",Associate's Degree,,,
 2015_2016,003280,Keystone College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,23,30888,30929
 2016_2017,003280,Keystone College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,24,30376,31500
-2015_2016,003280,Keystone College,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2015_2016,003280,Keystone College,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2015_2016,003280,Keystone College,Private,Criminal Justice and Corrections.,Bachelor's Degree,69,26000,25723
-2016_2017,003280,Keystone College,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,003280,Keystone College,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2016_2017,003280,Keystone College,Private,Criminal Justice and Corrections.,Bachelor's Degree,59,26993,27822
-2015_2016,003280,Keystone College,Private,Culinary Arts and Related Services.,Associate's Degree,17,NA,14084
-2016_2017,003280,Keystone College,Private,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,"Education, Other.",Bachelor's Degree,NA,NA,34128
-2016_2017,003280,Keystone College,Private,"Education, Other.",Bachelor's Degree,NA,32833,33340
-2016_2017,003280,Keystone College,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
+2015_2016,003280,Keystone College,Private,Culinary Arts and Related Services.,Associate's Degree,17,,14084
+2016_2017,003280,Keystone College,Private,Culinary Arts and Related Services.,Associate's Degree,,,
+2015_2016,003280,Keystone College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2016_2017,003280,Keystone College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,003280,Keystone College,Private,"Education, Other.",Bachelor's Degree,,,34128
+2016_2017,003280,Keystone College,Private,"Education, Other.",Bachelor's Degree,,32833,33340
+2016_2017,003280,Keystone College,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,003280,Keystone College,Private,Fine and Studio Arts.,Associate's Degree,,,
 2015_2016,003280,Keystone College,Private,Fine and Studio Arts.,Bachelor's Degree,24,25500,26142
-2016_2017,003280,Keystone College,Private,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,26000,25410
-2015_2016,003280,Keystone College,Private,Forestry.,Associate's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,27775
+2016_2017,003280,Keystone College,Private,Fine and Studio Arts.,Associate's Degree,,,
+2016_2017,003280,Keystone College,Private,Fine and Studio Arts.,Bachelor's Degree,,26000,25410
+2015_2016,003280,Keystone College,Private,Forestry.,Associate's Degree,,,
+2015_2016,003280,Keystone College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,003280,Keystone College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,27775
 2015_2016,003280,Keystone College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,34,25985,26868
 2016_2017,003280,Keystone College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,35,27000,28710
-2016_2017,003280,Keystone College,Private,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Health/Medical Preparatory Programs.,Associate's Degree,11,NA,15795
-2015_2016,003280,Keystone College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,29114
-2016_2017,003280,Keystone College,Private,Health/Medical Preparatory Programs.,Associate's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,27905
-2016_2017,003280,Keystone College,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Landscape Architecture.,Associate's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,10,NA,24089
-2016_2017,003280,Keystone College,Private,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,26047
-2015_2016,003280,Keystone College,Private,Natural Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,Natural Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Public Health.,Bachelor's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,Public Health.,Bachelor's Degree,NA,NA,NA
+2016_2017,003280,Keystone College,Private,Health and Physical Education/Fitness.,Master's Degree,,,
+2015_2016,003280,Keystone College,Private,Health/Medical Preparatory Programs.,Associate's Degree,11,,15795
+2015_2016,003280,Keystone College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,29114
+2016_2017,003280,Keystone College,Private,Health/Medical Preparatory Programs.,Associate's Degree,,,
+2016_2017,003280,Keystone College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,27905
+2016_2017,003280,Keystone College,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
+2015_2016,003280,Keystone College,Private,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2016_2017,003280,Keystone College,Private,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2015_2016,003280,Keystone College,Private,Landscape Architecture.,Associate's Degree,,,
+2015_2016,003280,Keystone College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,003280,Keystone College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,003280,Keystone College,Private,Natural Resources Conservation and Research.,Associate's Degree,,,
+2015_2016,003280,Keystone College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,10,,24089
+2016_2017,003280,Keystone College,Private,Natural Resources Conservation and Research.,Associate's Degree,,,
+2016_2017,003280,Keystone College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,26047
+2015_2016,003280,Keystone College,Private,Natural Sciences.,Bachelor's Degree,,,
+2016_2017,003280,Keystone College,Private,Natural Sciences.,Bachelor's Degree,,,
+2015_2016,003280,Keystone College,Private,Public Health.,Bachelor's Degree,,,
+2016_2017,003280,Keystone College,Private,Public Health.,Bachelor's Degree,,,
 2015_2016,003280,Keystone College,Private,"Social Sciences, Other.",Bachelor's Degree,22,29937,30447
-2016_2017,003280,Keystone College,Private,"Social Sciences, Other.",Bachelor's Degree,18,NA,30160
-2015_2016,003280,Keystone College,Private,Special Education and Teaching.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,35537
-2015_2016,003280,Keystone College,Private,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003280,Keystone College,Private,Special Education and Teaching.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003280,Keystone College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,27686
-2016_2017,003280,Keystone College,Private,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,29264
-2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,10,NA,32225
-2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Wildlife and Wildlands Science and Management.,Associate's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,Wildlife and Wildlands Science and Management.,Associate's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Zoology/Animal Biology.,Associate's Degree,NA,NA,NA
-2015_2016,003280,Keystone College,Private,Zoology/Animal Biology.,Bachelor's Degree,NA,NA,29857
-2016_2017,003280,Keystone College,Private,Zoology/Animal Biology.,Associate's Degree,NA,NA,NA
-2016_2017,003280,Keystone College,Private,Zoology/Animal Biology.,Bachelor's Degree,NA,NA,NA
+2016_2017,003280,Keystone College,Private,"Social Sciences, Other.",Bachelor's Degree,18,,30160
+2015_2016,003280,Keystone College,Private,Special Education and Teaching.,Undergraduate Certificate or Diploma,,,
+2015_2016,003280,Keystone College,Private,Special Education and Teaching.,Bachelor's Degree,,,35537
+2015_2016,003280,Keystone College,Private,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2016_2017,003280,Keystone College,Private,Special Education and Teaching.,Undergraduate Certificate or Diploma,,,
+2016_2017,003280,Keystone College,Private,Special Education and Teaching.,Bachelor's Degree,,,27686
+2016_2017,003280,Keystone College,Private,Special Education and Teaching.,Post-baccalaureate Certificate,,,29264
+2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,,,
+2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,10,,32225
+2015_2016,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
+2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,,,
+2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003280,Keystone College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
+2015_2016,003280,Keystone College,Private,Wildlife and Wildlands Science and Management.,Associate's Degree,,,
+2016_2017,003280,Keystone College,Private,Wildlife and Wildlands Science and Management.,Associate's Degree,,,
+2015_2016,003280,Keystone College,Private,Zoology/Animal Biology.,Associate's Degree,,,
+2015_2016,003280,Keystone College,Private,Zoology/Animal Biology.,Bachelor's Degree,,,29857
+2016_2017,003280,Keystone College,Private,Zoology/Animal Biology.,Associate's Degree,,,
+2016_2017,003280,Keystone College,Private,Zoology/Animal Biology.,Bachelor's Degree,,,

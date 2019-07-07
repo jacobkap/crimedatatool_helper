@@ -1,91 +1,91 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,004508,University of Colorado Denver,Public,Accounting and Related Services.,Master's Degree,46,23594,31555
 2016_2017,004508,University of Colorado Denver,Public,Accounting and Related Services.,Master's Degree,51,24543,31496
-2015_2016,004508,University of Colorado Denver,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Advanced/Graduate Dentistry and Oral Sciences.,First Professional Degree,NA,204266,196732
-2016_2017,004508,University of Colorado Denver,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Advanced/Graduate Dentistry and Oral Sciences.,First Professional Degree,NA,193755,175149
-2015_2016,004508,University of Colorado Denver,Public,Allied Health and Medical Assisting Services.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Allied Health and Medical Assisting Services.,First Professional Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Allied Health and Medical Assisting Services.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Allied Health and Medical Assisting Services.,First Professional Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,NA,101376,84528
-2016_2017,004508,University of Colorado Denver,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,NA,101604,88460
+2015_2016,004508,University of Colorado Denver,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Advanced/Graduate Dentistry and Oral Sciences.,First Professional Degree,,204266,196732
+2016_2017,004508,University of Colorado Denver,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Advanced/Graduate Dentistry and Oral Sciences.,First Professional Degree,,193755,175149
+2015_2016,004508,University of Colorado Denver,Public,Allied Health and Medical Assisting Services.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Allied Health and Medical Assisting Services.,First Professional Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Allied Health and Medical Assisting Services.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Allied Health and Medical Assisting Services.,First Professional Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,,101376,84528
+2016_2017,004508,University of Colorado Denver,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,,101604,88460
 2015_2016,004508,University of Colorado Denver,Public,Anthropology.,Bachelor's Degree,25,25000,23980
-2015_2016,004508,University of Colorado Denver,Public,Anthropology.,Master's Degree,15,NA,44849
+2015_2016,004508,University of Colorado Denver,Public,Anthropology.,Master's Degree,15,,44849
 2016_2017,004508,University of Colorado Denver,Public,Anthropology.,Bachelor's Degree,27,26587,25524
-2016_2017,004508,University of Colorado Denver,Public,Anthropology.,Master's Degree,10,NA,46202
-2015_2016,004508,University of Colorado Denver,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Anthropology.,Master's Degree,10,,46202
+2015_2016,004508,University of Colorado Denver,Public,Applied Mathematics.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Applied Mathematics.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Applied Mathematics.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Applied Mathematics.,Doctoral Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,Architecture.,Bachelor's Degree,38,17666,19955
 2015_2016,004508,University of Colorado Denver,Public,Architecture.,Master's Degree,87,67713,66839
 2016_2017,004508,University of Colorado Denver,Public,Architecture.,Bachelor's Degree,53,17899,20121
 2016_2017,004508,University of Colorado Denver,Public,Architecture.,Master's Degree,93,67713,66643
-2015_2016,004508,University of Colorado Denver,Public,Behavioral Sciences.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Behavioral Sciences.,Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Biological and Physical Sciences.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Biological and Physical Sciences.,Master's Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Behavioral Sciences.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Behavioral Sciences.,Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Biological and Physical Sciences.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Biological and Physical Sciences.,Master's Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,"Biology, General.",Bachelor's Degree,221,21221,22397
-2015_2016,004508,University of Colorado Denver,Public,"Biology, General.",Master's Degree,10,NA,31366
+2015_2016,004508,University of Colorado Denver,Public,"Biology, General.",Master's Degree,10,,31366
 2016_2017,004508,University of Colorado Denver,Public,"Biology, General.",Bachelor's Degree,228,20855,22317
-2016_2017,004508,University of Colorado Denver,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Biomedical/Medical Engineering.,Master's Degree,10,NA,36956
-2015_2016,004508,University of Colorado Denver,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Biomedical/Medical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Biomedical/Medical Engineering.,Master's Degree,11,NA,49856
-2016_2017,004508,University of Colorado Denver,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Biotechnology.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Biotechnology.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,"Biology, General.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Biomedical/Medical Engineering.,Master's Degree,10,,36956
+2015_2016,004508,University of Colorado Denver,Public,Biomedical/Medical Engineering.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Biomedical/Medical Engineering.,Bachelor's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Biomedical/Medical Engineering.,Master's Degree,11,,49856
+2016_2017,004508,University of Colorado Denver,Public,Biomedical/Medical Engineering.,Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Biotechnology.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Biotechnology.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,004508,University of Colorado Denver,Public,"Business Administration, Management and Operations.",Bachelor's Degree,357,21750,22470
 2015_2016,004508,University of Colorado Denver,Public,"Business Administration, Management and Operations.",Master's Degree,245,41500,50209
-2016_2017,004508,University of Colorado Denver,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,004508,University of Colorado Denver,Public,"Business Administration, Management and Operations.",Bachelor's Degree,409,20625,21905
 2016_2017,004508,University of Colorado Denver,Public,"Business Administration, Management and Operations.",Master's Degree,250,47927,51480
 2015_2016,004508,University of Colorado Denver,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,26,61008,58562
-2015_2016,004508,University of Colorado Denver,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,31,48789,52345
-2016_2017,004508,University of Colorado Denver,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Chemistry.,Bachelor's Degree,18,NA,20442
-2015_2016,004508,University of Colorado Denver,Public,Chemistry.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Chemistry.,Bachelor's Degree,19,NA,23116
-2016_2017,004508,University of Colorado Denver,Public,Chemistry.,Master's Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Chemistry.,Bachelor's Degree,18,,20442
+2015_2016,004508,University of Colorado Denver,Public,Chemistry.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Chemistry.,Bachelor's Degree,19,,23116
+2016_2017,004508,University of Colorado Denver,Public,Chemistry.,Master's Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,"City/Urban, Community and Regional Planning.",Master's Degree,55,44700,51250
 2016_2017,004508,University of Colorado Denver,Public,"City/Urban, Community and Regional Planning.",Master's Degree,61,44700,53125
 2015_2016,004508,University of Colorado Denver,Public,Civil Engineering.,Bachelor's Degree,27,22250,23382
-2015_2016,004508,University of Colorado Denver,Public,Civil Engineering.,Master's Degree,15,NA,29953
-2015_2016,004508,University of Colorado Denver,Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Civil Engineering.,Master's Degree,15,,29953
+2015_2016,004508,University of Colorado Denver,Public,Civil Engineering.,Doctoral Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,Civil Engineering.,Bachelor's Degree,37,23500,23996
-2016_2017,004508,University of Colorado Denver,Public,Civil Engineering.,Master's Degree,12,NA,23473
-2016_2017,004508,University of Colorado Denver,Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Civil Engineering.,Master's Degree,12,,23473
+2016_2017,004508,University of Colorado Denver,Public,Civil Engineering.,Doctoral Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,105,27197,31856
-2015_2016,004508,University of Colorado Denver,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,64831,72315
-2016_2017,004508,University of Colorado Denver,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,27197,30969
-2016_2017,004508,University of Colorado Denver,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,92849,86336
-2015_2016,004508,University of Colorado Denver,Public,Cognitive Science.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Cognitive Science.,Doctoral Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,64831,72315
+2016_2017,004508,University of Colorado Denver,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,,27197,30969
+2016_2017,004508,University of Colorado Denver,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,92849,86336
+2015_2016,004508,University of Colorado Denver,Public,Cognitive Science.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Cognitive Science.,Doctoral Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,Communication and Media Studies.,Bachelor's Degree,117,19500,21360
-2015_2016,004508,University of Colorado Denver,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Communication and Media Studies.,Master's Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,Communication and Media Studies.,Bachelor's Degree,126,19499,20796
-2016_2017,004508,University of Colorado Denver,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Communication and Media Studies.,Master's Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,"Computer and Information Sciences, General.",Bachelor's Degree,28,26489,28241
-2015_2016,004508,University of Colorado Denver,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,"Computer and Information Sciences, General.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Computer and Information Sciences, General.",Doctoral Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,"Computer and Information Sciences, General.",Bachelor's Degree,30,27750,27691
-2016_2017,004508,University of Colorado Denver,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,"Computer and Information Sciences, General.",Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Computer and Information Sciences, General.",Doctoral Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,Criminal Justice and Corrections.,Bachelor's Degree,46,20500,21723
 2015_2016,004508,University of Colorado Denver,Public,Criminal Justice and Corrections.,Master's Degree,32,65583,63073
 2016_2017,004508,University of Colorado Denver,Public,Criminal Justice and Corrections.,Bachelor's Degree,59,18000,19707
@@ -96,16 +96,16 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,004508,University of Colorado Denver,Public,Dentistry.,First Professional Degree,164,217746,217543
 2015_2016,004508,University of Colorado Denver,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,28,24899,21402
 2016_2017,004508,University of Colorado Denver,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,35,26000,25331
-2015_2016,004508,University of Colorado Denver,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,Economics.,Bachelor's Degree,40,21565,23294
-2015_2016,004508,University of Colorado Denver,Public,Economics.,Master's Degree,11,NA,37676
+2015_2016,004508,University of Colorado Denver,Public,Economics.,Master's Degree,11,,37676
 2016_2017,004508,University of Colorado Denver,Public,Economics.,Bachelor's Degree,38,24059,25027
-2016_2017,004508,University of Colorado Denver,Public,Economics.,Master's Degree,13,NA,41305
-2015_2016,004508,University of Colorado Denver,Public,"Education, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Education, General.",Master's Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Economics.,Master's Degree,13,,41305
+2015_2016,004508,University of Colorado Denver,Public,"Education, General.",Bachelor's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Education, General.",Master's Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,"Education, General.",Bachelor's Degree,22,15133,18189
 2016_2017,004508,University of Colorado Denver,Public,"Education, General.",Master's Degree,51,30516,32705
 2015_2016,004508,University of Colorado Denver,Public,Educational Administration and Supervision.,Master's Degree,31,41741,52433
@@ -113,173 +113,173 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,004508,University of Colorado Denver,Public,Educational Administration and Supervision.,Master's Degree,53,28101,38757
 2016_2017,004508,University of Colorado Denver,Public,Educational Administration and Supervision.,Doctoral Degree,26,38832,50959
 2015_2016,004508,University of Colorado Denver,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,37,28208,30656
-2015_2016,004508,University of Colorado Denver,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,47,26000,28234
-2016_2017,004508,University of Colorado Denver,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Engineering Science.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Engineering Science.,Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Engineering, General.",Master's Degree,10,NA,46744
-2016_2017,004508,University of Colorado Denver,Public,"Engineering, General.",Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Engineering, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Engineering Science.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Engineering Science.,Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Engineering, General.",Master's Degree,10,,46744
+2016_2017,004508,University of Colorado Denver,Public,"Engineering, General.",Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Engineering, Other.",Bachelor's Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,"English Language and Literature, General.",Bachelor's Degree,55,21354,20230
-2015_2016,004508,University of Colorado Denver,Public,"English Language and Literature, General.",Master's Degree,12,NA,45910
+2015_2016,004508,University of Colorado Denver,Public,"English Language and Literature, General.",Master's Degree,12,,45910
 2016_2017,004508,University of Colorado Denver,Public,"English Language and Literature, General.",Bachelor's Degree,36,22067,22370
-2016_2017,004508,University of Colorado Denver,Public,"English Language and Literature, General.",Master's Degree,10,NA,48445
-2015_2016,004508,University of Colorado Denver,Public,Environmental Design.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Environmental Design.,Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,18,NA,18037
+2016_2017,004508,University of Colorado Denver,Public,"English Language and Literature, General.",Master's Degree,10,,48445
+2015_2016,004508,University of Colorado Denver,Public,Environmental Design.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Environmental Design.,Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,18,,18037
 2016_2017,004508,University of Colorado Denver,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,25,12000,16655
 2015_2016,004508,University of Colorado Denver,Public,Finance and Financial Management Services.,Master's Degree,22,27886,34373
 2016_2017,004508,University of Colorado Denver,Public,Finance and Financial Management Services.,Master's Degree,22,42488,41233
 2015_2016,004508,University of Colorado Denver,Public,Fine and Studio Arts.,Bachelor's Degree,106,25500,26342
 2016_2017,004508,University of Colorado Denver,Public,Fine and Studio Arts.,Bachelor's Degree,94,24918,25818
-2015_2016,004508,University of Colorado Denver,Public,Genetics.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Genetics.,Doctoral Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Genetics.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Genetics.,Doctoral Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,Geography and Cartography.,Bachelor's Degree,48,25250,24262
-2015_2016,004508,University of Colorado Denver,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Geography and Cartography.,Master's Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,Geography and Cartography.,Bachelor's Degree,47,25500,26474
-2016_2017,004508,University of Colorado Denver,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Health Services/Allied Health/Health Sciences, General.",Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Health Services/Allied Health/Health Sciences, General.",Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Historic Preservation and Conservation.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Historic Preservation and Conservation.,Master's Degree,NA,NA,68078
+2016_2017,004508,University of Colorado Denver,Public,Geography and Cartography.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Health and Medical Administrative Services.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Health and Medical Administrative Services.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Health Services/Allied Health/Health Sciences, General.",Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Health Services/Allied Health/Health Sciences, General.",Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Historic Preservation and Conservation.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Historic Preservation and Conservation.,Master's Degree,,,68078
 2015_2016,004508,University of Colorado Denver,Public,History.,Bachelor's Degree,34,23643,23962
-2015_2016,004508,University of Colorado Denver,Public,History.,Master's Degree,14,NA,47523
+2015_2016,004508,University of Colorado Denver,Public,History.,Master's Degree,14,,47523
 2016_2017,004508,University of Colorado Denver,Public,History.,Bachelor's Degree,28,21000,20706
 2016_2017,004508,University of Colorado Denver,Public,History.,Master's Degree,22,50620,53630
-2016_2017,004508,University of Colorado Denver,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Human Resources Management and Services.,Master's Degree,12,NA,51442
-2016_2017,004508,University of Colorado Denver,Public,Human Resources Management and Services.,Master's Degree,12,NA,41762
+2016_2017,004508,University of Colorado Denver,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Human Resources Management and Services.,Master's Degree,12,,51442
+2016_2017,004508,University of Colorado Denver,Public,Human Resources Management and Services.,Master's Degree,12,,41762
 2015_2016,004508,University of Colorado Denver,Public,Information Science/Studies.,Master's Degree,29,42130,54538
 2016_2017,004508,University of Colorado Denver,Public,Information Science/Studies.,Master's Degree,30,37165,46684
-2015_2016,004508,University of Colorado Denver,Public,International Business.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,International Business.,Master's Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,International Business.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,International Business.,Master's Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,International/Global Studies.,Bachelor's Degree,32,20121,19825
 2016_2017,004508,University of Colorado Denver,Public,International/Global Studies.,Bachelor's Degree,29,19198,20413
 2015_2016,004508,University of Colorado Denver,Public,Landscape Architecture.,Master's Degree,23,65977,69238
-2016_2017,004508,University of Colorado Denver,Public,Landscape Architecture.,Master's Degree,16,NA,62307
-2015_2016,004508,University of Colorado Denver,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,10,NA,79980
+2016_2017,004508,University of Colorado Denver,Public,Landscape Architecture.,Master's Degree,16,,62307
+2015_2016,004508,University of Colorado Denver,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,10,,79980
 2015_2016,004508,University of Colorado Denver,Public,Library Science and Administration.,Master's Degree,38,29633,34634
 2016_2017,004508,University of Colorado Denver,Public,Library Science and Administration.,Master's Degree,48,24624,36192
-2015_2016,004508,University of Colorado Denver,Public,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Marketing.,Master's Degree,13,NA,43095
-2016_2017,004508,University of Colorado Denver,Public,Marketing.,Master's Degree,15,NA,37024
+2015_2016,004508,University of Colorado Denver,Public,Management Sciences and Quantitative Methods.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Management Sciences and Quantitative Methods.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Marketing.,Master's Degree,13,,43095
+2016_2017,004508,University of Colorado Denver,Public,Marketing.,Master's Degree,15,,37024
 2015_2016,004508,University of Colorado Denver,Public,Mathematics.,Bachelor's Degree,24,20500,22007
 2016_2017,004508,University of Colorado Denver,Public,Mathematics.,Bachelor's Degree,24,11298,14589
 2015_2016,004508,University of Colorado Denver,Public,Mechanical Engineering.,Bachelor's Degree,53,24478,25874
-2015_2016,004508,University of Colorado Denver,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Mechanical Engineering.,Master's Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,Mechanical Engineering.,Bachelor's Degree,62,26027,28215
-2016_2017,004508,University of Colorado Denver,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Medical Clinical Sciences/Graduate Medical Studies.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Medical Clinical Sciences/Graduate Medical Studies.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Medical Clinical Sciences/Graduate Medical Studies.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Medical Clinical Sciences/Graduate Medical Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Mechanical Engineering.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Medical Clinical Sciences/Graduate Medical Studies.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Medical Clinical Sciences/Graduate Medical Studies.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Medical Clinical Sciences/Graduate Medical Studies.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Medical Clinical Sciences/Graduate Medical Studies.,Doctoral Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,Medicine.,First Professional Degree,243,203676,191718
 2016_2017,004508,University of Colorado Denver,Public,Medicine.,First Professional Degree,212,213372,202882
-2015_2016,004508,University of Colorado Denver,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Multi-/Interdisciplinary Studies, General.",Undergraduate Certificate or Diploma,NA,NA,17398
-2015_2016,004508,University of Colorado Denver,Public,"Multi-/Interdisciplinary Studies, General.",Graduate/Professional Certificate,NA,34572,46173
-2016_2017,004508,University of Colorado Denver,Public,"Multi-/Interdisciplinary Studies, General.",Undergraduate Certificate or Diploma,NA,NA,21548
-2016_2017,004508,University of Colorado Denver,Public,"Multi-/Interdisciplinary Studies, General.",Graduate/Professional Certificate,NA,36719,48108
+2015_2016,004508,University of Colorado Denver,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Microbiological Sciences and Immunology.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Microbiological Sciences and Immunology.,Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Multi-/Interdisciplinary Studies, General.",Undergraduate Certificate or Diploma,,,17398
+2015_2016,004508,University of Colorado Denver,Public,"Multi-/Interdisciplinary Studies, General.",Graduate/Professional Certificate,,34572,46173
+2016_2017,004508,University of Colorado Denver,Public,"Multi-/Interdisciplinary Studies, General.",Undergraduate Certificate or Diploma,,,21548
+2016_2017,004508,University of Colorado Denver,Public,"Multi-/Interdisciplinary Studies, General.",Graduate/Professional Certificate,,36719,48108
 2015_2016,004508,University of Colorado Denver,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,22,22412,23878
-2016_2017,004508,University of Colorado Denver,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,19,NA,24866
+2016_2017,004508,University of Colorado Denver,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,19,,24866
 2015_2016,004508,University of Colorado Denver,Public,Music.,Bachelor's Degree,109,23500,24228
-2015_2016,004508,University of Colorado Denver,Public,Music.,Master's Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Music.,Master's Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,Music.,Bachelor's Degree,105,25179,25866
-2016_2017,004508,University of Colorado Denver,Public,Music.,Master's Degree,13,NA,54736
-2015_2016,004508,University of Colorado Denver,Public,Natural Resources Conservation and Research.,Master's Degree,12,NA,50595
-2016_2017,004508,University of Colorado Denver,Public,Natural Resources Conservation and Research.,Master's Degree,16,NA,54555
-2015_2016,004508,University of Colorado Denver,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,160838,145695
-2015_2016,004508,University of Colorado Denver,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,165962,152245
-2016_2017,004508,University of Colorado Denver,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Philosophy.,Bachelor's Degree,12,NA,24124
-2016_2017,004508,University of Colorado Denver,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Physics.,Bachelor's Degree,10,NA,24119
-2016_2017,004508,University of Colorado Denver,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Music.,Master's Degree,13,,54736
+2015_2016,004508,University of Colorado Denver,Public,Natural Resources Conservation and Research.,Master's Degree,12,,50595
+2016_2017,004508,University of Colorado Denver,Public,Natural Resources Conservation and Research.,Master's Degree,16,,54555
+2015_2016,004508,University of Colorado Denver,Public,Neurobiology and Neurosciences.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Neurobiology and Neurosciences.,Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Pharmacology and Toxicology.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Pharmacology and Toxicology.,Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,160838,145695
+2015_2016,004508,University of Colorado Denver,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,165962,152245
+2016_2017,004508,University of Colorado Denver,Public,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Philosophy.,Bachelor's Degree,12,,24124
+2016_2017,004508,University of Colorado Denver,Public,Philosophy.,Bachelor's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Physics.,Bachelor's Degree,10,,24119
+2016_2017,004508,University of Colorado Denver,Public,Physics.,Bachelor's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,Political Science and Government.,Bachelor's Degree,45,21773,22454
 2015_2016,004508,University of Colorado Denver,Public,Political Science and Government.,Master's Degree,25,43301,52106
 2016_2017,004508,University of Colorado Denver,Public,Political Science and Government.,Bachelor's Degree,53,21988,22647
 2016_2017,004508,University of Colorado Denver,Public,Political Science and Government.,Master's Degree,30,42197,46449
 2015_2016,004508,University of Colorado Denver,Public,"Psychology, General.",Bachelor's Degree,139,19500,21061
-2015_2016,004508,University of Colorado Denver,Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,"Psychology, General.",Master's Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,"Psychology, General.",Bachelor's Degree,140,20190,21650
-2016_2017,004508,University of Colorado Denver,Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Public Administration and Social Service Professions, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Public Administration and Social Service Professions, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,"Psychology, General.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Public Administration and Social Service Professions, Other.",Bachelor's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Public Administration and Social Service Professions, Other.",Bachelor's Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,Public Administration.,Master's Degree,131,40697,41656
-2015_2016,004508,University of Colorado Denver,Public,Public Administration.,Doctoral Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Public Administration.,Doctoral Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,Public Administration.,Master's Degree,148,37526,40120
-2016_2017,004508,University of Colorado Denver,Public,Public Administration.,Doctoral Degree,10,NA,71739
+2016_2017,004508,University of Colorado Denver,Public,Public Administration.,Doctoral Degree,10,,71739
 2015_2016,004508,University of Colorado Denver,Public,Public Health.,Bachelor's Degree,91,21045,21569
 2015_2016,004508,University of Colorado Denver,Public,Public Health.,Master's Degree,173,53206,52452
-2015_2016,004508,University of Colorado Denver,Public,Public Health.,Doctoral Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Public Health.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Public Health.,Doctoral Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Public Health.,Graduate/Professional Certificate,,,
 2016_2017,004508,University of Colorado Denver,Public,Public Health.,Bachelor's Degree,82,18439,20299
 2016_2017,004508,University of Colorado Denver,Public,Public Health.,Master's Degree,214,54397,53179
-2016_2017,004508,University of Colorado Denver,Public,Public Health.,Doctoral Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Public Health.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Public Health.,Doctoral Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Public Health.,Graduate/Professional Certificate,,,
 2015_2016,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,410,22395,21435
 2015_2016,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,136,35698,41027
-2015_2016,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,63458,74760
-2015_2016,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,63458,74760
+2015_2016,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2016_2017,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,426,22395,22394
 2016_2017,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,156,42897,48575
-2016_2017,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,113484
-2016_2017,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,113484
+2016_2017,004508,University of Colorado Denver,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,96,76257,76001
-2016_2017,004508,University of Colorado Denver,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,102,79161,76332
 2015_2016,004508,University of Colorado Denver,Public,Research and Experimental Psychology.,Bachelor's Degree,65,22739,24135
 2016_2017,004508,University of Colorado Denver,Public,Research and Experimental Psychology.,Bachelor's Degree,67,19891,20997
 2015_2016,004508,University of Colorado Denver,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,31,23233,23237
 2016_2017,004508,University of Colorado Denver,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,27,27000,27450
-2015_2016,004508,University of Colorado Denver,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,15,NA,20313
-2015_2016,004508,University of Colorado Denver,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,14,NA,22074
-2016_2017,004508,University of Colorado Denver,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Social Sciences, General.",Master's Degree,14,NA,56302
-2016_2017,004508,University of Colorado Denver,Public,"Social Sciences, General.",Master's Degree,16,NA,50407
+2015_2016,004508,University of Colorado Denver,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,15,,20313
+2015_2016,004508,University of Colorado Denver,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,14,,22074
+2016_2017,004508,University of Colorado Denver,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Social Sciences, General.",Master's Degree,14,,56302
+2016_2017,004508,University of Colorado Denver,Public,"Social Sciences, General.",Master's Degree,16,,50407
 2015_2016,004508,University of Colorado Denver,Public,Sociology.,Bachelor's Degree,69,23375,24440
-2015_2016,004508,University of Colorado Denver,Public,Sociology.,Master's Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,Sociology.,Master's Degree,,,
 2016_2017,004508,University of Colorado Denver,Public,Sociology.,Bachelor's Degree,81,21500,21315
-2016_2017,004508,University of Colorado Denver,Public,Sociology.,Master's Degree,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Sociology.,Master's Degree,,,
 2015_2016,004508,University of Colorado Denver,Public,Special Education and Teaching.,Master's Degree,36,45447,45809
 2016_2017,004508,University of Colorado Denver,Public,Special Education and Teaching.,Master's Degree,40,43931,45362
-2016_2017,004508,University of Colorado Denver,Public,Statistics.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Statistics.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,004508,University of Colorado Denver,Public,Statistics.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Statistics.,Graduate/Professional Certificate,,,
 2015_2016,004508,University of Colorado Denver,Public,Student Counseling and Personnel Services.,Master's Degree,70,69464,68229
 2016_2017,004508,University of Colorado Denver,Public,Student Counseling and Personnel Services.,Master's Degree,86,53431,65152
-2015_2016,004508,University of Colorado Denver,Public,Taxation.,Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,Taxation.,Master's Degree,NA,NA,40370
+2015_2016,004508,University of Colorado Denver,Public,Taxation.,Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,Taxation.,Master's Degree,,,40370
 2015_2016,004508,University of Colorado Denver,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,35,32451,42652
 2016_2017,004508,University of Colorado Denver,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,49,37569,45662
-2015_2016,004508,University of Colorado Denver,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,004508,University of Colorado Denver,Public,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,004508,University of Colorado Denver,Public,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,004508,University of Colorado Denver,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,004508,University of Colorado Denver,Public,"Visual and Performing Arts, Other.",Bachelor's Degree,,,
+2016_2017,004508,University of Colorado Denver,Public,"Visual and Performing Arts, Other.",Bachelor's Degree,,,

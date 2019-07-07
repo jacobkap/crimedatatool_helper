@@ -1,154 +1,154 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,023068,Platt College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,30,9500,9458
-2015_2016,023068,Platt College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,28334,27111
-2016_2017,023068,Platt College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,9500,8721
-2016_2017,023068,Platt College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,29941,28580
-2015_2016,023068,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,11021,12874
-2015_2016,023068,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,28722,28036
-2015_2016,030627,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,023068,Platt College,Proprietary,Accounting and Related Services.,Associate's Degree,,28334,27111
+2016_2017,023068,Platt College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,,9500,8721
+2016_2017,023068,Platt College,Proprietary,Accounting and Related Services.,Associate's Degree,,29941,28580
+2015_2016,023068,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,11021,12874
+2015_2016,023068,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,28722,28036
+2015_2016,030627,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,030627,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,188,18744,18903
-2015_2016,030627,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,34259
-2016_2017,023068,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9500,12348
-2016_2017,023068,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,29722,29471
-2016_2017,030627,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,030627,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,34259
+2016_2017,023068,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9500,12348
+2016_2017,023068,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,29722,29471
+2016_2017,030627,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,030627,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,255,17708,17877
-2016_2017,030627,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,13583,12141
-2015_2016,023068,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,25558,25147
+2016_2017,030627,Platt College,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,
+2015_2016,023068,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,13583,12141
+2015_2016,023068,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,25558,25147
 2015_2016,030627,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,251,27770,25352
 2015_2016,030627,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,52,31472,31921
-2016_2017,023068,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,13583,11878
-2016_2017,023068,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,26043,25240
+2016_2017,023068,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,13583,11878
+2016_2017,023068,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,26043,25240
 2016_2017,030627,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,272,26862,24252
 2016_2017,030627,Platt College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,68,31663,32575
-2015_2016,023068,Platt College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,31112,29853
-2015_2016,023068,Platt College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,44875,43076
-2015_2016,030627,Platt College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030627,Platt College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,14695
-2016_2017,023068,Platt College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,32500,31391
-2016_2017,023068,Platt College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,53513,47083
-2016_2017,030627,Platt College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,023068,Platt College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,31112,29853
+2015_2016,023068,Platt College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,44875,43076
+2015_2016,030627,Platt College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,030627,Platt College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,,14695
+2016_2017,023068,Platt College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,32500,31391
+2016_2017,023068,Platt College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,53513,47083
+2016_2017,030627,Platt College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,030627,Platt College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,29,17318,16270
-2015_2016,023068,Platt College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,28254,27168
-2016_2017,023068,Platt College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,29954,28002
-2015_2016,023068,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,14250,16442
-2015_2016,023068,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,26656,NA
-2015_2016,030627,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,023068,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,13458,16674
-2016_2017,023068,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,28725,27989
-2016_2017,030627,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030627,Platt College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,023068,Platt College,Proprietary,Computer Engineering.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,Computer Programming.,Associate's Degree,NA,NA,NA
-2016_2017,023068,Platt College,Proprietary,Computer Programming.,Associate's Degree,NA,NA,NA
-2016_2017,030627,Platt College,Proprietary,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030627,Platt College,Proprietary,Computer Programming.,Associate's Degree,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,18034
-2016_2017,023068,Platt College,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,20961,21307
-2016_2017,023068,Platt College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,22068
-2015_2016,023068,Platt College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,22000,22208
-2016_2017,023068,Platt College,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,18167,22358
-2016_2017,023068,Platt College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,21010,21282
-2015_2016,023068,Platt College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,12860,12396
-2015_2016,023068,Platt College,Proprietary,Cosmetology and Related Personal Grooming Services.,Associate's Degree,NA,NA,NA
-2016_2017,023068,Platt College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,9727,11721
-2016_2017,023068,Platt College,Proprietary,Cosmetology and Related Personal Grooming Services.,Associate's Degree,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,NA,29059,27548
-2015_2016,023068,Platt College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,40972,40821
+2015_2016,023068,Platt College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,023068,Platt College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,28254,27168
+2016_2017,023068,Platt College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,29954,28002
+2015_2016,023068,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,14250,16442
+2015_2016,023068,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,26656,
+2015_2016,030627,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,023068,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,13458,16674
+2016_2017,023068,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,28725,27989
+2016_2017,030627,Platt College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,030627,Platt College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,,,
+2016_2017,023068,Platt College,Proprietary,Computer Engineering.,Undergraduate Certificate or Diploma,,,
+2015_2016,023068,Platt College,Proprietary,Computer Programming.,Associate's Degree,,,
+2016_2017,023068,Platt College,Proprietary,Computer Programming.,Associate's Degree,,,
+2016_2017,030627,Platt College,Proprietary,Computer Programming.,Undergraduate Certificate or Diploma,,,
+2016_2017,030627,Platt College,Proprietary,Computer Programming.,Associate's Degree,,,
+2015_2016,023068,Platt College,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,18034
+2016_2017,023068,Platt College,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,023068,Platt College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,,20961,21307
+2016_2017,023068,Platt College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2015_2016,023068,Platt College,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,22068
+2015_2016,023068,Platt College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,22000,22208
+2016_2017,023068,Platt College,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,18167,22358
+2016_2017,023068,Platt College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,21010,21282
+2015_2016,023068,Platt College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,12860,12396
+2015_2016,023068,Platt College,Proprietary,Cosmetology and Related Personal Grooming Services.,Associate's Degree,,,
+2016_2017,023068,Platt College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,9727,11721
+2016_2017,023068,Platt College,Proprietary,Cosmetology and Related Personal Grooming Services.,Associate's Degree,,,
+2015_2016,023068,Platt College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,,29059,27548
+2015_2016,023068,Platt College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,40972,40821
 2015_2016,030627,Platt College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,53,20000,19036
 2015_2016,030627,Platt College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,28,35741,32341
-2016_2017,023068,Platt College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,NA,29603,28312
-2016_2017,023068,Platt College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,47655,42865
-2016_2017,030627,Platt College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,023068,Platt College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,,29603,28312
+2016_2017,023068,Platt College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,47655,42865
+2016_2017,030627,Platt College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2016_2017,030627,Platt College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,49,20000,17677
 2016_2017,030627,Platt College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,33,22917,26427
-2015_2016,023068,Platt College,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,12874,11445
+2015_2016,023068,Platt College,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,12874,11445
 2015_2016,023068,Platt College,Proprietary,Culinary Arts and Related Services.,Associate's Degree,112,18467,17079
-2015_2016,023068,Platt College,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,NA,30205,27555
-2016_2017,023068,Platt College,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,11332,11342
+2015_2016,023068,Platt College,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,,30205,27555
+2016_2017,023068,Platt College,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,11332,11342
 2016_2017,023068,Platt College,Proprietary,Culinary Arts and Related Services.,Associate's Degree,123,19292,17108
-2016_2017,023068,Platt College,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,NA,30782,28541
-2015_2016,023068,Platt College,Proprietary,Data Entry/Microcomputer Applications.,Associate's Degree,NA,32389,28294
-2016_2017,023068,Platt College,Proprietary,Data Entry/Microcomputer Applications.,Associate's Degree,NA,32500,30070
-2015_2016,023068,Platt College,Proprietary,Data Processing.,Associate's Degree,NA,NA,33733
-2016_2017,023068,Platt College,Proprietary,Data Processing.,Associate's Degree,NA,32500,33922
+2016_2017,023068,Platt College,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,,30782,28541
+2015_2016,023068,Platt College,Proprietary,Data Entry/Microcomputer Applications.,Associate's Degree,,32389,28294
+2016_2017,023068,Platt College,Proprietary,Data Entry/Microcomputer Applications.,Associate's Degree,,32500,30070
+2015_2016,023068,Platt College,Proprietary,Data Processing.,Associate's Degree,,,33733
+2016_2017,023068,Platt College,Proprietary,Data Processing.,Associate's Degree,,32500,33922
 2015_2016,023068,Platt College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,388,9500,10363
-2015_2016,023068,Platt College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,NA,25480,23728
-2016_2017,023068,Platt College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,9500,10338
-2016_2017,023068,Platt College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,NA,24802,23960
-2015_2016,023068,Platt College,Proprietary,Design and Applied Arts.,Associate's Degree,NA,NA,20129
-2015_2016,030627,Platt College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,023068,Platt College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,,25480,23728
+2016_2017,023068,Platt College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,9500,10338
+2016_2017,023068,Platt College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,,24802,23960
+2015_2016,023068,Platt College,Proprietary,Design and Applied Arts.,Associate's Degree,,,20129
+2015_2016,030627,Platt College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
 2015_2016,030627,Platt College,Proprietary,Design and Applied Arts.,Associate's Degree,26,19286,16936
-2015_2016,030627,Platt College,Proprietary,Design and Applied Arts.,Bachelor's Degree,13,NA,27986
-2016_2017,023068,Platt College,Proprietary,Design and Applied Arts.,Associate's Degree,NA,18747,20146
-2016_2017,030627,Platt College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,030627,Platt College,Proprietary,Design and Applied Arts.,Bachelor's Degree,13,,27986
+2016_2017,023068,Platt College,Proprietary,Design and Applied Arts.,Associate's Degree,,18747,20146
+2016_2017,030627,Platt College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
 2016_2017,030627,Platt College,Proprietary,Design and Applied Arts.,Associate's Degree,30,16000,15480
-2016_2017,030627,Platt College,Proprietary,Design and Applied Arts.,Bachelor's Degree,14,NA,25741
-2015_2016,023068,Platt College,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,20296,21397
-2016_2017,023068,Platt College,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,24844,23592
+2016_2017,030627,Platt College,Proprietary,Design and Applied Arts.,Bachelor's Degree,14,,25741
+2015_2016,023068,Platt College,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,20296,21397
+2016_2017,023068,Platt College,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,24844,23592
 2015_2016,023068,Platt College,Proprietary,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,163,13000,12409
 2016_2017,023068,Platt College,Proprietary,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,223,13000,12266
-2015_2016,030627,Platt College,Proprietary,Graphic Communications.,Associate's Degree,NA,NA,21074
-2015_2016,023068,Platt College,Proprietary,Ground Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,023068,Platt College,Proprietary,Ground Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,20000,20405
-2015_2016,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,30619,29456
-2015_2016,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,49270,44697
-2015_2016,030627,Platt College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,16715,16491
+2015_2016,030627,Platt College,Proprietary,Graphic Communications.,Associate's Degree,,,21074
+2015_2016,023068,Platt College,Proprietary,Ground Transportation.,Undergraduate Certificate or Diploma,,,
+2016_2017,023068,Platt College,Proprietary,Ground Transportation.,Undergraduate Certificate or Diploma,,,
+2015_2016,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,20000,20405
+2015_2016,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,30619,29456
+2015_2016,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,49270,44697
+2015_2016,030627,Platt College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,16715,16491
 2015_2016,030627,Platt College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,49,25000,26832
-2016_2017,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,20000,20306
-2016_2017,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,32394,30899
-2016_2017,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,48023,44541
+2016_2017,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,20000,20306
+2016_2017,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,32394,30899
+2016_2017,023068,Platt College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,48023,44541
 2016_2017,030627,Platt College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,155,16718,16433
-2016_2017,030627,Platt College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,24525,24681
-2016_2017,030627,Platt College,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
+2016_2017,030627,Platt College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,24525,24681
+2016_2017,030627,Platt College,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,,,
 2015_2016,023068,Platt College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,66,12139,11522
 2016_2017,023068,Platt College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,98,12139,11339
-2015_2016,023068,Platt College,Proprietary,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,023068,Platt College,Proprietary,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,32500,27918
-2015_2016,023068,Platt College,Proprietary,Hospitality Administration/Management.,Associate's Degree,NA,NA,22545
-2015_2016,023068,Platt College,Proprietary,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,023068,Platt College,Proprietary,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2016_2017,023068,Platt College,Proprietary,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2016_2017,023068,Platt College,Proprietary,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,18501,21524
-2015_2016,023068,Platt College,Proprietary,Human Resources Management and Services.,Associate's Degree,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,"Human Services, General.",Associate's Degree,NA,NA,22714
-2016_2017,023068,Platt College,Proprietary,"Human Services, General.",Associate's Degree,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,Legal Support Services.,Associate's Degree,NA,29972,29185
+2015_2016,023068,Platt College,Proprietary,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2016_2017,023068,Platt College,Proprietary,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,32500,27918
+2015_2016,023068,Platt College,Proprietary,Hospitality Administration/Management.,Associate's Degree,,,22545
+2015_2016,023068,Platt College,Proprietary,Hospitality Administration/Management.,Bachelor's Degree,,,
+2016_2017,023068,Platt College,Proprietary,Hospitality Administration/Management.,Associate's Degree,,,
+2016_2017,023068,Platt College,Proprietary,Hospitality Administration/Management.,Bachelor's Degree,,,
+2015_2016,023068,Platt College,Proprietary,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2016_2017,023068,Platt College,Proprietary,"Human Development, Family Studies, and Related Services.",Associate's Degree,,18501,21524
+2015_2016,023068,Platt College,Proprietary,Human Resources Management and Services.,Associate's Degree,,,
+2015_2016,023068,Platt College,Proprietary,"Human Services, General.",Associate's Degree,,,22714
+2016_2017,023068,Platt College,Proprietary,"Human Services, General.",Associate's Degree,,,
+2015_2016,023068,Platt College,Proprietary,Legal Support Services.,Associate's Degree,,29972,29185
 2015_2016,030627,Platt College,Proprietary,Legal Support Services.,Associate's Degree,31,21000,20332
-2015_2016,030627,Platt College,Proprietary,Legal Support Services.,Bachelor's Degree,12,NA,25037
-2016_2017,023068,Platt College,Proprietary,Legal Support Services.,Associate's Degree,NA,29500,30117
-2016_2017,030627,Platt College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,030627,Platt College,Proprietary,Legal Support Services.,Bachelor's Degree,12,,25037
+2016_2017,023068,Platt College,Proprietary,Legal Support Services.,Associate's Degree,,29500,30117
+2016_2017,030627,Platt College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,030627,Platt College,Proprietary,Legal Support Services.,Associate's Degree,32,20000,18786
-2016_2017,030627,Platt College,Proprietary,Legal Support Services.,Bachelor's Degree,11,NA,21906
-2015_2016,023068,Platt College,Proprietary,Marketing.,Associate's Degree,NA,30646,29936
-2016_2017,023068,Platt College,Proprietary,Marketing.,Associate's Degree,NA,NA,28880
-2015_2016,023068,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,15,NA,17361
-2015_2016,023068,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,20000,18242
-2015_2016,030627,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030627,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,NA,19539
-2016_2017,023068,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030627,Platt College,Proprietary,Legal Support Services.,Bachelor's Degree,11,,21906
+2015_2016,023068,Platt College,Proprietary,Marketing.,Associate's Degree,,30646,29936
+2016_2017,023068,Platt College,Proprietary,Marketing.,Associate's Degree,,,28880
+2015_2016,023068,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,15,,17361
+2015_2016,023068,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,20000,18242
+2015_2016,030627,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2015_2016,030627,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,,19539
+2016_2017,023068,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
 2016_2017,023068,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,295,19914,18679
-2016_2017,030627,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030627,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,NA,18048
+2016_2017,030627,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2016_2017,030627,Platt College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,,18048
 2015_2016,023068,Platt College,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,536,13000,11622
 2016_2017,023068,Platt College,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,639,13000,11403
-2015_2016,030627,Platt College,Proprietary,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,023068,Platt College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,18511,20211
-2015_2016,023068,Platt College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2015_2016,030149,Platt College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
+2015_2016,030627,Platt College,Proprietary,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
+2015_2016,023068,Platt College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,18511,20211
+2015_2016,023068,Platt College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2015_2016,030149,Platt College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
 2016_2017,023068,Platt College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,103,20000,21448
-2016_2017,023068,Platt College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
+2016_2017,023068,Platt College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
 2016_2017,030149,Platt College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,43,44833,41271
-2015_2016,023068,Platt College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,9500,8690
-2015_2016,023068,Platt College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,NA,NA
-2016_2017,023068,Platt College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,9500,8721
-2016_2017,023068,Platt College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,NA,10816
-2015_2016,023068,Platt College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,16183
-2016_2017,023068,Platt College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
+2015_2016,023068,Platt College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,9500,8690
+2015_2016,023068,Platt College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,,
+2016_2017,023068,Platt College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,9500,8721
+2016_2017,023068,Platt College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,,10816
+2015_2016,023068,Platt College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,16183
+2016_2017,023068,Platt College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
 2015_2016,023068,Platt College,Proprietary,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,376,15333,14208
 2016_2017,023068,Platt College,Proprietary,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,411,15333,13897

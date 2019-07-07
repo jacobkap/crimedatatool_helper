@@ -1,103 +1,103 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,001880,Mount Mercy University,Private,Accounting and Related Services.,Bachelor's Degree,21,21988,22566
 2016_2017,001880,Mount Mercy University,Private,Accounting and Related Services.,Bachelor's Degree,23,24307,24731
-2015_2016,001880,Mount Mercy University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,"Biology, General.",Bachelor's Degree,15,NA,24365
-2016_2017,001880,Mount Mercy University,Private,"Biology, General.",Bachelor's Degree,14,NA,25008
+2015_2016,001880,Mount Mercy University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,"Biology, General.",Bachelor's Degree,15,,24365
+2016_2017,001880,Mount Mercy University,Private,"Biology, General.",Bachelor's Degree,14,,25008
 2015_2016,001880,Mount Mercy University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,43,21500,21762
 2015_2016,001880,Mount Mercy University,Private,"Business Administration, Management and Operations.",Master's Degree,32,33752,35471
 2016_2017,001880,Mount Mercy University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,45,15865,18743
 2016_2017,001880,Mount Mercy University,Private,"Business Administration, Management and Operations.",Master's Degree,34,30295,35975
-2015_2016,001880,Mount Mercy University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,001880,Mount Mercy University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,,,
 2015_2016,001880,Mount Mercy University,Private,"Business/Commerce, General.",Bachelor's Degree,32,24011,23689
 2016_2017,001880,Mount Mercy University,Private,"Business/Commerce, General.",Bachelor's Degree,48,27319,27398
-2015_2016,001880,Mount Mercy University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Computer Science.,Bachelor's Degree,13,NA,28467
-2016_2017,001880,Mount Mercy University,Private,Computer Science.,Bachelor's Degree,10,NA,22980
+2015_2016,001880,Mount Mercy University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Computer Science.,Bachelor's Degree,13,,28467
+2016_2017,001880,Mount Mercy University,Private,Computer Science.,Bachelor's Degree,10,,22980
 2015_2016,001880,Mount Mercy University,Private,Criminal Justice and Corrections.,Bachelor's Degree,30,25000,23203
-2015_2016,001880,Mount Mercy University,Private,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2015_2016,001880,Mount Mercy University,Private,Criminal Justice and Corrections.,Master's Degree,,,
 2016_2017,001880,Mount Mercy University,Private,Criminal Justice and Corrections.,Bachelor's Degree,30,23000,21791
-2016_2017,001880,Mount Mercy University,Private,Criminal Justice and Corrections.,Master's Degree,13,NA,23397
-2015_2016,001880,Mount Mercy University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,001880,Mount Mercy University,Private,Criminal Justice and Corrections.,Master's Degree,13,,23397
+2015_2016,001880,Mount Mercy University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
 2015_2016,001880,Mount Mercy University,Private,Finance and Financial Management Services.,Bachelor's Degree,24,21500,21505
 2016_2017,001880,Mount Mercy University,Private,Finance and Financial Management Services.,Bachelor's Degree,29,25000,24364
-2015_2016,001880,Mount Mercy University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
+2015_2016,001880,Mount Mercy University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,History.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,History.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
 2015_2016,001880,Mount Mercy University,Private,Human Resources Management and Services.,Bachelor's Degree,47,23495,24214
-2015_2016,001880,Mount Mercy University,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
+2015_2016,001880,Mount Mercy University,Private,Human Resources Management and Services.,Master's Degree,,,
 2016_2017,001880,Mount Mercy University,Private,Human Resources Management and Services.,Bachelor's Degree,47,22772,23419
-2016_2017,001880,Mount Mercy University,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
+2016_2017,001880,Mount Mercy University,Private,Human Resources Management and Services.,Master's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,International Business.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,International Business.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Journalism.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Journalism.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
 2015_2016,001880,Mount Mercy University,Private,Marketing.,Bachelor's Degree,31,25000,22684
 2016_2017,001880,Mount Mercy University,Private,Marketing.,Bachelor's Degree,38,18500,20998
-2015_2016,001880,Mount Mercy University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Medical Illustration and Informatics.,Master's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,12,NA,38252
+2015_2016,001880,Mount Mercy University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Medical Illustration and Informatics.,Master's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,12,,38252
 2016_2017,001880,Mount Mercy University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,29,41000,36792
-2015_2016,001880,Mount Mercy University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Natural Resources Management and Policy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Natural Resources Management and Policy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,"Psychology, General.",Bachelor's Degree,19,NA,25099
+2015_2016,001880,Mount Mercy University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Music.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Music.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Natural Resources Management and Policy.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Natural Resources Management and Policy.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,"Psychology, General.",Bachelor's Degree,19,,25099
 2016_2017,001880,Mount Mercy University,Private,"Psychology, General.",Bachelor's Degree,26,24375,25540
-2015_2016,001880,Mount Mercy University,Private,Public Health.,Master's Degree,10,NA,23062
-2016_2017,001880,Mount Mercy University,Private,Public Health.,Master's Degree,17,NA,23879
-2015_2016,001880,Mount Mercy University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
+2015_2016,001880,Mount Mercy University,Private,Public Health.,Master's Degree,10,,23062
+2016_2017,001880,Mount Mercy University,Private,Public Health.,Master's Degree,17,,23879
+2015_2016,001880,Mount Mercy University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
 2015_2016,001880,Mount Mercy University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,143,22500,22681
-2015_2016,001880,Mount Mercy University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,18,NA,24875
+2015_2016,001880,Mount Mercy University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,18,,24875
 2016_2017,001880,Mount Mercy University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,172,23500,22442
 2016_2017,001880,Mount Mercy University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,22,22103,22406
-2015_2016,001880,Mount Mercy University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,001880,Mount Mercy University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
 2015_2016,001880,Mount Mercy University,Private,Social Work.,Bachelor's Degree,27,23000,22612
 2016_2017,001880,Mount Mercy University,Private,Social Work.,Bachelor's Degree,30,22750,22156
-2015_2016,001880,Mount Mercy University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2015_2016,001880,Mount Mercy University,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,Special Education and Teaching.,Master's Degree,,,
 2015_2016,001880,Mount Mercy University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,38,24978,25753
 2016_2017,001880,Mount Mercy University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,38,25315,25510
-2015_2016,001880,Mount Mercy University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,001880,Mount Mercy University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001880,Mount Mercy University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,001880,Mount Mercy University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,001880,Mount Mercy University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001880,Mount Mercy University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,

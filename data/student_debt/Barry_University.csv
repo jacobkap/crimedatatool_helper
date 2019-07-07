@@ -1,8 +1,8 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001466,Barry University,Private,Accounting and Related Services.,Bachelor's Degree,17,NA,29728
-2015_2016,001466,Barry University,Private,Accounting and Related Services.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,24703
-2016_2017,001466,Barry University,Private,Accounting and Related Services.,Master's Degree,NA,NA,NA
+2015_2016,001466,Barry University,Private,Accounting and Related Services.,Bachelor's Degree,17,,29728
+2015_2016,001466,Barry University,Private,Accounting and Related Services.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Accounting and Related Services.,Bachelor's Degree,,,24703
+2016_2017,001466,Barry University,Private,Accounting and Related Services.,Master's Degree,,,
 2015_2016,001466,Barry University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,26,29125,29594
 2015_2016,001466,Barry University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,171,145251,130223
 2016_2017,001466,Barry University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,43,31250,30743
@@ -10,185 +10,185 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,001466,Barry University,Private,"Biological and Biomedical Sciences, Other.",Master's Degree,109,51250,59346
 2016_2017,001466,Barry University,Private,"Biological and Biomedical Sciences, Other.",Master's Degree,180,56500,62100
 2015_2016,001466,Barry University,Private,"Biology, General.",Bachelor's Degree,68,33750,34356
-2015_2016,001466,Barry University,Private,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,001466,Barry University,Private,"Biology, General.",Master's Degree,,,
 2016_2017,001466,Barry University,Private,"Biology, General.",Bachelor's Degree,100,31250,33286
-2016_2017,001466,Barry University,Private,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Biotechnology.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Biotechnology.,Master's Degree,NA,NA,NA
+2016_2017,001466,Barry University,Private,"Biology, General.",Master's Degree,,,
+2015_2016,001466,Barry University,Private,Biotechnology.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Biotechnology.,Master's Degree,,,
 2015_2016,001466,Barry University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,182,32843,33835
 2015_2016,001466,Barry University,Private,"Business Administration, Management and Operations.",Master's Degree,101,51250,48685
 2016_2017,001466,Barry University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,177,31000,31653
 2016_2017,001466,Barry University,Private,"Business Administration, Management and Operations.",Master's Degree,80,47430,47131
-2015_2016,001466,Barry University,Private,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
+2015_2016,001466,Barry University,Private,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,,,
+2015_2016,001466,Barry University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Chemistry.,Bachelor's Degree,,,
 2015_2016,001466,Barry University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,63,92250,92672
-2015_2016,001466,Barry University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001466,Barry University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,,
+2015_2016,001466,Barry University,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,
 2016_2017,001466,Barry University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,60,82495,88165
-2016_2017,001466,Barry University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001466,Barry University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,001466,Barry University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,,
+2016_2017,001466,Barry University,Private,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,
+2015_2016,001466,Barry University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Communication and Media Studies.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Communication and Media Studies.,Master's Degree,,,
 2015_2016,001466,Barry University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,73,35000,35826
-2015_2016,001466,Barry University,Private,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001466,Barry University,Private,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,,,
 2016_2017,001466,Barry University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,58,34707,35663
-2016_2017,001466,Barry University,Private,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001466,Barry University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
+2016_2017,001466,Barry University,Private,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,,,
+2015_2016,001466,Barry University,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Computer Science.,Bachelor's Degree,,,
 2015_2016,001466,Barry University,Private,Criminology.,Bachelor's Degree,27,27000,27719
 2016_2017,001466,Barry University,Private,Criminology.,Bachelor's Degree,30,27500,28112
-2015_2016,001466,Barry University,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Education, Other.",Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Education, Other.",Doctoral Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Education, Other.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Education, Other.",Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Education, Other.",Doctoral Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Education, Other.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001466,Barry University,Private,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,001466,Barry University,Private,Curriculum and Instruction.,Doctoral Degree,,,
+2016_2017,001466,Barry University,Private,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Curriculum and Instruction.,Doctoral Degree,,,
+2015_2016,001466,Barry University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,"Education, General.",Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,"Education, General.",Master's Degree,,,
+2016_2017,001466,Barry University,Private,"Education, General.",Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,"Education, General.",Master's Degree,,,
+2015_2016,001466,Barry University,Private,"Education, Other.",Master's Degree,,,
+2015_2016,001466,Barry University,Private,"Education, Other.",Doctoral Degree,,,
+2015_2016,001466,Barry University,Private,"Education, Other.",Graduate/Professional Certificate,,,
+2016_2017,001466,Barry University,Private,"Education, Other.",Master's Degree,,,
+2016_2017,001466,Barry University,Private,"Education, Other.",Doctoral Degree,,,
+2016_2017,001466,Barry University,Private,"Education, Other.",Graduate/Professional Certificate,,,
 2015_2016,001466,Barry University,Private,Educational Administration and Supervision.,Master's Degree,94,61500,56124
-2015_2016,001466,Barry University,Private,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001466,Barry University,Private,Educational Administration and Supervision.,Doctoral Degree,,,
+2015_2016,001466,Barry University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
 2016_2017,001466,Barry University,Private,Educational Administration and Supervision.,Master's Degree,36,58980,56260
-2016_2017,001466,Barry University,Private,Educational Administration and Supervision.,Doctoral Degree,12,NA,119803
-2016_2017,001466,Barry University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001466,Barry University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Film/Video and Photographic Arts.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,31035
-2016_2017,001466,Barry University,Private,Film/Video and Photographic Arts.,Master's Degree,NA,NA,NA
+2016_2017,001466,Barry University,Private,Educational Administration and Supervision.,Doctoral Degree,12,,119803
+2016_2017,001466,Barry University,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2015_2016,001466,Barry University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Film/Video and Photographic Arts.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,31035
+2016_2017,001466,Barry University,Private,Film/Video and Photographic Arts.,Master's Degree,,,
 2015_2016,001466,Barry University,Private,Finance and Financial Management Services.,Bachelor's Degree,22,30125,27903
 2016_2017,001466,Barry University,Private,Finance and Financial Management Services.,Bachelor's Degree,27,29750,29088
-2015_2016,001466,Barry University,Private,Fine and Studio Arts.,Bachelor's Degree,10,NA,31415
-2016_2017,001466,Barry University,Private,Fine and Studio Arts.,Bachelor's Degree,14,NA,29761
-2015_2016,001466,Barry University,Private,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,16,NA,26845
+2015_2016,001466,Barry University,Private,Fine and Studio Arts.,Bachelor's Degree,10,,31415
+2016_2017,001466,Barry University,Private,Fine and Studio Arts.,Bachelor's Degree,14,,29761
+2015_2016,001466,Barry University,Private,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,16,,26845
 2016_2017,001466,Barry University,Private,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,22,27000,29379
 2015_2016,001466,Barry University,Private,Health and Medical Administrative Services.,Bachelor's Degree,54,29255,30491
-2015_2016,001466,Barry University,Private,Health and Medical Administrative Services.,Master's Degree,12,NA,96239
+2015_2016,001466,Barry University,Private,Health and Medical Administrative Services.,Master's Degree,12,,96239
 2016_2017,001466,Barry University,Private,Health and Medical Administrative Services.,Bachelor's Degree,34,30625,29279
-2016_2017,001466,Barry University,Private,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
+2016_2017,001466,Barry University,Private,Health and Medical Administrative Services.,Master's Degree,,,
 2015_2016,001466,Barry University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,22,35000,31603
 2015_2016,001466,Barry University,Private,Health and Physical Education/Fitness.,Master's Degree,31,41000,46462
 2016_2017,001466,Barry University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,34,32125,29980
 2016_2017,001466,Barry University,Private,Health and Physical Education/Fitness.,Master's Degree,39,41000,40118
-2015_2016,001466,Barry University,Private,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,87403
-2016_2017,001466,Barry University,Private,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,85150
-2015_2016,001466,Barry University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Homeland Security.,Bachelor's Degree,15,NA,26128
+2015_2016,001466,Barry University,Private,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,,,87403
+2016_2017,001466,Barry University,Private,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,,,85150
+2015_2016,001466,Barry University,Private,History.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,History.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Homeland Security.,Bachelor's Degree,15,,26128
 2016_2017,001466,Barry University,Private,Homeland Security.,Bachelor's Degree,21,31149,30365
-2015_2016,001466,Barry University,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Human Resources Management and Services.,Doctoral Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Human Resources Management and Services.,Master's Degree,13,NA,47067
-2016_2017,001466,Barry University,Private,Human Resources Management and Services.,Doctoral Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Information Science/Studies.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Information Science/Studies.,Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,International Business.,Bachelor's Degree,NA,NA,NA
+2015_2016,001466,Barry University,Private,Human Resources Management and Services.,Master's Degree,,,
+2015_2016,001466,Barry University,Private,Human Resources Management and Services.,Doctoral Degree,,,
+2016_2017,001466,Barry University,Private,Human Resources Management and Services.,Master's Degree,13,,47067
+2016_2017,001466,Barry University,Private,Human Resources Management and Services.,Doctoral Degree,,,
+2015_2016,001466,Barry University,Private,Information Science/Studies.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Information Science/Studies.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Information Science/Studies.,Master's Degree,,,
+2015_2016,001466,Barry University,Private,International Business.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,International Business.,Bachelor's Degree,,,
 2015_2016,001466,Barry University,Private,Law.,First Professional Degree,230,169875,158762
 2016_2017,001466,Barry University,Private,Law.,First Professional Degree,365,168309,156543
-2015_2016,001466,Barry University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Legal Professions and Studies, Other.",Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Leisure and Recreational Activities.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Leisure and Recreational Activities.,Bachelor's Degree,NA,NA,NA
+2015_2016,001466,Barry University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,"Legal Professions and Studies, Other.",Master's Degree,,,
+2015_2016,001466,Barry University,Private,Leisure and Recreational Activities.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Leisure and Recreational Activities.,Bachelor's Degree,,,
 2015_2016,001466,Barry University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,57,35500,37301
-2015_2016,001466,Barry University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
+2015_2016,001466,Barry University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
 2016_2017,001466,Barry University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,53,35250,35847
-2016_2017,001466,Barry University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,10,NA,32363
-2016_2017,001466,Barry University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,31952
-2015_2016,001466,Barry University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Physical Sciences, Other.",Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Physical Sciences, Other.",Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,12,NA,29406
-2016_2017,001466,Barry University,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,13,NA,34029
+2016_2017,001466,Barry University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2015_2016,001466,Barry University,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Music.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Music.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,10,,32363
+2016_2017,001466,Barry University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,31952
+2015_2016,001466,Barry University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,,,
+2015_2016,001466,Barry University,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,"Physical Sciences, Other.",Master's Degree,,,
+2016_2017,001466,Barry University,Private,"Physical Sciences, Other.",Master's Degree,,,
+2015_2016,001466,Barry University,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,12,,29406
+2016_2017,001466,Barry University,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,13,,34029
 2015_2016,001466,Barry University,Private,Podiatric Medicine/Podiatry.,First Professional Degree,99,245343,228470
 2016_2017,001466,Barry University,Private,Podiatric Medicine/Podiatry.,First Professional Degree,92,254525,237140
-2015_2016,001466,Barry University,Private,Political Science and Government.,Bachelor's Degree,10,NA,27924
-2016_2017,001466,Barry University,Private,Political Science and Government.,Bachelor's Degree,11,NA,24687
-2015_2016,001466,Barry University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Master's Degree,NA,NA,NA
+2015_2016,001466,Barry University,Private,Political Science and Government.,Bachelor's Degree,10,,27924
+2016_2017,001466,Barry University,Private,Political Science and Government.,Bachelor's Degree,11,,24687
+2015_2016,001466,Barry University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Master's Degree,,,
+2016_2017,001466,Barry University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Master's Degree,,,
 2015_2016,001466,Barry University,Private,"Psychology, General.",Bachelor's Degree,35,27750,29327
-2015_2016,001466,Barry University,Private,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,001466,Barry University,Private,"Psychology, General.",Master's Degree,,,
 2016_2017,001466,Barry University,Private,"Psychology, General.",Bachelor's Degree,56,27750,29389
-2016_2017,001466,Barry University,Private,"Psychology, General.",Master's Degree,NA,NA,NA
+2016_2017,001466,Barry University,Private,"Psychology, General.",Master's Degree,,,
 2015_2016,001466,Barry University,Private,Public Administration.,Bachelor's Degree,94,29449,29430
 2015_2016,001466,Barry University,Private,Public Administration.,Master's Degree,160,41000,42044
 2016_2017,001466,Barry University,Private,Public Administration.,Bachelor's Degree,70,32810,31491
 2016_2017,001466,Barry University,Private,Public Administration.,Master's Degree,118,41000,42286
-2015_2016,001466,Barry University,Private,Public Health.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Public Health.,Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,13,NA,30849
-2015_2016,001466,Barry University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,11,NA,27467
-2016_2017,001466,Barry University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,16,NA,28781
+2015_2016,001466,Barry University,Private,Public Health.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Public Health.,Master's Degree,,,
+2015_2016,001466,Barry University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,13,,30849
+2015_2016,001466,Barry University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,,,
+2016_2017,001466,Barry University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,11,,27467
+2016_2017,001466,Barry University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,,,
+2015_2016,001466,Barry University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,16,,28781
 2016_2017,001466,Barry University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,23,27500,28234
 2015_2016,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,182,29375,27624
 2015_2016,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,269,82000,82485
 2015_2016,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,23,104568,93788
-2015_2016,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2015_2016,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
 2016_2017,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,196,26625,25847
 2016_2017,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,259,82000,82891
-2016_2017,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,89624,92052
-2016_2017,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2016_2017,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,89624,92052
+2016_2017,001466,Barry University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
 2015_2016,001466,Barry University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,68,84546,94015
-2016_2017,001466,Barry University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,86000,97481
-2015_2016,001466,Barry University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Social Work.,Bachelor's Degree,NA,NA,NA
+2016_2017,001466,Barry University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,,86000,97481
+2015_2016,001466,Barry University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Social Work.,Bachelor's Degree,,,
 2015_2016,001466,Barry University,Private,Social Work.,Master's Degree,355,46929,52259
-2015_2016,001466,Barry University,Private,Social Work.,Doctoral Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Social Work.,Bachelor's Degree,10,NA,29515
+2015_2016,001466,Barry University,Private,Social Work.,Doctoral Degree,,,
+2016_2017,001466,Barry University,Private,Social Work.,Bachelor's Degree,10,,29515
 2016_2017,001466,Barry University,Private,Social Work.,Master's Degree,298,43832,51632
-2016_2017,001466,Barry University,Private,Social Work.,Doctoral Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2016_2017,001466,Barry University,Private,Social Work.,Doctoral Degree,,,
+2015_2016,001466,Barry University,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,,,
+2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,,,
+2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
 2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,53,51250,46732
-2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,18,NA,31075
-2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,51250,60072
-2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001466,Barry University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2015_2016,001466,Barry University,Private,Theological and Ministerial Studies.,First Professional Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2016_2017,001466,Barry University,Private,Theological and Ministerial Studies.,First Professional Degree,NA,NA,NA
+2015_2016,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,,,
+2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,18,,31075
+2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,51250,60072
+2016_2017,001466,Barry University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,,,
+2015_2016,001466,Barry University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2015_2016,001466,Barry University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2015_2016,001466,Barry University,Private,Theological and Ministerial Studies.,First Professional Degree,,,
+2016_2017,001466,Barry University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,001466,Barry University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2016_2017,001466,Barry University,Private,Theological and Ministerial Studies.,First Professional Degree,,,

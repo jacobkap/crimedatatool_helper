@@ -1,5 +1,5 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,030695,Sage College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,26172,28765
-2015_2016,030695,Sage College,Proprietary,Legal Support Services.,Associate's Degree,NA,27611,27437
-2016_2017,030695,Sage College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,31554
-2016_2017,030695,Sage College,Proprietary,Legal Support Services.,Associate's Degree,NA,31753,31424
+2015_2016,030695,Sage College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,26172,28765
+2015_2016,030695,Sage College,Proprietary,Legal Support Services.,Associate's Degree,,27611,27437
+2016_2017,030695,Sage College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,31554
+2016_2017,030695,Sage College,Proprietary,Legal Support Services.,Associate's Degree,,31753,31424

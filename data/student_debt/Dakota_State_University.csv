@@ -1,96 +1,96 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003463,Dakota State University,Public,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,003463,Dakota State University,Public,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,003463,Dakota State University,Public,Accounting and Related Services.,Bachelor's Degree,,,
 2015_2016,003463,Dakota State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,28,18375,18204
-2015_2016,003463,Dakota State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,17625,18148
+2015_2016,003463,Dakota State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,17625,18148
 2016_2017,003463,Dakota State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,22,19350,19800
-2016_2017,003463,Dakota State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,20500,NA
-2015_2016,003463,Dakota State University,Public,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,NA,NA,18868
-2016_2017,003463,Dakota State University,Public,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,NA,NA,18330
-2015_2016,003463,Dakota State University,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,003463,Dakota State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,20500,
+2015_2016,003463,Dakota State University,Public,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,,,18868
+2016_2017,003463,Dakota State University,Public,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,,,18330
+2015_2016,003463,Dakota State University,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,003463,Dakota State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,21,25000,27855
-2015_2016,003463,Dakota State University,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,003463,Dakota State University,Public,"Business Administration, Management and Operations.",Master's Degree,,,
+2016_2017,003463,Dakota State University,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,003463,Dakota State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,23,22750,27007
-2016_2017,003463,Dakota State University,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003463,Dakota State University,Public,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,003463,Dakota State University,Public,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,003463,Dakota State University,Public,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
 2015_2016,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,22,27876,25609
-2015_2016,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Master's Degree,,,
+2015_2016,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Doctoral Degree,,,
+2016_2017,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
 2016_2017,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,42,24076,22428
-2016_2017,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Computer Programming.,Associate's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Master's Degree,,,
+2016_2017,003463,Dakota State University,Public,"Computer and Information Sciences, General.",Doctoral Degree,,,
+2015_2016,003463,Dakota State University,Public,Computer Programming.,Undergraduate Certificate or Diploma,,,
+2015_2016,003463,Dakota State University,Public,Computer Programming.,Associate's Degree,,,
+2015_2016,003463,Dakota State University,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
 2015_2016,003463,Dakota State University,Public,Computer Software and Media Applications.,Bachelor's Degree,21,26750,23814
-2016_2017,003463,Dakota State University,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
+2016_2017,003463,Dakota State University,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,003463,Dakota State University,Public,Computer Software and Media Applications.,Associate's Degree,,,
 2016_2017,003463,Dakota State University,Public,Computer Software and Media Applications.,Bachelor's Degree,25,25000,24425
-2015_2016,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Associate's Degree,12,NA,23467
+2015_2016,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Associate's Degree,12,,23467
 2015_2016,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,61,23000,23973
-2015_2016,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Master's Degree,11,NA,14625
-2016_2017,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Associate's Degree,16,NA,24815
+2015_2016,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Master's Degree,11,,14625
+2016_2017,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Associate's Degree,16,,24815
 2016_2017,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,75,26000,25827
-2016_2017,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Master's Degree,11,NA,13656
-2015_2016,003463,Dakota State University,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Design and Applied Arts.,Bachelor's Degree,15,NA,30281
-2016_2017,003463,Dakota State University,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,"English Language and Literature/Letters, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,"English Language and Literature/Letters, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,"English Language and Literature/Letters, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,"English Language and Literature/Letters, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Health and Medical Administrative Services.,Associate's Degree,14,NA,24132
-2015_2016,003463,Dakota State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,17,NA,27835
-2015_2016,003463,Dakota State University,Public,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003463,Dakota State University,Public,Computer/Information Technology Administration and Management.,Master's Degree,11,,13656
+2015_2016,003463,Dakota State University,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,003463,Dakota State University,Public,Design and Applied Arts.,Bachelor's Degree,15,,30281
+2016_2017,003463,Dakota State University,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,003463,Dakota State University,Public,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,003463,Dakota State University,Public,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,003463,Dakota State University,Public,Educational/Instructional Media Design.,Master's Degree,,,
+2015_2016,003463,Dakota State University,Public,"English Language and Literature/Letters, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,003463,Dakota State University,Public,"English Language and Literature/Letters, Other.",Bachelor's Degree,,,
+2016_2017,003463,Dakota State University,Public,"English Language and Literature/Letters, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,003463,Dakota State University,Public,"English Language and Literature/Letters, Other.",Bachelor's Degree,,,
+2015_2016,003463,Dakota State University,Public,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,003463,Dakota State University,Public,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,003463,Dakota State University,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003463,Dakota State University,Public,Health and Medical Administrative Services.,Associate's Degree,14,,24132
+2015_2016,003463,Dakota State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,17,,27835
+2015_2016,003463,Dakota State University,Public,Health and Medical Administrative Services.,Master's Degree,,,
+2016_2017,003463,Dakota State University,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,003463,Dakota State University,Public,Health and Medical Administrative Services.,Associate's Degree,21,20000,23777
-2016_2017,003463,Dakota State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,31561,33257
-2016_2017,003463,Dakota State University,Public,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,17,NA,18369
+2016_2017,003463,Dakota State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,,31561,33257
+2016_2017,003463,Dakota State University,Public,Health and Medical Administrative Services.,Master's Degree,,,
+2015_2016,003463,Dakota State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,17,,18369
 2016_2017,003463,Dakota State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,26,20414,19453
-2015_2016,003463,Dakota State University,Public,Information Science/Studies.,Bachelor's Degree,17,NA,30866
-2015_2016,003463,Dakota State University,Public,Information Science/Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Information Science/Studies.,Master's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Information Science/Studies.,Doctoral Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Information Science/Studies.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Associate's Degree,NA,NA,NA
+2015_2016,003463,Dakota State University,Public,Information Science/Studies.,Bachelor's Degree,17,,30866
+2015_2016,003463,Dakota State University,Public,Information Science/Studies.,Post-baccalaureate Certificate,,,
+2015_2016,003463,Dakota State University,Public,Information Science/Studies.,Master's Degree,,,
+2015_2016,003463,Dakota State University,Public,Information Science/Studies.,Doctoral Degree,,,
+2015_2016,003463,Dakota State University,Public,Information Science/Studies.,Graduate/Professional Certificate,,,
+2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Associate's Degree,,,
 2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Bachelor's Degree,26,24500,26631
-2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Master's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Doctoral Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,11,NA,27685
-2016_2017,003463,Dakota State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,13,NA,31192
-2016_2017,003463,Dakota State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Marketing.,Bachelor's Degree,NA,NA,19092
-2015_2016,003463,Dakota State University,Public,Medical Illustration and Informatics.,Master's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Medical Illustration and Informatics.,Master's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003463,Dakota State University,Public,Special Education and Teaching.,Bachelor's Degree,NA,27214,25282
+2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Master's Degree,,,
+2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Doctoral Degree,,,
+2016_2017,003463,Dakota State University,Public,Information Science/Studies.,Graduate/Professional Certificate,,,
+2015_2016,003463,Dakota State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,003463,Dakota State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,11,,27685
+2016_2017,003463,Dakota State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,003463,Dakota State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,13,,31192
+2016_2017,003463,Dakota State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Post-baccalaureate Certificate,,,
+2015_2016,003463,Dakota State University,Public,Marketing.,Bachelor's Degree,,,
+2016_2017,003463,Dakota State University,Public,Marketing.,Bachelor's Degree,,,19092
+2015_2016,003463,Dakota State University,Public,Medical Illustration and Informatics.,Master's Degree,,,
+2016_2017,003463,Dakota State University,Public,Medical Illustration and Informatics.,Master's Degree,,,
+2015_2016,003463,Dakota State University,Public,Physical Sciences.,Bachelor's Degree,,,
+2016_2017,003463,Dakota State University,Public,Physical Sciences.,Bachelor's Degree,,,
+2015_2016,003463,Dakota State University,Public,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,003463,Dakota State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,003463,Dakota State University,Public,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,003463,Dakota State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,003463,Dakota State University,Public,Special Education and Teaching.,Bachelor's Degree,,27214,25282
 2016_2017,003463,Dakota State University,Public,Special Education and Teaching.,Bachelor's Degree,35,27214,27472
-2015_2016,003463,Dakota State University,Public,Statistics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003463,Dakota State University,Public,Statistics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003463,Dakota State University,Public,Statistics.,Bachelor's Degree,,,
+2016_2017,003463,Dakota State University,Public,Statistics.,Bachelor's Degree,,,
 2015_2016,003463,Dakota State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,35,21000,21381
 2016_2017,003463,Dakota State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,33,22250,22175
-2015_2016,003463,Dakota State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,25000,23888
-2016_2017,003463,Dakota State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,24624,24645
+2015_2016,003463,Dakota State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,25000,23888
+2016_2017,003463,Dakota State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,24624,24645

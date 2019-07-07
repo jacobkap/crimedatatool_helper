@@ -1,11 +1,11 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,041930,Rio Grande Valley College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,7184,6607
+2015_2016,041930,Rio Grande Valley College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,7184,6607
 2016_2017,041930,Rio Grande Valley College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,59,7811,7172
-2015_2016,041930,Rio Grande Valley College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041930,Rio Grande Valley College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041930,Rio Grande Valley College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,7009
-2016_2017,041930,Rio Grande Valley College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,8722
-2015_2016,041930,Rio Grande Valley College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041930,Rio Grande Valley College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041930,Rio Grande Valley College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,12756,13696
-2016_2017,041930,Rio Grande Valley College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,13698,14359
+2015_2016,041930,Rio Grande Valley College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,041930,Rio Grande Valley College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,041930,Rio Grande Valley College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,7009
+2016_2017,041930,Rio Grande Valley College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,8722
+2015_2016,041930,Rio Grande Valley College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2016_2017,041930,Rio Grande Valley College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2015_2016,041930,Rio Grande Valley College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,12756,13696
+2016_2017,041930,Rio Grande Valley College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,13698,14359

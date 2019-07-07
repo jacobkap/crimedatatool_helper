@@ -1,65 +1,65 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,007893,Flagler College,Private,Accounting and Related Services.,Bachelor's Degree,46,19125,18809
 2016_2017,007893,Flagler College,Private,Accounting and Related Services.,Bachelor's Degree,64,20958,20665
-2015_2016,007893,Flagler College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,007893,Flagler College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,007893,Flagler College,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,007893,Flagler College,Private,Area Studies.,Bachelor's Degree,,,
 2015_2016,007893,Flagler College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,142,25015,22966
 2016_2017,007893,Flagler College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,179,21000,21576
-2015_2016,007893,Flagler College,Private,Communication and Media Studies.,Bachelor's Degree,11,NA,27931
-2016_2017,007893,Flagler College,Private,Communication and Media Studies.,Bachelor's Degree,17,NA,28420
-2015_2016,007893,Flagler College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,25000,23339
-2016_2017,007893,Flagler College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,23625,22386
-2015_2016,007893,Flagler College,Private,Criminology.,Bachelor's Degree,17,NA,26243
+2015_2016,007893,Flagler College,Private,Communication and Media Studies.,Bachelor's Degree,11,,27931
+2016_2017,007893,Flagler College,Private,Communication and Media Studies.,Bachelor's Degree,17,,28420
+2015_2016,007893,Flagler College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,25000,23339
+2016_2017,007893,Flagler College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,23625,22386
+2015_2016,007893,Flagler College,Private,Criminology.,Bachelor's Degree,17,,26243
 2016_2017,007893,Flagler College,Private,Criminology.,Bachelor's Degree,36,25508,24777
 2015_2016,007893,Flagler College,Private,Design and Applied Arts.,Bachelor's Degree,48,24500,24330
 2016_2017,007893,Flagler College,Private,Design and Applied Arts.,Bachelor's Degree,54,25500,23990
-2015_2016,007893,Flagler College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,12,NA,31142
-2016_2017,007893,Flagler College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,27875,28406
-2015_2016,007893,Flagler College,Private,Economics.,Bachelor's Degree,11,NA,26865
-2016_2017,007893,Flagler College,Private,Economics.,Bachelor's Degree,12,NA,26244
-2015_2016,007893,Flagler College,Private,"Education, General.",Bachelor's Degree,NA,21815,22059
-2016_2017,007893,Flagler College,Private,"Education, General.",Bachelor's Degree,NA,NA,22003
+2015_2016,007893,Flagler College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,12,,31142
+2016_2017,007893,Flagler College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,27875,28406
+2015_2016,007893,Flagler College,Private,Economics.,Bachelor's Degree,11,,26865
+2016_2017,007893,Flagler College,Private,Economics.,Bachelor's Degree,12,,26244
+2015_2016,007893,Flagler College,Private,"Education, General.",Bachelor's Degree,,21815,22059
+2016_2017,007893,Flagler College,Private,"Education, General.",Bachelor's Degree,,,22003
 2015_2016,007893,Flagler College,Private,"English Language and Literature, General.",Bachelor's Degree,35,27000,26040
 2016_2017,007893,Flagler College,Private,"English Language and Literature, General.",Bachelor's Degree,34,26287,25883
-2016_2017,007893,Flagler College,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,007893,Flagler College,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
 2015_2016,007893,Flagler College,Private,Fine and Studio Arts.,Bachelor's Degree,20,24375,24749
 2016_2017,007893,Flagler College,Private,Fine and Studio Arts.,Bachelor's Degree,32,26503,25107
 2015_2016,007893,Flagler College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,32,27000,26177
 2016_2017,007893,Flagler College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,40,23875,23687
-2015_2016,007893,Flagler College,Private,History.,Bachelor's Degree,19,NA,27207
+2015_2016,007893,Flagler College,Private,History.,Bachelor's Degree,19,,27207
 2016_2017,007893,Flagler College,Private,History.,Bachelor's Degree,24,24959,22967
-2015_2016,007893,Flagler College,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,007893,Flagler College,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2015_2016,007893,Flagler College,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,007893,Flagler College,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,007893,Flagler College,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2016_2017,007893,Flagler College,Private,Journalism.,Bachelor's Degree,15,NA,24813
-2015_2016,007893,Flagler College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,17,NA,18071
+2015_2016,007893,Flagler College,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
+2016_2017,007893,Flagler College,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
+2015_2016,007893,Flagler College,Private,International/Global Studies.,Bachelor's Degree,,,
+2016_2017,007893,Flagler College,Private,International/Global Studies.,Bachelor's Degree,,,
+2015_2016,007893,Flagler College,Private,Journalism.,Bachelor's Degree,,,
+2016_2017,007893,Flagler College,Private,Journalism.,Bachelor's Degree,15,,24813
+2015_2016,007893,Flagler College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,17,,18071
 2016_2017,007893,Flagler College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,26,21250,20522
-2015_2016,007893,Flagler College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,12,NA,28082
+2015_2016,007893,Flagler College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,12,,28082
 2016_2017,007893,Flagler College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,23,27000,25299
-2015_2016,007893,Flagler College,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,007893,Flagler College,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,007893,Flagler College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,007893,Flagler College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,007893,Flagler College,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,,,
+2016_2017,007893,Flagler College,Private,"Philosophy and Religious Studies, General.",Bachelor's Degree,,,
+2015_2016,007893,Flagler College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2016_2017,007893,Flagler College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
 2015_2016,007893,Flagler College,Private,Political Science and Government.,Bachelor's Degree,27,23250,23406
 2016_2017,007893,Flagler College,Private,Political Science and Government.,Bachelor's Degree,22,25250,26720
 2015_2016,007893,Flagler College,Private,"Psychology, General.",Bachelor's Degree,81,23777,23281
 2016_2017,007893,Flagler College,Private,"Psychology, General.",Bachelor's Degree,95,24250,23905
 2015_2016,007893,Flagler College,Private,Public Administration.,Bachelor's Degree,25,12821,16070
 2016_2017,007893,Flagler College,Private,Public Administration.,Bachelor's Degree,38,13285,15442
-2015_2016,007893,Flagler College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
+2015_2016,007893,Flagler College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
 2016_2017,007893,Flagler College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,41,19500,20140
-2015_2016,007893,Flagler College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,007893,Flagler College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,007893,Flagler College,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,22693
-2016_2017,007893,Flagler College,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,23251
+2015_2016,007893,Flagler College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,007893,Flagler College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,007893,Flagler College,Private,"Social Sciences, General.",Bachelor's Degree,,,22693
+2016_2017,007893,Flagler College,Private,"Social Sciences, General.",Bachelor's Degree,,,23251
 2015_2016,007893,Flagler College,Private,Sociology.,Bachelor's Degree,21,27000,25978
 2016_2017,007893,Flagler College,Private,Sociology.,Bachelor's Degree,21,27000,25930
-2015_2016,007893,Flagler College,Private,Special Education and Teaching.,Bachelor's Degree,10,NA,26927
-2016_2017,007893,Flagler College,Private,Special Education and Teaching.,Bachelor's Degree,15,NA,26901
-2016_2017,007893,Flagler College,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2015_2016,007893,Flagler College,Private,Special Education and Teaching.,Bachelor's Degree,10,,26927
+2016_2017,007893,Flagler College,Private,Special Education and Teaching.,Bachelor's Degree,15,,26901
+2016_2017,007893,Flagler College,Private,Special Education and Teaching.,Master's Degree,,,
 2015_2016,007893,Flagler College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,42,23662,24169
 2016_2017,007893,Flagler College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,34,23627,23601
-2015_2016,007893,Flagler College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,007893,Flagler College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,007893,Flagler College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,007893,Flagler College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

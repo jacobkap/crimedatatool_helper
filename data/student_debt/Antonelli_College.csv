@@ -1,56 +1,56 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,012891,Antonelli College,Proprietary,Accounting and Related Services.,Associate's Degree,11,NA,25415
-2016_2017,012891,Antonelli College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012891,Antonelli College,Proprietary,Accounting and Related Services.,Associate's Degree,11,,25415
+2016_2017,012891,Antonelli College,Proprietary,Accounting and Related Services.,Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,012891,Antonelli College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,130,20250,21686
-2016_2017,012891,Antonelli College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,14250,15147
+2016_2017,012891,Antonelli College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,14250,15147
 2016_2017,012891,Antonelli College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,103,20000,22486
-2015_2016,012891,Antonelli College,Proprietary,Basic Skills and Developmental/Remedial Education.,Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,22625,25493
-2016_2017,012891,Antonelli College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,012891,Antonelli College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,012891,Antonelli College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,012891,Antonelli College,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,24935,29474
-2016_2017,012891,Antonelli College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
+2015_2016,012891,Antonelli College,Proprietary,Basic Skills and Developmental/Remedial Education.,Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,22625,25493
+2016_2017,012891,Antonelli College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,012891,Antonelli College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,012891,Antonelli College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,,,
+2016_2017,012891,Antonelli College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,012891,Antonelli College,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,,24935,29474
+2016_2017,012891,Antonelli College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
 2015_2016,012891,Antonelli College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,50,13986,14557
 2015_2016,012891,Antonelli College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,36,22750,22210
-2016_2017,012891,Antonelli College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,14166,14756
+2016_2017,012891,Antonelli College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,14166,14756
 2016_2017,012891,Antonelli College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,26,19625,19752
-2015_2016,012891,Antonelli College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012891,Antonelli College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
 2015_2016,012891,Antonelli College,Proprietary,Design and Applied Arts.,Associate's Degree,22,21673,20974
-2016_2017,012891,Antonelli College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012891,Antonelli College,Proprietary,Design and Applied Arts.,Associate's Degree,NA,NA,16823
-2015_2016,012891,Antonelli College,Proprietary,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,NA,20000,20504
-2016_2017,012891,Antonelli College,Proprietary,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012891,Antonelli College,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,NA,20000,21171
-2015_2016,012891,Antonelli College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,NA,NA,19391
-2016_2017,012891,Antonelli College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,22625,23429
-2016_2017,012891,Antonelli College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,14604,16293
+2016_2017,012891,Antonelli College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,012891,Antonelli College,Proprietary,Design and Applied Arts.,Associate's Degree,,,16823
+2015_2016,012891,Antonelli College,Proprietary,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,012891,Antonelli College,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,,20000,20504
+2016_2017,012891,Antonelli College,Proprietary,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,012891,Antonelli College,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,,20000,21171
+2015_2016,012891,Antonelli College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,,,19391
+2016_2017,012891,Antonelli College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,012891,Antonelli College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,22625,23429
+2016_2017,012891,Antonelli College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,14604,16293
 2016_2017,012891,Antonelli College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,100,22625,22137
-2015_2016,012891,Antonelli College,Proprietary,Hospitality Administration/Management.,Associate's Degree,NA,NA,22331
-2016_2017,012891,Antonelli College,Proprietary,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,Legal Support Services.,Associate's Degree,NA,20000,20985
-2016_2017,012891,Antonelli College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012891,Antonelli College,Proprietary,Legal Support Services.,Associate's Degree,NA,20250,22154
-2015_2016,012891,Antonelli College,Proprietary,Marketing.,Associate's Degree,NA,NA,NA
-2016_2017,012891,Antonelli College,Proprietary,Marketing.,Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,14250,14748
-2015_2016,012891,Antonelli College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,NA,NA
-2016_2017,012891,Antonelli College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,14500,16221
-2016_2017,012891,Antonelli College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,"Public Relations, Advertising, and Applied Communication.",Associate's Degree,NA,NA,NA
-2016_2017,012891,Antonelli College,Proprietary,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012891,Antonelli College,Proprietary,"Public Relations, Advertising, and Applied Communication.",Associate's Degree,NA,NA,NA
-2015_2016,012891,Antonelli College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,14250,14037
-2015_2016,012891,Antonelli College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,NA,16914
-2016_2017,012891,Antonelli College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,14426
-2016_2017,012891,Antonelli College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,NA,NA
+2015_2016,012891,Antonelli College,Proprietary,Hospitality Administration/Management.,Associate's Degree,,,22331
+2016_2017,012891,Antonelli College,Proprietary,Hospitality Administration/Management.,Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,Legal Support Services.,Associate's Degree,,20000,20985
+2016_2017,012891,Antonelli College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,012891,Antonelli College,Proprietary,Legal Support Services.,Associate's Degree,,20250,22154
+2015_2016,012891,Antonelli College,Proprietary,Marketing.,Associate's Degree,,,
+2016_2017,012891,Antonelli College,Proprietary,Marketing.,Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,14250,14748
+2015_2016,012891,Antonelli College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,,
+2016_2017,012891,Antonelli College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,14500,16221
+2016_2017,012891,Antonelli College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,,,
+2015_2016,012891,Antonelli College,Proprietary,"Public Relations, Advertising, and Applied Communication.",Associate's Degree,,,
+2016_2017,012891,Antonelli College,Proprietary,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,,,
+2016_2017,012891,Antonelli College,Proprietary,"Public Relations, Advertising, and Applied Communication.",Associate's Degree,,,
+2015_2016,012891,Antonelli College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,14250,14037
+2015_2016,012891,Antonelli College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,,16914
+2016_2017,012891,Antonelli College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,14426
+2016_2017,012891,Antonelli College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,,

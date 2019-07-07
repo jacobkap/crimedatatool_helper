@@ -1,65 +1,65 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,004646,Minnesota School of Business,Proprietary,Accounting and Related Services.,Associate's Degree,38,29500,29183
 2015_2016,004646,Minnesota School of Business,Proprietary,Accounting and Related Services.,Bachelor's Degree,54,40139,40215
-2016_2017,004646,Minnesota School of Business,Proprietary,Accounting and Related Services.,Associate's Degree,NA,28491,27652
-2016_2017,004646,Minnesota School of Business,Proprietary,Accounting and Related Services.,Bachelor's Degree,NA,36672,36871
+2016_2017,004646,Minnesota School of Business,Proprietary,Accounting and Related Services.,Associate's Degree,,28491,27652
+2016_2017,004646,Minnesota School of Business,Proprietary,Accounting and Related Services.,Bachelor's Degree,,36672,36871
 2015_2016,004646,Minnesota School of Business,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,265,24039,25919
-2015_2016,004646,Minnesota School of Business,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,21000,23248
-2016_2017,004646,Minnesota School of Business,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,004646,Minnesota School of Business,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,21000,23248
+2016_2017,004646,Minnesota School of Business,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,
 2015_2016,004646,Minnesota School of Business,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,108,23833,23990
 2015_2016,004646,Minnesota School of Business,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,147,40000,37764
 2015_2016,004646,Minnesota School of Business,Proprietary,"Business Administration, Management and Operations.",Master's Degree,29,41000,42226
-2016_2017,004646,Minnesota School of Business,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,22416,24084
-2016_2017,004646,Minnesota School of Business,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,37000,36493
-2016_2017,004646,Minnesota School of Business,Proprietary,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,004646,Minnesota School of Business,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,22416,24084
+2016_2017,004646,Minnesota School of Business,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,37000,36493
+2016_2017,004646,Minnesota School of Business,Proprietary,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,004646,Minnesota School of Business,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,52,33250,35040
-2016_2017,004646,Minnesota School of Business,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,NA,32320,33215
-2015_2016,004646,Minnesota School of Business,Proprietary,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Computer Programming.,Associate's Degree,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Computer Programming.,Bachelor's Degree,10,NA,33053
-2016_2017,004646,Minnesota School of Business,Proprietary,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Computer Programming.,Associate's Degree,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Computer Programming.,Bachelor's Degree,NA,NA,36317
+2016_2017,004646,Minnesota School of Business,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,,32320,33215
+2015_2016,004646,Minnesota School of Business,Proprietary,Computer Programming.,Undergraduate Certificate or Diploma,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Computer Programming.,Associate's Degree,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Computer Programming.,Bachelor's Degree,10,,33053
+2016_2017,004646,Minnesota School of Business,Proprietary,Computer Programming.,Undergraduate Certificate or Diploma,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Computer Programming.,Associate's Degree,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Computer Programming.,Bachelor's Degree,,,36317
 2015_2016,004646,Minnesota School of Business,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,43,25317,25039
-2016_2017,004646,Minnesota School of Business,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,26710,26213
-2015_2016,004646,Minnesota School of Business,Proprietary,Criminal Justice and Corrections.,Associate's Degree,NA,NA,32724
+2016_2017,004646,Minnesota School of Business,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,,26710,26213
+2015_2016,004646,Minnesota School of Business,Proprietary,Criminal Justice and Corrections.,Associate's Degree,,,32724
 2015_2016,004646,Minnesota School of Business,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,45,51722,44214
-2016_2017,004646,Minnesota School of Business,Proprietary,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,49164,42366
-2015_2016,004646,Minnesota School of Business,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Graphic Communications.,Associate's Degree,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Graphic Communications.,Associate's Degree,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,004646,Minnesota School of Business,Proprietary,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,49164,42366
+2015_2016,004646,Minnesota School of Business,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Design and Applied Arts.,Associate's Degree,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Design and Applied Arts.,Associate's Degree,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Graphic Communications.,Associate's Degree,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Graphic Communications.,Bachelor's Degree,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Graphic Communications.,Associate's Degree,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Graphic Communications.,Bachelor's Degree,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,004646,Minnesota School of Business,Proprietary,Health and Medical Administrative Services.,Associate's Degree,21,26334,26010
 2015_2016,004646,Minnesota School of Business,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,44,38814,38289
-2016_2017,004646,Minnesota School of Business,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,38666,36489
-2015_2016,004646,Minnesota School of Business,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Legal Support Services.,Associate's Degree,NA,23851,27799
+2016_2017,004646,Minnesota School of Business,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,38666,36489
+2015_2016,004646,Minnesota School of Business,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Legal Support Services.,Associate's Degree,,23851,27799
 2015_2016,004646,Minnesota School of Business,Proprietary,Legal Support Services.,Bachelor's Degree,27,44933,42425
-2016_2017,004646,Minnesota School of Business,Proprietary,Legal Support Services.,Associate's Degree,NA,NA,25256
-2016_2017,004646,Minnesota School of Business,Proprietary,Legal Support Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Marketing.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Marketing.,Associate's Degree,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Marketing.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Marketing.,Associate's Degree,NA,NA,NA
-2015_2016,004646,Minnesota School of Business,Proprietary,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004646,Minnesota School of Business,Proprietary,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,004646,Minnesota School of Business,Proprietary,Legal Support Services.,Associate's Degree,,,25256
+2016_2017,004646,Minnesota School of Business,Proprietary,Legal Support Services.,Bachelor's Degree,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Marketing.,Undergraduate Certificate or Diploma,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Marketing.,Associate's Degree,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Marketing.,Undergraduate Certificate or Diploma,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Marketing.,Associate's Degree,,,
+2015_2016,004646,Minnesota School of Business,Proprietary,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,004646,Minnesota School of Business,Proprietary,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2015_2016,004646,Minnesota School of Business,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,75,35250,35628
-2016_2017,004646,Minnesota School of Business,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,33899,34569
+2016_2017,004646,Minnesota School of Business,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,33899,34569
 2015_2016,004646,Minnesota School of Business,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,46,13837,15330
 2015_2016,004646,Minnesota School of Business,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,53,16236,16741
-2016_2017,004646,Minnesota School of Business,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,12416,12810
-2016_2017,004646,Minnesota School of Business,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,17470,17503
+2016_2017,004646,Minnesota School of Business,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,12416,12810
+2016_2017,004646,Minnesota School of Business,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,17470,17503

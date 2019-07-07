@@ -1,104 +1,104 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,002622,Kean University,Public,Accounting and Related Services.,Bachelor's Degree,139,25000,25043
-2015_2016,002622,Kean University,Public,Accounting and Related Services.,Master's Degree,11,NA,27124
+2015_2016,002622,Kean University,Public,Accounting and Related Services.,Master's Degree,11,,27124
 2016_2017,002622,Kean University,Public,Accounting and Related Services.,Bachelor's Degree,168,24250,24383
 2016_2017,002622,Kean University,Public,Accounting and Related Services.,Master's Degree,20,23500,25532
 2015_2016,002622,Kean University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,26,27000,25549
 2016_2017,002622,Kean University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,25,26800,24425
-2015_2016,002622,Kean University,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,002622,Kean University,Public,Area Studies.,Bachelor's Degree,,,
 2015_2016,002622,Kean University,Public,"Biology, General.",Bachelor's Degree,195,26215,25206
 2016_2017,002622,Kean University,Public,"Biology, General.",Bachelor's Degree,233,24750,24380
-2015_2016,002622,Kean University,Public,Biotechnology.,Master's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Biotechnology.,Master's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,Biotechnology.,Master's Degree,,,
+2016_2017,002622,Kean University,Public,Biotechnology.,Master's Degree,,,
 2015_2016,002622,Kean University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,192,25614,26254
-2015_2016,002622,Kean University,Public,"Business Administration, Management and Operations.",Master's Degree,14,NA,37791
+2015_2016,002622,Kean University,Public,"Business Administration, Management and Operations.",Master's Degree,14,,37791
 2016_2017,002622,Kean University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,241,25000,26055
 2016_2017,002622,Kean University,Public,"Business Administration, Management and Operations.",Master's Degree,22,46460,41302
-2015_2016,002622,Kean University,Public,Chemistry.,Bachelor's Degree,15,NA,20847
+2015_2016,002622,Kean University,Public,Chemistry.,Bachelor's Degree,15,,20847
 2016_2017,002622,Kean University,Public,Chemistry.,Bachelor's Degree,20,23784,25528
-2015_2016,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,18,NA,36734
-2015_2016,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
-2015_2016,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,18,,36734
+2015_2016,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,,
+2015_2016,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,
 2016_2017,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,21,61500,53392
-2016_2017,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002622,Kean University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
+2016_2017,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,,
+2016_2017,002622,Kean University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,
+2015_2016,002622,Kean University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,002622,Kean University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
 2015_2016,002622,Kean University,Public,Communication and Media Studies.,Bachelor's Degree,187,26000,26259
 2016_2017,002622,Kean University,Public,Communication and Media Studies.,Bachelor's Degree,205,25000,24432
 2015_2016,002622,Kean University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,43,25500,26255
-2015_2016,002622,Kean University,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,"Computer and Information Sciences, General.",Master's Degree,,,
 2016_2017,002622,Kean University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,44,22198,23229
-2016_2017,002622,Kean University,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,002622,Kean University,Public,"Computer and Information Sciences, General.",Master's Degree,,,
 2015_2016,002622,Kean University,Public,Computer Systems Networking and Telecommunications.,Bachelor's Degree,21,30258,29369
 2016_2017,002622,Kean University,Public,Computer Systems Networking and Telecommunications.,Bachelor's Degree,29,30000,29897
 2015_2016,002622,Kean University,Public,Criminal Justice and Corrections.,Bachelor's Degree,194,25000,24238
-2015_2016,002622,Kean University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,Criminal Justice and Corrections.,Master's Degree,,,
 2016_2017,002622,Kean University,Public,Criminal Justice and Corrections.,Bachelor's Degree,229,23400,23076
-2016_2017,002622,Kean University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2016_2017,002622,Kean University,Public,Criminal Justice and Corrections.,Master's Degree,,,
 2015_2016,002622,Kean University,Public,Design and Applied Arts.,Bachelor's Degree,121,27000,26343
 2016_2017,002622,Kean University,Public,Design and Applied Arts.,Bachelor's Degree,122,26375,26140
-2015_2016,002622,Kean University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,18,NA,23136
+2015_2016,002622,Kean University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,18,,23136
 2016_2017,002622,Kean University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,23,21500,23363
-2015_2016,002622,Kean University,Public,Economics.,Bachelor's Degree,19,NA,20975
+2015_2016,002622,Kean University,Public,Economics.,Bachelor's Degree,19,,20975
 2016_2017,002622,Kean University,Public,Economics.,Bachelor's Degree,23,21500,24931
-2015_2016,002622,Kean University,Public,Educational Administration and Supervision.,Master's Degree,14,NA,35746
-2015_2016,002622,Kean University,Public,Educational Administration and Supervision.,Doctoral Degree,13,NA,70029
+2015_2016,002622,Kean University,Public,Educational Administration and Supervision.,Master's Degree,14,,35746
+2015_2016,002622,Kean University,Public,Educational Administration and Supervision.,Doctoral Degree,13,,70029
 2016_2017,002622,Kean University,Public,Educational Administration and Supervision.,Master's Degree,22,35219,35609
-2016_2017,002622,Kean University,Public,Educational Administration and Supervision.,Doctoral Degree,12,NA,73746
-2015_2016,002622,Kean University,Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2015_2016,002622,Kean University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2016_2017,002622,Kean University,Public,Educational Administration and Supervision.,Doctoral Degree,12,,73746
+2015_2016,002622,Kean University,Public,Educational/Instructional Media Design.,Master's Degree,,,
+2015_2016,002622,Kean University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,,
 2015_2016,002622,Kean University,Public,"English Language and Literature, General.",Bachelor's Degree,167,26410,26981
 2016_2017,002622,Kean University,Public,"English Language and Literature, General.",Bachelor's Degree,205,26000,25983
-2015_2016,002622,Kean University,Public,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,002622,Kean University,Public,Film/Video and Photographic Arts.,Bachelor's Degree,,,
 2015_2016,002622,Kean University,Public,Finance and Financial Management Services.,Bachelor's Degree,48,25575,25685
 2016_2017,002622,Kean University,Public,Finance and Financial Management Services.,Bachelor's Degree,75,25000,23550
 2015_2016,002622,Kean University,Public,Fine and Studio Arts.,Bachelor's Degree,42,28494,30050
 2016_2017,002622,Kean University,Public,Fine and Studio Arts.,Bachelor's Degree,34,26403,26256
-2015_2016,002622,Kean University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,27747,28865
-2016_2017,002622,Kean University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,30250,28824
-2015_2016,002622,Kean University,Public,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2015_2016,002622,Kean University,Public,Graphic Communications.,Master's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Graphic Communications.,Master's Degree,NA,NA,NA
-2015_2016,002622,Kean University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002622,Kean University,Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,27747,28865
+2016_2017,002622,Kean University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,30250,28824
+2015_2016,002622,Kean University,Public,Graphic Communications.,Bachelor's Degree,,,
+2015_2016,002622,Kean University,Public,Graphic Communications.,Master's Degree,,,
+2016_2017,002622,Kean University,Public,Graphic Communications.,Bachelor's Degree,,,
+2016_2017,002622,Kean University,Public,Graphic Communications.,Master's Degree,,,
+2015_2016,002622,Kean University,Public,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,002622,Kean University,Public,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2015_2016,002622,Kean University,Public,Health and Physical Education/Fitness.,Master's Degree,,,
+2016_2017,002622,Kean University,Public,Health and Physical Education/Fitness.,Master's Degree,,,
 2015_2016,002622,Kean University,Public,History.,Bachelor's Degree,98,26324,26415
 2016_2017,002622,Kean University,Public,History.,Bachelor's Degree,102,26496,26957
-2015_2016,002622,Kean University,Public,Holocaust and Related Studies.,Master's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Holocaust and Related Studies.,Master's Degree,NA,NA,NA
-2015_2016,002622,Kean University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,002622,Kean University,Public,International Business.,Bachelor's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,Holocaust and Related Studies.,Master's Degree,,,
+2016_2017,002622,Kean University,Public,Holocaust and Related Studies.,Master's Degree,,,
+2015_2016,002622,Kean University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,002622,Kean University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,002622,Kean University,Public,International Business.,Bachelor's Degree,,,
 2016_2017,002622,Kean University,Public,International Business.,Bachelor's Degree,21,22500,20373
-2015_2016,002622,Kean University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2016_2017,002622,Kean University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
 2015_2016,002622,Kean University,Public,Marketing.,Bachelor's Degree,80,20732,21745
 2016_2017,002622,Kean University,Public,Marketing.,Bachelor's Degree,98,19712,21644
-2015_2016,002622,Kean University,Public,"Mathematics and Statistics, Other.",Master's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,"Mathematics and Statistics, Other.",Master's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,"Mathematics and Statistics, Other.",Master's Degree,,,
+2016_2017,002622,Kean University,Public,"Mathematics and Statistics, Other.",Master's Degree,,,
 2015_2016,002622,Kean University,Public,Mathematics.,Bachelor's Degree,61,27000,26455
 2016_2017,002622,Kean University,Public,Mathematics.,Bachelor's Degree,67,25241,26209
-2015_2016,002622,Kean University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2015_2016,002622,Kean University,Public,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002622,Kean University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2015_2016,002622,Kean University,Public,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,,,
 2016_2017,002622,Kean University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,20,51950,45445
-2016_2017,002622,Kean University,Public,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002622,Kean University,Public,Music.,Bachelor's Degree,12,NA,25245
-2016_2017,002622,Kean University,Public,Music.,Bachelor's Degree,NA,NA,23971
+2016_2017,002622,Kean University,Public,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,,,
+2015_2016,002622,Kean University,Public,Music.,Bachelor's Degree,12,,25245
+2016_2017,002622,Kean University,Public,Music.,Bachelor's Degree,,,23971
 2015_2016,002622,Kean University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,46,27000,28889
 2016_2017,002622,Kean University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,53,27000,27327
-2015_2016,002622,Kean University,Public,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,"Philosophy and Religious Studies, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,"Philosophy and Religious Studies, General.",Bachelor's Degree,,,
+2016_2017,002622,Kean University,Public,"Philosophy and Religious Studies, General.",Bachelor's Degree,,,
 2015_2016,002622,Kean University,Public,Political Science and Government.,Bachelor's Degree,30,23592,23311
-2015_2016,002622,Kean University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,Political Science and Government.,Master's Degree,,,
 2016_2017,002622,Kean University,Public,Political Science and Government.,Bachelor's Degree,34,26500,26207
-2016_2017,002622,Kean University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,002622,Kean University,Public,Political Science and Government.,Master's Degree,,,
 2015_2016,002622,Kean University,Public,"Psychology, General.",Bachelor's Degree,623,25460,25080
-2015_2016,002622,Kean University,Public,"Psychology, General.",Master's Degree,16,NA,28913
+2015_2016,002622,Kean University,Public,"Psychology, General.",Master's Degree,16,,28913
 2016_2017,002622,Kean University,Public,"Psychology, General.",Bachelor's Degree,714,25000,24693
 2016_2017,002622,Kean University,Public,"Psychology, General.",Master's Degree,22,30750,32936
 2015_2016,002622,Kean University,Public,"Psychology, Other.",Bachelor's Degree,24,25460,24525
@@ -107,43 +107,43 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,002622,Kean University,Public,Public Administration.,Master's Degree,52,46258,42661
 2016_2017,002622,Kean University,Public,Public Administration.,Bachelor's Degree,62,25000,25364
 2016_2017,002622,Kean University,Public,Public Administration.,Master's Degree,76,41000,40415
-2015_2016,002622,Kean University,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,12,NA,32238
-2016_2017,002622,Kean University,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,12,NA,32303
+2015_2016,002622,Kean University,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,12,,32238
+2016_2017,002622,Kean University,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,12,,32303
 2015_2016,002622,Kean University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,60,17750,19690
 2015_2016,002622,Kean University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,29,30037,30652
 2016_2017,002622,Kean University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,86,17750,18801
 2016_2017,002622,Kean University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,34,35856,36226
 2015_2016,002622,Kean University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,37,41000,38071
 2016_2017,002622,Kean University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,42,42093,42033
-2015_2016,002622,Kean University,Public,Research and Experimental Psychology.,Master's Degree,NA,NA,NA
-2015_2016,002622,Kean University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,Research and Experimental Psychology.,Master's Degree,,,
+2015_2016,002622,Kean University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2016_2017,002622,Kean University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
 2015_2016,002622,Kean University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,46,35500,33426
-2016_2017,002622,Kean University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,31250,30282
-2015_2016,002622,Kean University,Public,"Science Technologies/Technicians, Other.",Bachelor's Degree,12,NA,22572
-2015_2016,002622,Kean University,Public,"Science Technologies/Technicians, Other.",Master's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,"Science Technologies/Technicians, Other.",Bachelor's Degree,14,NA,21921
-2016_2017,002622,Kean University,Public,"Science Technologies/Technicians, Other.",Master's Degree,NA,NA,NA
-2015_2016,002622,Kean University,Public,Social Work.,Bachelor's Degree,NA,NA,NA
+2016_2017,002622,Kean University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,31250,30282
+2015_2016,002622,Kean University,Public,"Science Technologies/Technicians, Other.",Bachelor's Degree,12,,22572
+2015_2016,002622,Kean University,Public,"Science Technologies/Technicians, Other.",Master's Degree,,,
+2016_2017,002622,Kean University,Public,"Science Technologies/Technicians, Other.",Bachelor's Degree,14,,21921
+2016_2017,002622,Kean University,Public,"Science Technologies/Technicians, Other.",Master's Degree,,,
+2015_2016,002622,Kean University,Public,Social Work.,Bachelor's Degree,,,
 2015_2016,002622,Kean University,Public,Social Work.,Master's Degree,72,41000,43184
 2016_2017,002622,Kean University,Public,Social Work.,Master's Degree,70,41000,44190
 2015_2016,002622,Kean University,Public,Sociology.,Bachelor's Degree,109,25000,26727
-2015_2016,002622,Kean University,Public,Sociology.,Master's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,Sociology.,Master's Degree,,,
 2016_2017,002622,Kean University,Public,Sociology.,Bachelor's Degree,133,25000,26549
-2016_2017,002622,Kean University,Public,Sociology.,Master's Degree,NA,NA,NA
+2016_2017,002622,Kean University,Public,Sociology.,Master's Degree,,,
 2015_2016,002622,Kean University,Public,Special Education and Teaching.,Bachelor's Degree,137,26962,26852
 2015_2016,002622,Kean University,Public,Special Education and Teaching.,Master's Degree,76,34984,35675
 2016_2017,002622,Kean University,Public,Special Education and Teaching.,Bachelor's Degree,128,26650,26079
 2016_2017,002622,Kean University,Public,Special Education and Teaching.,Master's Degree,108,40140,37743
 2015_2016,002622,Kean University,Public,Student Counseling and Personnel Services.,Master's Degree,75,57124,52427
 2016_2017,002622,Kean University,Public,Student Counseling and Personnel Services.,Master's Degree,113,56806,53435
-2015_2016,002622,Kean University,Public,Sustainability Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002622,Kean University,Public,Sustainability Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,002622,Kean University,Public,Sustainability Studies.,Bachelor's Degree,,,
+2016_2017,002622,Kean University,Public,Sustainability Studies.,Bachelor's Degree,,,
 2015_2016,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,121,27000,25199
-2015_2016,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,19,NA,22823
+2015_2016,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,19,,22823
 2016_2017,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,133,27078,25119
-2016_2017,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,17,NA,17269
+2016_2017,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,17,,17269
 2015_2016,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,118,27568,26657
-2015_2016,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,14,NA,25028
+2015_2016,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,14,,25028
 2016_2017,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,117,27000,27080
-2016_2017,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,13,NA,24567
+2016_2017,002622,Kean University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,13,,24567

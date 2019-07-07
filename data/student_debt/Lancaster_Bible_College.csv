@@ -1,76 +1,76 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,19,NA,5962
+2015_2016,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,19,,5962
 2015_2016,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Associate's Degree,23,12000,11002
 2015_2016,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Bachelor's Degree,137,13257,15790
-2015_2016,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Master's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Post-baccalaureate Certificate,,,
+2015_2016,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Master's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,,,
 2016_2017,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Associate's Degree,21,10687,12636
 2016_2017,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Bachelor's Degree,170,15560,17843
-2016_2017,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Master's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Master's Degree,11,NA,22417
-2015_2016,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,12,NA,15857
-2016_2017,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Master's Degree,10,NA,26503
-2016_2017,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,10,NA,27473
-2016_2017,003285,Lancaster Bible College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Communications Technology/Technician.,Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Communications Technology/Technician.,Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,25291
-2015_2016,003285,Lancaster Bible College,Private,Health and Physical Education/Fitness.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,23943
-2016_2017,003285,Lancaster Bible College,Private,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,"Human Services, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,"Human Services, General.",Bachelor's Degree,NA,NA,26555
-2015_2016,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,15,NA,25073
-2016_2017,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,13,NA,35836
-2016_2017,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Missions/Missionary Studies and Missiology.,Master's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Missions/Missionary Studies and Missiology.,Master's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Music.,Bachelor's Degree,NA,19250,20985
-2016_2017,003285,Lancaster Bible College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003285,Lancaster Bible College,Private,Bible/Biblical Studies.,Master's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Master's Degree,11,,22417
+2015_2016,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Doctoral Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,12,,15857
+2016_2017,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Master's Degree,10,,26503
+2016_2017,003285,Lancaster Bible College,Private,"Business Administration, Management and Operations.",Doctoral Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,10,,27473
+2016_2017,003285,Lancaster Bible College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Communications Technology/Technician.,Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Communications Technology/Technician.,Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,25291
+2015_2016,003285,Lancaster Bible College,Private,Health and Physical Education/Fitness.,Post-baccalaureate Certificate,,,
+2015_2016,003285,Lancaster Bible College,Private,Health and Physical Education/Fitness.,Master's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,23943
+2016_2017,003285,Lancaster Bible College,Private,Health and Physical Education/Fitness.,Master's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,"Human Services, General.",Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,"Human Services, General.",Bachelor's Degree,,,26555
+2015_2016,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Post-baccalaureate Certificate,,,
+2015_2016,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,15,,25073
+2016_2017,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Post-baccalaureate Certificate,,,
+2016_2017,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,13,,35836
+2016_2017,003285,Lancaster Bible College,Private,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,,,
+2015_2016,003285,Lancaster Bible College,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Missions/Missionary Studies and Missiology.,Master's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Missions/Missionary Studies and Missiology.,Master's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Music.,Bachelor's Degree,,19250,20985
+2016_2017,003285,Lancaster Bible College,Private,Music.,Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,,,
 2015_2016,003285,Lancaster Bible College,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,51,19500,20222
-2015_2016,003285,Lancaster Bible College,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,10,NA,32017
+2015_2016,003285,Lancaster Bible College,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,10,,32017
 2016_2017,003285,Lancaster Bible College,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,49,23242,22326
-2016_2017,003285,Lancaster Bible College,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,10,NA,30514
-2015_2016,003285,Lancaster Bible College,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Social Work.,Bachelor's Degree,12,NA,19571
-2016_2017,003285,Lancaster Bible College,Private,Social Work.,Bachelor's Degree,18,NA,19277
-2015_2016,003285,Lancaster Bible College,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,16,NA,28302
-2016_2017,003285,Lancaster Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,16,NA,26269
-2015_2016,003285,Lancaster Bible College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,Theological and Ministerial Studies.,Master's Degree,10,NA,29596
-2015_2016,003285,Lancaster Bible College,Private,Theological and Ministerial Studies.,Doctoral Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,Theological and Ministerial Studies.,Master's Degree,13,NA,34665
-2016_2017,003285,Lancaster Bible College,Private,Theological and Ministerial Studies.,Doctoral Degree,NA,NA,NA
-2015_2016,003285,Lancaster Bible College,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003285,Lancaster Bible College,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,003285,Lancaster Bible College,Private,Pastoral Counseling and Specialized Ministries.,Master's Degree,10,,30514
+2015_2016,003285,Lancaster Bible College,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Social Work.,Bachelor's Degree,12,,19571
+2016_2017,003285,Lancaster Bible College,Private,Social Work.,Bachelor's Degree,18,,19277
+2015_2016,003285,Lancaster Bible College,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Master's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
+2016_2017,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Master's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
+2015_2016,003285,Lancaster Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,16,,28302
+2016_2017,003285,Lancaster Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,16,,26269
+2015_2016,003285,Lancaster Bible College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,Theological and Ministerial Studies.,Master's Degree,10,,29596
+2015_2016,003285,Lancaster Bible College,Private,Theological and Ministerial Studies.,Doctoral Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,Theological and Ministerial Studies.,Master's Degree,13,,34665
+2016_2017,003285,Lancaster Bible College,Private,Theological and Ministerial Studies.,Doctoral Degree,,,
+2015_2016,003285,Lancaster Bible College,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,,,
+2016_2017,003285,Lancaster Bible College,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,,,

@@ -1,66 +1,66 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,005007,West Virginia Junior College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,010573,West Virginia Junior College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,005007,West Virginia Junior College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,005007,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005007,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,11189
-2015_2016,010573,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010573,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,15679
-2016_2017,005007,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005007,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2016_2017,010573,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010573,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2015_2016,005007,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005007,West Virginia Junior College,Proprietary,Accounting and Related Services.,Associate's Degree,,,
+2015_2016,010573,West Virginia Junior College,Proprietary,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,005007,West Virginia Junior College,Proprietary,Accounting and Related Services.,Associate's Degree,,,
+2015_2016,005007,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,005007,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,,11189
+2015_2016,010573,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,010573,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,,15679
+2016_2017,005007,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,005007,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2016_2017,010573,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,010573,West Virginia Junior College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2015_2016,005007,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,005007,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,59,12000,12742
-2015_2016,010573,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010573,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,10707
-2016_2017,005007,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,010573,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,010573,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,,10707
+2016_2017,005007,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,005007,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,66,10549,10785
-2016_2017,010573,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010573,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,9574
-2015_2016,005007,West Virginia Junior College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010573,West Virginia Junior College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005007,West Virginia Junior College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010573,West Virginia Junior College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005007,West Virginia Junior College,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,010573,West Virginia Junior College,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2016_2017,005007,West Virginia Junior College,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2016_2017,010573,West Virginia Junior College,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,005007,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005007,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,13,NA,12748
-2015_2016,010573,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,010573,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,010573,West Virginia Junior College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,,9574
+2015_2016,005007,West Virginia Junior College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,010573,West Virginia Junior College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,005007,West Virginia Junior College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,010573,West Virginia Junior College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,005007,West Virginia Junior College,Proprietary,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,010573,West Virginia Junior College,Proprietary,"Business/Commerce, General.",Associate's Degree,,,
+2016_2017,005007,West Virginia Junior College,Proprietary,"Business/Commerce, General.",Associate's Degree,,,
+2016_2017,010573,West Virginia Junior College,Proprietary,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,005007,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,005007,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,13,,12748
+2015_2016,010573,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
 2015_2016,010573,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,38,11720,11790
-2016_2017,005007,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005007,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,11,NA,10793
-2016_2017,010573,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,005007,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,005007,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,11,,10793
+2016_2017,010573,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
 2016_2017,010573,West Virginia Junior College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,32,10146,10312
-2015_2016,005007,West Virginia Junior College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2016_2017,005007,West Virginia Junior College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2015_2016,010573,West Virginia Junior College,Proprietary,Data Processing.,Associate's Degree,NA,NA,NA
-2016_2017,010573,West Virginia Junior College,Proprietary,Data Processing.,Associate's Degree,NA,NA,NA
-2015_2016,010573,West Virginia Junior College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005007,West Virginia Junior College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2016_2017,005007,West Virginia Junior College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2015_2016,010573,West Virginia Junior College,Proprietary,Data Processing.,Associate's Degree,,,
+2016_2017,010573,West Virginia Junior College,Proprietary,Data Processing.,Associate's Degree,,,
+2015_2016,010573,West Virginia Junior College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2015_2016,010573,West Virginia Junior College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,53,11387,12107
-2016_2017,010573,West Virginia Junior College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,010573,West Virginia Junior College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2016_2017,010573,West Virginia Junior College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,40,9786,9612
-2015_2016,005007,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005007,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,005007,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,282,10263,11084
-2015_2016,010573,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,10316
+2015_2016,010573,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,10316
 2015_2016,010573,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,163,11226,11329
-2016_2017,005007,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,005007,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,005007,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,308,9289,9910
-2016_2017,010573,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,9433
+2016_2017,010573,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,9433
 2016_2017,010573,West Virginia Junior College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,167,9168,9543
-2015_2016,005007,West Virginia Junior College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005007,West Virginia Junior College,Proprietary,Legal Support Services.,Associate's Degree,NA,NA,14254
-2015_2016,010573,West Virginia Junior College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010573,West Virginia Junior College,Proprietary,Legal Support Services.,Associate's Degree,NA,NA,NA
-2016_2017,005007,West Virginia Junior College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005007,West Virginia Junior College,Proprietary,Legal Support Services.,Associate's Degree,NA,12488,12433
-2016_2017,010573,West Virginia Junior College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010573,West Virginia Junior College,Proprietary,Legal Support Services.,Associate's Degree,NA,NA,NA
-2015_2016,005007,West Virginia Junior College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,10830,12290
-2015_2016,010573,West Virginia Junior College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005007,West Virginia Junior College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,10858,12740
-2016_2017,010573,West Virginia Junior College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,9489
-2015_2016,005007,West Virginia Junior College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,23198
-2016_2017,005007,West Virginia Junior College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,17172,18588
+2015_2016,005007,West Virginia Junior College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,005007,West Virginia Junior College,Proprietary,Legal Support Services.,Associate's Degree,,,14254
+2015_2016,010573,West Virginia Junior College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,010573,West Virginia Junior College,Proprietary,Legal Support Services.,Associate's Degree,,,
+2016_2017,005007,West Virginia Junior College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,005007,West Virginia Junior College,Proprietary,Legal Support Services.,Associate's Degree,,12488,12433
+2016_2017,010573,West Virginia Junior College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,010573,West Virginia Junior College,Proprietary,Legal Support Services.,Associate's Degree,,,
+2015_2016,005007,West Virginia Junior College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,10830,12290
+2015_2016,010573,West Virginia Junior College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2016_2017,005007,West Virginia Junior College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,10858,12740
+2016_2017,010573,West Virginia Junior College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,9489
+2015_2016,005007,West Virginia Junior College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,23198
+2016_2017,005007,West Virginia Junior College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,17172,18588

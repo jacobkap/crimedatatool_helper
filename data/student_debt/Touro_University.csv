@@ -1,43 +1,43 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,041426,Touro University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,121,165487,155785
 2016_2017,041426,Touro University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,135,164223,154664
-2015_2016,041426,Touro University,Private,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,041426,Touro University,Private,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,041426,Touro University,Private,Educational Administration and Supervision.,Master's Degree,14,NA,33954
-2016_2017,041426,Touro University,Private,Educational Administration and Supervision.,Master's Degree,14,NA,31901
-2015_2016,041426,Touro University,Private,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,041426,Touro University,Private,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
+2015_2016,041426,Touro University,Private,"Education, General.",Master's Degree,,,
+2016_2017,041426,Touro University,Private,"Education, General.",Master's Degree,,,
+2015_2016,041426,Touro University,Private,Educational Administration and Supervision.,Master's Degree,14,,33954
+2016_2017,041426,Touro University,Private,Educational Administration and Supervision.,Master's Degree,14,,31901
+2015_2016,041426,Touro University,Private,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,041426,Touro University,Private,Educational/Instructional Media Design.,Master's Degree,,,
 2015_2016,041426,Touro University,Private,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,49,55299,50711
 2016_2017,041426,Touro University,Private,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,88,50526,47501
-2015_2016,041426,Touro University,Private,Osteopathic Medicine/Osteopathy.,Master's Degree,NA,NA,NA
+2015_2016,041426,Touro University,Private,Osteopathic Medicine/Osteopathy.,Master's Degree,,,
 2015_2016,041426,Touro University,Private,Osteopathic Medicine/Osteopathy.,First Professional Degree,341,314500,277135
-2016_2017,041426,Touro University,Private,Osteopathic Medicine/Osteopathy.,Master's Degree,NA,NA,NA
+2016_2017,041426,Touro University,Private,Osteopathic Medicine/Osteopathy.,Master's Degree,,,
 2016_2017,041426,Touro University,Private,Osteopathic Medicine/Osteopathy.,First Professional Degree,424,305015,275233
-2015_2016,041426,Touro University,Private,Outdoor Education.,Master's Degree,NA,NA,NA
-2016_2017,041426,Touro University,Private,Outdoor Education.,Master's Degree,NA,NA,NA
-2015_2016,041426,Touro University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,17,NA,35451
+2015_2016,041426,Touro University,Private,Outdoor Education.,Master's Degree,,,
+2016_2017,041426,Touro University,Private,Outdoor Education.,Master's Degree,,,
+2015_2016,041426,Touro University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,17,,35451
 2015_2016,041426,Touro University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,78,240896,222199
-2016_2017,041426,Touro University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,10,NA,37590
-2016_2017,041426,Touro University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,NA,NA
+2016_2017,041426,Touro University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Master's Degree,10,,37590
+2016_2017,041426,Touro University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,,
 2016_2017,041426,Touro University,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,87,231816,219973
 2015_2016,041426,Touro University,Private,Public Health.,Master's Degree,29,62790,61081
-2015_2016,041426,Touro University,Private,Public Health.,Doctoral Degree,NA,NA,NA
-2015_2016,041426,Touro University,Private,Public Health.,First Professional Degree,NA,NA,NA
+2015_2016,041426,Touro University,Private,Public Health.,Doctoral Degree,,,
+2015_2016,041426,Touro University,Private,Public Health.,First Professional Degree,,,
 2016_2017,041426,Touro University,Private,Public Health.,Master's Degree,51,79257,118786
-2016_2017,041426,Touro University,Private,Public Health.,First Professional Degree,NA,NA,NA
+2016_2017,041426,Touro University,Private,Public Health.,First Professional Degree,,,
 2015_2016,041426,Touro University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,39,22250,19095
-2015_2016,041426,Touro University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,41000,52886
+2015_2016,041426,Touro University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,41000,52886
 2015_2016,041426,Touro University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,30,26506,27120
-2016_2017,041426,Touro University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,17361,17620
+2016_2017,041426,Touro University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,17361,17620
 2016_2017,041426,Touro University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,50,41000,50761
 2016_2017,041426,Touro University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,48,27371,28609
 2015_2016,041426,Touro University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,32,93125,93020
-2015_2016,041426,Touro University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,147767,138878
+2015_2016,041426,Touro University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,147767,138878
 2016_2017,041426,Touro University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,60,100676,99179
-2016_2017,041426,Touro University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,150854,145419
-2015_2016,041426,Touro University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,041426,Touro University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,041426,Touro University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,15,NA,32577
+2016_2017,041426,Touro University,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,150854,145419
+2015_2016,041426,Touro University,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,041426,Touro University,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,041426,Touro University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,15,,32577
 2016_2017,041426,Touro University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,21,21300,28953
-2015_2016,041426,Touro University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,041426,Touro University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,041426,Touro University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,041426,Touro University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,

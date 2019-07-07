@@ -3,10 +3,10 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,025488,South Texas Vocational Technical Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,384,10678,9979
 2015_2016,025488,South Texas Vocational Technical Institute,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,175,11021,10556
 2016_2017,025488,South Texas Vocational Technical Institute,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,188,10674,10123
-2015_2016,025488,South Texas Vocational Technical Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,9500,9252
-2016_2017,025488,South Texas Vocational Technical Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,9500,8925
-2015_2016,025488,South Texas Vocational Technical Institute,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,025488,South Texas Vocational Technical Institute,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,025488,South Texas Vocational Technical Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,9500,9252
+2016_2017,025488,South Texas Vocational Technical Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,9500,8925
+2015_2016,025488,South Texas Vocational Technical Institute,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2015_2016,025488,South Texas Vocational Technical Institute,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
 2016_2017,025488,South Texas Vocational Technical Institute,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,26,12272,11457
 2015_2016,025488,South Texas Vocational Technical Institute,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,71,6159,5460
 2016_2017,025488,South Texas Vocational Technical Institute,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,66,6246,5701

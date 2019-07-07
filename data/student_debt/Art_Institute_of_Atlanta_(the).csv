@@ -1,10 +1,10 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,120,41656,40580
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,115,43000,41812
-2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
 2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Computer Software and Media Applications.,Associate's Degree,80,24478,25996
 2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Computer Software and Media Applications.,Bachelor's Degree,115,40625,38906
-2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Computer Software and Media Applications.,Associate's Degree,76,21975,23040
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Computer Software and Media Applications.,Bachelor's Degree,148,36350,36665
 2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,70,15396,15560
@@ -13,24 +13,24 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,34,15916,16700
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Culinary Arts and Related Services.,Associate's Degree,298,20666,21235
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,109,38939,35820
-2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,16,NA,14975
+2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,16,,14975
 2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Design and Applied Arts.,Associate's Degree,38,25936,25563
 2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Design and Applied Arts.,Bachelor's Degree,282,37060,37293
-2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Design and Applied Arts.,Associate's Degree,24,20364,21472
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Design and Applied Arts.,Bachelor's Degree,251,39611,38227
-2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,,,
 2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Film/Video and Photographic Arts.,Associate's Degree,38,25087,24559
 2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,76,40416,38592
-2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,,,
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Film/Video and Photographic Arts.,Associate's Degree,40,25087,24834
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,76,37667,37822
 2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Fine and Studio Arts.,Bachelor's Degree,182,40812,40628
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Fine and Studio Arts.,Bachelor's Degree,203,41249,39273
-2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2015_2016,009270,Art Institute of Atlanta (the),Proprietary,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,009270,Art Institute of Atlanta (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,009270,Art Institute of Atlanta (the),Proprietary,Graphic Communications.,Bachelor's Degree,,,
+2016_2017,009270,Art Institute of Atlanta (the),Proprietary,Graphic Communications.,Bachelor's Degree,,,
+2015_2016,009270,Art Institute of Atlanta (the),Proprietary,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2015_2016,009270,Art Institute of Atlanta (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,009270,Art Institute of Atlanta (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,158,42438,39606
-2016_2017,009270,Art Institute of Atlanta (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,009270,Art Institute of Atlanta (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,009270,Art Institute of Atlanta (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,129,42402,38807

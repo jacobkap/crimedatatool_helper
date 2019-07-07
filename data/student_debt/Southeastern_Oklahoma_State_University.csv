@@ -1,97 +1,97 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003179,Southeastern Oklahoma State University,Public,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Accounting and Related Services.,Bachelor's Degree,13,NA,21910
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,10,NA,15370
-2015_2016,003179,Southeastern Oklahoma State University,Public,Air Transportation.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Air Transportation.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Biology, General.",Bachelor's Degree,11,NA,14936
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Biology, General.",Bachelor's Degree,19,NA,13850
-2015_2016,003179,Southeastern Oklahoma State University,Public,Biotechnology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Biotechnology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Master's Degree,10,NA,21346
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,11,NA,19303
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Master's Degree,19,NA,23916
-2015_2016,003179,Southeastern Oklahoma State University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Chemistry.,Bachelor's Degree,12,NA,13766
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,11,NA,49671
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,50090
-2015_2016,003179,Southeastern Oklahoma State University,Public,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Communication and Media Studies.,Bachelor's Degree,12,NA,18005
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,14,NA,20431
-2015_2016,003179,Southeastern Oklahoma State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,13,NA,23744
+2015_2016,003179,Southeastern Oklahoma State University,Public,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Accounting and Related Services.,Bachelor's Degree,13,,21910
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Aerospace, Aeronautical and Astronautical Engineering.",Master's Degree,10,,15370
+2015_2016,003179,Southeastern Oklahoma State University,Public,Air Transportation.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Air Transportation.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Biology, General.",Bachelor's Degree,11,,14936
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Biology, General.",Bachelor's Degree,19,,13850
+2015_2016,003179,Southeastern Oklahoma State University,Public,Biotechnology.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Biotechnology.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Master's Degree,10,,21346
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,11,,19303
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Business Administration, Management and Operations.",Master's Degree,19,,23916
+2015_2016,003179,Southeastern Oklahoma State University,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Chemistry.,Bachelor's Degree,12,,13766
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,11,,49671
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,50090
+2015_2016,003179,Southeastern Oklahoma State University,Public,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Communication and Media Studies.,Bachelor's Degree,12,,18005
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,14,,20431
+2015_2016,003179,Southeastern Oklahoma State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,13,,23744
 2016_2017,003179,Southeastern Oklahoma State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,29,18760,20397
-2015_2016,003179,Southeastern Oklahoma State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Educational Administration and Supervision.,Master's Degree,13,NA,20199
+2015_2016,003179,Southeastern Oklahoma State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Educational Administration and Supervision.,Master's Degree,13,,20199
 2016_2017,003179,Southeastern Oklahoma State University,Public,Educational Administration and Supervision.,Master's Degree,23,17298,20147
-2015_2016,003179,Southeastern Oklahoma State University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,NA
+2015_2016,003179,Southeastern Oklahoma State University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,,,
 2016_2017,003179,Southeastern Oklahoma State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,23,14416,16749
-2015_2016,003179,Southeastern Oklahoma State University,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Health and Physical Education/Fitness.,Master's Degree,14,NA,21331
-2015_2016,003179,Southeastern Oklahoma State University,Public,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,17845
+2015_2016,003179,Southeastern Oklahoma State University,Public,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Health and Physical Education/Fitness.,Master's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Health and Physical Education/Fitness.,Master's Degree,14,,21331
+2015_2016,003179,Southeastern Oklahoma State University,Public,History.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,History.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,17845
 2016_2017,003179,Southeastern Oklahoma State University,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,22,19633,18760
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Human Development, Family Studies, and Related Services.",Master's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Human Development, Family Studies, and Related Services.",Master's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Information Science/Studies.,Bachelor's Degree,,,
 2015_2016,003179,Southeastern Oklahoma State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,24,18188,19823
 2016_2017,003179,Southeastern Oklahoma State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,49,17479,18882
-2015_2016,003179,Southeastern Oklahoma State University,Public,Management Sciences and Quantitative Methods.,Bachelor's Degree,11,NA,23891
+2015_2016,003179,Southeastern Oklahoma State University,Public,Management Sciences and Quantitative Methods.,Bachelor's Degree,11,,23891
 2016_2017,003179,Southeastern Oklahoma State University,Public,Management Sciences and Quantitative Methods.,Bachelor's Degree,26,19302,21141
-2015_2016,003179,Southeastern Oklahoma State University,Public,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Music.,Master's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Music.,Master's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,12,NA,13739
+2015_2016,003179,Southeastern Oklahoma State University,Public,Marketing.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Marketing.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Mathematics.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Mathematics.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Music.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Music.,Master's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Music.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Music.,Master's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,12,,13739
 2016_2017,003179,Southeastern Oklahoma State University,Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,23,12000,14087
-2015_2016,003179,Southeastern Oklahoma State University,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2015_2016,003179,Southeastern Oklahoma State University,Public,Physics.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,003179,Southeastern Oklahoma State University,Public,"Psychology, General.",Bachelor's Degree,22,16032,17965
 2016_2017,003179,Southeastern Oklahoma State University,Public,"Psychology, General.",Bachelor's Degree,41,17822,18821
 2015_2016,003179,Southeastern Oklahoma State University,Public,Quality Control and Safety Technologies/Technicians.,Bachelor's Degree,63,16804,19263
-2015_2016,003179,Southeastern Oklahoma State University,Public,Quality Control and Safety Technologies/Technicians.,Master's Degree,NA,NA,NA
+2015_2016,003179,Southeastern Oklahoma State University,Public,Quality Control and Safety Technologies/Technicians.,Master's Degree,,,
 2016_2017,003179,Southeastern Oklahoma State University,Public,Quality Control and Safety Technologies/Technicians.,Bachelor's Degree,129,16750,17911
-2016_2017,003179,Southeastern Oklahoma State University,Public,Quality Control and Safety Technologies/Technicians.,Master's Degree,14,NA,25233
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Sociology.,Bachelor's Degree,11,NA,22211
-2016_2017,003179,Southeastern Oklahoma State University,Public,Sociology.,Bachelor's Degree,18,NA,19597
-2015_2016,003179,Southeastern Oklahoma State University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
+2016_2017,003179,Southeastern Oklahoma State University,Public,Quality Control and Safety Technologies/Technicians.,Master's Degree,14,,25233
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Sociology.,Bachelor's Degree,11,,22211
+2016_2017,003179,Southeastern Oklahoma State University,Public,Sociology.,Bachelor's Degree,18,,19597
+2015_2016,003179,Southeastern Oklahoma State University,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Student Counseling and Personnel Services.,Master's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Student Counseling and Personnel Services.,Master's Degree,,,
 2015_2016,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,34,24465,21484
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,61,22220,21934
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2015_2016,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,25,18550,17493
-2015_2016,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
 2016_2017,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,38,16477,16840
-2016_2017,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,003179,Southeastern Oklahoma State University,Public,Vehicle Maintenance and Repair Technologies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003179,Southeastern Oklahoma State University,Public,Vehicle Maintenance and Repair Technologies.,Bachelor's Degree,NA,NA,NA
+2016_2017,003179,Southeastern Oklahoma State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,003179,Southeastern Oklahoma State University,Public,Vehicle Maintenance and Repair Technologies.,Bachelor's Degree,,,
+2016_2017,003179,Southeastern Oklahoma State University,Public,Vehicle Maintenance and Repair Technologies.,Bachelor's Degree,,,

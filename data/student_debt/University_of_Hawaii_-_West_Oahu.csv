@@ -1,23 +1,23 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,021078,University of Hawaii - West Oahu,Public,"Business Administration, Management and Operations.",Bachelor's Degree,122,12687,15578
 2016_2017,021078,University of Hawaii - West Oahu,Public,"Business Administration, Management and Operations.",Bachelor's Degree,150,14375,15701
-2015_2016,021078,University of Hawaii - West Oahu,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021078,University of Hawaii - West Oahu,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021078,University of Hawaii - West Oahu,Public,Cultural Studies/Critical Theory and Analysis.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021078,University of Hawaii - West Oahu,Public,Cultural Studies/Critical Theory and Analysis.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,021078,University of Hawaii - West Oahu,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2016_2017,021078,University of Hawaii - West Oahu,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2015_2016,021078,University of Hawaii - West Oahu,Public,Cultural Studies/Critical Theory and Analysis.,Undergraduate Certificate or Diploma,,,
+2016_2017,021078,University of Hawaii - West Oahu,Public,Cultural Studies/Critical Theory and Analysis.,Undergraduate Certificate or Diploma,,,
 2015_2016,021078,University of Hawaii - West Oahu,Public,"Education, General.",Bachelor's Degree,24,20366,19069
 2016_2017,021078,University of Hawaii - West Oahu,Public,"Education, General.",Bachelor's Degree,27,20500,21015
-2015_2016,021078,University of Hawaii - West Oahu,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021078,University of Hawaii - West Oahu,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,12757
-2015_2016,021078,University of Hawaii - West Oahu,Public,Homeland Security.,Undergraduate Certificate or Diploma,NA,19500,22967
-2016_2017,021078,University of Hawaii - West Oahu,Public,Homeland Security.,Undergraduate Certificate or Diploma,NA,NA,20705
-2015_2016,021078,University of Hawaii - West Oahu,Public,Insurance.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021078,University of Hawaii - West Oahu,Public,Insurance.,Undergraduate Certificate or Diploma,NA,NA,16930
-2015_2016,021078,University of Hawaii - West Oahu,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,13,NA,18559
+2015_2016,021078,University of Hawaii - West Oahu,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,021078,University of Hawaii - West Oahu,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,12757
+2015_2016,021078,University of Hawaii - West Oahu,Public,Homeland Security.,Undergraduate Certificate or Diploma,,19500,22967
+2016_2017,021078,University of Hawaii - West Oahu,Public,Homeland Security.,Undergraduate Certificate or Diploma,,,20705
+2015_2016,021078,University of Hawaii - West Oahu,Public,Insurance.,Undergraduate Certificate or Diploma,,,
+2016_2017,021078,University of Hawaii - West Oahu,Public,Insurance.,Undergraduate Certificate or Diploma,,,16930
+2015_2016,021078,University of Hawaii - West Oahu,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,13,,18559
 2016_2017,021078,University of Hawaii - West Oahu,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,20,13562,18969
-2015_2016,021078,University of Hawaii - West Oahu,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021078,University of Hawaii - West Oahu,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,21611
-2015_2016,021078,University of Hawaii - West Oahu,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,16,NA,14716
+2015_2016,021078,University of Hawaii - West Oahu,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,021078,University of Hawaii - West Oahu,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,21611
+2015_2016,021078,University of Hawaii - West Oahu,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,16,,14716
 2016_2017,021078,University of Hawaii - West Oahu,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,28,9000,11722
 2015_2016,021078,University of Hawaii - West Oahu,Public,Public Administration.,Bachelor's Degree,114,17454,18665
 2016_2017,021078,University of Hawaii - West Oahu,Public,Public Administration.,Bachelor's Degree,132,17493,18470

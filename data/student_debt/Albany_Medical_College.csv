@@ -1,15 +1,15 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,002887,Albany Medical College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,68,94479,86282
 2016_2017,002887,Albany Medical College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,38,102750,94365
-2015_2016,002887,Albany Medical College,Private,Bioethics/Medical Ethics.,Master's Degree,NA,NA,NA
-2015_2016,002887,Albany Medical College,Private,Bioethics/Medical Ethics.,Doctoral Degree,NA,NA,NA
-2015_2016,002887,Albany Medical College,Private,Bioethics/Medical Ethics.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002887,Albany Medical College,Private,Bioethics/Medical Ethics.,Master's Degree,NA,NA,NA
-2016_2017,002887,Albany Medical College,Private,Bioethics/Medical Ethics.,Doctoral Degree,NA,NA,NA
-2015_2016,002887,Albany Medical College,Private,"Biological and Biomedical Sciences, Other.",Master's Degree,NA,NA,NA
-2015_2016,002887,Albany Medical College,Private,"Biological and Biomedical Sciences, Other.",Doctoral Degree,NA,NA,NA
-2016_2017,002887,Albany Medical College,Private,"Biological and Biomedical Sciences, Other.",Master's Degree,NA,NA,NA
-2016_2017,002887,Albany Medical College,Private,"Biological and Biomedical Sciences, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,002887,Albany Medical College,Private,Bioethics/Medical Ethics.,Master's Degree,,,
+2015_2016,002887,Albany Medical College,Private,Bioethics/Medical Ethics.,Doctoral Degree,,,
+2015_2016,002887,Albany Medical College,Private,Bioethics/Medical Ethics.,Graduate/Professional Certificate,,,
+2016_2017,002887,Albany Medical College,Private,Bioethics/Medical Ethics.,Master's Degree,,,
+2016_2017,002887,Albany Medical College,Private,Bioethics/Medical Ethics.,Doctoral Degree,,,
+2015_2016,002887,Albany Medical College,Private,"Biological and Biomedical Sciences, Other.",Master's Degree,,,
+2015_2016,002887,Albany Medical College,Private,"Biological and Biomedical Sciences, Other.",Doctoral Degree,,,
+2016_2017,002887,Albany Medical College,Private,"Biological and Biomedical Sciences, Other.",Master's Degree,,,
+2016_2017,002887,Albany Medical College,Private,"Biological and Biomedical Sciences, Other.",Doctoral Degree,,,
 2015_2016,002887,Albany Medical College,Private,Medicine.,First Professional Degree,216,220377,207454
 2016_2017,002887,Albany Medical College,Private,Medicine.,First Professional Degree,192,217601,210401
 2015_2016,002887,Albany Medical College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,33,105000,91293

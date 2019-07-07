@@ -1,60 +1,60 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Associate's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Doctoral Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Associate's Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Bachelor's Degree,13,NA,20349
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Doctoral Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,10,NA,46699
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,11,NA,37496
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Doctoral Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Associate's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,14,NA,13874
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Associate's Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,19,NA,11410
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Master's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Doctoral Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,First Professional Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Doctoral Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,First Professional Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Associate's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Bachelor's Degree,13,NA,19882
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Master's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Doctoral Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,First Professional Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Associate's Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Bachelor's Degree,14,NA,21182
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Master's Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,First Professional Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious/Sacred Music.,Associate's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious/Sacred Music.,Master's Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious/Sacred Music.,Associate's Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious/Sacred Music.,Master's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Associate's Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Associate's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Post-baccalaureate Certificate,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Doctoral Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Associate's Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Bachelor's Degree,13,,20349
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Post-baccalaureate Certificate,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Bible/Biblical Studies.,Doctoral Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,10,,46699
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,11,,37496
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Doctoral Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Master's Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Graduate/Professional Certificate,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Associate's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,14,,13874
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Associate's Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,19,,11410
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Missions/Missionary Studies and Missiology.,Master's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Doctoral Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,First Professional Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,Doctoral Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Pastoral Counseling and Specialized Ministries.,First Professional Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Undergraduate Certificate or Diploma,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Associate's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Bachelor's Degree,13,,19882
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Master's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Doctoral Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,First Professional Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Undergraduate Certificate or Diploma,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Associate's Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Bachelor's Degree,14,,21182
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,Master's Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious Education.,First Professional Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious/Sacred Music.,Associate's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Religious/Sacred Music.,Master's Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious/Sacred Music.,Associate's Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Religious/Sacred Music.,Master's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Associate's Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
 2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Master's Degree,20,27129,31581
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Doctoral Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,First Professional Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Associate's Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Doctoral Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,First Professional Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Associate's Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
 2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Master's Degree,47,22391,26555
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Doctoral Degree,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,First Professional Degree,NA,NA,NA
-2015_2016,002485,Midwestern Baptist Theological Seminary,Private,"Theology and Religious Vocations, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002485,Midwestern Baptist Theological Seminary,Private,"Theology and Religious Vocations, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,Doctoral Degree,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,Theological and Ministerial Studies.,First Professional Degree,,,
+2015_2016,002485,Midwestern Baptist Theological Seminary,Private,"Theology and Religious Vocations, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,002485,Midwestern Baptist Theological Seminary,Private,"Theology and Religious Vocations, Other.",Undergraduate Certificate or Diploma,,,

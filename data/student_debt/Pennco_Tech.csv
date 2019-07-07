@@ -1,22 +1,22 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,009449,Pennco Tech,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,6333,7404
-2015_2016,021316,Pennco Tech,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,6606,6995
-2016_2017,009449,Pennco Tech,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,8123
+2015_2016,009449,Pennco Tech,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,6333,7404
+2015_2016,021316,Pennco Tech,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,6606,6995
+2016_2017,009449,Pennco Tech,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,8123
 2016_2017,021316,Pennco Tech,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,39,5837,6871
 2015_2016,009449,Pennco Tech,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,119,9500,8423
 2015_2016,021316,Pennco Tech,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,191,9500,8116
 2016_2017,009449,Pennco Tech,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,116,9500,8087
 2016_2017,021316,Pennco Tech,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,180,9500,8064
 2015_2016,009449,Pennco Tech,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,49,6333,5662
-2015_2016,021316,Pennco Tech,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,6146,5374
+2015_2016,021316,Pennco Tech,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,6146,5374
 2016_2017,009449,Pennco Tech,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,74,6333,5999
 2016_2017,021316,Pennco Tech,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,167,6139,5579
 2015_2016,009449,Pennco Tech,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,153,10200,10977
 2015_2016,021316,Pennco Tech,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,225,12858,10925
 2016_2017,009449,Pennco Tech,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,141,10200,11006
 2016_2017,021316,Pennco Tech,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,204,12758,10994
-2015_2016,009449,Pennco Tech,Proprietary,Homeland Security.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,009449,Pennco Tech,Proprietary,Homeland Security.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,009449,Pennco Tech,Proprietary,Homeland Security.,Undergraduate Certificate or Diploma,,,
+2016_2017,009449,Pennco Tech,Proprietary,Homeland Security.,Undergraduate Certificate or Diploma,,,
 2015_2016,009449,Pennco Tech,Proprietary,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,41,9500,10352
 2016_2017,009449,Pennco Tech,Proprietary,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,41,9500,9271
 2015_2016,009449,Pennco Tech,Proprietary,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,72,9870,10018

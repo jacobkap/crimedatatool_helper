@@ -1,60 +1,60 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,004866,Stautzenberger College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,30012
-2016_2017,004866,Stautzenberger College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,35217
-2016_2017,004866,Stautzenberger College,Proprietary,Agricultural Business and Management.,Associate's Degree,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,20000,20626
-2015_2016,004866,Stautzenberger College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,29425,27693
-2016_2017,004866,Stautzenberger College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,19653,18997
-2016_2017,004866,Stautzenberger College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,28418,27384
-2016_2017,004866,Stautzenberger College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,23207,22612
-2015_2016,004866,Stautzenberger College,Proprietary,Animal Sciences.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,Animal Sciences.,Associate's Degree,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,Animal Sciences.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,Animal Sciences.,Associate's Degree,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,33474,34043
-2016_2017,004866,Stautzenberger College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,36059
-2015_2016,004866,Stautzenberger College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,11609,12630
-2016_2017,004866,Stautzenberger College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,11609,12858
-2015_2016,004866,Stautzenberger College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,NA,27145,28473
-2016_2017,004866,Stautzenberger College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,30291
-2015_2016,004866,Stautzenberger College,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,18897
-2016_2017,004866,Stautzenberger College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,"Construction Trades, General.",Associate's Degree,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,NA,NA,9671
-2015_2016,004866,Stautzenberger College,Proprietary,Finance and Financial Management Services.,Associate's Degree,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,Finance and Financial Management Services.,Associate's Degree,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,16742,17766
-2015_2016,004866,Stautzenberger College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,NA,34179
-2016_2017,004866,Stautzenberger College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,14750,15021
-2016_2017,004866,Stautzenberger College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,31243,32614
-2015_2016,004866,Stautzenberger College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,16425
-2015_2016,004866,Stautzenberger College,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,004866,Stautzenberger College,Proprietary,Accounting and Related Services.,Associate's Degree,,,30012
+2016_2017,004866,Stautzenberger College,Proprietary,Accounting and Related Services.,Associate's Degree,,,35217
+2016_2017,004866,Stautzenberger College,Proprietary,Agricultural Business and Management.,Associate's Degree,,,
+2015_2016,004866,Stautzenberger College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,20000,20626
+2015_2016,004866,Stautzenberger College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,29425,27693
+2016_2017,004866,Stautzenberger College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,19653,18997
+2016_2017,004866,Stautzenberger College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,28418,27384
+2016_2017,004866,Stautzenberger College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,23207,22612
+2015_2016,004866,Stautzenberger College,Proprietary,Animal Sciences.,Undergraduate Certificate or Diploma,,,
+2015_2016,004866,Stautzenberger College,Proprietary,Animal Sciences.,Associate's Degree,,,
+2016_2017,004866,Stautzenberger College,Proprietary,Animal Sciences.,Undergraduate Certificate or Diploma,,,
+2016_2017,004866,Stautzenberger College,Proprietary,Animal Sciences.,Associate's Degree,,,
+2015_2016,004866,Stautzenberger College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,33474,34043
+2016_2017,004866,Stautzenberger College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,004866,Stautzenberger College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,,36059
+2015_2016,004866,Stautzenberger College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,004866,Stautzenberger College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,004866,Stautzenberger College,Proprietary,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,004866,Stautzenberger College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,11609,12630
+2016_2017,004866,Stautzenberger College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,11609,12858
+2015_2016,004866,Stautzenberger College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,,27145,28473
+2016_2017,004866,Stautzenberger College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,,,30291
+2015_2016,004866,Stautzenberger College,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,004866,Stautzenberger College,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,004866,Stautzenberger College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2015_2016,004866,Stautzenberger College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2016_2017,004866,Stautzenberger College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,18897
+2016_2017,004866,Stautzenberger College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2015_2016,004866,Stautzenberger College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2016_2017,004866,Stautzenberger College,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,004866,Stautzenberger College,Proprietary,"Construction Trades, General.",Associate's Degree,,,
+2016_2017,004866,Stautzenberger College,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,,,9671
+2015_2016,004866,Stautzenberger College,Proprietary,Finance and Financial Management Services.,Associate's Degree,,,
+2016_2017,004866,Stautzenberger College,Proprietary,Finance and Financial Management Services.,Associate's Degree,,,
+2015_2016,004866,Stautzenberger College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,16742,17766
+2015_2016,004866,Stautzenberger College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,,34179
+2016_2017,004866,Stautzenberger College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,14750,15021
+2016_2017,004866,Stautzenberger College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,31243,32614
+2015_2016,004866,Stautzenberger College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,16425
+2015_2016,004866,Stautzenberger College,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,,,
+2016_2017,004866,Stautzenberger College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
+2016_2017,004866,Stautzenberger College,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,,,
+2015_2016,004866,Stautzenberger College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
 2016_2017,004866,Stautzenberger College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,39,10154,11330
-2016_2017,004866,Stautzenberger College,Proprietary,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,9500,8469
-2015_2016,004866,Stautzenberger College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,Legal Support Services.,Associate's Degree,NA,29599,29646
-2016_2017,004866,Stautzenberger College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,13459,17736
-2016_2017,004866,Stautzenberger College,Proprietary,Legal Support Services.,Associate's Degree,NA,NA,29427
+2016_2017,004866,Stautzenberger College,Proprietary,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,004866,Stautzenberger College,Proprietary,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,9500,8469
+2015_2016,004866,Stautzenberger College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,004866,Stautzenberger College,Proprietary,Legal Support Services.,Associate's Degree,,29599,29646
+2016_2017,004866,Stautzenberger College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,13459,17736
+2016_2017,004866,Stautzenberger College,Proprietary,Legal Support Services.,Associate's Degree,,,29427
 2015_2016,004866,Stautzenberger College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,74,20000,20354
-2016_2017,004866,Stautzenberger College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,20000,21020
-2016_2017,004866,Stautzenberger College,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,"Radio, Television, and Digital Communication.",Associate's Degree,NA,NA,NA
-2016_2017,004866,Stautzenberger College,Proprietary,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004866,Stautzenberger College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,9072,9186
-2016_2017,004866,Stautzenberger College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,8968,8944
-2015_2016,004866,Stautzenberger College,Proprietary,Veterinary Biomedical and Clinical Sciences.,Associate's Degree,NA,NA,NA
+2016_2017,004866,Stautzenberger College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,20000,21020
+2016_2017,004866,Stautzenberger College,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2015_2016,004866,Stautzenberger College,Proprietary,"Radio, Television, and Digital Communication.",Associate's Degree,,,
+2016_2017,004866,Stautzenberger College,Proprietary,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,,,
+2015_2016,004866,Stautzenberger College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,9072,9186
+2016_2017,004866,Stautzenberger College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,8968,8944
+2015_2016,004866,Stautzenberger College,Proprietary,Veterinary Biomedical and Clinical Sciences.,Associate's Degree,,,
 2016_2017,004866,Stautzenberger College,Proprietary,Veterinary Biomedical and Clinical Sciences.,Associate's Degree,88,28458,28331

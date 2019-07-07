@@ -1,40 +1,40 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001212,Humphreys University,Private,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,001212,Humphreys University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001212,Humphreys University,Private,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,001212,Humphreys University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001212,Humphreys University,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,001212,Humphreys University,Private,Accounting and Related Services.,Associate's Degree,,,
+2015_2016,001212,Humphreys University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001212,Humphreys University,Private,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,001212,Humphreys University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,001212,Humphreys University,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,001212,Humphreys University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,21,46334,42801
-2016_2017,001212,Humphreys University,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2016_2017,001212,Humphreys University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,19,NA,37209
-2015_2016,001212,Humphreys University,Private,Community Organization and Advocacy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001212,Humphreys University,Private,Community Organization and Advocacy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001212,Humphreys University,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,001212,Humphreys University,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
+2016_2017,001212,Humphreys University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,19,,37209
+2015_2016,001212,Humphreys University,Private,Community Organization and Advocacy.,Bachelor's Degree,,,
+2016_2017,001212,Humphreys University,Private,Community Organization and Advocacy.,Bachelor's Degree,,,
+2015_2016,001212,Humphreys University,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2015_2016,001212,Humphreys University,Private,Criminal Justice and Corrections.,Bachelor's Degree,27,27983,28348
-2016_2017,001212,Humphreys University,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,001212,Humphreys University,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2016_2017,001212,Humphreys University,Private,Criminal Justice and Corrections.,Bachelor's Degree,21,31000,31354
-2016_2017,001212,Humphreys University,Private,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,001212,Humphreys University,Private,Educational Administration and Supervision.,Master's Degree,11,NA,83040
-2016_2017,001212,Humphreys University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
+2016_2017,001212,Humphreys University,Private,"Education, General.",Master's Degree,,,
+2015_2016,001212,Humphreys University,Private,Educational Administration and Supervision.,Master's Degree,11,,83040
+2016_2017,001212,Humphreys University,Private,Educational Administration and Supervision.,Master's Degree,,,
 2015_2016,001212,Humphreys University,Private,Law.,First Professional Degree,25,82000,76367
 2016_2017,001212,Humphreys University,Private,Law.,First Professional Degree,25,89317,93865
-2015_2016,001212,Humphreys University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,NA,32500,31292
-2016_2017,001212,Humphreys University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,NA,32000,33695
-2015_2016,001212,Humphreys University,Private,Legal Support Services.,Undergraduate Certificate or Diploma,12,NA,32964
-2015_2016,001212,Humphreys University,Private,Legal Support Services.,Associate's Degree,NA,NA,NA
-2015_2016,001212,Humphreys University,Private,Legal Support Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001212,Humphreys University,Private,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,31130
-2016_2017,001212,Humphreys University,Private,Legal Support Services.,Associate's Degree,NA,NA,NA
-2016_2017,001212,Humphreys University,Private,Legal Support Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001212,Humphreys University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
+2015_2016,001212,Humphreys University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,,32500,31292
+2016_2017,001212,Humphreys University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,,32000,33695
+2015_2016,001212,Humphreys University,Private,Legal Support Services.,Undergraduate Certificate or Diploma,12,,32964
+2015_2016,001212,Humphreys University,Private,Legal Support Services.,Associate's Degree,,,
+2015_2016,001212,Humphreys University,Private,Legal Support Services.,Bachelor's Degree,,,
+2016_2017,001212,Humphreys University,Private,Legal Support Services.,Undergraduate Certificate or Diploma,,,31130
+2016_2017,001212,Humphreys University,Private,Legal Support Services.,Associate's Degree,,,
+2016_2017,001212,Humphreys University,Private,Legal Support Services.,Bachelor's Degree,,,
+2015_2016,001212,Humphreys University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
 2015_2016,001212,Humphreys University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,20,35472,32826
-2016_2017,001212,Humphreys University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,001212,Humphreys University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,37465
-2015_2016,001212,Humphreys University,Private,Non-Professional General Legal Studies (Undergraduate).,Associate's Degree,NA,NA,NA
-2016_2017,001212,Humphreys University,Private,Non-Professional General Legal Studies (Undergraduate).,Associate's Degree,NA,NA,NA
-2015_2016,001212,Humphreys University,Private,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001212,Humphreys University,Private,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001212,Humphreys University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
+2016_2017,001212,Humphreys University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,001212,Humphreys University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,37465
+2015_2016,001212,Humphreys University,Private,Non-Professional General Legal Studies (Undergraduate).,Associate's Degree,,,
+2016_2017,001212,Humphreys University,Private,Non-Professional General Legal Studies (Undergraduate).,Associate's Degree,,,
+2015_2016,001212,Humphreys University,Private,"Social Sciences, Other.",Bachelor's Degree,,,
+2016_2017,001212,Humphreys University,Private,"Social Sciences, Other.",Bachelor's Degree,,,
+2015_2016,001212,Humphreys University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
 2015_2016,001212,Humphreys University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,29,44000,38421
-2016_2017,001212,Humphreys University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
+2016_2017,001212,Humphreys University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
 2016_2017,001212,Humphreys University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,26,46099,40687

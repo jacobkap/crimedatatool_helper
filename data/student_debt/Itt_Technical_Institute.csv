@@ -1,80 +1,80 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,007329,Itt Technical Institute,Proprietary,Accounting and Related Services.,Associate's Degree,NA,21425,21009
-2015_2016,007329,Itt Technical Institute,Proprietary,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,030718,Itt Technical Institute,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,007329,Itt Technical Institute,Proprietary,Accounting and Related Services.,Associate's Degree,NA,21425,21294
-2016_2017,007329,Itt Technical Institute,Proprietary,Accounting and Related Services.,Bachelor's Degree,NA,NA,40695
-2015_2016,007329,Itt Technical Institute,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,14229,16986
-2016_2017,007329,Itt Technical Institute,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,14851,17387
-2015_2016,007329,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,007329,Itt Technical Institute,Proprietary,Accounting and Related Services.,Associate's Degree,,21425,21009
+2015_2016,007329,Itt Technical Institute,Proprietary,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,030718,Itt Technical Institute,Proprietary,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,007329,Itt Technical Institute,Proprietary,Accounting and Related Services.,Associate's Degree,,21425,21294
+2016_2017,007329,Itt Technical Institute,Proprietary,Accounting and Related Services.,Bachelor's Degree,,,40695
+2015_2016,007329,Itt Technical Institute,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,14229,16986
+2016_2017,007329,Itt Technical Institute,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,14851,17387
+2015_2016,007329,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,007329,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,977,48247,42254
 2015_2016,007329,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Master's Degree,36,26564,25141
-2015_2016,030718,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,41500,37240
-2016_2017,007329,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,46711,42140
-2016_2017,007329,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Master's Degree,NA,26464,24687
-2016_2017,030718,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,35718
-2015_2016,007329,Itt Technical Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,24688,25822
-2015_2016,030718,Itt Technical Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,NA,29550
-2016_2017,007329,Itt Technical Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,24688,25240
-2016_2017,030718,Itt Technical Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,NA,29025
-2015_2016,007329,Itt Technical Institute,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,007329,Itt Technical Institute,Proprietary,Computer Programming.,Associate's Degree,NA,24167,25286
-2015_2016,007329,Itt Technical Institute,Proprietary,Computer Programming.,Bachelor's Degree,NA,NA,NA
-2015_2016,030718,Itt Technical Institute,Proprietary,Computer Programming.,Associate's Degree,NA,24167,NA
-2015_2016,030718,Itt Technical Institute,Proprietary,Computer Programming.,Bachelor's Degree,NA,NA,NA
-2016_2017,007329,Itt Technical Institute,Proprietary,Computer Programming.,Associate's Degree,NA,24167,24747
-2016_2017,007329,Itt Technical Institute,Proprietary,Computer Programming.,Bachelor's Degree,NA,NA,NA
-2016_2017,030718,Itt Technical Institute,Proprietary,Computer Programming.,Associate's Degree,NA,24313,22191
+2015_2016,030718,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,41500,37240
+2016_2017,007329,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,46711,42140
+2016_2017,007329,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Master's Degree,,26464,24687
+2016_2017,030718,Itt Technical Institute,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,,35718
+2015_2016,007329,Itt Technical Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,,24688,25822
+2015_2016,030718,Itt Technical Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,,,29550
+2016_2017,007329,Itt Technical Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,,24688,25240
+2016_2017,030718,Itt Technical Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,,,29025
+2015_2016,007329,Itt Technical Institute,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,,,
+2015_2016,007329,Itt Technical Institute,Proprietary,Computer Programming.,Associate's Degree,,24167,25286
+2015_2016,007329,Itt Technical Institute,Proprietary,Computer Programming.,Bachelor's Degree,,,
+2015_2016,030718,Itt Technical Institute,Proprietary,Computer Programming.,Associate's Degree,,24167,
+2015_2016,030718,Itt Technical Institute,Proprietary,Computer Programming.,Bachelor's Degree,,,
+2016_2017,007329,Itt Technical Institute,Proprietary,Computer Programming.,Associate's Degree,,24167,24747
+2016_2017,007329,Itt Technical Institute,Proprietary,Computer Programming.,Bachelor's Degree,,,
+2016_2017,030718,Itt Technical Institute,Proprietary,Computer Programming.,Associate's Degree,,24313,22191
 2015_2016,007329,Itt Technical Institute,Proprietary,Computer Software and Media Applications.,Associate's Degree,27,25339,25630
-2016_2017,007329,Itt Technical Institute,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,23394,23181
+2016_2017,007329,Itt Technical Institute,Proprietary,Computer Software and Media Applications.,Associate's Degree,,23394,23181
 2015_2016,007329,Itt Technical Institute,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,602,28168,27029
-2016_2017,007329,Itt Technical Institute,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,28168,26485
-2015_2016,007329,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,24167,24753
-2015_2016,007329,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,49167,42618
-2015_2016,030718,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,24167,24207
+2016_2017,007329,Itt Technical Institute,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,,28168,26485
+2015_2016,007329,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,24167,24753
+2015_2016,007329,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,,49167,42618
+2015_2016,030718,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,24167,24207
 2015_2016,030718,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,26,50789,38792
-2016_2017,007329,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,24167,24148
-2016_2017,007329,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,46475,41629
-2016_2017,030718,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,24167,23631
-2016_2017,030718,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,43177,37812
+2016_2017,007329,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,24167,24148
+2016_2017,007329,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,,46475,41629
+2016_2017,030718,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,24167,23631
+2016_2017,030718,Itt Technical Institute,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,,43177,37812
 2015_2016,007329,Itt Technical Institute,Proprietary,Construction Management.,Bachelor's Degree,43,54921,50185
-2015_2016,030718,Itt Technical Institute,Proprietary,Construction Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,007329,Itt Technical Institute,Proprietary,Construction Management.,Bachelor's Degree,NA,55982,50714
+2015_2016,030718,Itt Technical Institute,Proprietary,Construction Management.,Bachelor's Degree,,,
+2016_2017,007329,Itt Technical Institute,Proprietary,Construction Management.,Bachelor's Degree,,55982,50714
 2015_2016,007329,Itt Technical Institute,Proprietary,"Construction Trades, General.",Associate's Degree,21,32500,31753
-2016_2017,007329,Itt Technical Institute,Proprietary,"Construction Trades, General.",Associate's Degree,NA,NA,33159
+2016_2017,007329,Itt Technical Institute,Proprietary,"Construction Trades, General.",Associate's Degree,,,33159
 2015_2016,007329,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Associate's Degree,610,25453,25817
 2015_2016,007329,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,99,54878,49973
-2015_2016,030718,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2015_2016,030718,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2016_2017,007329,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Associate's Degree,NA,26061,25892
-2016_2017,007329,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,54500,49323
-2016_2017,030718,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,030718,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
+2015_2016,030718,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Associate's Degree,,,
+2015_2016,030718,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2016_2017,007329,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Associate's Degree,,26061,25892
+2016_2017,007329,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,54500,49323
+2016_2017,030718,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,030718,Itt Technical Institute,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,,
 2015_2016,007329,Itt Technical Institute,Proprietary,Design and Applied Arts.,Associate's Degree,99,24902,25549
-2016_2017,007329,Itt Technical Institute,Proprietary,Design and Applied Arts.,Associate's Degree,NA,27334,27576
-2015_2016,007329,Itt Technical Institute,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,24688,25563
+2016_2017,007329,Itt Technical Institute,Proprietary,Design and Applied Arts.,Associate's Degree,,27334,27576
+2015_2016,007329,Itt Technical Institute,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,24688,25563
 2015_2016,030718,Itt Technical Institute,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,41,24167,22181
-2016_2017,007329,Itt Technical Institute,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,24668,25095
-2016_2017,030718,Itt Technical Institute,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,24167,22832
-2015_2016,007329,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,24340,24982
-2015_2016,007329,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,49499,43142
-2015_2016,030718,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,24133,22226
-2015_2016,030718,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,49688,43250
-2016_2017,007329,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,24167,24462
-2016_2017,007329,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,47878,43097
-2016_2017,030718,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,24119,22432
-2016_2017,030718,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,49309,41599
-2015_2016,007329,Itt Technical Institute,Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2015_2016,030718,Itt Technical Institute,Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2016_2017,007329,Itt Technical Institute,Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2015_2016,007329,Itt Technical Institute,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,28591,28805
-2016_2017,007329,Itt Technical Institute,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,28334,28571
-2015_2016,007329,Itt Technical Institute,Proprietary,Industrial Production Technologies/Technicians.,Associate's Degree,NA,24167,24763
-2015_2016,030718,Itt Technical Institute,Proprietary,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,007329,Itt Technical Institute,Proprietary,Industrial Production Technologies/Technicians.,Associate's Degree,NA,24167,24153
+2016_2017,007329,Itt Technical Institute,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,24668,25095
+2016_2017,030718,Itt Technical Institute,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,24167,22832
+2015_2016,007329,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,,24340,24982
+2015_2016,007329,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,49499,43142
+2015_2016,030718,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,,24133,22226
+2015_2016,030718,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,49688,43250
+2016_2017,007329,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,,24167,24462
+2016_2017,007329,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,47878,43097
+2016_2017,030718,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,,24119,22432
+2016_2017,030718,Itt Technical Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,49309,41599
+2015_2016,007329,Itt Technical Institute,Proprietary,Graphic Communications.,Bachelor's Degree,,,
+2015_2016,030718,Itt Technical Institute,Proprietary,Graphic Communications.,Bachelor's Degree,,,
+2016_2017,007329,Itt Technical Institute,Proprietary,Graphic Communications.,Bachelor's Degree,,,
+2015_2016,007329,Itt Technical Institute,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,28591,28805
+2016_2017,007329,Itt Technical Institute,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,28334,28571
+2015_2016,007329,Itt Technical Institute,Proprietary,Industrial Production Technologies/Technicians.,Associate's Degree,,24167,24763
+2015_2016,030718,Itt Technical Institute,Proprietary,Industrial Production Technologies/Technicians.,Associate's Degree,,,
+2016_2017,007329,Itt Technical Institute,Proprietary,Industrial Production Technologies/Technicians.,Associate's Degree,,24167,24153
 2015_2016,007329,Itt Technical Institute,Proprietary,Legal Support Services.,Associate's Degree,130,25100,26342
-2016_2017,007329,Itt Technical Institute,Proprietary,Legal Support Services.,Associate's Degree,NA,25731,27155
+2016_2017,007329,Itt Technical Institute,Proprietary,Legal Support Services.,Associate's Degree,,25731,27155
 2015_2016,007329,Itt Technical Institute,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,1505,29145,28663
-2015_2016,007329,Itt Technical Institute,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,007329,Itt Technical Institute,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,28681,27920
-2016_2017,007329,Itt Technical Institute,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
+2015_2016,007329,Itt Technical Institute,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,007329,Itt Technical Institute,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,28681,27920
+2016_2017,007329,Itt Technical Institute,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,

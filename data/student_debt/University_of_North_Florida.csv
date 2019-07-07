@@ -1,43 +1,43 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,009841,University of North Florida,Public,Accounting and Related Services.,Bachelor's Degree,75,16750,19776
-2015_2016,009841,University of North Florida,Public,Accounting and Related Services.,Master's Degree,19,NA,27455
+2015_2016,009841,University of North Florida,Public,Accounting and Related Services.,Master's Degree,19,,27455
 2016_2017,009841,University of North Florida,Public,Accounting and Related Services.,Bachelor's Degree,97,17000,19918
-2016_2017,009841,University of North Florida,Public,Accounting and Related Services.,Master's Degree,14,NA,21822
+2016_2017,009841,University of North Florida,Public,Accounting and Related Services.,Master's Degree,14,,21822
 2015_2016,009841,University of North Florida,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,30,19137,17540
 2016_2017,009841,University of North Florida,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,26,14000,14735
-2015_2016,009841,University of North Florida,Public,American Sign Language.,Bachelor's Degree,15,NA,15629
-2015_2016,009841,University of North Florida,Public,American Sign Language.,Master's Degree,17,NA,25627
+2015_2016,009841,University of North Florida,Public,American Sign Language.,Bachelor's Degree,15,,15629
+2015_2016,009841,University of North Florida,Public,American Sign Language.,Master's Degree,17,,25627
 2016_2017,009841,University of North Florida,Public,American Sign Language.,Bachelor's Degree,24,13000,14351
-2016_2017,009841,University of North Florida,Public,American Sign Language.,Master's Degree,18,NA,22023
+2016_2017,009841,University of North Florida,Public,American Sign Language.,Master's Degree,18,,22023
 2015_2016,009841,University of North Florida,Public,Anthropology.,Bachelor's Degree,30,14445,16847
 2016_2017,009841,University of North Florida,Public,Anthropology.,Bachelor's Degree,29,14890,15874
-2015_2016,009841,University of North Florida,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,009841,University of North Florida,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
-2015_2016,009841,University of North Florida,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,009841,University of North Florida,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,Applied Mathematics.,Master's Degree,,,
+2016_2017,009841,University of North Florida,Public,Applied Mathematics.,Master's Degree,,,
+2015_2016,009841,University of North Florida,Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,009841,University of North Florida,Public,Area Studies.,Bachelor's Degree,,,
 2015_2016,009841,University of North Florida,Public,"Biology, General.",Bachelor's Degree,124,18750,18783
-2015_2016,009841,University of North Florida,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,"Biology, General.",Master's Degree,,,
 2016_2017,009841,University of North Florida,Public,"Biology, General.",Bachelor's Degree,146,17599,18874
-2016_2017,009841,University of North Florida,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2016_2017,009841,University of North Florida,Public,"Biology, General.",Master's Degree,,,
 2015_2016,009841,University of North Florida,Public,"Business Administration, Management and Operations.",Bachelor's Degree,174,18562,19359
 2015_2016,009841,University of North Florida,Public,"Business Administration, Management and Operations.",Master's Degree,82,24806,29312
 2016_2017,009841,University of North Florida,Public,"Business Administration, Management and Operations.",Bachelor's Degree,189,16986,18809
 2016_2017,009841,University of North Florida,Public,"Business Administration, Management and Operations.",Master's Degree,87,30750,30736
-2016_2017,009841,University of North Florida,Public,"Business/Commerce, General.",Master's Degree,NA,NA,NA
-2015_2016,009841,University of North Florida,Public,Business/Managerial Economics.,Bachelor's Degree,19,NA,22344
-2016_2017,009841,University of North Florida,Public,Business/Managerial Economics.,Bachelor's Degree,19,NA,22786
-2015_2016,009841,University of North Florida,Public,Chemistry.,Bachelor's Degree,17,NA,20737
+2016_2017,009841,University of North Florida,Public,"Business/Commerce, General.",Master's Degree,,,
+2015_2016,009841,University of North Florida,Public,Business/Managerial Economics.,Bachelor's Degree,19,,22344
+2016_2017,009841,University of North Florida,Public,Business/Managerial Economics.,Bachelor's Degree,19,,22786
+2015_2016,009841,University of North Florida,Public,Chemistry.,Bachelor's Degree,17,,20737
 2016_2017,009841,University of North Florida,Public,Chemistry.,Bachelor's Degree,23,13750,19118
 2015_2016,009841,University of North Florida,Public,Civil Engineering.,Bachelor's Degree,44,19799,21001
-2015_2016,009841,University of North Florida,Public,Civil Engineering.,Master's Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,Civil Engineering.,Master's Degree,,,
 2016_2017,009841,University of North Florida,Public,Civil Engineering.,Bachelor's Degree,36,19750,22320
-2016_2017,009841,University of North Florida,Public,Civil Engineering.,Master's Degree,NA,NA,NA
+2016_2017,009841,University of North Florida,Public,Civil Engineering.,Master's Degree,,,
 2015_2016,009841,University of North Florida,Public,Communication and Media Studies.,Bachelor's Degree,251,15359,17758
 2016_2017,009841,University of North Florida,Public,Communication and Media Studies.,Bachelor's Degree,241,15000,17842
 2015_2016,009841,University of North Florida,Public,"Computer and Information Sciences, General.",Bachelor's Degree,88,23037,23451
-2015_2016,009841,University of North Florida,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,"Computer and Information Sciences, General.",Master's Degree,,,
 2016_2017,009841,University of North Florida,Public,"Computer and Information Sciences, General.",Bachelor's Degree,131,22000,21992
-2016_2017,009841,University of North Florida,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,009841,University of North Florida,Public,"Computer and Information Sciences, General.",Master's Degree,,,
 2015_2016,009841,University of North Florida,Public,Construction Engineering Technologies.,Bachelor's Degree,28,18000,19751
 2016_2017,009841,University of North Florida,Public,Construction Engineering Technologies.,Bachelor's Degree,44,18036,19680
 2015_2016,009841,University of North Florida,Public,Criminal Justice and Corrections.,Bachelor's Degree,159,15500,18316
@@ -51,93 +51,93 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,009841,University of North Florida,Public,Economics.,Bachelor's Degree,26,11750,15652
 2016_2017,009841,University of North Florida,Public,Economics.,Bachelor's Degree,22,13250,17866
 2015_2016,009841,University of North Florida,Public,Educational Administration and Supervision.,Master's Degree,49,29251,28391
-2015_2016,009841,University of North Florida,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,Educational Administration and Supervision.,Doctoral Degree,,,
 2016_2017,009841,University of North Florida,Public,Educational Administration and Supervision.,Master's Degree,56,28125,29057
-2016_2017,009841,University of North Florida,Public,Educational Administration and Supervision.,Doctoral Degree,12,NA,71377
+2016_2017,009841,University of North Florida,Public,Educational Administration and Supervision.,Doctoral Degree,12,,71377
 2015_2016,009841,University of North Florida,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,31,23500,24433
-2015_2016,009841,University of North Florida,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
 2016_2017,009841,University of North Florida,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,32,22306,22708
-2016_2017,009841,University of North Florida,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2016_2017,009841,University of North Florida,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
 2015_2016,009841,University of North Florida,Public,"English Language and Literature, General.",Bachelor's Degree,76,17050,17266
-2015_2016,009841,University of North Florida,Public,"English Language and Literature, General.",Master's Degree,15,NA,24651
+2015_2016,009841,University of North Florida,Public,"English Language and Literature, General.",Master's Degree,15,,24651
 2016_2017,009841,University of North Florida,Public,"English Language and Literature, General.",Bachelor's Degree,80,17050,18959
-2016_2017,009841,University of North Florida,Public,"English Language and Literature, General.",Master's Degree,15,NA,28742
+2016_2017,009841,University of North Florida,Public,"English Language and Literature, General.",Master's Degree,15,,28742
 2015_2016,009841,University of North Florida,Public,Finance and Financial Management Services.,Bachelor's Degree,88,16923,19178
 2016_2017,009841,University of North Florida,Public,Finance and Financial Management Services.,Bachelor's Degree,98,13973,17713
 2015_2016,009841,University of North Florida,Public,Fine and Studio Arts.,Bachelor's Degree,102,18575,19005
 2016_2017,009841,University of North Florida,Public,Fine and Studio Arts.,Bachelor's Degree,100,18875,19918
 2015_2016,009841,University of North Florida,Public,Health and Medical Administrative Services.,Bachelor's Degree,106,18750,19781
-2015_2016,009841,University of North Florida,Public,Health and Medical Administrative Services.,Master's Degree,10,NA,50960
+2015_2016,009841,University of North Florida,Public,Health and Medical Administrative Services.,Master's Degree,10,,50960
 2016_2017,009841,University of North Florida,Public,Health and Medical Administrative Services.,Bachelor's Degree,123,16500,18508
 2016_2017,009841,University of North Florida,Public,Health and Medical Administrative Services.,Master's Degree,21,39837,44312
 2015_2016,009841,University of North Florida,Public,Health and Physical Education/Fitness.,Bachelor's Degree,59,15416,16893
 2016_2017,009841,University of North Florida,Public,Health and Physical Education/Fitness.,Bachelor's Degree,63,19035,17643
 2015_2016,009841,University of North Florida,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,138,15237,18981
-2015_2016,009841,University of North Florida,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,16,NA,33524
+2015_2016,009841,University of North Florida,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,16,,33524
 2016_2017,009841,University of North Florida,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,196,15500,18334
 2016_2017,009841,University of North Florida,Public,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,22,36119,36469
 2015_2016,009841,University of North Florida,Public,History.,Bachelor's Degree,55,25000,22717
-2015_2016,009841,University of North Florida,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,History.,Master's Degree,,,
 2016_2017,009841,University of North Florida,Public,History.,Bachelor's Degree,47,20500,20743
-2016_2017,009841,University of North Florida,Public,History.,Master's Degree,NA,NA,NA
+2016_2017,009841,University of North Florida,Public,History.,Master's Degree,,,
 2015_2016,009841,University of North Florida,Public,International Business.,Bachelor's Degree,34,20093,19055
 2016_2017,009841,University of North Florida,Public,International Business.,Bachelor's Degree,36,16249,16930
-2016_2017,009841,University of North Florida,Public,International Relations and National Security Studies.,Master's Degree,NA,NA,NA
+2016_2017,009841,University of North Florida,Public,International Relations and National Security Studies.,Master's Degree,,,
 2015_2016,009841,University of North Florida,Public,International/Global Studies.,Bachelor's Degree,52,15000,16600
 2016_2017,009841,University of North Florida,Public,International/Global Studies.,Bachelor's Degree,54,15075,17871
-2015_2016,009841,University of North Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,009841,University of North Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,009841,University of North Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,009841,University of North Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,9761
+2015_2016,009841,University of North Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,009841,University of North Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,009841,University of North Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,009841,University of North Florida,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,9761
 2015_2016,009841,University of North Florida,Public,Marketing.,Bachelor's Degree,64,15772,17022
 2016_2017,009841,University of North Florida,Public,Marketing.,Bachelor's Degree,84,16531,17016
-2015_2016,009841,University of North Florida,Public,Mathematics.,Bachelor's Degree,12,NA,18815
+2015_2016,009841,University of North Florida,Public,Mathematics.,Bachelor's Degree,12,,18815
 2016_2017,009841,University of North Florida,Public,Mathematics.,Bachelor's Degree,21,22500,19120
 2015_2016,009841,University of North Florida,Public,Mechanical Engineering.,Bachelor's Degree,62,15125,18426
-2015_2016,009841,University of North Florida,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,Mechanical Engineering.,Master's Degree,,,
 2016_2017,009841,University of North Florida,Public,Mechanical Engineering.,Bachelor's Degree,53,13500,16350
-2016_2017,009841,University of North Florida,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
+2016_2017,009841,University of North Florida,Public,Mechanical Engineering.,Master's Degree,,,
 2015_2016,009841,University of North Florida,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,20,41000,41907
 2016_2017,009841,University of North Florida,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,36,41000,41052
 2015_2016,009841,University of North Florida,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,31,17022,17820
 2016_2017,009841,University of North Florida,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,68,18117,19040
-2015_2016,009841,University of North Florida,Public,Music.,Bachelor's Degree,18,NA,19934
-2015_2016,009841,University of North Florida,Public,Music.,Master's Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,Music.,Bachelor's Degree,18,,19934
+2015_2016,009841,University of North Florida,Public,Music.,Master's Degree,,,
 2016_2017,009841,University of North Florida,Public,Music.,Bachelor's Degree,23,19000,18481
-2016_2017,009841,University of North Florida,Public,Music.,Master's Degree,NA,NA,27377
-2015_2016,009841,University of North Florida,Public,Philosophy.,Bachelor's Degree,16,NA,22253
-2015_2016,009841,University of North Florida,Public,Philosophy.,Master's Degree,NA,NA,NA
-2016_2017,009841,University of North Florida,Public,Philosophy.,Bachelor's Degree,14,NA,20560
-2016_2017,009841,University of North Florida,Public,Philosophy.,Master's Degree,NA,NA,NA
-2015_2016,009841,University of North Florida,Public,Physics.,Bachelor's Degree,18,NA,24053
-2016_2017,009841,University of North Florida,Public,Physics.,Bachelor's Degree,18,NA,20617
+2016_2017,009841,University of North Florida,Public,Music.,Master's Degree,,,27377
+2015_2016,009841,University of North Florida,Public,Philosophy.,Bachelor's Degree,16,,22253
+2015_2016,009841,University of North Florida,Public,Philosophy.,Master's Degree,,,
+2016_2017,009841,University of North Florida,Public,Philosophy.,Bachelor's Degree,14,,20560
+2016_2017,009841,University of North Florida,Public,Philosophy.,Master's Degree,,,
+2015_2016,009841,University of North Florida,Public,Physics.,Bachelor's Degree,18,,24053
+2016_2017,009841,University of North Florida,Public,Physics.,Bachelor's Degree,18,,20617
 2015_2016,009841,University of North Florida,Public,Political Science and Government.,Bachelor's Degree,91,20500,20425
 2016_2017,009841,University of North Florida,Public,Political Science and Government.,Bachelor's Degree,88,20444,20341
 2015_2016,009841,University of North Florida,Public,"Psychology, General.",Bachelor's Degree,338,16750,17746
-2015_2016,009841,University of North Florida,Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,"Psychology, General.",Master's Degree,,,
 2016_2017,009841,University of North Florida,Public,"Psychology, General.",Bachelor's Degree,193,15701,17360
-2016_2017,009841,University of North Florida,Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,009841,University of North Florida,Public,Public Administration.,Master's Degree,17,NA,35026
-2016_2017,009841,University of North Florida,Public,Public Administration.,Master's Degree,13,NA,31330
-2015_2016,009841,University of North Florida,Public,Public Health.,Master's Degree,10,NA,34971
+2016_2017,009841,University of North Florida,Public,"Psychology, General.",Master's Degree,,,
+2015_2016,009841,University of North Florida,Public,Public Administration.,Master's Degree,17,,35026
+2016_2017,009841,University of North Florida,Public,Public Administration.,Master's Degree,13,,31330
+2015_2016,009841,University of North Florida,Public,Public Health.,Master's Degree,10,,34971
 2016_2017,009841,University of North Florida,Public,Public Health.,Master's Degree,24,34229,35061
 2015_2016,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,158,17177,17095
 2015_2016,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,65,64420,69538
-2015_2016,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2015_2016,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2015_2016,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
 2016_2017,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,229,13908,15462
 2016_2017,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,48,76012,76558
-2016_2017,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,39903
-2016_2017,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,009841,University of North Florida,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,71500,74221
-2015_2016,009841,University of North Florida,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2016_2017,009841,University of North Florida,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,76462,81788
-2016_2017,009841,University of North Florida,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,61500,68284
-2016_2017,009841,University of North Florida,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2015_2016,009841,University of North Florida,Public,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,009841,University of North Florida,Public,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,39903
+2016_2017,009841,University of North Florida,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,009841,University of North Florida,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,71500,74221
+2015_2016,009841,University of North Florida,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2016_2017,009841,University of North Florida,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,76462,81788
+2016_2017,009841,University of North Florida,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,61500,68284
+2016_2017,009841,University of North Florida,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2015_2016,009841,University of North Florida,Public,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,009841,University of North Florida,Public,Religion/Religious Studies.,Bachelor's Degree,,,
 2016_2017,009841,University of North Florida,Public,Research and Experimental Psychology.,Bachelor's Degree,128,17625,18375
-2016_2017,009841,University of North Florida,Public,Research and Experimental Psychology.,Master's Degree,NA,NA,NA
+2016_2017,009841,University of North Florida,Public,Research and Experimental Psychology.,Master's Degree,,,
 2015_2016,009841,University of North Florida,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,22,17048,16679
 2016_2017,009841,University of North Florida,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,20,18750,17872
 2015_2016,009841,University of North Florida,Public,Social Work.,Bachelor's Degree,29,14744,17262
@@ -146,10 +146,10 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,009841,University of North Florida,Public,Sociology.,Bachelor's Degree,61,21500,21000
 2015_2016,009841,University of North Florida,Public,Special Education and Teaching.,Bachelor's Degree,25,13500,16341
 2015_2016,009841,University of North Florida,Public,Special Education and Teaching.,Master's Degree,28,30750,32314
-2016_2017,009841,University of North Florida,Public,Special Education and Teaching.,Bachelor's Degree,17,NA,14266
+2016_2017,009841,University of North Florida,Public,Special Education and Teaching.,Bachelor's Degree,17,,14266
 2016_2017,009841,University of North Florida,Public,Special Education and Teaching.,Master's Degree,34,28920,31322
-2015_2016,009841,University of North Florida,Public,Statistics.,Bachelor's Degree,NA,NA,NA
-2016_2017,009841,University of North Florida,Public,Statistics.,Bachelor's Degree,NA,NA,NA
+2015_2016,009841,University of North Florida,Public,Statistics.,Bachelor's Degree,,,
+2016_2017,009841,University of North Florida,Public,Statistics.,Bachelor's Degree,,,
 2015_2016,009841,University of North Florida,Public,Student Counseling and Personnel Services.,Master's Degree,36,40901,38054
 2016_2017,009841,University of North Florida,Public,Student Counseling and Personnel Services.,Master's Degree,23,40100,36682
 2015_2016,009841,University of North Florida,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,147,16544,17906
@@ -157,4 +157,4 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,009841,University of North Florida,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,134,17725,18464
 2016_2017,009841,University of North Florida,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,22,26699,26664
 2015_2016,009841,University of North Florida,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,26,21318,21401
-2016_2017,009841,University of North Florida,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,16,NA,24765
+2016_2017,009841,University of North Florida,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,16,,24765

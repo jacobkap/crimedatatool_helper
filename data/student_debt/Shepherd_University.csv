@@ -1,88 +1,88 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003822,Shepherd University,Public,Accounting and Related Services.,Bachelor's Degree,18,NA,21606
-2016_2017,003822,Shepherd University,Public,Accounting and Related Services.,Bachelor's Degree,15,NA,21918
-2015_2016,003822,Shepherd University,Public,Area Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003822,Shepherd University,Public,Area Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,041933,Shepherd University,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,041933,Shepherd University,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,003822,Shepherd University,Public,Accounting and Related Services.,Bachelor's Degree,18,,21606
+2016_2017,003822,Shepherd University,Public,Accounting and Related Services.,Bachelor's Degree,15,,21918
+2015_2016,003822,Shepherd University,Public,Area Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003822,Shepherd University,Public,Area Studies.,Post-baccalaureate Certificate,,,
+2015_2016,041933,Shepherd University,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2016_2017,041933,Shepherd University,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
 2015_2016,003822,Shepherd University,Public,"Biology, General.",Bachelor's Degree,39,19020,19891
 2016_2017,003822,Shepherd University,Public,"Biology, General.",Bachelor's Degree,50,18430,19290
 2015_2016,003822,Shepherd University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,63,21865,22103
-2015_2016,003822,Shepherd University,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
+2015_2016,003822,Shepherd University,Public,"Business Administration, Management and Operations.",Master's Degree,,,
 2016_2017,003822,Shepherd University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,90,21614,21412
 2016_2017,003822,Shepherd University,Public,"Business Administration, Management and Operations.",Master's Degree,20,25717,24112
-2015_2016,003822,Shepherd University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003822,Shepherd University,Public,Chemistry.,Bachelor's Degree,11,NA,23363
+2015_2016,003822,Shepherd University,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,003822,Shepherd University,Public,Chemistry.,Bachelor's Degree,11,,23363
 2015_2016,003822,Shepherd University,Public,Communication and Media Studies.,Bachelor's Degree,33,15756,17848
 2016_2017,003822,Shepherd University,Public,Communication and Media Studies.,Bachelor's Degree,36,18513,18900
 2015_2016,003822,Shepherd University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,32,20024,22523
 2016_2017,003822,Shepherd University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,39,19500,22297
-2015_2016,003822,Shepherd University,Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003822,Shepherd University,Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003822,Shepherd University,Public,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,003822,Shepherd University,Public,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,003822,Shepherd University,Public,Economics.,Bachelor's Degree,12,NA,19610
-2016_2017,003822,Shepherd University,Public,Economics.,Bachelor's Degree,12,NA,17819
+2015_2016,003822,Shepherd University,Public,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,003822,Shepherd University,Public,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,003822,Shepherd University,Public,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,003822,Shepherd University,Public,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,003822,Shepherd University,Public,Economics.,Bachelor's Degree,12,,19610
+2016_2017,003822,Shepherd University,Public,Economics.,Bachelor's Degree,12,,17819
 2015_2016,003822,Shepherd University,Public,"English Language and Literature, General.",Bachelor's Degree,20,23424,25494
 2016_2017,003822,Shepherd University,Public,"English Language and Literature, General.",Bachelor's Degree,26,21674,24206
-2015_2016,003822,Shepherd University,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,11,NA,23544
-2016_2017,003822,Shepherd University,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,14,NA,25615
+2015_2016,003822,Shepherd University,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,11,,23544
+2016_2017,003822,Shepherd University,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,14,,25615
 2015_2016,003822,Shepherd University,Public,Fine and Studio Arts.,Bachelor's Degree,36,24118,22507
 2016_2017,003822,Shepherd University,Public,Fine and Studio Arts.,Bachelor's Degree,47,20500,21868
-2015_2016,041933,Shepherd University,Private,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2015_2016,041933,Shepherd University,Private,Graphic Communications.,Master's Degree,NA,NA,NA
-2016_2017,041933,Shepherd University,Private,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2016_2017,041933,Shepherd University,Private,Graphic Communications.,Master's Degree,NA,NA,NA
-2016_2017,003822,Shepherd University,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,041933,Shepherd University,Private,Graphic Communications.,Bachelor's Degree,,,
+2015_2016,041933,Shepherd University,Private,Graphic Communications.,Master's Degree,,,
+2016_2017,041933,Shepherd University,Private,Graphic Communications.,Bachelor's Degree,,,
+2016_2017,041933,Shepherd University,Private,Graphic Communications.,Master's Degree,,,
+2016_2017,003822,Shepherd University,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
 2015_2016,003822,Shepherd University,Public,History.,Bachelor's Degree,28,22606,24510
 2016_2017,003822,Shepherd University,Public,History.,Bachelor's Degree,35,25000,23366
 2015_2016,003822,Shepherd University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,79,19500,21952
 2016_2017,003822,Shepherd University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,115,21750,23379
-2015_2016,003822,Shepherd University,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003822,Shepherd University,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003822,Shepherd University,Public,Music.,Bachelor's Degree,10,NA,21141
-2015_2016,041933,Shepherd University,Private,Music.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041933,Shepherd University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,041933,Shepherd University,Private,Music.,Master's Degree,NA,NA,NA
-2016_2017,003822,Shepherd University,Public,Music.,Bachelor's Degree,10,NA,20341
-2016_2017,041933,Shepherd University,Private,Music.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041933,Shepherd University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,041933,Shepherd University,Private,Music.,Master's Degree,NA,NA,NA
+2015_2016,003822,Shepherd University,Public,Mathematics.,Bachelor's Degree,,,
+2016_2017,003822,Shepherd University,Public,Mathematics.,Bachelor's Degree,,,
+2015_2016,003822,Shepherd University,Public,Music.,Bachelor's Degree,10,,21141
+2015_2016,041933,Shepherd University,Private,Music.,Undergraduate Certificate or Diploma,,,
+2015_2016,041933,Shepherd University,Private,Music.,Bachelor's Degree,,,
+2015_2016,041933,Shepherd University,Private,Music.,Master's Degree,,,
+2016_2017,003822,Shepherd University,Public,Music.,Bachelor's Degree,10,,20341
+2016_2017,041933,Shepherd University,Private,Music.,Undergraduate Certificate or Diploma,,,
+2016_2017,041933,Shepherd University,Private,Music.,Bachelor's Degree,,,
+2016_2017,041933,Shepherd University,Private,Music.,Master's Degree,,,
 2015_2016,003822,Shepherd University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,20,19222,22155
 2016_2017,003822,Shepherd University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,27,17442,20045
 2015_2016,003822,Shepherd University,Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,68,25000,23546
 2016_2017,003822,Shepherd University,Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,75,25000,22859
-2015_2016,003822,Shepherd University,Public,Political Science and Government.,Bachelor's Degree,13,NA,17000
+2015_2016,003822,Shepherd University,Public,Political Science and Government.,Bachelor's Degree,13,,17000
 2016_2017,003822,Shepherd University,Public,Political Science and Government.,Bachelor's Degree,21,18000,18039
-2015_2016,041933,Shepherd University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041933,Shepherd University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,041933,Shepherd University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2016_2017,041933,Shepherd University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
 2015_2016,003822,Shepherd University,Public,"Psychology, General.",Bachelor's Degree,25,20867,21884
 2016_2017,003822,Shepherd University,Public,"Psychology, General.",Bachelor's Degree,34,22875,22689
 2015_2016,003822,Shepherd University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,97,25129,25220
-2015_2016,003822,Shepherd University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
-2015_2016,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2015_2016,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2015_2016,003822,Shepherd University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
+2015_2016,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2015_2016,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2016_2017,003822,Shepherd University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,127,24949,24317
-2016_2017,003822,Shepherd University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2016_2017,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,11,NA,14924
-2016_2017,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
-2015_2016,003822,Shepherd University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003822,Shepherd University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003822,Shepherd University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2016_2017,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,11,,14924
+2016_2017,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,041933,Shepherd University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
+2015_2016,003822,Shepherd University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003822,Shepherd University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,003822,Shepherd University,Public,Social Work.,Bachelor's Degree,31,22500,24337
 2016_2017,003822,Shepherd University,Public,Social Work.,Bachelor's Degree,31,25000,25349
 2015_2016,003822,Shepherd University,Public,Sociology.,Bachelor's Degree,38,23375,21764
 2016_2017,003822,Shepherd University,Public,Sociology.,Bachelor's Degree,43,24043,23281
-2015_2016,003822,Shepherd University,Public,Student Counseling and Personnel Services.,Master's Degree,15,NA,25962
-2016_2017,003822,Shepherd University,Public,Student Counseling and Personnel Services.,Master's Degree,14,NA,28075
+2015_2016,003822,Shepherd University,Public,Student Counseling and Personnel Services.,Master's Degree,15,,25962
+2016_2017,003822,Shepherd University,Public,Student Counseling and Personnel Services.,Master's Degree,14,,28075
 2015_2016,003822,Shepherd University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,87,25000,24496
-2015_2016,003822,Shepherd University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,15,NA,30349
+2015_2016,003822,Shepherd University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,15,,30349
 2016_2017,003822,Shepherd University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,89,24354,23792
-2016_2017,003822,Shepherd University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,18,NA,33277
-2015_2016,003822,Shepherd University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,003822,Shepherd University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,041933,Shepherd University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2015_2016,041933,Shepherd University,Private,Theological and Ministerial Studies.,First Professional Degree,NA,NA,NA
-2016_2017,041933,Shepherd University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2016_2017,041933,Shepherd University,Private,Theological and Ministerial Studies.,First Professional Degree,NA,NA,NA
+2016_2017,003822,Shepherd University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,18,,33277
+2015_2016,003822,Shepherd University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,003822,Shepherd University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,041933,Shepherd University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2015_2016,041933,Shepherd University,Private,Theological and Ministerial Studies.,First Professional Degree,,,
+2016_2017,041933,Shepherd University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2016_2017,041933,Shepherd University,Private,Theological and Ministerial Studies.,First Professional Degree,,,

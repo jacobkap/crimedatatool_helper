@@ -1,126 +1,126 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,030106,Virginia College,Proprietary,Accounting and Related Services.,Associate's Degree,17,NA,30138
-2015_2016,030106,Virginia College,Proprietary,Accounting and Related Services.,Bachelor's Degree,NA,34244,36405
+2015_2016,030106,Virginia College,Proprietary,Accounting and Related Services.,Associate's Degree,17,,30138
+2015_2016,030106,Virginia College,Proprietary,Accounting and Related Services.,Bachelor's Degree,,34244,36405
 2016_2017,030106,Virginia College,Proprietary,Accounting and Related Services.,Associate's Degree,27,28053,29904
-2016_2017,030106,Virginia College,Proprietary,Accounting and Related Services.,Bachelor's Degree,NA,NA,44891
+2016_2017,030106,Virginia College,Proprietary,Accounting and Related Services.,Bachelor's Degree,,,44891
 2015_2016,030106,Virginia College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,2556,17692,17686
 2015_2016,030106,Virginia College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,524,28486,28325
-2015_2016,030106,Virginia College,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,20926,22506
+2015_2016,030106,Virginia College,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,,20926,22506
 2016_2017,030106,Virginia College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,3033,18327,18228
 2016_2017,030106,Virginia College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,944,28334,27957
-2016_2017,030106,Virginia College,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,22307
+2016_2017,030106,Virginia College,Proprietary,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,22307
 2015_2016,030106,Virginia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,202,24726,24951
-2015_2016,030106,Virginia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,24085,23918
+2015_2016,030106,Virginia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,24085,23918
 2016_2017,030106,Virginia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,393,24549,24601
-2016_2017,030106,Virginia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
 2015_2016,030106,Virginia College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,332,29500,29212
-2015_2016,030106,Virginia College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,29500,31576
+2015_2016,030106,Virginia College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,29500,31576
 2015_2016,030106,Virginia College,Proprietary,"Business Administration, Management and Operations.",Master's Degree,31,52212,53512
-2016_2017,030106,Virginia College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,030106,Virginia College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,656,29437,29506
-2016_2017,030106,Virginia College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,44338,40953
+2016_2017,030106,Virginia College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,44338,40953
 2016_2017,030106,Virginia College,Proprietary,"Business Administration, Management and Operations.",Master's Degree,21,48853,50485
 2015_2016,030106,Virginia College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,199,11611,15228
-2015_2016,030106,Virginia College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,15,NA,32401
-2015_2016,030106,Virginia College,Proprietary,Business Operations Support and Assistant Services.,Bachelor's Degree,NA,26661,24978
+2015_2016,030106,Virginia College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,15,,32401
+2015_2016,030106,Virginia College,Proprietary,Business Operations Support and Assistant Services.,Bachelor's Degree,,26661,24978
 2016_2017,030106,Virginia College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,428,11611,14783
 2016_2017,030106,Virginia College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,27,34167,31960
-2016_2017,030106,Virginia College,Proprietary,Business Operations Support and Assistant Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,Business Operations Support and Assistant Services.,Bachelor's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
 2015_2016,030106,Virginia College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,98,27752,27138
-2015_2016,030106,Virginia College,Proprietary,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,27837,26418
-2016_2017,030106,Virginia College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,27077
+2015_2016,030106,Virginia College,Proprietary,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,27837,26418
+2016_2017,030106,Virginia College,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,27077
 2016_2017,030106,Virginia College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,187,28334,27538
-2016_2017,030106,Virginia College,Proprietary,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
 2015_2016,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,343,9500,11902
-2015_2016,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,12667,19744
-2015_2016,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Master's Degree,NA,NA,NA
+2015_2016,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,,12667,19744
+2015_2016,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Master's Degree,,,
 2016_2017,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,501,9500,11349
-2016_2017,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2016_2017,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,32946
-2016_2017,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Master's Degree,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2016_2017,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,32946
+2016_2017,030106,Virginia College,Proprietary,Computer/Information Technology Administration and Management.,Master's Degree,,,
 2015_2016,030106,Virginia College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,1108,14750,14823
-2015_2016,030106,Virginia College,Proprietary,Cosmetology and Related Personal Grooming Services.,Bachelor's Degree,NA,14750,14035
+2015_2016,030106,Virginia College,Proprietary,Cosmetology and Related Personal Grooming Services.,Bachelor's Degree,,14750,14035
 2016_2017,030106,Virginia College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,1418,14750,14421
-2016_2017,030106,Virginia College,Proprietary,Cosmetology and Related Personal Grooming Services.,Bachelor's Degree,NA,15041,14185
+2016_2017,030106,Virginia College,Proprietary,Cosmetology and Related Personal Grooming Services.,Bachelor's Degree,,15041,14185
 2015_2016,030106,Virginia College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,28,28334,27541
-2015_2016,030106,Virginia College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,31884,33013
-2015_2016,030106,Virginia College,Proprietary,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2015_2016,030106,Virginia College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,31884,33013
+2015_2016,030106,Virginia College,Proprietary,Criminal Justice and Corrections.,Master's Degree,,,
 2016_2017,030106,Virginia College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,44,28888,28193
-2016_2017,030106,Virginia College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,41538
-2016_2017,030106,Virginia College,Proprietary,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,,41538
+2016_2017,030106,Virginia College,Proprietary,Criminal Justice and Corrections.,Master's Degree,,,
 2015_2016,030106,Virginia College,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,746,9460,9640
-2015_2016,030106,Virginia College,Proprietary,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,NA,9500,10119
+2015_2016,030106,Virginia College,Proprietary,Culinary Arts and Related Services.,Associate's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,,9500,10119
 2016_2017,030106,Virginia College,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,899,9500,9599
-2016_2017,030106,Virginia College,Proprietary,Culinary Arts and Related Services.,Associate's Degree,10,NA,23292
-2016_2017,030106,Virginia College,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,Culinary Arts and Related Services.,Associate's Degree,10,,23292
+2016_2017,030106,Virginia College,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2016_2017,030106,Virginia College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,26,9500,8873
-2015_2016,030106,Virginia College,Proprietary,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,030106,Virginia College,Proprietary,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Electrical and Power Transmission Installers.,Associate's Degree,NA,NA,NA
-2016_2017,030106,Virginia College,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,030106,Virginia College,Proprietary,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,030106,Virginia College,Proprietary,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Electrical and Power Transmission Installers.,Associate's Degree,,,
+2016_2017,030106,Virginia College,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
 2015_2016,030106,Virginia College,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,31,25321,23755
-2015_2016,030106,Virginia College,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,24338,23269
+2015_2016,030106,Virginia College,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,24338,23269
 2016_2017,030106,Virginia College,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,57,26118,25517
-2016_2017,030106,Virginia College,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,,
 2015_2016,030106,Virginia College,Proprietary,Environmental Control Technologies/Technicians.,Associate's Degree,56,25548,24470
-2015_2016,030106,Virginia College,Proprietary,Environmental Control Technologies/Technicians.,Bachelor's Degree,NA,24625,23063
+2015_2016,030106,Virginia College,Proprietary,Environmental Control Technologies/Technicians.,Bachelor's Degree,,24625,23063
 2016_2017,030106,Virginia College,Proprietary,Environmental Control Technologies/Technicians.,Associate's Degree,98,26321,24916
-2016_2017,030106,Virginia College,Proprietary,Environmental Control Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,030106,Virginia College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,12530
-2015_2016,030106,Virginia College,Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2016_2017,030106,Virginia College,Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,Environmental Control Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,030106,Virginia College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,,,
+2016_2017,030106,Virginia College,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,12530
+2015_2016,030106,Virginia College,Proprietary,Graphic Communications.,Bachelor's Degree,,,
+2016_2017,030106,Virginia College,Proprietary,Graphic Communications.,Bachelor's Degree,,,
 2016_2017,030106,Virginia College,Proprietary,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,21,13000,12670
 2015_2016,030106,Virginia College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,540,18840,18653
 2015_2016,030106,Virginia College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,433,29500,29608
-2015_2016,030106,Virginia College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,27851,28852
-2016_2017,030106,Virginia College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,18729,18481
+2015_2016,030106,Virginia College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,27851,28852
+2016_2017,030106,Virginia College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,18729,18481
 2016_2017,030106,Virginia College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,776,29500,29978
-2016_2017,030106,Virginia College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,44886,42067
-2016_2017,030106,Virginia College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,44886,42067
+2016_2017,030106,Virginia College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,,,
 2015_2016,030106,Virginia College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,113,13000,13389
-2015_2016,030106,Virginia College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,NA,NA,NA
+2015_2016,030106,Virginia College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,,,
 2016_2017,030106,Virginia College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,143,13000,13074
-2016_2017,030106,Virginia College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,NA,NA,27658
-2015_2016,030106,Virginia College,Proprietary,Housing and Human Environments.,Associate's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Human Resources Management and Services.,Associate's Degree,13,NA,29275
-2015_2016,030106,Virginia College,Proprietary,Human Resources Management and Services.,Bachelor's Degree,NA,34450,35463
+2016_2017,030106,Virginia College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,,,27658
+2015_2016,030106,Virginia College,Proprietary,Housing and Human Environments.,Associate's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Human Resources Management and Services.,Associate's Degree,13,,29275
+2015_2016,030106,Virginia College,Proprietary,Human Resources Management and Services.,Bachelor's Degree,,34450,35463
 2016_2017,030106,Virginia College,Proprietary,Human Resources Management and Services.,Associate's Degree,37,30145,29947
-2016_2017,030106,Virginia College,Proprietary,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030106,Virginia College,Proprietary,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,11333,11005
+2016_2017,030106,Virginia College,Proprietary,Human Resources Management and Services.,Bachelor's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,030106,Virginia College,Proprietary,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,11333,11005
 2015_2016,030106,Virginia College,Proprietary,Legal Support Services.,Associate's Degree,29,28334,28837
-2015_2016,030106,Virginia College,Proprietary,Legal Support Services.,Bachelor's Degree,NA,31739,NA
+2015_2016,030106,Virginia College,Proprietary,Legal Support Services.,Bachelor's Degree,,31739,
 2016_2017,030106,Virginia College,Proprietary,Legal Support Services.,Associate's Degree,40,28320,30074
-2016_2017,030106,Virginia College,Proprietary,Legal Support Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,030106,Virginia College,Proprietary,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,030106,Virginia College,Proprietary,Natural Resources Conservation and Research.,Associate's Degree,NA,25196,23510
-2016_2017,030106,Virginia College,Proprietary,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,Legal Support Services.,Bachelor's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,030106,Virginia College,Proprietary,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Natural Resources Conservation and Research.,Associate's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,030106,Virginia College,Proprietary,Natural Resources Conservation and Research.,Associate's Degree,,25196,23510
+2016_2017,030106,Virginia College,Proprietary,Natural Resources Conservation and Research.,Bachelor's Degree,,,
 2015_2016,030106,Virginia College,Proprietary,"Parks, Recreation and Leisure Facilities Management.",Associate's Degree,197,19582,16389
-2015_2016,030106,Virginia College,Proprietary,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,NA,20000,17857
+2015_2016,030106,Virginia College,Proprietary,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,,20000,17857
 2016_2017,030106,Virginia College,Proprietary,"Parks, Recreation and Leisure Facilities Management.",Associate's Degree,376,19000,16192
-2016_2017,030106,Virginia College,Proprietary,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,NA,20000,22141
-2015_2016,030106,Virginia College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,16500,16638
-2016_2017,030106,Virginia College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,16500,17553
-2015_2016,030106,Virginia College,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030106,Virginia College,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,,20000,22141
+2015_2016,030106,Virginia College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,16500,16638
+2016_2017,030106,Virginia College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,16500,17553
+2015_2016,030106,Virginia College,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,030106,Virginia College,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
 2015_2016,030106,Virginia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,75,27657,27553
-2015_2016,030106,Virginia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,26333,24762
+2015_2016,030106,Virginia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,26333,24762
 2016_2017,030106,Virginia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,95,28189,28068
-2016_2017,030106,Virginia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Rehabilitation and Therapeutic Professions.,Associate's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,030106,Virginia College,Proprietary,Rehabilitation and Therapeutic Professions.,Associate's Degree,NA,NA,NA
+2016_2017,030106,Virginia College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Rehabilitation and Therapeutic Professions.,Associate's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2016_2017,030106,Virginia College,Proprietary,Rehabilitation and Therapeutic Professions.,Associate's Degree,,,
 2015_2016,030106,Virginia College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,103,9409,9439
-2015_2016,030106,Virginia College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,NA,NA
-2015_2016,030106,Virginia College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Bachelor's Degree,NA,NA,11767
+2015_2016,030106,Virginia College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,,
+2015_2016,030106,Virginia College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Bachelor's Degree,,,11767
 2016_2017,030106,Virginia College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,142,9216,9156

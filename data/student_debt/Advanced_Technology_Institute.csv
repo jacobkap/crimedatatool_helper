@@ -1,15 +1,15 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,031275,Advanced Technology Institute,Proprietary,Ground Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,031275,Advanced Technology Institute,Proprietary,Ground Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,031275,Advanced Technology Institute,Proprietary,Ground Transportation.,Undergraduate Certificate or Diploma,,,
+2016_2017,031275,Advanced Technology Institute,Proprietary,Ground Transportation.,Undergraduate Certificate or Diploma,,,
 2015_2016,031275,Advanced Technology Institute,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,28,14840,14068
-2015_2016,031275,Advanced Technology Institute,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,12,NA,18285
-2016_2017,031275,Advanced Technology Institute,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,19,NA,14465
-2016_2017,031275,Advanced Technology Institute,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,14,NA,16389
+2015_2016,031275,Advanced Technology Institute,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,12,,18285
+2016_2017,031275,Advanced Technology Institute,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,19,,14465
+2016_2017,031275,Advanced Technology Institute,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,14,,16389
 2015_2016,031275,Advanced Technology Institute,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,47,16081,15676
-2015_2016,031275,Advanced Technology Institute,Proprietary,Precision Metal Working.,Associate's Degree,10,NA,15067
+2015_2016,031275,Advanced Technology Institute,Proprietary,Precision Metal Working.,Associate's Degree,10,,15067
 2016_2017,031275,Advanced Technology Institute,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,41,16000,15606
-2016_2017,031275,Advanced Technology Institute,Proprietary,Precision Metal Working.,Associate's Degree,14,NA,19663
+2016_2017,031275,Advanced Technology Institute,Proprietary,Precision Metal Working.,Associate's Degree,14,,19663
 2015_2016,031275,Advanced Technology Institute,Proprietary,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,145,15250,15435
-2015_2016,031275,Advanced Technology Institute,Proprietary,Vehicle Maintenance and Repair Technologies.,Associate's Degree,17,NA,15706
+2015_2016,031275,Advanced Technology Institute,Proprietary,Vehicle Maintenance and Repair Technologies.,Associate's Degree,17,,15706
 2016_2017,031275,Advanced Technology Institute,Proprietary,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,121,14166,14781
 2016_2017,031275,Advanced Technology Institute,Proprietary,Vehicle Maintenance and Repair Technologies.,Associate's Degree,22,19000,16725

@@ -1,45 +1,45 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001028,Miles College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,Accounting and Related Services.,Bachelor's Degree,11,NA,30506
-2015_2016,001028,Miles College,Private,"Biology, General.",Bachelor's Degree,12,NA,33407
+2015_2016,001028,Miles College,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,Accounting and Related Services.,Bachelor's Degree,11,,30506
+2015_2016,001028,Miles College,Private,"Biology, General.",Bachelor's Degree,12,,33407
 2016_2017,001028,Miles College,Private,"Biology, General.",Bachelor's Degree,33,32072,29566
 2015_2016,001028,Miles College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,26,32469,29859
 2016_2017,001028,Miles College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,51,32500,30285
-2015_2016,001028,Miles College,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,32930
-2016_2017,001028,Miles College,Private,"Business/Commerce, General.",Bachelor's Degree,NA,31241,31528
-2015_2016,001028,Miles College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001028,Miles College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,36262
-2016_2017,001028,Miles College,Private,Communication and Media Studies.,Bachelor's Degree,NA,35000,33868
-2015_2016,001028,Miles College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001028,Miles College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,33044
-2015_2016,001028,Miles College,Private,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
+2015_2016,001028,Miles College,Private,"Business/Commerce, General.",Bachelor's Degree,,,32930
+2016_2017,001028,Miles College,Private,"Business/Commerce, General.",Bachelor's Degree,,31241,31528
+2015_2016,001028,Miles College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001028,Miles College,Private,Communication and Media Studies.,Bachelor's Degree,,,36262
+2016_2017,001028,Miles College,Private,Communication and Media Studies.,Bachelor's Degree,,35000,33868
+2015_2016,001028,Miles College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,,
+2015_2016,001028,Miles College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,33044
+2015_2016,001028,Miles College,Private,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
 2015_2016,001028,Miles College,Private,Criminal Justice and Corrections.,Bachelor's Degree,57,36375,33585
 2016_2017,001028,Miles College,Private,Criminal Justice and Corrections.,Bachelor's Degree,101,36375,34642
-2015_2016,001028,Miles College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001028,Miles College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001028,Miles College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,11,NA,44764
-2016_2017,001028,Miles College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,42778
-2015_2016,001028,Miles College,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001028,Miles College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001028,Miles College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001028,Miles College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001028,Miles College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2015_2016,001028,Miles College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001028,Miles College,Private,History.,Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,History.,Bachelor's Degree,,,
+2015_2016,001028,Miles College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,11,,44764
+2016_2017,001028,Miles College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,42778
+2015_2016,001028,Miles College,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,001028,Miles College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001028,Miles College,Private,Music.,Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,Music.,Bachelor's Degree,,,
+2015_2016,001028,Miles College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001028,Miles College,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,001028,Miles College,Private,Social Work.,Bachelor's Degree,24,39450,37521
 2016_2017,001028,Miles College,Private,Social Work.,Bachelor's Degree,45,37353,35752
-2015_2016,001028,Miles College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,001028,Miles College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,001028,Miles College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001028,Miles College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001028,Miles College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,001028,Miles College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,001028,Miles College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2016_2017,001028,Miles College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,

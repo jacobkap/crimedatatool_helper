@@ -1,74 +1,74 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002728,Hamilton College,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,Archeology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Archeology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,"Biology, General.",Bachelor's Degree,19,NA,15430
-2016_2017,002728,Hamilton College,Private,"Biology, General.",Bachelor's Degree,15,NA,14614
-2015_2016,002728,Hamilton College,Private,Chemistry.,Bachelor's Degree,15,NA,14715
-2016_2017,002728,Hamilton College,Private,Chemistry.,Bachelor's Degree,13,NA,14940
-2015_2016,002728,Hamilton College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,10,NA,17666
-2015_2016,002728,Hamilton College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,17,NA,17780
-2015_2016,002728,Hamilton College,Private,Dance.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Dance.,Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,14,NA,14120
+2015_2016,002728,Hamilton College,Private,Anthropology.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Anthropology.,Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,Archeology.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Archeology.,Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Area Studies.,Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,"Biology, General.",Bachelor's Degree,19,,15430
+2016_2017,002728,Hamilton College,Private,"Biology, General.",Bachelor's Degree,15,,14614
+2015_2016,002728,Hamilton College,Private,Chemistry.,Bachelor's Degree,15,,14715
+2016_2017,002728,Hamilton College,Private,Chemistry.,Bachelor's Degree,13,,14940
+2015_2016,002728,Hamilton College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,10,,17666
+2015_2016,002728,Hamilton College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,17,,17780
+2015_2016,002728,Hamilton College,Private,Dance.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Dance.,Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,14,,14120
 2016_2017,002728,Hamilton College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,20,14454,14794
 2015_2016,002728,Hamilton College,Private,Economics.,Bachelor's Degree,57,14500,15328
 2016_2017,002728,Hamilton College,Private,Economics.,Bachelor's Degree,67,16750,16763
-2015_2016,002728,Hamilton College,Private,"English Language and Literature, General.",Bachelor's Degree,14,NA,19842
-2016_2017,002728,Hamilton College,Private,"English Language and Literature, General.",Bachelor's Degree,11,NA,18985
-2015_2016,002728,Hamilton College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,10,NA,18246
-2016_2017,002728,Hamilton College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,10,NA,12681
-2015_2016,002728,Hamilton College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,Fine and Studio Arts.,Bachelor's Degree,16,NA,12788
-2016_2017,002728,Hamilton College,Private,Fine and Studio Arts.,Bachelor's Degree,16,NA,13828
-2015_2016,002728,Hamilton College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,14,NA,13283
-2016_2017,002728,Hamilton College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,12,NA,11702
-2015_2016,002728,Hamilton College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,International Relations and National Security Studies.,Bachelor's Degree,10,NA,14405
-2016_2017,002728,Hamilton College,Private,International Relations and National Security Studies.,Bachelor's Degree,14,NA,15977
-2015_2016,002728,Hamilton College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Literature.,Bachelor's Degree,NA,NA,NA
+2015_2016,002728,Hamilton College,Private,"English Language and Literature, General.",Bachelor's Degree,14,,19842
+2016_2017,002728,Hamilton College,Private,"English Language and Literature, General.",Bachelor's Degree,11,,18985
+2015_2016,002728,Hamilton College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,10,,18246
+2016_2017,002728,Hamilton College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,10,,12681
+2015_2016,002728,Hamilton College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,Fine and Studio Arts.,Bachelor's Degree,16,,12788
+2016_2017,002728,Hamilton College,Private,Fine and Studio Arts.,Bachelor's Degree,16,,13828
+2015_2016,002728,Hamilton College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,14,,13283
+2016_2017,002728,Hamilton College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,12,,11702
+2015_2016,002728,Hamilton College,Private,History.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,History.,Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,International Relations and National Security Studies.,Bachelor's Degree,10,,14405
+2016_2017,002728,Hamilton College,Private,International Relations and National Security Studies.,Bachelor's Degree,14,,15977
+2015_2016,002728,Hamilton College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Literature.,Bachelor's Degree,,,
 2015_2016,002728,Hamilton College,Private,Mathematics.,Bachelor's Degree,40,14375,14990
 2016_2017,002728,Hamilton College,Private,Mathematics.,Bachelor's Degree,37,18350,19399
-2015_2016,002728,Hamilton College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,12,NA,12982
-2015_2016,002728,Hamilton College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,13,NA,19096
-2016_2017,002728,Hamilton College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,11,NA,16943
+2015_2016,002728,Hamilton College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,12,,12982
+2015_2016,002728,Hamilton College,Private,Music.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Music.,Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,13,,19096
+2016_2017,002728,Hamilton College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,11,,16943
 2015_2016,002728,Hamilton College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,21,15500,14432
 2016_2017,002728,Hamilton College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,28,16061,16446
-2015_2016,002728,Hamilton College,Private,Philosophy.,Bachelor's Degree,10,NA,16188
-2016_2017,002728,Hamilton College,Private,Philosophy.,Bachelor's Degree,12,NA,15864
-2015_2016,002728,Hamilton College,Private,Physics.,Bachelor's Degree,11,NA,13547
-2016_2017,002728,Hamilton College,Private,Physics.,Bachelor's Degree,13,NA,17376
+2015_2016,002728,Hamilton College,Private,Philosophy.,Bachelor's Degree,10,,16188
+2016_2017,002728,Hamilton College,Private,Philosophy.,Bachelor's Degree,12,,15864
+2015_2016,002728,Hamilton College,Private,Physics.,Bachelor's Degree,11,,13547
+2016_2017,002728,Hamilton College,Private,Physics.,Bachelor's Degree,13,,17376
 2015_2016,002728,Hamilton College,Private,Political Science and Government.,Bachelor's Degree,34,17250,18329
 2016_2017,002728,Hamilton College,Private,Political Science and Government.,Bachelor's Degree,22,18125,18157
 2015_2016,002728,Hamilton College,Private,"Psychology, General.",Bachelor's Degree,29,14000,12032
-2016_2017,002728,Hamilton College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,14597
-2015_2016,002728,Hamilton College,Private,Public Policy Analysis.,Bachelor's Degree,14,NA,18782
-2016_2017,002728,Hamilton College,Private,Public Policy Analysis.,Bachelor's Degree,11,NA,19779
-2015_2016,002728,Hamilton College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002728,Hamilton College,Private,Research and Experimental Psychology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Research and Experimental Psychology.,Bachelor's Degree,17,NA,12144
-2015_2016,002728,Hamilton College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,14,NA,13741
-2016_2017,002728,Hamilton College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,14,NA,18803
+2016_2017,002728,Hamilton College,Private,"Psychology, General.",Bachelor's Degree,,,14597
+2015_2016,002728,Hamilton College,Private,Public Policy Analysis.,Bachelor's Degree,14,,18782
+2016_2017,002728,Hamilton College,Private,Public Policy Analysis.,Bachelor's Degree,11,,19779
+2015_2016,002728,Hamilton College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,002728,Hamilton College,Private,Research and Experimental Psychology.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Research and Experimental Psychology.,Bachelor's Degree,17,,12144
+2015_2016,002728,Hamilton College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,14,,13741
+2016_2017,002728,Hamilton College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,14,,18803
 2015_2016,002728,Hamilton College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,24,13875,13086
 2016_2017,002728,Hamilton College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,29,12750,12926
-2015_2016,002728,Hamilton College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002728,Hamilton College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
+2015_2016,002728,Hamilton College,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,002728,Hamilton College,Private,Sociology.,Bachelor's Degree,,,

@@ -1,72 +1,72 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,012261,North Arkansas College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,"Agriculture, General.",Associate's Degree,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,"Agriculture, General.",Associate's Degree,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012261,North Arkansas College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,"Agriculture, General.",Associate's Degree,,,
+2016_2017,012261,North Arkansas College,Public,"Agriculture, General.",Associate's Degree,,,
+2016_2017,012261,North Arkansas College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
 2015_2016,012261,North Arkansas College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,25,13500,14510
-2016_2017,012261,North Arkansas College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,012261,North Arkansas College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
 2016_2017,012261,North Arkansas College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,20,11016,12816
-2015_2016,012261,North Arkansas College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012261,North Arkansas College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,012261,North Arkansas College,Public,"Business/Commerce, General.",Associate's Degree,26,7446,11575
 2016_2017,012261,North Arkansas College,Public,"Business/Commerce, General.",Associate's Degree,32,7596,12147
-2015_2016,012261,North Arkansas College,Public,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Criminology.,Associate's Degree,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Criminology.,Associate's Degree,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012261,North Arkansas College,Public,Carpenters.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2016_2017,012261,North Arkansas College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2015_2016,012261,North Arkansas College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,"Computer and Information Sciences, General.",Associate's Degree,,,
+2016_2017,012261,North Arkansas College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,"Computer and Information Sciences, General.",Associate's Degree,,,
+2015_2016,012261,North Arkansas College,Public,Computer Programming.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Computer Programming.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,012261,North Arkansas College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2015_2016,012261,North Arkansas College,Public,Criminology.,Associate's Degree,,,
+2016_2017,012261,North Arkansas College,Public,Criminology.,Associate's Degree,,,
+2015_2016,012261,North Arkansas College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,012261,North Arkansas College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,012261,North Arkansas College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2016_2017,012261,North Arkansas College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2016_2017,012261,North Arkansas College,Public,"Engineering, General.",Associate's Degree,,,
+2015_2016,012261,North Arkansas College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
 2015_2016,012261,North Arkansas College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,33,4750,4407
 2016_2017,012261,North Arkansas College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,26,4750,4660
-2015_2016,012261,North Arkansas College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,11,NA,11813
-2016_2017,012261,North Arkansas College,Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,13,NA,11896
-2015_2016,012261,North Arkansas College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012261,North Arkansas College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,11,,11813
+2016_2017,012261,North Arkansas College,Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,13,,11896
+2015_2016,012261,North Arkansas College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2016_2017,012261,North Arkansas College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2015_2016,012261,North Arkansas College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,,,
 2015_2016,012261,North Arkansas College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,75,13250,15173
-2016_2017,012261,North Arkansas College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,012261,North Arkansas College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,,,
 2016_2017,012261,North Arkansas College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,94,12625,14230
-2015_2016,012261,North Arkansas College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,12,NA,13487
-2016_2017,012261,North Arkansas College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,14615
-2015_2016,012261,North Arkansas College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,13,NA,17389
+2015_2016,012261,North Arkansas College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,12,,13487
+2016_2017,012261,North Arkansas College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,14615
+2015_2016,012261,North Arkansas College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,13,,17389
 2016_2017,012261,North Arkansas College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,23,8521,15090
-2015_2016,012261,North Arkansas College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,15,NA,7991
-2016_2017,012261,North Arkansas College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,17,NA,7669
+2015_2016,012261,North Arkansas College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,15,,7991
+2016_2017,012261,North Arkansas College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,17,,7669
 2015_2016,012261,North Arkansas College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,52,12254,14489
 2016_2017,012261,North Arkansas College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,40,12624,15460
-2015_2016,012261,North Arkansas College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,012261,North Arkansas College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,012261,North Arkansas College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,11,NA,10484
-2016_2017,012261,North Arkansas College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,10,NA,12233
+2015_2016,012261,North Arkansas College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,012261,North Arkansas College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,012261,North Arkansas College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,11,,10484
+2016_2017,012261,North Arkansas College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,10,,12233

@@ -1,12 +1,12 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,021274,Yti Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9370,8475
+2015_2016,021274,Yti Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9370,8475
 2015_2016,021274,Yti Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,339,15929,16954
-2016_2017,021274,Yti Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9370,8222
+2016_2017,021274,Yti Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9370,8222
 2016_2017,021274,Yti Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,305,14751,16472
 2015_2016,021274,Yti Career Institute,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,31,14500,15623
 2016_2017,021274,Yti Career Institute,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,23,13833,15267
-2015_2016,021274,Yti Career Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,NA,18324
-2016_2017,021274,Yti Career Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
+2015_2016,021274,Yti Career Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,,,18324
+2016_2017,021274,Yti Career Institute,Proprietary,"Business/Commerce, General.",Associate's Degree,,,
 2015_2016,021274,Yti Career Institute,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,82,18666,17569
 2016_2017,021274,Yti Career Institute,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,76,18947,17915
 2015_2016,021274,Yti Career Institute,Proprietary,Criminal Justice and Corrections.,Associate's Degree,73,14500,15253
@@ -17,18 +17,18 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,021274,Yti Career Institute,Proprietary,Culinary Arts and Related Services.,Associate's Degree,126,18097,17626
 2015_2016,021274,Yti Career Institute,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,249,9451,8223
 2016_2017,021274,Yti Career Institute,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,175,9261,7962
-2015_2016,021274,Yti Career Institute,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,14500,15256
+2015_2016,021274,Yti Career Institute,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,14500,15256
 2016_2017,021274,Yti Career Institute,Proprietary,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,34,15502,16397
-2015_2016,021274,Yti Career Institute,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,8349,7810
-2016_2017,021274,Yti Career Institute,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,5500,6693
+2015_2016,021274,Yti Career Institute,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,8349,7810
+2016_2017,021274,Yti Career Institute,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,5500,6693
 2015_2016,021274,Yti Career Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,58,18902,17904
 2016_2017,021274,Yti Career Institute,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,49,17933,17331
-2015_2016,021274,Yti Career Institute,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021274,Yti Career Institute,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,021274,Yti Career Institute,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,,,
+2016_2017,021274,Yti Career Institute,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,,,
 2015_2016,021274,Yti Career Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,67,11435,11226
-2015_2016,021274,Yti Career Institute,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,19501,18796
+2015_2016,021274,Yti Career Institute,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,19501,18796
 2016_2017,021274,Yti Career Institute,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,56,11860,11037
-2016_2017,021274,Yti Career Institute,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,18870,18974
+2016_2017,021274,Yti Career Institute,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,18870,18974
 2015_2016,021274,Yti Career Institute,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,71,7667,8597
 2016_2017,021274,Yti Career Institute,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,68,7667,8633
 2015_2016,021274,Yti Career Institute,Proprietary,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,102,9500,8309

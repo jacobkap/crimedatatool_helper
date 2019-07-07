@@ -1,57 +1,57 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002901,Wells College,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,10,NA,29950
-2016_2017,002901,Wells College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,13,NA,28384
-2015_2016,002901,Wells College,Private,"Biology, General.",Bachelor's Degree,15,NA,29783
-2016_2017,002901,Wells College,Private,"Biology, General.",Bachelor's Degree,19,NA,29023
-2015_2016,002901,Wells College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,24393
-2015_2016,002901,Wells College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,11,NA,25464
-2015_2016,002901,Wells College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,"Psychology, General.",Bachelor's Degree,NA,27000,25034
-2016_2017,002901,Wells College,Private,"Psychology, General.",Bachelor's Degree,NA,27000,24415
-2015_2016,002901,Wells College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,28076
-2016_2017,002901,Wells College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,26108
-2015_2016,002901,Wells College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Sociology and Anthropology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Sociology and Anthropology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,Sociology.,Bachelor's Degree,NA,NA,28445
-2016_2017,002901,Wells College,Private,Sociology.,Bachelor's Degree,NA,NA,25169
-2015_2016,002901,Wells College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,002901,Wells College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,002901,Wells College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,26038
-2016_2017,002901,Wells College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,26362
+2015_2016,002901,Wells College,Private,Anthropology.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,10,,29950
+2016_2017,002901,Wells College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,13,,28384
+2015_2016,002901,Wells College,Private,"Biology, General.",Bachelor's Degree,15,,29783
+2016_2017,002901,Wells College,Private,"Biology, General.",Bachelor's Degree,19,,29023
+2015_2016,002901,Wells College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,24393
+2015_2016,002901,Wells College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Economics.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Economics.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,History.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,History.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,11,,25464
+2015_2016,002901,Wells College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Physics.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,"Psychology, General.",Bachelor's Degree,,27000,25034
+2016_2017,002901,Wells College,Private,"Psychology, General.",Bachelor's Degree,,27000,24415
+2015_2016,002901,Wells College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,28076
+2016_2017,002901,Wells College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,26108
+2015_2016,002901,Wells College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Sociology and Anthropology.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Sociology and Anthropology.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,Sociology.,Bachelor's Degree,,,28445
+2016_2017,002901,Wells College,Private,Sociology.,Bachelor's Degree,,,25169
+2015_2016,002901,Wells College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,002901,Wells College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,002901,Wells College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,,,26038
+2016_2017,002901,Wells College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,,,26362

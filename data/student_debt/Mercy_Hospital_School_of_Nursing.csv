@@ -1,5 +1,5 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,004899,Mercy Hospital School of Nursing,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,101,12000,14154
-2016_2017,004899,Mercy Hospital School of Nursing,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,12000,14242
-2015_2016,004899,Mercy Hospital School of Nursing,Private,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004899,Mercy Hospital School of Nursing,Private,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,004899,Mercy Hospital School of Nursing,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,12000,14242
+2015_2016,004899,Mercy Hospital School of Nursing,Private,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,004899,Mercy Hospital School of Nursing,Private,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,

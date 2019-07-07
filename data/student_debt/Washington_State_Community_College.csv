@@ -1,111 +1,111 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,010453,Washington State Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Accounting and Related Services.,Associate's Degree,10,NA,12511
-2015_2016,010453,Washington State Community College,Public,Agricultural Business and Management.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Agricultural Business and Management.,Associate's Degree,NA,NA,NA
+2015_2016,010453,Washington State Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Accounting and Related Services.,Associate's Degree,10,,12511
+2015_2016,010453,Washington State Community College,Public,Agricultural Business and Management.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Agricultural Business and Management.,Associate's Degree,,,
 2015_2016,010453,Washington State Community College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,26,9500,11552
 2015_2016,010453,Washington State Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,43,10790,12629
-2016_2017,010453,Washington State Community College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,8750,9213
+2016_2017,010453,Washington State Community College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,8750,9213
 2016_2017,010453,Washington State Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,38,11208,13950
-2015_2016,010453,Washington State Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,18,NA,14208
-2016_2017,010453,Washington State Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,18,NA,17764
-2015_2016,010453,Washington State Community College,Public,American Sign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,American Sign Language.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,American Sign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,American Sign Language.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,"Biology, General.",Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,"Biology, General.",Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,10,NA,12962
-2016_2017,010453,Washington State Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,10,NA,13051
-2015_2016,010453,Washington State Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,10,NA,16588
-2016_2017,010453,Washington State Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,14493
-2015_2016,010453,Washington State Community College,Public,"Communications Technologies/Technicians and Support Services, Other.",Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,"Communications Technologies/Technicians and Support Services, Other.",Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,"Computer and Information Sciences and Support Services, Other.",Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,"Computer and Information Sciences and Support Services, Other.",Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Criminal Justice and Corrections.,Associate's Degree,12,NA,10147
-2016_2017,010453,Washington State Community College,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Mathematics.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Mathematics.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Physical Sciences.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Physical Sciences.,Associate's Degree,NA,NA,NA
+2015_2016,010453,Washington State Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,18,,14208
+2016_2017,010453,Washington State Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,18,,17764
+2015_2016,010453,Washington State Community College,Public,American Sign Language.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,American Sign Language.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,American Sign Language.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,American Sign Language.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,"Biology, General.",Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,"Biology, General.",Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,10,,12962
+2016_2017,010453,Washington State Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,10,,13051
+2015_2016,010453,Washington State Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,10,,16588
+2016_2017,010453,Washington State Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,14493
+2015_2016,010453,Washington State Community College,Public,"Communications Technologies/Technicians and Support Services, Other.",Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,"Communications Technologies/Technicians and Support Services, Other.",Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,"Computer and Information Sciences and Support Services, Other.",Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,"Computer and Information Sciences and Support Services, Other.",Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Criminal Justice and Corrections.,Associate's Degree,12,,10147
+2016_2017,010453,Washington State Community College,Public,Design and Applied Arts.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,"Engineering, General.",Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,"Engineering, General.",Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Fine and Studio Arts.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Fine and Studio Arts.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Health and Medical Administrative Services.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Health and Medical Administrative Services.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Mathematics.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Mathematics.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Physical Sciences.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Physical Sciences.,Associate's Degree,,,
 2015_2016,010453,Washington State Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,27,9750,12183
 2016_2017,010453,Washington State Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,29,12000,13036
-2015_2016,010453,Washington State Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Real Estate.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,010453,Washington State Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Real Estate.,Undergraduate Certificate or Diploma,,,
 2015_2016,010453,Washington State Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,29,15332,17137
 2016_2017,010453,Washington State Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,34,16713,19012
-2015_2016,010453,Washington State Community College,Public,Social Work.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Social Work.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010453,Washington State Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010453,Washington State Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,NA,NA,NA
+2015_2016,010453,Washington State Community College,Public,Social Work.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Social Work.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,010453,Washington State Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,010453,Washington State Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,,,
+2016_2017,010453,Washington State Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,010453,Washington State Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,,,

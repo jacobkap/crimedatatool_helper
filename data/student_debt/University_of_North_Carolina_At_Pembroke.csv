@@ -1,87 +1,87 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002954,University of North Carolina At Pembroke,Public,Accounting and Related Services.,Bachelor's Degree,12,NA,20431
-2016_2017,002954,University of North Carolina At Pembroke,Public,Accounting and Related Services.,Bachelor's Degree,12,NA,19790
-2015_2016,002954,University of North Carolina At Pembroke,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,002954,University of North Carolina At Pembroke,Public,Accounting and Related Services.,Bachelor's Degree,12,,20431
+2016_2017,002954,University of North Carolina At Pembroke,Public,Accounting and Related Services.,Bachelor's Degree,12,,19790
+2015_2016,002954,University of North Carolina At Pembroke,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,Area Studies.,Bachelor's Degree,,,
 2015_2016,002954,University of North Carolina At Pembroke,Public,"Biology, General.",Bachelor's Degree,115,22500,22774
 2016_2017,002954,University of North Carolina At Pembroke,Public,"Biology, General.",Bachelor's Degree,141,23000,22869
-2015_2016,002954,University of North Carolina At Pembroke,Public,Biotechnology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,Biotechnology.,Bachelor's Degree,NA,NA,NA
+2015_2016,002954,University of North Carolina At Pembroke,Public,Biotechnology.,Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,Biotechnology.,Bachelor's Degree,,,
 2015_2016,002954,University of North Carolina At Pembroke,Public,"Business Administration, Management and Operations.",Bachelor's Degree,102,20018,21811
-2015_2016,002954,University of North Carolina At Pembroke,Public,"Business Administration, Management and Operations.",Master's Degree,10,NA,23857
+2015_2016,002954,University of North Carolina At Pembroke,Public,"Business Administration, Management and Operations.",Master's Degree,10,,23857
 2016_2017,002954,University of North Carolina At Pembroke,Public,"Business Administration, Management and Operations.",Bachelor's Degree,100,23751,23778
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Business Administration, Management and Operations.",Master's Degree,18,NA,33716
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Business Administration, Management and Operations.",Master's Degree,18,,33716
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Business/Commerce, General.",Bachelor's Degree,,,
 2015_2016,002954,University of North Carolina At Pembroke,Public,Chemistry.,Bachelor's Degree,25,23000,23697
 2016_2017,002954,University of North Carolina At Pembroke,Public,Chemistry.,Bachelor's Degree,27,23850,24689
 2015_2016,002954,University of North Carolina At Pembroke,Public,Communication and Media Studies.,Bachelor's Degree,69,21056,21129
 2016_2017,002954,University of North Carolina At Pembroke,Public,Communication and Media Studies.,Bachelor's Degree,61,24750,24809
 2015_2016,002954,University of North Carolina At Pembroke,Public,"Computer and Information Sciences, General.",Bachelor's Degree,26,25535,23947
 2016_2017,002954,University of North Carolina At Pembroke,Public,"Computer and Information Sciences, General.",Bachelor's Degree,22,26488,25458
-2015_2016,002954,University of North Carolina At Pembroke,Public,Computer Science.,Bachelor's Degree,16,NA,20478
+2015_2016,002954,University of North Carolina At Pembroke,Public,Computer Science.,Bachelor's Degree,16,,20478
 2016_2017,002954,University of North Carolina At Pembroke,Public,Computer Science.,Bachelor's Degree,20,21625,20899
 2015_2016,002954,University of North Carolina At Pembroke,Public,Criminal Justice and Corrections.,Bachelor's Degree,182,22493,21733
 2016_2017,002954,University of North Carolina At Pembroke,Public,Criminal Justice and Corrections.,Bachelor's Degree,186,21250,21054
-2015_2016,002954,University of North Carolina At Pembroke,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
+2015_2016,002954,University of North Carolina At Pembroke,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
 2015_2016,002954,University of North Carolina At Pembroke,Public,Educational Administration and Supervision.,Master's Degree,32,27022,31190
 2016_2017,002954,University of North Carolina At Pembroke,Public,Educational Administration and Supervision.,Master's Degree,30,33033,35215
-2015_2016,002954,University of North Carolina At Pembroke,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,18630
-2016_2017,002954,University of North Carolina At Pembroke,Public,"English Language and Literature, General.",Bachelor's Degree,15,NA,26166
-2015_2016,002954,University of North Carolina At Pembroke,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,002954,University of North Carolina At Pembroke,Public,Fine and Studio Arts.,Bachelor's Degree,15,NA,26166
-2016_2017,002954,University of North Carolina At Pembroke,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
+2015_2016,002954,University of North Carolina At Pembroke,Public,"English Language and Literature, General.",Bachelor's Degree,,,18630
+2016_2017,002954,University of North Carolina At Pembroke,Public,"English Language and Literature, General.",Bachelor's Degree,15,,26166
+2015_2016,002954,University of North Carolina At Pembroke,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,002954,University of North Carolina At Pembroke,Public,Fine and Studio Arts.,Bachelor's Degree,15,,26166
+2016_2017,002954,University of North Carolina At Pembroke,Public,Fine and Studio Arts.,Bachelor's Degree,,,
 2015_2016,002954,University of North Carolina At Pembroke,Public,Health and Physical Education/Fitness.,Bachelor's Degree,142,21653,22112
 2016_2017,002954,University of North Carolina At Pembroke,Public,Health and Physical Education/Fitness.,Bachelor's Degree,154,23252,22888
-2016_2017,002954,University of North Carolina At Pembroke,Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
-2015_2016,002954,University of North Carolina At Pembroke,Public,History.,Bachelor's Degree,NA,22435,23814
+2016_2017,002954,University of North Carolina At Pembroke,Public,Health and Physical Education/Fitness.,Master's Degree,,,
+2015_2016,002954,University of North Carolina At Pembroke,Public,History.,Bachelor's Degree,,22435,23814
 2016_2017,002954,University of North Carolina At Pembroke,Public,History.,Bachelor's Degree,25,25750,26960
-2015_2016,002954,University of North Carolina At Pembroke,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2015_2016,002954,University of North Carolina At Pembroke,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002954,University of North Carolina At Pembroke,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,14,NA,19866
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,10,NA,24275
-2015_2016,002954,University of North Carolina At Pembroke,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002954,University of North Carolina At Pembroke,Public,Natural Resources Conservation and Research.,Bachelor's Degree,15,NA,21564
-2016_2017,002954,University of North Carolina At Pembroke,Public,Natural Resources Conservation and Research.,Bachelor's Degree,16,NA,23249
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,NA,NA,NA
-2015_2016,002954,University of North Carolina At Pembroke,Public,"Philosophy and Religious Studies, Other.",Bachelor's Degree,11,NA,20504
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002954,University of North Carolina At Pembroke,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002954,University of North Carolina At Pembroke,Public,Political Science and Government.,Bachelor's Degree,19,NA,23071
-2016_2017,002954,University of North Carolina At Pembroke,Public,Political Science and Government.,Bachelor's Degree,15,NA,23515
+2015_2016,002954,University of North Carolina At Pembroke,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2015_2016,002954,University of North Carolina At Pembroke,Public,Mathematics.,Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,Mathematics.,Bachelor's Degree,,,
+2015_2016,002954,University of North Carolina At Pembroke,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,14,,19866
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,10,,24275
+2015_2016,002954,University of North Carolina At Pembroke,Public,Music.,Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,Music.,Bachelor's Degree,,,
+2015_2016,002954,University of North Carolina At Pembroke,Public,Natural Resources Conservation and Research.,Bachelor's Degree,15,,21564
+2016_2017,002954,University of North Carolina At Pembroke,Public,Natural Resources Conservation and Research.,Bachelor's Degree,16,,23249
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,,,
+2015_2016,002954,University of North Carolina At Pembroke,Public,"Philosophy and Religious Studies, Other.",Bachelor's Degree,11,,20504
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2015_2016,002954,University of North Carolina At Pembroke,Public,Physics.,Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,Physics.,Bachelor's Degree,,,
+2015_2016,002954,University of North Carolina At Pembroke,Public,Political Science and Government.,Bachelor's Degree,19,,23071
+2016_2017,002954,University of North Carolina At Pembroke,Public,Political Science and Government.,Bachelor's Degree,15,,23515
 2015_2016,002954,University of North Carolina At Pembroke,Public,"Psychology, General.",Bachelor's Degree,79,25000,24608
 2016_2017,002954,University of North Carolina At Pembroke,Public,"Psychology, General.",Bachelor's Degree,73,22000,22499
 2015_2016,002954,University of North Carolina At Pembroke,Public,Public Administration.,Master's Degree,29,33000,30038
-2016_2017,002954,University of North Carolina At Pembroke,Public,Public Administration.,Bachelor's Degree,NA,NA,NA
+2016_2017,002954,University of North Carolina At Pembroke,Public,Public Administration.,Bachelor's Degree,,,
 2016_2017,002954,University of North Carolina At Pembroke,Public,Public Administration.,Master's Degree,31,33000,30591
-2016_2017,002954,University of North Carolina At Pembroke,Public,Public Health.,Bachelor's Degree,NA,NA,NA
+2016_2017,002954,University of North Carolina At Pembroke,Public,Public Health.,Bachelor's Degree,,,
 2015_2016,002954,University of North Carolina At Pembroke,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,61,20500,22049
-2015_2016,002954,University of North Carolina At Pembroke,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2015_2016,002954,University of North Carolina At Pembroke,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2016_2017,002954,University of North Carolina At Pembroke,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,56,22509,22347
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
-2015_2016,002954,University of North Carolina At Pembroke,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
+2015_2016,002954,University of North Carolina At Pembroke,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,002954,University of North Carolina At Pembroke,Public,Social Work.,Bachelor's Degree,81,21500,23454
 2015_2016,002954,University of North Carolina At Pembroke,Public,Social Work.,Master's Degree,100,28202,31314
 2016_2017,002954,University of North Carolina At Pembroke,Public,Social Work.,Bachelor's Degree,69,24750,24756
 2016_2017,002954,University of North Carolina At Pembroke,Public,Social Work.,Master's Degree,102,30643,33858
 2015_2016,002954,University of North Carolina At Pembroke,Public,Sociology.,Bachelor's Degree,129,20000,21462
 2016_2017,002954,University of North Carolina At Pembroke,Public,Sociology.,Bachelor's Degree,145,22603,23431
-2015_2016,002954,University of North Carolina At Pembroke,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,002954,University of North Carolina At Pembroke,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
+2015_2016,002954,University of North Carolina At Pembroke,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,002954,University of North Carolina At Pembroke,Public,Special Education and Teaching.,Bachelor's Degree,,,
 2015_2016,002954,University of North Carolina At Pembroke,Public,Student Counseling and Personnel Services.,Master's Degree,62,44515,46321
 2016_2017,002954,University of North Carolina At Pembroke,Public,Student Counseling and Personnel Services.,Master's Degree,78,47476,47337
 2015_2016,002954,University of North Carolina At Pembroke,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,70,21776,24970
-2015_2016,002954,University of North Carolina At Pembroke,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,10,NA,28351
+2015_2016,002954,University of North Carolina At Pembroke,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,10,,28351
 2016_2017,002954,University of North Carolina At Pembroke,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,58,21850,21730
-2016_2017,002954,University of North Carolina At Pembroke,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,12,NA,35052
+2016_2017,002954,University of North Carolina At Pembroke,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,12,,35052
 2015_2016,002954,University of North Carolina At Pembroke,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,40,21869,23031
 2015_2016,002954,University of North Carolina At Pembroke,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,44,28120,29061
 2016_2017,002954,University of North Carolina At Pembroke,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,30,23250,23658

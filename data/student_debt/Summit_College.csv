@@ -1,24 +1,24 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,031081,Summit College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,7093
-2016_2017,031081,Summit College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,6936
+2015_2016,031081,Summit College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,7093
+2016_2017,031081,Summit College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,6936
 2015_2016,031081,Summit College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,77,7408,7357
 2016_2017,031081,Summit College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,81,7368,7205
-2015_2016,031081,Summit College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,18,NA,8890
-2016_2017,031081,Summit College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,031081,Summit College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,031081,Summit College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,031081,Summit College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,18,,8890
+2016_2017,031081,Summit College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,031081,Summit College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,031081,Summit College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,031081,Summit College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,39,7613,7279
-2016_2017,031081,Summit College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,7736,7066
-2015_2016,031081,Summit College,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,031081,Summit College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,7736,7066
+2015_2016,031081,Summit College,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
 2016_2017,031081,Summit College,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,109,7600,6805
-2015_2016,031081,Summit College,Proprietary,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,031081,Summit College,Proprietary,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,031081,Summit College,Proprietary,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,7600,7192
-2016_2017,031081,Summit College,Proprietary,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,7600,6850
+2015_2016,031081,Summit College,Proprietary,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,031081,Summit College,Proprietary,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,031081,Summit College,Proprietary,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,7600,7192
+2016_2017,031081,Summit College,Proprietary,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,7600,6850
 2015_2016,031081,Summit College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,41,7636,7721
 2016_2017,031081,Summit College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,37,7030,7031
-2015_2016,031081,Summit College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,031081,Summit College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,031081,Summit College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2016_2017,031081,Summit College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
 2015_2016,031081,Summit College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,314,18908,17929
 2016_2017,031081,Summit College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,367,17480,17491
 2015_2016,031081,Summit College,Proprietary,Precision Metal Working.,Undergraduate Certificate or Diploma,145,7397,6907

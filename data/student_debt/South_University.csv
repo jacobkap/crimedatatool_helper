@@ -1,63 +1,63 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,013039,South University,Proprietary,Accounting and Related Services.,Associate's Degree,NA,26000,25430
-2015_2016,013039,South University,Proprietary,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Accounting and Related Services.,Master's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,26532
-2016_2017,013039,South University,Proprietary,Accounting and Related Services.,Master's Degree,10,NA,43634
+2015_2016,013039,South University,Proprietary,Accounting and Related Services.,Associate's Degree,,26000,25430
+2015_2016,013039,South University,Proprietary,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,013039,South University,Proprietary,Accounting and Related Services.,Master's Degree,,,
+2016_2017,013039,South University,Proprietary,Accounting and Related Services.,Associate's Degree,,,26532
+2016_2017,013039,South University,Proprietary,Accounting and Related Services.,Master's Degree,10,,43634
 2015_2016,013039,South University,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,567,25166,24836
 2015_2016,013039,South University,Proprietary,Allied Health and Medical Assisting Services.,Master's Degree,36,132895,115077
 2016_2017,013039,South University,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,581,24666,24554
 2016_2017,013039,South University,Proprietary,Allied Health and Medical Assisting Services.,Master's Degree,40,136537,110216
 2015_2016,013039,South University,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,174,124376,108664
 2016_2017,013039,South University,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,176,124855,110674
-2015_2016,013039,South University,Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,15,NA,24522
+2015_2016,013039,South University,Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,013039,South University,Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,013039,South University,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,15,,24522
 2015_2016,013039,South University,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,401,47091,43374
-2015_2016,013039,South University,Proprietary,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,013039,South University,Proprietary,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2015_2016,013039,South University,Proprietary,"Business Administration, Management and Operations.",Master's Degree,248,41000,54410
-2016_2017,013039,South University,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,013039,South University,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,013039,South University,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,356,43495,40977
 2016_2017,013039,South University,Proprietary,"Business Administration, Management and Operations.",Master's Degree,237,41000,57388
-2016_2017,013039,South University,Proprietary,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,"Business/Commerce, General.",Associate's Degree,NA,25666,25084
+2016_2017,013039,South University,Proprietary,"Business Administration, Management and Operations.",Doctoral Degree,,,
+2015_2016,013039,South University,Proprietary,"Business/Commerce, General.",Associate's Degree,,25666,25084
 2016_2017,013039,South University,Proprietary,"Business/Commerce, General.",Associate's Degree,120,25868,25708
-2015_2016,013039,South University,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,43319,40643
-2016_2017,013039,South University,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
+2015_2016,013039,South University,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,013039,South University,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,013039,South University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,,,
+2016_2017,013039,South University,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,013039,South University,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,013039,South University,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,,,
+2015_2016,013039,South University,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2015_2016,013039,South University,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,,43319,40643
+2016_2017,013039,South University,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,
 2015_2016,013039,South University,Proprietary,Criminal Justice and Corrections.,Associate's Degree,74,25833,24930
 2015_2016,013039,South University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,204,44225,41338
 2015_2016,013039,South University,Proprietary,Criminal Justice and Corrections.,Master's Degree,106,47833,51289
 2016_2017,013039,South University,Proprietary,Criminal Justice and Corrections.,Associate's Degree,22,26669,26420
 2016_2017,013039,South University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,174,45209,42411
 2016_2017,013039,South University,Proprietary,Criminal Justice and Corrections.,Master's Degree,93,47833,51272
-2015_2016,013039,South University,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,013039,South University,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,013039,South University,Proprietary,Culinary Arts and Related Services.,Associate's Degree,,,
+2015_2016,013039,South University,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,,,
+2016_2017,013039,South University,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,013039,South University,Proprietary,Culinary Arts and Related Services.,Associate's Degree,,,
+2016_2017,013039,South University,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,,,
+2015_2016,013039,South University,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
 2015_2016,013039,South University,Proprietary,Design and Applied Arts.,Associate's Degree,20,24590,27059
 2015_2016,013039,South University,Proprietary,Design and Applied Arts.,Bachelor's Degree,50,47860,42607
-2015_2016,013039,South University,Proprietary,Design and Applied Arts.,Master's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Design and Applied Arts.,Associate's Degree,18,NA,23282
+2015_2016,013039,South University,Proprietary,Design and Applied Arts.,Master's Degree,,,
+2016_2017,013039,South University,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,013039,South University,Proprietary,Design and Applied Arts.,Associate's Degree,18,,23282
 2016_2017,013039,South University,Proprietary,Design and Applied Arts.,Bachelor's Degree,23,49370,44722
-2016_2017,013039,South University,Proprietary,Design and Applied Arts.,Master's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Fine and Studio Arts.,Bachelor's Degree,11,NA,40661
-2015_2016,013039,South University,Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
+2016_2017,013039,South University,Proprietary,Design and Applied Arts.,Master's Degree,,,
+2015_2016,013039,South University,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,,,
+2015_2016,013039,South University,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,013039,South University,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,,,
+2016_2017,013039,South University,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2015_2016,013039,South University,Proprietary,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,013039,South University,Proprietary,Fine and Studio Arts.,Bachelor's Degree,11,,40661
+2015_2016,013039,South University,Proprietary,Graphic Communications.,Bachelor's Degree,,,
 2015_2016,013039,South University,Proprietary,Health and Medical Administrative Services.,Associate's Degree,585,24083,22747
 2015_2016,013039,South University,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,305,45664,43869
 2015_2016,013039,South University,Proprietary,Health and Medical Administrative Services.,Master's Degree,224,41000,44392
@@ -66,13 +66,13 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,013039,South University,Proprietary,Health and Medical Administrative Services.,Master's Degree,279,41000,46179
 2015_2016,013039,South University,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,234,43927,41094
 2016_2017,013039,South University,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,318,43436,41015
-2015_2016,013039,South University,Proprietary,Health/Medical Preparatory Programs.,Associate's Degree,NA,24352,23212
-2015_2016,013039,South University,Proprietary,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,49196,43742
-2016_2017,013039,South University,Proprietary,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
+2015_2016,013039,South University,Proprietary,Health/Medical Preparatory Programs.,Associate's Degree,,24352,23212
+2015_2016,013039,South University,Proprietary,Health/Medical Preparatory Programs.,Bachelor's Degree,,49196,43742
+2016_2017,013039,South University,Proprietary,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
 2015_2016,013039,South University,Proprietary,Information Science/Studies.,Associate's Degree,104,25438,24250
 2015_2016,013039,South University,Proprietary,Information Science/Studies.,Bachelor's Degree,145,45000,40772
 2015_2016,013039,South University,Proprietary,Information Science/Studies.,Master's Degree,21,36932,39130
-2016_2017,013039,South University,Proprietary,Information Science/Studies.,Associate's Degree,NA,26000,24806
+2016_2017,013039,South University,Proprietary,Information Science/Studies.,Associate's Degree,,26000,24806
 2016_2017,013039,South University,Proprietary,Information Science/Studies.,Bachelor's Degree,156,46176,41093
 2016_2017,013039,South University,Proprietary,Information Science/Studies.,Master's Degree,20,41000,41962
 2015_2016,013039,South University,Proprietary,Legal Support Services.,Associate's Degree,70,21316,21859
@@ -81,46 +81,46 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,013039,South University,Proprietary,Legal Support Services.,Bachelor's Degree,100,40151,38162
 2015_2016,013039,South University,Proprietary,Mental and Social Health Services and Allied Professions.,Master's Degree,208,68333,70812
 2016_2017,013039,South University,Proprietary,Mental and Social Health Services and Allied Professions.,Master's Degree,203,70688,71812
-2015_2016,013039,South University,Proprietary,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,206373,186673
-2015_2016,013039,South University,Proprietary,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,NA,208051,194242
-2016_2017,013039,South University,Proprietary,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,"Psychology, General.",Associate's Degree,NA,NA,NA
+2015_2016,013039,South University,Proprietary,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,206373,186673
+2015_2016,013039,South University,Proprietary,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,,,
+2016_2017,013039,South University,Proprietary,"Pharmacy, Pharmaceutical Sciences, and Administration.",Doctoral Degree,,208051,194242
+2016_2017,013039,South University,Proprietary,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,,,
+2015_2016,013039,South University,Proprietary,"Psychology, General.",Associate's Degree,,,
 2015_2016,013039,South University,Proprietary,"Psychology, General.",Bachelor's Degree,223,42222,40430
-2016_2017,013039,South University,Proprietary,"Psychology, General.",Associate's Degree,NA,NA,NA
+2016_2017,013039,South University,Proprietary,"Psychology, General.",Associate's Degree,,,
 2016_2017,013039,South University,Proprietary,"Psychology, General.",Bachelor's Degree,257,42808,40837
 2015_2016,013039,South University,Proprietary,Public Administration.,Master's Degree,65,41000,41804
 2016_2017,013039,South University,Proprietary,Public Administration.,Master's Degree,56,41856,47151
-2015_2016,013039,South University,Proprietary,Public Health.,Master's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Public Health.,Bachelor's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Public Health.,Master's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,013039,South University,Proprietary,Public Health.,Master's Degree,,,
+2016_2017,013039,South University,Proprietary,Public Health.,Bachelor's Degree,,,
+2016_2017,013039,South University,Proprietary,Public Health.,Master's Degree,,,
+2015_2016,013039,South University,Proprietary,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2015_2016,013039,South University,Proprietary,"Public Relations, Advertising, and Applied Communication.",Master's Degree,,,
+2016_2017,013039,South University,Proprietary,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2016_2017,013039,South University,Proprietary,"Public Relations, Advertising, and Applied Communication.",Master's Degree,,,
+2015_2016,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2015_2016,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,1911,15651,21639
 2015_2016,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,1453,41000,41438
-2015_2016,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2015_2016,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2015_2016,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
 2015_2016,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,145,34166,35987
 2016_2017,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,2078,15278,20997
 2016_2017,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,2316,41000,42360
-2016_2017,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,67125
-2016_2017,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2016_2017,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,67125
+2016_2017,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
 2016_2017,013039,South University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,220,36035,36484
-2015_2016,013039,South University,Proprietary,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Research and Experimental Psychology.,Bachelor's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Research and Experimental Psychology.,Bachelor's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Theological and Ministerial Studies.,Doctoral Degree,NA,NA,NA
-2015_2016,013039,South University,Proprietary,Theological and Ministerial Studies.,First Professional Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Theological and Ministerial Studies.,Doctoral Degree,NA,NA,NA
-2016_2017,013039,South University,Proprietary,Theological and Ministerial Studies.,First Professional Degree,NA,NA,NA
+2015_2016,013039,South University,Proprietary,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2016_2017,013039,South University,Proprietary,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,,
+2016_2017,013039,South University,Proprietary,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2015_2016,013039,South University,Proprietary,Research and Experimental Psychology.,Bachelor's Degree,,,
+2016_2017,013039,South University,Proprietary,Research and Experimental Psychology.,Bachelor's Degree,,,
+2015_2016,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,,,
+2015_2016,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,,,
+2016_2017,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,,,
+2016_2017,013039,South University,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,,,
+2015_2016,013039,South University,Proprietary,Theological and Ministerial Studies.,Doctoral Degree,,,
+2015_2016,013039,South University,Proprietary,Theological and Ministerial Studies.,First Professional Degree,,,
+2016_2017,013039,South University,Proprietary,Theological and Ministerial Studies.,Doctoral Degree,,,
+2016_2017,013039,South University,Proprietary,Theological and Ministerial Studies.,First Professional Degree,,,

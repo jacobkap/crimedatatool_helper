@@ -7,60 +7,60 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,033394,Western Governors University,Private,"Business Administration, Management and Operations.",Master's Degree,1663,13990,17801
 2016_2017,033394,Western Governors University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,2408,15173,18228
 2016_2017,033394,Western Governors University,Private,"Business Administration, Management and Operations.",Master's Degree,2252,13724,16159
-2015_2016,033394,Western Governors University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,17150,20069
-2015_2016,033394,Western Governors University,Private,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,16566,19364
-2016_2017,033394,Western Governors University,Private,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,033394,Western Governors University,Private,Computer Programming.,Bachelor's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,Computer Programming.,Bachelor's Degree,NA,NA,NA
-2015_2016,033394,Western Governors University,Private,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,Computer Software and Media Applications.,Master's Degree,NA,NA,NA
-2015_2016,033394,Western Governors University,Private,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
-2015_2016,033394,Western Governors University,Private,Computer Systems Networking and Telecommunications.,Master's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,Computer Systems Networking and Telecommunications.,Master's Degree,NA,NA,NA
-2015_2016,033394,Western Governors University,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
+2015_2016,033394,Western Governors University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,17150,20069
+2015_2016,033394,Western Governors University,Private,"Computer and Information Sciences, General.",Master's Degree,,,
+2016_2017,033394,Western Governors University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,16566,19364
+2016_2017,033394,Western Governors University,Private,"Computer and Information Sciences, General.",Master's Degree,,,
+2015_2016,033394,Western Governors University,Private,Computer Programming.,Bachelor's Degree,,,
+2016_2017,033394,Western Governors University,Private,Computer Programming.,Bachelor's Degree,,,
+2015_2016,033394,Western Governors University,Private,Computer Software and Media Applications.,Bachelor's Degree,,,
+2016_2017,033394,Western Governors University,Private,Computer Software and Media Applications.,Bachelor's Degree,,,
+2016_2017,033394,Western Governors University,Private,Computer Software and Media Applications.,Master's Degree,,,
+2015_2016,033394,Western Governors University,Private,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
+2015_2016,033394,Western Governors University,Private,Computer Systems Networking and Telecommunications.,Master's Degree,,,
+2016_2017,033394,Western Governors University,Private,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
+2016_2017,033394,Western Governors University,Private,Computer Systems Networking and Telecommunications.,Master's Degree,,,
+2015_2016,033394,Western Governors University,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,
 2015_2016,033394,Western Governors University,Private,Computer/Information Technology Administration and Management.,Master's Degree,199,12234,15227
-2016_2017,033394,Western Governors University,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
+2016_2017,033394,Western Governors University,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,
 2016_2017,033394,Western Governors University,Private,Computer/Information Technology Administration and Management.,Master's Degree,274,12066,14310
 2015_2016,033394,Western Governors University,Private,Curriculum and Instruction.,Master's Degree,485,11543,14958
 2016_2017,033394,Western Governors University,Private,Curriculum and Instruction.,Master's Degree,696,11543,13968
-2015_2016,033394,Western Governors University,Private,"Education, General.",Bachelor's Degree,NA,21677,23965
-2015_2016,033394,Western Governors University,Private,"Education, General.",Post-baccalaureate Certificate,NA,11478,12083
-2015_2016,033394,Western Governors University,Private,"Education, General.",Master's Degree,NA,13178,16013
-2016_2017,033394,Western Governors University,Private,"Education, General.",Bachelor's Degree,NA,19107,21798
-2016_2017,033394,Western Governors University,Private,"Education, General.",Master's Degree,NA,11728,13572
+2015_2016,033394,Western Governors University,Private,"Education, General.",Bachelor's Degree,,21677,23965
+2015_2016,033394,Western Governors University,Private,"Education, General.",Post-baccalaureate Certificate,,11478,12083
+2015_2016,033394,Western Governors University,Private,"Education, General.",Master's Degree,,13178,16013
+2016_2017,033394,Western Governors University,Private,"Education, General.",Bachelor's Degree,,19107,21798
+2016_2017,033394,Western Governors University,Private,"Education, General.",Master's Degree,,11728,13572
 2015_2016,033394,Western Governors University,Private,Educational Administration and Supervision.,Post-baccalaureate Certificate,37,9850,13519
 2015_2016,033394,Western Governors University,Private,Educational Administration and Supervision.,Master's Degree,163,13215,17014
-2016_2017,033394,Western Governors University,Private,Educational Administration and Supervision.,Post-baccalaureate Certificate,11,NA,15446
+2016_2017,033394,Western Governors University,Private,Educational Administration and Supervision.,Post-baccalaureate Certificate,11,,15446
 2016_2017,033394,Western Governors University,Private,Educational Administration and Supervision.,Master's Degree,237,12188,14882
-2015_2016,033394,Western Governors University,Private,"Educational Assessment, Evaluation, and Research.",Bachelor's Degree,NA,NA,NA
-2015_2016,033394,Western Governors University,Private,"Educational Assessment, Evaluation, and Research.",Master's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,"Educational Assessment, Evaluation, and Research.",Bachelor's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,"Educational Assessment, Evaluation, and Research.",Master's Degree,NA,NA,NA
+2015_2016,033394,Western Governors University,Private,"Educational Assessment, Evaluation, and Research.",Bachelor's Degree,,,
+2015_2016,033394,Western Governors University,Private,"Educational Assessment, Evaluation, and Research.",Master's Degree,,,
+2016_2017,033394,Western Governors University,Private,"Educational Assessment, Evaluation, and Research.",Bachelor's Degree,,,
+2016_2017,033394,Western Governors University,Private,"Educational Assessment, Evaluation, and Research.",Master's Degree,,,
 2015_2016,033394,Western Governors University,Private,Educational/Instructional Media Design.,Master's Degree,259,11543,15163
 2016_2017,033394,Western Governors University,Private,Educational/Instructional Media Design.,Master's Degree,339,11543,13917
-2015_2016,033394,Western Governors University,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,033394,Western Governors University,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,033394,Western Governors University,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
 2015_2016,033394,Western Governors University,Private,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,61,18699,19014
 2016_2017,033394,Western Governors University,Private,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,64,15638,17769
-2015_2016,033394,Western Governors University,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2015_2016,033394,Western Governors University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,25263,23517
-2016_2017,033394,Western Governors University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,23717,22974
-2015_2016,033394,Western Governors University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,033394,Western Governors University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,033394,Western Governors University,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,033394,Western Governors University,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,033394,Western Governors University,Private,Health and Medical Administrative Services.,Master's Degree,,,
+2015_2016,033394,Western Governors University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,25263,23517
+2016_2017,033394,Western Governors University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,23717,22974
+2015_2016,033394,Western Governors University,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2016_2017,033394,Western Governors University,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2015_2016,033394,Western Governors University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
 2015_2016,033394,Western Governors University,Private,Management Information Systems and Services.,Master's Degree,270,14468,18082
-2016_2017,033394,Western Governors University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,033394,Western Governors University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
 2016_2017,033394,Western Governors University,Private,Management Information Systems and Services.,Master's Degree,366,13724,16219
 2015_2016,033394,Western Governors University,Private,Marketing.,Bachelor's Degree,237,18400,20686
 2016_2017,033394,Western Governors University,Private,Marketing.,Bachelor's Degree,303,16622,18925
 2015_2016,033394,Western Governors University,Private,Medical Illustration and Informatics.,Bachelor's Degree,142,23506,23779
-2016_2017,033394,Western Governors University,Private,Medical Illustration and Informatics.,Bachelor's Degree,NA,21113,22351
-2016_2017,033394,Western Governors University,Private,Medical Illustration and Informatics.,Master's Degree,NA,NA,NA
+2016_2017,033394,Western Governors University,Private,Medical Illustration and Informatics.,Bachelor's Degree,,21113,22351
+2016_2017,033394,Western Governors University,Private,Medical Illustration and Informatics.,Master's Degree,,,
 2015_2016,033394,Western Governors University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,2944,9442,10016
 2015_2016,033394,Western Governors University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,1122,12634,14323
 2016_2017,033394,Western Governors University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,4918,9600,10145
@@ -70,18 +70,18 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,033394,Western Governors University,Private,Special Education and Teaching.,Bachelor's Degree,513,19917,22690
 2016_2017,033394,Western Governors University,Private,Special Education and Teaching.,Master's Degree,333,12268,17163
 2015_2016,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,130,17843,20015
-2015_2016,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2015_2016,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,71,21894,22970
-2016_2017,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2016_2017,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2015_2016,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,283,20656,23386
 2015_2016,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,29,9316,9899
 2015_2016,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,627,10111,13087
 2016_2017,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,279,17617,20152
-2016_2017,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
 2016_2017,033394,Western Governors University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,817,10009,12108
-2015_2016,033394,Western Governors University,Private,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,033394,Western Governors University,Private,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
 2015_2016,033394,Western Governors University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,146,10734,15698
-2016_2017,033394,Western Governors University,Private,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,033394,Western Governors University,Private,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
 2016_2017,033394,Western Governors University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,191,9201,12751

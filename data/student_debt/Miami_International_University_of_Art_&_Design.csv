@@ -1,41 +1,41 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,008878,Miami International University of Art & Design,Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,47,44161,42465
 2016_2017,008878,Miami International University of Art & Design,Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,38,43145,42076
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,NA,40839,36709
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,NA,40306,37439
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,16015,17385
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Associate's Degree,NA,22625,22170
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,NA,37413,33586
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,17422
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Associate's Degree,NA,22443,21791
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,NA,34431,32792
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Associate's Degree,NA,23584,23625
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Bachelor's Degree,NA,37930,38167
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,,40839,36709
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Computer Software and Media Applications.,Bachelor's Degree,,40306,37439
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,16015,17385
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Associate's Degree,,22625,22170
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,,37413,33586
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,17422
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Associate's Degree,,22443,21791
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,,34431,32792
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Associate's Degree,,23584,23625
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Bachelor's Degree,,37930,38167
 2015_2016,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Master's Degree,25,42166,56415
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Associate's Degree,NA,22167,22072
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Bachelor's Degree,NA,38419,37965
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Master's Degree,16,NA,52264
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,NA,22625,22412
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,NA,35125,36927
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Master's Degree,NA,NA,NA
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,NA,22584,22530
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,NA,37221,36267
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Master's Degree,NA,NA,NA
-2015_2016,008878,Miami International University of Art & Design,Proprietary,Fine and Studio Arts.,Bachelor's Degree,NA,36648,37611
-2016_2017,008878,Miami International University of Art & Design,Proprietary,Fine and Studio Arts.,Bachelor's Degree,NA,36648,36559
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Associate's Degree,,22167,22072
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Bachelor's Degree,,38419,37965
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Design and Applied Arts.,Master's Degree,16,,52264
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,,22625,22412
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,,35125,36927
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Master's Degree,,,
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Associate's Degree,,22584,22530
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,,37221,36267
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Film/Video and Photographic Arts.,Master's Degree,,,
+2015_2016,008878,Miami International University of Art & Design,Proprietary,Fine and Studio Arts.,Bachelor's Degree,,36648,37611
+2016_2017,008878,Miami International University of Art & Design,Proprietary,Fine and Studio Arts.,Bachelor's Degree,,36648,36559
 2015_2016,008878,Miami International University of Art & Design,Proprietary,Graphic Communications.,Bachelor's Degree,37,39597,39064
 2016_2017,008878,Miami International University of Art & Design,Proprietary,Graphic Communications.,Bachelor's Degree,35,33500,36639
-2015_2016,008878,Miami International University of Art & Design,Proprietary,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,NA,23514,23541
-2015_2016,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,NA,39093,37967
-2016_2017,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,NA,23792,23697
+2015_2016,008878,Miami International University of Art & Design,Proprietary,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2015_2016,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,,23514,23541
+2015_2016,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,,39093,37967
+2016_2017,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,,23792,23697
 2016_2017,008878,Miami International University of Art & Design,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,165,39093,37598

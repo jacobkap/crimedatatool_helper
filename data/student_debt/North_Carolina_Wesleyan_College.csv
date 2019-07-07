@@ -1,49 +1,49 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,002951,North Carolina Wesleyan College,Private,Accounting and Related Services.,Bachelor's Degree,56,19490,20314
 2016_2017,002951,North Carolina Wesleyan College,Private,Accounting and Related Services.,Bachelor's Degree,69,22747,23106
-2015_2016,002951,North Carolina Wesleyan College,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,002951,North Carolina Wesleyan College,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002951,North Carolina Wesleyan College,Private,Biological and Physical Sciences.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,Biological and Physical Sciences.,Bachelor's Degree,,,
+2015_2016,002951,North Carolina Wesleyan College,Private,"Biology, General.",Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,"Biology, General.",Bachelor's Degree,,,
 2015_2016,002951,North Carolina Wesleyan College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,228,20945,22184
 2016_2017,002951,North Carolina Wesleyan College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,318,20766,22206
-2015_2016,002951,North Carolina Wesleyan College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
+2015_2016,002951,North Carolina Wesleyan College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,Chemistry.,Bachelor's Degree,,,
 2015_2016,002951,North Carolina Wesleyan College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,37,24782,25958
 2016_2017,002951,North Carolina Wesleyan College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,52,24038,25245
 2015_2016,002951,North Carolina Wesleyan College,Private,Criminal Justice and Corrections.,Bachelor's Degree,154,28327,28203
 2016_2017,002951,North Carolina Wesleyan College,Private,Criminal Justice and Corrections.,Bachelor's Degree,188,25000,26192
-2015_2016,002951,North Carolina Wesleyan College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
+2015_2016,002951,North Carolina Wesleyan College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
 2015_2016,002951,North Carolina Wesleyan College,Private,"Education, General.",Bachelor's Degree,25,26267,25843
-2016_2017,002951,North Carolina Wesleyan College,Private,"Education, General.",Bachelor's Degree,NA,NA,27891
-2015_2016,002951,North Carolina Wesleyan College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002951,North Carolina Wesleyan College,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2015_2016,002951,North Carolina Wesleyan College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,17,NA,30121
-2016_2017,002951,North Carolina Wesleyan College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,19,NA,30930
-2015_2016,002951,North Carolina Wesleyan College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2015_2016,002951,North Carolina Wesleyan College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002951,North Carolina Wesleyan College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,002951,North Carolina Wesleyan College,Private,Marketing.,Bachelor's Degree,17,NA,24256
-2016_2017,002951,North Carolina Wesleyan College,Private,Marketing.,Bachelor's Degree,18,NA,23800
-2015_2016,002951,North Carolina Wesleyan College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002951,North Carolina Wesleyan College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,002951,North Carolina Wesleyan College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2016_2017,002951,North Carolina Wesleyan College,Private,"Education, General.",Bachelor's Degree,,,27891
+2015_2016,002951,North Carolina Wesleyan College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,002951,North Carolina Wesleyan College,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2015_2016,002951,North Carolina Wesleyan College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,17,,30121
+2016_2017,002951,North Carolina Wesleyan College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,19,,30930
+2015_2016,002951,North Carolina Wesleyan College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2015_2016,002951,North Carolina Wesleyan College,Private,History.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,History.,Bachelor's Degree,,,
+2015_2016,002951,North Carolina Wesleyan College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,002951,North Carolina Wesleyan College,Private,Marketing.,Bachelor's Degree,17,,24256
+2016_2017,002951,North Carolina Wesleyan College,Private,Marketing.,Bachelor's Degree,18,,23800
+2015_2016,002951,North Carolina Wesleyan College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002951,North Carolina Wesleyan College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,002951,North Carolina Wesleyan College,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,002951,North Carolina Wesleyan College,Private,"Psychology, General.",Bachelor's Degree,131,26627,28295
-2016_2017,002951,North Carolina Wesleyan College,Private,"Psychology, General.",Bachelor's Degree,NA,26431,27749
-2015_2016,002951,North Carolina Wesleyan College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,36923
-2016_2017,002951,North Carolina Wesleyan College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,32476
-2015_2016,002951,North Carolina Wesleyan College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002951,North Carolina Wesleyan College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,002951,North Carolina Wesleyan College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,002951,North Carolina Wesleyan College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,15,NA,22151
+2016_2017,002951,North Carolina Wesleyan College,Private,"Psychology, General.",Bachelor's Degree,,26431,27749
+2015_2016,002951,North Carolina Wesleyan College,Private,Religion/Religious Studies.,Bachelor's Degree,,,36923
+2016_2017,002951,North Carolina Wesleyan College,Private,Religion/Religious Studies.,Bachelor's Degree,,,32476
+2015_2016,002951,North Carolina Wesleyan College,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,002951,North Carolina Wesleyan College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,002951,North Carolina Wesleyan College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,002951,North Carolina Wesleyan College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,15,,22151

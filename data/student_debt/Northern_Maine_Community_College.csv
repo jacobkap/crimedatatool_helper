@@ -1,66 +1,66 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,005760,Northern Maine Community College,Public,Accounting and Related Services.,Associate's Degree,11,NA,12827
-2016_2017,005760,Northern Maine Community College,Public,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,15,NA,12857
+2015_2016,005760,Northern Maine Community College,Public,Accounting and Related Services.,Associate's Degree,11,,12827
+2016_2017,005760,Northern Maine Community College,Public,Accounting and Related Services.,Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,15,,12857
 2016_2017,005760,Northern Maine Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,21,12650,12586
-2015_2016,005760,Northern Maine Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Associate's Degree,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,19,NA,14197
-2016_2017,005760,Northern Maine Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,12,NA,17102
-2015_2016,005760,Northern Maine Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Carpenters.,Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,13704
-2016_2017,005760,Northern Maine Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,12749
-2015_2016,005760,Northern Maine Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,15,NA,12991
-2016_2017,005760,Northern Maine Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,14,NA,10404
-2015_2016,005760,Northern Maine Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Health and Medical Administrative Services.,Associate's Degree,13,NA,15958
-2016_2017,005760,Northern Maine Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,11,NA,13685
-2016_2017,005760,Northern Maine Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,12650,14982
-2015_2016,005760,Northern Maine Community College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Plumbing and Related Water Supply Services.,Associate's Degree,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Plumbing and Related Water Supply Services.,Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
+2015_2016,005760,Northern Maine Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2016_2017,005760,Northern Maine Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Associate's Degree,,,
+2016_2017,005760,Northern Maine Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,"Building/Construction Finishing, Management, and Inspection.",Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,19,,14197
+2016_2017,005760,Northern Maine Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,12,,17102
+2015_2016,005760,Northern Maine Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,Carpenters.,Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,Carpenters.,Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,,,13704
+2016_2017,005760,Northern Maine Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,,,12749
+2015_2016,005760,Northern Maine Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,005760,Northern Maine Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,15,,12991
+2016_2017,005760,Northern Maine Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,14,,10404
+2015_2016,005760,Northern Maine Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,,
+2016_2017,005760,Northern Maine Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,Health and Medical Administrative Services.,Associate's Degree,13,,15958
+2016_2017,005760,Northern Maine Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,Health and Medical Administrative Services.,Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2016_2017,005760,Northern Maine Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,11,,13685
+2016_2017,005760,Northern Maine Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,12650,14982
+2015_2016,005760,Northern Maine Community College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2016_2017,005760,Northern Maine Community College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,Plumbing and Related Water Supply Services.,Associate's Degree,,,
+2016_2017,005760,Northern Maine Community College,Public,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,Plumbing and Related Water Supply Services.,Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,Precision Metal Working.,Associate's Degree,,,
+2016_2017,005760,Northern Maine Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,Precision Metal Working.,Associate's Degree,,,
 2015_2016,005760,Northern Maine Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,37,17250,17308
 2016_2017,005760,Northern Maine Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,39,13625,15262
-2015_2016,005760,Northern Maine Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005760,Northern Maine Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,005760,Northern Maine Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005760,Northern Maine Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2015_2016,005760,Northern Maine Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,005760,Northern Maine Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2016_2017,005760,Northern Maine Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,005760,Northern Maine Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
 2015_2016,005760,Northern Maine Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,33,12000,13593
-2016_2017,005760,Northern Maine Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,005760,Northern Maine Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
 2016_2017,005760,Northern Maine Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,33,11271,10738

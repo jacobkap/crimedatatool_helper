@@ -1,89 +1,89 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002145,Eastern Nazarene College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,"Biology, General.",Bachelor's Degree,17,NA,23501
-2016_2017,002145,Eastern Nazarene College,Private,"Biology, General.",Bachelor's Degree,18,NA,23382
-2015_2016,002145,Eastern Nazarene College,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,002145,Eastern Nazarene College,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,"Biology, General.",Bachelor's Degree,17,,23501
+2016_2017,002145,Eastern Nazarene College,Private,"Biology, General.",Bachelor's Degree,18,,23382
+2015_2016,002145,Eastern Nazarene College,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,002145,Eastern Nazarene College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,81,20400,21828
 2015_2016,002145,Eastern Nazarene College,Private,"Business Administration, Management and Operations.",Master's Degree,24,23800,28254
-2016_2017,002145,Eastern Nazarene College,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,002145,Eastern Nazarene College,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,002145,Eastern Nazarene College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,61,20625,22650
 2016_2017,002145,Eastern Nazarene College,Private,"Business Administration, Management and Operations.",Master's Degree,23,24990,27924
-2015_2016,002145,Eastern Nazarene College,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,11,NA,45396
-2016_2017,002145,Eastern Nazarene College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,14,NA,57205
-2015_2016,002145,Eastern Nazarene College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,26431
-2015_2016,002145,Eastern Nazarene College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
+2015_2016,002145,Eastern Nazarene College,Private,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,"Business/Commerce, General.",Associate's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,11,,45396
+2016_2017,002145,Eastern Nazarene College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,14,,57205
+2015_2016,002145,Eastern Nazarene College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,26431
+2015_2016,002145,Eastern Nazarene College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,"Engineering, General.",Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,History.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,History.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,International Business.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Journalism.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Journalism.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
 2015_2016,002145,Eastern Nazarene College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,21,26080,23815
-2016_2017,002145,Eastern Nazarene College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,22104
-2016_2017,002145,Eastern Nazarene College,Private,Management Information Systems and Services.,Master's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Movement and Mind-Body Therapies and Education.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2016_2017,002145,Eastern Nazarene College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,22104
+2016_2017,002145,Eastern Nazarene College,Private,Management Information Systems and Services.,Master's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Movement and Mind-Body Therapies and Education.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Music.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Music.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Physics.,Bachelor's Degree,,,
 2015_2016,002145,Eastern Nazarene College,Private,"Psychology, General.",Bachelor's Degree,20,26004,26977
 2016_2017,002145,Eastern Nazarene College,Private,"Psychology, General.",Bachelor's Degree,21,27000,29700
-2015_2016,002145,Eastern Nazarene College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,25996
-2016_2017,002145,Eastern Nazarene College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,29175
-2015_2016,002145,Eastern Nazarene College,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Social Work.,Bachelor's Degree,NA,NA,28192
-2016_2017,002145,Eastern Nazarene College,Private,Social Work.,Bachelor's Degree,NA,NA,25537
-2015_2016,002145,Eastern Nazarene College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
+2015_2016,002145,Eastern Nazarene College,Private,Religion/Religious Studies.,Bachelor's Degree,,,25996
+2016_2017,002145,Eastern Nazarene College,Private,Religion/Religious Studies.,Bachelor's Degree,,,29175
+2015_2016,002145,Eastern Nazarene College,Private,Religious Education.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Religious Education.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Social Work.,Bachelor's Degree,,,28192
+2016_2017,002145,Eastern Nazarene College,Private,Social Work.,Bachelor's Degree,,,25537
+2015_2016,002145,Eastern Nazarene College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
 2015_2016,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,44,12906,15718
-2015_2016,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
+2015_2016,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
 2016_2017,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,73,18000,17646
-2016_2017,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,002145,Eastern Nazarene College,Private,Theological and Ministerial Studies.,Associate's Degree,NA,NA,NA
-2016_2017,002145,Eastern Nazarene College,Private,Theological and Ministerial Studies.,Associate's Degree,NA,NA,NA
+2016_2017,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,002145,Eastern Nazarene College,Private,Theological and Ministerial Studies.,Associate's Degree,,,
+2016_2017,002145,Eastern Nazarene College,Private,Theological and Ministerial Studies.,Associate's Degree,,,

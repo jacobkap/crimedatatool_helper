@@ -1,72 +1,72 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001029,University of Mobile,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Accounting and Related Services.,Bachelor's Degree,15,NA,27958
-2015_2016,001029,University of Mobile,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,001029,University of Mobile,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Accounting and Related Services.,Bachelor's Degree,15,,27958
+2015_2016,001029,University of Mobile,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,"Biology, General.",Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Biology, General.",Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,001029,University of Mobile,Private,"Business Administration, Management and Operations.",Bachelor's Degree,23,29750,29187
-2015_2016,001029,University of Mobile,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,001029,University of Mobile,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,001029,University of Mobile,Private,"Business Administration, Management and Operations.",Bachelor's Degree,52,27750,29104
-2016_2017,001029,University of Mobile,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Communication and Media Studies.,Bachelor's Degree,16,NA,23096
-2015_2016,001029,University of Mobile,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Health and Physical Education/Fitness.,Bachelor's Degree,12,NA,19556
-2015_2016,001029,University of Mobile,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,10,NA,22329
-2015_2016,001029,University of Mobile,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
+2016_2017,001029,University of Mobile,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,001029,University of Mobile,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Communication and Media Studies.,Bachelor's Degree,16,,23096
+2015_2016,001029,University of Mobile,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Health and Physical Education/Fitness.,Bachelor's Degree,12,,19556
+2015_2016,001029,University of Mobile,Private,History.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,History.,Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,10,,22329
+2015_2016,001029,University of Mobile,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
 2015_2016,001029,University of Mobile,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,20,36125,34367
-2016_2017,001029,University of Mobile,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,29175,32608
-2015_2016,001029,University of Mobile,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,15,NA,62601
-2015_2016,001029,University of Mobile,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Psychology, General.",Bachelor's Degree,19,NA,29603
-2015_2016,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,18,NA,29956
-2015_2016,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
+2016_2017,001029,University of Mobile,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,29175,32608
+2015_2016,001029,University of Mobile,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2016_2017,001029,University of Mobile,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,15,,62601
+2015_2016,001029,University of Mobile,Private,Music.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Music.,Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Psychology, General.",Bachelor's Degree,19,,29603
+2015_2016,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
+2015_2016,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,18,,29956
+2015_2016,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
 2016_2017,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,42,27844,31391
-2016_2017,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Religion/Religious Studies.,Bachelor's Degree,11,NA,19694
-2015_2016,001029,University of Mobile,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,22289
-2016_2017,001029,University of Mobile,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Religious/Sacred Music.,Bachelor's Degree,19,NA,27345
-2015_2016,001029,University of Mobile,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,15,NA,38552
-2015_2016,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2016_2017,001029,University of Mobile,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
+2015_2016,001029,University of Mobile,Private,Religion/Religious Studies.,Bachelor's Degree,11,,19694
+2015_2016,001029,University of Mobile,Private,Religion/Religious Studies.,Master's Degree,,,
+2016_2017,001029,University of Mobile,Private,Religion/Religious Studies.,Bachelor's Degree,,,22289
+2016_2017,001029,University of Mobile,Private,Religion/Religious Studies.,Master's Degree,,,
+2015_2016,001029,University of Mobile,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Religious/Sacred Music.,Bachelor's Degree,19,,27345
+2015_2016,001029,University of Mobile,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,15,,38552
+2015_2016,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,27,35500,35325
-2016_2017,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,11,NA,59057
-2015_2016,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,12,NA,26483
+2016_2017,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,11,,59057
+2015_2016,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001029,University of Mobile,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,12,,26483

@@ -1,88 +1,88 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,005380,Mid-state Technical College,Public,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Accounting and Related Services.,Associate's Degree,15,NA,16786
-2015_2016,005380,Mid-state Technical College,Public,Agricultural Business and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Agricultural Business and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Agricultural Production Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Agricultural Production Operations.,Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Agricultural Production Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005380,Mid-state Technical College,Public,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,Accounting and Related Services.,Associate's Degree,15,,16786
+2015_2016,005380,Mid-state Technical College,Public,Agricultural Business and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,005380,Mid-state Technical College,Public,Agricultural Business and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,005380,Mid-state Technical College,Public,Agricultural Production Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,005380,Mid-state Technical College,Public,Agricultural Production Operations.,Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,Agricultural Production Operations.,Undergraduate Certificate or Diploma,,,
 2015_2016,005380,Mid-state Technical College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,26,7000,8533
 2016_2017,005380,Mid-state Technical College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,57,6667,7508
 2015_2016,005380,Mid-state Technical College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,27,3500,5697
 2015_2016,005380,Mid-state Technical College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,31,7750,8664
 2016_2017,005380,Mid-state Technical College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,35,4667,6123
 2016_2017,005380,Mid-state Technical College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,40,8000,9154
-2015_2016,005380,Mid-state Technical College,Public,Atmospheric Sciences and Meteorology.,Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Biology Technician/Biotechnology Laboratory Technician.,Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Associate's Degree,10,NA,11635
-2016_2017,005380,Mid-state Technical College,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Associate's Degree,NA,NA,12564
-2015_2016,005380,Mid-state Technical College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005380,Mid-state Technical College,Public,Atmospheric Sciences and Meteorology.,Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,Biology Technician/Biotechnology Laboratory Technician.,Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Associate's Degree,10,,11635
+2016_2017,005380,Mid-state Technical College,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Associate's Degree,,,12564
+2015_2016,005380,Mid-state Technical College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
 2015_2016,005380,Mid-state Technical College,Public,"Business Administration, Management and Operations.",Associate's Degree,47,12650,15232
 2016_2017,005380,Mid-state Technical College,Public,"Business Administration, Management and Operations.",Associate's Degree,83,14238,16074
-2015_2016,005380,Mid-state Technical College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Business Operations Support and Assistant Services.,Associate's Degree,10,NA,10346
-2016_2017,005380,Mid-state Technical College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,13,NA,8717
-2016_2017,005380,Mid-state Technical College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,8000,9858
-2015_2016,005380,Mid-state Technical College,Public,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Civil Engineering.,Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,18,NA,7789
+2015_2016,005380,Mid-state Technical College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,005380,Mid-state Technical College,Public,Business Operations Support and Assistant Services.,Associate's Degree,10,,10346
+2016_2017,005380,Mid-state Technical College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,13,,8717
+2016_2017,005380,Mid-state Technical College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,8000,9858
+2015_2016,005380,Mid-state Technical College,Public,Carpenters.,Undergraduate Certificate or Diploma,,,
+2016_2017,005380,Mid-state Technical College,Public,Carpenters.,Undergraduate Certificate or Diploma,,,
+2015_2016,005380,Mid-state Technical College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,Civil Engineering.,Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,18,,7789
 2016_2017,005380,Mid-state Technical College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,24,5984,6415
-2015_2016,005380,Mid-state Technical College,Public,Computer Programming.,Associate's Degree,13,NA,15229
+2015_2016,005380,Mid-state Technical College,Public,Computer Programming.,Associate's Degree,13,,15229
 2016_2017,005380,Mid-state Technical College,Public,Computer Programming.,Associate's Degree,28,8125,11419
-2015_2016,005380,Mid-state Technical College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,10,NA,13612
+2015_2016,005380,Mid-state Technical College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,10,,13612
 2016_2017,005380,Mid-state Technical College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,22,8615,13047
-2015_2016,005380,Mid-state Technical College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,14,NA,5930
+2015_2016,005380,Mid-state Technical College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,005380,Mid-state Technical College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,005380,Mid-state Technical College,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,14,,5930
 2016_2017,005380,Mid-state Technical College,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,25,6309,7183
-2015_2016,005380,Mid-state Technical College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005380,Mid-state Technical College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2015_2016,005380,Mid-state Technical College,Public,Criminal Justice and Corrections.,Associate's Degree,20,9250,11464
-2016_2017,005380,Mid-state Technical College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,005380,Mid-state Technical College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2016_2017,005380,Mid-state Technical College,Public,Criminal Justice and Corrections.,Associate's Degree,32,9125,11089
-2015_2016,005380,Mid-state Technical College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Forestry.,Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Forestry.,Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Gerontology.,Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Gerontology.,Associate's Degree,11,NA,16431
-2015_2016,005380,Mid-state Technical College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,10,NA,10512
-2015_2016,005380,Mid-state Technical College,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
+2015_2016,005380,Mid-state Technical College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2016_2017,005380,Mid-state Technical College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2015_2016,005380,Mid-state Technical College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,Fire Protection.,Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,Forestry.,Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,Forestry.,Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,Gerontology.,Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,Gerontology.,Associate's Degree,11,,16431
+2015_2016,005380,Mid-state Technical College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,,,
+2016_2017,005380,Mid-state Technical College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,,,
+2015_2016,005380,Mid-state Technical College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,10,,10512
+2015_2016,005380,Mid-state Technical College,Public,Health and Medical Administrative Services.,Associate's Degree,,,
 2016_2017,005380,Mid-state Technical College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,22,8375,11554
-2016_2017,005380,Mid-state Technical College,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,12,NA,12318
-2015_2016,005380,Mid-state Technical College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,11,NA,11386
-2016_2017,005380,Mid-state Technical College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,11,NA,7493
-2015_2016,005380,Mid-state Technical College,Public,Human Resources Management and Services.,Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Marketing.,Associate's Degree,11,NA,22047
-2016_2017,005380,Mid-state Technical College,Public,Marketing.,Associate's Degree,16,NA,19232
-2015_2016,005380,Mid-state Technical College,Public,Mason/Masonry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2015_2016,005380,Mid-state Technical College,Public,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,005380,Mid-state Technical College,Public,Health and Medical Administrative Services.,Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,12,,12318
+2015_2016,005380,Mid-state Technical College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,005380,Mid-state Technical College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,11,,11386
+2016_2017,005380,Mid-state Technical College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,11,,7493
+2015_2016,005380,Mid-state Technical College,Public,Human Resources Management and Services.,Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,Marketing.,Associate's Degree,11,,22047
+2016_2017,005380,Mid-state Technical College,Public,Marketing.,Associate's Degree,16,,19232
+2015_2016,005380,Mid-state Technical College,Public,Mason/Masonry.,Undergraduate Certificate or Diploma,,,
+2015_2016,005380,Mid-state Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2016_2017,005380,Mid-state Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2015_2016,005380,Mid-state Technical College,Public,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,005380,Mid-state Technical College,Public,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,005380,Mid-state Technical College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,32,3500,5872
 2016_2017,005380,Mid-state Technical College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,55,4375,6491
-2015_2016,005380,Mid-state Technical College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,17,NA,8124
+2015_2016,005380,Mid-state Technical College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,17,,8124
 2016_2017,005380,Mid-state Technical College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,34,5000,7815
-2015_2016,005380,Mid-state Technical College,Public,Precision Systems Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005380,Mid-state Technical College,Public,Precision Systems Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
 2015_2016,005380,Mid-state Technical College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,37,9000,10248
 2016_2017,005380,Mid-state Technical College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,88,9085,11136
-2015_2016,005380,Mid-state Technical College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
+2015_2016,005380,Mid-state Technical College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
 2016_2017,005380,Mid-state Technical College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,24,9700,11410
-2015_2016,005380,Mid-state Technical College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005380,Mid-state Technical College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,12,NA,14811
+2015_2016,005380,Mid-state Technical College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,005380,Mid-state Technical College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,12,,14811

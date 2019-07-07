@@ -1,82 +1,82 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Accounting and Related Services.,Bachelor's Degree,51,26878,24046
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Accounting and Related Services.,Bachelor's Degree,60,27755,24756
-2015_2016,003899,University of Wisconsin - Green Bay,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,17,NA,20272
-2016_2017,003899,University of Wisconsin - Green Bay,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,22877
+2015_2016,003899,University of Wisconsin - Green Bay,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,17,,20272
+2016_2017,003899,University of Wisconsin - Green Bay,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,22877
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Behavioral Sciences.,Bachelor's Degree,160,22164,21525
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Behavioral Sciences.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Behavioral Sciences.,Post-baccalaureate Certificate,,,
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Behavioral Sciences.,Bachelor's Degree,139,21500,21094
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Behavioral Sciences.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Behavioral Sciences.,Post-baccalaureate Certificate,,,
 2015_2016,003899,University of Wisconsin - Green Bay,Public,"Biology, General.",Bachelor's Degree,43,21695,22108
 2016_2017,003899,University of Wisconsin - Green Bay,Public,"Biology, General.",Bachelor's Degree,44,25750,23492
 2015_2016,003899,University of Wisconsin - Green Bay,Public,"Business Administration, Management and Operations.",Bachelor's Degree,248,19208,19921
-2015_2016,003899,University of Wisconsin - Green Bay,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
+2015_2016,003899,University of Wisconsin - Green Bay,Public,"Business Administration, Management and Operations.",Master's Degree,,,
 2016_2017,003899,University of Wisconsin - Green Bay,Public,"Business Administration, Management and Operations.",Bachelor's Degree,275,19036,19470
-2016_2017,003899,University of Wisconsin - Green Bay,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Chemistry.,Bachelor's Degree,17,NA,21174
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Chemistry.,Bachelor's Degree,19,NA,20501
+2016_2017,003899,University of Wisconsin - Green Bay,Public,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Chemistry.,Bachelor's Degree,17,,21174
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Chemistry.,Bachelor's Degree,19,,20501
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Communication and Media Studies.,Bachelor's Degree,88,21750,20395
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Communication and Media Studies.,Bachelor's Degree,84,22000,20726
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Computational Science.,Master's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Computational Science.,Master's Degree,NA,NA,NA
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Computational Science.,Master's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Computational Science.,Master's Degree,,,
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Computer Science.,Bachelor's Degree,26,22000,20798
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Computer Science.,Bachelor's Degree,32,21315,22301
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Design and Applied Arts.,Bachelor's Degree,29,19500,19394
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Design and Applied Arts.,Bachelor's Degree,33,19500,19703
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,26235
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,18,NA,25323
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Economics.,Bachelor's Degree,13,NA,16948
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Economics.,Bachelor's Degree,15,NA,18537
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,26235
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,18,,25323
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Economics.,Bachelor's Degree,13,,16948
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Economics.,Bachelor's Degree,15,,18537
 2015_2016,003899,University of Wisconsin - Green Bay,Public,"Education, General.",Bachelor's Degree,106,22044,21577
 2016_2017,003899,University of Wisconsin - Green Bay,Public,"Education, General.",Bachelor's Degree,91,22319,21115
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,,
 2015_2016,003899,University of Wisconsin - Green Bay,Public,"English Language and Literature, General.",Bachelor's Degree,62,24572,23404
 2016_2017,003899,University of Wisconsin - Green Bay,Public,"English Language and Literature, General.",Bachelor's Degree,67,24000,23274
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Environmental Control Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Environmental Control Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,003899,University of Wisconsin - Green Bay,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Environmental Control Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Environmental Control Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,003899,University of Wisconsin - Green Bay,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Fine and Studio Arts.,Bachelor's Degree,20,25500,22612
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Fine and Studio Arts.,Bachelor's Degree,28,25210,22672
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003899,University of Wisconsin - Green Bay,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Health and Medical Administrative Services.,Bachelor's Degree,NA,25723,25316
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2015_2016,003899,University of Wisconsin - Green Bay,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Health and Medical Administrative Services.,Bachelor's Degree,,25723,25316
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Health and Medical Administrative Services.,Bachelor's Degree,39,26498,24800
 2015_2016,003899,University of Wisconsin - Green Bay,Public,History.,Bachelor's Degree,45,24364,22649
 2016_2017,003899,University of Wisconsin - Green Bay,Public,History.,Bachelor's Degree,43,25926,23331
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Human Biology.,Bachelor's Degree,138,20000,19746
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Human Biology.,Bachelor's Degree,144,19683,19887
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Information Science/Studies.,Bachelor's Degree,13,NA,17487
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Information Science/Studies.,Bachelor's Degree,NA,NA,19729
-2015_2016,003899,University of Wisconsin - Green Bay,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Information Science/Studies.,Bachelor's Degree,13,,17487
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Information Science/Studies.,Bachelor's Degree,,,19729
+2015_2016,003899,University of Wisconsin - Green Bay,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
 2015_2016,003899,University of Wisconsin - Green Bay,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,194,21324,22309
-2016_2017,003899,University of Wisconsin - Green Bay,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,13935
+2016_2017,003899,University of Wisconsin - Green Bay,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,13935
 2016_2017,003899,University of Wisconsin - Green Bay,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,227,20722,21324
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Mathematics.,Bachelor's Degree,13,NA,23671
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Mathematics.,Bachelor's Degree,10,NA,21619
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Mechanical Engineering Related Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,003899,University of Wisconsin - Green Bay,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Music.,Bachelor's Degree,12,NA,27520
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Music.,Bachelor's Degree,15,NA,23471
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Mathematics.,Bachelor's Degree,13,,23671
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Mathematics.,Bachelor's Degree,10,,21619
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Mechanical Engineering Related Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,003899,University of Wisconsin - Green Bay,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Music.,Bachelor's Degree,12,,27520
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Music.,Bachelor's Degree,15,,23471
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Natural Resources Conservation and Research.,Bachelor's Degree,51,21237,21224
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Natural Resources Conservation and Research.,Master's Degree,,,
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Natural Resources Conservation and Research.,Bachelor's Degree,37,19416,19275
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Natural Resources Conservation and Research.,Master's Degree,14,NA,22776
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Natural Resources Conservation and Research.,Master's Degree,14,,22776
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Philosophy.,Bachelor's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Philosophy.,Bachelor's Degree,,,
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Political Science and Government.,Bachelor's Degree,35,21990,22869
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Political Science and Government.,Bachelor's Degree,NA,22724,22188
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Political Science and Government.,Bachelor's Degree,,22724,22188
 2015_2016,003899,University of Wisconsin - Green Bay,Public,"Psychology, General.",Bachelor's Degree,199,22250,21025
 2016_2017,003899,University of Wisconsin - Green Bay,Public,"Psychology, General.",Bachelor's Degree,190,21500,20473
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Public Administration.,Bachelor's Degree,42,22378,23864
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Public Administration.,Bachelor's Degree,30,21355,23429
 2015_2016,003899,University of Wisconsin - Green Bay,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,93,17875,19748
-2015_2016,003899,University of Wisconsin - Green Bay,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2015_2016,003899,University of Wisconsin - Green Bay,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2016_2017,003899,University of Wisconsin - Green Bay,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,116,18480,19402
-2016_2017,003899,University of Wisconsin - Green Bay,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2016_2017,003899,University of Wisconsin - Green Bay,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2015_2016,003899,University of Wisconsin - Green Bay,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,34,23750,21365
 2016_2017,003899,University of Wisconsin - Green Bay,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,33,25641,22603
 2015_2016,003899,University of Wisconsin - Green Bay,Public,"Social Sciences, Other.",Bachelor's Degree,42,25218,22967
@@ -85,11 +85,11 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,003899,University of Wisconsin - Green Bay,Public,Social Work.,Master's Degree,20,20500,24029
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Social Work.,Bachelor's Degree,46,16990,18471
 2016_2017,003899,University of Wisconsin - Green Bay,Public,Social Work.,Master's Degree,58,20500,25845
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Sustainability Studies.,Master's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Sustainability Studies.,Master's Degree,NA,NA,NA
-2015_2016,003899,University of Wisconsin - Green Bay,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,14,NA,13434
-2015_2016,003899,University of Wisconsin - Green Bay,Public,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
-2015_2016,003899,University of Wisconsin - Green Bay,Public,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003899,University of Wisconsin - Green Bay,Public,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Sustainability Studies.,Master's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Sustainability Studies.,Master's Degree,,,
+2015_2016,003899,University of Wisconsin - Green Bay,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,14,,13434
+2015_2016,003899,University of Wisconsin - Green Bay,Public,Urban Studies/Affairs.,Bachelor's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,Urban Studies/Affairs.,Bachelor's Degree,,,
+2015_2016,003899,University of Wisconsin - Green Bay,Public,"Visual and Performing Arts, Other.",Bachelor's Degree,,,
+2016_2017,003899,University of Wisconsin - Green Bay,Public,"Visual and Performing Arts, Other.",Bachelor's Degree,,,

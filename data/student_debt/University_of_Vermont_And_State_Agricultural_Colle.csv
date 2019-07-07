@@ -1,308 +1,308 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Accounting and Related Services.,Master's Degree,12,NA,20257
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Accounting and Related Services.,Master's Degree,15,NA,20826
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Agriculture, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Agriculture, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Accounting and Related Services.,Master's Degree,12,,20257
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Accounting and Related Services.,Master's Degree,15,,20826
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Agriculture, General.",Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Agriculture, General.",Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,42,26625,22897
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,45,25000,21527
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Animal Sciences.,Bachelor's Degree,81,22250,20210
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Animal Sciences.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Animal Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Animal Sciences.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Animal Sciences.,Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Animal Sciences.,Bachelor's Degree,73,20500,19079
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Animal Sciences.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Animal Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Animal Sciences.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Animal Sciences.,Doctoral Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Anthropology.,Bachelor's Degree,40,21426,20063
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Anthropology.,Bachelor's Degree,36,19125,20142
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Area Studies.,Bachelor's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,32,24625,21396
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,30,24250,22842
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biological and Biomedical Sciences, Other.",Doctoral Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biology, General.",Bachelor's Degree,84,24047,21930
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biology, General.",Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biology, General.",Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biology, General.",Bachelor's Degree,97,23250,21422
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Biomedical/Medical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Doctoral Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biology, General.",Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biology, General.",Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Biomedical/Medical Engineering.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Biomedical/Medical Engineering.,Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Biomedical/Medical Engineering.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Biomedical/Medical Engineering.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Biomedical/Medical Engineering.,Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Botany/Plant Biology.,Doctoral Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Business Administration, Management and Operations.",Bachelor's Degree,195,21000,19357
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Business Administration, Management and Operations.",Master's Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Business Administration, Management and Operations.",Bachelor's Degree,207,23000,20436
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Business Administration, Management and Operations.",Master's Degree,13,NA,44738
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Bachelor's Degree,10,NA,25814
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Bachelor's Degree,10,NA,20883
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Business Administration, Management and Operations.",Master's Degree,13,,44738
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Bachelor's Degree,10,,25814
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Bachelor's Degree,10,,20883
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Chemistry.,Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Civil Engineering.,Bachelor's Degree,37,23000,20845
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Civil Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Civil Engineering.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Civil Engineering.,Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Civil Engineering.,Bachelor's Degree,43,23900,21395
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Civil Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Civil Engineering.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Civil Engineering.,Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Post-baccalaureate Certificate,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Post-baccalaureate Certificate,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Master's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,34,20250,20176
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,32,23676,22495
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Master's Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Master's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,36,18389,18311
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Communication Disorders Sciences and Services.,Master's Degree,17,NA,52084
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Communication Disorders Sciences and Services.,Master's Degree,17,,52084
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,33,19500,19537
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Communication Disorders Sciences and Services.,Master's Degree,20,64992,65213
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Computer Science.,Bachelor's Degree,35,24250,21997
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Computer Science.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Computer Science.,Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Computer Science.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Computer Science.,Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Computer Science.,Bachelor's Degree,40,23062,21018
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Computer Science.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Computer Science.,Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Curriculum and Instruction.,Master's Degree,17,NA,24569
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Computer Science.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Computer Science.,Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Computer Systems Analysis.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Computer Systems Analysis.,Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Curriculum and Instruction.,Master's Degree,17,,24569
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Curriculum and Instruction.,Master's Degree,20,31790,29501
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,44,23250,21312
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,46,25682,22327
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,16,NA,20511
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,15,NA,20821
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Ecology, Evolution, Systematics, and Population Biology.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,16,,20511
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,15,,20821
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Ecology, Evolution, Systematics, and Population Biology.",Post-baccalaureate Certificate,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Bachelor's Degree,71,20250,19546
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Post-baccalaureate Certificate,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Graduate/Professional Certificate,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Bachelor's Degree,61,22260,20752
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Educational Administration and Supervision.,Master's Degree,14,NA,21689
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Educational Administration and Supervision.,Master's Degree,13,NA,18642
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,19,NA,20759
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,15,NA,27353
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Post-baccalaureate Certificate,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Economics.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Post-baccalaureate Certificate,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Graduate/Professional Certificate,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Post-baccalaureate Certificate,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Education, General.",Graduate/Professional Certificate,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Educational Administration and Supervision.,Master's Degree,14,,21689
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Educational Administration and Supervision.,Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Educational Administration and Supervision.,Master's Degree,13,,18642
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Educational Administration and Supervision.,Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,19,,20759
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,15,,27353
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Engineering, General.",Bachelor's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"English Language and Literature, General.",Bachelor's Degree,100,22505,21165
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"English Language and Literature, General.",Bachelor's Degree,86,22306,20964
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"English Language and Literature, General.",Master's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Entrepreneurial and Small Business Operations.,Bachelor's Degree,34,24282,21086
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Entrepreneurial and Small Business Operations.,Bachelor's Degree,28,21781,19105
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,27,18250,20880
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,17,NA,20000
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Film/Video and Photographic Arts.,Bachelor's Degree,15,NA,23629
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Film/Video and Photographic Arts.,Bachelor's Degree,17,NA,21216
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,17,,20000
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Film/Video and Photographic Arts.,Bachelor's Degree,15,,23629
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Film/Video and Photographic Arts.,Bachelor's Degree,17,,21216
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Fine and Studio Arts.,Bachelor's Degree,41,20500,19242
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Fine and Studio Arts.,Bachelor's Degree,43,23758,21148
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Forestry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Forestry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Geography and Cartography.,Bachelor's Degree,12,NA,17569
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Geography and Cartography.,Bachelor's Degree,13,NA,16908
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Forestry.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Forestry.,Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Geography and Cartography.,Bachelor's Degree,12,,17569
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Geography and Cartography.,Bachelor's Degree,13,,16908
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Health and Physical Education/Fitness.,Bachelor's Degree,30,22375,20741
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Health and Physical Education/Fitness.,Bachelor's Degree,34,24028,20803
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Historic Preservation and Conservation.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Historic Preservation and Conservation.,Master's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Historic Preservation and Conservation.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Historic Preservation and Conservation.,Master's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,History.,Bachelor's Degree,60,20250,21069
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,History.,Master's Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,History.,Bachelor's Degree,63,19500,20431
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,History.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,15,NA,25562
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,15,NA,26026
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Industrial Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Industrial Engineering.,Bachelor's Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,History.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,15,,25562
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,15,,26026
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Industrial Engineering.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Industrial Engineering.,Bachelor's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,International/Global Studies.,Bachelor's Degree,46,21000,21577
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,International/Global Studies.,Bachelor's Degree,34,20756,19282
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,21254
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,10,NA,21646
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,15,NA,21763
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Materials Sciences.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Materials Sciences.,Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Materials Sciences.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Materials Sciences.,Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,21254
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,10,,21646
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,15,,21763
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Materials Sciences.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Materials Sciences.,Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Materials Sciences.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Materials Sciences.,Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mathematics and Computer Science.,Bachelor's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Mathematics.,Bachelor's Degree,24,20651,18784
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Mathematics.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Mathematics.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Mathematics.,Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mathematics.,Bachelor's Degree,30,18500,18882
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mathematics.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mathematics.,Doctoral Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Mechanical Engineering.,Bachelor's Degree,89,25155,22018
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Mechanical Engineering.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Mechanical Engineering.,Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mechanical Engineering.,Bachelor's Degree,89,25823,21131
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Medical Clinical Sciences/Graduate Medical Studies.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Medical Clinical Sciences/Graduate Medical Studies.,Master's Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mechanical Engineering.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Mechanical Engineering.,Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Medical Clinical Sciences/Graduate Medical Studies.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Medical Clinical Sciences/Graduate Medical Studies.,Master's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Medicine.,First Professional Degree,186,173097,170707
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Medicine.,First Professional Degree,170,176009,183549
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,18,NA,21781
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Music.,Bachelor's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,18,,21781
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Multi/Interdisciplinary Studies, Other.",Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Music.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Music.,Bachelor's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Bachelor's Degree,183,21500,20386
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Post-baccalaureate Certificate,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Bachelor's Degree,191,22125,20948
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Management and Policy.,Bachelor's Degree,10,NA,19090
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Management and Policy.,Bachelor's Degree,10,NA,21892
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Post-baccalaureate Certificate,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Conservation and Research.,Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Management and Policy.,Bachelor's Degree,10,,19090
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Natural Resources Management and Policy.,Bachelor's Degree,10,,21892
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Neurobiology and Neurosciences.,Bachelor's Degree,44,23250,23112
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Neurobiology and Neurosciences.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Neurobiology and Neurosciences.,Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Neurobiology and Neurosciences.,Bachelor's Degree,50,26486,23700
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Neurobiology and Neurosciences.,Doctoral Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Nutrition Sciences.,Bachelor's Degree,42,24250,22152
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Nutrition Sciences.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Nutrition Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Nutrition Sciences.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Nutrition Sciences.,Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Nutrition Sciences.,Bachelor's Degree,50,22527,21082
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Nutrition Sciences.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Nutrition Sciences.,Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Pharmacology and Toxicology.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Pharmacology and Toxicology.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Physics.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Physics.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Bachelor's Degree,14,NA,20329
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Doctoral Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Bachelor's Degree,16,NA,19861
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Nutrition Sciences.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Nutrition Sciences.,Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Pharmacology and Toxicology.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Pharmacology and Toxicology.,Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Pharmacology and Toxicology.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Pharmacology and Toxicology.,Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Philosophy.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Philosophy.,Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Physics.,Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Physics.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Physics.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Physics.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Bachelor's Degree,14,,20329
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Doctoral Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Bachelor's Degree,16,,19861
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Plant Sciences.,Doctoral Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Political Science and Government.,Bachelor's Degree,97,19500,19810
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Political Science and Government.,Bachelor's Degree,85,21937,21054
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Psychology, General.",Bachelor's Degree,139,22750,20249
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Psychology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Psychology, General.",Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Psychology, General.",Doctoral Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Psychology, General.",Bachelor's Degree,144,23970,21231
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Psychology, General.",Doctoral Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Public Administration.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Public Administration.,Master's Degree,10,NA,37737
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Public Health.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Public Health.,Master's Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Psychology, General.",Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Psychology, General.",Doctoral Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Public Administration.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Public Administration.,Master's Degree,10,,37737
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Public Health.,Post-baccalaureate Certificate,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Public Health.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Public Health.,Post-baccalaureate Certificate,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Public Health.,Master's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,83,23250,20870
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,89,24037,21246
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,114,24979,21768
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,35,81690,80563
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,117,25000,21736
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,32,80828,80353
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,83113,78687
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,83756,88202
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Religion/Religious Studies.,Bachelor's Degree,12,NA,23031
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,10,NA,20141
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,83113,78687
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,83756,88202
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Religion/Religious Studies.,Bachelor's Degree,12,,23031
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,10,,20141
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Social Work.,Bachelor's Degree,37,19500,18985
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Social Work.,Master's Degree,44,47206,51792
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Social Work.,Bachelor's Degree,38,16187,16440
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Social Work.,Master's Degree,46,45009,51832
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Sociology.,Bachelor's Degree,32,24592,23124
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Sociology.,Bachelor's Degree,29,19500,19482
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Special Education and Teaching.,Bachelor's Degree,11,NA,21605
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Special Education and Teaching.,Master's Degree,18,NA,32089
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Special Education and Teaching.,Bachelor's Degree,11,NA,22559
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Special Education and Teaching.,Master's Degree,12,NA,29354
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Statistics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Statistics.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Statistics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Statistics.,Master's Degree,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Student Counseling and Personnel Services.,Master's Degree,13,NA,62613
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Systems Science and Theory.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Systems Science and Theory.,Master's Degree,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Systems Science and Theory.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Systems Science and Theory.,Master's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Special Education and Teaching.,Bachelor's Degree,11,,21605
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Special Education and Teaching.,Master's Degree,18,,32089
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Special Education and Teaching.,Bachelor's Degree,11,,22559
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Special Education and Teaching.,Master's Degree,12,,29354
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Statistics.,Bachelor's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Statistics.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Statistics.,Bachelor's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Statistics.,Master's Degree,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Student Counseling and Personnel Services.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Student Counseling and Personnel Services.,Master's Degree,13,,62613
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Systems Science and Theory.,Post-baccalaureate Certificate,,,
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Systems Science and Theory.,Master's Degree,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Systems Science and Theory.,Post-baccalaureate Certificate,,,
+2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Systems Science and Theory.,Master's Degree,,,
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,87,21239,19697
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,91,20375,19371
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,52,21656,19436
-2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,003696,University of Vermont And State Agricultural Colle,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,59,23251,20451
 2015_2016,003696,University of Vermont And State Agricultural Colle,Public,Zoology/Animal Biology.,Bachelor's Degree,57,22178,21872
 2016_2017,003696,University of Vermont And State Agricultural Colle,Public,Zoology/Animal Biology.,Bachelor's Degree,49,23000,22552

@@ -1,58 +1,58 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002729,Hartwick College,Private,Accounting and Related Services.,Bachelor's Degree,12,NA,24185
-2016_2017,002729,Hartwick College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,25981
-2015_2016,002729,Hartwick College,Private,Anthropology.,Bachelor's Degree,15,NA,27283
-2016_2017,002729,Hartwick College,Private,Anthropology.,Bachelor's Degree,NA,27000,25944
-2015_2016,002729,Hartwick College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,002729,Hartwick College,Private,Accounting and Related Services.,Bachelor's Degree,12,,24185
+2016_2017,002729,Hartwick College,Private,Accounting and Related Services.,Bachelor's Degree,,,25981
+2015_2016,002729,Hartwick College,Private,Anthropology.,Bachelor's Degree,15,,27283
+2016_2017,002729,Hartwick College,Private,Anthropology.,Bachelor's Degree,,27000,25944
+2015_2016,002729,Hartwick College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
 2015_2016,002729,Hartwick College,Private,"Biology, General.",Bachelor's Degree,54,27000,24864
 2016_2017,002729,Hartwick College,Private,"Biology, General.",Bachelor's Degree,68,27000,25414
 2015_2016,002729,Hartwick College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,78,27000,24189
 2016_2017,002729,Hartwick College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,98,27000,25430
-2015_2016,002729,Hartwick College,Private,Chemistry.,Bachelor's Degree,12,NA,21832
-2016_2017,002729,Hartwick College,Private,Chemistry.,Bachelor's Degree,NA,NA,20974
-2015_2016,002729,Hartwick College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,002729,Hartwick College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002729,Hartwick College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,26075
-2015_2016,002729,Hartwick College,Private,Economics.,Bachelor's Degree,12,NA,26768
-2016_2017,002729,Hartwick College,Private,Economics.,Bachelor's Degree,NA,NA,24458
-2015_2016,002729,Hartwick College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,27000,25537
-2016_2017,002729,Hartwick College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,27000,24999
-2015_2016,002729,Hartwick College,Private,Fine and Studio Arts.,Bachelor's Degree,19,NA,22504
+2015_2016,002729,Hartwick College,Private,Chemistry.,Bachelor's Degree,12,,21832
+2016_2017,002729,Hartwick College,Private,Chemistry.,Bachelor's Degree,,,20974
+2015_2016,002729,Hartwick College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,002729,Hartwick College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,002729,Hartwick College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,26075
+2015_2016,002729,Hartwick College,Private,Economics.,Bachelor's Degree,12,,26768
+2016_2017,002729,Hartwick College,Private,Economics.,Bachelor's Degree,,,24458
+2015_2016,002729,Hartwick College,Private,"English Language and Literature, General.",Bachelor's Degree,,27000,25537
+2016_2017,002729,Hartwick College,Private,"English Language and Literature, General.",Bachelor's Degree,,27000,24999
+2015_2016,002729,Hartwick College,Private,Fine and Studio Arts.,Bachelor's Degree,19,,22504
 2016_2017,002729,Hartwick College,Private,Fine and Studio Arts.,Bachelor's Degree,25,27000,24642
-2015_2016,002729,Hartwick College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,26075
-2015_2016,002729,Hartwick College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,002729,Hartwick College,Private,History.,Bachelor's Degree,18,NA,24197
-2016_2017,002729,Hartwick College,Private,History.,Bachelor's Degree,NA,27000,24546
-2015_2016,002729,Hartwick College,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002729,Hartwick College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,25746
-2015_2016,002729,Hartwick College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,Mathematics.,Bachelor's Degree,NA,NA,24445
-2015_2016,002729,Hartwick College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002729,Hartwick College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002729,Hartwick College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002729,Hartwick College,Private,Political Science and Government.,Bachelor's Degree,NA,27000,27961
-2016_2017,002729,Hartwick College,Private,Political Science and Government.,Bachelor's Degree,NA,27000,25723
+2015_2016,002729,Hartwick College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,26075
+2015_2016,002729,Hartwick College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,002729,Hartwick College,Private,History.,Bachelor's Degree,18,,24197
+2016_2017,002729,Hartwick College,Private,History.,Bachelor's Degree,,27000,24546
+2015_2016,002729,Hartwick College,Private,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,International/Global Studies.,Bachelor's Degree,,,
+2015_2016,002729,Hartwick College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,25746
+2015_2016,002729,Hartwick College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,Mathematics.,Bachelor's Degree,,,24445
+2015_2016,002729,Hartwick College,Private,Music.,Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,Music.,Bachelor's Degree,,,
+2015_2016,002729,Hartwick College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002729,Hartwick College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,Physics.,Bachelor's Degree,,,
+2015_2016,002729,Hartwick College,Private,Political Science and Government.,Bachelor's Degree,,27000,27961
+2016_2017,002729,Hartwick College,Private,Political Science and Government.,Bachelor's Degree,,27000,25723
 2015_2016,002729,Hartwick College,Private,"Psychology, General.",Bachelor's Degree,33,27000,26101
 2016_2017,002729,Hartwick College,Private,"Psychology, General.",Bachelor's Degree,35,27000,25728
 2015_2016,002729,Hartwick College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,29,26849,25379
 2016_2017,002729,Hartwick College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,78,27000,24434
-2015_2016,002729,Hartwick College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002729,Hartwick College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,002729,Hartwick College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,002729,Hartwick College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,002729,Hartwick College,Private,Sociology.,Bachelor's Degree,41,27000,29037
 2016_2017,002729,Hartwick College,Private,Sociology.,Bachelor's Degree,48,27000,27410
-2015_2016,002729,Hartwick College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,002729,Hartwick College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,002729,Hartwick College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,002729,Hartwick College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

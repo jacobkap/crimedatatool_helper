@@ -1,11 +1,11 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,022788,Southern Technical College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,25734
-2015_2016,022788,Southern Technical College,Proprietary,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,022788,Southern Technical College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,022788,Southern Technical College,Proprietary,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,022788,Southern Technical College,Proprietary,Accounting and Related Services.,Associate's Degree,,,25734
+2015_2016,022788,Southern Technical College,Proprietary,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,022788,Southern Technical College,Proprietary,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,022788,Southern Technical College,Proprietary,Accounting and Related Services.,Bachelor's Degree,,,
 2015_2016,022788,Southern Technical College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,47,9773,10744
 2015_2016,022788,Southern Technical College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,114,14731,16158
-2015_2016,039035,Southern Technical College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,11,NA,10064
+2015_2016,039035,Southern Technical College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,11,,10064
 2015_2016,039035,Southern Technical College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,66,21132,21952
 2016_2017,022788,Southern Technical College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,91,11305,12529
 2016_2017,022788,Southern Technical College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,83,17511,18052
@@ -14,55 +14,55 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,022788,Southern Technical College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,189,21920,21050
 2016_2017,022788,Southern Technical College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,154,22453,21502
 2015_2016,022788,Southern Technical College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,40,22566,23370
-2015_2016,022788,Southern Technical College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,15,NA,45953
+2015_2016,022788,Southern Technical College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,15,,45953
 2016_2017,022788,Southern Technical College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,44,24516,25698
-2016_2017,022788,Southern Technical College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,14,NA,39517
-2015_2016,039035,Southern Technical College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,039035,Southern Technical College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
+2016_2017,022788,Southern Technical College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,14,,39517
+2015_2016,039035,Southern Technical College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,039035,Southern Technical College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,,
 2016_2017,039035,Southern Technical College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,30,9500,13006
-2016_2017,039035,Southern Technical College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,022788,Southern Technical College,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,15,NA,40962
-2016_2017,022788,Southern Technical College,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,022788,Southern Technical College,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,022788,Southern Technical College,Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,022788,Southern Technical College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,15,NA,22308
-2016_2017,022788,Southern Technical College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,12,NA,24123
+2016_2017,039035,Southern Technical College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,022788,Southern Technical College,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,15,,40962
+2016_2017,022788,Southern Technical College,Proprietary,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,022788,Southern Technical College,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,022788,Southern Technical College,Proprietary,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,022788,Southern Technical College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,15,,22308
+2016_2017,022788,Southern Technical College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,12,,24123
 2015_2016,022788,Southern Technical College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,36,24767,24560
-2015_2016,022788,Southern Technical College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
+2015_2016,022788,Southern Technical College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,,
 2016_2017,022788,Southern Technical College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,26,23995,26751
-2016_2017,022788,Southern Technical College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2015_2016,022788,Southern Technical College,Proprietary,Data Processing.,Bachelor's Degree,NA,NA,45640
-2016_2017,022788,Southern Technical College,Proprietary,Data Processing.,Bachelor's Degree,NA,NA,45640
-2015_2016,022788,Southern Technical College,Proprietary,Design and Applied Arts.,Associate's Degree,NA,NA,23823
-2015_2016,022788,Southern Technical College,Proprietary,Design and Applied Arts.,Bachelor's Degree,NA,NA,46530
-2016_2017,022788,Southern Technical College,Proprietary,Design and Applied Arts.,Associate's Degree,NA,NA,22157
-2016_2017,022788,Southern Technical College,Proprietary,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
+2016_2017,022788,Southern Technical College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2015_2016,022788,Southern Technical College,Proprietary,Data Processing.,Bachelor's Degree,,,45640
+2016_2017,022788,Southern Technical College,Proprietary,Data Processing.,Bachelor's Degree,,,45640
+2015_2016,022788,Southern Technical College,Proprietary,Design and Applied Arts.,Associate's Degree,,,23823
+2015_2016,022788,Southern Technical College,Proprietary,Design and Applied Arts.,Bachelor's Degree,,,46530
+2016_2017,022788,Southern Technical College,Proprietary,Design and Applied Arts.,Associate's Degree,,,22157
+2016_2017,022788,Southern Technical College,Proprietary,Design and Applied Arts.,Bachelor's Degree,,,
 2015_2016,039035,Southern Technical College,Proprietary,"Electrical, Electronics and Communications Engineering.",Associate's Degree,33,24986,22766
 2016_2017,039035,Southern Technical College,Proprietary,"Electrical, Electronics and Communications Engineering.",Associate's Degree,53,20000,20259
-2015_2016,039035,Southern Technical College,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,039035,Southern Technical College,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,,,
 2015_2016,039035,Southern Technical College,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,41,20000,21406
-2016_2017,039035,Southern Technical College,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,NA,NA,9736
+2016_2017,039035,Southern Technical College,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,,,9736
 2016_2017,039035,Southern Technical College,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,88,20000,20356
-2015_2016,022788,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,14057,15285
+2015_2016,022788,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,14057,15285
 2015_2016,022788,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,46,23822,22092
 2015_2016,022788,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,24,46069,44840
-2015_2016,039035,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,039035,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,039035,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,34,20000,23443
-2016_2017,022788,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,13262,14349
+2016_2017,022788,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,13262,14349
 2016_2017,022788,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,46,24372,23453
-2016_2017,022788,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,19,NA,43767
-2016_2017,039035,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,022788,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,19,,43767
+2016_2017,039035,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,039035,Southern Technical College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,93,20000,21730
-2015_2016,039035,Southern Technical College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,039035,Southern Technical College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
 2016_2017,039035,Southern Technical College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,58,9500,10055
-2016_2017,039035,Southern Technical College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,9500,10753
-2015_2016,039035,Southern Technical College,Proprietary,Precision Metal Working.,Associate's Degree,NA,NA,NA
+2016_2017,039035,Southern Technical College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,9500,10753
+2015_2016,039035,Southern Technical College,Proprietary,Precision Metal Working.,Associate's Degree,,,
 2016_2017,039035,Southern Technical College,Proprietary,Precision Metal Working.,Associate's Degree,41,20000,19255
 2015_2016,022788,Southern Technical College,Proprietary,Public Administration.,Bachelor's Degree,33,42707,39372
-2016_2017,022788,Southern Technical College,Proprietary,Public Administration.,Bachelor's Degree,NA,NA,42233
+2016_2017,022788,Southern Technical College,Proprietary,Public Administration.,Bachelor's Degree,,,42233
 2015_2016,022788,Southern Technical College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,59,21567,20794
 2016_2017,022788,Southern Technical College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,91,23500,22752
-2015_2016,022788,Southern Technical College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,022788,Southern Technical College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,022788,Southern Technical College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,022788,Southern Technical College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
+2015_2016,022788,Southern Technical College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,022788,Southern Technical College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,022788,Southern Technical College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,022788,Southern Technical College,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,

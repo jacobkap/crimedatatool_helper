@@ -1,140 +1,140 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003362,Seton Hill University,Private,Accounting and Related Services.,Bachelor's Degree,19,NA,26040
-2016_2017,003362,Seton Hill University,Private,Accounting and Related Services.,Bachelor's Degree,18,NA,27925
-2015_2016,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,NA,NA,202830
-2015_2016,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003362,Seton Hill University,Private,Accounting and Related Services.,Bachelor's Degree,19,,26040
+2016_2017,003362,Seton Hill University,Private,Accounting and Related Services.,Bachelor's Degree,18,,27925
+2015_2016,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Post-baccalaureate Certificate,,,
+2015_2016,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,,,202830
+2015_2016,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,,,
+2016_2017,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Post-baccalaureate Certificate,,,
+2016_2017,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,,,
+2015_2016,003362,Seton Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Post-baccalaureate Certificate,,,
 2015_2016,003362,Seton Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,66,118354,99970
-2016_2017,003362,Seton Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003362,Seton Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Post-baccalaureate Certificate,,,
 2016_2017,003362,Seton Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,69,101187,92382
-2015_2016,003362,Seton Hill University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,003362,Seton Hill University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
 2015_2016,003362,Seton Hill University,Private,"Biology, General.",Bachelor's Degree,44,27000,25812
 2016_2017,003362,Seton Hill University,Private,"Biology, General.",Bachelor's Degree,39,27000,25835
 2015_2016,003362,Seton Hill University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,22,27000,26263
 2015_2016,003362,Seton Hill University,Private,"Business Administration, Management and Operations.",Master's Degree,29,24836,38296
-2016_2017,003362,Seton Hill University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,19,NA,25180
+2016_2017,003362,Seton Hill University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,19,,25180
 2016_2017,003362,Seton Hill University,Private,"Business Administration, Management and Operations.",Master's Degree,41,27488,42337
-2015_2016,003362,Seton Hill University,Private,Chemistry.,Bachelor's Degree,NA,NA,25399
-2016_2017,003362,Seton Hill University,Private,Chemistry.,Bachelor's Degree,NA,NA,27864
-2015_2016,003362,Seton Hill University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Communication and Media Studies.,Bachelor's Degree,15,NA,27416
-2016_2017,003362,Seton Hill University,Private,Communication and Media Studies.,Bachelor's Degree,13,NA,25072
-2015_2016,003362,Seton Hill University,Private,Computer Science.,Bachelor's Degree,NA,NA,25623
-2016_2017,003362,Seton Hill University,Private,Computer Science.,Bachelor's Degree,NA,NA,25831
+2015_2016,003362,Seton Hill University,Private,Chemistry.,Bachelor's Degree,,,25399
+2016_2017,003362,Seton Hill University,Private,Chemistry.,Bachelor's Degree,,,27864
+2015_2016,003362,Seton Hill University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2016_2017,003362,Seton Hill University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Communication and Media Studies.,Bachelor's Degree,15,,27416
+2016_2017,003362,Seton Hill University,Private,Communication and Media Studies.,Bachelor's Degree,13,,25072
+2015_2016,003362,Seton Hill University,Private,Computer Science.,Bachelor's Degree,,,25623
+2016_2017,003362,Seton Hill University,Private,Computer Science.,Bachelor's Degree,,,25831
 2015_2016,003362,Seton Hill University,Private,Criminal Justice and Corrections.,Bachelor's Degree,34,27000,26446
 2016_2017,003362,Seton Hill University,Private,Criminal Justice and Corrections.,Bachelor's Degree,45,27000,25056
-2015_2016,003362,Seton Hill University,Private,Dance.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Dance.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,26336
-2015_2016,003362,Seton Hill University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,12,NA,26237
-2016_2017,003362,Seton Hill University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,NA,NA,26704
-2015_2016,003362,Seton Hill University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,17,NA,25760
-2016_2017,003362,Seton Hill University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,27310
-2015_2016,003362,Seton Hill University,Private,"Education, Other.",Master's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,"Education, Other.",Master's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
+2015_2016,003362,Seton Hill University,Private,Dance.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Dance.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,003362,Seton Hill University,Private,Design and Applied Arts.,Bachelor's Degree,,,26336
+2015_2016,003362,Seton Hill University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,12,,26237
+2016_2017,003362,Seton Hill University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,,,26704
+2015_2016,003362,Seton Hill University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,17,,25760
+2016_2017,003362,Seton Hill University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,27310
+2015_2016,003362,Seton Hill University,Private,"Education, Other.",Master's Degree,,,
+2016_2017,003362,Seton Hill University,Private,"Education, Other.",Master's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Educational/Instructional Media Design.,Master's Degree,,,
+2015_2016,003362,Seton Hill University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
 2015_2016,003362,Seton Hill University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,23,25000,25096
 2016_2017,003362,Seton Hill University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,42,27000,27247
-2016_2017,003362,Seton Hill University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,History.,Bachelor's Degree,NA,NA,29227
-2016_2017,003362,Seton Hill University,Private,History.,Bachelor's Degree,NA,NA,26519
-2015_2016,003362,Seton Hill University,Private,Holocaust and Related Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Holocaust and Related Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Hospitality Administration/Management.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
+2016_2017,003362,Seton Hill University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,,,
+2016_2017,003362,Seton Hill University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,,,
+2015_2016,003362,Seton Hill University,Private,History.,Bachelor's Degree,,,29227
+2016_2017,003362,Seton Hill University,Private,History.,Bachelor's Degree,,,26519
+2015_2016,003362,Seton Hill University,Private,Holocaust and Related Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003362,Seton Hill University,Private,Holocaust and Related Studies.,Post-baccalaureate Certificate,,,
+2015_2016,003362,Seton Hill University,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Hospitality Administration/Management.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
 2015_2016,003362,Seton Hill University,Private,Human Resources Management and Services.,Bachelor's Degree,20,26500,25976
 2016_2017,003362,Seton Hill University,Private,Human Resources Management and Services.,Bachelor's Degree,29,27000,26561
-2015_2016,003362,Seton Hill University,Private,"Human Services, General.",Bachelor's Degree,16,NA,32704
-2016_2017,003362,Seton Hill University,Private,"Human Services, General.",Bachelor's Degree,NA,NA,32246
-2015_2016,003362,Seton Hill University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,003362,Seton Hill University,Private,"Human Services, General.",Bachelor's Degree,16,,32704
+2016_2017,003362,Seton Hill University,Private,"Human Services, General.",Bachelor's Degree,,,32246
+2015_2016,003362,Seton Hill University,Private,International Business.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,International Business.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Journalism.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Journalism.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
 2015_2016,003362,Seton Hill University,Private,Marketing.,Bachelor's Degree,27,27000,28766
 2016_2017,003362,Seton Hill University,Private,Marketing.,Bachelor's Degree,28,27000,28426
-2015_2016,003362,Seton Hill University,Private,Mathematics.,Bachelor's Degree,11,NA,22703
-2016_2017,003362,Seton Hill University,Private,Mathematics.,Bachelor's Degree,11,NA,22023
-2015_2016,003362,Seton Hill University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,55501
-2015_2016,003362,Seton Hill University,Private,Music.,Bachelor's Degree,NA,NA,25956
-2016_2017,003362,Seton Hill University,Private,Music.,Bachelor's Degree,NA,NA,26650
-2015_2016,003362,Seton Hill University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2015_2016,003362,Seton Hill University,Private,Mathematics.,Bachelor's Degree,11,,22703
+2016_2017,003362,Seton Hill University,Private,Mathematics.,Bachelor's Degree,11,,22023
+2015_2016,003362,Seton Hill University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,,,55501
+2015_2016,003362,Seton Hill University,Private,Music.,Bachelor's Degree,,,25956
+2016_2017,003362,Seton Hill University,Private,Music.,Bachelor's Degree,,,26650
+2015_2016,003362,Seton Hill University,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,003362,Seton Hill University,Private,"Psychology, General.",Bachelor's Degree,29,26000,25891
 2016_2017,003362,Seton Hill University,Private,"Psychology, General.",Bachelor's Degree,26,26275,25503
 2015_2016,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,25,27000,25450
-2015_2016,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Post-baccalaureate Certificate,,,
 2015_2016,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,31,61500,63320
-2015_2016,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Graduate/Professional Certificate,,,
+2016_2017,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Undergraduate Certificate or Diploma,,,
 2016_2017,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,37,26458,25131
-2016_2017,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,60724,58669
-2015_2016,003362,Seton Hill University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Religion/Religious Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Religion/Religious Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Religion/Religious Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Religious/Sacred Music.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Religious/Sacred Music.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Religious/Sacred Music.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Religious/Sacred Music.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,16,NA,49551
-2016_2017,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Social Work.,Bachelor's Degree,NA,NA,31862
-2016_2017,003362,Seton Hill University,Private,Social Work.,Bachelor's Degree,NA,NA,26995
-2015_2016,003362,Seton Hill University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003362,Seton Hill University,Private,Special Education and Teaching.,Master's Degree,13,NA,33070
-2016_2017,003362,Seton Hill University,Private,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003362,Seton Hill University,Private,Special Education and Teaching.,Master's Degree,NA,NA,28593
+2016_2017,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Post-baccalaureate Certificate,,,
+2016_2017,003362,Seton Hill University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,,60724,58669
+2015_2016,003362,Seton Hill University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Religion/Religious Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003362,Seton Hill University,Private,Religion/Religious Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,003362,Seton Hill University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Religion/Religious Studies.,Post-baccalaureate Certificate,,,
+2015_2016,003362,Seton Hill University,Private,Religious/Sacred Music.,Undergraduate Certificate or Diploma,,,
+2015_2016,003362,Seton Hill University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Religious/Sacred Music.,Post-baccalaureate Certificate,,,
+2016_2017,003362,Seton Hill University,Private,Religious/Sacred Music.,Undergraduate Certificate or Diploma,,,
+2016_2017,003362,Seton Hill University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Religious/Sacred Music.,Post-baccalaureate Certificate,,,
+2015_2016,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,,,
+2015_2016,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,16,,49551
+2016_2017,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003362,Seton Hill University,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2015_2016,003362,Seton Hill University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Social Work.,Bachelor's Degree,,,31862
+2016_2017,003362,Seton Hill University,Private,Social Work.,Bachelor's Degree,,,26995
+2015_2016,003362,Seton Hill University,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,003362,Seton Hill University,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,003362,Seton Hill University,Private,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2015_2016,003362,Seton Hill University,Private,Special Education and Teaching.,Master's Degree,13,,33070
+2016_2017,003362,Seton Hill University,Private,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2016_2017,003362,Seton Hill University,Private,Special Education and Teaching.,Master's Degree,,,28593
 2015_2016,003362,Seton Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,36,27000,26631
-2015_2016,003362,Seton Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,10,NA,32450
+2015_2016,003362,Seton Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,10,,32450
 2016_2017,003362,Seton Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,40,26750,25024
-2016_2017,003362,Seton Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,15,NA,32136
-2015_2016,003362,Seton Hill University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,NA,31851
-2016_2017,003362,Seton Hill University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2016_2017,003362,Seton Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,15,,32136
+2015_2016,003362,Seton Hill University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,,31851
+2016_2017,003362,Seton Hill University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

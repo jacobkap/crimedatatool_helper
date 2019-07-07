@@ -1,11 +1,11 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,021979,North Bennet Street School,Private,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021979,North Bennet Street School,Private,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,021979,North Bennet Street School,Private,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
+2016_2017,021979,North Bennet Street School,Private,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
 2015_2016,021979,North Bennet Street School,Private,Carpenters.,Undergraduate Certificate or Diploma,28,9500,11752
-2016_2017,021979,North Bennet Street School,Private,Carpenters.,Undergraduate Certificate or Diploma,NA,9500,11776
-2015_2016,021979,North Bennet Street School,Private,"Precision Production, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021979,North Bennet Street School,Private,"Precision Production, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,021979,North Bennet Street School,Private,Carpenters.,Undergraduate Certificate or Diploma,,9500,11776
+2015_2016,021979,North Bennet Street School,Private,"Precision Production, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,021979,North Bennet Street School,Private,"Precision Production, Other.",Undergraduate Certificate or Diploma,,,
 2015_2016,021979,North Bennet Street School,Private,Precision Systems Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,40,9500,12830
 2016_2017,021979,North Bennet Street School,Private,Precision Systems Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,37,9500,12901
-2015_2016,021979,North Bennet Street School,Private,Woodworking.,Undergraduate Certificate or Diploma,19,NA,14223
-2016_2017,021979,North Bennet Street School,Private,Woodworking.,Undergraduate Certificate or Diploma,16,NA,17851
+2015_2016,021979,North Bennet Street School,Private,Woodworking.,Undergraduate Certificate or Diploma,19,,14223
+2016_2017,021979,North Bennet Street School,Private,Woodworking.,Undergraduate Certificate or Diploma,16,,17851

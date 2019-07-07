@@ -1,12 +1,12 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001262,Point Loma Nazarene University,Private,Accounting and Related Services.,Bachelor's Degree,17,NA,24385
+2015_2016,001262,Point Loma Nazarene University,Private,Accounting and Related Services.,Bachelor's Degree,17,,24385
 2016_2017,001262,Point Loma Nazarene University,Private,Accounting and Related Services.,Bachelor's Degree,21,27000,22473
 2015_2016,001262,Point Loma Nazarene University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,65,25000,22661
 2016_2017,001262,Point Loma Nazarene University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,74,25191,22413
-2015_2016,001262,Point Loma Nazarene University,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,19,NA,25095
-2016_2017,001262,Point Loma Nazarene University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,19,NA,24297
+2015_2016,001262,Point Loma Nazarene University,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,19,,25095
+2016_2017,001262,Point Loma Nazarene University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,19,,24297
 2015_2016,001262,Point Loma Nazarene University,Private,"Biology, General.",Bachelor's Degree,42,26950,23625
 2016_2017,001262,Point Loma Nazarene University,Private,"Biology, General.",Bachelor's Degree,47,26000,22808
 2015_2016,001262,Point Loma Nazarene University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,34,24250,21385
@@ -15,110 +15,110 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,001262,Point Loma Nazarene University,Private,"Business Administration, Management and Operations.",Master's Degree,57,39870,41882
 2015_2016,001262,Point Loma Nazarene University,Private,Business/Corporate Communications.,Bachelor's Degree,26,17500,18436
 2016_2017,001262,Point Loma Nazarene University,Private,Business/Corporate Communications.,Bachelor's Degree,36,18625,19218
-2015_2016,001262,Point Loma Nazarene University,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
+2015_2016,001262,Point Loma Nazarene University,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
 2015_2016,001262,Point Loma Nazarene University,Private,Communication and Media Studies.,Bachelor's Degree,20,23750,22010
 2016_2017,001262,Point Loma Nazarene University,Private,Communication and Media Studies.,Bachelor's Degree,24,20000,22796
-2015_2016,001262,Point Loma Nazarene University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Computer Science.,Bachelor's Degree,10,NA,16775
-2016_2017,001262,Point Loma Nazarene University,Private,Computer Science.,Bachelor's Degree,NA,NA,18522
-2016_2017,001262,Point Loma Nazarene University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
+2015_2016,001262,Point Loma Nazarene University,Private,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Computer Science.,Bachelor's Degree,10,,16775
+2016_2017,001262,Point Loma Nazarene University,Private,Computer Science.,Bachelor's Degree,,,18522
+2016_2017,001262,Point Loma Nazarene University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
 2015_2016,001262,Point Loma Nazarene University,Private,Design and Applied Arts.,Bachelor's Degree,23,25000,20840
 2016_2017,001262,Point Loma Nazarene University,Private,Design and Applied Arts.,Bachelor's Degree,26,19750,19618
-2015_2016,001262,Point Loma Nazarene University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,NA,NA,18601
-2016_2017,001262,Point Loma Nazarene University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,11,NA,21619
-2015_2016,001262,Point Loma Nazarene University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Economics.,Bachelor's Degree,NA,NA,NA
+2015_2016,001262,Point Loma Nazarene University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,,,18601
+2016_2017,001262,Point Loma Nazarene University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,11,,21619
+2015_2016,001262,Point Loma Nazarene University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Economics.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Economics.,Bachelor's Degree,,,
 2015_2016,001262,Point Loma Nazarene University,Private,"Education, General.",Master's Degree,67,39444,39176
 2016_2017,001262,Point Loma Nazarene University,Private,"Education, General.",Master's Degree,143,36590,38856
-2015_2016,001262,Point Loma Nazarene University,Private,Engineering Physics.,Bachelor's Degree,12,NA,22125
-2016_2017,001262,Point Loma Nazarene University,Private,Engineering Physics.,Bachelor's Degree,15,NA,22268
-2015_2016,001262,Point Loma Nazarene University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,25399
-2015_2016,001262,Point Loma Nazarene University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,17,NA,21672
-2015_2016,001262,Point Loma Nazarene University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001262,Point Loma Nazarene University,Private,Engineering Physics.,Bachelor's Degree,12,,22125
+2016_2017,001262,Point Loma Nazarene University,Private,Engineering Physics.,Bachelor's Degree,15,,22268
+2015_2016,001262,Point Loma Nazarene University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"English Language and Literature, General.",Bachelor's Degree,,,25399
+2015_2016,001262,Point Loma Nazarene University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,17,,21672
+2015_2016,001262,Point Loma Nazarene University,Private,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
 2015_2016,001262,Point Loma Nazarene University,Private,Finance and Financial Management Services.,Bachelor's Degree,23,21500,21528
 2016_2017,001262,Point Loma Nazarene University,Private,Finance and Financial Management Services.,Bachelor's Degree,26,21875,21401
-2015_2016,001262,Point Loma Nazarene University,Private,"Foods, Nutrition, and Related Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Foods, Nutrition, and Related Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Health and Physical Education/Fitness.,Master's Degree,19,NA,25914
-2015_2016,001262,Point Loma Nazarene University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,10,NA,19225
-2015_2016,001262,Point Loma Nazarene University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,History.,Bachelor's Degree,10,NA,20000
+2015_2016,001262,Point Loma Nazarene University,Private,"Foods, Nutrition, and Related Services.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Foods, Nutrition, and Related Services.",Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Health and Physical Education/Fitness.,Master's Degree,19,,25914
+2015_2016,001262,Point Loma Nazarene University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,10,,19225
+2015_2016,001262,Point Loma Nazarene University,Private,History.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,History.,Bachelor's Degree,10,,20000
 2015_2016,001262,Point Loma Nazarene University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,34,26975,23777
 2016_2017,001262,Point Loma Nazarene University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,45,25000,23089
-2015_2016,001262,Point Loma Nazarene University,Private,International/Global Studies.,Bachelor's Degree,NA,NA,24454
-2016_2017,001262,Point Loma Nazarene University,Private,International/Global Studies.,Bachelor's Degree,10,NA,20820
-2015_2016,001262,Point Loma Nazarene University,Private,Journalism.,Bachelor's Degree,13,NA,22030
-2016_2017,001262,Point Loma Nazarene University,Private,Journalism.,Bachelor's Degree,12,NA,17810
-2015_2016,001262,Point Loma Nazarene University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
+2015_2016,001262,Point Loma Nazarene University,Private,International/Global Studies.,Bachelor's Degree,,,24454
+2016_2017,001262,Point Loma Nazarene University,Private,International/Global Studies.,Bachelor's Degree,10,,20820
+2015_2016,001262,Point Loma Nazarene University,Private,Journalism.,Bachelor's Degree,13,,22030
+2016_2017,001262,Point Loma Nazarene University,Private,Journalism.,Bachelor's Degree,12,,17810
+2015_2016,001262,Point Loma Nazarene University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
 2015_2016,001262,Point Loma Nazarene University,Private,Marketing.,Bachelor's Degree,20,25000,20910
 2016_2017,001262,Point Loma Nazarene University,Private,Marketing.,Bachelor's Degree,22,17482,19927
-2015_2016,001262,Point Loma Nazarene University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Music.,Bachelor's Degree,NA,NA,20557
-2015_2016,001262,Point Loma Nazarene University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Political Science and Government.,Bachelor's Degree,12,NA,28822
-2016_2017,001262,Point Loma Nazarene University,Private,Political Science and Government.,Bachelor's Degree,14,NA,26707
+2015_2016,001262,Point Loma Nazarene University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Music.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Music.,Bachelor's Degree,,,20557
+2015_2016,001262,Point Loma Nazarene University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Physics.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Political Science and Government.,Bachelor's Degree,12,,28822
+2016_2017,001262,Point Loma Nazarene University,Private,Political Science and Government.,Bachelor's Degree,14,,26707
 2015_2016,001262,Point Loma Nazarene University,Private,"Psychology, General.",Bachelor's Degree,66,26412,24587
 2016_2017,001262,Point Loma Nazarene University,Private,"Psychology, General.",Bachelor's Degree,82,25000,23767
 2015_2016,001262,Point Loma Nazarene University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,98,27000,25061
 2015_2016,001262,Point Loma Nazarene University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,20,44079,45514
-2015_2016,001262,Point Loma Nazarene University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001262,Point Loma Nazarene University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2016_2017,001262,Point Loma Nazarene University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,117,26393,23215
 2016_2017,001262,Point Loma Nazarene University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,35,45000,46798
-2016_2017,001262,Point Loma Nazarene University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,10,NA,26838
-2016_2017,001262,Point Loma Nazarene University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Social Work.,Bachelor's Degree,12,NA,23282
-2016_2017,001262,Point Loma Nazarene University,Private,Social Work.,Bachelor's Degree,14,NA,23240
-2015_2016,001262,Point Loma Nazarene University,Private,Sociology.,Bachelor's Degree,13,NA,20487
+2016_2017,001262,Point Loma Nazarene University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Religion/Religious Studies.,Master's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Religion/Religious Studies.,Master's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,10,,26838
+2016_2017,001262,Point Loma Nazarene University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Social Work.,Bachelor's Degree,12,,23282
+2016_2017,001262,Point Loma Nazarene University,Private,Social Work.,Bachelor's Degree,14,,23240
+2015_2016,001262,Point Loma Nazarene University,Private,Sociology.,Bachelor's Degree,13,,20487
 2016_2017,001262,Point Loma Nazarene University,Private,Sociology.,Bachelor's Degree,20,26000,24768
-2015_2016,001262,Point Loma Nazarene University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2015_2016,001262,Point Loma Nazarene University,Private,Special Education and Teaching.,Master's Degree,,,
 2016_2017,001262,Point Loma Nazarene University,Private,Special Education and Teaching.,Master's Degree,29,32954,37644
-2015_2016,001262,Point Loma Nazarene University,Private,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,10,NA,19825
-2015_2016,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,17,NA,22299
-2015_2016,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2015_2016,001262,Point Loma Nazarene University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001262,Point Loma Nazarene University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001262,Point Loma Nazarene University,Private,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,10,,19825
+2015_2016,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,17,,22299
+2015_2016,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2015_2016,001262,Point Loma Nazarene University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2016_2017,001262,Point Loma Nazarene University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,

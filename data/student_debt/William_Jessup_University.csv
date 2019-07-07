@@ -1,62 +1,62 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001281,William Jessup University,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Bible/Biblical Studies.,Associate's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Bible/Biblical Studies.,Bachelor's Degree,15,NA,24041
-2016_2017,001281,William Jessup University,Private,Bible/Biblical Studies.,Associate's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,Bible/Biblical Studies.,Bachelor's Degree,13,NA,20922
-2015_2016,001281,William Jessup University,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,"Biology, General.",Bachelor's Degree,NA,NA,19873
+2015_2016,001281,William Jessup University,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,001281,William Jessup University,Private,Bible/Biblical Studies.,Associate's Degree,,,
+2015_2016,001281,William Jessup University,Private,Bible/Biblical Studies.,Bachelor's Degree,15,,24041
+2016_2017,001281,William Jessup University,Private,Bible/Biblical Studies.,Associate's Degree,,,
+2016_2017,001281,William Jessup University,Private,Bible/Biblical Studies.,Bachelor's Degree,13,,20922
+2015_2016,001281,William Jessup University,Private,"Biology, General.",Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,"Biology, General.",Bachelor's Degree,,,19873
 2015_2016,001281,William Jessup University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,73,23000,22912
 2016_2017,001281,William Jessup University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,83,22666,22785
-2016_2017,001281,William Jessup University,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,"Clinical, Counseling and Applied Psychology.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
+2016_2017,001281,William Jessup University,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,001281,William Jessup University,Private,"Clinical, Counseling and Applied Psychology.",Undergraduate Certificate or Diploma,,,
+2015_2016,001281,William Jessup University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
 2015_2016,001281,William Jessup University,Private,"English Language and Literature, General.",Bachelor's Degree,21,18750,18276
-2016_2017,001281,William Jessup University,Private,"English Language and Literature, General.",Bachelor's Degree,17,NA,17681
-2015_2016,001281,William Jessup University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,13,NA,17579
-2016_2017,001281,William Jessup University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,11,NA,17717
-2015_2016,001281,William Jessup University,Private,Music.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Music.,Bachelor's Degree,11,NA,20499
-2016_2017,001281,William Jessup University,Private,Music.,Bachelor's Degree,10,NA,19623
-2015_2016,001281,William Jessup University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,16,NA,28687
-2016_2017,001281,William Jessup University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,16,NA,20179
-2015_2016,001281,William Jessup University,Private,Political Science and Government.,Bachelor's Degree,10,NA,15141
-2016_2017,001281,William Jessup University,Private,Political Science and Government.,Bachelor's Degree,14,NA,16814
-2015_2016,001281,William Jessup University,Private,"Psychology, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001281,William Jessup University,Private,"English Language and Literature, General.",Bachelor's Degree,17,,17681
+2015_2016,001281,William Jessup University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,001281,William Jessup University,Private,History.,Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,History.,Bachelor's Degree,,,
+2015_2016,001281,William Jessup University,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,001281,William Jessup University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001281,William Jessup University,Private,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,001281,William Jessup University,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,001281,William Jessup University,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,,,
+2015_2016,001281,William Jessup University,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,,,
+2015_2016,001281,William Jessup University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,13,,17579
+2016_2017,001281,William Jessup University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,11,,17717
+2015_2016,001281,William Jessup University,Private,Music.,Undergraduate Certificate or Diploma,,,
+2015_2016,001281,William Jessup University,Private,Music.,Bachelor's Degree,11,,20499
+2016_2017,001281,William Jessup University,Private,Music.,Bachelor's Degree,10,,19623
+2015_2016,001281,William Jessup University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001281,William Jessup University,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,,,
+2015_2016,001281,William Jessup University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,16,,28687
+2016_2017,001281,William Jessup University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,16,,20179
+2015_2016,001281,William Jessup University,Private,Political Science and Government.,Bachelor's Degree,10,,15141
+2016_2017,001281,William Jessup University,Private,Political Science and Government.,Bachelor's Degree,14,,16814
+2015_2016,001281,William Jessup University,Private,"Psychology, General.",Undergraduate Certificate or Diploma,,,
 2015_2016,001281,William Jessup University,Private,"Psychology, General.",Bachelor's Degree,90,22809,23684
 2016_2017,001281,William Jessup University,Private,"Psychology, General.",Bachelor's Degree,99,21500,22287
-2015_2016,001281,William Jessup University,Private,Religious Education.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
+2015_2016,001281,William Jessup University,Private,Religious Education.,Undergraduate Certificate or Diploma,,,
+2015_2016,001281,William Jessup University,Private,Religious Education.,Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,Religious Education.,Bachelor's Degree,,,
 2015_2016,001281,William Jessup University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,30,20947,20906
-2015_2016,001281,William Jessup University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,001281,William Jessup University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2015_2016,001281,William Jessup University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,001281,William Jessup University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,32,21500,21065
-2016_2017,001281,William Jessup University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,"Theology and Religious Vocations, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,"Theology and Religious Vocations, Other.",Associate's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,"Theology and Religious Vocations, Other.",Associate's Degree,NA,NA,NA
-2015_2016,001281,William Jessup University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001281,William Jessup University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,001281,William Jessup University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,001281,William Jessup University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,001281,William Jessup University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2015_2016,001281,William Jessup University,Private,"Theology and Religious Vocations, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,001281,William Jessup University,Private,"Theology and Religious Vocations, Other.",Associate's Degree,,,
+2016_2017,001281,William Jessup University,Private,"Theology and Religious Vocations, Other.",Associate's Degree,,,
+2015_2016,001281,William Jessup University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2016_2017,001281,William Jessup University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,

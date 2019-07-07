@@ -1,65 +1,65 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002990,University of Jamestown,Private,Accounting and Related Services.,Bachelor's Degree,10,NA,23844
-2016_2017,002990,University of Jamestown,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002990,University of Jamestown,Private,Accounting and Related Services.,Bachelor's Degree,10,,23844
+2016_2017,002990,University of Jamestown,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,"Biology, General.",Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,"Biology, General.",Bachelor's Degree,,,
 2015_2016,002990,University of Jamestown,Private,"Business Administration, Management and Operations.",Bachelor's Degree,28,23984,23545
 2016_2017,002990,University of Jamestown,Private,"Business Administration, Management and Operations.",Bachelor's Degree,26,23984,23493
-2015_2016,002990,University of Jamestown,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Criminal Justice and Corrections.,Bachelor's Degree,11,NA,25883
-2016_2017,002990,University of Jamestown,Private,Criminal Justice and Corrections.,Bachelor's Degree,11,NA,25619
-2015_2016,002990,University of Jamestown,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,002990,University of Jamestown,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Criminal Justice and Corrections.,Bachelor's Degree,11,,25883
+2016_2017,002990,University of Jamestown,Private,Criminal Justice and Corrections.,Bachelor's Degree,11,,25619
+2015_2016,002990,University of Jamestown,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,002990,University of Jamestown,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,002990,University of Jamestown,Private,Health and Physical Education/Fitness.,Bachelor's Degree,23,24500,23411
 2016_2017,002990,University of Jamestown,Private,Health and Physical Education/Fitness.,Bachelor's Degree,20,21750,21992
-2015_2016,002990,University of Jamestown,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,"Psychology, General.",Bachelor's Degree,11,NA,20362
-2016_2017,002990,University of Jamestown,Private,"Psychology, General.",Bachelor's Degree,13,NA,23575
+2015_2016,002990,University of Jamestown,Private,History.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,History.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Music.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Music.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,"Psychology, General.",Bachelor's Degree,11,,20362
+2016_2017,002990,University of Jamestown,Private,"Psychology, General.",Bachelor's Degree,13,,23575
 2015_2016,002990,University of Jamestown,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,49,22000,21644
 2016_2017,002990,University of Jamestown,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,45,27000,23490
 2015_2016,002990,University of Jamestown,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,28,71750,81864
 2016_2017,002990,University of Jamestown,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,58,85400,87538
-2015_2016,002990,University of Jamestown,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002990,University of Jamestown,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002990,University of Jamestown,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,002990,University of Jamestown,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,002990,University of Jamestown,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002990,University of Jamestown,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,002990,University of Jamestown,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,20,26137,24745
-2016_2017,002990,University of Jamestown,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,27000,26455
-2015_2016,002990,University of Jamestown,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,13,NA,23465
-2016_2017,002990,University of Jamestown,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,14,NA,26242
+2016_2017,002990,University of Jamestown,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,27000,26455
+2015_2016,002990,University of Jamestown,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,13,,23465
+2016_2017,002990,University of Jamestown,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,14,,26242

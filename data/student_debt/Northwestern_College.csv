@@ -1,128 +1,128 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001883,Northwestern College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,012362,Northwestern College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,32257
-2016_2017,001883,Northwestern College,Private,Accounting and Related Services.,Bachelor's Degree,14,NA,23433
-2016_2017,012362,Northwestern College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,37881
-2015_2016,012362,Northwestern College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,4426
-2015_2016,012362,Northwestern College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,29596,30439
+2015_2016,001883,Northwestern College,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,012362,Northwestern College,Proprietary,Accounting and Related Services.,Associate's Degree,,,32257
+2016_2017,001883,Northwestern College,Private,Accounting and Related Services.,Bachelor's Degree,14,,23433
+2016_2017,012362,Northwestern College,Proprietary,Accounting and Related Services.,Associate's Degree,,,37881
+2015_2016,012362,Northwestern College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,4426
+2015_2016,012362,Northwestern College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,29596,30439
 2016_2017,012362,Northwestern College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,63,5500,7174
-2016_2017,012362,Northwestern College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,29052,28701
-2015_2016,001883,Northwestern College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2015_2016,012362,Northwestern College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,23562,23189
-2016_2017,001883,Northwestern College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
+2016_2017,012362,Northwestern College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,29052,28701
+2015_2016,001883,Northwestern College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2015_2016,012362,Northwestern College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,23562,23189
+2016_2017,001883,Northwestern College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
 2016_2017,012362,Northwestern College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,21,24167,23626
-2015_2016,001883,Northwestern College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,"Biology, General.",Bachelor's Degree,10,NA,22935
-2016_2017,001883,Northwestern College,Private,"Biology, General.",Bachelor's Degree,17,NA,23148
-2015_2016,001883,Northwestern College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,11,NA,21016
-2015_2016,012362,Northwestern College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012362,Northwestern College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,31806,31086
-2015_2016,012362,Northwestern College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
+2015_2016,001883,Northwestern College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,"Biology, General.",Bachelor's Degree,10,,22935
+2016_2017,001883,Northwestern College,Private,"Biology, General.",Bachelor's Degree,17,,23148
+2015_2016,001883,Northwestern College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,11,,21016
+2015_2016,012362,Northwestern College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,012362,Northwestern College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,31806,31086
+2015_2016,012362,Northwestern College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,,
 2016_2017,001883,Northwestern College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,38,21500,21071
-2016_2017,012362,Northwestern College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,012362,Northwestern College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,012362,Northwestern College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,30,29417,30321
-2015_2016,012362,Northwestern College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,012362,Northwestern College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
+2015_2016,012362,Northwestern College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,012362,Northwestern College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,001883,Northwestern College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
 2015_2016,012362,Northwestern College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,73,30167,29312
-2016_2017,001883,Northwestern College,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2016_2017,012362,Northwestern College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001883,Northwestern College,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2016_2017,012362,Northwestern College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2016_2017,012362,Northwestern College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,44,27832,28121
-2015_2016,001883,Northwestern College,Private,Data Processing.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Data Processing.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,012362,Northwestern College,Proprietary,Finance and Financial Management Services.,Associate's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Fine and Studio Arts.,Bachelor's Degree,11,NA,24674
-2015_2016,001883,Northwestern College,Private,Genetics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Genetics.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Genetics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Genetics.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,012362,Northwestern College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,15122
-2015_2016,012362,Northwestern College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,35335,37845
-2016_2017,012362,Northwestern College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,17,NA,11348
+2015_2016,001883,Northwestern College,Private,Data Processing.,Post-baccalaureate Certificate,,,
+2016_2017,001883,Northwestern College,Private,Data Processing.,Post-baccalaureate Certificate,,,
+2015_2016,001883,Northwestern College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Economics.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Economics.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,001883,Northwestern College,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,001883,Northwestern College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,012362,Northwestern College,Proprietary,Finance and Financial Management Services.,Associate's Degree,,,
+2015_2016,001883,Northwestern College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Fine and Studio Arts.,Bachelor's Degree,11,,24674
+2015_2016,001883,Northwestern College,Private,Genetics.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Genetics.,Post-baccalaureate Certificate,,,
+2016_2017,001883,Northwestern College,Private,Genetics.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Genetics.,Post-baccalaureate Certificate,,,
+2015_2016,012362,Northwestern College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,15122
+2015_2016,012362,Northwestern College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,35335,37845
+2016_2017,012362,Northwestern College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,17,,11348
 2016_2017,012362,Northwestern College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,30,32373,35031
-2015_2016,001883,Northwestern College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
+2015_2016,001883,Northwestern College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
 2016_2017,001883,Northwestern College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,21,27000,23316
-2015_2016,012362,Northwestern College,Proprietary,High School/Secondary Diploma Programs.,Associate's Degree,NA,NA,NA
-2016_2017,012362,Northwestern College,Proprietary,High School/Secondary Diploma Programs.,Associate's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,012362,Northwestern College,Proprietary,Human Resources Management and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012362,Northwestern College,Proprietary,Human Resources Management and Services.,Associate's Degree,NA,NA,38196
-2016_2017,012362,Northwestern College,Proprietary,Human Resources Management and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012362,Northwestern College,Proprietary,Human Resources Management and Services.,Associate's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2015_2016,012362,Northwestern College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012362,Northwestern College,Proprietary,Legal Support Services.,Associate's Degree,NA,28324,30540
-2016_2017,012362,Northwestern College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012362,Northwestern College,Proprietary,High School/Secondary Diploma Programs.,Associate's Degree,,,
+2016_2017,012362,Northwestern College,Proprietary,High School/Secondary Diploma Programs.,Associate's Degree,,,
+2015_2016,001883,Northwestern College,Private,History.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,History.,Bachelor's Degree,,,
+2015_2016,012362,Northwestern College,Proprietary,Human Resources Management and Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,012362,Northwestern College,Proprietary,Human Resources Management and Services.,Associate's Degree,,,38196
+2016_2017,012362,Northwestern College,Proprietary,Human Resources Management and Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,012362,Northwestern College,Proprietary,Human Resources Management and Services.,Associate's Degree,,,
+2015_2016,001883,Northwestern College,Private,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Information Science/Studies.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Journalism.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Journalism.,Bachelor's Degree,,,
+2015_2016,012362,Northwestern College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,012362,Northwestern College,Proprietary,Legal Support Services.,Associate's Degree,,28324,30540
+2016_2017,012362,Northwestern College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,012362,Northwestern College,Proprietary,Legal Support Services.,Associate's Degree,30,27417,28752
-2015_2016,001883,Northwestern College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,012362,Northwestern College,Proprietary,Management Information Systems and Services.,Associate's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Mathematics.,Bachelor's Degree,10,NA,26447
-2015_2016,001883,Northwestern College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,"Psychology, General.",Bachelor's Degree,14,NA,21269
-2015_2016,001883,Northwestern College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,15,NA,25491
-2015_2016,012362,Northwestern College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,24500,22810
+2015_2016,001883,Northwestern College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2015_2016,012362,Northwestern College,Proprietary,Management Information Systems and Services.,Associate's Degree,,,
+2015_2016,001883,Northwestern College,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Mathematics.,Bachelor's Degree,10,,26447
+2015_2016,001883,Northwestern College,Private,Music.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Music.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,"Psychology, General.",Bachelor's Degree,14,,21269
+2015_2016,001883,Northwestern College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,15,,25491
+2015_2016,012362,Northwestern College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,24500,22810
 2016_2017,001883,Northwestern College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,39,26000,24139
 2016_2017,012362,Northwestern College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,39,24500,24094
-2015_2016,001883,Northwestern College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,Social Work.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Social Work.,Bachelor's Degree,13,NA,24481
-2015_2016,001883,Northwestern College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
+2015_2016,001883,Northwestern College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Religious Education.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Religious Education.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001883,Northwestern College,Private,Social Work.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Social Work.,Bachelor's Degree,13,,24481
+2015_2016,001883,Northwestern College,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,Sociology.,Bachelor's Degree,,,
 2015_2016,012362,Northwestern College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,23,13000,13477
-2015_2016,012362,Northwestern College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,NA,29367
-2016_2017,012362,Northwestern College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,11,NA,12427
-2016_2017,012362,Northwestern College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,13,NA,23468
-2015_2016,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,012362,Northwestern College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,,29367
+2016_2017,012362,Northwestern College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,11,,12427
+2016_2017,012362,Northwestern College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,,
+2016_2017,001883,Northwestern College,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,13,,23468
+2015_2016,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,34,24875,23021
-2016_2017,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,11,NA,11889
-2015_2016,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,NA,23905
-2015_2016,001883,Northwestern College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001883,Northwestern College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
+2016_2017,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,11,,11889
+2015_2016,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,,23905
+2015_2016,001883,Northwestern College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,,,
+2016_2017,001883,Northwestern College,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,,,

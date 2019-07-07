@@ -1,123 +1,123 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003708,Eastern Mennonite University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Bible/Biblical Studies.,Associate's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Bible/Biblical Studies.,Associate's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,10,NA,24200
-2015_2016,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,17,NA,19352
-2016_2017,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Master's Degree,10,NA,19937
-2015_2016,003708,Eastern Mennonite University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Dispute Resolution.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Dispute Resolution.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Dispute Resolution.,Master's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Health/Medical Preparatory Programs.,Master's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Health/Medical Preparatory Programs.,Master's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Human Resources Management and Services.,Bachelor's Degree,13,NA,10814
-2016_2017,003708,Eastern Mennonite University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
+2015_2016,003708,Eastern Mennonite University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Bible/Biblical Studies.,Associate's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Bible/Biblical Studies.,Associate's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Biology, General.",Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Biology, General.",Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,10,,24200
+2015_2016,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,17,,19352
+2016_2017,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Business Administration, Management and Operations.",Master's Degree,10,,19937
+2015_2016,003708,Eastern Mennonite University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Computer Systems Analysis.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Dispute Resolution.,Post-baccalaureate Certificate,,,
+2016_2017,003708,Eastern Mennonite University,Private,Dispute Resolution.,Post-baccalaureate Certificate,,,
+2016_2017,003708,Eastern Mennonite University,Private,Dispute Resolution.,Master's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Economics.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Economics.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,,,
+2015_2016,003708,Eastern Mennonite University,Private,Health/Medical Preparatory Programs.,Master's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,,,
+2016_2017,003708,Eastern Mennonite University,Private,Health/Medical Preparatory Programs.,Master's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,History.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,History.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Human Resources Management and Services.,Bachelor's Degree,13,,10814
+2016_2017,003708,Eastern Mennonite University,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,International Business.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,International Business.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
 2015_2016,003708,Eastern Mennonite University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,34,26525,26782
-2016_2017,003708,Eastern Mennonite University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
+2016_2017,003708,Eastern Mennonite University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
 2016_2017,003708,Eastern Mennonite University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,25,23500,26160
-2015_2016,003708,Eastern Mennonite University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,16,NA,39620
-2016_2017,003708,Eastern Mennonite University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,17,NA,47886
-2015_2016,003708,Eastern Mennonite University,Private,"Multi-/Interdisciplinary Studies, General.",Master's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Multi-/Interdisciplinary Studies, General.",Master's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Outdoor Education.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Outdoor Education.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,14,NA,25228
-2015_2016,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Master's Degree,11,NA,40035
-2016_2017,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,10,NA,27754
-2016_2017,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Master's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Psychology, General.",Bachelor's Degree,11,NA,21322
-2016_2017,003708,Eastern Mennonite University,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,10,NA,25998
+2015_2016,003708,Eastern Mennonite University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,16,,39620
+2016_2017,003708,Eastern Mennonite University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,17,,47886
+2015_2016,003708,Eastern Mennonite University,Private,"Multi-/Interdisciplinary Studies, General.",Master's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Multi-/Interdisciplinary Studies, General.",Master's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Multi/Interdisciplinary Studies, Other.",Post-baccalaureate Certificate,,,
+2015_2016,003708,Eastern Mennonite University,Private,Music.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Music.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Outdoor Education.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Outdoor Education.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,14,,25228
+2015_2016,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Post-baccalaureate Certificate,,,
+2015_2016,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Master's Degree,11,,40035
+2016_2017,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,10,,27754
+2016_2017,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Post-baccalaureate Certificate,,,
+2016_2017,003708,Eastern Mennonite University,Private,Peace Studies and Conflict Resolution.,Master's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Psychology, General.",Bachelor's Degree,11,,21322
+2016_2017,003708,Eastern Mennonite University,Private,"Psychology, General.",Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,10,,25998
 2015_2016,003708,Eastern Mennonite University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,88,18560,19103
-2015_2016,003708,Eastern Mennonite University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2015_2016,003708,Eastern Mennonite University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2016_2017,003708,Eastern Mennonite University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,102,15711,16827
-2016_2017,003708,Eastern Mennonite University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Social and Philosophical Foundations of Education.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Social and Philosophical Foundations of Education.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Social Work.,Bachelor's Degree,18,NA,24716
-2016_2017,003708,Eastern Mennonite University,Private,Social Work.,Bachelor's Degree,16,NA,26847
-2015_2016,003708,Eastern Mennonite University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Sustainability Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Sustainability Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Teaching Assistants/Aides.,Associate's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Teaching Assistants/Aides.,Associate's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Associate's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Associate's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2015_2016,003708,Eastern Mennonite University,Private,"Theology and Religious Vocations, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003708,Eastern Mennonite University,Private,"Theology and Religious Vocations, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003708,Eastern Mennonite University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Social and Philosophical Foundations of Education.,Post-baccalaureate Certificate,,,
+2016_2017,003708,Eastern Mennonite University,Private,Social and Philosophical Foundations of Education.,Post-baccalaureate Certificate,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Social Work.,Bachelor's Degree,18,,24716
+2016_2017,003708,Eastern Mennonite University,Private,Social Work.,Bachelor's Degree,16,,26847
+2015_2016,003708,Eastern Mennonite University,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Sustainability Studies.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Sustainability Studies.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Teaching Assistants/Aides.,Associate's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Teaching Assistants/Aides.,Associate's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Associate's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,,,
+2015_2016,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Associate's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003708,Eastern Mennonite University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2015_2016,003708,Eastern Mennonite University,Private,"Theology and Religious Vocations, Other.",Post-baccalaureate Certificate,,,
+2016_2017,003708,Eastern Mennonite University,Private,"Theology and Religious Vocations, Other.",Post-baccalaureate Certificate,,,

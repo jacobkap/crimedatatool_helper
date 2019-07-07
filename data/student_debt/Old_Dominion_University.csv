@@ -1,272 +1,272 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,003728,Old Dominion University,Public,Accounting and Related Services.,Bachelor's Degree,80,22750,24330
-2015_2016,003728,Old Dominion University,Public,Accounting and Related Services.,Master's Degree,11,NA,29128
+2015_2016,003728,Old Dominion University,Public,Accounting and Related Services.,Master's Degree,11,,29128
 2016_2017,003728,Old Dominion University,Public,Accounting and Related Services.,Bachelor's Degree,89,25346,25952
-2016_2017,003728,Old Dominion University,Public,Accounting and Related Services.,Master's Degree,10,NA,25471
-2015_2016,003728,Old Dominion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,13,NA,22650
-2015_2016,003728,Old Dominion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,26398
-2016_2017,003728,Old Dominion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,14,NA,22835
-2016_2017,003728,Old Dominion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,14,NA,30409
-2015_2016,003728,Old Dominion University,Public,Applied Mathematics.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Applied Mathematics.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Applied Mathematics.,Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,12,NA,23519
-2016_2017,003728,Old Dominion University,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,17,NA,24742
+2016_2017,003728,Old Dominion University,Public,Accounting and Related Services.,Master's Degree,10,,25471
+2015_2016,003728,Old Dominion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,13,,22650
+2015_2016,003728,Old Dominion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,,,26398
+2016_2017,003728,Old Dominion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,14,,22835
+2016_2017,003728,Old Dominion University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,14,,30409
+2015_2016,003728,Old Dominion University,Public,Applied Mathematics.,Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,Applied Mathematics.,Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Applied Mathematics.,Doctoral Degree,,,
+2016_2017,003728,Old Dominion University,Public,Applied Mathematics.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Applied Mathematics.,Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Applied Mathematics.,Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Area Studies.,Bachelor's Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,12,,23519
+2016_2017,003728,Old Dominion University,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,17,,24742
 2015_2016,003728,Old Dominion University,Public,"Biology, General.",Bachelor's Degree,191,24250,24044
-2015_2016,003728,Old Dominion University,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"Biology, General.",Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Biology, General.",Doctoral Degree,,,
 2016_2017,003728,Old Dominion University,Public,"Biology, General.",Bachelor's Degree,208,25000,23476
-2016_2017,003728,Old Dominion University,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Biomedical/Medical Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Biomedical/Medical Engineering.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Biology, General.",Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,"Biology, General.",Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,Biomedical/Medical Engineering.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Biomedical/Medical Engineering.,Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,162,25000,24541
-2015_2016,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Master's Degree,15,NA,29467
-2015_2016,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Master's Degree,15,,29467
+2015_2016,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Doctoral Degree,,,
 2016_2017,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,200,25000,24979
-2016_2017,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2016_2017,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Master's Degree,28,34362,31227
-2016_2017,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Business/Managerial Economics.,Bachelor's Degree,17,NA,24823
-2016_2017,003728,Old Dominion University,Public,Business/Managerial Economics.,Bachelor's Degree,15,NA,25998
-2015_2016,003728,Old Dominion University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Chemistry.,Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Chemistry.,Doctoral Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Chemistry.,Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Business Administration, Management and Operations.",Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,Business/Managerial Economics.,Bachelor's Degree,17,,24823
+2016_2017,003728,Old Dominion University,Public,Business/Managerial Economics.,Bachelor's Degree,15,,25998
+2015_2016,003728,Old Dominion University,Public,Chemistry.,Bachelor's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Chemistry.,Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Chemistry.,Doctoral Degree,,,
+2016_2017,003728,Old Dominion University,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Chemistry.,Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Chemistry.,Doctoral Degree,,,
 2015_2016,003728,Old Dominion University,Public,Civil Engineering.,Bachelor's Degree,54,19983,21731
 2016_2017,003728,Old Dominion University,Public,Civil Engineering.,Bachelor's Degree,57,21500,22667
-2015_2016,003728,Old Dominion University,Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,17,NA,22641
-2015_2016,003728,Old Dominion University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Master's Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,,
+2016_2017,003728,Old Dominion University,Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,17,,22641
+2015_2016,003728,Old Dominion University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Master's Degree,,,
 2016_2017,003728,Old Dominion University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,21,18750,23932
-2016_2017,003728,Old Dominion University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Communication and Media Studies.,Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Communication and Media Studies.,Master's Degree,,,
 2015_2016,003728,Old Dominion University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,44,23125,21887
 2015_2016,003728,Old Dominion University,Public,Communication Disorders Sciences and Services.,Master's Degree,22,47880,51353
 2016_2017,003728,Old Dominion University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,78,25000,23455
 2016_2017,003728,Old Dominion University,Public,Communication Disorders Sciences and Services.,Master's Degree,37,41000,42116
 2015_2016,003728,Old Dominion University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,45,21875,22794
-2015_2016,003728,Old Dominion University,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"Computer and Information Sciences, General.",Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Computer and Information Sciences, General.",Doctoral Degree,,,
 2016_2017,003728,Old Dominion University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,67,21750,21808
-2016_2017,003728,Old Dominion University,Public,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Computer and Information Sciences, General.",Doctoral Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Computer and Information Sciences, General.",Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,"Computer and Information Sciences, General.",Doctoral Degree,,,
 2015_2016,003728,Old Dominion University,Public,Computer Engineering.,Bachelor's Degree,28,29408,31346
 2016_2017,003728,Old Dominion University,Public,Computer Engineering.,Bachelor's Degree,30,26750,27712
-2015_2016,003728,Old Dominion University,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Computer/Information Technology Administration and Management.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Computer/Information Technology Administration and Management.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Computer/Information Technology Administration and Management.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Computer/Information Technology Administration and Management.,Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,Criminology.,Bachelor's Degree,293,25000,23555
-2015_2016,003728,Old Dominion University,Public,Criminology.,Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Criminology.,Doctoral Degree,,,
 2016_2017,003728,Old Dominion University,Public,Criminology.,Bachelor's Degree,345,25000,24092
-2016_2017,003728,Old Dominion University,Public,Criminology.,Doctoral Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Criminology.,Doctoral Degree,,,
 2015_2016,003728,Old Dominion University,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,55,25000,24092
-2015_2016,003728,Old Dominion University,Public,Dental Support Services and Allied Professions.,Master's Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Dental Support Services and Allied Professions.,Master's Degree,,,
 2016_2017,003728,Old Dominion University,Public,Dental Support Services and Allied Professions.,Bachelor's Degree,57,25000,22067
-2016_2017,003728,Old Dominion University,Public,Dental Support Services and Allied Professions.,Master's Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Dental Support Services and Allied Professions.,Master's Degree,,,
 2015_2016,003728,Old Dominion University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,28,24522,22719
 2016_2017,003728,Old Dominion University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,26,26250,27068
-2015_2016,003728,Old Dominion University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Economics.,Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Economics.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Economics.,Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Education, General.",Doctoral Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Education, General.",Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Education, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,,,
+2016_2017,003728,Old Dominion University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,Economics.,Bachelor's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Economics.,Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Economics.,Bachelor's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Economics.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Economics.,Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Education, General.",Doctoral Degree,,,
+2016_2017,003728,Old Dominion University,Public,"Education, General.",Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Education, Other.",Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,"Education, Other.",Doctoral Degree,29,46672,53713
-2016_2017,003728,Old Dominion University,Public,"Education, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Education, Other.",Post-baccalaureate Certificate,,,
 2016_2017,003728,Old Dominion University,Public,"Education, Other.",Doctoral Degree,28,55657,59462
 2015_2016,003728,Old Dominion University,Public,Educational Administration and Supervision.,Master's Degree,113,31478,32639
-2015_2016,003728,Old Dominion University,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Educational Administration and Supervision.,Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
 2016_2017,003728,Old Dominion University,Public,Educational Administration and Supervision.,Master's Degree,142,29149,31661
-2016_2017,003728,Old Dominion University,Public,Educational Administration and Supervision.,Doctoral Degree,11,NA,35338
-2016_2017,003728,Old Dominion University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Educational Administration and Supervision.,Doctoral Degree,11,,35338
+2016_2017,003728,Old Dominion University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,,,
 2015_2016,003728,Old Dominion University,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,50,25452,25491
 2016_2017,003728,Old Dominion University,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,61,24966,24710
-2015_2016,003728,Old Dominion University,Public,Engineering-Related Fields.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Engineering-Related Fields.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Engineering-Related Fields.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Engineering-Related Fields.,Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,131,22250,22274
 2016_2017,003728,Old Dominion University,Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,159,23672,22474
-2015_2016,003728,Old Dominion University,Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"Engineering, General.",Bachelor's Degree,,,
 2015_2016,003728,Old Dominion University,Public,"Engineering, General.",Master's Degree,23,20500,23795
-2015_2016,003728,Old Dominion University,Public,"Engineering, General.",Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Engineering, General.",First Professional Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Engineering, General.",Bachelor's Degree,11,NA,29001
+2015_2016,003728,Old Dominion University,Public,"Engineering, General.",Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Engineering, General.",First Professional Degree,,,
+2016_2017,003728,Old Dominion University,Public,"Engineering, General.",Bachelor's Degree,11,,29001
 2016_2017,003728,Old Dominion University,Public,"Engineering, General.",Master's Degree,30,15807,21796
-2016_2017,003728,Old Dominion University,Public,"Engineering, General.",Doctoral Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Engineering, General.",First Professional Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Engineering, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Engineering, Other.",Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Engineering, Other.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Engineering, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Engineering, Other.",Master's Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Engineering, General.",Doctoral Degree,,,
+2016_2017,003728,Old Dominion University,Public,"Engineering, General.",First Professional Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Engineering, Other.",Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,"Engineering, Other.",Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Engineering, Other.",Graduate/Professional Certificate,,,
+2016_2017,003728,Old Dominion University,Public,"Engineering, Other.",Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,"Engineering, Other.",Master's Degree,,,
 2015_2016,003728,Old Dominion University,Public,"English Language and Literature, General.",Bachelor's Degree,90,26112,26224
-2015_2016,003728,Old Dominion University,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,003728,Old Dominion University,Public,"English Language and Literature, General.",Bachelor's Degree,74,25197,25989
-2016_2017,003728,Old Dominion University,Public,"English Language and Literature, General.",Master's Degree,10,NA,34119
-2015_2016,003728,Old Dominion University,Public,"English Language and Literature/Letters, Other.",Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"English Language and Literature/Letters, Other.",Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,11,NA,25941
-2016_2017,003728,Old Dominion University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"English Language and Literature, General.",Master's Degree,10,,34119
+2015_2016,003728,Old Dominion University,Public,"English Language and Literature/Letters, Other.",Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,"English Language and Literature/Letters, Other.",Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,11,,25941
+2016_2017,003728,Old Dominion University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,Finance and Financial Management Services.,Bachelor's Degree,73,20250,21271
 2016_2017,003728,Old Dominion University,Public,Finance and Financial Management Services.,Bachelor's Degree,112,25000,23717
 2015_2016,003728,Old Dominion University,Public,Fine and Studio Arts.,Bachelor's Degree,82,27910,26396
 2016_2017,003728,Old Dominion University,Public,Fine and Studio Arts.,Bachelor's Degree,74,28125,25184
 2015_2016,003728,Old Dominion University,Public,Geography and Cartography.,Bachelor's Degree,23,25000,24096
-2015_2016,003728,Old Dominion University,Public,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Geography and Cartography.,Bachelor's Degree,19,NA,25148
-2016_2017,003728,Old Dominion University,Public,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,18,NA,31267
-2015_2016,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,18,NA,30925
-2016_2017,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Geography and Cartography.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Geography and Cartography.,Bachelor's Degree,19,,25148
+2016_2017,003728,Old Dominion University,Public,Geography and Cartography.,Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,18,,31267
+2015_2016,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,,,
+2016_2017,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,18,,30925
+2016_2017,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,,,
 2015_2016,003728,Old Dominion University,Public,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,110,25000,23259
-2015_2016,003728,Old Dominion University,Public,"Health Professions and Related Clinical Sciences, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Health Professions and Related Clinical Sciences, Other.",Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"Health Professions and Related Clinical Sciences, Other.",Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,"Health Professions and Related Clinical Sciences, Other.",Doctoral Degree,,,
 2016_2017,003728,Old Dominion University,Public,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,131,25000,23427
-2016_2017,003728,Old Dominion University,Public,"Health Professions and Related Clinical Sciences, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Health Professions and Related Clinical Sciences, Other.",Doctoral Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Health Professions and Related Clinical Sciences, Other.",Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,"Health Professions and Related Clinical Sciences, Other.",Doctoral Degree,,,
 2015_2016,003728,Old Dominion University,Public,History.,Bachelor's Degree,68,25500,27141
-2015_2016,003728,Old Dominion University,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,History.,Master's Degree,,,
 2016_2017,003728,Old Dominion University,Public,History.,Bachelor's Degree,79,21905,23441
-2016_2017,003728,Old Dominion University,Public,History.,Master's Degree,18,NA,42170
+2016_2017,003728,Old Dominion University,Public,History.,Master's Degree,18,,42170
 2015_2016,003728,Old Dominion University,Public,International Relations and National Security Studies.,Bachelor's Degree,38,25000,24406
-2015_2016,003728,Old Dominion University,Public,International Relations and National Security Studies.,Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,International Relations and National Security Studies.,Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,International Relations and National Security Studies.,Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,International Relations and National Security Studies.,Doctoral Degree,,,
 2016_2017,003728,Old Dominion University,Public,International Relations and National Security Studies.,Bachelor's Degree,40,19875,20233
-2016_2017,003728,Old Dominion University,Public,International Relations and National Security Studies.,Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,International Relations and National Security Studies.,Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,17,NA,24287
+2016_2017,003728,Old Dominion University,Public,International Relations and National Security Studies.,Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,International Relations and National Security Studies.,Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,17,,24287
 2016_2017,003728,Old Dominion University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,23,23149,26151
-2016_2017,003728,Old Dominion University,Public,Literature.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Literature.,Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,Management Information Systems and Services.,Bachelor's Degree,131,25500,26146
 2016_2017,003728,Old Dominion University,Public,Management Information Systems and Services.,Bachelor's Degree,174,25839,25707
-2016_2017,003728,Old Dominion University,Public,Management Information Systems and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Marine Sciences.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Management Information Systems and Services.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Marine Sciences.,Undergraduate Certificate or Diploma,,,
 2015_2016,003728,Old Dominion University,Public,Marketing.,Bachelor's Degree,60,22265,22326
 2016_2017,003728,Old Dominion University,Public,Marketing.,Bachelor's Degree,74,21575,20638
 2015_2016,003728,Old Dominion University,Public,Mathematics.,Bachelor's Degree,29,25625,26962
 2016_2017,003728,Old Dominion University,Public,Mathematics.,Bachelor's Degree,28,24075,23640
 2015_2016,003728,Old Dominion University,Public,Mechanical Engineering.,Bachelor's Degree,93,23727,21824
-2015_2016,003728,Old Dominion University,Public,Mechanical Engineering.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Mechanical Engineering.,Post-baccalaureate Certificate,,,
 2016_2017,003728,Old Dominion University,Public,Mechanical Engineering.,Bachelor's Degree,144,23898,22052
-2016_2017,003728,Old Dominion University,Public,Mechanical Engineering.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Mechanical Engineering.,Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,288,25000,25453
-2015_2016,003728,Old Dominion University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,10,NA,23862
+2015_2016,003728,Old Dominion University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,10,,23862
 2016_2017,003728,Old Dominion University,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,348,25000,25443
-2016_2017,003728,Old Dominion University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,10,NA,29182
+2016_2017,003728,Old Dominion University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,10,,29182
 2015_2016,003728,Old Dominion University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,216,26875,26815
 2016_2017,003728,Old Dominion University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,247,25000,25800
 2015_2016,003728,Old Dominion University,Public,Music.,Bachelor's Degree,20,20304,21602
-2015_2016,003728,Old Dominion University,Public,Music.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Music.,Post-baccalaureate Certificate,,,
 2016_2017,003728,Old Dominion University,Public,Music.,Bachelor's Degree,26,24000,24407
-2016_2017,003728,Old Dominion University,Public,Music.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Ocean Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Ocean Engineering.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Music.,Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,Ocean Engineering.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Ocean Engineering.,Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,60,25250,25291
 2016_2017,003728,Old Dominion University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,88,24549,24325
-2015_2016,003728,Old Dominion University,Public,Philosophy.,Bachelor's Degree,10,NA,18601
-2016_2017,003728,Old Dominion University,Public,Philosophy.,Bachelor's Degree,11,NA,25046
-2015_2016,003728,Old Dominion University,Public,Physics.,Bachelor's Degree,12,NA,27170
-2015_2016,003728,Old Dominion University,Public,Physics.,Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Physics.,Doctoral Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Physics.,Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Physics.,Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Philosophy.,Bachelor's Degree,10,,18601
+2016_2017,003728,Old Dominion University,Public,Philosophy.,Bachelor's Degree,11,,25046
+2015_2016,003728,Old Dominion University,Public,Physics.,Bachelor's Degree,12,,27170
+2015_2016,003728,Old Dominion University,Public,Physics.,Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Physics.,Doctoral Degree,,,
+2016_2017,003728,Old Dominion University,Public,Physics.,Bachelor's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Physics.,Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Physics.,Doctoral Degree,,,
 2015_2016,003728,Old Dominion University,Public,Political Science and Government.,Bachelor's Degree,60,24640,24255
 2016_2017,003728,Old Dominion University,Public,Political Science and Government.,Bachelor's Degree,67,25000,23710
 2015_2016,003728,Old Dominion University,Public,"Psychology, General.",Bachelor's Degree,283,23000,23391
-2015_2016,003728,Old Dominion University,Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Psychology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"Psychology, General.",Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,"Psychology, General.",Doctoral Degree,,,
 2016_2017,003728,Old Dominion University,Public,"Psychology, General.",Bachelor's Degree,342,24750,24067
-2016_2017,003728,Old Dominion University,Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,"Psychology, General.",Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Psychology, General.",Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,"Psychology, General.",Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,Public Administration.,Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,Public Administration.,Master's Degree,30,30375,34510
-2015_2016,003728,Old Dominion University,Public,Public Administration.,Doctoral Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Public Administration.,Doctoral Degree,,,
+2016_2017,003728,Old Dominion University,Public,Public Administration.,Post-baccalaureate Certificate,,,
 2016_2017,003728,Old Dominion University,Public,Public Administration.,Master's Degree,40,36075,37337
-2016_2017,003728,Old Dominion University,Public,Public Administration.,Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Public Health.,Bachelor's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Public Health.,Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Public Health.,Bachelor's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Public Health.,Master's Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Public Administration.,Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,Public Health.,Bachelor's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Public Health.,Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,Public Health.,Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Public Health.,Bachelor's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Public Health.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Public Health.,Master's Degree,,,
 2015_2016,003728,Old Dominion University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,85,18817,19286
 2015_2016,003728,Old Dominion University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,88,39915,39735
-2015_2016,003728,Old Dominion University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
 2016_2017,003728,Old Dominion University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,172,18725,18623
-2016_2017,003728,Old Dominion University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,,,
 2016_2017,003728,Old Dominion University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,85,39111,39231
-2016_2017,003728,Old Dominion University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,65307,67588
-2015_2016,003728,Old Dominion University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,66137,66169
-2016_2017,003728,Old Dominion University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,003728,Old Dominion University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,65307,67588
+2015_2016,003728,Old Dominion University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2016_2017,003728,Old Dominion University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,66137,66169
+2016_2017,003728,Old Dominion University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
 2015_2016,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,197,25000,23259
-2015_2016,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Doctoral Degree,,,
 2016_2017,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,236,25000,23885
-2016_2017,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,10,NA,38801
-2016_2017,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Doctoral Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,10,,38801
+2016_2017,003728,Old Dominion University,Public,Rhetoric and Composition/Writing Studies.,Doctoral Degree,,,
 2015_2016,003728,Old Dominion University,Public,Sociology.,Bachelor's Degree,79,25000,25415
-2015_2016,003728,Old Dominion University,Public,Sociology.,Master's Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Sociology.,Master's Degree,,,
 2016_2017,003728,Old Dominion University,Public,Sociology.,Bachelor's Degree,113,25000,25913
-2016_2017,003728,Old Dominion University,Public,Sociology.,Master's Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Sociology.,Master's Degree,,,
+2015_2016,003728,Old Dominion University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,Special Education and Teaching.,Master's Degree,24,20389,29420
-2016_2017,003728,Old Dominion University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Special Education and Teaching.,Master's Degree,18,NA,27094
+2016_2017,003728,Old Dominion University,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Special Education and Teaching.,Master's Degree,18,,27094
 2015_2016,003728,Old Dominion University,Public,Student Counseling and Personnel Services.,Master's Degree,67,42661,45683
-2015_2016,003728,Old Dominion University,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
 2016_2017,003728,Old Dominion University,Public,Student Counseling and Personnel Services.,Master's Degree,66,41101,46958
-2016_2017,003728,Old Dominion University,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Systems Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Systems Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
+2015_2016,003728,Old Dominion University,Public,Systems Engineering.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Systems Engineering.,Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
 2015_2016,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,182,27380,29106
-2016_2017,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
 2016_2017,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,171,28000,30425
 2015_2016,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,235,25500,25169
 2015_2016,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,42,35730,35256
-2015_2016,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,NA,NA,NA
+2015_2016,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,,,
 2016_2017,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,274,25000,24641
 2016_2017,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,34,31625,32185
-2016_2017,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003728,Old Dominion University,Public,Urban Studies/Affairs.,Master's Degree,NA,NA,NA
-2016_2017,003728,Old Dominion University,Public,Urban Studies/Affairs.,Master's Degree,NA,NA,NA
+2016_2017,003728,Old Dominion University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Doctoral Degree,,,
+2015_2016,003728,Old Dominion University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
+2016_2017,003728,Old Dominion University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
+2015_2016,003728,Old Dominion University,Public,Urban Studies/Affairs.,Master's Degree,,,
+2016_2017,003728,Old Dominion University,Public,Urban Studies/Affairs.,Master's Degree,,,

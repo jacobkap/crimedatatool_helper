@@ -1,199 +1,199 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003204,Mount Hood Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Accounting and Related Services.,Associate's Degree,12,NA,16335
-2016_2017,003204,Mount Hood Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Accounting and Related Services.,Associate's Degree,14,NA,16611
-2015_2016,003204,Mount Hood Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,14,NA,19272
+2015_2016,003204,Mount Hood Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Accounting and Related Services.,Associate's Degree,12,,16335
+2016_2017,003204,Mount Hood Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Accounting and Related Services.,Associate's Degree,14,,16611
+2015_2016,003204,Mount Hood Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,14,,19272
 2016_2017,003204,Mount Hood Community College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,25,20000,18076
-2015_2016,003204,Mount Hood Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,19,NA,16310
+2015_2016,003204,Mount Hood Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,19,,16310
 2016_2017,003204,Mount Hood Community College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,47,16635,16443
-2015_2016,003204,Mount Hood Community College,Public,Architectural Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Architectural Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Audiovisual Communications Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Audiovisual Communications Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Behavioral Sciences.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Behavioral Sciences.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Biology, General.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Biology, General.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,18,NA,14601
+2015_2016,003204,Mount Hood Community College,Public,Architectural Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Architectural Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Architectural Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Audiovisual Communications Technologies/Technicians.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Audiovisual Communications Technologies/Technicians.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Behavioral Sciences.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Behavioral Sciences.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,"Biology, General.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Biology, General.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,18,,14601
 2016_2017,003204,Mount Hood Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,47,12637,13699
-2015_2016,003204,Mount Hood Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Chemistry.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Chemistry.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Computer Programming.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Computer Programming.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,12,NA,11763
-2016_2017,003204,Mount Hood Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003204,Mount Hood Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Chemistry.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Chemistry.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Civil Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,"Computer and Information Sciences, General.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Computer Programming.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Computer Programming.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,12,,11763
+2016_2017,003204,Mount Hood Community College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
 2016_2017,003204,Mount Hood Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,24,15666,14292
-2015_2016,003204,Mount Hood Community College,Public,"Construction Trades, General.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Construction Trades, General.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,19,NA,12682
-2015_2016,003204,Mount Hood Community College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Dental Support Services and Allied Professions.,Associate's Degree,13,NA,16537
+2015_2016,003204,Mount Hood Community College,Public,"Construction Trades, General.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,"Construction Trades, General.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,19,,12682
+2015_2016,003204,Mount Hood Community College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Culinary Arts and Related Services.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Culinary Arts and Related Services.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Dental Support Services and Allied Professions.,Associate's Degree,13,,16537
 2016_2017,003204,Mount Hood Community College,Public,Dental Support Services and Allied Professions.,Associate's Degree,26,12250,14828
-2015_2016,003204,Mount Hood Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Design and Applied Arts.,Associate's Degree,13,NA,12904
-2015_2016,003204,Mount Hood Community College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Economics.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Education, General.",Associate's Degree,10,NA,12484
-2015_2016,003204,Mount Hood Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Engineering Technology, General.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Engineering Technology, General.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"English Language and Literature, General.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"English Language and Literature, General.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Film/Video and Photographic Arts.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Film/Video and Photographic Arts.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Fishing and Fisheries Sciences and Management.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Fishing and Fisheries Sciences and Management.,Associate's Degree,16,NA,14520
-2015_2016,003204,Mount Hood Community College,Public,Forestry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Forestry.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Forestry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Forestry.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Funeral Service and Mortuary Science.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Funeral Service and Mortuary Science.,Associate's Degree,18,NA,12922
-2015_2016,003204,Mount Hood Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Geography and Cartography.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Geography and Cartography.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Geological and Earth Sciences/Geosciences.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Geological and Earth Sciences/Geosciences.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Health and Medical Administrative Services.,Associate's Degree,14,NA,17751
-2015_2016,003204,Mount Hood Community College,Public,Health/Medical Preparatory Programs.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Health/Medical Preparatory Programs.,Associate's Degree,11,NA,8189
-2015_2016,003204,Mount Hood Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,History.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,History.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Journalism.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Journalism.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003204,Mount Hood Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Design and Applied Arts.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Design and Applied Arts.,Associate's Degree,13,,12904
+2015_2016,003204,Mount Hood Community College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Economics.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Education, General.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Education, General.",Associate's Degree,10,,12484
+2015_2016,003204,Mount Hood Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Electrical and Power Transmission Installers.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Engineering Technology, General.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Engineering Technology, General.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Engineering, General.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Engineering, General.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"English Language and Literature, General.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"English Language and Literature, General.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Film/Video and Photographic Arts.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Film/Video and Photographic Arts.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Fine and Studio Arts.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Fine and Studio Arts.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Fishing and Fisheries Sciences and Management.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Fishing and Fisheries Sciences and Management.,Associate's Degree,16,,14520
+2015_2016,003204,Mount Hood Community College,Public,Forestry.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Forestry.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Forestry.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Forestry.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Funeral Service and Mortuary Science.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Funeral Service and Mortuary Science.,Associate's Degree,18,,12922
+2015_2016,003204,Mount Hood Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Geography and Cartography.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Geography and Cartography.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Geological and Earth Sciences/Geosciences.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Geological and Earth Sciences/Geosciences.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Health and Medical Administrative Services.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Health and Medical Administrative Services.,Associate's Degree,14,,17751
+2015_2016,003204,Mount Hood Community College,Public,Health/Medical Preparatory Programs.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Health/Medical Preparatory Programs.,Associate's Degree,11,,8189
+2015_2016,003204,Mount Hood Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,History.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,History.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Hospitality Administration/Management.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Hospitality Administration/Management.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Journalism.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Journalism.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,,,
 2015_2016,003204,Mount Hood Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,73,10375,11784
-2016_2017,003204,Mount Hood Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003204,Mount Hood Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,,,
 2016_2017,003204,Mount Hood Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,143,10000,11282
-2015_2016,003204,Mount Hood Community College,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Marketing.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Marketing.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Mathematics.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Mathematics.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Medical Illustration and Informatics.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Medical Illustration and Informatics.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Medical Illustration and Informatics.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Medical Illustration and Informatics.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,13,NA,26624
-2016_2017,003204,Mount Hood Community College,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003204,Mount Hood Community College,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Marketing.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Marketing.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Mathematics.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Mathematics.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Medical Illustration and Informatics.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Medical Illustration and Informatics.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Medical Illustration and Informatics.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Medical Illustration and Informatics.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,13,,26624
+2016_2017,003204,Mount Hood Community College,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2016_2017,003204,Mount Hood Community College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,27,21625,22584
-2015_2016,003204,Mount Hood Community College,Public,Music.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Music.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Non-Professional General Legal Studies (Undergraduate).,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Non-Professional General Legal Studies (Undergraduate).,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Outdoor Education.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Outdoor Education.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Physics.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Physics.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Political Science and Government.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Political Science and Government.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,12,NA,11013
-2016_2017,003204,Mount Hood Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,18,NA,10531
-2015_2016,003204,Mount Hood Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Precision Metal Working.,Associate's Degree,10,NA,13375
-2016_2017,003204,Mount Hood Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Precision Metal Working.,Associate's Degree,15,NA,14989
-2015_2016,003204,Mount Hood Community College,Public,"Psychology, General.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Psychology, General.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Radio, Television, and Digital Communication.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Radio, Television, and Digital Communication.",Associate's Degree,NA,NA,NA
+2015_2016,003204,Mount Hood Community College,Public,Music.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Music.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Natural Resources Conservation and Research.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Non-Professional General Legal Studies (Undergraduate).,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Non-Professional General Legal Studies (Undergraduate).,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Outdoor Education.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Outdoor Education.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Physics.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Physics.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Political Science and Government.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Political Science and Government.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,12,,11013
+2016_2017,003204,Mount Hood Community College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,18,,10531
+2015_2016,003204,Mount Hood Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Precision Metal Working.,Associate's Degree,10,,13375
+2016_2017,003204,Mount Hood Community College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Precision Metal Working.,Associate's Degree,15,,14989
+2015_2016,003204,Mount Hood Community College,Public,"Psychology, General.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Psychology, General.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,"Radio, Television, and Digital Communication.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,"Radio, Television, and Digital Communication.",Associate's Degree,,,
 2015_2016,003204,Mount Hood Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,24,13627,13557
 2016_2017,003204,Mount Hood Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,64,14990,16399
-2015_2016,003204,Mount Hood Community College,Public,"Social Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Social Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Social Work.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Social Work.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Sociology.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Sociology.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,NA,NA,NA
-2015_2016,003204,Mount Hood Community College,Public,"Visual and Performing Arts, General.",Associate's Degree,NA,NA,NA
-2016_2017,003204,Mount Hood Community College,Public,"Visual and Performing Arts, General.",Associate's Degree,NA,NA,NA
+2015_2016,003204,Mount Hood Community College,Public,"Social Sciences, General.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Social Sciences, General.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Social Work.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Social Work.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Sociology.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Sociology.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,003204,Mount Hood Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,003204,Mount Hood Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,,,
+2015_2016,003204,Mount Hood Community College,Public,"Visual and Performing Arts, General.",Associate's Degree,,,
+2016_2017,003204,Mount Hood Community College,Public,"Visual and Performing Arts, General.",Associate's Degree,,,

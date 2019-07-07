@@ -1,31 +1,31 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,041317,Southwest University At El Paso,Proprietary,Accounting and Related Services.,Associate's Degree,NA,20000,19217
-2015_2016,041317,Southwest University At El Paso,Proprietary,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,041317,Southwest University At El Paso,Proprietary,Accounting and Related Services.,Associate's Degree,NA,19969,17823
-2015_2016,041317,Southwest University At El Paso,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,11151,9935
-2015_2016,041317,Southwest University At El Paso,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,17956,17268
-2016_2017,041317,Southwest University At El Paso,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,10646,9724
-2016_2017,041317,Southwest University At El Paso,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,17956,16810
+2015_2016,041317,Southwest University At El Paso,Proprietary,Accounting and Related Services.,Associate's Degree,,20000,19217
+2015_2016,041317,Southwest University At El Paso,Proprietary,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,041317,Southwest University At El Paso,Proprietary,Accounting and Related Services.,Associate's Degree,,19969,17823
+2015_2016,041317,Southwest University At El Paso,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,11151,9935
+2015_2016,041317,Southwest University At El Paso,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,17956,17268
+2016_2017,041317,Southwest University At El Paso,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,10646,9724
+2016_2017,041317,Southwest University At El Paso,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,17956,16810
 2015_2016,041317,Southwest University At El Paso,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,50,35901,35165
-2016_2017,041317,Southwest University At El Paso,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,38523,35985
-2015_2016,041317,Southwest University At El Paso,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,041317,Southwest University At El Paso,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,041317,Southwest University At El Paso,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041317,Southwest University At El Paso,Proprietary,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,NA,50654,45527
-2016_2017,041317,Southwest University At El Paso,Proprietary,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,NA,49760,45614
-2015_2016,041317,Southwest University At El Paso,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,24166,23044
+2016_2017,041317,Southwest University At El Paso,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,38523,35985
+2015_2016,041317,Southwest University At El Paso,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,041317,Southwest University At El Paso,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,041317,Southwest University At El Paso,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,041317,Southwest University At El Paso,Proprietary,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,,50654,45527
+2016_2017,041317,Southwest University At El Paso,Proprietary,"Business, Management, Marketing, and Related Support Services, Other.",Bachelor's Degree,,49760,45614
+2015_2016,041317,Southwest University At El Paso,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,24166,23044
 2016_2017,041317,Southwest University At El Paso,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,195,23350,22555
-2015_2016,041317,Southwest University At El Paso,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041317,Southwest University At El Paso,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,20000,19501
-2015_2016,041317,Southwest University At El Paso,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,041317,Southwest University At El Paso,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,20000,19011
-2016_2017,041317,Southwest University At El Paso,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,041317,Southwest University At El Paso,Proprietary,Public Health.,Associate's Degree,NA,NA,NA
-2015_2016,041317,Southwest University At El Paso,Proprietary,Public Health.,Bachelor's Degree,NA,49997,48117
-2016_2017,041317,Southwest University At El Paso,Proprietary,Public Health.,Bachelor's Degree,NA,50031,48608
-2015_2016,041317,Southwest University At El Paso,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,041317,Southwest University At El Paso,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
-2016_2017,041317,Southwest University At El Paso,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2015_2016,041317,Southwest University At El Paso,Proprietary,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,041317,Southwest University At El Paso,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,041317,Southwest University At El Paso,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,20000,19501
+2015_2016,041317,Southwest University At El Paso,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,041317,Southwest University At El Paso,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,20000,19011
+2016_2017,041317,Southwest University At El Paso,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2015_2016,041317,Southwest University At El Paso,Proprietary,Public Health.,Associate's Degree,,,
+2015_2016,041317,Southwest University At El Paso,Proprietary,Public Health.,Bachelor's Degree,,49997,48117
+2016_2017,041317,Southwest University At El Paso,Proprietary,Public Health.,Bachelor's Degree,,50031,48608
+2015_2016,041317,Southwest University At El Paso,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,041317,Southwest University At El Paso,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
+2016_2017,041317,Southwest University At El Paso,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2015_2016,041317,Southwest University At El Paso,Proprietary,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
 2015_2016,041317,Southwest University At El Paso,Proprietary,Vehicle Maintenance and Repair Technologies.,Associate's Degree,208,20000,18442
 2016_2017,041317,Southwest University At El Paso,Proprietary,Vehicle Maintenance and Repair Technologies.,Associate's Degree,232,19835,17435

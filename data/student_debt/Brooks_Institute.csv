@@ -1,10 +1,10 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001123,Brooks Institute,Proprietary,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001123,Brooks Institute,Proprietary,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001123,Brooks Institute,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,NA,31000,31965
-2015_2016,001123,Brooks Institute,Proprietary,Film/Video and Photographic Arts.,Master's Degree,NA,NA,NA
-2016_2017,001123,Brooks Institute,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,NA,31000,31343
-2016_2017,001123,Brooks Institute,Proprietary,Film/Video and Photographic Arts.,Master's Degree,NA,NA,NA
-2015_2016,001123,Brooks Institute,Proprietary,Journalism.,Bachelor's Degree,NA,27000,30983
-2016_2017,001123,Brooks Institute,Proprietary,Journalism.,Bachelor's Degree,NA,NA,NA
-2015_2016,001123,Brooks Institute,Proprietary,"Radio, Television, and Digital Communication.",Master's Degree,NA,NA,NA
+2015_2016,001123,Brooks Institute,Proprietary,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,001123,Brooks Institute,Proprietary,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,001123,Brooks Institute,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,,31000,31965
+2015_2016,001123,Brooks Institute,Proprietary,Film/Video and Photographic Arts.,Master's Degree,,,
+2016_2017,001123,Brooks Institute,Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,,31000,31343
+2016_2017,001123,Brooks Institute,Proprietary,Film/Video and Photographic Arts.,Master's Degree,,,
+2015_2016,001123,Brooks Institute,Proprietary,Journalism.,Bachelor's Degree,,27000,30983
+2016_2017,001123,Brooks Institute,Proprietary,Journalism.,Bachelor's Degree,,,
+2015_2016,001123,Brooks Institute,Proprietary,"Radio, Television, and Digital Communication.",Master's Degree,,,

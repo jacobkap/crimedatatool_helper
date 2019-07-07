@@ -1,33 +1,33 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,033953,Icdc College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,9500,9608
-2015_2016,033953,Icdc College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,24891,23467
-2016_2017,033953,Icdc College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,9500,9170
-2016_2017,033953,Icdc College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,24168
+2015_2016,033953,Icdc College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,,9500,9608
+2015_2016,033953,Icdc College,Proprietary,Accounting and Related Services.,Associate's Degree,,24891,23467
+2016_2017,033953,Icdc College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,,9500,9170
+2016_2017,033953,Icdc College,Proprietary,Accounting and Related Services.,Associate's Degree,,,24168
 2015_2016,033953,Icdc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,115,9500,8471
-2016_2017,033953,Icdc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9500,8009
-2015_2016,033953,Icdc College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,6270,5970
-2015_2016,033953,Icdc College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2016_2017,033953,Icdc College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,6270,5893
-2015_2016,033953,Icdc College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,6270,7296
+2016_2017,033953,Icdc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9500,8009
+2015_2016,033953,Icdc College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,6270,5970
+2015_2016,033953,Icdc College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,,
+2016_2017,033953,Icdc College,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,6270,5893
+2015_2016,033953,Icdc College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,6270,7296
 2015_2016,033953,Icdc College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,27,24931,24861
-2016_2017,033953,Icdc College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,6270,6420
-2015_2016,033953,Icdc College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,033953,Icdc College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,033953,Icdc College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,033953,Icdc College,Proprietary,Health-Related Knowledge and Skills.,Undergraduate Certificate or Diploma,NA,6270,7427
-2016_2017,033953,Icdc College,Proprietary,Health-Related Knowledge and Skills.,Undergraduate Certificate or Diploma,NA,6270,7412
-2015_2016,033953,Icdc College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,9500,8220
-2015_2016,033953,Icdc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,24291,24110
-2016_2017,033953,Icdc College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,9500,8115
-2016_2017,033953,Icdc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,25731,24147
-2015_2016,033953,Icdc College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,9500,8357
-2016_2017,033953,Icdc College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,8236
-2015_2016,033953,Icdc College,Proprietary,Homeland Security.,Undergraduate Certificate or Diploma,NA,9500,9141
+2016_2017,033953,Icdc College,Proprietary,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,6270,6420
+2015_2016,033953,Icdc College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,033953,Icdc College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,033953,Icdc College,Proprietary,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,033953,Icdc College,Proprietary,Health-Related Knowledge and Skills.,Undergraduate Certificate or Diploma,,6270,7427
+2016_2017,033953,Icdc College,Proprietary,Health-Related Knowledge and Skills.,Undergraduate Certificate or Diploma,,6270,7412
+2015_2016,033953,Icdc College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,9500,8220
+2015_2016,033953,Icdc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,24291,24110
+2016_2017,033953,Icdc College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,9500,8115
+2016_2017,033953,Icdc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,25731,24147
+2015_2016,033953,Icdc College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,9500,8357
+2016_2017,033953,Icdc College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,8236
+2015_2016,033953,Icdc College,Proprietary,Homeland Security.,Undergraduate Certificate or Diploma,,9500,9141
 2015_2016,033953,Icdc College,Proprietary,Homeland Security.,Associate's Degree,50,24159,23024
-2016_2017,033953,Icdc College,Proprietary,Homeland Security.,Undergraduate Certificate or Diploma,NA,9500,9161
-2016_2017,033953,Icdc College,Proprietary,Homeland Security.,Associate's Degree,NA,NA,19822
-2015_2016,033953,Icdc College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,9500,10169
-2016_2017,033953,Icdc College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,9500,9889
-2015_2016,033953,Icdc College,Proprietary,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,033953,Icdc College,Proprietary,Mental and Social Health Services and Allied Professions.,Associate's Degree,NA,24135,24060
-2016_2017,033953,Icdc College,Proprietary,Mental and Social Health Services and Allied Professions.,Associate's Degree,NA,24166,24285
+2016_2017,033953,Icdc College,Proprietary,Homeland Security.,Undergraduate Certificate or Diploma,,9500,9161
+2016_2017,033953,Icdc College,Proprietary,Homeland Security.,Associate's Degree,,,19822
+2015_2016,033953,Icdc College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,9500,10169
+2016_2017,033953,Icdc College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,9500,9889
+2015_2016,033953,Icdc College,Proprietary,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,033953,Icdc College,Proprietary,Mental and Social Health Services and Allied Professions.,Associate's Degree,,24135,24060
+2016_2017,033953,Icdc College,Proprietary,Mental and Social Health Services and Allied Professions.,Associate's Degree,,24166,24285

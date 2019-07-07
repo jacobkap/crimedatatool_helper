@@ -1,64 +1,64 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002144,Dean College,Private,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002144,Dean College,Private,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,15755
-2015_2016,002144,Dean College,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,19,NA,23128
-2015_2016,002144,Dean College,Private,"Biology, General.",Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,"Biology, General.",Associate's Degree,NA,NA,NA
+2015_2016,002144,Dean College,Private,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,002144,Dean College,Private,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002144,Dean College,Private,Accounting and Related Services.,Associate's Degree,,,
+2015_2016,002144,Dean College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2016_2017,002144,Dean College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,15755
+2015_2016,002144,Dean College,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,002144,Dean College,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,19,,23128
+2015_2016,002144,Dean College,Private,"Biology, General.",Associate's Degree,,,
+2016_2017,002144,Dean College,Private,"Biology, General.",Associate's Degree,,,
 2015_2016,002144,Dean College,Private,"Business Administration, Management and Operations.",Associate's Degree,24,12000,12688
 2015_2016,002144,Dean College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,35,19500,22947
-2016_2017,002144,Dean College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002144,Dean College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,002144,Dean College,Private,"Business Administration, Management and Operations.",Associate's Degree,32,12000,14171
 2016_2017,002144,Dean College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,44,26000,25833
-2015_2016,002144,Dean College,Private,Communication and Media Studies.,Associate's Degree,15,NA,12803
-2016_2017,002144,Dean College,Private,Communication and Media Studies.,Associate's Degree,12,NA,10979
-2016_2017,002144,Dean College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,Criminal Justice and Corrections.,Associate's Degree,17,NA,15544
-2016_2017,002144,Dean College,Private,Criminal Justice and Corrections.,Associate's Degree,18,NA,16120
-2015_2016,002144,Dean College,Private,Dance.,Associate's Degree,14,NA,13821
+2015_2016,002144,Dean College,Private,Communication and Media Studies.,Associate's Degree,15,,12803
+2016_2017,002144,Dean College,Private,Communication and Media Studies.,Associate's Degree,12,,10979
+2016_2017,002144,Dean College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,002144,Dean College,Private,Criminal Justice and Corrections.,Associate's Degree,17,,15544
+2016_2017,002144,Dean College,Private,Criminal Justice and Corrections.,Associate's Degree,18,,16120
+2015_2016,002144,Dean College,Private,Dance.,Associate's Degree,14,,13821
 2015_2016,002144,Dean College,Private,Dance.,Bachelor's Degree,49,27000,24108
-2016_2017,002144,Dean College,Private,Dance.,Associate's Degree,19,NA,15174
-2016_2017,002144,Dean College,Private,Dance.,Bachelor's Degree,NA,26960,23988
-2015_2016,002144,Dean College,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
+2016_2017,002144,Dean College,Private,Dance.,Associate's Degree,19,,15174
+2016_2017,002144,Dean College,Private,Dance.,Bachelor's Degree,,26960,23988
+2015_2016,002144,Dean College,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
 2015_2016,002144,Dean College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,28,27000,26589
-2016_2017,002144,Dean College,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,NA,NA,NA
+2016_2017,002144,Dean College,Private,Drama/Theatre Arts and Stagecraft.,Associate's Degree,,,
 2016_2017,002144,Dean College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,26,27000,25605
-2015_2016,002144,Dean College,Private,"English Language and Literature, General.",Associate's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,"English Language and Literature, General.",Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002144,Dean College,Private,"English Language and Literature, General.",Associate's Degree,,,
+2015_2016,002144,Dean College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,002144,Dean College,Private,"English Language and Literature, General.",Associate's Degree,,,
+2016_2017,002144,Dean College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
 2015_2016,002144,Dean College,Private,Health and Physical Education/Fitness.,Associate's Degree,43,12000,14499
 2016_2017,002144,Dean College,Private,Health and Physical Education/Fitness.,Associate's Degree,41,14000,15196
-2016_2017,002144,Dean College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,Health/Medical Preparatory Programs.,Associate's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,History.,Associate's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,History.,Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,Human Resources Management and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002144,Dean College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,002144,Dean College,Private,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
+2016_2017,002144,Dean College,Private,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
+2016_2017,002144,Dean College,Private,Health/Medical Preparatory Programs.,Associate's Degree,,,
+2015_2016,002144,Dean College,Private,History.,Associate's Degree,,,
+2015_2016,002144,Dean College,Private,History.,Bachelor's Degree,,,
+2016_2017,002144,Dean College,Private,History.,Associate's Degree,,,
+2016_2017,002144,Dean College,Private,History.,Bachelor's Degree,,,
+2016_2017,002144,Dean College,Private,Human Resources Management and Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,002144,Dean College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,69,12000,12538
 2015_2016,002144,Dean College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,22,26100,25983
 2016_2017,002144,Dean College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,68,12000,13886
-2016_2017,002144,Dean College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,14,NA,25821
-2015_2016,002144,Dean College,Private,Management Information Systems and Services.,Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,Management Information Systems and Services.,Associate's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,Mathematics.,Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,Mathematics.,Associate's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,"Psychology, General.",Associate's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,"Psychology, General.",Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,25651
-2015_2016,002144,Dean College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,Sociology.,Associate's Degree,NA,NA,NA
-2016_2017,002144,Dean College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002144,Dean College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002144,Dean College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,12,NA,16955
-2016_2017,002144,Dean College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002144,Dean College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,14,,25821
+2015_2016,002144,Dean College,Private,Management Information Systems and Services.,Associate's Degree,,,
+2016_2017,002144,Dean College,Private,Management Information Systems and Services.,Associate's Degree,,,
+2015_2016,002144,Dean College,Private,Mathematics.,Associate's Degree,,,
+2016_2017,002144,Dean College,Private,Mathematics.,Associate's Degree,,,
+2015_2016,002144,Dean College,Private,Natural Resources Conservation and Research.,Associate's Degree,,,
+2016_2017,002144,Dean College,Private,Natural Resources Conservation and Research.,Associate's Degree,,,
+2015_2016,002144,Dean College,Private,"Psychology, General.",Associate's Degree,,,
+2015_2016,002144,Dean College,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,002144,Dean College,Private,"Psychology, General.",Associate's Degree,,,
+2016_2017,002144,Dean College,Private,"Psychology, General.",Bachelor's Degree,,,25651
+2015_2016,002144,Dean College,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,002144,Dean College,Private,Sociology.,Associate's Degree,,,
+2016_2017,002144,Dean College,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,002144,Dean College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2015_2016,002144,Dean College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,12,,16955
+2016_2017,002144,Dean College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
 2016_2017,002144,Dean College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,23,12000,13698

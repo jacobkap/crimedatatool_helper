@@ -1,12 +1,12 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,034163,Computer Systems Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9500,9045
-2016_2017,034163,Computer Systems Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9500,8870
-2015_2016,034163,Computer Systems Institute,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,034163,Computer Systems Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9500,9045
+2016_2017,034163,Computer Systems Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9500,8870
+2015_2016,034163,Computer Systems Institute,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,034163,Computer Systems Institute,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,307,9500,9817
-2016_2017,034163,Computer Systems Institute,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,9500,9095
-2015_2016,034163,Computer Systems Institute,Proprietary,Computer Science.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,034163,Computer Systems Institute,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,9500,9024
-2016_2017,034163,Computer Systems Institute,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,9500,9137
-2015_2016,034163,Computer Systems Institute,Proprietary,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,034163,Computer Systems Institute,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,034163,Computer Systems Institute,Proprietary,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,034163,Computer Systems Institute,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,9500,9095
+2015_2016,034163,Computer Systems Institute,Proprietary,Computer Science.,Undergraduate Certificate or Diploma,,,
+2015_2016,034163,Computer Systems Institute,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,9500,9024
+2016_2017,034163,Computer Systems Institute,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,9500,9137
+2015_2016,034163,Computer Systems Institute,Proprietary,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,034163,Computer Systems Institute,Proprietary,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,034163,Computer Systems Institute,Proprietary,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,

@@ -1,116 +1,116 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003593,Navarro College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Accounting and Related Services.,Associate's Degree,12,NA,20097
-2016_2017,003593,Navarro College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Accounting and Related Services.,Associate's Degree,16,NA,19219
-2015_2016,003593,Navarro College,Public,Agricultural Mechanization.,Undergraduate Certificate or Diploma,11,NA,10494
-2015_2016,003593,Navarro College,Public,Agricultural Mechanization.,Associate's Degree,12,NA,10536
-2016_2017,003593,Navarro College,Public,Agricultural Mechanization.,Undergraduate Certificate or Diploma,16,NA,9283
-2016_2017,003593,Navarro College,Public,Agricultural Mechanization.,Associate's Degree,18,NA,9474
-2015_2016,003593,Navarro College,Public,"Agriculture, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,"Agriculture, General.",Undergraduate Certificate or Diploma,NA,NA,9325
+2015_2016,003593,Navarro College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003593,Navarro College,Public,Accounting and Related Services.,Associate's Degree,12,,20097
+2016_2017,003593,Navarro College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,Accounting and Related Services.,Associate's Degree,16,,19219
+2015_2016,003593,Navarro College,Public,Agricultural Mechanization.,Undergraduate Certificate or Diploma,11,,10494
+2015_2016,003593,Navarro College,Public,Agricultural Mechanization.,Associate's Degree,12,,10536
+2016_2017,003593,Navarro College,Public,Agricultural Mechanization.,Undergraduate Certificate or Diploma,16,,9283
+2016_2017,003593,Navarro College,Public,Agricultural Mechanization.,Associate's Degree,18,,9474
+2015_2016,003593,Navarro College,Public,"Agriculture, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,"Agriculture, General.",Undergraduate Certificate or Diploma,,,9325
 2015_2016,003593,Navarro College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,31,19000,20400
 2016_2017,003593,Navarro College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,98,19000,19562
 2015_2016,003593,Navarro College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,44,8088,9864
-2015_2016,003593,Navarro College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
+2015_2016,003593,Navarro College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
 2016_2017,003593,Navarro College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,61,5500,7982
-2016_2017,003593,Navarro College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,13171
-2015_2016,003593,Navarro College,Public,"Biology, General.",Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,"Biology, General.",Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,11,NA,18550
+2016_2017,003593,Navarro College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,13171
+2015_2016,003593,Navarro College,Public,"Biology, General.",Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,"Biology, General.",Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,11,,18550
 2015_2016,003593,Navarro College,Public,"Business Administration, Management and Operations.",Associate's Degree,47,11347,16647
-2016_2017,003593,Navarro College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003593,Navarro College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,003593,Navarro College,Public,"Business Administration, Management and Operations.",Associate's Degree,51,12125,16420
-2015_2016,003593,Navarro College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,11,NA,20442
-2015_2016,003593,Navarro College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,12,NA,16031
-2016_2017,003593,Navarro College,Public,Business Operations Support and Assistant Services.,Associate's Degree,12,NA,20640
-2016_2017,003593,Navarro College,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,9977
-2015_2016,003593,Navarro College,Public,Chemistry.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Chemistry.,Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,10,NA,26607
-2016_2017,003593,Navarro College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,12,NA,22708
-2015_2016,003593,Navarro College,Public,Communication and Media Studies.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Communication and Media Studies.,Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003593,Navarro College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,11,,20442
+2015_2016,003593,Navarro College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,12,,16031
+2016_2017,003593,Navarro College,Public,Business Operations Support and Assistant Services.,Associate's Degree,12,,20640
+2016_2017,003593,Navarro College,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,"Business/Commerce, General.",Associate's Degree,,,9977
+2015_2016,003593,Navarro College,Public,Chemistry.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Chemistry.,Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,10,,26607
+2016_2017,003593,Navarro College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,12,,22708
+2015_2016,003593,Navarro College,Public,Communication and Media Studies.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Communication and Media Studies.,Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,Computer Programming.,Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,Computer Programming.,Undergraduate Certificate or Diploma,,,
 2015_2016,003593,Navarro College,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,38,9500,11155
-2015_2016,003593,Navarro College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,NA,NA,NA
+2015_2016,003593,Navarro College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,,,
 2016_2017,003593,Navarro College,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,45,9000,9042
-2016_2017,003593,Navarro College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,NA,NA,11972
-2015_2016,003593,Navarro College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003593,Navarro College,Public,Cosmetology and Related Personal Grooming Services.,Associate's Degree,,,11972
+2015_2016,003593,Navarro College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2015_2016,003593,Navarro College,Public,Criminal Justice and Corrections.,Associate's Degree,29,19000,21958
-2016_2017,003593,Navarro College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003593,Navarro College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2016_2017,003593,Navarro College,Public,Criminal Justice and Corrections.,Associate's Degree,41,19000,20817
-2015_2016,003593,Navarro College,Public,Data Processing.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Data Processing.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Data Processing.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Data Processing.,Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Dental Support Services and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Dental Support Services and Allied Professions.,Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,"Education, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003593,Navarro College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Fine and Studio Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Fine and Studio Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
+2015_2016,003593,Navarro College,Public,Data Processing.,Undergraduate Certificate or Diploma,,,
+2015_2016,003593,Navarro College,Public,Data Processing.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Data Processing.,Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,Data Processing.,Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,Dental Support Services and Allied Professions.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Dental Support Services and Allied Professions.,Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,003593,Navarro College,Public,Design and Applied Arts.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,Design and Applied Arts.,Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,"Education, General.",Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,"Education, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,"Education, General.",Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003593,Navarro College,Public,"Engineering, General.",Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,"Engineering, General.",Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,Fine and Studio Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,003593,Navarro College,Public,Fine and Studio Arts.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Fine and Studio Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,Fine and Studio Arts.,Associate's Degree,,,
 2015_2016,003593,Navarro College,Public,Fire Protection.,Undergraduate Certificate or Diploma,21,5351,5523
-2015_2016,003593,Navarro College,Public,Fire Protection.,Associate's Degree,NA,NA,NA
+2015_2016,003593,Navarro College,Public,Fire Protection.,Associate's Degree,,,
 2016_2017,003593,Navarro College,Public,Fire Protection.,Undergraduate Certificate or Diploma,20,5711,6763
-2016_2017,003593,Navarro College,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003593,Navarro College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,10,NA,15630
-2015_2016,003593,Navarro College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,10,NA,23782
-2016_2017,003593,Navarro College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
+2016_2017,003593,Navarro College,Public,Fire Protection.,Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,Health and Physical Education/Fitness.,Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,003593,Navarro College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,10,,15630
+2015_2016,003593,Navarro College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,10,,23782
+2016_2017,003593,Navarro College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003593,Navarro College,Public,Legal Support Services.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003593,Navarro College,Public,Legal Support Services.,Associate's Degree,,,
 2015_2016,003593,Navarro College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,182,11915,14042
 2016_2017,003593,Navarro College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,243,11000,12470
-2015_2016,003593,Navarro College,Public,Mathematics and Computer Science.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Mathematics and Computer Science.,Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Mathematics.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Mathematics.,Associate's Degree,NA,NA,NA
+2015_2016,003593,Navarro College,Public,Mathematics and Computer Science.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Mathematics and Computer Science.,Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,Mathematics.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Mathematics.,Associate's Degree,,,
 2015_2016,003593,Navarro College,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,21,13750,12811
 2015_2016,003593,Navarro College,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,20,12875,13304
-2016_2017,003593,Navarro College,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,18,NA,9252
+2016_2017,003593,Navarro College,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,18,,9252
 2016_2017,003593,Navarro College,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,21,9500,10492
-2015_2016,003593,Navarro College,Public,Physics.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Physics.,Associate's Degree,NA,NA,NA
-2015_2016,003593,Navarro College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003593,Navarro College,Public,Physics.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Physics.,Associate's Degree,,,
+2015_2016,003593,Navarro College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
 2016_2017,003593,Navarro College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,34,14033,17912
-2015_2016,003593,Navarro College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003593,Navarro College,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,18,NA,12123
-2016_2017,003593,Navarro College,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
+2015_2016,003593,Navarro College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2015_2016,003593,Navarro College,Public,Precision Metal Working.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,18,,12123
+2016_2017,003593,Navarro College,Public,Precision Metal Working.,Associate's Degree,,,
 2015_2016,003593,Navarro College,Public,"Psychology, General.",Associate's Degree,21,14294,16125
 2016_2017,003593,Navarro College,Public,"Psychology, General.",Associate's Degree,37,15000,16607
-2015_2016,003593,Navarro College,Public,Public Health.,Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,Public Health.,Associate's Degree,NA,NA,NA
+2015_2016,003593,Navarro College,Public,Public Health.,Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,Public Health.,Associate's Degree,,,
 2015_2016,003593,Navarro College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,116,18322,20288
 2016_2017,003593,Navarro College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,127,16500,18842
-2016_2017,003593,Navarro College,Public,Sociology.,Associate's Degree,NA,NA,NA
+2016_2017,003593,Navarro College,Public,Sociology.,Associate's Degree,,,
 2015_2016,003593,Navarro College,Public,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,24,9500,13955
-2016_2017,003593,Navarro College,Public,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,12,NA,10411
+2016_2017,003593,Navarro College,Public,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,12,,10411
 2015_2016,003593,Navarro College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,36,11850,15876
 2016_2017,003593,Navarro College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,67,11000,13730
-2015_2016,003593,Navarro College,Public,"Visual and Performing Arts, General.",Associate's Degree,NA,NA,NA
-2016_2017,003593,Navarro College,Public,"Visual and Performing Arts, General.",Associate's Degree,NA,NA,NA
+2015_2016,003593,Navarro College,Public,"Visual and Performing Arts, General.",Associate's Degree,,,
+2016_2017,003593,Navarro College,Public,"Visual and Performing Arts, General.",Associate's Degree,,,

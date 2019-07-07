@@ -1,78 +1,78 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,010014,Garrett College,Public,"Agriculture, Agriculture Operations, and Related Sciences, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Agriculture, Agriculture Operations, and Related Sciences, Other.",Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Business Administration, Management and Operations.",Associate's Degree,13,NA,15054
-2016_2017,010014,Garrett College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,"Business Administration, Management and Operations.",Associate's Degree,10,NA,11822
-2015_2016,010014,Garrett College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Civil Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Electrical, Electronics and Communications Engineering.",Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,"Electrical, Electronics and Communications Engineering.",Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Health and Physical Education/Fitness.,Associate's Degree,15,NA,12393
-2015_2016,010014,Garrett College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Human Services, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,"Human Services, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Information Science/Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,010014,Garrett College,Public,"Agriculture, Agriculture Operations, and Related Sciences, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,"Agriculture, Agriculture Operations, and Related Sciences, Other.",Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,"Business Administration, Management and Operations.",Associate's Degree,13,,15054
+2016_2017,010014,Garrett College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,"Business Administration, Management and Operations.",Associate's Degree,10,,11822
+2015_2016,010014,Garrett College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,"Business/Commerce, General.",Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,Civil Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,"Education, General.",Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,"Education, General.",Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,"Electrical, Electronics and Communications Engineering.",Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,"Electrical, Electronics and Communications Engineering.",Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Health and Physical Education/Fitness.,Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,Health and Physical Education/Fitness.,Associate's Degree,15,,12393
+2015_2016,010014,Garrett College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,"Human Services, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,"Human Services, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Information Science/Studies.,Undergraduate Certificate or Diploma,,,
 2015_2016,010014,Garrett College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,37,12000,13322
 2016_2017,010014,Garrett College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,34,11754,11956
-2015_2016,010014,Garrett College,Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Management Information Systems and Services.,Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Management Information Systems and Services.,Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Parks, Recreation and Leisure Facilities Management.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Parks, Recreation and Leisure Facilities Management.",Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Wildlife and Wildlands Science and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,010014,Garrett College,Public,Wildlife and Wildlands Science and Management.,Associate's Degree,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Wildlife and Wildlands Science and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,010014,Garrett College,Public,Wildlife and Wildlands Science and Management.,Associate's Degree,NA,NA,NA
+2015_2016,010014,Garrett College,Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Management Information Systems and Services.,Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,Management Information Systems and Services.,Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Natural Resources Conservation and Research.,Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,"Parks, Recreation and Leisure Facilities Management.",Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,"Parks, Recreation and Leisure Facilities Management.",Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,010014,Garrett College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Wildlife and Wildlands Science and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,010014,Garrett College,Public,Wildlife and Wildlands Science and Management.,Associate's Degree,,,
+2016_2017,010014,Garrett College,Public,Wildlife and Wildlands Science and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,010014,Garrett College,Public,Wildlife and Wildlands Science and Management.,Associate's Degree,,,

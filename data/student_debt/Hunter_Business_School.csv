@@ -1,10 +1,10 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,022060,Hunter Business School,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,13,NA,7238
-2016_2017,022060,Hunter Business School,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,17,NA,6610
+2015_2016,022060,Hunter Business School,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,13,,7238
+2016_2017,022060,Hunter Business School,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,17,,6610
 2015_2016,022060,Hunter Business School,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,400,8444,7877
 2016_2017,022060,Hunter Business School,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,528,8334,7851
-2015_2016,022060,Hunter Business School,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,022060,Hunter Business School,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,17,NA,23719
+2015_2016,022060,Hunter Business School,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2016_2017,022060,Hunter Business School,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,17,,23719
 2015_2016,022060,Hunter Business School,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,33,5840,5591
 2016_2017,022060,Hunter Business School,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,43,5625,5357
 2015_2016,022060,Hunter Business School,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,86,8619,7643

@@ -1,72 +1,72 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,003768,Washington And Lee University,Private,Accounting and Related Services.,Bachelor's Degree,33,23018,19799
 2016_2017,003768,Washington And Lee University,Private,Accounting and Related Services.,Bachelor's Degree,32,15763,17616
-2015_2016,003768,Washington And Lee University,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,"Biology, General.",Bachelor's Degree,12,NA,17793
-2016_2017,003768,Washington And Lee University,Private,"Biology, General.",Bachelor's Degree,13,NA,14362
+2015_2016,003768,Washington And Lee University,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Area Studies.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,"Biology, General.",Bachelor's Degree,12,,17793
+2016_2017,003768,Washington And Lee University,Private,"Biology, General.",Bachelor's Degree,13,,14362
 2015_2016,003768,Washington And Lee University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,47,21500,19571
 2016_2017,003768,Washington And Lee University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,37,21500,19777
-2015_2016,003768,Washington And Lee University,Private,Chemical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Chemical Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Computer Science.,Bachelor's Degree,10,NA,14639
-2016_2017,003768,Washington And Lee University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003768,Washington And Lee University,Private,Chemical Engineering.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Chemical Engineering.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Computer Science.,Bachelor's Degree,10,,14639
+2016_2017,003768,Washington And Lee University,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,003768,Washington And Lee University,Private,Economics.,Bachelor's Degree,32,21500,19630
 2016_2017,003768,Washington And Lee University,Private,Economics.,Bachelor's Degree,25,19500,18589
-2015_2016,003768,Washington And Lee University,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003768,Washington And Lee University,Private,Engineering Physics.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Engineering Physics.,Bachelor's Degree,,,
 2015_2016,003768,Washington And Lee University,Private,"English Language and Literature, General.",Bachelor's Degree,23,17666,16545
-2016_2017,003768,Washington And Lee University,Private,"English Language and Literature, General.",Bachelor's Degree,17,NA,18021
-2015_2016,003768,Washington And Lee University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,10,NA,16995
-2016_2017,003768,Washington And Lee University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,14,NA,16674
-2015_2016,003768,Washington And Lee University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,003768,Washington And Lee University,Private,"English Language and Literature, General.",Bachelor's Degree,17,,18021
+2015_2016,003768,Washington And Lee University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,10,,16995
+2016_2017,003768,Washington And Lee University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,14,,16674
+2015_2016,003768,Washington And Lee University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,003768,Washington And Lee University,Private,History.,Bachelor's Degree,20,19667,17739
-2016_2017,003768,Washington And Lee University,Private,History.,Bachelor's Degree,18,NA,14683
-2015_2016,003768,Washington And Lee University,Private,Journalism.,Bachelor's Degree,17,NA,19018
-2016_2017,003768,Washington And Lee University,Private,Journalism.,Bachelor's Degree,16,NA,19673
+2016_2017,003768,Washington And Lee University,Private,History.,Bachelor's Degree,18,,14683
+2015_2016,003768,Washington And Lee University,Private,Journalism.,Bachelor's Degree,17,,19018
+2016_2017,003768,Washington And Lee University,Private,Journalism.,Bachelor's Degree,16,,19673
 2015_2016,003768,Washington And Lee University,Private,Law.,First Professional Degree,202,117370,106682
 2016_2017,003768,Washington And Lee University,Private,Law.,First Professional Degree,146,97276,99743
-2015_2016,003768,Washington And Lee University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Mathematics.,Bachelor's Degree,13,NA,19143
-2016_2017,003768,Washington And Lee University,Private,Mathematics.,Bachelor's Degree,13,NA,18924
-2015_2016,003768,Washington And Lee University,Private,Medieval and Renaissance Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Medieval and Renaissance Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,11,NA,20416
-2016_2017,003768,Washington And Lee University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003768,Washington And Lee University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Mathematics.,Bachelor's Degree,13,,19143
+2016_2017,003768,Washington And Lee University,Private,Mathematics.,Bachelor's Degree,13,,18924
+2015_2016,003768,Washington And Lee University,Private,Medieval and Renaissance Studies.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Medieval and Renaissance Studies.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Music.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Music.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,11,,20416
+2016_2017,003768,Washington And Lee University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Physics.,Bachelor's Degree,,,
 2015_2016,003768,Washington And Lee University,Private,Political Science and Government.,Bachelor's Degree,26,18994,18583
 2016_2017,003768,Washington And Lee University,Private,Political Science and Government.,Bachelor's Degree,27,14000,15756
-2015_2016,003768,Washington And Lee University,Private,"Psychology, General.",Bachelor's Degree,12,NA,20626
-2016_2017,003768,Washington And Lee University,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Research and Experimental Psychology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003768,Washington And Lee University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,16,NA,20761
-2016_2017,003768,Washington And Lee University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,14,NA,20821
-2015_2016,003768,Washington And Lee University,Private,Sociology and Anthropology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003768,Washington And Lee University,Private,Sociology and Anthropology.,Bachelor's Degree,NA,NA,NA
+2015_2016,003768,Washington And Lee University,Private,"Psychology, General.",Bachelor's Degree,12,,20626
+2016_2017,003768,Washington And Lee University,Private,"Psychology, General.",Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Research and Experimental Psychology.,Bachelor's Degree,,,
+2015_2016,003768,Washington And Lee University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,16,,20761
+2016_2017,003768,Washington And Lee University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,14,,20821
+2015_2016,003768,Washington And Lee University,Private,Sociology and Anthropology.,Bachelor's Degree,,,
+2016_2017,003768,Washington And Lee University,Private,Sociology and Anthropology.,Bachelor's Degree,,,

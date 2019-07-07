@@ -1,111 +1,111 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002883,Utica College,Private,Accounting and Related Services.,Bachelor's Degree,12,NA,23681
-2015_2016,002883,Utica College,Private,Accounting and Related Services.,Master's Degree,13,NA,20818
-2016_2017,002883,Utica College,Private,Accounting and Related Services.,Bachelor's Degree,12,NA,19428
-2016_2017,002883,Utica College,Private,Accounting and Related Services.,Master's Degree,13,NA,23237
-2015_2016,002883,Utica College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,002883,Utica College,Private,Accounting and Related Services.,Bachelor's Degree,12,,23681
+2015_2016,002883,Utica College,Private,Accounting and Related Services.,Master's Degree,13,,20818
+2016_2017,002883,Utica College,Private,Accounting and Related Services.,Bachelor's Degree,12,,19428
+2016_2017,002883,Utica College,Private,Accounting and Related Services.,Master's Degree,13,,23237
+2015_2016,002883,Utica College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
 2015_2016,002883,Utica College,Private,"Biology, General.",Bachelor's Degree,34,24373,23440
 2016_2017,002883,Utica College,Private,"Biology, General.",Bachelor's Degree,28,22223,22054
 2015_2016,002883,Utica College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,30,25000,24315
 2016_2017,002883,Utica College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,28,24103,23060
-2016_2017,002883,Utica College,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Business/Managerial Economics.,Bachelor's Degree,11,NA,23994
-2016_2017,002883,Utica College,Private,Business/Managerial Economics.,Bachelor's Degree,12,NA,21738
-2015_2016,002883,Utica College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Communication and Media Studies.,Bachelor's Degree,17,NA,26923
-2016_2017,002883,Utica College,Private,Communication and Media Studies.,Bachelor's Degree,NA,25500,26102
-2015_2016,002883,Utica College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Construction Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Construction Management.,Bachelor's Degree,11,NA,26909
-2015_2016,002883,Utica College,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002883,Utica College,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,002883,Utica College,Private,Business/Managerial Economics.,Bachelor's Degree,11,,23994
+2016_2017,002883,Utica College,Private,Business/Managerial Economics.,Bachelor's Degree,12,,21738
+2015_2016,002883,Utica College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Communication and Media Studies.,Bachelor's Degree,17,,26923
+2016_2017,002883,Utica College,Private,Communication and Media Studies.,Bachelor's Degree,,25500,26102
+2015_2016,002883,Utica College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Construction Management.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Construction Management.,Bachelor's Degree,11,,26909
+2015_2016,002883,Utica College,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2015_2016,002883,Utica College,Private,Criminal Justice and Corrections.,Bachelor's Degree,98,26000,24853
 2015_2016,002883,Utica College,Private,Criminal Justice and Corrections.,Master's Degree,93,37375,34708
-2016_2017,002883,Utica College,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,16,NA,8239
+2016_2017,002883,Utica College,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,16,,8239
 2016_2017,002883,Utica College,Private,Criminal Justice and Corrections.,Bachelor's Degree,82,26000,24287
-2016_2017,002883,Utica College,Private,Criminal Justice and Corrections.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002883,Utica College,Private,Criminal Justice and Corrections.,Post-baccalaureate Certificate,,,
 2016_2017,002883,Utica College,Private,Criminal Justice and Corrections.,Master's Degree,99,35022,33103
-2015_2016,002883,Utica College,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002883,Utica College,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Educational Administration and Supervision.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002883,Utica College,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,"English Language and Literature, General.",Bachelor's Degree,17,NA,26088
+2015_2016,002883,Utica College,Private,Economics.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Economics.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Educational Administration and Supervision.,Post-baccalaureate Certificate,,,
+2015_2016,002883,Utica College,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,002883,Utica College,Private,Educational Administration and Supervision.,Post-baccalaureate Certificate,,,
+2016_2017,002883,Utica College,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,002883,Utica College,Private,"English Language and Literature, General.",Bachelor's Degree,17,,26088
 2016_2017,002883,Utica College,Private,"English Language and Literature, General.",Bachelor's Degree,22,20250,20578
-2016_2017,002883,Utica College,Private,Finance and Financial Management Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002883,Utica College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Gerontology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002883,Utica College,Private,Gerontology.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002883,Utica College,Private,Gerontology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002883,Utica College,Private,Gerontology.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002883,Utica College,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002883,Utica College,Private,Finance and Financial Management Services.,Post-baccalaureate Certificate,,,
+2015_2016,002883,Utica College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Gerontology.,Undergraduate Certificate or Diploma,,,
+2015_2016,002883,Utica College,Private,Gerontology.,Post-baccalaureate Certificate,,,
+2016_2017,002883,Utica College,Private,Gerontology.,Undergraduate Certificate or Diploma,,,
+2016_2017,002883,Utica College,Private,Gerontology.,Post-baccalaureate Certificate,,,
+2015_2016,002883,Utica College,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Health and Medical Administrative Services.,Post-baccalaureate Certificate,,,
 2015_2016,002883,Utica College,Private,Health and Medical Administrative Services.,Master's Degree,99,42064,40629
-2016_2017,002883,Utica College,Private,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002883,Utica College,Private,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Health and Medical Administrative Services.,Post-baccalaureate Certificate,,,
 2016_2017,002883,Utica College,Private,Health and Medical Administrative Services.,Master's Degree,96,41000,37613
 2015_2016,002883,Utica College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,71,25000,23854
 2016_2017,002883,Utica College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,71,25000,24601
-2015_2016,002883,Utica College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,History.,Bachelor's Degree,NA,NA,27321
-2016_2017,002883,Utica College,Private,History.,Bachelor's Degree,NA,NA,NA
+2015_2016,002883,Utica College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,History.,Bachelor's Degree,,,27321
+2016_2017,002883,Utica College,Private,History.,Bachelor's Degree,,,
 2015_2016,002883,Utica College,Private,Homeland Security.,Bachelor's Degree,113,23500,22940
 2015_2016,002883,Utica College,Private,Homeland Security.,Master's Degree,151,36928,36901
 2016_2017,002883,Utica College,Private,Homeland Security.,Bachelor's Degree,119,25000,23336
 2016_2017,002883,Utica College,Private,Homeland Security.,Master's Degree,179,36190,36607
-2015_2016,002883,Utica College,Private,Insurance.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Insurance.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Journalism.,Bachelor's Degree,NA,NA,NA
+2015_2016,002883,Utica College,Private,Insurance.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Insurance.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,International/Global Studies.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,International/Global Studies.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Journalism.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Journalism.,Bachelor's Degree,,,
 2015_2016,002883,Utica College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,38,21750,23698
-2015_2016,002883,Utica College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
+2015_2016,002883,Utica College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
 2016_2017,002883,Utica College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,25,21500,23096
-2016_2017,002883,Utica College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2016_2017,002883,Utica College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2015_2016,002883,Utica College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Physics.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,002883,Utica College,Private,"Psychology, General.",Bachelor's Degree,38,26997,24126
 2016_2017,002883,Utica College,Private,"Psychology, General.",Bachelor's Degree,34,25000,23630
 2015_2016,002883,Utica College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,30,27000,25249
 2016_2017,002883,Utica College,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,22,27371,27953
 2015_2016,002883,Utica College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,330,22499,22099
 2016_2017,002883,Utica College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,391,22980,22379
-2015_2016,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,29842
+2015_2016,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,29842
 2015_2016,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,113,43500,50354
-2015_2016,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,27850,38952
-2015_2016,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
+2015_2016,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,27850,38952
+2015_2016,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2016_2017,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
 2016_2017,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,109,48500,54538
-2016_2017,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,27991,41323
-2016_2017,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
+2016_2017,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,27991,41323
+2016_2017,002883,Utica College,Private,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
 2015_2016,002883,Utica College,Private,Research and Experimental Psychology.,Bachelor's Degree,27,26000,25521
-2016_2017,002883,Utica College,Private,Research and Experimental Psychology.,Bachelor's Degree,NA,25000,25227
-2015_2016,002883,Utica College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,Special Education and Teaching.,Master's Degree,15,NA,41583
-2016_2017,002883,Utica College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Special Education and Teaching.,Master's Degree,17,NA,43472
-2015_2016,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,17,NA,20824
-2015_2016,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,52518
+2016_2017,002883,Utica College,Private,Research and Experimental Psychology.,Bachelor's Degree,,25000,25227
+2015_2016,002883,Utica College,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,002883,Utica College,Private,Special Education and Teaching.,Master's Degree,15,,41583
+2016_2017,002883,Utica College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Special Education and Teaching.,Master's Degree,17,,43472
+2015_2016,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,17,,20824
+2015_2016,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,52518
 2016_2017,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,21,20500,22143
-2016_2017,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,23447
-2015_2016,002883,Utica College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2016_2017,002883,Utica College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
+2016_2017,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,23447
+2015_2016,002883,Utica College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2016_2017,002883,Utica College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,

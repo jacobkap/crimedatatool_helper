@@ -1,43 +1,43 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Business Administration, Management and Operations.",Bachelor's Degree,12,NA,6870
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Business Operations Support and Assistant Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Business Operations Support and Assistant Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Business Administration, Management and Operations.",Bachelor's Degree,12,,6870
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Business Operations Support and Assistant Services.,Bachelor's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Business Operations Support and Assistant Services.,Bachelor's Degree,,,
 2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,39,4500,5403
 2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,21,5500,5362
 2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Criminal Justice and Corrections.,Bachelor's Degree,33,4500,6542
 2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Criminal Justice and Corrections.,Bachelor's Degree,22,4750,6230
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Finance and Financial Management Services.,Associate's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Finance and Financial Management Services.,Bachelor's Degree,10,NA,6191
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Finance and Financial Management Services.,Associate's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Graphic Communications.,Bachelor's Degree,NA,NA,4344
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Design and Applied Arts.,Associate's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Design and Applied Arts.,Associate's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Education, General.",Associate's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Education, General.",Associate's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Finance and Financial Management Services.,Associate's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Finance and Financial Management Services.,Bachelor's Degree,10,,6191
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Finance and Financial Management Services.,Associate's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Graphic Communications.,Bachelor's Degree,,,4344
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Graphic Communications.,Bachelor's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Hospitality Administration/Management.,Associate's Degree,,,
 2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Hospitality Administration/Management.,Bachelor's Degree,33,5500,7151
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Hospitality Administration/Management.,Associate's Degree,NA,NA,NA
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Hospitality Administration/Management.,Associate's Degree,,,
 2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Hospitality Administration/Management.,Bachelor's Degree,22,8166,8556
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,18,NA,5821
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,16,NA,5267
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,14,NA,5136
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,12,NA,5215
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Special Education and Teaching.,Associate's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Special Education and Teaching.,Associate's Degree,NA,NA,NA
-2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,18,,5821
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,16,,5267
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,14,,5136
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,12,,5215
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,Special Education and Teaching.,Associate's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,Special Education and Teaching.,Associate's Degree,,,
+2015_2016,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,030160,University of Puerto Rico Carolina Regional Colleg,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

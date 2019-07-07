@@ -1,475 +1,475 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,001626,University of Idaho,Public,Accounting and Related Services.,Bachelor's Degree,47,31000,31174
-2015_2016,001626,University of Idaho,Public,Accounting and Related Services.,Master's Degree,19,NA,23965
+2015_2016,001626,University of Idaho,Public,Accounting and Related Services.,Master's Degree,19,,23965
 2016_2017,001626,University of Idaho,Public,Accounting and Related Services.,Bachelor's Degree,52,27000,25976
 2016_2017,001626,University of Idaho,Public,Accounting and Related Services.,Master's Degree,25,20500,27260
 2015_2016,001626,University of Idaho,Public,Agricultural Business and Management.,Bachelor's Degree,23,15000,17654
-2015_2016,001626,University of Idaho,Public,Agricultural Business and Management.,Master's Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Agricultural Business and Management.,Master's Degree,,,
 2016_2017,001626,University of Idaho,Public,Agricultural Business and Management.,Bachelor's Degree,29,15000,17453
-2016_2017,001626,University of Idaho,Public,Agricultural Business and Management.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Agricultural Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Agricultural Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Agricultural Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Agricultural Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Agricultural Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Agricultural Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Agricultural Mechanization.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Agricultural Mechanization.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Agricultural Production Operations.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Agricultural Production Operations.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Agricultural Production Operations.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Agricultural Production Operations.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Agricultural Public Services.,Bachelor's Degree,16,NA,22006
-2016_2017,001626,University of Idaho,Public,Agricultural Public Services.,Bachelor's Degree,17,NA,24517
-2015_2016,001626,University of Idaho,Public,"Agriculture, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Agriculture, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,73810
-2015_2016,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,15,NA,79377
-2016_2017,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Doctoral Degree,NA,NA,54403
-2016_2017,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Agricultural Business and Management.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Agricultural Engineering.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Agricultural Engineering.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Agricultural Engineering.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Agricultural Engineering.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Agricultural Engineering.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Agricultural Engineering.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Agricultural Mechanization.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Agricultural Mechanization.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Agricultural Production Operations.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Agricultural Production Operations.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Agricultural Production Operations.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Agricultural Production Operations.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Agricultural Public Services.,Bachelor's Degree,16,,22006
+2016_2017,001626,University of Idaho,Public,Agricultural Public Services.,Bachelor's Degree,17,,24517
+2015_2016,001626,University of Idaho,Public,"Agriculture, General.",Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Agriculture, General.",Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,,,73810
+2015_2016,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,,,
+2016_2017,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,15,,79377
+2016_2017,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Doctoral Degree,,,54403
+2016_2017,001626,University of Idaho,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,,,
 2015_2016,001626,University of Idaho,Public,Animal Sciences.,Bachelor's Degree,52,20180,22238
-2015_2016,001626,University of Idaho,Public,Animal Sciences.,Master's Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Animal Sciences.,Master's Degree,,,
 2016_2017,001626,University of Idaho,Public,Animal Sciences.,Bachelor's Degree,48,23500,23353
-2016_2017,001626,University of Idaho,Public,Animal Sciences.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Anthropology.,Bachelor's Degree,18,NA,26249
-2015_2016,001626,University of Idaho,Public,Anthropology.,Master's Degree,11,NA,51942
-2016_2017,001626,University of Idaho,Public,Anthropology.,Bachelor's Degree,NA,NA,27131
-2016_2017,001626,University of Idaho,Public,Anthropology.,Master's Degree,10,NA,33692
-2015_2016,001626,University of Idaho,Public,Apparel and Textiles.,Bachelor's Degree,17,NA,25279
-2016_2017,001626,University of Idaho,Public,Apparel and Textiles.,Bachelor's Degree,17,NA,24170
-2016_2017,001626,University of Idaho,Public,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Animal Sciences.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Anthropology.,Bachelor's Degree,18,,26249
+2015_2016,001626,University of Idaho,Public,Anthropology.,Master's Degree,11,,51942
+2016_2017,001626,University of Idaho,Public,Anthropology.,Bachelor's Degree,,,27131
+2016_2017,001626,University of Idaho,Public,Anthropology.,Master's Degree,10,,33692
+2015_2016,001626,University of Idaho,Public,Apparel and Textiles.,Bachelor's Degree,17,,25279
+2016_2017,001626,University of Idaho,Public,Apparel and Textiles.,Bachelor's Degree,17,,24170
+2016_2017,001626,University of Idaho,Public,Applied Horticulture and Horticultural Business Services.,Bachelor's Degree,,,
 2015_2016,001626,University of Idaho,Public,Applied Mathematics.,Bachelor's Degree,22,22500,21802
-2016_2017,001626,University of Idaho,Public,Applied Mathematics.,Bachelor's Degree,13,NA,20619
-2015_2016,001626,University of Idaho,Public,Archeology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Archeology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Archeology.,Bachelor's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Applied Mathematics.,Bachelor's Degree,13,,20619
+2015_2016,001626,University of Idaho,Public,Archeology.,Undergraduate Certificate or Diploma,,,
+2016_2017,001626,University of Idaho,Public,Archeology.,Undergraduate Certificate or Diploma,,,
+2016_2017,001626,University of Idaho,Public,Archeology.,Bachelor's Degree,,,
 2015_2016,001626,University of Idaho,Public,Architecture.,Bachelor's Degree,34,27000,29299
 2015_2016,001626,University of Idaho,Public,Architecture.,Master's Degree,38,41000,40579
 2016_2017,001626,University of Idaho,Public,Architecture.,Bachelor's Degree,25,27000,30081
 2016_2017,001626,University of Idaho,Public,Architecture.,Master's Degree,34,32471,34230
-2015_2016,001626,University of Idaho,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Area Studies.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
 2015_2016,001626,University of Idaho,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,22,18925,20999
-2015_2016,001626,University of Idaho,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,22,23207,26707
-2016_2017,001626,University of Idaho,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Biological/Biosystems Engineering.,Doctoral Degree,,,
 2015_2016,001626,University of Idaho,Public,"Biology, General.",Bachelor's Degree,45,21970,20646
-2015_2016,001626,University of Idaho,Public,"Biology, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,"Biology, General.",Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,"Biology, General.",Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Biology, General.",Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,"Biology, General.",Bachelor's Degree,62,25875,23427
-2016_2017,001626,University of Idaho,Public,"Biology, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Biotechnology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,"Biology, General.",Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,"Biology, General.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Biology, General.",Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Biotechnology.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,001626,University of Idaho,Public,"Business Administration, Management and Operations.",Bachelor's Degree,56,25000,25042
-2015_2016,001626,University of Idaho,Public,"Business Administration, Management and Operations.",Master's Degree,13,NA,45555
-2016_2017,001626,University of Idaho,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,"Business Administration, Management and Operations.",Master's Degree,13,,45555
+2016_2017,001626,University of Idaho,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,001626,University of Idaho,Public,"Business Administration, Management and Operations.",Bachelor's Degree,51,25000,24749
-2016_2017,001626,University of Idaho,Public,"Business Administration, Management and Operations.",Master's Degree,17,NA,51781
-2015_2016,001626,University of Idaho,Public,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,"Business Administration, Management and Operations.",Master's Degree,17,,51781
+2015_2016,001626,University of Idaho,Public,"Business/Commerce, General.",Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Business/Commerce, General.",Bachelor's Degree,,,
 2015_2016,001626,University of Idaho,Public,Business/Managerial Economics.,Bachelor's Degree,20,13615,14940
 2016_2017,001626,University of Idaho,Public,Business/Managerial Economics.,Bachelor's Degree,24,21500,22757
 2015_2016,001626,University of Idaho,Public,Chemical Engineering.,Bachelor's Degree,23,27000,25965
-2015_2016,001626,University of Idaho,Public,Chemical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Chemical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Chemical Engineering.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Chemical Engineering.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Chemical Engineering.,Bachelor's Degree,32,26991,25814
-2016_2017,001626,University of Idaho,Public,Chemical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Chemical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Chemistry.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Chemistry.,Doctoral Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Chemical Engineering.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Chemical Engineering.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Chemistry.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Chemistry.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Chemistry.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Chemistry.,Bachelor's Degree,24,21097,23147
-2016_2017,001626,University of Idaho,Public,Chemistry.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Chemistry.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Chemistry.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Chemistry.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Graduate/Professional Certificate,,,
+2016_2017,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"City/Urban, Community and Regional Planning.",Graduate/Professional Certificate,,,
 2015_2016,001626,University of Idaho,Public,Civil Engineering.,Bachelor's Degree,34,27500,27361
-2015_2016,001626,University of Idaho,Public,Civil Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Civil Engineering.,Master's Degree,11,NA,43463
-2015_2016,001626,University of Idaho,Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Civil Engineering.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Civil Engineering.,Master's Degree,11,,43463
+2015_2016,001626,University of Idaho,Public,Civil Engineering.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Civil Engineering.,Bachelor's Degree,29,25759,23542
-2016_2017,001626,University of Idaho,Public,Civil Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Civil Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Computer Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Computer Engineering.,Master's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Civil Engineering.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Civil Engineering.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Civil Engineering.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Computer Engineering.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Computer Engineering.,Master's Degree,,,
 2015_2016,001626,University of Idaho,Public,Computer Science.,Bachelor's Degree,34,29884,30050
-2015_2016,001626,University of Idaho,Public,Computer Science.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Computer Science.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Computer Science.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Computer Science.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Computer Science.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Computer Science.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Computer Science.,Bachelor's Degree,24,22875,27440
-2016_2017,001626,University of Idaho,Public,Computer Science.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Computer Science.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Computer Science.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Curriculum and Instruction.,Master's Degree,14,NA,31562
-2015_2016,001626,University of Idaho,Public,Curriculum and Instruction.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Curriculum and Instruction.,Master's Degree,14,NA,31850
-2016_2017,001626,University of Idaho,Public,Curriculum and Instruction.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Dance.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Dance.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Design and Applied Arts.,Bachelor's Degree,12,NA,19328
-2016_2017,001626,University of Idaho,Public,Design and Applied Arts.,Bachelor's Degree,11,NA,27365
-2015_2016,001626,University of Idaho,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,18,NA,17327
-2015_2016,001626,University of Idaho,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Computer Science.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Computer Science.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Computer Science.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Computer Software and Media Applications.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Computer Software and Media Applications.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Curriculum and Instruction.,Master's Degree,14,,31562
+2015_2016,001626,University of Idaho,Public,Curriculum and Instruction.,Graduate/Professional Certificate,,,
+2016_2017,001626,University of Idaho,Public,Curriculum and Instruction.,Master's Degree,14,,31850
+2016_2017,001626,University of Idaho,Public,Curriculum and Instruction.,Graduate/Professional Certificate,,,
+2015_2016,001626,University of Idaho,Public,Dance.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Dance.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Design and Applied Arts.,Bachelor's Degree,12,,19328
+2016_2017,001626,University of Idaho,Public,Design and Applied Arts.,Bachelor's Degree,11,,27365
+2015_2016,001626,University of Idaho,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,18,,17327
+2015_2016,001626,University of Idaho,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,,,
 2016_2017,001626,University of Idaho,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,21,17500,19859
-2016_2017,001626,University of Idaho,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,11,NA,43225
-2015_2016,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,26489
-2016_2017,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Education, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Education, General.",Doctoral Degree,10,NA,56335
-2015_2016,001626,University of Idaho,Public,"Education, General.",First Professional Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Education, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Education, General.",Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Education, General.",First Professional Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Drama/Theatre Arts and Stagecraft.,Master's Degree,11,,43225
+2015_2016,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,26489
+2016_2017,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Ecology, Evolution, Systematics, and Population Biology.",Graduate/Professional Certificate,,,
+2015_2016,001626,University of Idaho,Public,Economics.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Economics.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Education, General.",Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Education, General.",Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Education, General.",Doctoral Degree,10,,56335
+2015_2016,001626,University of Idaho,Public,"Education, General.",First Professional Degree,,,
+2016_2017,001626,University of Idaho,Public,"Education, General.",Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Education, General.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Education, General.",Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,"Education, General.",First Professional Degree,,,
 2015_2016,001626,University of Idaho,Public,Educational Administration and Supervision.,Master's Degree,50,28699,38238
-2015_2016,001626,University of Idaho,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
 2016_2017,001626,University of Idaho,Public,Educational Administration and Supervision.,Master's Degree,63,29927,38674
-2016_2017,001626,University of Idaho,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Electrical Engineering Technologies/Technicians.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Electrical Engineering Technologies/Technicians.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2015_2016,001626,University of Idaho,Public,Electrical Engineering Technologies/Technicians.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Electrical Engineering Technologies/Technicians.,Post-baccalaureate Certificate,,,
 2015_2016,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,36,28774,26740
-2015_2016,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,42,28774,28653
-2016_2017,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Engineering, Other.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Engineering, Other.",Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,23396
-2015_2016,001626,University of Idaho,Public,"English Language and Literature, General.",Master's Degree,11,NA,44526
-2016_2017,001626,University of Idaho,Public,"English Language and Literature, General.",Bachelor's Degree,18,NA,26607
-2016_2017,001626,University of Idaho,Public,"English Language and Literature, General.",Master's Degree,10,NA,52154
-2016_2017,001626,University of Idaho,Public,Environmental Design.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Environmental/Environmental Health Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Environmental/Environmental Health Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Family and Consumer Economics and Related Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Family and Consumer Economics and Related Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Engineering, General.",Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Engineering, Other.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Engineering, Other.",Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,"English Language and Literature, General.",Bachelor's Degree,,,23396
+2015_2016,001626,University of Idaho,Public,"English Language and Literature, General.",Master's Degree,11,,44526
+2016_2017,001626,University of Idaho,Public,"English Language and Literature, General.",Bachelor's Degree,18,,26607
+2016_2017,001626,University of Idaho,Public,"English Language and Literature, General.",Master's Degree,10,,52154
+2016_2017,001626,University of Idaho,Public,Environmental Design.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Environmental/Environmental Health Engineering.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Environmental/Environmental Health Engineering.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Family and Consumer Economics and Related Studies.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Family and Consumer Economics and Related Studies.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Film/Video and Photographic Arts.,Bachelor's Degree,,,
 2015_2016,001626,University of Idaho,Public,Finance and Financial Management Services.,Bachelor's Degree,46,22875,22222
 2016_2017,001626,University of Idaho,Public,Finance and Financial Management Services.,Bachelor's Degree,53,23750,21634
 2015_2016,001626,University of Idaho,Public,Fine and Studio Arts.,Bachelor's Degree,24,22357,23494
-2015_2016,001626,University of Idaho,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Fine and Studio Arts.,Master's Degree,,,
 2016_2017,001626,University of Idaho,Public,Fine and Studio Arts.,Bachelor's Degree,29,25000,27551
-2016_2017,001626,University of Idaho,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Fire Protection.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Fishing and Fisheries Sciences and Management.,Bachelor's Degree,19,NA,18917
-2015_2016,001626,University of Idaho,Public,Fishing and Fisheries Sciences and Management.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Fishing and Fisheries Sciences and Management.,Bachelor's Degree,19,NA,25253
-2016_2017,001626,University of Idaho,Public,Fishing and Fisheries Sciences and Management.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Food Science and Technology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Food Science and Technology.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Food Science and Technology.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Food Science and Technology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Food Science and Technology.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Food Science and Technology.,Doctoral Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Fine and Studio Arts.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Fire Protection.,Undergraduate Certificate or Diploma,,,
+2015_2016,001626,University of Idaho,Public,Fishing and Fisheries Sciences and Management.,Bachelor's Degree,19,,18917
+2015_2016,001626,University of Idaho,Public,Fishing and Fisheries Sciences and Management.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Fishing and Fisheries Sciences and Management.,Bachelor's Degree,19,,25253
+2016_2017,001626,University of Idaho,Public,Fishing and Fisheries Sciences and Management.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Food Science and Technology.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Food Science and Technology.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Food Science and Technology.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Food Science and Technology.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Food Science and Technology.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Food Science and Technology.,Doctoral Degree,,,
 2015_2016,001626,University of Idaho,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,53,28500,28727
 2016_2017,001626,University of Idaho,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,49,28500,29182
 2015_2016,001626,University of Idaho,Public,Forestry.,Bachelor's Degree,31,27000,26419
-2015_2016,001626,University of Idaho,Public,Forestry.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Forestry.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Forestry.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Forestry.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Forestry.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Forestry.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Forestry.,Bachelor's Degree,37,26467,26003
-2016_2017,001626,University of Idaho,Public,Forestry.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Forestry.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Forestry.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Geography and Cartography.,Bachelor's Degree,12,NA,29776
-2015_2016,001626,University of Idaho,Public,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Geography and Cartography.,Bachelor's Degree,NA,NA,22643
-2016_2017,001626,University of Idaho,Public,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Forestry.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Forestry.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Forestry.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,,,
+2015_2016,001626,University of Idaho,Public,Geography and Cartography.,Bachelor's Degree,12,,29776
+2015_2016,001626,University of Idaho,Public,Geography and Cartography.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Geography and Cartography.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Geography and Cartography.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,,,
+2016_2017,001626,University of Idaho,Public,Geography and Cartography.,Bachelor's Degree,,,22643
+2016_2017,001626,University of Idaho,Public,Geography and Cartography.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Geography and Cartography.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Geography and Cartography.,Doctoral Degree,,,
 2015_2016,001626,University of Idaho,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,20,21150,20677
-2015_2016,001626,University of Idaho,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,23,21500,21547
-2016_2017,001626,University of Idaho,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Geological/Geophysical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Geological/Geophysical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Graphic Communications.,Bachelor's Degree,NA,26828,25266
-2016_2017,001626,University of Idaho,Public,Graphic Communications.,Bachelor's Degree,NA,26863,26476
-2015_2016,001626,University of Idaho,Public,Health and Physical Education/Fitness.,Bachelor's Degree,NA,23343,22170
-2016_2017,001626,University of Idaho,Public,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Geological and Earth Sciences/Geosciences.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Geological/Geophysical Engineering.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Geological/Geophysical Engineering.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Graphic Communications.,Bachelor's Degree,,26828,25266
+2016_2017,001626,University of Idaho,Public,Graphic Communications.,Bachelor's Degree,,26863,26476
+2015_2016,001626,University of Idaho,Public,Health and Physical Education/Fitness.,Bachelor's Degree,,23343,22170
+2016_2017,001626,University of Idaho,Public,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
 2016_2017,001626,University of Idaho,Public,Health and Physical Education/Fitness.,Bachelor's Degree,62,23446,22675
 2015_2016,001626,University of Idaho,Public,History.,Bachelor's Degree,26,24261,25427
-2015_2016,001626,University of Idaho,Public,History.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,History.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,History.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,History.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,History.,Bachelor's Degree,22,25750,29347
-2016_2017,001626,University of Idaho,Public,History.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,History.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Homeland Security.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Homeland Security.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,History.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,History.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Homeland Security.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Homeland Security.,Post-baccalaureate Certificate,,,
 2015_2016,001626,University of Idaho,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,46,27125,29646
 2016_2017,001626,University of Idaho,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,57,27250,27905
 2015_2016,001626,University of Idaho,Public,Human Resources Management and Services.,Bachelor's Degree,52,20817,22398
-2015_2016,001626,University of Idaho,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Human Resources Management and Services.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Human Resources Management and Services.,Graduate/Professional Certificate,,,
 2016_2017,001626,University of Idaho,Public,Human Resources Management and Services.,Bachelor's Degree,45,24500,23134
-2016_2017,001626,University of Idaho,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Human Resources Management and Services.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Industrial Production Technologies/Technicians.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Industrial Production Technologies/Technicians.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Intercultural/Multicultural and Diversity Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,NA,25625,26547
-2016_2017,001626,University of Idaho,Public,Intercultural/Multicultural and Diversity Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,NA,25000,25675
-2015_2016,001626,University of Idaho,Public,Interior Architecture.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Interior Architecture.,Bachelor's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Human Resources Management and Services.,Graduate/Professional Certificate,,,
+2015_2016,001626,University of Idaho,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Industrial Production Technologies/Technicians.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Industrial Production Technologies/Technicians.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Intercultural/Multicultural and Diversity Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,001626,University of Idaho,Public,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,,25625,26547
+2016_2017,001626,University of Idaho,Public,Intercultural/Multicultural and Diversity Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,001626,University of Idaho,Public,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,,25000,25675
+2015_2016,001626,University of Idaho,Public,Interior Architecture.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Interior Architecture.,Bachelor's Degree,,,
 2015_2016,001626,University of Idaho,Public,International Relations and National Security Studies.,Bachelor's Degree,33,27000,27767
 2016_2017,001626,University of Idaho,Public,International Relations and National Security Studies.,Bachelor's Degree,44,22670,24017
-2015_2016,001626,University of Idaho,Public,Journalism.,Bachelor's Degree,14,NA,22156
-2016_2017,001626,University of Idaho,Public,Journalism.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Landscape Architecture.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Landscape Architecture.,Master's Degree,11,NA,41525
-2016_2017,001626,University of Idaho,Public,Landscape Architecture.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Landscape Architecture.,Master's Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Journalism.,Bachelor's Degree,14,,22156
+2016_2017,001626,University of Idaho,Public,Journalism.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Landscape Architecture.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Landscape Architecture.,Master's Degree,11,,41525
+2016_2017,001626,University of Idaho,Public,Landscape Architecture.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Landscape Architecture.,Master's Degree,,,
 2015_2016,001626,University of Idaho,Public,Law.,First Professional Degree,185,83266,84753
 2016_2017,001626,University of Idaho,Public,Law.,First Professional Degree,193,85550,88218
 2015_2016,001626,University of Idaho,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,70,25350,24352
-2015_2016,001626,University of Idaho,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
 2016_2017,001626,University of Idaho,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,71,26000,27213
-2016_2017,001626,University of Idaho,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Management Information Systems and Services.,Bachelor's Degree,16,NA,29398
-2016_2017,001626,University of Idaho,Public,Management Information Systems and Services.,Bachelor's Degree,14,NA,30289
+2016_2017,001626,University of Idaho,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Management Information Systems and Services.,Bachelor's Degree,16,,29398
+2016_2017,001626,University of Idaho,Public,Management Information Systems and Services.,Bachelor's Degree,14,,30289
 2015_2016,001626,University of Idaho,Public,Marketing.,Bachelor's Degree,72,23750,23965
 2016_2017,001626,University of Idaho,Public,Marketing.,Bachelor's Degree,69,25000,24686
-2015_2016,001626,University of Idaho,Public,Materials Engineering,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Materials Engineering,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Materials Engineering,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Materials Engineering,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Materials Engineering,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Materials Engineering,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Materials Engineering,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Materials Engineering,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Materials Engineering,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Materials Engineering,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Materials Engineering,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Materials Engineering,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Materials Engineering,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Materials Engineering,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Materials Engineering,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Materials Engineering,Doctoral Degree,,,
 2015_2016,001626,University of Idaho,Public,Mathematics.,Bachelor's Degree,20,22000,24692
-2015_2016,001626,University of Idaho,Public,Mathematics.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Mathematics.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Mathematics.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Mathematics.,Bachelor's Degree,20,22000,26918
-2016_2017,001626,University of Idaho,Public,Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Mathematics.,Doctoral Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Mathematics.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Mathematics.,Doctoral Degree,,,
 2015_2016,001626,University of Idaho,Public,Mechanical Engineering.,Bachelor's Degree,94,22535,24011
-2015_2016,001626,University of Idaho,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Mechanical Engineering.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Mechanical Engineering.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Mechanical Engineering.,Bachelor's Degree,99,25250,24090
-2016_2017,001626,University of Idaho,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Medicine.,First Professional Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Medicine.,First Professional Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Metallurgical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Metallurgical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,17,NA,19772
-2015_2016,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Mechanical Engineering.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Mechanical Engineering.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Medicine.,First Professional Degree,,,
+2016_2017,001626,University of Idaho,Public,Medicine.,First Professional Degree,,,
+2015_2016,001626,University of Idaho,Public,Metallurgical Engineering.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Metallurgical Engineering.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,17,,19772
+2015_2016,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,20,25500,23505
-2016_2017,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,19371
-2015_2016,001626,University of Idaho,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Microbiological Sciences and Immunology.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,19371
+2015_2016,001626,University of Idaho,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
 2015_2016,001626,University of Idaho,Public,Music.,Bachelor's Degree,22,26300,23908
-2015_2016,001626,University of Idaho,Public,Music.,Master's Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Music.,Master's Degree,,,
 2016_2017,001626,University of Idaho,Public,Music.,Bachelor's Degree,21,25000,22411
-2016_2017,001626,University of Idaho,Public,Music.,Master's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Music.,Master's Degree,,,
 2015_2016,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Bachelor's Degree,21,21375,25353
-2015_2016,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Master's Degree,11,NA,43891
-2015_2016,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Master's Degree,11,,43891
+2015_2016,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Graduate/Professional Certificate,,,
+2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
 2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Bachelor's Degree,22,19795,21321
-2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Master's Degree,18,NA,36189
-2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Natural Resources Management and Policy.,Bachelor's Degree,13,NA,25556
+2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Master's Degree,18,,36189
+2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Natural Resources Conservation and Research.,Graduate/Professional Certificate,,,
+2015_2016,001626,University of Idaho,Public,Natural Resources Management and Policy.,Bachelor's Degree,13,,25556
 2015_2016,001626,University of Idaho,Public,Natural Resources Management and Policy.,Master's Degree,34,26375,30461
-2015_2016,001626,University of Idaho,Public,Natural Resources Management and Policy.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Natural Resources Management and Policy.,Bachelor's Degree,14,NA,25956
+2015_2016,001626,University of Idaho,Public,Natural Resources Management and Policy.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Natural Resources Management and Policy.,Bachelor's Degree,14,,25956
 2016_2017,001626,University of Idaho,Public,Natural Resources Management and Policy.,Master's Degree,39,30491,28868
-2016_2017,001626,University of Idaho,Public,Natural Resources Management and Policy.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Nuclear Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Nuclear Engineering.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Nuclear Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Nuclear Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Nuclear Engineering.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Nuclear Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Nuclear Engineering.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Outdoor Education.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Natural Resources Management and Policy.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Neurobiology and Neurosciences.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Neurobiology and Neurosciences.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Neurobiology and Neurosciences.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Neurobiology and Neurosciences.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Nuclear Engineering.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Nuclear Engineering.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Nuclear Engineering.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Nuclear Engineering.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Nuclear Engineering.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Nuclear Engineering.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Nuclear Engineering.,Graduate/Professional Certificate,,,
+2016_2017,001626,University of Idaho,Public,Outdoor Education.,Post-baccalaureate Certificate,,,
 2015_2016,001626,University of Idaho,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,20,27202,24791
-2015_2016,001626,University of Idaho,Public,"Parks, Recreation and Leisure Facilities Management.",Master's Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,"Parks, Recreation and Leisure Facilities Management.",Master's Degree,,,
 2016_2017,001626,University of Idaho,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,21,24500,21915
-2016_2017,001626,University of Idaho,Public,"Parks, Recreation and Leisure Facilities Management.",Master's Degree,12,NA,33058
-2015_2016,001626,University of Idaho,Public,Philosophy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Philosophy.,Bachelor's Degree,13,NA,27017
-2015_2016,001626,University of Idaho,Public,Philosophy.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Philosophy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Philosophy.,Bachelor's Degree,16,NA,28767
-2016_2017,001626,University of Idaho,Public,Philosophy.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Physics.,Bachelor's Degree,10,NA,25048
-2015_2016,001626,University of Idaho,Public,Physics.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Physics.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Physics.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Physics.,Doctoral Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,"Parks, Recreation and Leisure Facilities Management.",Master's Degree,12,,33058
+2015_2016,001626,University of Idaho,Public,Philosophy.,Undergraduate Certificate or Diploma,,,
+2015_2016,001626,University of Idaho,Public,Philosophy.,Bachelor's Degree,13,,27017
+2015_2016,001626,University of Idaho,Public,Philosophy.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Philosophy.,Undergraduate Certificate or Diploma,,,
+2016_2017,001626,University of Idaho,Public,Philosophy.,Bachelor's Degree,16,,28767
+2016_2017,001626,University of Idaho,Public,Philosophy.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Physical Sciences.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Physical Sciences.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Physics.,Bachelor's Degree,10,,25048
+2015_2016,001626,University of Idaho,Public,Physics.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Physics.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Physics.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Physics.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Physics.,Doctoral Degree,,,
 2015_2016,001626,University of Idaho,Public,Plant Sciences.,Bachelor's Degree,28,21250,21595
-2015_2016,001626,University of Idaho,Public,Plant Sciences.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Plant Sciences.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Plant Sciences.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Plant Sciences.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Plant Sciences.,Bachelor's Degree,24,19750,22441
-2016_2017,001626,University of Idaho,Public,Plant Sciences.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Plant Sciences.,Doctoral Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Plant Sciences.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Plant Sciences.,Doctoral Degree,,,
 2015_2016,001626,University of Idaho,Public,Political Science and Government.,Bachelor's Degree,33,27000,27690
-2015_2016,001626,University of Idaho,Public,Political Science and Government.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Political Science and Government.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Political Science and Government.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Political Science and Government.,Bachelor's Degree,33,23941,23379
-2016_2017,001626,University of Idaho,Public,Political Science and Government.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Political Science and Government.,Doctoral Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Political Science and Government.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Political Science and Government.,Doctoral Degree,,,
 2015_2016,001626,University of Idaho,Public,"Psychology, General.",Bachelor's Degree,172,23375,23023
-2015_2016,001626,University of Idaho,Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,"Psychology, General.",Master's Degree,,,
 2016_2017,001626,University of Idaho,Public,"Psychology, General.",Bachelor's Degree,154,22500,23220
-2016_2017,001626,University of Idaho,Public,"Psychology, General.",Master's Degree,10,NA,29973
-2015_2016,001626,University of Idaho,Public,Public Administration.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Public Administration.,Master's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,"Psychology, General.",Master's Degree,10,,29973
+2015_2016,001626,University of Idaho,Public,Public Administration.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Public Administration.,Master's Degree,,,
 2015_2016,001626,University of Idaho,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,103,21092,22692
-2015_2016,001626,University of Idaho,Public,"Public Relations, Advertising, and Applied Communication.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,"Public Relations, Advertising, and Applied Communication.",Post-baccalaureate Certificate,,,
 2016_2017,001626,University of Idaho,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,94,19250,19780
-2016_2017,001626,University of Idaho,Public,"Public Relations, Advertising, and Applied Communication.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Quality Control and Safety Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,"Public Relations, Advertising, and Applied Communication.",Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,001626,University of Idaho,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,001626,University of Idaho,Public,Quality Control and Safety Technologies/Technicians.,Bachelor's Degree,,,
 2015_2016,001626,University of Idaho,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,20,24749,21834
 2016_2017,001626,University of Idaho,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,30,24968,24636
-2015_2016,001626,University of Idaho,Public,Rehabilitation and Therapeutic Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,NA,63253
-2016_2017,001626,University of Idaho,Public,Rehabilitation and Therapeutic Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,13,NA,64431
-2015_2016,001626,University of Idaho,Public,Research and Experimental Psychology.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Research and Experimental Psychology.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,16,NA,26030
-2015_2016,001626,University of Idaho,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,13,NA,55326
+2015_2016,001626,University of Idaho,Public,Rehabilitation and Therapeutic Professions.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,,63253
+2016_2017,001626,University of Idaho,Public,Rehabilitation and Therapeutic Professions.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,13,,64431
+2015_2016,001626,University of Idaho,Public,Research and Experimental Psychology.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Research and Experimental Psychology.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,16,,26030
+2015_2016,001626,University of Idaho,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,13,,55326
 2016_2017,001626,University of Idaho,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,22,25220,24708
 2016_2017,001626,University of Idaho,Public,Rhetoric and Composition/Writing Studies.,Master's Degree,24,61516,61171
 2015_2016,001626,University of Idaho,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,37,17750,18670
 2016_2017,001626,University of Idaho,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,43,23106,23615
-2016_2017,001626,University of Idaho,Public,"Social Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,"Social Sciences, General.",Post-baccalaureate Certificate,,,
 2015_2016,001626,University of Idaho,Public,Sociology.,Bachelor's Degree,50,27000,26856
 2016_2017,001626,University of Idaho,Public,Sociology.,Bachelor's Degree,59,25500,24241
-2015_2016,001626,University of Idaho,Public,Soil Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Soil Sciences.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Soil Sciences.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Soil Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Soil Sciences.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Soil Sciences.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Special Education and Teaching.,Master's Degree,10,NA,37165
-2016_2017,001626,University of Idaho,Public,Special Education and Teaching.,Master's Degree,10,NA,47173
-2015_2016,001626,University of Idaho,Public,Statistics.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Statistics.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Statistics.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Statistics.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Statistics.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Statistics.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Soil Sciences.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Soil Sciences.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Soil Sciences.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Soil Sciences.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Soil Sciences.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Soil Sciences.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Special Education and Teaching.,Master's Degree,10,,37165
+2016_2017,001626,University of Idaho,Public,Special Education and Teaching.,Master's Degree,10,,47173
+2015_2016,001626,University of Idaho,Public,Statistics.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Statistics.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Statistics.,Graduate/Professional Certificate,,,
+2016_2017,001626,University of Idaho,Public,Statistics.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Statistics.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Statistics.,Graduate/Professional Certificate,,,
+2015_2016,001626,University of Idaho,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,Student Counseling and Personnel Services.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Student Counseling and Personnel Services.,Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,Student Counseling and Personnel Services.,Master's Degree,,,
 2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,118,23564,24399
 2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,20,32874,32313
-2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,,,
 2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,100,23281,24121
-2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,17,NA,34581
-2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,17,,34581
+2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Graduate/Professional Certificate,,,
+2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,,,
 2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,39,25144,25585
-2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,11,NA,44126
-2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
+2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,11,,44126
+2015_2016,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,,,
+2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,,,
 2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,41,23424,26069
-2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,11,NA,37542
-2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Veterinary Biomedical and Clinical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Veterinary Biomedical and Clinical Sciences.,Bachelor's Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
+2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,11,,37542
+2016_2017,001626,University of Idaho,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Graduate/Professional Certificate,,,
+2015_2016,001626,University of Idaho,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Veterinary Biomedical and Clinical Sciences.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Veterinary Biomedical and Clinical Sciences.,Bachelor's Degree,,,
 2015_2016,001626,University of Idaho,Public,Wildlife and Wildlands Science and Management.,Bachelor's Degree,29,27000,25325
-2015_2016,001626,University of Idaho,Public,Wildlife and Wildlands Science and Management.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Wildlife and Wildlands Science and Management.,Doctoral Degree,NA,NA,NA
+2015_2016,001626,University of Idaho,Public,Wildlife and Wildlands Science and Management.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Wildlife and Wildlands Science and Management.,Doctoral Degree,,,
 2016_2017,001626,University of Idaho,Public,Wildlife and Wildlands Science and Management.,Bachelor's Degree,37,23500,26061
-2016_2017,001626,University of Idaho,Public,Wildlife and Wildlands Science and Management.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Wildlife and Wildlands Science and Management.,Doctoral Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Zoology/Animal Biology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Zoology/Animal Biology.,Master's Degree,NA,NA,NA
-2015_2016,001626,University of Idaho,Public,Zoology/Animal Biology.,Doctoral Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Zoology/Animal Biology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Zoology/Animal Biology.,Master's Degree,NA,NA,NA
-2016_2017,001626,University of Idaho,Public,Zoology/Animal Biology.,Doctoral Degree,NA,NA,NA
+2016_2017,001626,University of Idaho,Public,Wildlife and Wildlands Science and Management.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Wildlife and Wildlands Science and Management.,Doctoral Degree,,,
+2015_2016,001626,University of Idaho,Public,Zoology/Animal Biology.,Bachelor's Degree,,,
+2015_2016,001626,University of Idaho,Public,Zoology/Animal Biology.,Master's Degree,,,
+2015_2016,001626,University of Idaho,Public,Zoology/Animal Biology.,Doctoral Degree,,,
+2016_2017,001626,University of Idaho,Public,Zoology/Animal Biology.,Bachelor's Degree,,,
+2016_2017,001626,University of Idaho,Public,Zoology/Animal Biology.,Master's Degree,,,
+2016_2017,001626,University of Idaho,Public,Zoology/Animal Biology.,Doctoral Degree,,,

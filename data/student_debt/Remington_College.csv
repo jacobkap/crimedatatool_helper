@@ -1,52 +1,52 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,030265,Remington College,Private,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,2596,13947,12236
 2015_2016,030265,Remington College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,172,20000,19005
-2016_2017,030265,Remington College,Private,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,14120,13362
+2016_2017,030265,Remington College,Private,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,14120,13362
 2016_2017,030265,Remington College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,196,20000,19471
 2015_2016,030265,Remington College,Private,"Business Administration, Management and Operations.",Associate's Degree,178,20000,20546
 2015_2016,030265,Remington College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,59,39387,34845
 2016_2017,030265,Remington College,Private,"Business Administration, Management and Operations.",Associate's Degree,189,20000,20008
 2016_2017,030265,Remington College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,53,39072,34963
-2015_2016,030265,Remington College,Private,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,030265,Remington College,Private,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
 2015_2016,030265,Remington College,Private,Computer Systems Networking and Telecommunications.,Associate's Degree,102,20000,18986
-2016_2017,030265,Remington College,Private,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030265,Remington College,Private,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,,
 2016_2017,030265,Remington College,Private,Computer Systems Networking and Telecommunications.,Associate's Degree,81,20000,18940
 2015_2016,030265,Remington College,Private,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,662,14750,14475
-2016_2017,030265,Remington College,Private,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,14750,14308
-2015_2016,030265,Remington College,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030265,Remington College,Private,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,14750,14308
+2015_2016,030265,Remington College,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2015_2016,030265,Remington College,Private,Criminal Justice and Corrections.,Associate's Degree,399,20000,19751
 2015_2016,030265,Remington College,Private,Criminal Justice and Corrections.,Bachelor's Degree,115,43620,38429
 2016_2017,030265,Remington College,Private,Criminal Justice and Corrections.,Associate's Degree,329,20000,19752
 2016_2017,030265,Remington College,Private,Criminal Justice and Corrections.,Bachelor's Degree,122,44605,38715
-2015_2016,030265,Remington College,Private,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030265,Remington College,Private,Culinary Arts and Related Services.,Associate's Degree,NA,NA,20288
+2015_2016,030265,Remington College,Private,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,030265,Remington College,Private,Culinary Arts and Related Services.,Associate's Degree,,,20288
 2015_2016,030265,Remington College,Private,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,501,9500,9037
 2015_2016,030265,Remington College,Private,Dental Support Services and Allied Professions.,Associate's Degree,78,26371,24399
 2016_2017,030265,Remington College,Private,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,472,9500,8887
 2016_2017,030265,Remington College,Private,Dental Support Services and Allied Professions.,Associate's Degree,75,27000,25538
-2015_2016,030265,Remington College,Private,Design and Applied Arts.,Associate's Degree,NA,NA,20158
-2016_2017,030265,Remington College,Private,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2015_2016,030265,Remington College,Private,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,12965,12397
-2016_2017,030265,Remington College,Private,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,12368
+2015_2016,030265,Remington College,Private,Design and Applied Arts.,Associate's Degree,,,20158
+2016_2017,030265,Remington College,Private,Design and Applied Arts.,Associate's Degree,,,
+2015_2016,030265,Remington College,Private,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,12965,12397
+2016_2017,030265,Remington College,Private,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,12368
 2015_2016,030265,Remington College,Private,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,80,12965,12244
-2015_2016,030265,Remington College,Private,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,20857,22167
+2015_2016,030265,Remington College,Private,Electrical Engineering Technologies/Technicians.,Associate's Degree,,20857,22167
 2016_2017,030265,Remington College,Private,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,67,12965,11734
-2016_2017,030265,Remington College,Private,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,19412
+2016_2017,030265,Remington College,Private,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,19412
 2015_2016,030265,Remington College,Private,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,132,20000,20003
 2016_2017,030265,Remington College,Private,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Associate's Degree,151,20000,20476
 2015_2016,030265,Remington College,Private,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,769,9500,9749
-2015_2016,030265,Remington College,Private,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
+2015_2016,030265,Remington College,Private,Health and Medical Administrative Services.,Associate's Degree,,,
 2016_2017,030265,Remington College,Private,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,673,9500,9668
-2016_2017,030265,Remington College,Private,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
+2016_2017,030265,Remington College,Private,Health and Medical Administrative Services.,Associate's Degree,,,
 2015_2016,030265,Remington College,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,22,9500,9062
-2016_2017,030265,Remington College,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,030265,Remington College,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
 2015_2016,030265,Remington College,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,281,12965,12438
 2016_2017,030265,Remington College,Private,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,297,12965,12434
-2015_2016,030265,Remington College,Private,International Business.,Associate's Degree,14,NA,18675
-2016_2017,030265,Remington College,Private,International Business.,Associate's Degree,NA,NA,NA
-2015_2016,030265,Remington College,Private,Legal Support Services.,Associate's Degree,NA,20000,22647
-2016_2017,030265,Remington College,Private,Legal Support Services.,Associate's Degree,NA,NA,21711
-2015_2016,030265,Remington College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,18750,16552
-2016_2017,030265,Remington College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,18750,16589
+2015_2016,030265,Remington College,Private,International Business.,Associate's Degree,14,,18675
+2016_2017,030265,Remington College,Private,International Business.,Associate's Degree,,,
+2015_2016,030265,Remington College,Private,Legal Support Services.,Associate's Degree,,20000,22647
+2016_2017,030265,Remington College,Private,Legal Support Services.,Associate's Degree,,,21711
+2015_2016,030265,Remington College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,18750,16552
+2016_2017,030265,Remington College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,18750,16589
 2015_2016,030265,Remington College,Private,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,46,9500,8762
 2016_2017,030265,Remington College,Private,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,29,9500,8325

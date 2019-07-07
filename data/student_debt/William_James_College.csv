@@ -1,13 +1,13 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,116,77535,76892
-2015_2016,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,172000,168682
-2015_2016,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",First Professional Degree,NA,NA,NA
-2016_2017,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,77163,77118
-2016_2017,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,NA,158186,165095
-2016_2017,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",First Professional Degree,NA,NA,NA
-2015_2016,021636,William James College,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2016_2017,021636,William James College,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2015_2016,021636,William James College,Private,"Psychology, General.",Master's Degree,NA,NA,NA
-2016_2017,021636,William James College,Private,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,021636,William James College,Private,"Psychology, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,021636,William James College,Private,"Psychology, Other.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,172000,168682
+2015_2016,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",First Professional Degree,,,
+2016_2017,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,,77163,77118
+2016_2017,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,,158186,165095
+2016_2017,021636,William James College,Private,"Clinical, Counseling and Applied Psychology.",First Professional Degree,,,
+2015_2016,021636,William James College,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2016_2017,021636,William James College,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2015_2016,021636,William James College,Private,"Psychology, General.",Master's Degree,,,
+2016_2017,021636,William James College,Private,"Psychology, General.",Master's Degree,,,
+2015_2016,021636,William James College,Private,"Psychology, Other.",Post-baccalaureate Certificate,,,
+2016_2017,021636,William James College,Private,"Psychology, Other.",Post-baccalaureate Certificate,,,

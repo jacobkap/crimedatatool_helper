@@ -1,339 +1,339 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,002506,Saint Louis University,Private,Accounting and Related Services.,Master's Degree,25,20500,31737
 2016_2017,002506,Saint Louis University,Private,Accounting and Related Services.,Master's Degree,34,20500,30211
-2015_2016,002506,Saint Louis University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,NA,NA,139413
-2015_2016,002506,Saint Louis University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,12,NA,139413
-2016_2017,002506,Saint Louis University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,,,139413
+2015_2016,002506,Saint Louis University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,,,
+2016_2017,002506,Saint Louis University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,12,,139413
+2016_2017,002506,Saint Louis University,Private,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,,,
 2015_2016,002506,Saint Louis University,Private,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,40,27000,24882
 2016_2017,002506,Saint Louis University,Private,"Aerospace, Aeronautical and Astronautical Engineering.",Bachelor's Degree,47,27000,22970
-2015_2016,002506,Saint Louis University,Private,Air Transportation.,Bachelor's Degree,11,NA,30220
-2015_2016,002506,Saint Louis University,Private,Air Transportation.,Master's Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Air Transportation.,Bachelor's Degree,11,,30220
+2015_2016,002506,Saint Louis University,Private,Air Transportation.,Master's Degree,,,
 2016_2017,002506,Saint Louis University,Private,Air Transportation.,Bachelor's Degree,23,26874,26201
-2016_2017,002506,Saint Louis University,Private,Air Transportation.,Master's Degree,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,Air Transportation.,Master's Degree,,,
 2015_2016,002506,Saint Louis University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,35,22500,21576
 2015_2016,002506,Saint Louis University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,85,95191,95943
 2016_2017,002506,Saint Louis University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,36,21500,22582
 2016_2017,002506,Saint Louis University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,90,83131,91967
-2015_2016,002506,Saint Louis University,Private,Anthropology.,Bachelor's Degree,15,NA,18675
-2016_2017,002506,Saint Louis University,Private,Anthropology.,Bachelor's Degree,14,NA,18887
-2015_2016,002506,Saint Louis University,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Area Studies.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Area Studies.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Area Studies.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Area Studies.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,17,NA,24743
-2015_2016,002506,Saint Louis University,Private,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Bioethics/Medical Ethics.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Bioethics/Medical Ethics.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Bioethics/Medical Ethics.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Bioethics/Medical Ethics.,Doctoral Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Anthropology.,Bachelor's Degree,15,,18675
+2016_2017,002506,Saint Louis University,Private,Anthropology.,Bachelor's Degree,14,,18887
+2015_2016,002506,Saint Louis University,Private,Area Studies.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Area Studies.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Area Studies.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Area Studies.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Area Studies.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Atmospheric Sciences and Meteorology.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,17,,24743
+2015_2016,002506,Saint Louis University,Private,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Bioethics/Medical Ethics.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Bioethics/Medical Ethics.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Bioethics/Medical Ethics.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Bioethics/Medical Ethics.,Doctoral Degree,,,
 2015_2016,002506,Saint Louis University,Private,"Biology, General.",Bachelor's Degree,121,27000,23573
-2015_2016,002506,Saint Louis University,Private,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Biology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,"Biology, General.",Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Biology, General.",Doctoral Degree,,,
 2016_2017,002506,Saint Louis University,Private,"Biology, General.",Bachelor's Degree,85,25000,22415
-2016_2017,002506,Saint Louis University,Private,"Biology, General.",Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Biology, General.",Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,"Biology, General.",Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Biology, General.",Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,,,
 2015_2016,002506,Saint Louis University,Private,Biomedical/Medical Engineering.,Bachelor's Degree,25,26812,23725
 2016_2017,002506,Saint Louis University,Private,Biomedical/Medical Engineering.,Bachelor's Degree,45,26985,23171
-2015_2016,002506,Saint Louis University,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,002506,Saint Louis University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,379,25000,22162
 2015_2016,002506,Saint Louis University,Private,"Business Administration, Management and Operations.",Master's Degree,74,41000,46769
-2016_2017,002506,Saint Louis University,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,002506,Saint Louis University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,335,25000,22179
 2016_2017,002506,Saint Louis University,Private,"Business Administration, Management and Operations.",Master's Degree,73,41000,50253
 2015_2016,002506,Saint Louis University,Private,Business/Managerial Economics.,Bachelor's Degree,23,24250,23678
-2016_2017,002506,Saint Louis University,Private,Business/Managerial Economics.,Bachelor's Degree,18,NA,23194
-2015_2016,002506,Saint Louis University,Private,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Chemistry.,Bachelor's Degree,16,NA,25327
-2015_2016,002506,Saint Louis University,Private,Chemistry.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Chemistry.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Chemistry.,Bachelor's Degree,13,NA,22797
-2016_2017,002506,Saint Louis University,Private,Chemistry.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Chemistry.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"City/Urban, Community and Regional Planning.",Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"City/Urban, Community and Regional Planning.",Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Civil Engineering.,Bachelor's Degree,12,NA,19446
-2016_2017,002506,Saint Louis University,Private,Civil Engineering.,Bachelor's Degree,18,NA,22075
-2015_2016,002506,Saint Louis University,Private,Classical and Ancient Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Classical and Ancient Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,11,NA,63389
-2016_2017,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,10,NA,47218
-2016_2017,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,14,NA,117305
-2015_2016,002506,Saint Louis University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,Business/Managerial Economics.,Bachelor's Degree,18,,23194
+2015_2016,002506,Saint Louis University,Private,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Chemistry.,Bachelor's Degree,16,,25327
+2015_2016,002506,Saint Louis University,Private,Chemistry.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Chemistry.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Chemistry.,Bachelor's Degree,13,,22797
+2016_2017,002506,Saint Louis University,Private,Chemistry.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Chemistry.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,"City/Urban, Community and Regional Planning.",Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"City/Urban, Community and Regional Planning.",Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Civil Engineering.,Bachelor's Degree,12,,19446
+2016_2017,002506,Saint Louis University,Private,Civil Engineering.,Bachelor's Degree,18,,22075
+2015_2016,002506,Saint Louis University,Private,Classical and Ancient Studies.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Classical and Ancient Studies.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Undergraduate Certificate or Diploma,,,
+2015_2016,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,11,,63389
+2016_2017,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Undergraduate Certificate or Diploma,,,
+2016_2017,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Master's Degree,10,,47218
+2016_2017,002506,Saint Louis University,Private,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,14,,117305
+2015_2016,002506,Saint Louis University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2015_2016,002506,Saint Louis University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,38,26000,24315
-2015_2016,002506,Saint Louis University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Post-baccalaureate Certificate,,,
+2016_2017,002506,Saint Louis University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2016_2017,002506,Saint Louis University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,41,25949,23269
-2016_2017,002506,Saint Louis University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Communication and Media Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Post-baccalaureate Certificate,,,
+2015_2016,002506,Saint Louis University,Private,Communication and Media Studies.,Undergraduate Certificate or Diploma,,,
 2015_2016,002506,Saint Louis University,Private,Communication and Media Studies.,Bachelor's Degree,75,25000,22913
-2015_2016,002506,Saint Louis University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Communication and Media Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Communication and Media Studies.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Communication and Media Studies.,Undergraduate Certificate or Diploma,,,
 2016_2017,002506,Saint Louis University,Private,Communication and Media Studies.,Bachelor's Degree,67,24788,23204
-2016_2017,002506,Saint Louis University,Private,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,Communication and Media Studies.,Master's Degree,,,
 2015_2016,002506,Saint Louis University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,40,26424,22941
 2015_2016,002506,Saint Louis University,Private,Communication Disorders Sciences and Services.,Master's Degree,32,46250,48677
 2016_2017,002506,Saint Louis University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,38,26000,20907
 2016_2017,002506,Saint Louis University,Private,Communication Disorders Sciences and Services.,Master's Degree,45,54284,60294
-2015_2016,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,21181,25124
-2015_2016,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,21181,25124
+2015_2016,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
 2016_2017,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,20,36228,31219
-2016_2017,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Master's Degree,12,NA,43258
-2015_2016,002506,Saint Louis University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Computer Engineering.,Bachelor's Degree,11,NA,26032
-2015_2016,002506,Saint Louis University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Computer Science.,Bachelor's Degree,18,NA,22838
+2016_2017,002506,Saint Louis University,Private,"Computer and Information Sciences, General.",Master's Degree,12,,43258
+2015_2016,002506,Saint Louis University,Private,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Computer Engineering.,Bachelor's Degree,11,,26032
+2015_2016,002506,Saint Louis University,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Computer Science.,Bachelor's Degree,18,,22838
 2015_2016,002506,Saint Louis University,Private,Criminal Justice and Corrections.,Bachelor's Degree,43,27000,29573
-2016_2017,002506,Saint Louis University,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2016_2017,002506,Saint Louis University,Private,Criminal Justice and Corrections.,Bachelor's Degree,41,25000,24701
-2015_2016,002506,Saint Louis University,Private,Criminology.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Criminology.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Dentistry.,Master's Degree,NA,135313,137377
-2015_2016,002506,Saint Louis University,Private,Dentistry.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Dentistry.,Master's Degree,NA,128915,130248
-2016_2017,002506,Saint Louis University,Private,Dentistry.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Criminology.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Criminology.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Curriculum and Instruction.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Curriculum and Instruction.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Dentistry.,Master's Degree,,135313,137377
+2015_2016,002506,Saint Louis University,Private,Dentistry.,Graduate/Professional Certificate,,,
+2016_2017,002506,Saint Louis University,Private,Dentistry.,Master's Degree,,128915,130248
+2016_2017,002506,Saint Louis University,Private,Dentistry.,Graduate/Professional Certificate,,,
 2015_2016,002506,Saint Louis University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,41,27000,23102
 2015_2016,002506,Saint Louis University,Private,Dietetics and Clinical Nutrition Services.,Master's Degree,36,30903,37394
-2016_2017,002506,Saint Louis University,Private,Dietetics and Clinical Nutrition Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,Dietetics and Clinical Nutrition Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,002506,Saint Louis University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,28,23555,22237
-2016_2017,002506,Saint Louis University,Private,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,,,
 2016_2017,002506,Saint Louis University,Private,Dietetics and Clinical Nutrition Services.,Master's Degree,51,31228,32439
-2015_2016,002506,Saint Louis University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,13,NA,26641
-2016_2017,002506,Saint Louis University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,10,NA,25080
-2015_2016,002506,Saint Louis University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Economics.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Economics.,Master's Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,13,,26641
+2016_2017,002506,Saint Louis University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,10,,25080
+2015_2016,002506,Saint Louis University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Graduate/Professional Certificate,,,
+2016_2017,002506,Saint Louis University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Post-baccalaureate Certificate,,,
+2016_2017,002506,Saint Louis University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Graduate/Professional Certificate,,,
+2015_2016,002506,Saint Louis University,Private,Economics.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Economics.,Master's Degree,,,
 2015_2016,002506,Saint Louis University,Private,"Education, General.",Bachelor's Degree,53,25000,23187
-2015_2016,002506,Saint Louis University,Private,"Education, General.",Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Education, General.",Doctoral Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,"Education, General.",Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Education, General.",Doctoral Degree,,,
 2016_2017,002506,Saint Louis University,Private,"Education, General.",Bachelor's Degree,51,26200,24724
-2016_2017,002506,Saint Louis University,Private,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Education, General.",Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Educational Administration and Supervision.,Master's Degree,16,NA,42303
+2016_2017,002506,Saint Louis University,Private,"Education, General.",Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Education, General.",Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Educational Administration and Supervision.,Master's Degree,16,,42303
 2015_2016,002506,Saint Louis University,Private,Educational Administration and Supervision.,Doctoral Degree,64,60094,55974
-2016_2017,002506,Saint Louis University,Private,Educational Administration and Supervision.,Master's Degree,17,NA,40688
+2016_2017,002506,Saint Louis University,Private,Educational Administration and Supervision.,Master's Degree,17,,40688
 2016_2017,002506,Saint Louis University,Private,Educational Administration and Supervision.,Doctoral Degree,68,60094,70205
-2015_2016,002506,Saint Louis University,Private,"Educational Assessment, Evaluation, and Research.",Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Educational Assessment, Evaluation, and Research.",Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,13,NA,16982
-2016_2017,002506,Saint Louis University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,19,NA,22498
-2015_2016,002506,Saint Louis University,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Engineering, General.",Master's Degree,11,NA,31674
-2015_2016,002506,Saint Louis University,Private,"Engineering, General.",Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Engineering, General.",Master's Degree,17,NA,34905
-2016_2017,002506,Saint Louis University,Private,"Engineering, General.",Doctoral Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,"Educational Assessment, Evaluation, and Research.",Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Educational Assessment, Evaluation, and Research.",Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,13,,16982
+2016_2017,002506,Saint Louis University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,19,,22498
+2015_2016,002506,Saint Louis University,Private,Engineering Physics.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Engineering Physics.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Engineering, General.",Master's Degree,11,,31674
+2015_2016,002506,Saint Louis University,Private,"Engineering, General.",Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Engineering, General.",Master's Degree,17,,34905
+2016_2017,002506,Saint Louis University,Private,"Engineering, General.",Doctoral Degree,,,
 2015_2016,002506,Saint Louis University,Private,"English Language and Literature, General.",Bachelor's Degree,32,24793,23047
-2015_2016,002506,Saint Louis University,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"English Language and Literature, General.",Doctoral Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,"English Language and Literature, General.",Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"English Language and Literature, General.",Doctoral Degree,,,
 2016_2017,002506,Saint Louis University,Private,"English Language and Literature, General.",Bachelor's Degree,32,26500,24193
-2016_2017,002506,Saint Louis University,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"English Language and Literature, General.",Doctoral Degree,15,NA,85799
+2016_2017,002506,Saint Louis University,Private,"English Language and Literature, General.",Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"English Language and Literature, General.",Doctoral Degree,15,,85799
 2015_2016,002506,Saint Louis University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,21,27000,26087
-2016_2017,002506,Saint Louis University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,18,NA,25645
-2015_2016,002506,Saint Louis University,Private,Finance and Financial Management Services.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Finance and Financial Management Services.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Fine and Studio Arts.,Bachelor's Degree,11,NA,26203
-2016_2017,002506,Saint Louis University,Private,Fine and Studio Arts.,Bachelor's Degree,11,NA,22178
-2015_2016,002506,Saint Louis University,Private,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Geography and Cartography.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Geography and Cartography.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Geography and Cartography.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Geography and Cartography.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Geological and Earth Sciences/Geosciences.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,18,,25645
+2015_2016,002506,Saint Louis University,Private,Finance and Financial Management Services.,Graduate/Professional Certificate,,,
+2016_2017,002506,Saint Louis University,Private,Finance and Financial Management Services.,Graduate/Professional Certificate,,,
+2015_2016,002506,Saint Louis University,Private,Fine and Studio Arts.,Bachelor's Degree,11,,26203
+2016_2017,002506,Saint Louis University,Private,Fine and Studio Arts.,Bachelor's Degree,11,,22178
+2015_2016,002506,Saint Louis University,Private,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,002506,Saint Louis University,Private,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,002506,Saint Louis University,Private,Geography and Cartography.,Post-baccalaureate Certificate,,,
+2015_2016,002506,Saint Louis University,Private,Geography and Cartography.,Graduate/Professional Certificate,,,
+2016_2017,002506,Saint Louis University,Private,Geography and Cartography.,Post-baccalaureate Certificate,,,
+2016_2017,002506,Saint Louis University,Private,Geography and Cartography.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Geography and Cartography.,Graduate/Professional Certificate,,,
+2015_2016,002506,Saint Louis University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Geological and Earth Sciences/Geosciences.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,002506,Saint Louis University,Private,Health and Medical Administrative Services.,Bachelor's Degree,63,24187,22600
 2015_2016,002506,Saint Louis University,Private,Health and Medical Administrative Services.,Master's Degree,73,61320,70393
 2016_2017,002506,Saint Louis University,Private,Health and Medical Administrative Services.,Bachelor's Degree,70,25000,22510
 2016_2017,002506,Saint Louis University,Private,Health and Medical Administrative Services.,Master's Degree,73,70705,71944
 2015_2016,002506,Saint Louis University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,128,27000,23602
 2016_2017,002506,Saint Louis University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,96,27000,22610
-2015_2016,002506,Saint Louis University,Private,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,,,
 2015_2016,002506,Saint Louis University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,38,26500,25937
-2015_2016,002506,Saint Louis University,Private,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,,,
 2016_2017,002506,Saint Louis University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,37,26000,24891
-2016_2017,002506,Saint Louis University,Private,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,"Health Services/Allied Health/Health Sciences, General.",Master's Degree,,,
 2015_2016,002506,Saint Louis University,Private,History.,Bachelor's Degree,27,26000,23137
-2015_2016,002506,Saint Louis University,Private,History.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,History.,Doctoral Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,History.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,History.,Doctoral Degree,,,
 2016_2017,002506,Saint Louis University,Private,History.,Bachelor's Degree,23,26849,21473
-2016_2017,002506,Saint Louis University,Private,History.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,History.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Homeland Security.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Homeland Security.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Homeland Security.,Master's Degree,15,NA,55143
-2015_2016,002506,Saint Louis University,Private,Homeland Security.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Homeland Security.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Homeland Security.,Bachelor's Degree,NA,NA,23280
-2016_2017,002506,Saint Louis University,Private,Homeland Security.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Homeland Security.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Homeland Security.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,History.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,History.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Homeland Security.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Homeland Security.,Post-baccalaureate Certificate,,,
+2015_2016,002506,Saint Louis University,Private,Homeland Security.,Master's Degree,15,,55143
+2015_2016,002506,Saint Louis University,Private,Homeland Security.,Graduate/Professional Certificate,,,
+2016_2017,002506,Saint Louis University,Private,Homeland Security.,Undergraduate Certificate or Diploma,,,
+2016_2017,002506,Saint Louis University,Private,Homeland Security.,Bachelor's Degree,,,23280
+2016_2017,002506,Saint Louis University,Private,Homeland Security.,Post-baccalaureate Certificate,,,
+2016_2017,002506,Saint Louis University,Private,Homeland Security.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Homeland Security.,Graduate/Professional Certificate,,,
+2015_2016,002506,Saint Louis University,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,002506,Saint Louis University,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
 2015_2016,002506,Saint Louis University,Private,Human Resources Management and Services.,Bachelor's Degree,47,36222,33045
 2016_2017,002506,Saint Louis University,Private,Human Resources Management and Services.,Bachelor's Degree,47,33725,32092
-2015_2016,002506,Saint Louis University,Private,International Business.,Master's Degree,14,NA,42040
-2016_2017,002506,Saint Louis University,Private,International Business.,Master's Degree,10,NA,40591
+2015_2016,002506,Saint Louis University,Private,International Business.,Master's Degree,14,,42040
+2016_2017,002506,Saint Louis University,Private,International Business.,Master's Degree,10,,40591
 2015_2016,002506,Saint Louis University,Private,International Relations and National Security Studies.,Bachelor's Degree,35,26000,21669
 2016_2017,002506,Saint Louis University,Private,International Relations and National Security Studies.,Bachelor's Degree,40,21183,20173
-2015_2016,002506,Saint Louis University,Private,Law.,Doctoral Degree,NA,110381,109797
-2015_2016,002506,Saint Louis University,Private,Law.,First Professional Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Law.,Doctoral Degree,NA,106638,106453
-2016_2017,002506,Saint Louis University,Private,Law.,First Professional Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,13,NA,30550
-2016_2017,002506,Saint Louis University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,14,NA,35897
-2015_2016,002506,Saint Louis University,Private,Marketing.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Marketing.,Doctoral Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Law.,Doctoral Degree,,110381,109797
+2015_2016,002506,Saint Louis University,Private,Law.,First Professional Degree,,,
+2016_2017,002506,Saint Louis University,Private,Law.,Doctoral Degree,,106638,106453
+2016_2017,002506,Saint Louis University,Private,Law.,First Professional Degree,,,
+2015_2016,002506,Saint Louis University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Legal Research and Advanced Professional Studies.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,13,,30550
+2016_2017,002506,Saint Louis University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,14,,35897
+2015_2016,002506,Saint Louis University,Private,Marketing.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Marketing.,Doctoral Degree,,,
 2015_2016,002506,Saint Louis University,Private,Mathematics.,Bachelor's Degree,24,26091,24901
-2015_2016,002506,Saint Louis University,Private,Mathematics.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Mathematics.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Mathematics.,Bachelor's Degree,15,NA,21376
-2016_2017,002506,Saint Louis University,Private,Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Mathematics.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Mechanical Engineering.,Bachelor's Degree,14,NA,23857
+2015_2016,002506,Saint Louis University,Private,Mathematics.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Mathematics.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Mathematics.,Bachelor's Degree,15,,21376
+2016_2017,002506,Saint Louis University,Private,Mathematics.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Mathematics.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Mechanical Engineering.,Bachelor's Degree,14,,23857
 2016_2017,002506,Saint Louis University,Private,Mechanical Engineering.,Bachelor's Degree,29,27000,24180
-2015_2016,002506,Saint Louis University,Private,Medical Illustration and Informatics.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Medical Illustration and Informatics.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Medicine.,Doctoral Degree,NA,203450,184890
-2015_2016,002506,Saint Louis University,Private,Medicine.,First Professional Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Medicine.,Doctoral Degree,NA,206888,194075
-2016_2017,002506,Saint Louis University,Private,Medicine.,First Professional Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Mental and Social Health Services and Allied Professions.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Mental and Social Health Services and Allied Professions.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,13,NA,24984
-2015_2016,002506,Saint Louis University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,17,NA,20292
-2016_2017,002506,Saint Louis University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Philosophy.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Philosophy.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Philosophy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Philosophy.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Philosophy.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Medical Illustration and Informatics.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Medical Illustration and Informatics.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Medicine.,Doctoral Degree,,203450,184890
+2015_2016,002506,Saint Louis University,Private,Medicine.,First Professional Degree,,,
+2016_2017,002506,Saint Louis University,Private,Medicine.,Doctoral Degree,,206888,194075
+2016_2017,002506,Saint Louis University,Private,Medicine.,First Professional Degree,,,
+2015_2016,002506,Saint Louis University,Private,Mental and Social Health Services and Allied Professions.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Mental and Social Health Services and Allied Professions.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Microbiological Sciences and Immunology.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Microbiological Sciences and Immunology.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Microbiological Sciences and Immunology.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Microbiological Sciences and Immunology.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Music.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Music.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,13,,24984
+2015_2016,002506,Saint Louis University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,17,,20292
+2016_2017,002506,Saint Louis University,Private,Neurobiology and Neurosciences.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Pharmacology and Toxicology.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Pharmacology and Toxicology.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Philosophy.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Philosophy.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Philosophy.,Undergraduate Certificate or Diploma,,,
+2016_2017,002506,Saint Louis University,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Philosophy.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Philosophy.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Physics.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Physiology, Pathology and Related Sciences.",Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Physiology, Pathology and Related Sciences.",Doctoral Degree,,,
 2015_2016,002506,Saint Louis University,Private,Political Science and Government.,Bachelor's Degree,51,25500,23124
-2015_2016,002506,Saint Louis University,Private,Political Science and Government.,Master's Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Political Science and Government.,Master's Degree,,,
 2016_2017,002506,Saint Louis University,Private,Political Science and Government.,Bachelor's Degree,45,26000,23267
-2016_2017,002506,Saint Louis University,Private,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,Political Science and Government.,Master's Degree,,,
 2015_2016,002506,Saint Louis University,Private,"Psychology, General.",Bachelor's Degree,112,26000,23536
 2016_2017,002506,Saint Louis University,Private,"Psychology, General.",Bachelor's Degree,104,26029,23972
-2015_2016,002506,Saint Louis University,Private,Public Administration.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Public Administration.,Master's Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Public Administration.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Public Administration.,Master's Degree,,,
 2015_2016,002506,Saint Louis University,Private,Public Health.,Bachelor's Degree,52,26750,23412
 2015_2016,002506,Saint Louis University,Private,Public Health.,Master's Degree,94,56400,62406
-2015_2016,002506,Saint Louis University,Private,Public Health.,Doctoral Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Public Health.,Doctoral Degree,,,
 2016_2017,002506,Saint Louis University,Private,Public Health.,Bachelor's Degree,60,26000,22528
 2016_2017,002506,Saint Louis University,Private,Public Health.,Master's Degree,106,51300,59571
-2016_2017,002506,Saint Louis University,Private,Public Health.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Public Policy Analysis.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Public Policy Analysis.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,11,NA,34929
-2016_2017,002506,Saint Louis University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,41542
-2015_2016,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,Public Health.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Public Policy Analysis.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Public Policy Analysis.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,11,,34929
+2016_2017,002506,Saint Louis University,Private,"Public Relations, Advertising, and Applied Communication.",Master's Degree,,,41542
+2015_2016,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2015_2016,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,248,25000,23143
 2015_2016,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,166,61500,61744
-2015_2016,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,10,NA,54753
-2015_2016,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,17,NA,41800
-2016_2017,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,10,,54753
+2015_2016,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,17,,41800
+2016_2017,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2016_2017,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,254,25000,22261
 2016_2017,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,136,59323,60242
-2016_2017,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,11,NA,77060
-2016_2017,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,16,NA,45505
+2016_2017,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,11,,77060
+2016_2017,002506,Saint Louis University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,16,,45505
 2015_2016,002506,Saint Louis University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,64,26438,22330
 2015_2016,002506,Saint Louis University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,70,36500,40061
 2015_2016,002506,Saint Louis University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,101,49890,60117
 2016_2017,002506,Saint Louis University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,67,27000,22296
 2016_2017,002506,Saint Louis University,Private,Rehabilitation and Therapeutic Professions.,Master's Degree,61,20500,38575
 2016_2017,002506,Saint Louis University,Private,Rehabilitation and Therapeutic Professions.,Doctoral Degree,112,53250,61230
-2015_2016,002506,Saint Louis University,Private,Research and Experimental Psychology.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Research and Experimental Psychology.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Research and Experimental Psychology.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Research and Experimental Psychology.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Research and Experimental Psychology.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Research and Experimental Psychology.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Research and Experimental Psychology.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Research and Experimental Psychology.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
 2015_2016,002506,Saint Louis University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,46,27000,23630
-2015_2016,002506,Saint Louis University,Private,"Romance Languages, Literatures, and Linguistics.",Master's Degree,14,NA,47080
-2016_2017,002506,Saint Louis University,Private,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,"Romance Languages, Literatures, and Linguistics.",Master's Degree,14,,47080
+2016_2017,002506,Saint Louis University,Private,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,,,
 2016_2017,002506,Saint Louis University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,42,23580,20443
-2016_2017,002506,Saint Louis University,Private,"Romance Languages, Literatures, and Linguistics.",Master's Degree,15,NA,49743
-2015_2016,002506,Saint Louis University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,"Social Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,002506,Saint Louis University,Private,"Romance Languages, Literatures, and Linguistics.",Master's Degree,15,,49743
+2015_2016,002506,Saint Louis University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,"Social Sciences, General.",Master's Degree,,,
 2015_2016,002506,Saint Louis University,Private,Social Work.,Bachelor's Degree,41,27000,29545
 2015_2016,002506,Saint Louis University,Private,Social Work.,Master's Degree,105,52226,54272
 2016_2017,002506,Saint Louis University,Private,Social Work.,Bachelor's Degree,29,26000,25364
 2016_2017,002506,Saint Louis University,Private,Social Work.,Master's Degree,128,49158,53039
-2015_2016,002506,Saint Louis University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Sociology.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Sociology.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Sustainability Studies.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Sustainability Studies.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Systems Science and Theory.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Systems Science and Theory.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Bachelor's Degree,11,NA,20175
-2015_2016,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Doctoral Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Bachelor's Degree,16,NA,15778
-2016_2017,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Doctoral Degree,NA,NA,NA
-2015_2016,002506,Saint Louis University,Private,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
-2016_2017,002506,Saint Louis University,Private,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
+2015_2016,002506,Saint Louis University,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Sociology.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Sociology.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Sustainability Studies.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Sustainability Studies.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Systems Science and Theory.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Systems Science and Theory.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Bachelor's Degree,11,,20175
+2015_2016,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2015_2016,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Doctoral Degree,,,
+2016_2017,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Bachelor's Degree,16,,15778
+2016_2017,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Theological and Ministerial Studies.,Doctoral Degree,,,
+2015_2016,002506,Saint Louis University,Private,Urban Studies/Affairs.,Bachelor's Degree,,,
+2016_2017,002506,Saint Louis University,Private,Urban Studies/Affairs.,Bachelor's Degree,,,

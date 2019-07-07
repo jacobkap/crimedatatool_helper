@@ -1,38 +1,38 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Accounting and Related Services.,Bachelor's Degree,25,7250,8784
 2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Accounting and Related Services.,Bachelor's Degree,24,7375,8641
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Biology, General.",Bachelor's Degree,NA,5500,6776
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Biology, General.",Bachelor's Degree,NA,5500,7683
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Business Operations Support and Assistant Services.,Bachelor's Degree,NA,NA,7383
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Business Operations Support and Assistant Services.,Bachelor's Degree,NA,5250,6516
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Environmental Control Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Environmental Control Technologies/Technicians.,Bachelor's Degree,12,NA,10833
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Finance and Financial Management Services.,Bachelor's Degree,10,NA,9125
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Finance and Financial Management Services.,Bachelor's Degree,10,NA,10595
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,,,
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,,,
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Biology, General.",Bachelor's Degree,,5500,6776
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Biology, General.",Bachelor's Degree,,5500,7683
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Business Operations Support and Assistant Services.,Bachelor's Degree,,,7383
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Business Operations Support and Assistant Services.,Bachelor's Degree,,5250,6516
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Business/Commerce, General.",Bachelor's Degree,,,
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Business/Commerce, General.",Bachelor's Degree,,,
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Environmental Control Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Environmental Control Technologies/Technicians.,Bachelor's Degree,12,,10833
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Finance and Financial Management Services.,Bachelor's Degree,10,,9125
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Finance and Financial Management Services.,Bachelor's Degree,10,,10595
 2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Human Resources Management and Services.,Bachelor's Degree,29,5500,7579
 2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Human Resources Management and Services.,Bachelor's Degree,27,5500,8681
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Management Information Systems and Services.,Bachelor's Degree,,,
 2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Marketing.,Bachelor's Degree,29,5500,6703
 2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Marketing.,Bachelor's Degree,25,5500,7765
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,12,NA,8004
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,12,NA,7466
-2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,16,NA,6068
-2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,NA,5973
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,,,
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,,,
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,,,
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,12,,8004
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,12,,7466
+2015_2016,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,16,,6068
+2016_2017,012123,"University of Puerto Rico, Aguadilla Regional Coll",Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,,5973

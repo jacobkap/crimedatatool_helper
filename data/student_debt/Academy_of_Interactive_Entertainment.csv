@@ -1,9 +1,9 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,042236,Academy of Interactive Entertainment,Private,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,27,10556,12230
-2015_2016,042484,Academy of Interactive Entertainment,Private,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,10,NA,4856
+2015_2016,042484,Academy of Interactive Entertainment,Private,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,10,,4856
 2016_2017,042236,Academy of Interactive Entertainment,Private,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,56,10556,12020
 2016_2017,042484,Academy of Interactive Entertainment,Private,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,29,10556,9562
-2015_2016,042236,Academy of Interactive Entertainment,Private,Graphic Communications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,042484,Academy of Interactive Entertainment,Private,Graphic Communications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,042236,Academy of Interactive Entertainment,Private,Graphic Communications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,042484,Academy of Interactive Entertainment,Private,Graphic Communications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,042236,Academy of Interactive Entertainment,Private,Graphic Communications.,Undergraduate Certificate or Diploma,,,
+2015_2016,042484,Academy of Interactive Entertainment,Private,Graphic Communications.,Undergraduate Certificate or Diploma,,,
+2016_2017,042236,Academy of Interactive Entertainment,Private,Graphic Communications.,Undergraduate Certificate or Diploma,,,
+2016_2017,042484,Academy of Interactive Entertainment,Private,Graphic Communications.,Undergraduate Certificate or Diploma,,,

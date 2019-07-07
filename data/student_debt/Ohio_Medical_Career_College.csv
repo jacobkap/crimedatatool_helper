@@ -1,9 +1,9 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,041773,Ohio Medical Career College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041773,Ohio Medical Career College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041773,Ohio Medical Career College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041773,Ohio Medical Career College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,041773,Ohio Medical Career College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,041773,Ohio Medical Career College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,041773,Ohio Medical Career College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,041773,Ohio Medical Career College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,041773,Ohio Medical Career College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,26,10981,9167
 2016_2017,041773,Ohio Medical Career College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,72,11823,10118
-2015_2016,041773,Ohio Medical Career College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,11,NA,13245
-2016_2017,041773,Ohio Medical Career College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,13300,13103
+2015_2016,041773,Ohio Medical Career College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,11,,13245
+2016_2017,041773,Ohio Medical Career College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,13300,13103

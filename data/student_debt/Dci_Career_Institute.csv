@@ -1,9 +1,9 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,030726,Dci Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,87,9500,8476
 2016_2017,030726,Dci Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,69,9500,8328
-2015_2016,030726,Dci Career Institute,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,15,NA,7780
-2016_2017,030726,Dci Career Institute,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030726,Dci Career Institute,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,12,NA,8496
-2016_2017,030726,Dci Career Institute,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030726,Dci Career Institute,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,8921
-2016_2017,030726,Dci Career Institute,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,9028
+2015_2016,030726,Dci Career Institute,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,15,,7780
+2016_2017,030726,Dci Career Institute,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,030726,Dci Career Institute,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,12,,8496
+2016_2017,030726,Dci Career Institute,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,030726,Dci Career Institute,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,8921
+2016_2017,030726,Dci Career Institute,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,9028

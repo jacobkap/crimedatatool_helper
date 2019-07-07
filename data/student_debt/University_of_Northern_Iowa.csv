@@ -1,259 +1,259 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,001890,University of Northern Iowa,Public,Accounting and Related Services.,Bachelor's Degree,77,21500,21386
-2015_2016,001890,University of Northern Iowa,Public,Accounting and Related Services.,Master's Degree,12,NA,14903
+2015_2016,001890,University of Northern Iowa,Public,Accounting and Related Services.,Master's Degree,12,,14903
 2016_2017,001890,University of Northern Iowa,Public,Accounting and Related Services.,Bachelor's Degree,105,20231,21622
-2016_2017,001890,University of Northern Iowa,Public,Accounting and Related Services.,Master's Degree,11,NA,10625
+2016_2017,001890,University of Northern Iowa,Public,Accounting and Related Services.,Master's Degree,11,,10625
 2015_2016,001890,University of Northern Iowa,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,34,25318,23160
-2015_2016,001890,University of Northern Iowa,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,24,27000,23881
-2016_2017,001890,University of Northern Iowa,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Anthropology.,Bachelor's Degree,17,NA,21479
-2016_2017,001890,University of Northern Iowa,Public,Anthropology.,Bachelor's Degree,17,NA,22926
-2015_2016,001890,University of Northern Iowa,Public,Apparel and Textiles.,Bachelor's Degree,17,NA,19312
-2016_2017,001890,University of Northern Iowa,Public,Apparel and Textiles.,Bachelor's Degree,16,NA,19500
-2015_2016,001890,University of Northern Iowa,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Applied Mathematics.,Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,14,NA,21693
-2015_2016,001890,University of Northern Iowa,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,14,NA,22965
-2016_2017,001890,University of Northern Iowa,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,29447
-2015_2016,001890,University of Northern Iowa,Public,Biological and Physical Sciences.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Biological and Physical Sciences.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Anthropology.,Bachelor's Degree,17,,21479
+2016_2017,001890,University of Northern Iowa,Public,Anthropology.,Bachelor's Degree,17,,22926
+2015_2016,001890,University of Northern Iowa,Public,Apparel and Textiles.,Bachelor's Degree,17,,19312
+2016_2017,001890,University of Northern Iowa,Public,Apparel and Textiles.,Bachelor's Degree,16,,19500
+2015_2016,001890,University of Northern Iowa,Public,Applied Mathematics.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Applied Mathematics.,Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Area Studies.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,14,,21693
+2015_2016,001890,University of Northern Iowa,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,14,,22965
+2016_2017,001890,University of Northern Iowa,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Biological and Physical Sciences.,Bachelor's Degree,,,29447
+2015_2016,001890,University of Northern Iowa,Public,Biological and Physical Sciences.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Biological and Physical Sciences.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Biological and Physical Sciences.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,"Biology, General.",Bachelor's Degree,132,23075,21901
-2015_2016,001890,University of Northern Iowa,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"Biology, General.",Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,"Biology, General.",Bachelor's Degree,118,23125,22054
-2016_2017,001890,University of Northern Iowa,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Biotechnology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Biotechnology.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Biotechnology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Biotechnology.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,"Biology, General.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Biotechnology.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Biotechnology.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Biotechnology.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Biotechnology.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,"Business Administration, Management and Operations.",Bachelor's Degree,150,19000,19448
-2015_2016,001890,University of Northern Iowa,Public,"Business Administration, Management and Operations.",Master's Degree,13,NA,25079
+2015_2016,001890,University of Northern Iowa,Public,"Business Administration, Management and Operations.",Master's Degree,13,,25079
 2016_2017,001890,University of Northern Iowa,Public,"Business Administration, Management and Operations.",Bachelor's Degree,169,18000,18319
-2016_2017,001890,University of Northern Iowa,Public,"Business Administration, Management and Operations.",Master's Degree,11,NA,27763
-2016_2017,001890,University of Northern Iowa,Public,"Business, Management, Marketing, and Related Support Services, Other.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Chemistry.,Bachelor's Degree,10,NA,21081
-2015_2016,001890,University of Northern Iowa,Public,Chemistry.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Chemistry.,Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,14,NA,21455
-2016_2017,001890,University of Northern Iowa,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,15,NA,21991
+2016_2017,001890,University of Northern Iowa,Public,"Business Administration, Management and Operations.",Master's Degree,11,,27763
+2016_2017,001890,University of Northern Iowa,Public,"Business, Management, Marketing, and Related Support Services, Other.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Chemistry.,Bachelor's Degree,10,,21081
+2015_2016,001890,University of Northern Iowa,Public,Chemistry.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Chemistry.,Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,14,,21455
+2016_2017,001890,University of Northern Iowa,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,15,,21991
 2015_2016,001890,University of Northern Iowa,Public,Communication and Media Studies.,Bachelor's Degree,95,19232,19304
-2015_2016,001890,University of Northern Iowa,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Communication and Media Studies.,Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,Communication and Media Studies.,Bachelor's Degree,87,16836,17775
-2016_2017,001890,University of Northern Iowa,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Communication and Media Studies.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,51,19500,18437
 2015_2016,001890,University of Northern Iowa,Public,Communication Disorders Sciences and Services.,Master's Degree,65,26238,25644
 2016_2017,001890,University of Northern Iowa,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,60,18521,17971
 2016_2017,001890,University of Northern Iowa,Public,Communication Disorders Sciences and Services.,Master's Degree,74,25493,25159
-2015_2016,001890,University of Northern Iowa,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Computer Science.,Bachelor's Degree,37,19062,21919
-2015_2016,001890,University of Northern Iowa,Public,Computer Science.,Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Computer Science.,Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,Computer Science.,Bachelor's Degree,33,19062,22374
-2016_2017,001890,University of Northern Iowa,Public,Computer Science.,Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Construction Management.,Bachelor's Degree,19,NA,18514
-2015_2016,001890,University of Northern Iowa,Public,Construction Management.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Construction Management.,Bachelor's Degree,17,NA,19115
-2016_2017,001890,University of Northern Iowa,Public,Construction Management.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Computer Science.,Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Construction Management.,Bachelor's Degree,19,,18514
+2015_2016,001890,University of Northern Iowa,Public,Construction Management.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Construction Management.,Bachelor's Degree,17,,19115
+2016_2017,001890,University of Northern Iowa,Public,Construction Management.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Criminology.,Bachelor's Degree,109,19000,19036
-2015_2016,001890,University of Northern Iowa,Public,Criminology.,Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Criminology.,Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,Criminology.,Bachelor's Degree,113,18250,18900
-2016_2017,001890,University of Northern Iowa,Public,Criminology.,Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Criminology.,Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Curriculum and Instruction.,Doctoral Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Curriculum and Instruction.,Doctoral Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Design and Applied Arts.,Bachelor's Degree,48,19806,19098
 2016_2017,001890,University of Northern Iowa,Public,Design and Applied Arts.,Bachelor's Degree,50,21475,20158
 2015_2016,001890,University of Northern Iowa,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,22,25846,24896
 2016_2017,001890,University of Northern Iowa,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,20,25853,23841
-2015_2016,001890,University of Northern Iowa,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,10,NA,20692
-2015_2016,001890,University of Northern Iowa,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,12,NA,19610
-2016_2017,001890,University of Northern Iowa,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,10,,20692
+2015_2016,001890,University of Northern Iowa,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,12,,19610
+2016_2017,001890,University of Northern Iowa,Public,"Ecology, Evolution, Systematics, and Population Biology.",Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Economics.,Bachelor's Degree,33,16389,16184
 2016_2017,001890,University of Northern Iowa,Public,Economics.,Bachelor's Degree,28,20000,16828
-2015_2016,001890,University of Northern Iowa,Public,"Education, General.",Doctoral Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Education, General.",Doctoral Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Education, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"Education, General.",Doctoral Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Education, General.",Doctoral Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Education, Other.",Bachelor's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Educational Administration and Supervision.,Master's Degree,35,18604,23812
-2015_2016,001890,University of Northern Iowa,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Educational Administration and Supervision.,Doctoral Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,Educational Administration and Supervision.,Master's Degree,46,19810,24425
-2016_2017,001890,University of Northern Iowa,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Educational/Instructional Media Design.,Master's Degree,10,NA,21330
-2015_2016,001890,University of Northern Iowa,Public,Electrical Engineering Technologies/Technicians.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Electrical Engineering Technologies/Technicians.,Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Bachelor's Degree,12,NA,18839
-2016_2017,001890,University of Northern Iowa,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,"Engineering Technologies/Technicians, Other.",Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Engineering Technologies/Technicians, Other.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,"Engineering Technology, General.",Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Engineering Technology, General.",Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Educational Administration and Supervision.,Doctoral Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Educational/Instructional Media Design.,Master's Degree,10,,21330
+2015_2016,001890,University of Northern Iowa,Public,Electrical Engineering Technologies/Technicians.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Electrical Engineering Technologies/Technicians.,Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Bachelor's Degree,12,,18839
+2016_2017,001890,University of Northern Iowa,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Engineering Physics.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Engineering Physics.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,"Engineering Technologies/Technicians, Other.",Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Engineering Technologies/Technicians, Other.",Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Engineering Technologies/Technicians, Other.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,"Engineering Technology, General.",Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Engineering Technology, General.",Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,"English Language and Literature, General.",Bachelor's Degree,99,22701,21749
-2015_2016,001890,University of Northern Iowa,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,"English Language and Literature, General.",Bachelor's Degree,88,22820,22670
-2016_2017,001890,University of Northern Iowa,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,"English Language and Literature, General.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Finance and Financial Management Services.,Bachelor's Degree,97,21250,19890
 2016_2017,001890,University of Northern Iowa,Public,Finance and Financial Management Services.,Bachelor's Degree,96,21187,20221
 2015_2016,001890,University of Northern Iowa,Public,Fine and Studio Arts.,Bachelor's Degree,65,21085,21563
-2015_2016,001890,University of Northern Iowa,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Fine and Studio Arts.,Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,Fine and Studio Arts.,Bachelor's Degree,49,20250,21772
-2016_2017,001890,University of Northern Iowa,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Geography and Cartography.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Geography and Cartography.,Bachelor's Degree,13,NA,19756
-2016_2017,001890,University of Northern Iowa,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Fine and Studio Arts.,Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Geography and Cartography.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Geography and Cartography.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Geography and Cartography.,Bachelor's Degree,13,,19756
+2016_2017,001890,University of Northern Iowa,Public,Geography and Cartography.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,22,20944,19692
-2016_2017,001890,University of Northern Iowa,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,17468
-2015_2016,001890,University of Northern Iowa,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Gerontology.,Bachelor's Degree,14,NA,19243
-2016_2017,001890,University of Northern Iowa,Public,Gerontology.,Bachelor's Degree,NA,NA,18790
-2015_2016,001890,University of Northern Iowa,Public,Graphic Communications.,Bachelor's Degree,19,NA,19051
-2015_2016,001890,University of Northern Iowa,Public,Graphic Communications.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,17468
+2015_2016,001890,University of Northern Iowa,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Gerontology.,Bachelor's Degree,14,,19243
+2016_2017,001890,University of Northern Iowa,Public,Gerontology.,Bachelor's Degree,,,18790
+2015_2016,001890,University of Northern Iowa,Public,Graphic Communications.,Bachelor's Degree,19,,19051
+2015_2016,001890,University of Northern Iowa,Public,Graphic Communications.,Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,Graphic Communications.,Bachelor's Degree,20,21500,21442
-2016_2017,001890,University of Northern Iowa,Public,Graphic Communications.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Graphic Communications.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Health and Physical Education/Fitness.,Bachelor's Degree,84,20665,20880
-2015_2016,001890,University of Northern Iowa,Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Health and Physical Education/Fitness.,Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,Health and Physical Education/Fitness.,Bachelor's Degree,120,20500,20006
-2016_2017,001890,University of Northern Iowa,Public,Health and Physical Education/Fitness.,Master's Degree,11,NA,20903
+2016_2017,001890,University of Northern Iowa,Public,Health and Physical Education/Fitness.,Master's Degree,11,,20903
 2015_2016,001890,University of Northern Iowa,Public,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,29,19874,18656
 2016_2017,001890,University of Northern Iowa,Public,"Health Professions and Related Clinical Sciences, Other.",Bachelor's Degree,46,15300,16928
 2015_2016,001890,University of Northern Iowa,Public,History.,Bachelor's Degree,60,25000,24767
-2015_2016,001890,University of Northern Iowa,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,History.,Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,History.,Bachelor's Degree,54,22232,23264
-2016_2017,001890,University of Northern Iowa,Public,History.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,History.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,95,21438,21258
 2016_2017,001890,University of Northern Iowa,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,105,23027,22984
 2015_2016,001890,University of Northern Iowa,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,40,19251,19354
-2015_2016,001890,University of Northern Iowa,Public,Industrial Production Technologies/Technicians.,Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Industrial Production Technologies/Technicians.,Doctoral Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Industrial Production Technologies/Technicians.,Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Industrial Production Technologies/Technicians.,Doctoral Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,39,19500,20295
-2016_2017,001890,University of Northern Iowa,Public,Industrial Production Technologies/Technicians.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Industrial Production Technologies/Technicians.,Doctoral Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,International/Global Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Industrial Production Technologies/Technicians.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Industrial Production Technologies/Technicians.,Doctoral Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,International/Global Studies.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,International/Global Studies.,Bachelor's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,72,22396,21798
 2016_2017,001890,University of Northern Iowa,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,74,21427,21000
-2015_2016,001890,University of Northern Iowa,Public,Library Science and Administration.,Master's Degree,13,NA,23396
-2016_2017,001890,University of Northern Iowa,Public,Library Science and Administration.,Master's Degree,14,NA,25678
-2015_2016,001890,University of Northern Iowa,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Library Science and Administration.,Master's Degree,13,,23396
+2016_2017,001890,University of Northern Iowa,Public,Library Science and Administration.,Master's Degree,14,,25678
+2015_2016,001890,University of Northern Iowa,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Management Information Systems and Services.,Bachelor's Degree,48,21500,21556
 2016_2017,001890,University of Northern Iowa,Public,Management Information Systems and Services.,Bachelor's Degree,58,22500,22259
 2015_2016,001890,University of Northern Iowa,Public,Marketing.,Bachelor's Degree,93,18062,18065
 2016_2017,001890,University of Northern Iowa,Public,Marketing.,Bachelor's Degree,107,18000,17735
-2015_2016,001890,University of Northern Iowa,Public,Materials Engineering,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Materials Engineering,Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Materials Engineering,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Materials Engineering,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Mathematics.,Bachelor's Degree,46,18345,20091
-2015_2016,001890,University of Northern Iowa,Public,Mathematics.,Master's Degree,12,NA,8134
+2015_2016,001890,University of Northern Iowa,Public,Mathematics.,Master's Degree,12,,8134
 2016_2017,001890,University of Northern Iowa,Public,Mathematics.,Bachelor's Degree,35,16066,18755
-2016_2017,001890,University of Northern Iowa,Public,Mathematics.,Master's Degree,12,NA,8017
-2015_2016,001890,University of Northern Iowa,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,18,NA,36551
-2016_2017,001890,University of Northern Iowa,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,16,NA,38977
-2015_2016,001890,University of Northern Iowa,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Mathematics.,Master's Degree,12,,8017
+2015_2016,001890,University of Northern Iowa,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,18,,36551
+2016_2017,001890,University of Northern Iowa,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,16,,38977
+2015_2016,001890,University of Northern Iowa,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Microbiological Sciences and Immunology.,Bachelor's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Music.,Bachelor's Degree,22,24104,21446
-2015_2016,001890,University of Northern Iowa,Public,Music.,Master's Degree,13,NA,23921
+2015_2016,001890,University of Northern Iowa,Public,Music.,Master's Degree,13,,23921
 2016_2017,001890,University of Northern Iowa,Public,Music.,Bachelor's Degree,23,22000,20421
-2016_2017,001890,University of Northern Iowa,Public,Music.,Master's Degree,12,NA,25481
-2015_2016,001890,University of Northern Iowa,Public,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Music.,Master's Degree,12,,25481
+2015_2016,001890,University of Northern Iowa,Public,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Natural Resources Conservation and Research.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,68,19750,20560
-2015_2016,001890,University of Northern Iowa,Public,"Parks, Recreation and Leisure Studies.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,"Parks, Recreation and Leisure Studies.",Doctoral Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"Parks, Recreation and Leisure Studies.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,"Parks, Recreation and Leisure Studies.",Doctoral Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,78,19250,19425
-2016_2017,001890,University of Northern Iowa,Public,"Parks, Recreation and Leisure Studies.",Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Parks, Recreation and Leisure Studies.",Doctoral Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Philosophy.,Bachelor's Degree,NA,NA,20471
-2015_2016,001890,University of Northern Iowa,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Physics.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Physics.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,"Parks, Recreation and Leisure Studies.",Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Parks, Recreation and Leisure Studies.",Doctoral Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Philosophy.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Philosophy.,Bachelor's Degree,,,20471
+2015_2016,001890,University of Northern Iowa,Public,Physics.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Physics.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Physics.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Physics.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Political Science and Government.,Bachelor's Degree,27,19418,19764
 2016_2017,001890,University of Northern Iowa,Public,Political Science and Government.,Bachelor's Degree,25,23250,19759
 2015_2016,001890,University of Northern Iowa,Public,"Psychology, General.",Bachelor's Degree,157,18250,18018
-2015_2016,001890,University of Northern Iowa,Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"Psychology, General.",Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,"Psychology, General.",Bachelor's Degree,150,18639,18365
-2016_2017,001890,University of Northern Iowa,Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Public Administration.,Bachelor's Degree,19,NA,21146
-2016_2017,001890,University of Northern Iowa,Public,Public Administration.,Bachelor's Degree,15,NA,20247
-2015_2016,001890,University of Northern Iowa,Public,Public Health.,Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Public Health.,Doctoral Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Public Health.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Public Health.,Doctoral Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Public Policy Analysis.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Public Policy Analysis.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,"Psychology, General.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Public Administration.,Bachelor's Degree,19,,21146
+2016_2017,001890,University of Northern Iowa,Public,Public Administration.,Bachelor's Degree,15,,20247
+2015_2016,001890,University of Northern Iowa,Public,Public Health.,Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Public Health.,Doctoral Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Public Health.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Public Health.,Doctoral Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Public Policy Analysis.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Public Policy Analysis.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,69,17750,16915
-2015_2016,001890,University of Northern Iowa,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,55,20500,19070
-2016_2017,001890,University of Northern Iowa,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,63,21000,20391
 2016_2017,001890,University of Northern Iowa,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,54,20235,19783
 2015_2016,001890,University of Northern Iowa,Public,Real Estate.,Bachelor's Degree,38,22879,21610
 2016_2017,001890,University of Northern Iowa,Public,Real Estate.,Bachelor's Degree,44,20591,20095
-2015_2016,001890,University of Northern Iowa,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Religion/Religious Studies.,Bachelor's Degree,NA,NA,22640
-2016_2017,001890,University of Northern Iowa,Public,Religion/Religious Studies.,Bachelor's Degree,NA,NA,20620
-2015_2016,001890,University of Northern Iowa,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Religion/Religious Studies.,Bachelor's Degree,,,22640
+2016_2017,001890,University of Northern Iowa,Public,Religion/Religious Studies.,Bachelor's Degree,,,20620
+2015_2016,001890,University of Northern Iowa,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,34,25750,22799
-2015_2016,001890,University of Northern Iowa,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,29,23813,21464
-2016_2017,001890,University of Northern Iowa,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Social and Philosophical Foundations of Education.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Social and Philosophical Foundations of Education.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Social and Philosophical Foundations of Education.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Social Work.,Bachelor's Degree,71,17500,18887
 2015_2016,001890,University of Northern Iowa,Public,Social Work.,Master's Degree,47,26511,25787
 2016_2017,001890,University of Northern Iowa,Public,Social Work.,Bachelor's Degree,95,19500,20582
 2016_2017,001890,University of Northern Iowa,Public,Social Work.,Master's Degree,53,24672,25183
 2015_2016,001890,University of Northern Iowa,Public,Sociology.,Bachelor's Degree,20,18569,18930
-2015_2016,001890,University of Northern Iowa,Public,Sociology.,Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,Sociology.,Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,Sociology.,Bachelor's Degree,28,16875,18116
-2016_2017,001890,University of Northern Iowa,Public,Sociology.,Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,001890,University of Northern Iowa,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Sociology.,Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Special Education and Teaching.,Master's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,001890,University of Northern Iowa,Public,Special Education and Teaching.,Master's Degree,,,
 2015_2016,001890,University of Northern Iowa,Public,Statistics.,Bachelor's Degree,20,14125,15837
-2016_2017,001890,University of Northern Iowa,Public,Statistics.,Bachelor's Degree,15,NA,16168
+2016_2017,001890,University of Northern Iowa,Public,Statistics.,Bachelor's Degree,15,,16168
 2015_2016,001890,University of Northern Iowa,Public,Student Counseling and Personnel Services.,Master's Degree,47,28500,26452
 2016_2017,001890,University of Northern Iowa,Public,Student Counseling and Personnel Services.,Master's Degree,34,28076,25616
 2015_2016,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,378,22492,22690
-2015_2016,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,14,NA,15064
+2015_2016,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,14,,15064
 2016_2017,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,410,22427,22105
 2016_2017,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,20,17415,21552
 2015_2016,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,123,22963,22829
-2015_2016,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,119,21500,21697
-2016_2017,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,001890,University of Northern Iowa,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,19,NA,25961
-2015_2016,001890,University of Northern Iowa,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,001890,University of Northern Iowa,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,19,,25961
+2015_2016,001890,University of Northern Iowa,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
 2016_2017,001890,University of Northern Iowa,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,20,19261,20141
-2016_2017,001890,University of Northern Iowa,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
+2016_2017,001890,University of Northern Iowa,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,

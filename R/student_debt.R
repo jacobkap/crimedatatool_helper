@@ -1,7 +1,7 @@
 source(here::here('R/utils.R'))
 setwd(here::here("raw_data"))
 
-debt <- readr::read_csv("ProgramDebt1415_1516PP.csv")
+debt  <- readr::read_csv("ProgramDebt1415_1516PP.csv")
 debt2 <- readr::read_csv("ProgramDebt1516_1617PP.csv")
 
 debt <-
@@ -35,6 +35,11 @@ summary(debt)
 
 setwd(here::here("data/student_debt"))
 data <- data.table::data.table(debt)
+
+school_name <- unique(data$school_name)
+school_name <- jsonlite::toJSON(school_name, pretty = FALSE)
+write(school_name, paste0("school_choices.json"))
+
 pb <- txtProgressBar(min = 0, max = length(unique(data$school_name)), style = 3)
 for (i in 1:length(unique(data$school_name))) {
   selected_school = unique(data$school_name)[i]
@@ -48,7 +53,7 @@ for (i in 1:length(unique(data$school_name))) {
   school <- gsub("_+", "_", school)
   if (any(!is.na(temp$mean_debt)) |
       any(!is.na(temp$median_debt)))  {
-  readr::write_csv(temp, path = paste0(school, ".csv"))
+    data.table::fwrite(temp, file = paste0(school, ".csv"))
   }
   setTxtProgressBar(pb, i)    # update progress bar
 }

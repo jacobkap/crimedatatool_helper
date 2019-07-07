@@ -3,56 +3,56 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,001868,Grinnell College,Private,Anthropology.,Bachelor's Degree,20,16699,15200
 2015_2016,001868,Grinnell College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,32,13000,12745
 2016_2017,001868,Grinnell College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,27,16296,15791
-2015_2016,001868,Grinnell College,Private,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,001868,Grinnell College,Private,"Biological and Biomedical Sciences, Other.",Bachelor's Degree,,,
 2015_2016,001868,Grinnell College,Private,"Biology, General.",Bachelor's Degree,40,11303,11400
 2016_2017,001868,Grinnell College,Private,"Biology, General.",Bachelor's Degree,35,12556,14478
-2015_2016,001868,Grinnell College,Private,Chemistry.,Bachelor's Degree,13,NA,14291
-2016_2017,001868,Grinnell College,Private,Chemistry.,Bachelor's Degree,16,NA,15659
-2015_2016,001868,Grinnell College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001868,Grinnell College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001868,Grinnell College,Private,Computer Science.,Bachelor's Degree,17,NA,11407
+2015_2016,001868,Grinnell College,Private,Chemistry.,Bachelor's Degree,13,,14291
+2016_2017,001868,Grinnell College,Private,Chemistry.,Bachelor's Degree,16,,15659
+2015_2016,001868,Grinnell College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001868,Grinnell College,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001868,Grinnell College,Private,Computer Science.,Bachelor's Degree,17,,11407
 2016_2017,001868,Grinnell College,Private,Computer Science.,Bachelor's Degree,34,12286,13185
-2015_2016,001868,Grinnell College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,13011
-2016_2017,001868,Grinnell College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001868,Grinnell College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001868,Grinnell College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,001868,Grinnell College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,13011
+2016_2017,001868,Grinnell College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001868,Grinnell College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001868,Grinnell College,Private,"East Asian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,001868,Grinnell College,Private,Economics.,Bachelor's Degree,37,12500,12512
 2016_2017,001868,Grinnell College,Private,Economics.,Bachelor's Degree,39,11700,12388
 2015_2016,001868,Grinnell College,Private,"English Language and Literature, General.",Bachelor's Degree,39,13500,13606
 2016_2017,001868,Grinnell College,Private,"English Language and Literature, General.",Bachelor's Degree,38,15570,14806
 2015_2016,001868,Grinnell College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,22,10375,10856
-2016_2017,001868,Grinnell College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,18,NA,12092
-2015_2016,001868,Grinnell College,Private,Fine and Studio Arts.,Bachelor's Degree,19,NA,13541
-2016_2017,001868,Grinnell College,Private,Fine and Studio Arts.,Bachelor's Degree,17,NA,14006
-2015_2016,001868,Grinnell College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001868,Grinnell College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,001868,Grinnell College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,18,,12092
+2015_2016,001868,Grinnell College,Private,Fine and Studio Arts.,Bachelor's Degree,19,,13541
+2016_2017,001868,Grinnell College,Private,Fine and Studio Arts.,Bachelor's Degree,17,,14006
+2015_2016,001868,Grinnell College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001868,Grinnell College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,001868,Grinnell College,Private,History.,Bachelor's Degree,23,13750,14392
 2016_2017,001868,Grinnell College,Private,History.,Bachelor's Degree,20,15148,15086
-2015_2016,001868,Grinnell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001868,Grinnell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001868,Grinnell College,Private,"Mathematics and Statistics, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001868,Grinnell College,Private,Mathematics.,Bachelor's Degree,12,NA,14051
-2016_2017,001868,Grinnell College,Private,Mathematics.,Bachelor's Degree,15,NA,12364
-2015_2016,001868,Grinnell College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001868,Grinnell College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001868,Grinnell College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001868,Grinnell College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001868,Grinnell College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001868,Grinnell College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001868,Grinnell College,Private,"Physical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001868,Grinnell College,Private,"Physical Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001868,Grinnell College,Private,Physics.,Bachelor's Degree,13,NA,13562
-2016_2017,001868,Grinnell College,Private,Physics.,Bachelor's Degree,16,NA,15032
+2015_2016,001868,Grinnell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001868,Grinnell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001868,Grinnell College,Private,"Mathematics and Statistics, Other.",Bachelor's Degree,,,
+2015_2016,001868,Grinnell College,Private,Mathematics.,Bachelor's Degree,12,,14051
+2016_2017,001868,Grinnell College,Private,Mathematics.,Bachelor's Degree,15,,12364
+2015_2016,001868,Grinnell College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001868,Grinnell College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,001868,Grinnell College,Private,Music.,Bachelor's Degree,,,
+2016_2017,001868,Grinnell College,Private,Music.,Bachelor's Degree,,,
+2015_2016,001868,Grinnell College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001868,Grinnell College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001868,Grinnell College,Private,"Physical Sciences, Other.",Bachelor's Degree,,,
+2016_2017,001868,Grinnell College,Private,"Physical Sciences, Other.",Bachelor's Degree,,,
+2015_2016,001868,Grinnell College,Private,Physics.,Bachelor's Degree,13,,13562
+2016_2017,001868,Grinnell College,Private,Physics.,Bachelor's Degree,16,,15032
 2015_2016,001868,Grinnell College,Private,Political Science and Government.,Bachelor's Degree,34,12359,12472
 2016_2017,001868,Grinnell College,Private,Political Science and Government.,Bachelor's Degree,39,16500,14664
 2015_2016,001868,Grinnell College,Private,"Psychology, General.",Bachelor's Degree,39,13100,13069
 2016_2017,001868,Grinnell College,Private,"Psychology, General.",Bachelor's Degree,25,16980,16857
-2016_2017,001868,Grinnell College,Private,"Psychology, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001868,Grinnell College,Private,Religion/Religious Studies.,Bachelor's Degree,10,NA,11747
-2016_2017,001868,Grinnell College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,001868,Grinnell College,Private,"Psychology, Other.",Bachelor's Degree,,,
+2015_2016,001868,Grinnell College,Private,Religion/Religious Studies.,Bachelor's Degree,10,,11747
+2016_2017,001868,Grinnell College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
 2015_2016,001868,Grinnell College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,34,10786,11494
 2016_2017,001868,Grinnell College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,29,13350,12443
-2015_2016,001868,Grinnell College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001868,Grinnell College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,001868,Grinnell College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001868,Grinnell College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,001868,Grinnell College,Private,Sociology.,Bachelor's Degree,24,13448,13099
 2016_2017,001868,Grinnell College,Private,Sociology.,Bachelor's Degree,23,13458,12992

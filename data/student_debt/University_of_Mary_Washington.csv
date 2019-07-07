@@ -1,81 +1,81 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003746,University of Mary Washington,Public,Anthropology.,Bachelor's Degree,13,NA,22850
-2016_2017,003746,University of Mary Washington,Public,Anthropology.,Bachelor's Degree,14,NA,21700
-2015_2016,003746,University of Mary Washington,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003746,University of Mary Washington,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
+2015_2016,003746,University of Mary Washington,Public,Anthropology.,Bachelor's Degree,13,,22850
+2016_2017,003746,University of Mary Washington,Public,Anthropology.,Bachelor's Degree,14,,21700
+2015_2016,003746,University of Mary Washington,Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,003746,University of Mary Washington,Public,Area Studies.,Bachelor's Degree,,,
 2015_2016,003746,University of Mary Washington,Public,"Biology, General.",Bachelor's Degree,91,22750,20505
 2016_2017,003746,University of Mary Washington,Public,"Biology, General.",Bachelor's Degree,92,19500,19518
-2016_2017,003746,University of Mary Washington,Public,"Biology, General.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003746,University of Mary Washington,Public,"Biology, General.",Post-baccalaureate Certificate,,,
 2015_2016,003746,University of Mary Washington,Public,"Business Administration, Management and Operations.",Bachelor's Degree,140,21270,20867
-2015_2016,003746,University of Mary Washington,Public,"Business Administration, Management and Operations.",Master's Degree,13,NA,28141
+2015_2016,003746,University of Mary Washington,Public,"Business Administration, Management and Operations.",Master's Degree,13,,28141
 2016_2017,003746,University of Mary Washington,Public,"Business Administration, Management and Operations.",Bachelor's Degree,150,19500,19725
-2016_2017,003746,University of Mary Washington,Public,"Business Administration, Management and Operations.",Master's Degree,14,NA,35853
-2015_2016,003746,University of Mary Washington,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003746,University of Mary Washington,Public,Chemistry.,Bachelor's Degree,10,NA,26994
-2015_2016,003746,University of Mary Washington,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,13,NA,24933
-2016_2017,003746,University of Mary Washington,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,13,NA,26965
+2016_2017,003746,University of Mary Washington,Public,"Business Administration, Management and Operations.",Master's Degree,14,,35853
+2015_2016,003746,University of Mary Washington,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,003746,University of Mary Washington,Public,Chemistry.,Bachelor's Degree,10,,26994
+2015_2016,003746,University of Mary Washington,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,13,,24933
+2016_2017,003746,University of Mary Washington,Public,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,13,,26965
 2015_2016,003746,University of Mary Washington,Public,"Computer and Information Sciences, General.",Bachelor's Degree,40,23125,21182
 2016_2017,003746,University of Mary Washington,Public,"Computer and Information Sciences, General.",Bachelor's Degree,54,23250,21145
-2016_2017,003746,University of Mary Washington,Public,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003746,University of Mary Washington,Public,"Computer and Information Sciences, General.",Post-baccalaureate Certificate,,,
 2015_2016,003746,University of Mary Washington,Public,Economics.,Bachelor's Degree,26,21731,19795
-2016_2017,003746,University of Mary Washington,Public,Economics.,Bachelor's Degree,19,NA,22445
+2016_2017,003746,University of Mary Washington,Public,Economics.,Bachelor's Degree,19,,22445
 2015_2016,003746,University of Mary Washington,Public,"Education, General.",Master's Degree,57,20260,25390
 2016_2017,003746,University of Mary Washington,Public,"Education, General.",Master's Degree,80,20320,25280
 2015_2016,003746,University of Mary Washington,Public,"English Language and Literature, General.",Bachelor's Degree,134,20910,19749
 2016_2017,003746,University of Mary Washington,Public,"English Language and Literature, General.",Bachelor's Degree,128,20951,20083
 2015_2016,003746,University of Mary Washington,Public,Fine and Studio Arts.,Bachelor's Degree,35,19500,20591
 2016_2017,003746,University of Mary Washington,Public,Fine and Studio Arts.,Bachelor's Degree,44,21250,21089
-2015_2016,003746,University of Mary Washington,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003746,University of Mary Washington,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,,,
 2015_2016,003746,University of Mary Washington,Public,Geography and Cartography.,Bachelor's Degree,25,21500,17982
-2015_2016,003746,University of Mary Washington,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
-2016_2017,003746,University of Mary Washington,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003746,University of Mary Washington,Public,Geography and Cartography.,Master's Degree,,,
+2016_2017,003746,University of Mary Washington,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,,,
 2016_2017,003746,University of Mary Washington,Public,Geography and Cartography.,Bachelor's Degree,40,23000,20885
-2016_2017,003746,University of Mary Washington,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
+2016_2017,003746,University of Mary Washington,Public,Geography and Cartography.,Master's Degree,,,
 2015_2016,003746,University of Mary Washington,Public,Historic Preservation and Conservation.,Bachelor's Degree,36,24519,24268
 2016_2017,003746,University of Mary Washington,Public,Historic Preservation and Conservation.,Bachelor's Degree,35,21500,21440
 2015_2016,003746,University of Mary Washington,Public,History.,Bachelor's Degree,60,20890,20098
 2016_2017,003746,University of Mary Washington,Public,History.,Bachelor's Degree,63,20500,20023
 2015_2016,003746,University of Mary Washington,Public,International Relations and National Security Studies.,Bachelor's Degree,29,23250,22753
 2016_2017,003746,University of Mary Washington,Public,International Relations and National Security Studies.,Bachelor's Degree,28,22625,20095
-2015_2016,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,19500,19293
+2015_2016,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,,19500,19293
 2015_2016,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,45,18750,17482
-2015_2016,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,NA,NA,NA
-2015_2016,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,19500,18957
+2015_2016,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Master's Degree,,,
+2015_2016,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Graduate/Professional Certificate,,,
+2016_2017,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,,19500,18957
 2016_2017,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,46,18750,17391
-2016_2017,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003746,University of Mary Washington,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Graduate/Professional Certificate,,,
 2015_2016,003746,University of Mary Washington,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,40,21784,19724
-2015_2016,003746,University of Mary Washington,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003746,University of Mary Washington,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Post-baccalaureate Certificate,,,
 2016_2017,003746,University of Mary Washington,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,33,23069,19316
-2016_2017,003746,University of Mary Washington,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003746,University of Mary Washington,Public,Management Information Systems and Services.,Master's Degree,NA,NA,NA
-2016_2017,003746,University of Mary Washington,Public,Management Information Systems and Services.,Master's Degree,NA,NA,NA
+2016_2017,003746,University of Mary Washington,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Post-baccalaureate Certificate,,,
+2015_2016,003746,University of Mary Washington,Public,Management Information Systems and Services.,Master's Degree,,,
+2016_2017,003746,University of Mary Washington,Public,Management Information Systems and Services.,Master's Degree,,,
 2015_2016,003746,University of Mary Washington,Public,Mathematics.,Bachelor's Degree,36,20547,19371
 2016_2017,003746,University of Mary Washington,Public,Mathematics.,Bachelor's Degree,33,22500,19283
-2015_2016,003746,University of Mary Washington,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003746,University of Mary Washington,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003746,University of Mary Washington,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003746,University of Mary Washington,Public,Music.,Bachelor's Degree,13,NA,22039
+2015_2016,003746,University of Mary Washington,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003746,University of Mary Washington,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,003746,University of Mary Washington,Public,Music.,Bachelor's Degree,,,
+2016_2017,003746,University of Mary Washington,Public,Music.,Bachelor's Degree,13,,22039
 2015_2016,003746,University of Mary Washington,Public,"Philosophy and Religious Studies, Other.",Bachelor's Degree,21,17750,19783
 2016_2017,003746,University of Mary Washington,Public,"Philosophy and Religious Studies, Other.",Bachelor's Degree,20,18375,20060
 2015_2016,003746,University of Mary Washington,Public,"Physical Sciences, Other.",Bachelor's Degree,41,21988,20544
 2016_2017,003746,University of Mary Washington,Public,"Physical Sciences, Other.",Bachelor's Degree,41,21988,20820
-2015_2016,003746,University of Mary Washington,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003746,University of Mary Washington,Public,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003746,University of Mary Washington,Public,Physics.,Bachelor's Degree,,,
+2016_2017,003746,University of Mary Washington,Public,Physics.,Bachelor's Degree,,,
 2015_2016,003746,University of Mary Washington,Public,Political Science and Government.,Bachelor's Degree,38,24125,21795
-2015_2016,003746,University of Mary Washington,Public,Political Science and Government.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003746,University of Mary Washington,Public,Political Science and Government.,Post-baccalaureate Certificate,,,
 2016_2017,003746,University of Mary Washington,Public,Political Science and Government.,Bachelor's Degree,38,25750,21615
-2016_2017,003746,University of Mary Washington,Public,Political Science and Government.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003746,University of Mary Washington,Public,Political Science and Government.,Post-baccalaureate Certificate,,,
 2015_2016,003746,University of Mary Washington,Public,"Psychology, General.",Bachelor's Degree,121,23250,21397
 2016_2017,003746,University of Mary Washington,Public,"Psychology, General.",Bachelor's Degree,123,20500,20154
-2015_2016,003746,University of Mary Washington,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,003746,University of Mary Washington,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,15,NA,15633
+2015_2016,003746,University of Mary Washington,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,003746,University of Mary Washington,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,15,,15633
 2015_2016,003746,University of Mary Washington,Public,Sociology.,Bachelor's Degree,46,24918,21598
 2016_2017,003746,University of Mary Washington,Public,Sociology.,Bachelor's Degree,48,21214,20084
-2015_2016,003746,University of Mary Washington,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003746,University of Mary Washington,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003746,University of Mary Washington,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2016_2017,003746,University of Mary Washington,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,
 2015_2016,003746,University of Mary Washington,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,21,17702,15021
 2016_2017,003746,University of Mary Washington,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,21,16415,14211
-2015_2016,003746,University of Mary Washington,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,003746,University of Mary Washington,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
 2015_2016,003746,University of Mary Washington,Public,"Visual and Performing Arts, General.",Bachelor's Degree,22,25782,24420
 2016_2017,003746,University of Mary Washington,Public,"Visual and Performing Arts, General.",Bachelor's Degree,23,22450,22452

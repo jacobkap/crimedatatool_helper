@@ -1,40 +1,40 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,012031,San Diego Christian College,Private,Air Transportation.,Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,Air Transportation.,Bachelor's Degree,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,"Biology, General.",Bachelor's Degree,12,NA,21041
-2015_2016,012031,San Diego Christian College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,15,NA,23518
+2015_2016,012031,San Diego Christian College,Private,Air Transportation.,Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,Air Transportation.,Bachelor's Degree,,,
+2015_2016,012031,San Diego Christian College,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2015_2016,012031,San Diego Christian College,Private,"Biology, General.",Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,"Biology, General.",Bachelor's Degree,12,,21041
+2015_2016,012031,San Diego Christian College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,15,,23518
 2016_2017,012031,San Diego Christian College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,28,23000,23445
-2015_2016,012031,San Diego Christian College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,Communication and Media Studies.,Bachelor's Degree,12,NA,23339
-2015_2016,012031,San Diego Christian College,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,19,NA,22865
-2015_2016,012031,San Diego Christian College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,10,NA,33623
-2016_2017,012031,San Diego Christian College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,19,NA,35263
-2015_2016,012031,San Diego Christian College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,14,NA,7727
-2015_2016,012031,San Diego Christian College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,14,NA,7727
-2016_2017,012031,San Diego Christian College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,"Psychology, General.",Bachelor's Degree,16,NA,24236
-2015_2016,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,012031,San Diego Christian College,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,012031,San Diego Christian College,Private,Theological and Ministerial Studies.,Bachelor's Degree,17,NA,34610
+2015_2016,012031,San Diego Christian College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,Communication and Media Studies.,Bachelor's Degree,12,,23339
+2015_2016,012031,San Diego Christian College,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2015_2016,012031,San Diego Christian College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,012031,San Diego Christian College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,19,,22865
+2015_2016,012031,San Diego Christian College,Private,History.,Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,History.,Bachelor's Degree,,,
+2015_2016,012031,San Diego Christian College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,10,,33623
+2016_2017,012031,San Diego Christian College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,19,,35263
+2015_2016,012031,San Diego Christian College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,14,,7727
+2015_2016,012031,San Diego Christian College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,012031,San Diego Christian College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Post-baccalaureate Certificate,,,
+2016_2017,012031,San Diego Christian College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,14,,7727
+2016_2017,012031,San Diego Christian College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,012031,San Diego Christian College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,012031,San Diego Christian College,Private,Music.,Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,Music.,Bachelor's Degree,,,
+2015_2016,012031,San Diego Christian College,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,"Psychology, General.",Bachelor's Degree,16,,24236
+2015_2016,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2015_2016,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2015_2016,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,012031,San Diego Christian College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,012031,San Diego Christian College,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,012031,San Diego Christian College,Private,Theological and Ministerial Studies.,Bachelor's Degree,17,,34610

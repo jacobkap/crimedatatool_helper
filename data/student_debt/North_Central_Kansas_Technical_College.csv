@@ -1,69 +1,69 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,005265,North Central Kansas Technical College,Public,Agricultural Mechanization.,Associate's Degree,19,NA,11376
-2016_2017,005265,North Central Kansas Technical College,Public,Agricultural Mechanization.,Associate's Degree,13,NA,11134
-2015_2016,005265,North Central Kansas Technical College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,12734
+2015_2016,005265,North Central Kansas Technical College,Public,Agricultural Mechanization.,Associate's Degree,19,,11376
+2016_2017,005265,North Central Kansas Technical College,Public,Agricultural Mechanization.,Associate's Degree,13,,11134
+2015_2016,005265,North Central Kansas Technical College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,005265,North Central Kansas Technical College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2015_2016,005265,North Central Kansas Technical College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,005265,North Central Kansas Technical College,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,005265,North Central Kansas Technical College,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
+2015_2016,005265,North Central Kansas Technical College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,005265,North Central Kansas Technical College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,005265,North Central Kansas Technical College,Public,"Business/Commerce, General.",Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,"Business/Commerce, General.",Associate's Degree,,,12734
 2015_2016,005265,North Central Kansas Technical College,Public,Carpenters.,Undergraduate Certificate or Diploma,21,5500,6488
-2015_2016,005265,North Central Kansas Technical College,Public,Carpenters.,Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Carpenters.,Undergraduate Certificate or Diploma,16,NA,7642
-2015_2016,005265,North Central Kansas Technical College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,"Construction Trades, Other.",Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,"Construction Trades, Other.",Associate's Degree,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,7162
-2015_2016,005265,North Central Kansas Technical College,Public,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,14,NA,5512
-2015_2016,005265,North Central Kansas Technical College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,Electrical and Power Transmission Installers.,Associate's Degree,17,NA,14138
-2016_2017,005265,North Central Kansas Technical College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Electrical and Power Transmission Installers.,Associate's Degree,15,NA,12943
-2015_2016,005265,North Central Kansas Technical College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,NA,NA
+2015_2016,005265,North Central Kansas Technical College,Public,Carpenters.,Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Carpenters.,Undergraduate Certificate or Diploma,16,,7642
+2015_2016,005265,North Central Kansas Technical College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,005265,North Central Kansas Technical College,Public,"Computer and Information Sciences, General.",Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,005265,North Central Kansas Technical College,Public,"Computer and Information Sciences, General.",Associate's Degree,,,
+2015_2016,005265,North Central Kansas Technical College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2015_2016,005265,North Central Kansas Technical College,Public,"Construction Trades, Other.",Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,"Construction Trades, Other.",Associate's Degree,,,
+2015_2016,005265,North Central Kansas Technical College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,7162
+2015_2016,005265,North Central Kansas Technical College,Public,Culinary Arts and Related Services.,Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,14,,5512
+2015_2016,005265,North Central Kansas Technical College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2015_2016,005265,North Central Kansas Technical College,Public,Electrical and Power Transmission Installers.,Associate's Degree,17,,14138
+2016_2017,005265,North Central Kansas Technical College,Public,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Electrical and Power Transmission Installers.,Associate's Degree,15,,12943
+2015_2016,005265,North Central Kansas Technical College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,,
 2015_2016,005265,North Central Kansas Technical College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,33,5500,6176
-2015_2016,005265,North Central Kansas Technical College,Public,Ground Transportation.,Associate's Degree,NA,NA,NA
+2015_2016,005265,North Central Kansas Technical College,Public,Ground Transportation.,Associate's Degree,,,
 2016_2017,005265,North Central Kansas Technical College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,42,5500,5829
-2015_2016,005265,North Central Kansas Technical College,Public,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005265,North Central Kansas Technical College,Public,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,,,
 2015_2016,005265,North Central Kansas Technical College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,25,5500,7563
 2016_2017,005265,North Central Kansas Technical College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,24,5500,7354
-2015_2016,005265,North Central Kansas Technical College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Marketing.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Marketing.,Associate's Degree,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,Mason/Masonry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,Mason/Masonry.,Associate's Degree,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,Mason/Masonry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,16352
-2016_2017,005265,North Central Kansas Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,14584
+2015_2016,005265,North Central Kansas Technical College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Marketing.,Undergraduate Certificate or Diploma,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Marketing.,Associate's Degree,,,
+2015_2016,005265,North Central Kansas Technical College,Public,Mason/Masonry.,Undergraduate Certificate or Diploma,,,
+2015_2016,005265,North Central Kansas Technical College,Public,Mason/Masonry.,Associate's Degree,,,
+2016_2017,005265,North Central Kansas Technical College,Public,Mason/Masonry.,Undergraduate Certificate or Diploma,,,
+2015_2016,005265,North Central Kansas Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,005265,North Central Kansas Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,16352
+2016_2017,005265,North Central Kansas Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,005265,North Central Kansas Technical College,Public,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,14584
 2015_2016,005265,North Central Kansas Technical College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,63,9500,10118
-2015_2016,005265,North Central Kansas Technical College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,NA,NA
+2015_2016,005265,North Central Kansas Technical College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,,
 2016_2017,005265,North Central Kansas Technical College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,75,9500,9403
-2016_2017,005265,North Central Kansas Technical College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,NA,NA
+2016_2017,005265,North Central Kansas Technical College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,,
 2015_2016,005265,North Central Kansas Technical College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,33,5500,6350
-2015_2016,005265,North Central Kansas Technical College,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
+2015_2016,005265,North Central Kansas Technical College,Public,Precision Metal Working.,Associate's Degree,,,
 2016_2017,005265,North Central Kansas Technical College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,33,5500,6204
-2015_2016,005265,North Central Kansas Technical College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005265,North Central Kansas Technical College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,12125,14489
-2016_2017,005265,North Central Kansas Technical College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005265,North Central Kansas Technical College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,10500,13632
+2015_2016,005265,North Central Kansas Technical College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
+2015_2016,005265,North Central Kansas Technical College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,12125,14489
+2016_2017,005265,North Central Kansas Technical College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
+2016_2017,005265,North Central Kansas Technical College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,10500,13632
 2015_2016,005265,North Central Kansas Technical College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,55,12000,13691
 2016_2017,005265,North Central Kansas Technical College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,50,12000,13637

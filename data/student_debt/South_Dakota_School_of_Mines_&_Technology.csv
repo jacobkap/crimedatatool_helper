@@ -1,100 +1,100 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Atmospheric Sciences and Meteorology.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Atmospheric Sciences and Meteorology.,Doctoral Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Atmospheric Sciences and Meteorology.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Atmospheric Sciences and Meteorology.,Doctoral Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Biotechnology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Biotechnology.,Bachelor's Degree,17,NA,23362
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Bachelor's Degree,16,NA,24457
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Atmospheric Sciences and Meteorology.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Atmospheric Sciences and Meteorology.,Doctoral Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Atmospheric Sciences and Meteorology.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Atmospheric Sciences and Meteorology.,Doctoral Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Biomedical/Medical Engineering.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Biomedical/Medical Engineering.,Doctoral Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Biomedical/Medical Engineering.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Biomedical/Medical Engineering.,Doctoral Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Biotechnology.,Bachelor's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Biotechnology.,Bachelor's Degree,17,,23362
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Bachelor's Degree,16,,24457
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Doctoral Degree,,,
 2016_2017,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Bachelor's Degree,39,28457,25806
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Chemical Engineering.,Doctoral Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Chemistry.,Bachelor's Degree,,,
 2015_2016,003470,South Dakota School of Mines & Technology,Public,Civil Engineering.,Bachelor's Degree,27,27000,26902
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Civil Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Civil Engineering.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Civil Engineering.,Doctoral Degree,,,
 2016_2017,003470,South Dakota School of Mines & Technology,Public,Civil Engineering.,Bachelor's Degree,55,27200,26569
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Civil Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Civil Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Computational Science.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Computational Science.,Master's Degree,NA,NA,NA
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Civil Engineering.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Civil Engineering.,Doctoral Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Computational Science.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Computational Science.,Master's Degree,,,
 2015_2016,003470,South Dakota School of Mines & Technology,Public,"Computer and Information Sciences, General.",Bachelor's Degree,23,27000,28105
 2016_2017,003470,South Dakota School of Mines & Technology,Public,"Computer and Information Sciences, General.",Bachelor's Degree,27,27000,28273
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Construction Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Construction Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Construction Management.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Construction Management.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Construction Management.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Construction Management.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,10,NA,26874
-2015_2016,003470,South Dakota School of Mines & Technology,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Construction Engineering.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Construction Engineering.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Construction Management.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Construction Management.,Graduate/Professional Certificate,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Construction Management.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Construction Management.,Graduate/Professional Certificate,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,10,,26874
+2015_2016,003470,South Dakota School of Mines & Technology,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
 2016_2017,003470,South Dakota School of Mines & Technology,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,27,27000,27755
-2016_2017,003470,South Dakota School of Mines & Technology,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Engineering-Related Fields.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Engineering-Related Fields.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,"Engineering, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,"Engineering, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,"Engineering, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,"Engineering, Other.",Doctoral Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,"Engineering, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,"Engineering, Other.",Doctoral Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,10,NA,32896
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,19,NA,33655
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Bachelor's Degree,13,NA,31875
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Doctoral Degree,NA,NA,NA
+2016_2017,003470,South Dakota School of Mines & Technology,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Engineering-Related Fields.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Engineering-Related Fields.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,"Engineering, General.",Bachelor's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,"Engineering, General.",Post-baccalaureate Certificate,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,"Engineering, General.",Post-baccalaureate Certificate,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,"Engineering, Other.",Post-baccalaureate Certificate,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,"Engineering, Other.",Doctoral Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,"Engineering, Other.",Post-baccalaureate Certificate,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,"Engineering, Other.",Doctoral Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Environmental/Environmental Health Engineering.,Bachelor's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,10,,32896
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,19,,33655
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Bachelor's Degree,13,,31875
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Post-baccalaureate Certificate,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Doctoral Degree,,,
 2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Bachelor's Degree,26,31000,28874
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Bachelor's Degree,17,NA,30705
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Post-baccalaureate Certificate,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Geological/Geophysical Engineering.,Doctoral Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Bachelor's Degree,17,,30705
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Post-baccalaureate Certificate,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Graduate/Professional Certificate,,,
 2016_2017,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Bachelor's Degree,35,27000,26418
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Materials Engineering,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Materials Engineering,Doctoral Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Materials Engineering,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Materials Engineering,Doctoral Degree,NA,NA,NA
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Post-baccalaureate Certificate,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Industrial Engineering.,Graduate/Professional Certificate,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Materials Engineering,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Materials Engineering,Doctoral Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Materials Engineering,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Materials Engineering,Doctoral Degree,,,
 2015_2016,003470,South Dakota School of Mines & Technology,Public,Mechanical Engineering.,Bachelor's Degree,56,28151,26872
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Mechanical Engineering.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Mechanical Engineering.,Doctoral Degree,,,
 2016_2017,003470,South Dakota School of Mines & Technology,Public,Mechanical Engineering.,Bachelor's Degree,106,27000,27232
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Mechanical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Metallurgical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Metallurgical Engineering.,Bachelor's Degree,16,NA,28068
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Mining and Mineral Engineering.,Bachelor's Degree,16,NA,28119
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Mining and Mineral Engineering.,Master's Degree,NA,NA,NA
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Mechanical Engineering.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Mechanical Engineering.,Doctoral Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Metallurgical Engineering.,Bachelor's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Metallurgical Engineering.,Bachelor's Degree,16,,28068
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Mining and Mineral Engineering.,Bachelor's Degree,16,,28119
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Mining and Mineral Engineering.,Master's Degree,,,
 2016_2017,003470,South Dakota School of Mines & Technology,Public,Mining and Mineral Engineering.,Bachelor's Degree,23,31000,26789
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Mining and Mineral Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,13,NA,28375
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Physics.,Master's Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Physics.,Doctoral Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Physics.,Master's Degree,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Physics.,Doctoral Degree,NA,NA,NA
-2015_2016,003470,South Dakota School of Mines & Technology,Public,Public Health.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003470,South Dakota School of Mines & Technology,Public,Public Health.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Mining and Mineral Engineering.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,13,,28375
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Physics.,Bachelor's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Physics.,Master's Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Physics.,Doctoral Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Physics.,Bachelor's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Physics.,Master's Degree,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Physics.,Doctoral Degree,,,
+2015_2016,003470,South Dakota School of Mines & Technology,Public,Public Health.,Graduate/Professional Certificate,,,
+2016_2017,003470,South Dakota School of Mines & Technology,Public,Public Health.,Graduate/Professional Certificate,,,

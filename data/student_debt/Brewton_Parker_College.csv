@@ -1,54 +1,54 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001557,Brewton Parker College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,Behavioral Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Behavioral Sciences.,Bachelor's Degree,NA,NA,29742
-2015_2016,001557,Brewton Parker College,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Biology, General.",Bachelor's Degree,NA,NA,24242
-2016_2017,001557,Brewton Parker College,Private,"Biology, General.",Bachelor's Degree,NA,NA,26378
-2015_2016,001557,Brewton Parker College,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Business/Commerce, General.",Bachelor's Degree,NA,32488,30425
-2016_2017,001557,Brewton Parker College,Private,"Business/Commerce, General.",Bachelor's Degree,NA,32488,30671
-2015_2016,001557,Brewton Parker College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Human Services, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,32668
-2016_2017,001557,Brewton Parker College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,10,NA,40844
-2015_2016,001557,Brewton Parker College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001557,Brewton Parker College,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001557,Brewton Parker College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,001557,Brewton Parker College,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,Behavioral Sciences.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Behavioral Sciences.,Bachelor's Degree,,,29742
+2015_2016,001557,Brewton Parker College,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Biology, General.",Bachelor's Degree,,,24242
+2016_2017,001557,Brewton Parker College,Private,"Biology, General.",Bachelor's Degree,,,26378
+2015_2016,001557,Brewton Parker College,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Business/Commerce, General.",Bachelor's Degree,,32488,30425
+2016_2017,001557,Brewton Parker College,Private,"Business/Commerce, General.",Bachelor's Degree,,32488,30671
+2015_2016,001557,Brewton Parker College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Education, General.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,History.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,History.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Human Services, General.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,32668
+2016_2017,001557,Brewton Parker College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,10,,40844
+2015_2016,001557,Brewton Parker College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,Music.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Music.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,"Psychology, General.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,001557,Brewton Parker College,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2015_2016,001557,Brewton Parker College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,

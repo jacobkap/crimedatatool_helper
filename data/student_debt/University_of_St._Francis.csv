@@ -1,127 +1,127 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001664,University of St. Francis,Private,Accounting and Related Services.,Bachelor's Degree,13,NA,24400
-2015_2016,001664,University of St. Francis,Private,Accounting and Related Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Accounting and Related Services.,Bachelor's Degree,15,NA,24510
-2016_2017,001664,University of St. Francis,Private,Accounting and Related Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,Accounting and Related Services.,Bachelor's Degree,13,,24400
+2015_2016,001664,University of St. Francis,Private,Accounting and Related Services.,Post-baccalaureate Certificate,,,
+2016_2017,001664,University of St. Francis,Private,Accounting and Related Services.,Bachelor's Degree,15,,24510
+2016_2017,001664,University of St. Francis,Private,Accounting and Related Services.,Post-baccalaureate Certificate,,,
 2015_2016,001664,University of St. Francis,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,27,25000,24126
 2015_2016,001664,University of St. Francis,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,47,149805,129613
-2016_2017,001664,University of St. Francis,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,22500,23512
+2016_2017,001664,University of St. Francis,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,22500,23512
 2016_2017,001664,University of St. Francis,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,48,142170,123771
 2015_2016,001664,University of St. Francis,Private,"Biology, General.",Bachelor's Degree,27,24249,22902
 2016_2017,001664,University of St. Francis,Private,"Biology, General.",Bachelor's Degree,35,27000,25753
-2015_2016,001664,University of St. Francis,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
 2015_2016,001664,University of St. Francis,Private,"Business Administration, Management and Operations.",Master's Degree,25,35653,33919
-2016_2017,001664,University of St. Francis,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
+2016_2017,001664,University of St. Francis,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
 2016_2017,001664,University of St. Francis,Private,"Business Administration, Management and Operations.",Master's Degree,40,36774,34015
-2015_2016,001664,University of St. Francis,Private,"Business/Commerce, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,"Business/Commerce, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Communication and Media Studies.,Bachelor's Degree,11,NA,21854
-2016_2017,001664,University of St. Francis,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,21486
-2015_2016,001664,University of St. Francis,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,"Business/Commerce, General.",Post-baccalaureate Certificate,,,
+2016_2017,001664,University of St. Francis,Private,"Business/Commerce, General.",Post-baccalaureate Certificate,,,
+2015_2016,001664,University of St. Francis,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Communication and Media Studies.,Bachelor's Degree,11,,21854
+2016_2017,001664,University of St. Francis,Private,Communication and Media Studies.,Bachelor's Degree,,,21486
+2015_2016,001664,University of St. Francis,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Computer/Information Technology Administration and Management.,Bachelor's Degree,,,
 2015_2016,001664,University of St. Francis,Private,Criminal Justice and Corrections.,Bachelor's Degree,22,25154,23718
 2016_2017,001664,University of St. Francis,Private,Criminal Justice and Corrections.,Bachelor's Degree,29,25331,23274
 2015_2016,001664,University of St. Francis,Private,Curriculum and Instruction.,Master's Degree,52,11342,12823
 2016_2017,001664,University of St. Francis,Private,Curriculum and Instruction.,Master's Degree,93,13497,15934
 2015_2016,001664,University of St. Francis,Private,Educational Administration and Supervision.,Master's Degree,20,21405,24763
-2015_2016,001664,University of St. Francis,Private,Educational Administration and Supervision.,Doctoral Degree,17,NA,54085
+2015_2016,001664,University of St. Francis,Private,Educational Administration and Supervision.,Doctoral Degree,17,,54085
 2016_2017,001664,University of St. Francis,Private,Educational Administration and Supervision.,Master's Degree,46,23072,23815
 2016_2017,001664,University of St. Francis,Private,Educational Administration and Supervision.,Doctoral Degree,30,56128,50830
-2015_2016,001664,University of St. Francis,Private,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Finance and Financial Management Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,28900
-2016_2017,001664,University of St. Francis,Private,Finance and Financial Management Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
+2016_2017,001664,University of St. Francis,Private,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
+2015_2016,001664,University of St. Francis,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Finance and Financial Management Services.,Post-baccalaureate Certificate,,,
+2016_2017,001664,University of St. Francis,Private,Finance and Financial Management Services.,Bachelor's Degree,,,28900
+2016_2017,001664,University of St. Francis,Private,Finance and Financial Management Services.,Post-baccalaureate Certificate,,,
 2015_2016,001664,University of St. Francis,Private,Health and Medical Administrative Services.,Bachelor's Degree,41,21362,21327
 2015_2016,001664,University of St. Francis,Private,Health and Medical Administrative Services.,Master's Degree,63,31090,31278
 2016_2017,001664,University of St. Francis,Private,Health and Medical Administrative Services.,Bachelor's Degree,50,21587,22065
 2016_2017,001664,University of St. Francis,Private,Health and Medical Administrative Services.,Master's Degree,84,29513,30825
-2015_2016,001664,University of St. Francis,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
+2016_2017,001664,University of St. Francis,Private,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
+2015_2016,001664,University of St. Francis,Private,History.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,History.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2016_2017,001664,University of St. Francis,Private,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
 2015_2016,001664,University of St. Francis,Private,Human Resources Management and Services.,Bachelor's Degree,22,26951,27851
-2015_2016,001664,University of St. Francis,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
+2015_2016,001664,University of St. Francis,Private,Human Resources Management and Services.,Master's Degree,,,
 2016_2017,001664,University of St. Francis,Private,Human Resources Management and Services.,Bachelor's Degree,20,27280,29822
-2016_2017,001664,University of St. Francis,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001664,University of St. Francis,Private,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
 2016_2017,001664,University of St. Francis,Private,Human Resources Management and Services.,Master's Degree,20,36711,36159
-2015_2016,001664,University of St. Francis,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,11,NA,27151
-2016_2017,001664,University of St. Francis,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,15,NA,25537
-2015_2016,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,17,NA,21849
-2015_2016,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,International Business.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,International Business.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,11,,27151
+2016_2017,001664,University of St. Francis,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,15,,25537
+2015_2016,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,17,,21849
+2015_2016,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Post-baccalaureate Certificate,,,
+2015_2016,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Master's Degree,,,
 2016_2017,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,24,18522,19782
-2016_2017,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Master's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Marketing.,Bachelor's Degree,11,NA,28333
-2016_2017,001664,University of St. Francis,Private,Marketing.,Bachelor's Degree,NA,27000,27643
-2015_2016,001664,University of St. Francis,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,17,NA,25811
+2016_2017,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Post-baccalaureate Certificate,,,
+2016_2017,001664,University of St. Francis,Private,Management Sciences and Quantitative Methods.,Master's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Marketing.,Bachelor's Degree,11,,28333
+2016_2017,001664,University of St. Francis,Private,Marketing.,Bachelor's Degree,,27000,27643
+2015_2016,001664,University of St. Francis,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Music.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Music.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,17,,25811
 2016_2017,001664,University of St. Francis,Private,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,30,22375,23808
-2015_2016,001664,University of St. Francis,Private,Political Science and Government.,Bachelor's Degree,12,NA,27475
-2016_2017,001664,University of St. Francis,Private,Political Science and Government.,Bachelor's Degree,NA,NA,28063
-2015_2016,001664,University of St. Francis,Private,"Psychology, General.",Bachelor's Degree,16,NA,26209
+2015_2016,001664,University of St. Francis,Private,Political Science and Government.,Bachelor's Degree,12,,27475
+2016_2017,001664,University of St. Francis,Private,Political Science and Government.,Bachelor's Degree,,,28063
+2015_2016,001664,University of St. Francis,Private,"Psychology, General.",Bachelor's Degree,16,,26209
 2016_2017,001664,University of St. Francis,Private,"Psychology, General.",Bachelor's Degree,25,28750,29646
-2015_2016,001664,University of St. Francis,Private,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,,,
+2016_2017,001664,University of St. Francis,Private,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,,,
 2015_2016,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,129,30130,29955
-2015_2016,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,,,
 2015_2016,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,93,39189,36466
-2015_2016,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,11,NA,38903
-2015_2016,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,11,,38903
+2015_2016,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2016_2017,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,162,27500,28103
-2016_2017,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Post-baccalaureate Certificate,,,
 2016_2017,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,112,36402,36144
-2016_2017,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,10,NA,40837
-2016_2017,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,10,,40837
+2016_2017,001664,University of St. Francis,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2015_2016,001664,University of St. Francis,Private,Social Work.,Bachelor's Degree,29,24750,25790
 2015_2016,001664,University of St. Francis,Private,Social Work.,Master's Degree,25,48465,43759
-2015_2016,001664,University of St. Francis,Private,Social Work.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001664,University of St. Francis,Private,Social Work.,Graduate/Professional Certificate,,,
 2016_2017,001664,University of St. Francis,Private,Social Work.,Bachelor's Degree,29,20025,22395
 2016_2017,001664,University of St. Francis,Private,Social Work.,Master's Degree,40,29111,36496
-2016_2017,001664,University of St. Francis,Private,Social Work.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,24529
-2015_2016,001664,University of St. Francis,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,25399
-2016_2017,001664,University of St. Francis,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,19,NA,23112
-2015_2016,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2016_2017,001664,University of St. Francis,Private,Social Work.,Graduate/Professional Certificate,,,
+2015_2016,001664,University of St. Francis,Private,Special Education and Teaching.,Bachelor's Degree,,,24529
+2015_2016,001664,University of St. Francis,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Special Education and Teaching.,Bachelor's Degree,,,25399
+2016_2017,001664,University of St. Francis,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,19,,23112
+2015_2016,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,20,25020,21837
-2016_2017,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,15,NA,19885
-2015_2016,001664,University of St. Francis,Private,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001664,University of St. Francis,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001664,University of St. Francis,Private,"Visual and Performing Arts, General.",Bachelor's Degree,10,NA,23126
-2016_2017,001664,University of St. Francis,Private,"Visual and Performing Arts, General.",Bachelor's Degree,10,NA,22324
+2016_2017,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,15,,19885
+2015_2016,001664,University of St. Francis,Private,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
+2016_2017,001664,University of St. Francis,Private,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
+2015_2016,001664,University of St. Francis,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,001664,University of St. Francis,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2015_2016,001664,University of St. Francis,Private,"Visual and Performing Arts, General.",Bachelor's Degree,10,,23126
+2016_2017,001664,University of St. Francis,Private,"Visual and Performing Arts, General.",Bachelor's Degree,10,,22324

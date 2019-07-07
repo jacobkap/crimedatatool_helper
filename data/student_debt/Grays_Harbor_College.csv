@@ -1,73 +1,73 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003779,Grays Harbor College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Accounting and Related Services.,Associate's Degree,11,NA,12245
-2015_2016,003779,Grays Harbor College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,"Business Administration, Management and Operations.",Associate's Degree,11,NA,9106
-2016_2017,003779,Grays Harbor College,Public,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Carpenters.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Carpenters.,Associate's Degree,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Data Processing.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Data Processing.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Forestry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Forestry.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Forestry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Forestry.,Associate's Degree,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
+2015_2016,003779,Grays Harbor College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Accounting and Related Services.,Associate's Degree,11,,12245
+2015_2016,003779,Grays Harbor College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,"Business Administration, Management and Operations.",Associate's Degree,11,,9106
+2016_2017,003779,Grays Harbor College,Public,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,003779,Grays Harbor College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,"Business/Commerce, General.",Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,003779,Grays Harbor College,Public,Carpenters.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Carpenters.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Carpenters.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Carpenters.,Associate's Degree,,,
+2015_2016,003779,Grays Harbor College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Data Processing.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Data Processing.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,,,
+2015_2016,003779,Grays Harbor College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,,,
+2015_2016,003779,Grays Harbor College,Public,Forestry.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Forestry.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Forestry.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Forestry.,Associate's Degree,,,
+2015_2016,003779,Grays Harbor College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
 2015_2016,003779,Grays Harbor College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,32,10300,10910
 2016_2017,003779,Grays Harbor College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,53,9493,10243
-2016_2017,003779,Grays Harbor College,Public,"Mechanic and Repair Technologies/Technicians, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,"Mechanic and Repair Technologies/Technicians, Other.",Associate's Degree,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,11,NA,12925
-2016_2017,003779,Grays Harbor College,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,18,NA,12669
-2015_2016,003779,Grays Harbor College,Public,Physical Sciences.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Physical Sciences.,Associate's Degree,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,18,NA,13343
-2015_2016,003779,Grays Harbor College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003779,Grays Harbor College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,003779,Grays Harbor College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,NA,NA,NA
+2016_2017,003779,Grays Harbor College,Public,"Mechanic and Repair Technologies/Technicians, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,"Mechanic and Repair Technologies/Technicians, Other.",Associate's Degree,,,
+2015_2016,003779,Grays Harbor College,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,11,,12925
+2016_2017,003779,Grays Harbor College,Public,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Mental and Social Health Services and Allied Professions.,Associate's Degree,18,,12669
+2015_2016,003779,Grays Harbor College,Public,Physical Sciences.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Physical Sciences.,Associate's Degree,,,
+2015_2016,003779,Grays Harbor College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Precision Metal Working.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Precision Metal Working.,Associate's Degree,,,
+2015_2016,003779,Grays Harbor College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,18,,13343
+2015_2016,003779,Grays Harbor College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,003779,Grays Harbor College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,,,
+2016_2017,003779,Grays Harbor College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,003779,Grays Harbor College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,,,

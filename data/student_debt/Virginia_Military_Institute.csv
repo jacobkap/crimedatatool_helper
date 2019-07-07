@@ -1,32 +1,32 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003753,Virginia Military Institute,Public,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003753,Virginia Military Institute,Public,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003753,Virginia Military Institute,Public,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,003753,Virginia Military Institute,Public,Applied Mathematics.,Bachelor's Degree,,,
 2015_2016,003753,Virginia Military Institute,Public,"Biology, General.",Bachelor's Degree,36,23418,20427
 2016_2017,003753,Virginia Military Institute,Public,"Biology, General.",Bachelor's Degree,43,23250,20533
-2015_2016,003753,Virginia Military Institute,Public,Chemistry.,Bachelor's Degree,12,NA,16624
-2016_2017,003753,Virginia Military Institute,Public,Chemistry.,Bachelor's Degree,11,NA,19032
+2015_2016,003753,Virginia Military Institute,Public,Chemistry.,Bachelor's Degree,12,,16624
+2016_2017,003753,Virginia Military Institute,Public,Chemistry.,Bachelor's Degree,11,,19032
 2015_2016,003753,Virginia Military Institute,Public,Civil Engineering.,Bachelor's Degree,69,23000,20593
 2016_2017,003753,Virginia Military Institute,Public,Civil Engineering.,Bachelor's Degree,68,22500,19209
-2015_2016,003753,Virginia Military Institute,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003753,Virginia Military Institute,Public,Computer Science.,Bachelor's Degree,13,NA,22973
-2016_2017,003753,Virginia Military Institute,Public,Computer Science.,Bachelor's Degree,18,NA,20501
+2015_2016,003753,Virginia Military Institute,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,003753,Virginia Military Institute,Public,Computer Science.,Bachelor's Degree,13,,22973
+2016_2017,003753,Virginia Military Institute,Public,Computer Science.,Bachelor's Degree,18,,20501
 2015_2016,003753,Virginia Military Institute,Public,Economics.,Bachelor's Degree,46,26000,21716
 2016_2017,003753,Virginia Military Institute,Public,Economics.,Bachelor's Degree,61,25000,21836
-2015_2016,003753,Virginia Military Institute,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2016_2017,003753,Virginia Military Institute,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2015_2016,003753,Virginia Military Institute,Public,"English Language and Literature, General.",Bachelor's Degree,16,NA,15060
-2016_2017,003753,Virginia Military Institute,Public,"English Language and Literature, General.",Bachelor's Degree,17,NA,18468
+2015_2016,003753,Virginia Military Institute,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2016_2017,003753,Virginia Military Institute,Public,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2015_2016,003753,Virginia Military Institute,Public,"English Language and Literature, General.",Bachelor's Degree,16,,15060
+2016_2017,003753,Virginia Military Institute,Public,"English Language and Literature, General.",Bachelor's Degree,17,,18468
 2015_2016,003753,Virginia Military Institute,Public,History.,Bachelor's Degree,46,25495,20617
 2016_2017,003753,Virginia Military Institute,Public,History.,Bachelor's Degree,36,26809,23047
 2015_2016,003753,Virginia Military Institute,Public,International Relations and National Security Studies.,Bachelor's Degree,61,25990,23608
 2016_2017,003753,Virginia Military Institute,Public,International Relations and National Security Studies.,Bachelor's Degree,65,25968,23117
 2015_2016,003753,Virginia Military Institute,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,23,25000,21577
-2016_2017,003753,Virginia Military Institute,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,19,NA,20886
-2015_2016,003753,Virginia Military Institute,Public,Mathematics.,Bachelor's Degree,NA,NA,19531
-2016_2017,003753,Virginia Military Institute,Public,Mathematics.,Bachelor's Degree,NA,NA,15440
+2016_2017,003753,Virginia Military Institute,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,19,,20886
+2015_2016,003753,Virginia Military Institute,Public,Mathematics.,Bachelor's Degree,,,19531
+2016_2017,003753,Virginia Military Institute,Public,Mathematics.,Bachelor's Degree,,,15440
 2015_2016,003753,Virginia Military Institute,Public,Mechanical Engineering.,Bachelor's Degree,25,25250,20018
 2016_2017,003753,Virginia Military Institute,Public,Mechanical Engineering.,Bachelor's Degree,24,26735,20904
-2015_2016,003753,Virginia Military Institute,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003753,Virginia Military Institute,Public,Physics.,Bachelor's Degree,10,NA,15206
+2015_2016,003753,Virginia Military Institute,Public,Physics.,Bachelor's Degree,,,
+2016_2017,003753,Virginia Military Institute,Public,Physics.,Bachelor's Degree,10,,15206
 2015_2016,003753,Virginia Military Institute,Public,"Psychology, General.",Bachelor's Degree,33,23250,19474
 2016_2017,003753,Virginia Military Institute,Public,"Psychology, General.",Bachelor's Degree,23,21250,18707

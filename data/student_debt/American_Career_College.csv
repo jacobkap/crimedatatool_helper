@@ -1,9 +1,9 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,022418,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,1645,9500,8549
-2015_2016,022418,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,26996,25230
-2015_2016,033593,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9500,8223
+2015_2016,022418,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,26996,25230
+2015_2016,033593,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9500,8223
 2015_2016,039713,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,547,9500,8490
-2015_2016,039713,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,27000,26289
+2015_2016,039713,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,27000,26289
 2016_2017,022418,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,1470,9500,8459
 2016_2017,022418,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,122,26736,24572
 2016_2017,033593,American Career College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,170,9500,8004
@@ -17,11 +17,11 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,022418,American Career College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,407,8444,7409
 2016_2017,039713,American Career College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,135,8444,7260
 2015_2016,022418,American Career College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,570,9500,9012
-2015_2016,022418,American Career College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,23968,23001
+2015_2016,022418,American Career College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,23968,23001
 2015_2016,033593,American Career College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,66,9500,8857
 2015_2016,039713,American Career College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,181,9500,8781
 2016_2017,022418,American Career College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,538,9500,9065
-2016_2017,022418,American Career College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,25687,24239
+2016_2017,022418,American Career College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,25687,24239
 2016_2017,033593,American Career College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,97,9500,9000
 2016_2017,039713,American Career College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,209,9500,8933
 2015_2016,022418,American Career College,Proprietary,Ophthalmic and Optometric Support Services and Allied Professions.,Undergraduate Certificate or Diploma,269,9500,8740
@@ -29,12 +29,12 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,022418,American Career College,Proprietary,Ophthalmic and Optometric Support Services and Allied Professions.,Undergraduate Certificate or Diploma,207,9500,8444
 2016_2017,039713,American Career College,Proprietary,Ophthalmic and Optometric Support Services and Allied Professions.,Undergraduate Certificate or Diploma,73,9500,8576
 2015_2016,022418,American Career College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,715,17200,15726
-2015_2016,033593,American Career College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,17585,16022
+2015_2016,033593,American Career College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,17585,16022
 2015_2016,039713,American Career College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,432,17200,15399
 2016_2017,022418,American Career College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,639,17200,15306
-2016_2017,033593,American Career College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,17585,15711
+2016_2017,033593,American Career College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,17585,15711
 2016_2017,039713,American Career College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,421,17200,15131
-2015_2016,022418,American Career College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
+2015_2016,022418,American Career College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
 2016_2017,022418,American Career College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,51,25833,26503
 2015_2016,022418,American Career College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,106,9500,8567
 2015_2016,039713,American Career College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,99,9500,8525

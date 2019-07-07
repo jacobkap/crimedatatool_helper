@@ -1,15 +1,15 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,21,9500,8024
-2016_2017,025227,Eastland-fairfield Career And Technical Schools,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,15,NA,8647
-2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,13,NA,8531
-2016_2017,025227,Eastland-fairfield Career And Technical Schools,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,025227,Eastland-fairfield Career And Technical Schools,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,15,,8647
+2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,13,,8531
+2016_2017,025227,Eastland-fairfield Career And Technical Schools,Public,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,,,
 2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,62,6333,5467
 2016_2017,025227,Eastland-fairfield Career And Technical Schools,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,64,6333,5987
 2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,32,7839,7357
-2016_2017,025227,Eastland-fairfield Career And Technical Schools,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,5500,6586
-2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,12,NA,5331
-2016_2017,025227,Eastland-fairfield Career And Technical Schools,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,025227,Eastland-fairfield Career And Technical Schools,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,5500,6586
+2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,12,,5331
+2016_2017,025227,Eastland-fairfield Career And Technical Schools,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,30,10943,9211
 2016_2017,025227,Eastland-fairfield Career And Technical Schools,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,34,9500,8219
 2015_2016,025227,Eastland-fairfield Career And Technical Schools,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,23,9485,8603

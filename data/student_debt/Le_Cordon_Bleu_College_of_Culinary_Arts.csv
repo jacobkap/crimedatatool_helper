@@ -1,7 +1,7 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9500,9199
-2015_2016,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2015_2016,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9500,9199
+2015_2016,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2015_2016,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2015_2016,022202,Le Cordon Bleu College of Culinary Arts,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,124,9500,11056
 2015_2016,022202,Le Cordon Bleu College of Culinary Arts,Proprietary,Culinary Arts and Related Services.,Associate's Degree,113,22352,20956
 2015_2016,025693,Le Cordon Bleu College of Culinary Arts,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,675,11866,12035
@@ -24,5 +24,5 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,030226,Le Cordon Bleu College of Culinary Arts,Proprietary,Culinary Arts and Related Services.,Associate's Degree,837,25137,23320
 2016_2017,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,252,12594,12038
 2016_2017,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,Culinary Arts and Related Services.,Associate's Degree,670,23128,21897
-2015_2016,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,NA,26855,24748
-2015_2016,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,,26855,24748
+2015_2016,032103,Le Cordon Bleu College of Culinary Arts,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,

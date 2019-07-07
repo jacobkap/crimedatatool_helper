@@ -3,21 +3,21 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,021207,San Joaquin Valley College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,1435,20000,18039
 2016_2017,021207,San Joaquin Valley College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,1272,9500,8694
 2016_2017,021207,San Joaquin Valley College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,1314,20000,17339
-2015_2016,021207,San Joaquin Valley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,021207,San Joaquin Valley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
 2015_2016,021207,San Joaquin Valley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,451,20000,18474
-2016_2017,021207,San Joaquin Valley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,021207,San Joaquin Valley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
 2016_2017,021207,San Joaquin Valley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,471,20000,18474
-2016_2017,021207,San Joaquin Valley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
+2016_2017,021207,San Joaquin Valley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
 2015_2016,021207,San Joaquin Valley College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,115,9500,9506
 2015_2016,021207,San Joaquin Valley College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,279,20000,18406
 2016_2017,021207,San Joaquin Valley College,Proprietary,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,140,9500,8932
 2016_2017,021207,San Joaquin Valley College,Proprietary,Business Operations Support and Assistant Services.,Associate's Degree,268,20000,17792
-2015_2016,021207,San Joaquin Valley College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021207,San Joaquin Valley College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,021207,San Joaquin Valley College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,9189
-2016_2017,021207,San Joaquin Valley College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
+2015_2016,021207,San Joaquin Valley College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,021207,San Joaquin Valley College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,,,
+2016_2017,021207,San Joaquin Valley College,Proprietary,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,9189
+2016_2017,021207,San Joaquin Valley College,Proprietary,"Computer and Information Sciences, General.",Associate's Degree,,,
 2015_2016,021207,San Joaquin Valley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,31,20000,17274
-2016_2017,021207,San Joaquin Valley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,20000,17244
+2016_2017,021207,San Joaquin Valley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,20000,17244
 2015_2016,021207,San Joaquin Valley College,Proprietary,Construction Management.,Associate's Degree,34,20000,17737
 2016_2017,021207,San Joaquin Valley College,Proprietary,Construction Management.,Associate's Degree,50,20000,17640
 2015_2016,021207,San Joaquin Valley College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,358,20000,18023
@@ -26,13 +26,13 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,021207,San Joaquin Valley College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,107,20000,17846
 2016_2017,021207,San Joaquin Valley College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,277,9500,8401
 2016_2017,021207,San Joaquin Valley College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,106,20000,18064
-2016_2017,021207,San Joaquin Valley College,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021207,San Joaquin Valley College,Proprietary,Electrical and Power Transmission Installers.,Associate's Degree,NA,NA,NA
+2016_2017,021207,San Joaquin Valley College,Proprietary,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,,,
+2016_2017,021207,San Joaquin Valley College,Proprietary,Electrical and Power Transmission Installers.,Associate's Degree,,,
 2015_2016,021207,San Joaquin Valley College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,271,9500,9238
 2015_2016,021207,San Joaquin Valley College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,204,20000,18721
 2016_2017,021207,San Joaquin Valley College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,317,9500,9075
 2016_2017,021207,San Joaquin Valley College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,167,20000,18532
-2015_2016,021207,San Joaquin Valley College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,11600
+2015_2016,021207,San Joaquin Valley College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,11600
 2015_2016,021207,San Joaquin Valley College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,194,20000,18018
 2016_2017,021207,San Joaquin Valley College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,119,12899,11151
 2016_2017,021207,San Joaquin Valley College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,149,20000,18128
@@ -40,21 +40,21 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,021207,San Joaquin Valley College,Proprietary,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,34,18480,15756
 2016_2017,021207,San Joaquin Valley College,Proprietary,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,190,9500,9043
 2016_2017,021207,San Joaquin Valley College,Proprietary,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,26,18296,15809
-2015_2016,021207,San Joaquin Valley College,Proprietary,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Associate's Degree,NA,NA,14065
-2016_2017,021207,San Joaquin Valley College,Proprietary,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Associate's Degree,NA,NA,NA
+2015_2016,021207,San Joaquin Valley College,Proprietary,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Associate's Degree,,,14065
+2016_2017,021207,San Joaquin Valley College,Proprietary,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Associate's Degree,,,
 2015_2016,021207,San Joaquin Valley College,Proprietary,Human Resources Management and Services.,Undergraduate Certificate or Diploma,41,9500,10581
-2015_2016,021207,San Joaquin Valley College,Proprietary,Human Resources Management and Services.,Associate's Degree,19,NA,19880
+2015_2016,021207,San Joaquin Valley College,Proprietary,Human Resources Management and Services.,Associate's Degree,19,,19880
 2016_2017,021207,San Joaquin Valley College,Proprietary,Human Resources Management and Services.,Undergraduate Certificate or Diploma,60,9500,9761
-2016_2017,021207,San Joaquin Valley College,Proprietary,Human Resources Management and Services.,Associate's Degree,NA,20000,18318
+2016_2017,021207,San Joaquin Valley College,Proprietary,Human Resources Management and Services.,Associate's Degree,,20000,18318
 2015_2016,021207,San Joaquin Valley College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,70,20000,20987
-2016_2017,021207,San Joaquin Valley College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,20000,20699
-2015_2016,021207,San Joaquin Valley College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,021207,San Joaquin Valley College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,20000,20699
+2015_2016,021207,San Joaquin Valley College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2015_2016,021207,San Joaquin Valley College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,97,10500,12105
-2016_2017,021207,San Joaquin Valley College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,021207,San Joaquin Valley College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2016_2017,021207,San Joaquin Valley College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,142,10500,12663
-2015_2016,021207,San Joaquin Valley College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021207,San Joaquin Valley College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,17860,15844
-2016_2017,021207,San Joaquin Valley College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,021207,San Joaquin Valley College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,NA,16301
+2015_2016,021207,San Joaquin Valley College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,021207,San Joaquin Valley College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,17860,15844
+2016_2017,021207,San Joaquin Valley College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,021207,San Joaquin Valley College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,,16301
 2015_2016,021207,San Joaquin Valley College,Proprietary,Vehicle Maintenance and Repair Technologies.,Associate's Degree,54,24495,20983
 2016_2017,021207,San Joaquin Valley College,Proprietary,Vehicle Maintenance and Repair Technologies.,Associate's Degree,49,25153,22051

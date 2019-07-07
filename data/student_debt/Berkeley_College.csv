@@ -1,42 +1,42 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,007394,Berkeley College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
+2015_2016,007394,Berkeley College,Proprietary,Accounting and Related Services.,Associate's Degree,,,
 2015_2016,007394,Berkeley College,Proprietary,Accounting and Related Services.,Bachelor's Degree,94,28200,29757
 2015_2016,007502,Berkeley College,Proprietary,Accounting and Related Services.,Bachelor's Degree,81,28428,28752
-2016_2017,007394,Berkeley College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
+2016_2017,007394,Berkeley College,Proprietary,Accounting and Related Services.,Associate's Degree,,,
 2016_2017,007394,Berkeley College,Proprietary,Accounting and Related Services.,Bachelor's Degree,96,29468,30520
 2016_2017,007502,Berkeley College,Proprietary,Accounting and Related Services.,Bachelor's Degree,92,30223,30401
 2015_2016,007502,Berkeley College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,225,12648,12450
 2015_2016,007502,Berkeley College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,40,15676,15554
 2016_2017,007502,Berkeley College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,223,11912,11338
-2016_2017,007502,Berkeley College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,14499,14267
-2015_2016,007502,Berkeley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,007502,Berkeley College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,14499,14267
+2015_2016,007502,Berkeley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
 2015_2016,007502,Berkeley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,34,21324,21637
 2016_2017,007502,Berkeley College,Proprietary,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,47,20000,19797
 2015_2016,007394,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,72,21161,22840
 2015_2016,007394,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,289,30950,32213
 2015_2016,007502,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,104,19907,21032
 2015_2016,007502,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,246,31617,32503
-2015_2016,007502,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
+2015_2016,007502,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Master's Degree,,,
 2016_2017,007394,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,83,21125,22173
 2016_2017,007394,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,285,31990,33699
 2016_2017,007502,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,90,21470,21868
 2016_2017,007502,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,239,31000,31510
-2016_2017,007502,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,007502,Berkeley College,Proprietary,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,007502,Berkeley College,Proprietary,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,007502,Berkeley College,Proprietary,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,007502,Berkeley College,Proprietary,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,007502,Berkeley College,Proprietary,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,
 2015_2016,007502,Berkeley College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,91,10527,10426
-2015_2016,007502,Berkeley College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
+2015_2016,007502,Berkeley College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
 2016_2017,007502,Berkeley College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,111,10658,10543
-2015_2016,007502,Berkeley College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2016_2017,007502,Berkeley College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,NA,NA,NA
-2015_2016,007394,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2015_2016,007394,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,11,NA,33545
-2015_2016,007502,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2015_2016,007502,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,11,NA,29618
-2016_2017,007394,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
+2015_2016,007502,Berkeley College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2016_2017,007502,Berkeley College,Proprietary,Computer Systems Networking and Telecommunications.,Associate's Degree,,,
+2015_2016,007394,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2015_2016,007394,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,11,,33545
+2015_2016,007502,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2015_2016,007502,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,11,,29618
+2016_2017,007394,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,,
 2016_2017,007394,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,22,32987,34517
-2016_2017,007502,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2016_2017,007502,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,15,NA,33652
+2016_2017,007502,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2016_2017,007502,Berkeley College,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,15,,33652
 2015_2016,007394,Berkeley College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,80,21025,21419
 2015_2016,007394,Berkeley College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,250,32661,33010
 2015_2016,007502,Berkeley College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,74,16929,17646
@@ -45,69 +45,69 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,007394,Berkeley College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,227,32857,34283
 2016_2017,007502,Berkeley College,Proprietary,Criminal Justice and Corrections.,Associate's Degree,122,17039,17761
 2016_2017,007502,Berkeley College,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,181,30666,30459
-2015_2016,007502,Berkeley College,Proprietary,Design and Applied Arts.,Associate's Degree,19,NA,19785
-2015_2016,007502,Berkeley College,Proprietary,Design and Applied Arts.,Bachelor's Degree,11,NA,33926
-2016_2017,007502,Berkeley College,Proprietary,Design and Applied Arts.,Associate's Degree,17,NA,19447
-2016_2017,007502,Berkeley College,Proprietary,Design and Applied Arts.,Bachelor's Degree,16,NA,27100
-2015_2016,007502,Berkeley College,Proprietary,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2015_2016,007394,Berkeley College,Proprietary,Finance and Financial Management Services.,Associate's Degree,NA,NA,NA
+2015_2016,007502,Berkeley College,Proprietary,Design and Applied Arts.,Associate's Degree,19,,19785
+2015_2016,007502,Berkeley College,Proprietary,Design and Applied Arts.,Bachelor's Degree,11,,33926
+2016_2017,007502,Berkeley College,Proprietary,Design and Applied Arts.,Associate's Degree,17,,19447
+2016_2017,007502,Berkeley College,Proprietary,Design and Applied Arts.,Bachelor's Degree,16,,27100
+2015_2016,007502,Berkeley College,Proprietary,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2015_2016,007394,Berkeley College,Proprietary,Finance and Financial Management Services.,Associate's Degree,,,
 2015_2016,007394,Berkeley College,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,29,31124,35162
-2015_2016,007502,Berkeley College,Proprietary,Finance and Financial Management Services.,Associate's Degree,NA,NA,NA
-2015_2016,007502,Berkeley College,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,007394,Berkeley College,Proprietary,Finance and Financial Management Services.,Associate's Degree,NA,NA,NA
+2015_2016,007502,Berkeley College,Proprietary,Finance and Financial Management Services.,Associate's Degree,,,
+2015_2016,007502,Berkeley College,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,007394,Berkeley College,Proprietary,Finance and Financial Management Services.,Associate's Degree,,,
 2016_2017,007394,Berkeley College,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,24,32378,33905
-2016_2017,007502,Berkeley College,Proprietary,Finance and Financial Management Services.,Associate's Degree,NA,NA,NA
-2016_2017,007502,Berkeley College,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,007502,Berkeley College,Proprietary,Finance and Financial Management Services.,Associate's Degree,,,
+2016_2017,007502,Berkeley College,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,,,
 2015_2016,007394,Berkeley College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,72,21692,22530
 2015_2016,007394,Berkeley College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,159,34937,34685
-2015_2016,007502,Berkeley College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,10,NA,12128
+2015_2016,007502,Berkeley College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,10,,12128
 2015_2016,007502,Berkeley College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,62,23107,23562
 2015_2016,007502,Berkeley College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,62,30101,30379
 2016_2017,007394,Berkeley College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,80,23050,23560
 2016_2017,007394,Berkeley College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,164,35030,35452
-2016_2017,007502,Berkeley College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,12591
+2016_2017,007502,Berkeley College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,12591
 2016_2017,007502,Berkeley College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,73,22432,21885
 2016_2017,007502,Berkeley College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,78,30384,29410
 2015_2016,007502,Berkeley College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,35,18560,17655
 2016_2017,007502,Berkeley College,Proprietary,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,50,16273,17707
-2015_2016,007394,Berkeley College,Proprietary,International Business.,Associate's Degree,10,NA,23296
+2015_2016,007394,Berkeley College,Proprietary,International Business.,Associate's Degree,10,,23296
 2015_2016,007394,Berkeley College,Proprietary,International Business.,Bachelor's Degree,50,29380,31109
-2015_2016,007502,Berkeley College,Proprietary,International Business.,Associate's Degree,NA,NA,NA
-2015_2016,007502,Berkeley College,Proprietary,International Business.,Bachelor's Degree,14,NA,27734
-2016_2017,007394,Berkeley College,Proprietary,International Business.,Associate's Degree,NA,NA,NA
+2015_2016,007502,Berkeley College,Proprietary,International Business.,Associate's Degree,,,
+2015_2016,007502,Berkeley College,Proprietary,International Business.,Bachelor's Degree,14,,27734
+2016_2017,007394,Berkeley College,Proprietary,International Business.,Associate's Degree,,,
 2016_2017,007394,Berkeley College,Proprietary,International Business.,Bachelor's Degree,59,30498,31586
-2016_2017,007502,Berkeley College,Proprietary,International Business.,Associate's Degree,NA,NA,NA
-2016_2017,007502,Berkeley College,Proprietary,International Business.,Bachelor's Degree,NA,NA,30956
+2016_2017,007502,Berkeley College,Proprietary,International Business.,Associate's Degree,,,
+2016_2017,007502,Berkeley College,Proprietary,International Business.,Bachelor's Degree,,,30956
 2015_2016,007394,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Associate's Degree,20,22068,21137
 2015_2016,007394,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Bachelor's Degree,39,37488,35581
-2015_2016,007502,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Associate's Degree,NA,NA,NA
+2015_2016,007502,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Associate's Degree,,,
 2015_2016,007502,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Bachelor's Degree,31,31719,31570
-2016_2017,007394,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Associate's Degree,16,NA,24057
+2016_2017,007394,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Associate's Degree,16,,24057
 2016_2017,007394,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Bachelor's Degree,50,32949,33691
-2016_2017,007502,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Associate's Degree,12,NA,22540
+2016_2017,007502,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Associate's Degree,12,,22540
 2016_2017,007502,Berkeley College,Proprietary,"Legal Professions and Studies, Other.",Bachelor's Degree,24,33369,33523
-2015_2016,007394,Berkeley College,Proprietary,Legal Support Services.,Associate's Degree,NA,NA,NA
-2015_2016,007502,Berkeley College,Proprietary,Legal Support Services.,Associate's Degree,NA,NA,NA
-2016_2017,007394,Berkeley College,Proprietary,Legal Support Services.,Associate's Degree,NA,NA,NA
-2016_2017,007502,Berkeley College,Proprietary,Legal Support Services.,Associate's Degree,NA,NA,NA
-2015_2016,007394,Berkeley College,Proprietary,Management Information Systems and Services.,Associate's Degree,NA,NA,NA
-2015_2016,007394,Berkeley College,Proprietary,Management Information Systems and Services.,Bachelor's Degree,15,NA,35489
-2016_2017,007394,Berkeley College,Proprietary,Management Information Systems and Services.,Associate's Degree,NA,NA,NA
-2016_2017,007394,Berkeley College,Proprietary,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,007394,Berkeley College,Proprietary,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
-2015_2016,007502,Berkeley College,Proprietary,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,NA
-2015_2016,007394,Berkeley College,Proprietary,Marketing.,Associate's Degree,18,NA,21493
+2015_2016,007394,Berkeley College,Proprietary,Legal Support Services.,Associate's Degree,,,
+2015_2016,007502,Berkeley College,Proprietary,Legal Support Services.,Associate's Degree,,,
+2016_2017,007394,Berkeley College,Proprietary,Legal Support Services.,Associate's Degree,,,
+2016_2017,007502,Berkeley College,Proprietary,Legal Support Services.,Associate's Degree,,,
+2015_2016,007394,Berkeley College,Proprietary,Management Information Systems and Services.,Associate's Degree,,,
+2015_2016,007394,Berkeley College,Proprietary,Management Information Systems and Services.,Bachelor's Degree,15,,35489
+2016_2017,007394,Berkeley College,Proprietary,Management Information Systems and Services.,Associate's Degree,,,
+2016_2017,007394,Berkeley College,Proprietary,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,007394,Berkeley College,Proprietary,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
+2015_2016,007502,Berkeley College,Proprietary,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,
+2015_2016,007394,Berkeley College,Proprietary,Marketing.,Associate's Degree,18,,21493
 2015_2016,007394,Berkeley College,Proprietary,Marketing.,Bachelor's Degree,55,30987,30903
-2015_2016,007502,Berkeley College,Proprietary,Marketing.,Associate's Degree,NA,NA,NA
+2015_2016,007502,Berkeley College,Proprietary,Marketing.,Associate's Degree,,,
 2015_2016,007502,Berkeley College,Proprietary,Marketing.,Bachelor's Degree,31,22838,22581
-2016_2017,007394,Berkeley College,Proprietary,Marketing.,Associate's Degree,15,NA,25466
+2016_2017,007394,Berkeley College,Proprietary,Marketing.,Associate's Degree,15,,25466
 2016_2017,007394,Berkeley College,Proprietary,Marketing.,Bachelor's Degree,55,30032,31273
-2016_2017,007502,Berkeley College,Proprietary,Marketing.,Associate's Degree,NA,NA,NA
+2016_2017,007502,Berkeley College,Proprietary,Marketing.,Associate's Degree,,,
 2016_2017,007502,Berkeley College,Proprietary,Marketing.,Bachelor's Degree,27,24652,25730
-2015_2016,007502,Berkeley College,Proprietary,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
+2015_2016,007502,Berkeley College,Proprietary,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
 2015_2016,007502,Berkeley College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,240,9611,11108
 2016_2017,007502,Berkeley College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,278,9500,10351
-2015_2016,007394,Berkeley College,Proprietary,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
+2015_2016,007394,Berkeley College,Proprietary,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
 2015_2016,007394,Berkeley College,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,36,20684,22636
 2015_2016,007394,Berkeley College,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,179,29990,31524
 2015_2016,007502,Berkeley College,Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Associate's Degree,33,18000,19162

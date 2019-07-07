@@ -1,96 +1,96 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002073,Goucher College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,"Biology, General.",Bachelor's Degree,14,NA,23611
-2016_2017,002073,Goucher College,Private,"Biology, General.",Bachelor's Degree,11,NA,23274
+2015_2016,002073,Goucher College,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,Area Studies.,Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,"Biology, General.",Bachelor's Degree,14,,23611
+2016_2017,002073,Goucher College,Private,"Biology, General.",Bachelor's Degree,11,,23274
 2015_2016,002073,Goucher College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,22,24500,24793
-2015_2016,002073,Goucher College,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,19,NA,26065
-2016_2017,002073,Goucher College,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,"Business, Management, Marketing, and Related Support Services, Other.",Master's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Business, Management, Marketing, and Related Support Services, Other.",Master's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Chemistry.,Bachelor's Degree,10,NA,24375
-2016_2017,002073,Goucher College,Private,Chemistry.,Bachelor's Degree,11,NA,27549
-2015_2016,002073,Goucher College,Private,Communication and Media Studies.,Bachelor's Degree,13,NA,24766
+2015_2016,002073,Goucher College,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2016_2017,002073,Goucher College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,19,,26065
+2016_2017,002073,Goucher College,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,002073,Goucher College,Private,"Business, Management, Marketing, and Related Support Services, Other.",Master's Degree,,,
+2016_2017,002073,Goucher College,Private,"Business, Management, Marketing, and Related Support Services, Other.",Master's Degree,,,
+2015_2016,002073,Goucher College,Private,Chemistry.,Bachelor's Degree,10,,24375
+2016_2017,002073,Goucher College,Private,Chemistry.,Bachelor's Degree,11,,27549
+2015_2016,002073,Goucher College,Private,Communication and Media Studies.,Bachelor's Degree,13,,24766
 2016_2017,002073,Goucher College,Private,Communication and Media Studies.,Bachelor's Degree,20,23854,22136
-2015_2016,002073,Goucher College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Dance.,Bachelor's Degree,16,NA,23615
+2015_2016,002073,Goucher College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,Dance.,Bachelor's Degree,16,,23615
 2016_2017,002073,Goucher College,Private,Dance.,Bachelor's Degree,21,27000,22809
-2015_2016,002073,Goucher College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,14,NA,22485
-2015_2016,002073,Goucher College,Private,Economics.,Bachelor's Degree,13,NA,23025
-2016_2017,002073,Goucher College,Private,Economics.,Bachelor's Degree,17,NA,21578
-2015_2016,002073,Goucher College,Private,"Education, General.",Bachelor's Degree,13,NA,21272
-2015_2016,002073,Goucher College,Private,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002073,Goucher College,Private,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Education, General.",Bachelor's Degree,11,NA,23055
-2016_2017,002073,Goucher College,Private,"Education, General.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Education, General.",Master's Degree,11,NA,20106
-2016_2017,002073,Goucher College,Private,"Education, General.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002073,Goucher College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,14,,22485
+2015_2016,002073,Goucher College,Private,Economics.,Bachelor's Degree,13,,23025
+2016_2017,002073,Goucher College,Private,Economics.,Bachelor's Degree,17,,21578
+2015_2016,002073,Goucher College,Private,"Education, General.",Bachelor's Degree,13,,21272
+2015_2016,002073,Goucher College,Private,"Education, General.",Post-baccalaureate Certificate,,,
+2015_2016,002073,Goucher College,Private,"Education, General.",Master's Degree,,,
+2016_2017,002073,Goucher College,Private,"Education, General.",Bachelor's Degree,11,,23055
+2016_2017,002073,Goucher College,Private,"Education, General.",Post-baccalaureate Certificate,,,
+2016_2017,002073,Goucher College,Private,"Education, General.",Master's Degree,11,,20106
+2016_2017,002073,Goucher College,Private,"Education, General.",Graduate/Professional Certificate,,,
 2015_2016,002073,Goucher College,Private,"English Language and Literature, General.",Bachelor's Degree,27,26000,24326
-2015_2016,002073,Goucher College,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,002073,Goucher College,Private,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,002073,Goucher College,Private,"English Language and Literature, General.",Bachelor's Degree,33,26000,23839
-2016_2017,002073,Goucher College,Private,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Fine and Studio Arts.,Bachelor's Degree,10,NA,22831
-2015_2016,002073,Goucher College,Private,Fine and Studio Arts.,Master's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Fine and Studio Arts.,Bachelor's Degree,16,NA,23058
-2016_2017,002073,Goucher College,Private,Fine and Studio Arts.,Master's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Health/Medical Preparatory Programs.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Health/Medical Preparatory Programs.,Graduate/Professional Certificate,NA,49853,42401
-2015_2016,002073,Goucher College,Private,History.,Bachelor's Degree,11,NA,18248
-2016_2017,002073,Goucher College,Private,History.,Bachelor's Degree,13,NA,24828
-2015_2016,002073,Goucher College,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,International Relations and National Security Studies.,Bachelor's Degree,13,NA,24614
-2015_2016,002073,Goucher College,Private,Management Information Systems and Services.,Master's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Management Information Systems and Services.,Master's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Multi/Interdisciplinary Studies, Other.",Master's Degree,10,NA,45345
-2015_2016,002073,Goucher College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,12,NA,21447
-2015_2016,002073,Goucher College,Private,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,16,NA,22165
-2016_2017,002073,Goucher College,Private,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,14,NA,22542
-2015_2016,002073,Goucher College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Physics.,Bachelor's Degree,11,NA,24670
-2015_2016,002073,Goucher College,Private,Political Science and Government.,Bachelor's Degree,17,NA,25246
-2016_2017,002073,Goucher College,Private,Political Science and Government.,Bachelor's Degree,14,NA,29760
+2016_2017,002073,Goucher College,Private,"English Language and Literature, General.",Master's Degree,,,
+2015_2016,002073,Goucher College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,,,
+2016_2017,002073,Goucher College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Master's Degree,,,
+2015_2016,002073,Goucher College,Private,Fine and Studio Arts.,Bachelor's Degree,10,,22831
+2015_2016,002073,Goucher College,Private,Fine and Studio Arts.,Master's Degree,,,
+2016_2017,002073,Goucher College,Private,Fine and Studio Arts.,Bachelor's Degree,16,,23058
+2016_2017,002073,Goucher College,Private,Fine and Studio Arts.,Master's Degree,,,
+2015_2016,002073,Goucher College,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,,,
+2015_2016,002073,Goucher College,Private,Health/Medical Preparatory Programs.,Graduate/Professional Certificate,,,
+2016_2017,002073,Goucher College,Private,Health/Medical Preparatory Programs.,Post-baccalaureate Certificate,,,
+2016_2017,002073,Goucher College,Private,Health/Medical Preparatory Programs.,Graduate/Professional Certificate,,49853,42401
+2015_2016,002073,Goucher College,Private,History.,Bachelor's Degree,11,,18248
+2016_2017,002073,Goucher College,Private,History.,Bachelor's Degree,13,,24828
+2015_2016,002073,Goucher College,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,International Relations and National Security Studies.,Bachelor's Degree,13,,24614
+2015_2016,002073,Goucher College,Private,Management Information Systems and Services.,Master's Degree,,,
+2016_2017,002073,Goucher College,Private,Management Information Systems and Services.,Master's Degree,,,
+2015_2016,002073,Goucher College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
+2016_2017,002073,Goucher College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,"Multi/Interdisciplinary Studies, Other.",Master's Degree,10,,45345
+2015_2016,002073,Goucher College,Private,Music.,Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,Music.,Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,12,,21447
+2015_2016,002073,Goucher College,Private,Natural Resources Conservation and Research.,Master's Degree,,,
+2016_2017,002073,Goucher College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,16,,22165
+2016_2017,002073,Goucher College,Private,Natural Resources Conservation and Research.,Master's Degree,,,
+2015_2016,002073,Goucher College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,Peace Studies and Conflict Resolution.,Bachelor's Degree,14,,22542
+2015_2016,002073,Goucher College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,Physics.,Bachelor's Degree,11,,24670
+2015_2016,002073,Goucher College,Private,Political Science and Government.,Bachelor's Degree,17,,25246
+2016_2017,002073,Goucher College,Private,Political Science and Government.,Bachelor's Degree,14,,29760
 2015_2016,002073,Goucher College,Private,"Psychology, General.",Bachelor's Degree,54,25125,22779
 2016_2017,002073,Goucher College,Private,"Psychology, General.",Bachelor's Degree,63,25000,24066
-2015_2016,002073,Goucher College,Private,"Psychology, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Psychology, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,NA,NA,NA
+2015_2016,002073,Goucher College,Private,"Psychology, Other.",Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,"Psychology, Other.",Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
+2016_2017,002073,Goucher College,Private,Rhetoric and Composition/Writing Studies.,Master's Degree,,,
 2015_2016,002073,Goucher College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,28,27000,22774
 2016_2017,002073,Goucher College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,37,26000,22373
-2015_2016,002073,Goucher College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,Sociology.,Bachelor's Degree,19,NA,21977
+2015_2016,002073,Goucher College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,002073,Goucher College,Private,Sociology.,Bachelor's Degree,19,,21977
 2016_2017,002073,Goucher College,Private,Sociology.,Bachelor's Degree,21,25639,23065
-2015_2016,002073,Goucher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002073,Goucher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,002073,Goucher College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002073,Goucher College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002073,Goucher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2015_2016,002073,Goucher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,002073,Goucher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,002073,Goucher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,002073,Goucher College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2016_2017,002073,Goucher College,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,

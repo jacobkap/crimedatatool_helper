@@ -1,130 +1,130 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,004506,Colorado Mountain College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,14,NA,9803
-2016_2017,004506,Colorado Mountain College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,17,NA,12442
+2015_2016,004506,Colorado Mountain College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Accounting and Related Services.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,14,,9803
+2016_2017,004506,Colorado Mountain College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Allied Health and Medical Assisting Services.,Associate's Degree,17,,12442
 2015_2016,004506,Colorado Mountain College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,31,5054,6307
-2015_2016,004506,Colorado Mountain College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
+2015_2016,004506,Colorado Mountain College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
 2016_2017,004506,Colorado Mountain College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,41,5250,6830
-2016_2017,004506,Colorado Mountain College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,004506,Colorado Mountain College,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,004506,Colorado Mountain College,Public,"Business Administration, Management and Operations.",Bachelor's Degree,59,14000,17409
-2016_2017,004506,Colorado Mountain College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,004506,Colorado Mountain College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,004506,Colorado Mountain College,Public,"Business Administration, Management and Operations.",Bachelor's Degree,73,12000,15120
-2015_2016,004506,Colorado Mountain College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Communication and Media Studies.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,18,NA,4441
-2015_2016,004506,Colorado Mountain College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,19,NA,5467
-2016_2017,004506,Colorado Mountain College,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Culinary Arts and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Data Entry/Microcomputer Applications.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Data Entry/Microcomputer Applications.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Design and Applied Arts.,Associate's Degree,NA,NA,9254
-2016_2017,004506,Colorado Mountain College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Design and Applied Arts.,Associate's Degree,10,NA,10118
-2015_2016,004506,Colorado Mountain College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Film/Video and Photographic Arts.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Film/Video and Photographic Arts.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Fire Protection.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Fire Protection.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Fire Protection.,Undergraduate Certificate or Diploma,11,NA,6630
-2016_2017,004506,Colorado Mountain College,Public,Fire Protection.,Associate's Degree,NA,NA,5217
-2015_2016,004506,Colorado Mountain College,Public,Forestry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Forestry.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,11,NA,12371
-2016_2017,004506,Colorado Mountain College,Public,Health and Medical Administrative Services.,Associate's Degree,13,NA,11086
-2015_2016,004506,Colorado Mountain College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Historic Preservation and Conservation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Historic Preservation and Conservation.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Historic Preservation and Conservation.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Historic Preservation and Conservation.,Associate's Degree,NA,NA,NA
+2015_2016,004506,Colorado Mountain College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Communication and Media Studies.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,"Computer and Information Sciences, General.",Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,"Computer and Information Sciences, General.",Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,18,,4441
+2015_2016,004506,Colorado Mountain College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,19,,5467
+2016_2017,004506,Colorado Mountain College,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Culinary Arts and Related Services.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Culinary Arts and Related Services.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Data Entry/Microcomputer Applications.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Data Entry/Microcomputer Applications.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Design and Applied Arts.,Associate's Degree,,,9254
+2016_2017,004506,Colorado Mountain College,Public,Design and Applied Arts.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Design and Applied Arts.,Associate's Degree,10,,10118
+2015_2016,004506,Colorado Mountain College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Environmental Control Technologies/Technicians.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Film/Video and Photographic Arts.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Film/Video and Photographic Arts.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Fire Protection.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Fire Protection.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Fire Protection.,Undergraduate Certificate or Diploma,11,,6630
+2016_2017,004506,Colorado Mountain College,Public,Fire Protection.,Associate's Degree,,,5217
+2015_2016,004506,Colorado Mountain College,Public,Forestry.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Forestry.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Health and Medical Administrative Services.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,11,,12371
+2016_2017,004506,Colorado Mountain College,Public,Health and Medical Administrative Services.,Associate's Degree,13,,11086
+2015_2016,004506,Colorado Mountain College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Historic Preservation and Conservation.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Historic Preservation and Conservation.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Historic Preservation and Conservation.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Historic Preservation and Conservation.,Associate's Degree,,,
 2015_2016,004506,Colorado Mountain College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,26,9443,11731
 2015_2016,004506,Colorado Mountain College,Public,Hospitality Administration/Management.,Associate's Degree,29,8750,10204
 2016_2017,004506,Colorado Mountain College,Public,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,28,9827,10655
 2016_2017,004506,Colorado Mountain College,Public,Hospitality Administration/Management.,Associate's Degree,37,9886,10400
-2015_2016,004506,Colorado Mountain College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
+2015_2016,004506,Colorado Mountain College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Legal Support Services.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Legal Support Services.,Associate's Degree,,,
 2015_2016,004506,Colorado Mountain College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,226,9500,11134
 2016_2017,004506,Colorado Mountain College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,253,9173,10858
-2015_2016,004506,Colorado Mountain College,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Natural Resources Conservation and Research.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Natural Resources Management and Policy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Natural Resources Management and Policy.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Natural Resources Management and Policy.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Natural Resources Management and Policy.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,11,NA,7621
-2016_2017,004506,Colorado Mountain College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Precision Systems Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Precision Systems Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"Radio, Television, and Digital Communication.",Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Radio, Television, and Digital Communication.",Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Real Estate.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Real Estate.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,004506,Colorado Mountain College,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Natural Resources Conservation and Research.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Natural Resources Conservation and Research.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Natural Resources Management and Policy.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Natural Resources Management and Policy.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Natural Resources Management and Policy.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Natural Resources Management and Policy.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,11,,7621
+2016_2017,004506,Colorado Mountain College,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Precision Systems Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Precision Systems Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Quality Control and Safety Technologies/Technicians.,Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,"Radio, Television, and Digital Communication.",Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,"Radio, Television, and Digital Communication.",Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Real Estate.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Real Estate.,Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2015_2016,004506,Colorado Mountain College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,34,12500,13542
-2015_2016,004506,Colorado Mountain College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,004506,Colorado Mountain College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,,,
 2016_2017,004506,Colorado Mountain College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,40,9000,12265
-2016_2017,004506,Colorado Mountain College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,14,NA,15648
+2016_2017,004506,Colorado Mountain College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,14,,15648
 2015_2016,004506,Colorado Mountain College,Public,Sustainability Studies.,Bachelor's Degree,42,18177,17316
 2016_2017,004506,Colorado Mountain College,Public,Sustainability Studies.,Bachelor's Degree,47,17957,18306
-2015_2016,004506,Colorado Mountain College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,004506,Colorado Mountain College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,004506,Colorado Mountain College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,004506,Colorado Mountain College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2015_2016,004506,Colorado Mountain College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,004506,Colorado Mountain College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,004506,Colorado Mountain College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,004506,Colorado Mountain College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,

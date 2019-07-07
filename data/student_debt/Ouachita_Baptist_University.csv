@@ -1,93 +1,93 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001102,Ouachita Baptist University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Bible/Biblical Studies.,Bachelor's Degree,11,NA,15551
-2016_2017,001102,Ouachita Baptist University,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,16872
+2015_2016,001102,Ouachita Baptist University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Bible/Biblical Studies.,Bachelor's Degree,11,,15551
+2016_2017,001102,Ouachita Baptist University,Private,Bible/Biblical Studies.,Bachelor's Degree,,,16872
 2015_2016,001102,Ouachita Baptist University,Private,"Biology, General.",Bachelor's Degree,44,20736,18918
 2016_2017,001102,Ouachita Baptist University,Private,"Biology, General.",Bachelor's Degree,44,21921,20168
-2015_2016,001102,Ouachita Baptist University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,14,NA,18886
-2016_2017,001102,Ouachita Baptist University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,15,NA,19960
-2015_2016,001102,Ouachita Baptist University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
+2015_2016,001102,Ouachita Baptist University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,14,,18886
+2016_2017,001102,Ouachita Baptist University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,15,,19960
+2015_2016,001102,Ouachita Baptist University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Chemistry.,Bachelor's Degree,,,
 2015_2016,001102,Ouachita Baptist University,Private,Communication and Media Studies.,Bachelor's Degree,37,21500,20822
 2016_2017,001102,Ouachita Baptist University,Private,Communication and Media Studies.,Bachelor's Degree,35,23700,20674
-2015_2016,001102,Ouachita Baptist University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,18,NA,22242
-2016_2017,001102,Ouachita Baptist University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,14,NA,21607
-2015_2016,001102,Ouachita Baptist University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Computer Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,15,NA,23226
-2016_2017,001102,Ouachita Baptist University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,22500,22278
-2015_2016,001102,Ouachita Baptist University,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"Education, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Finance and Financial Management Services.,Bachelor's Degree,18,NA,21238
-2016_2017,001102,Ouachita Baptist University,Private,Finance and Financial Management Services.,Bachelor's Degree,19,NA,23854
-2015_2016,001102,Ouachita Baptist University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
+2015_2016,001102,Ouachita Baptist University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,18,,22242
+2016_2017,001102,Ouachita Baptist University,Private,Communication Disorders Sciences and Services.,Bachelor's Degree,14,,21607
+2015_2016,001102,Ouachita Baptist University,Private,Computer Engineering.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Computer Engineering.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,15,,23226
+2016_2017,001102,Ouachita Baptist University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,22500,22278
+2015_2016,001102,Ouachita Baptist University,Private,"Education, General.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"Education, General.",Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Finance and Financial Management Services.,Bachelor's Degree,18,,21238
+2016_2017,001102,Ouachita Baptist University,Private,Finance and Financial Management Services.,Bachelor's Degree,19,,23854
+2015_2016,001102,Ouachita Baptist University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
 2015_2016,001102,Ouachita Baptist University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,22,24500,22539
 2016_2017,001102,Ouachita Baptist University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,20,21047,21769
-2016_2017,001102,Ouachita Baptist University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,History.,Bachelor's Degree,16,NA,23300
-2016_2017,001102,Ouachita Baptist University,Private,History.,Bachelor's Degree,13,NA,19477
-2015_2016,001102,Ouachita Baptist University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,12,NA,8459
-2015_2016,001102,Ouachita Baptist University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,NA,20726
-2016_2017,001102,Ouachita Baptist University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,NA,23750,22307
-2015_2016,001102,Ouachita Baptist University,Private,Marketing.,Bachelor's Degree,NA,NA,17775
-2016_2017,001102,Ouachita Baptist University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,20733
-2016_2017,001102,Ouachita Baptist University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,19744
-2015_2016,001102,Ouachita Baptist University,Private,Music.,Bachelor's Degree,16,NA,23515
-2016_2017,001102,Ouachita Baptist University,Private,Music.,Bachelor's Degree,11,NA,22772
-2015_2016,001102,Ouachita Baptist University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,10,NA,23938
-2016_2017,001102,Ouachita Baptist University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,20171
-2015_2016,001102,Ouachita Baptist University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,"Psychology, General.",Bachelor's Degree,17,NA,20247
+2016_2017,001102,Ouachita Baptist University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,History.,Bachelor's Degree,16,,23300
+2016_2017,001102,Ouachita Baptist University,Private,History.,Bachelor's Degree,13,,19477
+2015_2016,001102,Ouachita Baptist University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,12,,8459
+2015_2016,001102,Ouachita Baptist University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,,20726
+2016_2017,001102,Ouachita Baptist University,Private,Management Sciences and Quantitative Methods.,Bachelor's Degree,,23750,22307
+2015_2016,001102,Ouachita Baptist University,Private,Marketing.,Bachelor's Degree,,,17775
+2016_2017,001102,Ouachita Baptist University,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,20733
+2016_2017,001102,Ouachita Baptist University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,19744
+2015_2016,001102,Ouachita Baptist University,Private,Music.,Bachelor's Degree,16,,23515
+2016_2017,001102,Ouachita Baptist University,Private,Music.,Bachelor's Degree,11,,22772
+2015_2016,001102,Ouachita Baptist University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,10,,23938
+2016_2017,001102,Ouachita Baptist University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,20171
+2015_2016,001102,Ouachita Baptist University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Physics.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,"Psychology, General.",Bachelor's Degree,17,,20247
 2016_2017,001102,Ouachita Baptist University,Private,"Psychology, General.",Bachelor's Degree,21,13145,15187
-2015_2016,001102,Ouachita Baptist University,Private,Religion/Religious Studies.,Associate's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Religion/Religious Studies.,Associate's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Religion/Religious Studies.,Bachelor's Degree,14,NA,17128
-2015_2016,001102,Ouachita Baptist University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,17461
-2015_2016,001102,Ouachita Baptist University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
+2015_2016,001102,Ouachita Baptist University,Private,Religion/Religious Studies.,Associate's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Religion/Religious Studies.,Associate's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Religion/Religious Studies.,Bachelor's Degree,14,,17128
+2015_2016,001102,Ouachita Baptist University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,17461
+2015_2016,001102,Ouachita Baptist University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Sociology.,Bachelor's Degree,,,
 2015_2016,001102,Ouachita Baptist University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,26,27000,22932
 2016_2017,001102,Ouachita Baptist University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,28,23250,21087
-2015_2016,001102,Ouachita Baptist University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,13,NA,21362
-2016_2017,001102,Ouachita Baptist University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,13,NA,24391
-2015_2016,001102,Ouachita Baptist University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,Theological and Ministerial Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001102,Ouachita Baptist University,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001102,Ouachita Baptist University,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,001102,Ouachita Baptist University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,13,,21362
+2016_2017,001102,Ouachita Baptist University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,13,,24391
+2015_2016,001102,Ouachita Baptist University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,Theological and Ministerial Studies.,Bachelor's Degree,,,
+2015_2016,001102,Ouachita Baptist University,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,,,
+2016_2017,001102,Ouachita Baptist University,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,,,

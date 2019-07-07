@@ -1,98 +1,98 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001824,Oakland City University,Private,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Accounting and Related Services.,Bachelor's Degree,NA,20695,21317
-2015_2016,001824,Oakland City University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Accounting and Related Services.,Bachelor's Degree,NA,20890,22211
-2016_2017,001824,Oakland City University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Biotechnology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Biotechnology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Business Administration, Management and Operations.",Associate's Degree,10,NA,13996
+2015_2016,001824,Oakland City University,Private,Accounting and Related Services.,Associate's Degree,,,
+2015_2016,001824,Oakland City University,Private,Accounting and Related Services.,Bachelor's Degree,,20695,21317
+2015_2016,001824,Oakland City University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,,,
+2016_2017,001824,Oakland City University,Private,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,001824,Oakland City University,Private,Accounting and Related Services.,Bachelor's Degree,,20890,22211
+2016_2017,001824,Oakland City University,Private,Accounting and Related Services.,Post-baccalaureate Certificate,,,
+2015_2016,001824,Oakland City University,Private,"Biology, General.",Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Biology, General.",Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Biotechnology.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Biotechnology.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Business Administration, Management and Operations.",Associate's Degree,10,,13996
 2015_2016,001824,Oakland City University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,22,15562,19804
-2015_2016,001824,Oakland City University,Private,"Business Administration, Management and Operations.",Master's Degree,17,NA,26030
-2016_2017,001824,Oakland City University,Private,"Business Administration, Management and Operations.",Associate's Degree,12,NA,21407
+2015_2016,001824,Oakland City University,Private,"Business Administration, Management and Operations.",Master's Degree,17,,26030
+2016_2017,001824,Oakland City University,Private,"Business Administration, Management and Operations.",Associate's Degree,12,,21407
 2016_2017,001824,Oakland City University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,31,22750,24867
 2016_2017,001824,Oakland City University,Private,"Business Administration, Management and Operations.",Master's Degree,23,29028,26350
-2015_2016,001824,Oakland City University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2015_2016,001824,Oakland City University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2016_2017,001824,Oakland City University,Private,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2015_2016,001824,Oakland City University,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2015_2016,001824,Oakland City University,Private,Criminal Justice and Corrections.,Bachelor's Degree,46,23250,22884
-2016_2017,001824,Oakland City University,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,001824,Oakland City University,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2016_2017,001824,Oakland City University,Private,Criminal Justice and Corrections.,Bachelor's Degree,48,23987,22972
-2015_2016,001824,Oakland City University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Educational Administration and Supervision.,Doctoral Degree,13,NA,29312
-2015_2016,001824,Oakland City University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Fine and Studio Arts.,Associate's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,16752
-2016_2017,001824,Oakland City University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Human Biology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Human Biology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Human Resources Management and Services.,Associate's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Human Services, General.",Associate's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Human Services, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Human Services, General.",Associate's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Human Services, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Marketing.,Associate's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Marketing.,Master's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Marketing.,Associate's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Marketing.,Master's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Psychology, General.",Bachelor's Degree,11,NA,10495
-2015_2016,001824,Oakland City University,Private,Religion/Religious Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Religion/Religious Studies.,Associate's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Religion/Religious Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Religion/Religious Studies.,Associate's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Social Sciences, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,13,NA,19414
-2015_2016,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
+2015_2016,001824,Oakland City University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,001824,Oakland City University,Private,Educational Administration and Supervision.,Doctoral Degree,,,
+2016_2017,001824,Oakland City University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,001824,Oakland City University,Private,Educational Administration and Supervision.,Doctoral Degree,13,,29312
+2015_2016,001824,Oakland City University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Fine and Studio Arts.,Associate's Degree,,,
+2015_2016,001824,Oakland City University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Fine and Studio Arts.,Associate's Degree,,,
+2016_2017,001824,Oakland City University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,16752
+2016_2017,001824,Oakland City University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,History.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,History.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Human Biology.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Human Biology.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Human Resources Management and Services.,Associate's Degree,,,
+2015_2016,001824,Oakland City University,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Human Resources Management and Services.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Human Services, General.",Associate's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Human Services, General.",Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Human Services, General.",Associate's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Human Services, General.",Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Marketing.,Associate's Degree,,,
+2015_2016,001824,Oakland City University,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Marketing.,Master's Degree,,,
+2016_2017,001824,Oakland City University,Private,Marketing.,Associate's Degree,,,
+2016_2017,001824,Oakland City University,Private,Marketing.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Marketing.,Master's Degree,,,
+2015_2016,001824,Oakland City University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Music.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Music.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Psychology, General.",Bachelor's Degree,11,,10495
+2015_2016,001824,Oakland City University,Private,Religion/Religious Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,001824,Oakland City University,Private,Religion/Religious Studies.,Associate's Degree,,,
+2015_2016,001824,Oakland City University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Religion/Religious Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,001824,Oakland City University,Private,Religion/Religious Studies.,Associate's Degree,,,
+2016_2017,001824,Oakland City University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Social Sciences, Other.",Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Social Sciences, Other.",Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,13,,19414
+2015_2016,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
 2016_2017,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,20,25000,20977
-2016_2017,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,Theological and Ministerial Studies.,First Professional Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,Theological and Ministerial Studies.,First Professional Degree,NA,NA,NA
-2015_2016,001824,Oakland City University,Private,"Visual and Performing Arts, General.",Associate's Degree,NA,NA,NA
-2016_2017,001824,Oakland City University,Private,"Visual and Performing Arts, General.",Associate's Degree,NA,NA,NA
+2016_2017,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,001824,Oakland City University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2015_2016,001824,Oakland City University,Private,Theological and Ministerial Studies.,First Professional Degree,,,
+2016_2017,001824,Oakland City University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2016_2017,001824,Oakland City University,Private,Theological and Ministerial Studies.,First Professional Degree,,,
+2015_2016,001824,Oakland City University,Private,"Visual and Performing Arts, General.",Associate's Degree,,,
+2016_2017,001824,Oakland City University,Private,"Visual and Performing Arts, General.",Associate's Degree,,,

@@ -1,92 +1,92 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,003229,Albright College,Private,Accounting and Related Services.,Bachelor's Degree,58,26500,28372
 2016_2017,003229,Albright College,Private,Accounting and Related Services.,Bachelor's Degree,63,27000,27935
-2015_2016,003229,Albright College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,26562
-2016_2017,003229,Albright College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,27000,28068
-2015_2016,003229,Albright College,Private,"Biology, General.",Bachelor's Degree,NA,27000,27636
-2016_2017,003229,Albright College,Private,"Biology, General.",Bachelor's Degree,NA,26000,26414
-2015_2016,003229,Albright College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,26000,26146
-2016_2017,003229,Albright College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,26500,26843
-2015_2016,003229,Albright College,Private,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,003229,Albright College,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Area Studies.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,26562
+2016_2017,003229,Albright College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,27000,28068
+2015_2016,003229,Albright College,Private,"Biology, General.",Bachelor's Degree,,27000,27636
+2016_2017,003229,Albright College,Private,"Biology, General.",Bachelor's Degree,,26000,26414
+2015_2016,003229,Albright College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,26000,26146
+2016_2017,003229,Albright College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,26500,26843
+2015_2016,003229,Albright College,Private,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,
 2015_2016,003229,Albright College,Private,"Business/Commerce, General.",Bachelor's Degree,50,25292,28866
-2016_2017,003229,Albright College,Private,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,003229,Albright College,Private,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,
 2016_2017,003229,Albright College,Private,"Business/Commerce, General.",Bachelor's Degree,58,25000,26820
-2015_2016,003229,Albright College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
+2015_2016,003229,Albright College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Chemistry.,Bachelor's Degree,,,
 2015_2016,003229,Albright College,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,63,25000,27814
 2016_2017,003229,Albright College,Private,"Clinical, Counseling and Applied Psychology.",Bachelor's Degree,69,25000,26008
-2015_2016,003229,Albright College,Private,Communication and Media Studies.,Bachelor's Degree,NA,27000,28503
+2015_2016,003229,Albright College,Private,Communication and Media Studies.,Bachelor's Degree,,27000,28503
 2016_2017,003229,Albright College,Private,Communication and Media Studies.,Bachelor's Degree,32,27000,27292
-2015_2016,003229,Albright College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,24441
-2016_2017,003229,Albright College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,10,NA,26618
+2015_2016,003229,Albright College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,24441
+2016_2017,003229,Albright College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,10,,26618
 2015_2016,003229,Albright College,Private,Criminology.,Bachelor's Degree,23,30662,32087
 2016_2017,003229,Albright College,Private,Criminology.,Bachelor's Degree,20,27000,28863
-2015_2016,003229,Albright College,Private,Design and Applied Arts.,Bachelor's Degree,NA,26000,24590
+2015_2016,003229,Albright College,Private,Design and Applied Arts.,Bachelor's Degree,,26000,24590
 2016_2017,003229,Albright College,Private,Design and Applied Arts.,Bachelor's Degree,39,26000,23983
-2015_2016,003229,Albright College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,27000,26132
+2015_2016,003229,Albright College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,Economics.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Economics.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,"English Language and Literature, General.",Bachelor's Degree,,27000,26132
 2016_2017,003229,Albright College,Private,"English Language and Literature, General.",Bachelor's Degree,33,27000,25845
-2015_2016,003229,Albright College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
+2015_2016,003229,Albright College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
 2015_2016,003229,Albright College,Private,Fine and Studio Arts.,Bachelor's Degree,25,27000,30832
 2016_2017,003229,Albright College,Private,Fine and Studio Arts.,Bachelor's Degree,32,27000,29473
-2015_2016,003229,Albright College,Private,Forestry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Forestry.,Bachelor's Degree,NA,NA,NA
+2015_2016,003229,Albright College,Private,Forestry.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Forestry.,Bachelor's Degree,,,
 2015_2016,003229,Albright College,Private,History.,Bachelor's Degree,24,27000,27872
 2016_2017,003229,Albright College,Private,History.,Bachelor's Degree,23,26000,28432
-2015_2016,003229,Albright College,Private,Information Science/Studies.,Bachelor's Degree,19,NA,26984
+2015_2016,003229,Albright College,Private,Information Science/Studies.,Bachelor's Degree,19,,26984
 2016_2017,003229,Albright College,Private,Information Science/Studies.,Bachelor's Degree,21,25000,26648
-2015_2016,003229,Albright College,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,003229,Albright College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,27815
-2016_2017,003229,Albright College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,26577
-2015_2016,003229,Albright College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,26603
-2016_2017,003229,Albright College,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,"Psychology, General.",Bachelor's Degree,NA,27000,25942
-2016_2017,003229,Albright College,Private,"Psychology, General.",Bachelor's Degree,NA,27000,27949
-2015_2016,003229,Albright College,Private,Public Health.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Public Health.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Research and Experimental Psychology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Research and Experimental Psychology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,003229,Albright College,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,"Linguistic, Comparative, and Related Language Studies and Services.",Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,003229,Albright College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,Music.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Music.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,27815
+2016_2017,003229,Albright College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,26577
+2015_2016,003229,Albright College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Physics.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,Political Science and Government.,Bachelor's Degree,,,26603
+2016_2017,003229,Albright College,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,"Psychology, General.",Bachelor's Degree,,27000,25942
+2016_2017,003229,Albright College,Private,"Psychology, General.",Bachelor's Degree,,27000,27949
+2015_2016,003229,Albright College,Private,Public Health.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Public Health.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,Research and Experimental Psychology.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Research and Experimental Psychology.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,"Social Sciences, General.",Bachelor's Degree,,,
 2015_2016,003229,Albright College,Private,Sociology.,Bachelor's Degree,42,26000,25690
 2016_2017,003229,Albright College,Private,Sociology.,Bachelor's Degree,34,26000,24404
-2015_2016,003229,Albright College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2015_2016,003229,Albright College,Private,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
-2016_2017,003229,Albright College,Private,Urban Studies/Affairs.,Bachelor's Degree,NA,NA,NA
+2015_2016,003229,Albright College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,003229,Albright College,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,003229,Albright College,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,003229,Albright College,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2015_2016,003229,Albright College,Private,Urban Studies/Affairs.,Bachelor's Degree,,,
+2016_2017,003229,Albright College,Private,Urban Studies/Affairs.,Bachelor's Degree,,,

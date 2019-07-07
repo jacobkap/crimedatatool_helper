@@ -1,14 +1,14 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,023013,Prism Career Institute,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
+2015_2016,023013,Prism Career Institute,Proprietary,Accounting and Related Services.,Associate's Degree,,,
 2015_2016,023013,Prism Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,107,9500,10086
 2015_2016,025587,Prism Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,109,9096,8353
-2016_2017,023013,Prism Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9500,9498
-2016_2017,025587,Prism Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,7600,7477
-2015_2016,025587,Prism Career Institute,Proprietary,Health/Medical Preparatory Programs.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,025587,Prism Career Institute,Proprietary,Health/Medical Preparatory Programs.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023013,Prism Career Institute,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023013,Prism Career Institute,Proprietary,Legal Support Services.,Associate's Degree,NA,NA,NA
-2015_2016,025587,Prism Career Institute,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,16609,16330
-2016_2017,025587,Prism Career Institute,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,17200,16527
+2016_2017,023013,Prism Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9500,9498
+2016_2017,025587,Prism Career Institute,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,7600,7477
+2015_2016,025587,Prism Career Institute,Proprietary,Health/Medical Preparatory Programs.,Undergraduate Certificate or Diploma,,,
+2016_2017,025587,Prism Career Institute,Proprietary,Health/Medical Preparatory Programs.,Undergraduate Certificate or Diploma,,,
+2015_2016,023013,Prism Career Institute,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,023013,Prism Career Institute,Proprietary,Legal Support Services.,Associate's Degree,,,
+2015_2016,025587,Prism Career Institute,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,16609,16330
+2016_2017,025587,Prism Career Institute,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,17200,16527
 2015_2016,023013,Prism Career Institute,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,77,19048,18266
-2016_2017,023013,Prism Career Institute,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,18962,17929
+2016_2017,023013,Prism Career Institute,Proprietary,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,18962,17929

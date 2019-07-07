@@ -1,33 +1,33 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,10,NA,34718
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,10,,34718
 2016_2017,020789,Art Institute of Colorado (the),Proprietary,Audiovisual Communications Technologies/Technicians.,Bachelor's Degree,26,33910,34089
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Associate's Degree,17,NA,24340
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Associate's Degree,NA,NA,22811
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Bachelor's Degree,NA,NA,NA
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Associate's Degree,17,,24340
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Bachelor's Degree,,,
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Associate's Degree,,,22811
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,Computer Software and Media Applications.,Bachelor's Degree,,,
 2015_2016,020789,Art Institute of Colorado (the),Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,31,20000,19568
 2015_2016,020789,Art Institute of Colorado (the),Proprietary,Culinary Arts and Related Services.,Associate's Degree,85,21750,22359
 2015_2016,020789,Art Institute of Colorado (the),Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,21,30247,34834
 2016_2017,020789,Art Institute of Colorado (the),Proprietary,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,25,18798,18445
 2016_2017,020789,Art Institute of Colorado (the),Proprietary,Culinary Arts and Related Services.,Associate's Degree,63,20000,21600
 2016_2017,020789,Art Institute of Colorado (the),Proprietary,Culinary Arts and Related Services.,Bachelor's Degree,20,38385,38603
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,Design and Applied Arts.,Associate's Degree,NA,26283,28550
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,Design and Applied Arts.,Associate's Degree,,26283,28550
 2015_2016,020789,Art Institute of Colorado (the),Proprietary,Design and Applied Arts.,Bachelor's Degree,104,31000,34187
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,Design and Applied Arts.,Associate's Degree,NA,24425,25406
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,Design and Applied Arts.,Associate's Degree,,24425,25406
 2016_2017,020789,Art Institute of Colorado (the),Proprietary,Design and Applied Arts.,Bachelor's Degree,99,34367,36026
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,Drafting/Design Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,Drafting/Design Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,Film/Video and Photographic Arts.,Associate's Degree,13,NA,22291
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,Film/Video and Photographic Arts.,Associate's Degree,NA,NA,22473
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,11,NA,43003
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,Fine and Studio Arts.,Bachelor's Degree,NA,31000,35394
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,Fine and Studio Arts.,Bachelor's Degree,NA,42583,39240
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,31668
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,Graphic Communications.,Bachelor's Degree,NA,NA,NA
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,020789,Art Institute of Colorado (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,13,NA,38353
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,020789,Art Institute of Colorado (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,12,NA,40860
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,Drafting/Design Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,Drafting/Design Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,Film/Video and Photographic Arts.,Associate's Degree,13,,22291
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,Film/Video and Photographic Arts.,Associate's Degree,,,22473
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,Film/Video and Photographic Arts.,Bachelor's Degree,11,,43003
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,Fine and Studio Arts.,Bachelor's Degree,,31000,35394
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,Fine and Studio Arts.,Bachelor's Degree,,42583,39240
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,Graphic Communications.,Bachelor's Degree,,,31668
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,Graphic Communications.,Bachelor's Degree,,,
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,020789,Art Institute of Colorado (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,13,,38353
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,020789,Art Institute of Colorado (the),Proprietary,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,12,,40860

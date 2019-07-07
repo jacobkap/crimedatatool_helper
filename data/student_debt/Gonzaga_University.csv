@@ -3,89 +3,89 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,003778,Gonzaga University,Private,Accounting and Related Services.,Master's Degree,28,20500,22768
 2016_2017,003778,Gonzaga University,Private,Accounting and Related Services.,Bachelor's Degree,42,26467,22730
 2016_2017,003778,Gonzaga University,Private,Accounting and Related Services.,Master's Degree,27,20500,24043
-2015_2016,003778,Gonzaga University,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,10,NA,15760
-2016_2017,003778,Gonzaga University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,15,NA,13506
+2015_2016,003778,Gonzaga University,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Area Studies.,Bachelor's Degree,,,
+2015_2016,003778,Gonzaga University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,10,,15760
+2016_2017,003778,Gonzaga University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,15,,13506
 2015_2016,003778,Gonzaga University,Private,"Biology, General.",Bachelor's Degree,103,26000,22425
 2016_2017,003778,Gonzaga University,Private,"Biology, General.",Bachelor's Degree,98,25947,22464
 2015_2016,003778,Gonzaga University,Private,"Business Administration, Management and Operations.",Master's Degree,165,47631,46609
-2015_2016,003778,Gonzaga University,Private,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,"Business Administration, Management and Operations.",Doctoral Degree,,,
 2016_2017,003778,Gonzaga University,Private,"Business Administration, Management and Operations.",Master's Degree,162,42211,44151
-2016_2017,003778,Gonzaga University,Private,"Business Administration, Management and Operations.",Doctoral Degree,NA,NA,NA
+2016_2017,003778,Gonzaga University,Private,"Business Administration, Management and Operations.",Doctoral Degree,,,
 2015_2016,003778,Gonzaga University,Private,"Business/Commerce, General.",Bachelor's Degree,204,24250,21684
 2015_2016,003778,Gonzaga University,Private,"Business/Commerce, General.",Master's Degree,34,37709,42363
-2015_2016,003778,Gonzaga University,Private,"Business/Commerce, General.",First Professional Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,"Business/Commerce, General.",First Professional Degree,,,
 2016_2017,003778,Gonzaga University,Private,"Business/Commerce, General.",Bachelor's Degree,207,24500,21239
 2016_2017,003778,Gonzaga University,Private,"Business/Commerce, General.",Master's Degree,45,35105,39142
-2016_2017,003778,Gonzaga University,Private,"Business/Commerce, General.",First Professional Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
+2016_2017,003778,Gonzaga University,Private,"Business/Commerce, General.",First Professional Degree,,,
+2015_2016,003778,Gonzaga University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Chemistry.,Bachelor's Degree,,,
 2015_2016,003778,Gonzaga University,Private,Civil Engineering.,Bachelor's Degree,51,25500,21546
 2016_2017,003778,Gonzaga University,Private,Civil Engineering.,Bachelor's Degree,51,26953,23110
-2015_2016,003778,Gonzaga University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,Communication and Media Studies.,Bachelor's Degree,15,NA,19957
-2016_2017,003778,Gonzaga University,Private,Communication and Media Studies.,Bachelor's Degree,15,NA,20804
+2015_2016,003778,Gonzaga University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,"Classics and Classical Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003778,Gonzaga University,Private,Communication and Media Studies.,Bachelor's Degree,15,,19957
+2016_2017,003778,Gonzaga University,Private,Communication and Media Studies.,Bachelor's Degree,15,,20804
 2015_2016,003778,Gonzaga University,Private,"Communication, Journalism, and Related Programs, Other.",Master's Degree,123,47631,46638
 2016_2017,003778,Gonzaga University,Private,"Communication, Journalism, and Related Programs, Other.",Master's Degree,96,47631,46957
 2015_2016,003778,Gonzaga University,Private,Computer Science.,Bachelor's Degree,35,25500,22443
 2016_2017,003778,Gonzaga University,Private,Computer Science.,Bachelor's Degree,32,25000,21208
-2015_2016,003778,Gonzaga University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,25000,21862
-2016_2017,003778,Gonzaga University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,25000,21862
+2016_2017,003778,Gonzaga University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
 2015_2016,003778,Gonzaga University,Private,Criminology.,Bachelor's Degree,30,26750,24602
 2016_2017,003778,Gonzaga University,Private,Criminology.,Bachelor's Degree,48,27000,24195
-2015_2016,003778,Gonzaga University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
 2015_2016,003778,Gonzaga University,Private,Economics.,Bachelor's Degree,26,22375,21620
 2016_2017,003778,Gonzaga University,Private,Economics.,Bachelor's Degree,29,20500,19153
-2015_2016,003778,Gonzaga University,Private,"Education, General.",Master's Degree,11,NA,46539
+2015_2016,003778,Gonzaga University,Private,"Education, General.",Master's Degree,11,,46539
 2016_2017,003778,Gonzaga University,Private,"Education, General.",Master's Degree,29,34888,43640
 2015_2016,003778,Gonzaga University,Private,"Education, Other.",Bachelor's Degree,22,25435,20609
 2016_2017,003778,Gonzaga University,Private,"Education, Other.",Bachelor's Degree,23,27000,22134
-2015_2016,003778,Gonzaga University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Educational Administration and Supervision.,Master's Degree,,,
 2015_2016,003778,Gonzaga University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,31,26981,23557
 2016_2017,003778,Gonzaga University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,25,26000,24823
-2015_2016,003778,Gonzaga University,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,"Engineering, General.",Bachelor's Degree,13,NA,20319
+2015_2016,003778,Gonzaga University,Private,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,"Engineering, General.",Bachelor's Degree,13,,20319
 2015_2016,003778,Gonzaga University,Private,"English Language and Literature, General.",Bachelor's Degree,41,22500,22115
 2016_2017,003778,Gonzaga University,Private,"English Language and Literature, General.",Bachelor's Degree,38,22975,22240
-2015_2016,003778,Gonzaga University,Private,Environmental/Environmental Health Engineering.,Bachelor's Degree,NA,NA,23929
-2015_2016,003778,Gonzaga University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,Environmental/Environmental Health Engineering.,Bachelor's Degree,,,23929
+2015_2016,003778,Gonzaga University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
 2015_2016,003778,Gonzaga University,Private,Health and Physical Education/Fitness.,Master's Degree,23,48000,42683
 2016_2017,003778,Gonzaga University,Private,Health and Physical Education/Fitness.,Master's Degree,35,41000,43960
 2015_2016,003778,Gonzaga University,Private,History.,Bachelor's Degree,40,23375,22203
 2016_2017,003778,Gonzaga University,Private,History.,Bachelor's Degree,33,27000,23136
-2015_2016,003778,Gonzaga University,Private,Human Resources Management and Services.,Doctoral Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Human Resources Management and Services.,Doctoral Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,Industrial Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Industrial Engineering.,Master's Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,Human Resources Management and Services.,Doctoral Degree,,,
+2016_2017,003778,Gonzaga University,Private,Human Resources Management and Services.,Doctoral Degree,,,
+2015_2016,003778,Gonzaga University,Private,Industrial Engineering.,Master's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Industrial Engineering.,Master's Degree,,,
 2015_2016,003778,Gonzaga University,Private,International Relations and National Security Studies.,Bachelor's Degree,33,21000,20500
 2016_2017,003778,Gonzaga University,Private,International Relations and National Security Studies.,Bachelor's Degree,32,20033,19110
 2015_2016,003778,Gonzaga University,Private,Journalism.,Bachelor's Degree,29,25988,22016
 2016_2017,003778,Gonzaga University,Private,Journalism.,Bachelor's Degree,34,24645,22020
 2015_2016,003778,Gonzaga University,Private,Law.,First Professional Degree,183,118345,113960
 2016_2017,003778,Gonzaga University,Private,Law.,First Professional Degree,176,109362,104061
-2015_2016,003778,Gonzaga University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003778,Gonzaga University,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
 2015_2016,003778,Gonzaga University,Private,Mathematics.,Bachelor's Degree,27,20500,20163
 2016_2017,003778,Gonzaga University,Private,Mathematics.,Bachelor's Degree,26,22703,20685
 2015_2016,003778,Gonzaga University,Private,Mechanical Engineering.,Bachelor's Degree,90,27000,23844
 2016_2017,003778,Gonzaga University,Private,Mechanical Engineering.,Bachelor's Degree,97,26976,22159
-2015_2016,003778,Gonzaga University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,10,NA,22199
-2016_2017,003778,Gonzaga University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,18,NA,20672
-2015_2016,003778,Gonzaga University,Private,Philosophy.,Bachelor's Degree,12,NA,22571
-2015_2016,003778,Gonzaga University,Private,Philosophy.,Master's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Philosophy.,Bachelor's Degree,15,NA,22994
-2016_2017,003778,Gonzaga University,Private,Philosophy.,Master's Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,Music.,Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Music.,Bachelor's Degree,,,
+2015_2016,003778,Gonzaga University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,10,,22199
+2016_2017,003778,Gonzaga University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,18,,20672
+2015_2016,003778,Gonzaga University,Private,Philosophy.,Bachelor's Degree,12,,22571
+2015_2016,003778,Gonzaga University,Private,Philosophy.,Master's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Philosophy.,Bachelor's Degree,15,,22994
+2016_2017,003778,Gonzaga University,Private,Philosophy.,Master's Degree,,,
+2015_2016,003778,Gonzaga University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Physics.,Bachelor's Degree,,,
 2015_2016,003778,Gonzaga University,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,36,22250,20616
 2016_2017,003778,Gonzaga University,Private,"Physiology, Pathology and Related Sciences.",Bachelor's Degree,30,25384,22044
 2015_2016,003778,Gonzaga University,Private,Political Science and Government.,Bachelor's Degree,71,23500,21436
@@ -96,33 +96,33 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,003778,Gonzaga University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,48,24912,21646
 2015_2016,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,84,25875,23173
 2015_2016,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,199,54262,55686
-2015_2016,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2015_2016,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
 2016_2017,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,83,25000,23131
 2016_2017,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,237,54536,55168
-2016_2017,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,19,NA,21214
+2016_2017,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2016_2017,003778,Gonzaga University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,003778,Gonzaga University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,003778,Gonzaga University,Private,Religion/Religious Studies.,Master's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Religion/Religious Studies.,Master's Degree,,,
+2015_2016,003778,Gonzaga University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,19,,21214
 2016_2017,003778,Gonzaga University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,22,23624,22048
 2015_2016,003778,Gonzaga University,Private,Sociology.,Bachelor's Degree,33,22500,21367
 2016_2017,003778,Gonzaga University,Private,Sociology.,Bachelor's Degree,33,19000,19251
 2015_2016,003778,Gonzaga University,Private,Special Education and Teaching.,Bachelor's Degree,32,27000,26964
-2015_2016,003778,Gonzaga University,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,Special Education and Teaching.,Master's Degree,,,
 2016_2017,003778,Gonzaga University,Private,Special Education and Teaching.,Bachelor's Degree,29,27000,23357
-2016_2017,003778,Gonzaga University,Private,Special Education and Teaching.,Master's Degree,12,NA,47241
+2016_2017,003778,Gonzaga University,Private,Special Education and Teaching.,Master's Degree,12,,47241
 2015_2016,003778,Gonzaga University,Private,Student Counseling and Personnel Services.,Master's Degree,54,66000,67861
 2016_2017,003778,Gonzaga University,Private,Student Counseling and Personnel Services.,Master's Degree,66,71505,68147
-2015_2016,003778,Gonzaga University,Private,Taxation.,Master's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Taxation.,Master's Degree,14,NA,47908
-2015_2016,003778,Gonzaga University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,12,NA,19894
-2015_2016,003778,Gonzaga University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,98066
-2016_2017,003778,Gonzaga University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2015_2016,003778,Gonzaga University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2016_2017,003778,Gonzaga University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
+2015_2016,003778,Gonzaga University,Private,Taxation.,Master's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Taxation.,Master's Degree,14,,47908
+2015_2016,003778,Gonzaga University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,12,,19894
+2015_2016,003778,Gonzaga University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,98066
+2016_2017,003778,Gonzaga University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003778,Gonzaga University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,003778,Gonzaga University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2015_2016,003778,Gonzaga University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2016_2017,003778,Gonzaga University,Private,Theological and Ministerial Studies.,Master's Degree,,,

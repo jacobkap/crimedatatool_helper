@@ -1,8 +1,8 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,006487,Aultman College of Nursing And Health Sciences,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,27,16000,15605
-2016_2017,006487,Aultman College of Nursing And Health Sciences,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,19,NA,14105
-2016_2017,006487,Aultman College of Nursing And Health Sciences,Private,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
+2016_2017,006487,Aultman College of Nursing And Health Sciences,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,19,,14105
+2016_2017,006487,Aultman College of Nursing And Health Sciences,Private,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
 2015_2016,006487,Aultman College of Nursing And Health Sciences,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,118,22158,21450
-2015_2016,006487,Aultman College of Nursing And Health Sciences,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,17,NA,21364
+2015_2016,006487,Aultman College of Nursing And Health Sciences,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,17,,21364
 2016_2017,006487,Aultman College of Nursing And Health Sciences,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,105,21185,21426
 2016_2017,006487,Aultman College of Nursing And Health Sciences,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,20,23985,23168

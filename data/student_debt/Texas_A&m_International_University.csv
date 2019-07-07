@@ -1,122 +1,122 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,009651,Texas A&m International University,Public,Accounting and Related Services.,Bachelor's Degree,63,11000,14564
-2015_2016,009651,Texas A&m International University,Public,Accounting and Related Services.,Master's Degree,15,NA,9788
+2015_2016,009651,Texas A&m International University,Public,Accounting and Related Services.,Master's Degree,15,,9788
 2016_2017,009651,Texas A&m International University,Public,Accounting and Related Services.,Bachelor's Degree,84,11000,14122
-2016_2017,009651,Texas A&m International University,Public,Accounting and Related Services.,Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,NA,19125,18572
-2015_2016,009651,Texas A&m International University,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,NA,20892,19919
-2016_2017,009651,Texas A&m International University,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,NA,NA,NA
+2016_2017,009651,Texas A&m International University,Public,Accounting and Related Services.,Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,,19125,18572
+2015_2016,009651,Texas A&m International University,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,,20892,19919
+2016_2017,009651,Texas A&m International University,Public,"Bilingual, Multilingual, and Multicultural Education.",Master's Degree,,,
 2015_2016,009651,Texas A&m International University,Public,"Biology, General.",Bachelor's Degree,60,11600,13146
-2015_2016,009651,Texas A&m International University,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,"Biology, General.",Master's Degree,,,
 2016_2017,009651,Texas A&m International University,Public,"Biology, General.",Bachelor's Degree,71,13974,15375
-2016_2017,009651,Texas A&m International University,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2016_2017,009651,Texas A&m International University,Public,"Biology, General.",Master's Degree,,,
 2015_2016,009651,Texas A&m International University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,114,12737,14188
 2015_2016,009651,Texas A&m International University,Public,"Business Administration, Management and Operations.",Master's Degree,61,21995,23834
 2016_2017,009651,Texas A&m International University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,143,12289,14224
 2016_2017,009651,Texas A&m International University,Public,"Business Administration, Management and Operations.",Master's Degree,48,22148,22463
-2015_2016,009651,Texas A&m International University,Public,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Chemistry.,Bachelor's Degree,10,NA,17686
-2015_2016,009651,Texas A&m International University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,11,NA,22855
-2016_2017,009651,Texas A&m International University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,12,NA,26548
-2015_2016,009651,Texas A&m International University,Public,Communication and Media Studies.,Bachelor's Degree,NA,15728,16954
-2016_2017,009651,Texas A&m International University,Public,Communication and Media Studies.,Bachelor's Degree,NA,14625,16798
-2016_2017,009651,Texas A&m International University,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,Business/Managerial Economics.,Bachelor's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Business/Managerial Economics.,Bachelor's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Chemistry.,Bachelor's Degree,10,,17686
+2015_2016,009651,Texas A&m International University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,11,,22855
+2016_2017,009651,Texas A&m International University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,12,,26548
+2015_2016,009651,Texas A&m International University,Public,Communication and Media Studies.,Bachelor's Degree,,15728,16954
+2016_2017,009651,Texas A&m International University,Public,Communication and Media Studies.,Bachelor's Degree,,14625,16798
+2016_2017,009651,Texas A&m International University,Public,Communication and Media Studies.,Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,,,
 2015_2016,009651,Texas A&m International University,Public,Criminal Justice and Corrections.,Bachelor's Degree,189,16896,17896
-2015_2016,009651,Texas A&m International University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,Criminal Justice and Corrections.,Master's Degree,,,
 2016_2017,009651,Texas A&m International University,Public,Criminal Justice and Corrections.,Bachelor's Degree,211,15000,16450
-2016_2017,009651,Texas A&m International University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Curriculum and Instruction.,Master's Degree,12,NA,13497
-2016_2017,009651,Texas A&m International University,Public,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Education, General.",Master's Degree,NA,NA,22694
+2016_2017,009651,Texas A&m International University,Public,Criminal Justice and Corrections.,Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Curriculum and Instruction.,Master's Degree,12,,13497
+2016_2017,009651,Texas A&m International University,Public,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Education, General.",Master's Degree,,,22694
 2015_2016,009651,Texas A&m International University,Public,Educational Administration and Supervision.,Master's Degree,29,22000,25290
-2015_2016,009651,Texas A&m International University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
 2016_2017,009651,Texas A&m International University,Public,Educational Administration and Supervision.,Master's Degree,21,21805,26576
-2016_2017,009651,Texas A&m International University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,009651,Texas A&m International University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
 2015_2016,009651,Texas A&m International University,Public,"English Language and Literature, General.",Bachelor's Degree,44,19175,18439
-2015_2016,009651,Texas A&m International University,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,009651,Texas A&m International University,Public,"English Language and Literature, General.",Bachelor's Degree,57,19200,19762
-2016_2017,009651,Texas A&m International University,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,009651,Texas A&m International University,Public,"English Language and Literature, General.",Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Finance and Financial Management Services.,Bachelor's Degree,,,
 2015_2016,009651,Texas A&m International University,Public,Fine and Studio Arts.,Bachelor's Degree,30,16684,20595
 2016_2017,009651,Texas A&m International University,Public,Fine and Studio Arts.,Bachelor's Degree,27,16474,17522
 2015_2016,009651,Texas A&m International University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,76,18558,19828
 2016_2017,009651,Texas A&m International University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,76,18945,18415
 2015_2016,009651,Texas A&m International University,Public,History.,Bachelor's Degree,27,20250,20591
-2015_2016,009651,Texas A&m International University,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,History.,Master's Degree,,,
 2016_2017,009651,Texas A&m International University,Public,History.,Bachelor's Degree,21,20250,22602
-2016_2017,009651,Texas A&m International University,Public,History.,Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Information Science/Studies.,Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Information Science/Studies.,Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,International Business.,Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,International Business.,Doctoral Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,International Business.,Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,International Business.,Doctoral Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Management Information Systems and Services.,Bachelor's Degree,17,NA,14063
-2015_2016,009651,Texas A&m International University,Public,Management Information Systems and Services.,Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Management Information Systems and Services.,Bachelor's Degree,18,NA,13106
-2016_2017,009651,Texas A&m International University,Public,Management Information Systems and Services.,Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Mathematics.,Bachelor's Degree,15,NA,14203
-2015_2016,009651,Texas A&m International University,Public,Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Mathematics.,Bachelor's Degree,19,NA,13332
-2016_2017,009651,Texas A&m International University,Public,Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,009651,Texas A&m International University,Public,History.,Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Information Science/Studies.,Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Information Science/Studies.,Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,International Business.,Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,International Business.,Doctoral Degree,,,
+2016_2017,009651,Texas A&m International University,Public,International Business.,Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,International Business.,Doctoral Degree,,,
+2015_2016,009651,Texas A&m International University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Management Information Systems and Services.,Bachelor's Degree,17,,14063
+2015_2016,009651,Texas A&m International University,Public,Management Information Systems and Services.,Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Management Information Systems and Services.,Bachelor's Degree,18,,13106
+2016_2017,009651,Texas A&m International University,Public,Management Information Systems and Services.,Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Mathematics.,Bachelor's Degree,15,,14203
+2015_2016,009651,Texas A&m International University,Public,Mathematics.,Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Mathematics.,Bachelor's Degree,19,,13332
+2016_2017,009651,Texas A&m International University,Public,Mathematics.,Master's Degree,,,
 2015_2016,009651,Texas A&m International University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,33,21139,21939
-2015_2016,009651,Texas A&m International University,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
 2016_2017,009651,Texas A&m International University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,67,18488,22054
-2016_2017,009651,Texas A&m International University,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Music.,Bachelor's Degree,NA,NA,22891
-2015_2016,009651,Texas A&m International University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Political Science and Government.,Bachelor's Degree,NA,16013,15889
-2016_2017,009651,Texas A&m International University,Public,Political Science and Government.,Bachelor's Degree,NA,15000,14917
+2016_2017,009651,Texas A&m International University,Public,"Multi/Interdisciplinary Studies, Other.",Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Music.,Bachelor's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Music.,Bachelor's Degree,,,22891
+2015_2016,009651,Texas A&m International University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Physical Sciences.,Bachelor's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Physical Sciences.,Bachelor's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Political Science and Government.,Bachelor's Degree,,16013,15889
+2016_2017,009651,Texas A&m International University,Public,Political Science and Government.,Bachelor's Degree,,15000,14917
 2015_2016,009651,Texas A&m International University,Public,"Psychology, General.",Bachelor's Degree,163,15750,16450
-2015_2016,009651,Texas A&m International University,Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,"Psychology, General.",Master's Degree,,,
 2016_2017,009651,Texas A&m International University,Public,"Psychology, General.",Bachelor's Degree,200,15125,16345
-2016_2017,009651,Texas A&m International University,Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Public Administration.,Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Public Administration.,Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,NA,NA,NA
+2016_2017,009651,Texas A&m International University,Public,"Psychology, General.",Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Public Administration.,Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Public Administration.,Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Public Relations, Advertising, and Applied Communication.",Master's Degree,,,
 2015_2016,009651,Texas A&m International University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,73,15000,17917
-2015_2016,009651,Texas A&m International University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,,,
 2016_2017,009651,Texas A&m International University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,84,15361,17742
-2016_2017,009651,Texas A&m International University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,10,NA,18157
+2016_2017,009651,Texas A&m International University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,10,,18157
 2015_2016,009651,Texas A&m International University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,22,18700,19411
-2015_2016,009651,Texas A&m International University,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,18,NA,16959
-2016_2017,009651,Texas A&m International University,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,"Social Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Social Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Sociology.,Bachelor's Degree,NA,20058,21183
-2015_2016,009651,Texas A&m International University,Public,Sociology.,Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,Sociology.,Bachelor's Degree,NA,17600,19189
-2016_2017,009651,Texas A&m International University,Public,Sociology.,Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,Special Education and Teaching.,Bachelor's Degree,NA,25350,26725
-2015_2016,009651,Texas A&m International University,Public,Special Education and Teaching.,Master's Degree,12,NA,28125
-2016_2017,009651,Texas A&m International University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,28740
-2016_2017,009651,Texas A&m International University,Public,Special Education and Teaching.,Master's Degree,12,NA,29865
+2015_2016,009651,Texas A&m International University,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,18,,16959
+2016_2017,009651,Texas A&m International University,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,"Social Sciences, General.",Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Social Sciences, General.",Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Sociology.,Bachelor's Degree,,20058,21183
+2015_2016,009651,Texas A&m International University,Public,Sociology.,Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,Sociology.,Bachelor's Degree,,17600,19189
+2016_2017,009651,Texas A&m International University,Public,Sociology.,Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,Special Education and Teaching.,Bachelor's Degree,,25350,26725
+2015_2016,009651,Texas A&m International University,Public,Special Education and Teaching.,Master's Degree,12,,28125
+2016_2017,009651,Texas A&m International University,Public,Special Education and Teaching.,Bachelor's Degree,,,28740
+2016_2017,009651,Texas A&m International University,Public,Special Education and Teaching.,Master's Degree,12,,29865
 2015_2016,009651,Texas A&m International University,Public,Student Counseling and Personnel Services.,Master's Degree,29,28378,28207
-2015_2016,009651,Texas A&m International University,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
 2016_2017,009651,Texas A&m International University,Public,Student Counseling and Personnel Services.,Master's Degree,37,28250,27735
 2015_2016,009651,Texas A&m International University,Public,Systems Engineering.,Bachelor's Degree,21,12800,15686
 2016_2017,009651,Texas A&m International University,Public,Systems Engineering.,Bachelor's Degree,30,13889,14908
-2015_2016,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,22050,23226
-2015_2016,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,21503,19459
-2016_2017,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,22050,23226
+2015_2016,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,21503,19459
+2016_2017,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,009651,Texas A&m International University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,

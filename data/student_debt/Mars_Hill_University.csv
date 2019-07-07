@@ -1,62 +1,62 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002944,Mars Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,28573
-2016_2017,002944,Mars Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,30420
+2015_2016,002944,Mars Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,28573
+2016_2017,002944,Mars Hill University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,30420
 2015_2016,002944,Mars Hill University,Private,"Biology, General.",Bachelor's Degree,30,26250,24908
 2016_2017,002944,Mars Hill University,Private,"Biology, General.",Bachelor's Degree,36,27000,26541
 2015_2016,002944,Mars Hill University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,42,25500,25256
 2016_2017,002944,Mars Hill University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,52,26616,27603
-2015_2016,002944,Mars Hill University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,Criminal Justice and Corrections.,Bachelor's Degree,13,NA,33047
+2015_2016,002944,Mars Hill University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,Criminal Justice and Corrections.,Bachelor's Degree,13,,33047
 2016_2017,002944,Mars Hill University,Private,Criminal Justice and Corrections.,Bachelor's Degree,26,32687,31783
-2015_2016,002944,Mars Hill University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,25992
-2016_2017,002944,Mars Hill University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,34922
-2015_2016,002944,Mars Hill University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,History.,Bachelor's Degree,10,NA,30381
-2015_2016,002944,Mars Hill University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2015_2016,002944,Mars Hill University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,"English Language and Literature, General.",Bachelor's Degree,,,25992
+2016_2017,002944,Mars Hill University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,34922
+2015_2016,002944,Mars Hill University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,History.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,History.,Bachelor's Degree,10,,30381
+2015_2016,002944,Mars Hill University,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,Music.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Music.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,"Parks, Recreation and Leisure Studies.",Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,002944,Mars Hill University,Private,"Psychology, General.",Bachelor's Degree,22,26000,26051
 2016_2017,002944,Mars Hill University,Private,"Psychology, General.",Bachelor's Degree,26,28875,31059
-2016_2017,002944,Mars Hill University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,002944,Mars Hill University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,002944,Mars Hill University,Private,Social Work.,Bachelor's Degree,36,30843,30336
 2016_2017,002944,Mars Hill University,Private,Social Work.,Bachelor's Degree,49,27093,27621
-2015_2016,002944,Mars Hill University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,26434
-2016_2017,002944,Mars Hill University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,16,NA,24320
-2015_2016,002944,Mars Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,13,NA,21523
-2016_2017,002944,Mars Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,19,NA,26120
-2016_2017,002944,Mars Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,002944,Mars Hill University,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,Special Education and Teaching.,Bachelor's Degree,,,26434
+2016_2017,002944,Mars Hill University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,"Specialized Sales, Merchandising and Marketing Operations.",Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,16,,24320
+2015_2016,002944,Mars Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,13,,21523
+2016_2017,002944,Mars Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,19,,26120
+2016_2017,002944,Mars Hill University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2015_2016,002944,Mars Hill University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,36,29375,30386
 2016_2017,002944,Mars Hill University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,36,31000,31752
-2015_2016,002944,Mars Hill University,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2016_2017,002944,Mars Hill University,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2015_2016,002944,Mars Hill University,Private,Zoology/Animal Biology.,Bachelor's Degree,NA,NA,25025
-2016_2017,002944,Mars Hill University,Private,Zoology/Animal Biology.,Bachelor's Degree,NA,NA,NA
+2015_2016,002944,Mars Hill University,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2016_2017,002944,Mars Hill University,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2015_2016,002944,Mars Hill University,Private,Zoology/Animal Biology.,Bachelor's Degree,,,25025
+2016_2017,002944,Mars Hill University,Private,Zoology/Animal Biology.,Bachelor's Degree,,,

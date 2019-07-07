@@ -1,70 +1,70 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,002528,Miles Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Agricultural and Domestic Animal Services.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Agricultural and Domestic Animal Services.,Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Agricultural and Food Products Processing.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Agricultural and Food Products Processing.,Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Agricultural Business and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Agricultural Business and Management.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Agricultural Business and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Agricultural Business and Management.,Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Agricultural Production Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Agricultural Production Operations.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Agricultural Production Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,9711
-2016_2017,002528,Miles Community College,Public,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Carpenters.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Carpenters.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Carpenters.,Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Computer Software and Media Applications.,Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,"Education, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,"Education, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,"Education, General.",Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,"Engineering, General.",Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,10,NA,6718
-2016_2017,002528,Miles Community College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,12,NA,5708
-2016_2017,002528,Miles Community College,Public,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Insurance.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Insurance.,Associate's Degree,NA,NA,NA
+2015_2016,002528,Miles Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,Agricultural and Domestic Animal Services.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Agricultural and Domestic Animal Services.,Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Agricultural and Food Products Processing.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Agricultural and Food Products Processing.,Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Agricultural Business and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,Agricultural Business and Management.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Agricultural Business and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,Agricultural Business and Management.,Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Agricultural Production Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,Agricultural Production Operations.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Agricultural Production Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,"Business Administration, Management and Operations.",Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,"Business/Commerce, General.",Associate's Degree,,,9711
+2016_2017,002528,Miles Community College,Public,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Carpenters.,Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,Carpenters.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Carpenters.,Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,Carpenters.,Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,Computer Software and Media Applications.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Computer Software and Media Applications.,Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Computer/Information Technology Administration and Management.,Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,"Education, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,"Education, General.",Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,"Education, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,"Education, General.",Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Electrical/Electronics Maintenance and Repair Technology.,Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,"Engineering, General.",Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,"Engineering, General.",Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,Entrepreneurial and Small Business Operations.,Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,10,,6718
+2016_2017,002528,Miles Community College,Public,Ground Transportation.,Undergraduate Certificate or Diploma,12,,5708
+2016_2017,002528,Miles Community College,Public,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Insurance.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Insurance.,Associate's Degree,,,
 2015_2016,002528,Miles Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,23,12000,13508
 2016_2017,002528,Miles Community College,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,31,12000,14992
-2016_2017,002528,Miles Community College,Public,Plant Sciences.,Associate's Degree,NA,NA,NA
+2016_2017,002528,Miles Community College,Public,Plant Sciences.,Associate's Degree,,,
 2015_2016,002528,Miles Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,38,16358,17939
 2016_2017,002528,Miles Community College,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,31,17500,19109
-2015_2016,002528,Miles Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002528,Miles Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,002528,Miles Community College,Public,Wildlife and Wildlands Science and Management.,Associate's Degree,NA,NA,NA
+2015_2016,002528,Miles Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,002528,Miles Community College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,002528,Miles Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,002528,Miles Community College,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,,,
+2016_2017,002528,Miles Community College,Public,Wildlife and Wildlands Science and Management.,Associate's Degree,,,

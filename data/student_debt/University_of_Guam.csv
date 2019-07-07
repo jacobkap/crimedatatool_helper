@@ -1,92 +1,92 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003935,University of Guam,Public,Accounting and Related Services.,Bachelor's Degree,10,NA,17989
-2016_2017,003935,University of Guam,Public,Accounting and Related Services.,Bachelor's Degree,10,NA,17989
-2015_2016,003935,University of Guam,Public,"Agriculture, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Agriculture, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Anthropology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Anthropology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Area Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Area Studies.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Area Studies.,Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,003935,University of Guam,Public,Accounting and Related Services.,Bachelor's Degree,10,,17989
+2016_2017,003935,University of Guam,Public,Accounting and Related Services.,Bachelor's Degree,10,,17989
+2015_2016,003935,University of Guam,Public,"Agriculture, General.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"Agriculture, General.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Anthropology.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Anthropology.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Area Studies.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Area Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003935,University of Guam,Public,Area Studies.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Area Studies.,Post-baccalaureate Certificate,,,
+2016_2017,003935,University of Guam,Public,Area Studies.,Master's Degree,,,
+2015_2016,003935,University of Guam,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"Bilingual, Multilingual, and Multicultural Education.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,"Biology, General.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,"Biology, General.",Master's Degree,,,
+2016_2017,003935,University of Guam,Public,"Biology, General.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"Biology, General.",Master's Degree,,,
 2015_2016,003935,University of Guam,Public,"Business Administration, Management and Operations.",Bachelor's Degree,21,18500,17842
-2015_2016,003935,University of Guam,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
+2015_2016,003935,University of Guam,Public,"Business Administration, Management and Operations.",Master's Degree,,,
 2016_2017,003935,University of Guam,Public,"Business Administration, Management and Operations.",Bachelor's Degree,21,18500,17842
-2016_2017,003935,University of Guam,Public,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Criminal Justice and Corrections.,Bachelor's Degree,10,NA,19317
-2016_2017,003935,University of Guam,Public,Criminal Justice and Corrections.,Bachelor's Degree,10,NA,16570
-2015_2016,003935,University of Guam,Public,"Education, General.",Bachelor's Degree,NA,NA,23030
-2016_2017,003935,University of Guam,Public,"Education, General.",Bachelor's Degree,NA,NA,23030
-2015_2016,003935,University of Guam,Public,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Public Administration.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Public Administration.,Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Public Administration.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Public Administration.,Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Social Work.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Social Work.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2015_2016,003935,University of Guam,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2016_2017,003935,University of Guam,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
+2016_2017,003935,University of Guam,Public,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,003935,University of Guam,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Chemistry.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2016_2017,003935,University of Guam,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,,,
+2015_2016,003935,University of Guam,Public,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Computer Science.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Computer Science.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Criminal Justice and Corrections.,Bachelor's Degree,10,,19317
+2016_2017,003935,University of Guam,Public,Criminal Justice and Corrections.,Bachelor's Degree,10,,16570
+2015_2016,003935,University of Guam,Public,"Education, General.",Bachelor's Degree,,,23030
+2016_2017,003935,University of Guam,Public,"Education, General.",Bachelor's Degree,,,23030
+2015_2016,003935,University of Guam,Public,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,003935,University of Guam,Public,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,003935,University of Guam,Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,"English Language and Literature, General.",Master's Degree,,,
+2016_2017,003935,University of Guam,Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"English Language and Literature, General.",Master's Degree,,,
+2015_2016,003935,University of Guam,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Fine and Studio Arts.,Master's Degree,,,
+2016_2017,003935,University of Guam,Public,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Fine and Studio Arts.,Master's Degree,,,
+2015_2016,003935,University of Guam,Public,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,History.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,History.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Mathematics.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Mathematics.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2016_2017,003935,University of Guam,Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2015_2016,003935,University of Guam,Public,Philosophy.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Philosophy.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"Psychology, General.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Public Administration.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Public Administration.,Master's Degree,,,
+2016_2017,003935,University of Guam,Public,Public Administration.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Public Administration.,Master's Degree,,,
+2015_2016,003935,University of Guam,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Social Work.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Social Work.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Sociology.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Sociology.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Special Education and Teaching.,Master's Degree,,,
+2016_2017,003935,University of Guam,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Special Education and Teaching.,Master's Degree,,,
+2015_2016,003935,University of Guam,Public,Student Counseling and Personnel Services.,Master's Degree,,,
+2016_2017,003935,University of Guam,Public,Student Counseling and Personnel Services.,Master's Degree,,,
+2015_2016,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,003935,University of Guam,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2015_2016,003935,University of Guam,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,003935,University of Guam,Public,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2016_2017,003935,University of Guam,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,

@@ -1,60 +1,60 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,005245,University of Arkansas Community College At Morril,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,"Business/Commerce, General.",Associate's Degree,15,NA,14631
-2016_2017,005245,University of Arkansas Community College At Morril,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005245,University of Arkansas Community College At Morril,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,"Business/Commerce, General.",Associate's Degree,15,,14631
+2016_2017,005245,University of Arkansas Community College At Morril,Public,"Business/Commerce, General.",Undergraduate Certificate or Diploma,,,
 2016_2017,005245,University of Arkansas Community College At Morril,Public,"Business/Commerce, General.",Associate's Degree,33,9791,14117
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,10,NA,9728
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,15,NA,9902
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Dietetics and Clinical Nutrition Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Engineering-Related Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Engineering-Related Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Engineering-Related Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Engineering-Related Technologies.,Associate's Degree,11,NA,12717
-2015_2016,005245,University of Arkansas Community College At Morril,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,10,NA,7372
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,10,,9728
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Computer Engineering Technologies/Technicians.,Associate's Degree,15,,9902
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Criminal Justice and Corrections.,Associate's Degree,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Design and Applied Arts.,Associate's Degree,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Dietetics and Clinical Nutrition Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Engineering-Related Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Engineering-Related Technologies.,Associate's Degree,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Engineering-Related Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Engineering-Related Technologies.,Associate's Degree,11,,12717
+2015_2016,005245,University of Arkansas Community College At Morril,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,10,,7372
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Heavy/Industrial Equipment Maintenance Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Heavy/Industrial Equipment Maintenance Technologies.,Associate's Degree,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,"Human Development, Family Studies, and Related Services.",Associate's Degree,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,,,
 2015_2016,005245,University of Arkansas Community College At Morril,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,62,6716,9303
-2016_2017,005245,University of Arkansas Community College At Morril,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,005245,University of Arkansas Community College At Morril,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Undergraduate Certificate or Diploma,,,
 2016_2017,005245,University of Arkansas Community College At Morril,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,97,6500,8910
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,14,NA,11657
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,14,NA,11657
-2015_2016,005245,University of Arkansas Community College At Morril,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,15,NA,12569
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Precision Metal Working.,Associate's Degree,NA,NA,NA
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,14,,11657
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Mining and Petroleum Technologies/Technicians.,Associate's Degree,14,,11657
+2015_2016,005245,University of Arkansas Community College At Morril,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,15,,12569
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Precision Metal Working.,Associate's Degree,,,
 2015_2016,005245,University of Arkansas Community College At Morril,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,27,10500,13883
 2016_2017,005245,University of Arkansas Community College At Morril,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,27,10500,13883
-2015_2016,005245,University of Arkansas Community College At Morril,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,005245,University of Arkansas Community College At Morril,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,005245,University of Arkansas Community College At Morril,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,NA,NA,NA
+2015_2016,005245,University of Arkansas Community College At Morril,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2015_2016,005245,University of Arkansas Community College At Morril,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,,,
+2016_2017,005245,University of Arkansas Community College At Morril,Public,Vehicle Maintenance and Repair Technologies.,Associate's Degree,,,

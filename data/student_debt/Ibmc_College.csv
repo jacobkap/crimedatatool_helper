@@ -1,58 +1,58 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,030063,Ibmc College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030063,Ibmc College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,20559,20975
-2016_2017,008635,Ibmc College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,030063,Ibmc College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030063,Ibmc College,Proprietary,Accounting and Related Services.,Associate's Degree,NA,20326,21392
-2015_2016,008635,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,008635,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,17054,16286
-2015_2016,030063,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,15531,16336
-2015_2016,030063,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,20064,20745
-2016_2017,008635,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,9207
-2016_2017,008635,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,16775,15798
-2016_2017,030063,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,16124,16640
-2016_2017,030063,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,21174,21850
-2015_2016,008635,Ibmc College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,29491,27044
-2015_2016,008635,Ibmc College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,008635,Ibmc College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,008635,Ibmc College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2015_2016,030063,Ibmc College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,NA,20593
-2016_2017,030063,Ibmc College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,NA,23500,21813
-2015_2016,008635,Ibmc College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030063,Ibmc College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,10583,11614
-2016_2017,008635,Ibmc College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,NA,5397
-2016_2017,030063,Ibmc College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,9500,10226
-2016_2017,030063,Ibmc College,Proprietary,Cosmetology and Related Personal Grooming Services.,Associate's Degree,NA,NA,NA
+2015_2016,030063,Ibmc College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,030063,Ibmc College,Proprietary,Accounting and Related Services.,Associate's Degree,,20559,20975
+2016_2017,008635,Ibmc College,Proprietary,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,030063,Ibmc College,Proprietary,Accounting and Related Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,030063,Ibmc College,Proprietary,Accounting and Related Services.,Associate's Degree,,20326,21392
+2015_2016,008635,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,008635,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,17054,16286
+2015_2016,030063,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,15531,16336
+2015_2016,030063,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,20064,20745
+2016_2017,008635,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,9207
+2016_2017,008635,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,16775,15798
+2016_2017,030063,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,16124,16640
+2016_2017,030063,Ibmc College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,21174,21850
+2015_2016,008635,Ibmc College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,29491,27044
+2015_2016,008635,Ibmc College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2016_2017,008635,Ibmc College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,008635,Ibmc College,Proprietary,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2015_2016,030063,Ibmc College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,,20593
+2016_2017,030063,Ibmc College,Proprietary,Computer/Information Technology Administration and Management.,Associate's Degree,,23500,21813
+2015_2016,008635,Ibmc College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,030063,Ibmc College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,10583,11614
+2016_2017,008635,Ibmc College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,,5397
+2016_2017,030063,Ibmc College,Proprietary,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,9500,10226
+2016_2017,030063,Ibmc College,Proprietary,Cosmetology and Related Personal Grooming Services.,Associate's Degree,,,
 2015_2016,008635,Ibmc College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,50,10825,10274
-2015_2016,030063,Ibmc College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,13132
-2015_2016,030063,Ibmc College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,NA,NA,NA
+2015_2016,030063,Ibmc College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,,13132
+2015_2016,030063,Ibmc College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,,,
 2016_2017,008635,Ibmc College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,41,11302,11013
-2016_2017,030063,Ibmc College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,18,NA,12160
-2016_2017,030063,Ibmc College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,NA,NA,21613
-2015_2016,008635,Ibmc College,Proprietary,Entrepreneurial and Small Business Operations.,Associate's Degree,NA,NA,NA
-2016_2017,008635,Ibmc College,Proprietary,Health-Related Knowledge and Skills.,Associate's Degree,NA,NA,NA
+2016_2017,030063,Ibmc College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,18,,12160
+2016_2017,030063,Ibmc College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,,,21613
+2015_2016,008635,Ibmc College,Proprietary,Entrepreneurial and Small Business Operations.,Associate's Degree,,,
+2016_2017,008635,Ibmc College,Proprietary,Health-Related Knowledge and Skills.,Associate's Degree,,,
 2015_2016,008635,Ibmc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,20,19097,17017
-2015_2016,030063,Ibmc College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,16734
-2015_2016,030063,Ibmc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,19551,20147
-2016_2017,008635,Ibmc College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,008635,Ibmc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,13,NA,16034
-2016_2017,030063,Ibmc College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,18100
-2016_2017,030063,Ibmc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,21346,22425
-2015_2016,008635,Ibmc College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,18884
-2015_2016,008635,Ibmc College,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,12,NA,18658
-2016_2017,008635,Ibmc College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,008635,Ibmc College,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
-2015_2016,030063,Ibmc College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,030063,Ibmc College,Proprietary,Legal Support Services.,Associate's Degree,NA,18500,NA
-2016_2017,030063,Ibmc College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,030063,Ibmc College,Proprietary,Legal Support Services.,Associate's Degree,NA,18843,NA
-2015_2016,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,9500,10080
-2015_2016,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,NA,NA
-2015_2016,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,030063,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,14929,NA
-2015_2016,030063,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,21350,20872
-2016_2017,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,NA,11030
-2016_2017,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,NA,NA,NA
-2016_2017,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,030063,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,16704,NA
+2015_2016,030063,Ibmc College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,16734
+2015_2016,030063,Ibmc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,19551,20147
+2016_2017,008635,Ibmc College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,008635,Ibmc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,13,,16034
+2016_2017,030063,Ibmc College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,18100
+2016_2017,030063,Ibmc College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,21346,22425
+2015_2016,008635,Ibmc College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,18884
+2015_2016,008635,Ibmc College,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,12,,18658
+2016_2017,008635,Ibmc College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,
+2016_2017,008635,Ibmc College,Proprietary,Health and Physical Education/Fitness.,Associate's Degree,,,
+2015_2016,030063,Ibmc College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,030063,Ibmc College,Proprietary,Legal Support Services.,Associate's Degree,,18500,
+2016_2017,030063,Ibmc College,Proprietary,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,030063,Ibmc College,Proprietary,Legal Support Services.,Associate's Degree,,18843,
+2015_2016,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,9500,10080
+2015_2016,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,,
+2015_2016,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Bachelor's Degree,,,
+2015_2016,030063,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,14929,
+2015_2016,030063,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,21350,20872
+2016_2017,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,,11030
+2016_2017,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,,,
+2016_2017,008635,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Bachelor's Degree,,,
+2016_2017,030063,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,16704,
 2016_2017,030063,Ibmc College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,33,21444,21099

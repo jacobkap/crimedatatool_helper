@@ -1,35 +1,35 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,021686,East-west University,Private,Behavioral Sciences.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,021686,East-west University,Private,Behavioral Sciences.,Undergraduate Certificate or Diploma,,,
 2015_2016,021686,East-west University,Private,Behavioral Sciences.,Bachelor's Degree,25,24702,24536
 2016_2017,021686,East-west University,Private,Behavioral Sciences.,Bachelor's Degree,37,23195,25590
-2015_2016,021686,East-west University,Private,"Biology, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021686,East-west University,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,"Biology, General.",Bachelor's Degree,13,NA,24814
-2015_2016,021686,East-west University,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,021686,East-west University,Private,"Biology, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,021686,East-west University,Private,"Biology, General.",Bachelor's Degree,,,
+2016_2017,021686,East-west University,Private,"Biology, General.",Bachelor's Degree,13,,24814
+2015_2016,021686,East-west University,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,021686,East-west University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,27,27000,26562
 2016_2017,021686,East-west University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,36,28974,27545
-2015_2016,021686,East-west University,Private,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,Business Operations Support and Assistant Services.,Associate's Degree,NA,NA,NA
-2015_2016,021686,East-west University,Private,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021686,East-west University,Private,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,021686,East-west University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,11,NA,25114
-2015_2016,021686,East-west University,Private,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021686,East-west University,Private,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2015_2016,021686,East-west University,Private,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,Electrical Engineering Technologies/Technicians.,Associate's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,021686,East-west University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,31307
-2015_2016,021686,East-west University,Private,"English Language and Literature, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021686,East-west University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,021686,East-west University,Private,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,021686,East-west University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,021686,East-west University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,021686,East-west University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,021686,East-west University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,021686,East-west University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,021686,East-west University,Private,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2016_2017,021686,East-west University,Private,Business Operations Support and Assistant Services.,Associate's Degree,,,
+2015_2016,021686,East-west University,Private,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,021686,East-west University,Private,"Computer and Information Sciences, General.",Associate's Degree,,,
+2015_2016,021686,East-west University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,021686,East-west University,Private,"Computer and Information Sciences, General.",Associate's Degree,,,
+2016_2017,021686,East-west University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,11,,25114
+2015_2016,021686,East-west University,Private,Electrical Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,021686,East-west University,Private,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2015_2016,021686,East-west University,Private,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,021686,East-west University,Private,Electrical Engineering Technologies/Technicians.,Associate's Degree,,,
+2016_2017,021686,East-west University,Private,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,021686,East-west University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2016_2017,021686,East-west University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,31307
+2015_2016,021686,East-west University,Private,"English Language and Literature, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,021686,East-west University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,021686,East-west University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,021686,East-west University,Private,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,021686,East-west University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,021686,East-west University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,021686,East-west University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,021686,East-west University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,021686,East-west University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,021686,East-west University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,021686,East-west University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,

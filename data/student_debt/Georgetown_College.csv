@@ -1,81 +1,81 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001964,Georgetown College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
+2015_2016,001964,Georgetown College,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Area Studies.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
 2015_2016,001964,Georgetown College,Private,"Biology, General.",Bachelor's Degree,23,27000,23563
-2016_2017,001964,Georgetown College,Private,"Biology, General.",Bachelor's Degree,12,NA,19416
+2016_2017,001964,Georgetown College,Private,"Biology, General.",Bachelor's Degree,12,,19416
 2015_2016,001964,Georgetown College,Private,"Business/Commerce, General.",Bachelor's Degree,21,27000,29300
-2016_2017,001964,Georgetown College,Private,"Business/Commerce, General.",Bachelor's Degree,13,NA,25885
-2015_2016,001964,Georgetown College,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
+2016_2017,001964,Georgetown College,Private,"Business/Commerce, General.",Bachelor's Degree,13,,25885
+2015_2016,001964,Georgetown College,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Chemistry.,Bachelor's Degree,,,
 2015_2016,001964,Georgetown College,Private,Communication and Media Studies.,Bachelor's Degree,36,27000,27085
 2016_2017,001964,Georgetown College,Private,Communication and Media Studies.,Bachelor's Degree,32,27000,27042
-2015_2016,001964,Georgetown College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Education, General.",Master's Degree,NA,18030,26400
+2015_2016,001964,Georgetown College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,001964,Georgetown College,Private,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,001964,Georgetown College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Economics.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Economics.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Education, General.",Master's Degree,,18030,26400
 2016_2017,001964,Georgetown College,Private,"Education, General.",Master's Degree,110,14733,21125
-2016_2017,001964,Georgetown College,Private,"Education, General.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"English Language and Literature, General.",Bachelor's Degree,11,NA,28543
-2016_2017,001964,Georgetown College,Private,"English Language and Literature, General.",Bachelor's Degree,10,NA,31525
-2016_2017,001964,Georgetown College,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,001964,Georgetown College,Private,"Education, General.",Graduate/Professional Certificate,,,
+2015_2016,001964,Georgetown College,Private,"English Language and Literature, General.",Bachelor's Degree,11,,28543
+2016_2017,001964,Georgetown College,Private,"English Language and Literature, General.",Bachelor's Degree,10,,31525
+2016_2017,001964,Georgetown College,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,001964,Georgetown College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,34,27000,27656
 2016_2017,001964,Georgetown College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,23,27000,25361
-2015_2016,001964,Georgetown College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,International/Global Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Marketing.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Political Science and Government.,Bachelor's Degree,17,NA,25585
-2016_2017,001964,Georgetown College,Private,Political Science and Government.,Bachelor's Degree,14,NA,26932
+2015_2016,001964,Georgetown College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,History.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,History.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,International/Global Studies.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Marketing.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Music.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Music.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Physics.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Political Science and Government.,Bachelor's Degree,17,,25585
+2016_2017,001964,Georgetown College,Private,Political Science and Government.,Bachelor's Degree,14,,26932
 2015_2016,001964,Georgetown College,Private,"Psychology, General.",Bachelor's Degree,38,27000,26732
 2016_2017,001964,Georgetown College,Private,"Psychology, General.",Bachelor's Degree,38,27000,26170
-2015_2016,001964,Georgetown College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,13,NA,29455
-2016_2017,001964,Georgetown College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,Sociology.,Bachelor's Degree,12,NA,23819
-2016_2017,001964,Georgetown College,Private,Sociology.,Bachelor's Degree,11,NA,28974
-2015_2016,001964,Georgetown College,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,26333
-2016_2017,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,001964,Georgetown College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,13,,29455
+2016_2017,001964,Georgetown College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,Sociology.,Bachelor's Degree,12,,23819
+2016_2017,001964,Georgetown College,Private,Sociology.,Bachelor's Degree,11,,28974
+2015_2016,001964,Georgetown College,Private,Special Education and Teaching.,Master's Degree,,,
+2016_2017,001964,Georgetown College,Private,Special Education and Teaching.,Master's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,26333
+2016_2017,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,001964,Georgetown College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,

@@ -1,16 +1,16 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003325,Millersville University of Pennsylvania,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,17,NA,27037
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,17,,27037
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,Anthropology.,Bachelor's Degree,21,27000,27880
-2016_2017,003325,Millersville University of Pennsylvania,Public,Anthropology.,Bachelor's Degree,18,NA,21465
+2016_2017,003325,Millersville University of Pennsylvania,Public,Anthropology.,Bachelor's Degree,18,,21465
 2015_2016,003325,Millersville University of Pennsylvania,Public,Area Studies.,Bachelor's Degree,30,26500,25031
 2016_2017,003325,Millersville University of Pennsylvania,Public,Area Studies.,Bachelor's Degree,26,27000,26256
 2015_2016,003325,Millersville University of Pennsylvania,Public,Atmospheric Sciences and Meteorology.,Bachelor's Degree,40,27000,23894
 2016_2017,003325,Millersville University of Pennsylvania,Public,Atmospheric Sciences and Meteorology.,Bachelor's Degree,23,25000,22373
 2015_2016,003325,Millersville University of Pennsylvania,Public,"Biology, General.",Bachelor's Degree,135,26000,24512
-2015_2016,003325,Millersville University of Pennsylvania,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,"Biology, General.",Master's Degree,,,
 2016_2017,003325,Millersville University of Pennsylvania,Public,"Biology, General.",Bachelor's Degree,146,26000,25157
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Biology, General.",Master's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,"Business Administration, Management and Operations.",Bachelor's Degree,225,25250,24137
 2016_2017,003325,Millersville University of Pennsylvania,Public,"Business Administration, Management and Operations.",Bachelor's Degree,274,24108,22943
 2015_2016,003325,Millersville University of Pennsylvania,Public,Chemistry.,Bachelor's Degree,41,26325,24036
@@ -19,58 +19,58 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,003325,Millersville University of Pennsylvania,Public,Communication and Media Studies.,Bachelor's Degree,194,26000,25652
 2015_2016,003325,Millersville University of Pennsylvania,Public,"Computer and Information Sciences, General.",Bachelor's Degree,54,26746,26224
 2016_2017,003325,Millersville University of Pennsylvania,Public,"Computer and Information Sciences, General.",Bachelor's Degree,65,24250,24153
-2016_2017,003325,Millersville University of Pennsylvania,Public,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,Design and Applied Arts.,Bachelor's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,Economics.,Bachelor's Degree,32,26168,25874
 2016_2017,003325,Millersville University of Pennsylvania,Public,Economics.,Bachelor's Degree,38,22277,22000
-2015_2016,003325,Millersville University of Pennsylvania,Public,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,003325,Millersville University of Pennsylvania,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,Educational Administration and Supervision.,First Professional Degree,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,003325,Millersville University of Pennsylvania,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,Educational Administration and Supervision.,First Professional Degree,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,"English Language and Literature, General.",Bachelor's Degree,79,26808,24867
-2015_2016,003325,Millersville University of Pennsylvania,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,003325,Millersville University of Pennsylvania,Public,"English Language and Literature, General.",Bachelor's Degree,65,25535,24812
-2016_2017,003325,Millersville University of Pennsylvania,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,"English Language and Literature, General.",Master's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,Fine and Studio Arts.,Bachelor's Degree,68,26899,25353
-2015_2016,003325,Millersville University of Pennsylvania,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,Fine and Studio Arts.,Master's Degree,,,
 2016_2017,003325,Millersville University of Pennsylvania,Public,Fine and Studio Arts.,Bachelor's Degree,58,26125,24137
-2016_2017,003325,Millersville University of Pennsylvania,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,Fine and Studio Arts.,Master's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,Geography and Cartography.,Bachelor's Degree,20,18848,22429
 2016_2017,003325,Millersville University of Pennsylvania,Public,Geography and Cartography.,Bachelor's Degree,30,24554,22827
-2015_2016,003325,Millersville University of Pennsylvania,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,14,NA,24387
-2016_2017,003325,Millersville University of Pennsylvania,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,19,NA,25478
-2015_2016,003325,Millersville University of Pennsylvania,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003325,Millersville University of Pennsylvania,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,003325,Millersville University of Pennsylvania,Public,Health and Physical Education/Fitness.,Master's Degree,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,Health and Physical Education/Fitness.,Master's Degree,10,NA,27245
+2015_2016,003325,Millersville University of Pennsylvania,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,14,,24387
+2016_2017,003325,Millersville University of Pennsylvania,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,19,,25478
+2015_2016,003325,Millersville University of Pennsylvania,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003325,Millersville University of Pennsylvania,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Germanic Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Germanic Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,003325,Millersville University of Pennsylvania,Public,Health and Physical Education/Fitness.,Master's Degree,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,Health and Physical Education/Fitness.,Master's Degree,10,,27245
 2015_2016,003325,Millersville University of Pennsylvania,Public,History.,Bachelor's Degree,42,25125,24694
-2015_2016,003325,Millersville University of Pennsylvania,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,History.,Master's Degree,,,
 2016_2017,003325,Millersville University of Pennsylvania,Public,History.,Bachelor's Degree,30,24750,23914
-2016_2017,003325,Millersville University of Pennsylvania,Public,History.,Master's Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,History.,Master's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,Homeland Security.,Master's Degree,27,31284,29281
 2016_2017,003325,Millersville University of Pennsylvania,Public,Homeland Security.,Master's Degree,29,34341,32751
-2015_2016,003325,Millersville University of Pennsylvania,Public,Industrial Production Technologies/Technicians.,Associate's Degree,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,Industrial Production Technologies/Technicians.,Associate's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,100,27000,26833
-2015_2016,003325,Millersville University of Pennsylvania,Public,Industrial Production Technologies/Technicians.,Master's Degree,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,Industrial Production Technologies/Technicians.,Associate's Degree,13,NA,23322
+2015_2016,003325,Millersville University of Pennsylvania,Public,Industrial Production Technologies/Technicians.,Master's Degree,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,Industrial Production Technologies/Technicians.,Associate's Degree,13,,23322
 2016_2017,003325,Millersville University of Pennsylvania,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,103,26927,24914
-2016_2017,003325,Millersville University of Pennsylvania,Public,Industrial Production Technologies/Technicians.,Master's Degree,NA,NA,NA
-2015_2016,003325,Millersville University of Pennsylvania,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,Industrial Production Technologies/Technicians.,Master's Degree,,,
+2015_2016,003325,Millersville University of Pennsylvania,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Linguistic, Comparative, and Related Language Studies and Services.",Master's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,Mathematics.,Bachelor's Degree,54,25000,22059
-2015_2016,003325,Millersville University of Pennsylvania,Public,Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,Mathematics.,Master's Degree,,,
 2016_2017,003325,Millersville University of Pennsylvania,Public,Mathematics.,Bachelor's Degree,49,21500,19836
-2016_2017,003325,Millersville University of Pennsylvania,Public,Mathematics.,Master's Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,Mathematics.,Master's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,20,24575,23812
 2016_2017,003325,Millersville University of Pennsylvania,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,29,24150,22350
 2015_2016,003325,Millersville University of Pennsylvania,Public,Music.,Bachelor's Degree,22,25899,25828
 2016_2017,003325,Millersville University of Pennsylvania,Public,Music.,Bachelor's Degree,30,23473,24158
-2015_2016,003325,Millersville University of Pennsylvania,Public,Philosophy.,Bachelor's Degree,10,NA,25316
-2016_2017,003325,Millersville University of Pennsylvania,Public,Philosophy.,Bachelor's Degree,12,NA,28380
-2015_2016,003325,Millersville University of Pennsylvania,Public,Physics.,Bachelor's Degree,12,NA,28011
-2016_2017,003325,Millersville University of Pennsylvania,Public,Physics.,Bachelor's Degree,12,NA,26664
+2015_2016,003325,Millersville University of Pennsylvania,Public,Philosophy.,Bachelor's Degree,10,,25316
+2016_2017,003325,Millersville University of Pennsylvania,Public,Philosophy.,Bachelor's Degree,12,,28380
+2015_2016,003325,Millersville University of Pennsylvania,Public,Physics.,Bachelor's Degree,12,,28011
+2016_2017,003325,Millersville University of Pennsylvania,Public,Physics.,Bachelor's Degree,12,,26664
 2015_2016,003325,Millersville University of Pennsylvania,Public,Political Science and Government.,Bachelor's Degree,53,25000,24982
 2016_2017,003325,Millersville University of Pennsylvania,Public,Political Science and Government.,Bachelor's Degree,55,25750,25466
 2015_2016,003325,Millersville University of Pennsylvania,Public,"Psychology, General.",Bachelor's Degree,185,25000,24174
@@ -83,36 +83,36 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,003325,Millersville University of Pennsylvania,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,24,39005,39838
 2016_2017,003325,Millersville University of Pennsylvania,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,58,10449,12015
 2016_2017,003325,Millersville University of Pennsylvania,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,24,34750,39325
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,21,26500,23766
-2015_2016,003325,Millersville University of Pennsylvania,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
 2016_2017,003325,Millersville University of Pennsylvania,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,26,25875,23845
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,NA,NA,NA
-2015_2016,003325,Millersville University of Pennsylvania,Public,"Science Technologies/Technicians, Other.",Master's Degree,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Science Technologies/Technicians, Other.",Master's Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Romance Languages, Literatures, and Linguistics.",Master's Degree,,,
+2015_2016,003325,Millersville University of Pennsylvania,Public,"Science Technologies/Technicians, Other.",Master's Degree,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Science Technologies/Technicians, Other.",Master's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,"Social Sciences, Other.",Bachelor's Degree,31,27000,23696
 2016_2017,003325,Millersville University of Pennsylvania,Public,"Social Sciences, Other.",Bachelor's Degree,28,27000,24292
 2015_2016,003325,Millersville University of Pennsylvania,Public,Social Work.,Bachelor's Degree,149,26000,25354
 2015_2016,003325,Millersville University of Pennsylvania,Public,Social Work.,Master's Degree,94,40713,38254
 2016_2017,003325,Millersville University of Pennsylvania,Public,Social Work.,Bachelor's Degree,158,24125,23906
 2016_2017,003325,Millersville University of Pennsylvania,Public,Social Work.,Master's Degree,108,38213,36471
-2016_2017,003325,Millersville University of Pennsylvania,Public,Social Work.,First Professional Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,Social Work.,First Professional Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,Sociology.,Bachelor's Degree,64,22475,21622
 2016_2017,003325,Millersville University of Pennsylvania,Public,Sociology.,Bachelor's Degree,74,24750,22574
 2015_2016,003325,Millersville University of Pennsylvania,Public,Special Education and Teaching.,Bachelor's Degree,99,26818,24455
-2015_2016,003325,Millersville University of Pennsylvania,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,Special Education and Teaching.,Master's Degree,,,
 2016_2017,003325,Millersville University of Pennsylvania,Public,Special Education and Teaching.,Bachelor's Degree,103,27000,25339
-2016_2017,003325,Millersville University of Pennsylvania,Public,Special Education and Teaching.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,003325,Millersville University of Pennsylvania,Public,Student Counseling and Personnel Services.,Master's Degree,13,NA,29183
-2016_2017,003325,Millersville University of Pennsylvania,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,Special Education and Teaching.,Post-baccalaureate Certificate,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,Special Education and Teaching.,Master's Degree,,,
+2015_2016,003325,Millersville University of Pennsylvania,Public,Student Counseling and Personnel Services.,Master's Degree,13,,29183
+2016_2017,003325,Millersville University of Pennsylvania,Public,Student Counseling and Personnel Services.,Master's Degree,,,
 2015_2016,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,138,26816,25479
-2015_2016,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,114,26000,23714
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,003325,Millersville University of Pennsylvania,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
+2015_2016,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Post-baccalaureate Certificate,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,003325,Millersville University of Pennsylvania,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,

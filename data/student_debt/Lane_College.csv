@@ -1,39 +1,39 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003499,Lane College,Private,"Biology, General.",Bachelor's Degree,15,NA,36288
+2015_2016,003499,Lane College,Private,"Biology, General.",Bachelor's Degree,15,,36288
 2016_2017,003499,Lane College,Private,"Biology, General.",Bachelor's Degree,36,37602,36403
-2015_2016,003499,Lane College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,16,NA,36310
-2016_2017,003499,Lane College,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2015_2016,003499,Lane College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,16,,36310
+2016_2017,003499,Lane College,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,003499,Lane College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,45,39000,38618
-2015_2016,003499,Lane College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003499,Lane College,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,Communication and Media Studies.,Associate's Degree,NA,NA,NA
+2015_2016,003499,Lane College,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,003499,Lane College,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,Communication and Media Studies.,Associate's Degree,,,
 2016_2017,003499,Lane College,Private,Communication and Media Studies.,Bachelor's Degree,20,41713,39653
-2015_2016,003499,Lane College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003499,Lane College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,003499,Lane College,Private,Criminal Justice and Corrections.,Bachelor's Degree,18,NA,34733
+2015_2016,003499,Lane College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,003499,Lane College,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,003499,Lane College,Private,Criminal Justice and Corrections.,Bachelor's Degree,18,,34733
 2016_2017,003499,Lane College,Private,Criminal Justice and Corrections.,Bachelor's Degree,39,36000,35360
-2015_2016,003499,Lane College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003499,Lane College,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,003499,Lane College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003499,Lane College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,40122,39185
-2015_2016,003499,Lane College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003499,Lane College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003499,Lane College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,Religion/Religious Studies.,Associate's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003499,Lane College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,003499,Lane College,Private,Sociology.,Associate's Degree,NA,NA,NA
+2015_2016,003499,Lane College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003499,Lane College,Private,History.,Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,History.,Bachelor's Degree,,,
+2015_2016,003499,Lane College,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,003499,Lane College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,40122,39185
+2015_2016,003499,Lane College,Private,Music.,Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,Music.,Bachelor's Degree,,,
+2015_2016,003499,Lane College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,Physics.,Bachelor's Degree,,,
+2015_2016,003499,Lane College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,Religion/Religious Studies.,Associate's Degree,,,
+2016_2017,003499,Lane College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,003499,Lane College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,003499,Lane College,Private,Sociology.,Associate's Degree,,,
 2015_2016,003499,Lane College,Private,Sociology.,Bachelor's Degree,23,36100,36138
-2016_2017,003499,Lane College,Private,Sociology.,Associate's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,Sociology.,Bachelor's Degree,NA,35739,35883
-2015_2016,003499,Lane College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003499,Lane College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,19,NA,32149
+2016_2017,003499,Lane College,Private,Sociology.,Associate's Degree,,,
+2016_2017,003499,Lane College,Private,Sociology.,Bachelor's Degree,,35739,35883
+2015_2016,003499,Lane College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003499,Lane College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,19,,32149

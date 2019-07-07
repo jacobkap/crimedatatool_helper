@@ -1,18 +1,18 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,009795,Missouri College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,173,9500,9266
 2015_2016,009795,Missouri College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,23,9500,10363
-2016_2017,009795,Missouri College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9418,9113
-2016_2017,009795,Missouri College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,9481,9699
-2016_2017,009795,Missouri College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,009795,Missouri College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9418,9113
+2016_2017,009795,Missouri College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,9481,9699
+2016_2017,009795,Missouri College,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,009795,Missouri College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,166,9461,8748
 2015_2016,009795,Missouri College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,71,25250,24729
-2016_2017,009795,Missouri College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,NA,9397,8377
-2016_2017,009795,Missouri College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,NA,25250,23966
-2015_2016,009795,Missouri College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,8471,8538
-2015_2016,009795,Missouri College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,009795,Missouri College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,009795,Missouri College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,NA,NA,NA
+2016_2017,009795,Missouri College,Proprietary,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,,9397,8377
+2016_2017,009795,Missouri College,Proprietary,Dental Support Services and Allied Professions.,Associate's Degree,,25250,23966
+2015_2016,009795,Missouri College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,8471,8538
+2015_2016,009795,Missouri College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,,
+2016_2017,009795,Missouri College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,009795,Missouri College,Proprietary,Health and Medical Administrative Services.,Bachelor's Degree,,,
 2015_2016,009795,Missouri College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,29,9456,7826
-2016_2017,009795,Missouri College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,NA,NA,6564
-2015_2016,009795,Missouri College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,6650,6893
-2016_2017,009795,Missouri College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,NA,6650,6448
+2016_2017,009795,Missouri College,Proprietary,Health and Physical Education/Fitness.,Undergraduate Certificate or Diploma,,,6564
+2015_2016,009795,Missouri College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,6650,6893
+2016_2017,009795,Missouri College,Proprietary,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,,6650,6448

@@ -1,106 +1,106 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001005,Alabama State University,Public,Accounting and Related Services.,Bachelor's Degree,16,NA,26766
-2015_2016,001005,Alabama State University,Public,Accounting and Related Services.,Master's Degree,12,NA,30365
+2015_2016,001005,Alabama State University,Public,Accounting and Related Services.,Bachelor's Degree,16,,26766
+2015_2016,001005,Alabama State University,Public,Accounting and Related Services.,Master's Degree,12,,30365
 2016_2017,001005,Alabama State University,Public,Accounting and Related Services.,Bachelor's Degree,24,26500,29219
-2016_2017,001005,Alabama State University,Public,Accounting and Related Services.,Master's Degree,10,NA,21295
+2016_2017,001005,Alabama State University,Public,Accounting and Related Services.,Master's Degree,10,,21295
 2015_2016,001005,Alabama State University,Public,"Biology, General.",Bachelor's Degree,47,30750,29720
-2015_2016,001005,Alabama State University,Public,"Biology, General.",Master's Degree,NA,NA,NA
+2015_2016,001005,Alabama State University,Public,"Biology, General.",Master's Degree,,,
 2016_2017,001005,Alabama State University,Public,"Biology, General.",Bachelor's Degree,69,32149,30035
-2016_2017,001005,Alabama State University,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Biomedical/Medical Engineering.,Bachelor's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Biomedical/Medical Engineering.,Bachelor's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,18,NA,27857
+2016_2017,001005,Alabama State University,Public,"Biology, General.",Master's Degree,,,
+2015_2016,001005,Alabama State University,Public,Biomedical/Medical Engineering.,Bachelor's Degree,,,
+2016_2017,001005,Alabama State University,Public,Biomedical/Medical Engineering.,Bachelor's Degree,,,
+2015_2016,001005,Alabama State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,18,,27857
 2016_2017,001005,Alabama State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,36,29875,29961
-2015_2016,001005,Alabama State University,Public,Chemistry.,Bachelor's Degree,16,NA,26350
-2016_2017,001005,Alabama State University,Public,Chemistry.,Bachelor's Degree,19,NA,28588
+2015_2016,001005,Alabama State University,Public,Chemistry.,Bachelor's Degree,16,,26350
+2016_2017,001005,Alabama State University,Public,Chemistry.,Bachelor's Degree,19,,28588
 2015_2016,001005,Alabama State University,Public,Communication and Media Studies.,Bachelor's Degree,62,31759,33503
 2016_2017,001005,Alabama State University,Public,Communication and Media Studies.,Bachelor's Degree,93,31000,31631
-2015_2016,001005,Alabama State University,Public,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Computer/Information Technology Administration and Management.,Master's Degree,10,NA,37320
-2016_2017,001005,Alabama State University,Public,Computer/Information Technology Administration and Management.,Master's Degree,10,NA,42367
+2015_2016,001005,Alabama State University,Public,Computer Science.,Bachelor's Degree,,,
+2016_2017,001005,Alabama State University,Public,Computer Science.,Bachelor's Degree,,,
+2015_2016,001005,Alabama State University,Public,Computer/Information Technology Administration and Management.,Master's Degree,10,,37320
+2016_2017,001005,Alabama State University,Public,Computer/Information Technology Administration and Management.,Master's Degree,10,,42367
 2015_2016,001005,Alabama State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,104,34002,32954
-2015_2016,001005,Alabama State University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
+2015_2016,001005,Alabama State University,Public,Criminal Justice and Corrections.,Master's Degree,,,
 2016_2017,001005,Alabama State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,122,32625,32037
-2016_2017,001005,Alabama State University,Public,Criminal Justice and Corrections.,Master's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Dance.,Bachelor's Degree,NA,NA,25722
+2016_2017,001005,Alabama State University,Public,Criminal Justice and Corrections.,Master's Degree,,,
+2016_2017,001005,Alabama State University,Public,Dance.,Bachelor's Degree,,,25722
 2015_2016,001005,Alabama State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,21,27000,27071
-2016_2017,001005,Alabama State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,27000,28670
-2016_2017,001005,Alabama State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,"Education, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,"Education, General.",Bachelor's Degree,NA,NA,37789
-2015_2016,001005,Alabama State University,Public,"Education, General.",Master's Degree,NA,NA,74459
-2015_2016,001005,Alabama State University,Public,"Education, General.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,"Education, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,"Education, General.",Bachelor's Degree,NA,NA,34779
-2016_2017,001005,Alabama State University,Public,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,"Education, General.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Educational Administration and Supervision.,Master's Degree,10,NA,57554
-2015_2016,001005,Alabama State University,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Educational Administration and Supervision.,First Professional Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Educational Administration and Supervision.,Master's Degree,19,NA,40120
-2016_2017,001005,Alabama State University,Public,Educational Administration and Supervision.,Doctoral Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Educational Administration and Supervision.,First Professional Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,"English Language and Literature, General.",Bachelor's Degree,17,NA,35392
-2016_2017,001005,Alabama State University,Public,"English Language and Literature, General.",Bachelor's Degree,11,NA,35520
-2015_2016,001005,Alabama State University,Public,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Finance and Financial Management Services.,Bachelor's Degree,10,NA,33925
-2015_2016,001005,Alabama State University,Public,Fine and Studio Arts.,Bachelor's Degree,11,NA,24588
-2016_2017,001005,Alabama State University,Public,Fine and Studio Arts.,Bachelor's Degree,13,NA,27160
-2015_2016,001005,Alabama State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,16,NA,31093
+2016_2017,001005,Alabama State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,27000,28670
+2016_2017,001005,Alabama State University,Public,"Ecology, Evolution, Systematics, and Population Biology.",Bachelor's Degree,,,
+2015_2016,001005,Alabama State University,Public,"Education, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,001005,Alabama State University,Public,"Education, General.",Bachelor's Degree,,,37789
+2015_2016,001005,Alabama State University,Public,"Education, General.",Master's Degree,,,74459
+2015_2016,001005,Alabama State University,Public,"Education, General.",Graduate/Professional Certificate,,,
+2016_2017,001005,Alabama State University,Public,"Education, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,001005,Alabama State University,Public,"Education, General.",Bachelor's Degree,,,34779
+2016_2017,001005,Alabama State University,Public,"Education, General.",Master's Degree,,,
+2016_2017,001005,Alabama State University,Public,"Education, General.",Graduate/Professional Certificate,,,
+2015_2016,001005,Alabama State University,Public,Educational Administration and Supervision.,Master's Degree,10,,57554
+2015_2016,001005,Alabama State University,Public,Educational Administration and Supervision.,Doctoral Degree,,,
+2015_2016,001005,Alabama State University,Public,Educational Administration and Supervision.,First Professional Degree,,,
+2016_2017,001005,Alabama State University,Public,Educational Administration and Supervision.,Master's Degree,19,,40120
+2016_2017,001005,Alabama State University,Public,Educational Administration and Supervision.,Doctoral Degree,,,
+2016_2017,001005,Alabama State University,Public,Educational Administration and Supervision.,First Professional Degree,,,
+2016_2017,001005,Alabama State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2015_2016,001005,Alabama State University,Public,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,001005,Alabama State University,Public,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,001005,Alabama State University,Public,Educational/Instructional Media Design.,Graduate/Professional Certificate,,,
+2015_2016,001005,Alabama State University,Public,"English Language and Literature, General.",Bachelor's Degree,17,,35392
+2016_2017,001005,Alabama State University,Public,"English Language and Literature, General.",Bachelor's Degree,11,,35520
+2015_2016,001005,Alabama State University,Public,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,001005,Alabama State University,Public,Finance and Financial Management Services.,Bachelor's Degree,10,,33925
+2015_2016,001005,Alabama State University,Public,Fine and Studio Arts.,Bachelor's Degree,11,,24588
+2016_2017,001005,Alabama State University,Public,Fine and Studio Arts.,Bachelor's Degree,13,,27160
+2015_2016,001005,Alabama State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,16,,31093
 2016_2017,001005,Alabama State University,Public,Health and Medical Administrative Services.,Bachelor's Degree,24,33187,34164
-2015_2016,001005,Alabama State University,Public,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,History.,Master's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,001005,Alabama State University,Public,History.,Bachelor's Degree,,,
+2015_2016,001005,Alabama State University,Public,History.,Master's Degree,,,
+2016_2017,001005,Alabama State University,Public,History.,Bachelor's Degree,,,
+2016_2017,001005,Alabama State University,Public,History.,Master's Degree,,,
 2015_2016,001005,Alabama State University,Public,Information Science/Studies.,Bachelor's Degree,27,32000,37557
 2016_2017,001005,Alabama State University,Public,Information Science/Studies.,Bachelor's Degree,50,32615,35970
-2015_2016,001005,Alabama State University,Public,Marketing.,Bachelor's Degree,16,NA,28252
+2015_2016,001005,Alabama State University,Public,Marketing.,Bachelor's Degree,16,,28252
 2016_2017,001005,Alabama State University,Public,Marketing.,Bachelor's Degree,21,30500,30486
-2015_2016,001005,Alabama State University,Public,Mathematics.,Bachelor's Degree,16,NA,30294
-2015_2016,001005,Alabama State University,Public,Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Mathematics.,Bachelor's Degree,17,NA,31012
-2016_2017,001005,Alabama State University,Public,Mathematics.,Master's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,13,NA,31456
+2015_2016,001005,Alabama State University,Public,Mathematics.,Bachelor's Degree,16,,30294
+2015_2016,001005,Alabama State University,Public,Mathematics.,Master's Degree,,,
+2016_2017,001005,Alabama State University,Public,Mathematics.,Bachelor's Degree,17,,31012
+2016_2017,001005,Alabama State University,Public,Mathematics.,Master's Degree,,,
+2015_2016,001005,Alabama State University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,,,
+2016_2017,001005,Alabama State University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,,,
+2016_2017,001005,Alabama State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,001005,Alabama State University,Public,Music.,Bachelor's Degree,,,
+2016_2017,001005,Alabama State University,Public,Music.,Bachelor's Degree,,,
+2015_2016,001005,Alabama State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,13,,31456
 2016_2017,001005,Alabama State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,21,34000,34416
-2015_2016,001005,Alabama State University,Public,Political Science and Government.,Bachelor's Degree,12,NA,27799
-2016_2017,001005,Alabama State University,Public,Political Science and Government.,Bachelor's Degree,10,NA,33021
+2015_2016,001005,Alabama State University,Public,Political Science and Government.,Bachelor's Degree,12,,27799
+2016_2017,001005,Alabama State University,Public,Political Science and Government.,Bachelor's Degree,10,,33021
 2015_2016,001005,Alabama State University,Public,"Psychology, General.",Bachelor's Degree,39,26704,29784
 2016_2017,001005,Alabama State University,Public,"Psychology, General.",Bachelor's Degree,56,31194,31417
-2015_2016,001005,Alabama State University,Public,"Public Administration and Social Service Professions, Other.",Master's Degree,15,NA,65717
+2015_2016,001005,Alabama State University,Public,"Public Administration and Social Service Professions, Other.",Master's Degree,15,,65717
 2016_2017,001005,Alabama State University,Public,"Public Administration and Social Service Professions, Other.",Master's Degree,25,65127,70075
 2015_2016,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,78,33396,31362
 2015_2016,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,51,42154,49699
-2015_2016,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,65920,74672
-2015_2016,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,65920,74672
+2015_2016,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2015_2016,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Graduate/Professional Certificate,,,
 2016_2017,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Bachelor's Degree,155,33000,31299
 2016_2017,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,75,51250,59141
-2016_2017,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,NA,NA,86498
-2016_2017,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Doctoral Degree,,,86498
+2016_2017,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,First Professional Degree,,,
+2016_2017,001005,Alabama State University,Public,Rehabilitation and Therapeutic Professions.,Graduate/Professional Certificate,,,
 2015_2016,001005,Alabama State University,Public,Social Work.,Bachelor's Degree,55,35500,33704
 2016_2017,001005,Alabama State University,Public,Social Work.,Bachelor's Degree,64,35125,33207
-2016_2017,001005,Alabama State University,Public,Social Work.,Master's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2015_2016,001005,Alabama State University,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2016_2017,001005,Alabama State University,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001005,Alabama State University,Public,Social Work.,Master's Degree,,,
+2015_2016,001005,Alabama State University,Public,Sociology.,Bachelor's Degree,,,
+2016_2017,001005,Alabama State University,Public,Sociology.,Bachelor's Degree,,,
+2015_2016,001005,Alabama State University,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,001005,Alabama State University,Public,Special Education and Teaching.,Master's Degree,,,
+2016_2017,001005,Alabama State University,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,001005,Alabama State University,Public,Special Education and Teaching.,Master's Degree,,,
+2015_2016,001005,Alabama State University,Public,Student Counseling and Personnel Services.,Master's Degree,,,
+2015_2016,001005,Alabama State University,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
+2016_2017,001005,Alabama State University,Public,Student Counseling and Personnel Services.,Master's Degree,,,
+2016_2017,001005,Alabama State University,Public,Student Counseling and Personnel Services.,Graduate/Professional Certificate,,,
 2015_2016,001005,Alabama State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,54,39859,37766
 2015_2016,001005,Alabama State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,30,39798,42460
 2016_2017,001005,Alabama State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,83,35407,36077

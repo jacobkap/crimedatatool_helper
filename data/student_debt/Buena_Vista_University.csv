@@ -1,110 +1,110 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,001847,Buena Vista University,Private,Accounting and Related Services.,Bachelor's Degree,61,24040,23611
 2016_2017,001847,Buena Vista University,Private,Accounting and Related Services.,Bachelor's Degree,75,24429,23657
-2015_2016,001847,Buena Vista University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Biological and Physical Sciences.,Bachelor's Degree,NA,NA,NA
+2015_2016,001847,Buena Vista University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Arts, Entertainment,and Media Management.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Biological and Physical Sciences.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Biological and Physical Sciences.,Bachelor's Degree,,,
 2015_2016,001847,Buena Vista University,Private,"Biology, General.",Bachelor's Degree,24,25274,22048
 2016_2017,001847,Buena Vista University,Private,"Biology, General.",Bachelor's Degree,28,25274,21980
 2015_2016,001847,Buena Vista University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,66,20283,21136
 2016_2017,001847,Buena Vista University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,103,19379,21111
-2015_2016,001847,Buena Vista University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Business/Commerce, General.",Bachelor's Degree,10,NA,24245
-2015_2016,001847,Buena Vista University,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Business/Managerial Economics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,21590
-2016_2017,001847,Buena Vista University,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Computer Systems Analysis.,Bachelor's Degree,NA,NA,NA
+2015_2016,001847,Buena Vista University,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Business/Commerce, General.",Bachelor's Degree,10,,24245
+2015_2016,001847,Buena Vista University,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Business/Managerial Economics.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,,21590
+2016_2017,001847,Buena Vista University,Private,"Communication, Journalism, and Related Programs, Other.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Computer Systems Analysis.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Computer Systems Analysis.,Bachelor's Degree,,,
 2015_2016,001847,Buena Vista University,Private,Criminal Justice and Corrections.,Bachelor's Degree,46,22732,22126
 2016_2017,001847,Buena Vista University,Private,Criminal Justice and Corrections.,Bachelor's Degree,55,24908,23654
 2015_2016,001847,Buena Vista University,Private,Curriculum and Instruction.,Master's Degree,30,22221,21812
 2016_2017,001847,Buena Vista University,Private,Curriculum and Instruction.,Master's Degree,70,20500,21587
-2015_2016,001847,Buena Vista University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Design and Applied Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,"Education, General.",Bachelor's Degree,14,NA,20126
-2016_2017,001847,Buena Vista University,Private,"Education, General.",Bachelor's Degree,17,NA,20757
-2015_2016,001847,Buena Vista University,Private,"Education, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Education, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,"English Language and Literature, General.",Bachelor's Degree,11,NA,25991
-2016_2017,001847,Buena Vista University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,22382
+2015_2016,001847,Buena Vista University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Design and Applied Arts.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,"Education, General.",Bachelor's Degree,14,,20126
+2016_2017,001847,Buena Vista University,Private,"Education, General.",Bachelor's Degree,17,,20757
+2015_2016,001847,Buena Vista University,Private,"Education, Other.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Education, Other.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,"English Language and Literature, General.",Bachelor's Degree,11,,25991
+2016_2017,001847,Buena Vista University,Private,"English Language and Literature, General.",Bachelor's Degree,,,22382
 2015_2016,001847,Buena Vista University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,22,22065,21475
 2016_2017,001847,Buena Vista University,Private,Entrepreneurial and Small Business Operations.,Bachelor's Degree,25,21101,20050
 2015_2016,001847,Buena Vista University,Private,Finance and Financial Management Services.,Bachelor's Degree,20,20875,21640
 2016_2017,001847,Buena Vista University,Private,Finance and Financial Management Services.,Bachelor's Degree,31,19500,20039
-2015_2016,001847,Buena Vista University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
+2015_2016,001847,Buena Vista University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
 2015_2016,001847,Buena Vista University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,23,27000,25859
 2016_2017,001847,Buena Vista University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,43,27000,24361
-2015_2016,001847,Buena Vista University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,History.,Bachelor's Degree,NA,NA,NA
+2015_2016,001847,Buena Vista University,Private,History.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,History.,Bachelor's Degree,,,
 2015_2016,001847,Buena Vista University,Private,Human Resources Management and Services.,Bachelor's Degree,42,23898,24208
 2016_2017,001847,Buena Vista University,Private,Human Resources Management and Services.,Bachelor's Degree,63,21500,21696
-2015_2016,001847,Buena Vista University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Marketing.,Bachelor's Degree,18,NA,21111
+2015_2016,001847,Buena Vista University,Private,International Business.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,International Business.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Marketing.,Bachelor's Degree,18,,21111
 2016_2017,001847,Buena Vista University,Private,Marketing.,Bachelor's Degree,43,22980,22155
-2015_2016,001847,Buena Vista University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
+2015_2016,001847,Buena Vista University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Mathematics.,Bachelor's Degree,,,
 2015_2016,001847,Buena Vista University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,116,25000,24529
 2016_2017,001847,Buena Vista University,Private,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,182,24454,22679
-2015_2016,001847,Buena Vista University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
+2015_2016,001847,Buena Vista University,Private,Music.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Music.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Philosophy and Religious Studies, Other.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Physics.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Physics.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Political Science and Government.,Bachelor's Degree,,,
 2015_2016,001847,Buena Vista University,Private,"Psychology, General.",Bachelor's Degree,86,24861,22730
 2016_2017,001847,Buena Vista University,Private,"Psychology, General.",Bachelor's Degree,123,21625,21088
-2015_2016,001847,Buena Vista University,Private,"Psychology, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Psychology, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Public Administration.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Public Administration.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,21006
-2015_2016,001847,Buena Vista University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Social Work.,Bachelor's Degree,NA,NA,23925
-2016_2017,001847,Buena Vista University,Private,Social Work.,Bachelor's Degree,NA,NA,24751
-2015_2016,001847,Buena Vista University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Sociology.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Special Education and Teaching.,Master's Degree,NA,NA,25507
-2016_2017,001847,Buena Vista University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Special Education and Teaching.,Master's Degree,17,NA,27637
+2015_2016,001847,Buena Vista University,Private,"Psychology, Other.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Psychology, Other.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Public Administration.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Public Administration.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,21006
+2015_2016,001847,Buena Vista University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Social Work.,Bachelor's Degree,,,23925
+2016_2017,001847,Buena Vista University,Private,Social Work.,Bachelor's Degree,,,24751
+2015_2016,001847,Buena Vista University,Private,Sociology.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Sociology.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Special Education and Teaching.,Master's Degree,,,25507
+2016_2017,001847,Buena Vista University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Special Education and Teaching.,Master's Degree,17,,27637
 2015_2016,001847,Buena Vista University,Private,Student Counseling and Personnel Services.,Master's Degree,45,32763,31507
 2016_2017,001847,Buena Vista University,Private,Student Counseling and Personnel Services.,Master's Degree,50,33940,32239
 2015_2016,001847,Buena Vista University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,112,28305,28549
 2016_2017,001847,Buena Vista University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,127,29500,29107
-2016_2017,001847,Buena Vista University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2016_2017,001847,Buena Vista University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2015_2016,001847,Buena Vista University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,52,25000,23879
-2016_2017,001847,Buena Vista University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,27000,25639
-2016_2017,001847,Buena Vista University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,001847,Buena Vista University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,001847,Buena Vista University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
+2016_2017,001847,Buena Vista University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,27000,25639
+2016_2017,001847,Buena Vista University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,001847,Buena Vista University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,001847,Buena Vista University,Private,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,

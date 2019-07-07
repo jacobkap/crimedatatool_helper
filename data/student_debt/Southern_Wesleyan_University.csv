@@ -1,81 +1,81 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003422,Southern Wesleyan University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Accounting and Related Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,003422,Southern Wesleyan University,Private,Accounting and Related Services.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Accounting and Related Services.,Bachelor's Degree,,,
 2015_2016,003422,Southern Wesleyan University,Private,"Biology, General.",Bachelor's Degree,20,27000,25725
-2016_2017,003422,Southern Wesleyan University,Private,"Biology, General.",Bachelor's Degree,16,NA,21501
-2015_2016,003422,Southern Wesleyan University,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,003422,Southern Wesleyan University,Private,"Biology, General.",Bachelor's Degree,16,,21501
+2015_2016,003422,Southern Wesleyan University,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2015_2016,003422,Southern Wesleyan University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,94,34029,33364
 2015_2016,003422,Southern Wesleyan University,Private,"Business Administration, Management and Operations.",Master's Degree,25,29050,28152
-2016_2017,003422,Southern Wesleyan University,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,NA,NA
+2016_2017,003422,Southern Wesleyan University,Private,"Business Administration, Management and Operations.",Associate's Degree,,,
 2016_2017,003422,Southern Wesleyan University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,117,30680,32083
 2016_2017,003422,Southern Wesleyan University,Private,"Business Administration, Management and Operations.",Master's Degree,20,28322,27475
-2015_2016,003422,Southern Wesleyan University,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,"Business/Commerce, General.",Associate's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,23808
-2016_2017,003422,Southern Wesleyan University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Criminal Justice and Corrections.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Criminology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Criminology.,Bachelor's Degree,12,NA,26241
-2015_2016,003422,Southern Wesleyan University,Private,"Education, General.",Associate's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,"Education, General.",Master's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,"Education, General.",Associate's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,"Education, General.",Master's Degree,NA,NA,NA
+2015_2016,003422,Southern Wesleyan University,Private,"Business/Commerce, General.",Associate's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,"Business/Commerce, General.",Associate's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Communication and Media Studies.,Bachelor's Degree,,,23808
+2016_2017,003422,Southern Wesleyan University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Criminal Justice and Corrections.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Criminology.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Criminology.,Bachelor's Degree,12,,26241
+2015_2016,003422,Southern Wesleyan University,Private,"Education, General.",Associate's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,"Education, General.",Master's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,"Education, General.",Associate's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,"Education, General.",Master's Degree,,,
 2015_2016,003422,Southern Wesleyan University,Private,Educational Administration and Supervision.,Master's Degree,83,29500,29154
 2016_2017,003422,Southern Wesleyan University,Private,Educational Administration and Supervision.,Master's Degree,87,29000,28154
-2015_2016,003422,Southern Wesleyan University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,NA,NA,23940
-2015_2016,003422,Southern Wesleyan University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,History.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Human Resources Management and Services.,Master's Degree,19,NA,29138
+2015_2016,003422,Southern Wesleyan University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,,,23940
+2015_2016,003422,Southern Wesleyan University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,History.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,History.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Human Resources Management and Services.,Master's Degree,19,,29138
 2016_2017,003422,Southern Wesleyan University,Private,Human Resources Management and Services.,Master's Degree,32,22250,22923
 2015_2016,003422,Southern Wesleyan University,Private,"Human Services, General.",Bachelor's Degree,37,29250,29855
 2016_2017,003422,Southern Wesleyan University,Private,"Human Services, General.",Bachelor's Degree,52,27000,29383
-2015_2016,003422,Southern Wesleyan University,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,13,NA,21200
-2015_2016,003422,Southern Wesleyan University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2015_2016,003422,Southern Wesleyan University,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Intercultural/Multicultural and Diversity Studies.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,13,,21200
+2015_2016,003422,Southern Wesleyan University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
 2016_2017,003422,Southern Wesleyan University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,20,20125,18731
-2016_2017,003422,Southern Wesleyan University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,12,NA,25538
+2016_2017,003422,Southern Wesleyan University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Management Information Systems and Services.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Mathematics.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Music.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Music.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,12,,25538
 2016_2017,003422,Southern Wesleyan University,Private,"Parks, Recreation, Leisure, and Fitness Studies, Other.",Bachelor's Degree,22,20834,20223
-2015_2016,003422,Southern Wesleyan University,Private,"Psychology, General.",Bachelor's Degree,NA,NA,28790
-2016_2017,003422,Southern Wesleyan University,Private,"Psychology, General.",Bachelor's Degree,11,NA,27358
+2015_2016,003422,Southern Wesleyan University,Private,"Psychology, General.",Bachelor's Degree,,,28790
+2016_2017,003422,Southern Wesleyan University,Private,"Psychology, General.",Bachelor's Degree,11,,27358
 2015_2016,003422,Southern Wesleyan University,Private,Religion/Religious Studies.,Bachelor's Degree,21,24463,21329
-2015_2016,003422,Southern Wesleyan University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,23214
-2016_2017,003422,Southern Wesleyan University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Religious/Sacred Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,"Social Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2015_2016,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,13,NA,30386
-2015_2016,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,18,NA,21878
-2016_2017,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,11,NA,25556
+2015_2016,003422,Southern Wesleyan University,Private,Religion/Religious Studies.,Master's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Religion/Religious Studies.,Bachelor's Degree,,,23214
+2016_2017,003422,Southern Wesleyan University,Private,Religion/Religious Studies.,Master's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Religious/Sacred Music.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,"Social Sciences, General.",Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,Special Education and Teaching.,Bachelor's Degree,,,
+2015_2016,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,13,,30386
+2015_2016,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,18,,21878
+2016_2017,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,11,,25556
 2016_2017,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,40,18000,18645
-2015_2016,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
+2015_2016,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,003422,Southern Wesleyan University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,

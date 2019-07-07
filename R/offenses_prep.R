@@ -14,12 +14,7 @@ ucr <-
 
 rm(offenses_known_yearly_1960_2017); gc()
 
-z = ucr[!duplicated(ucr$ORI),]
-z$temp <- paste(z$agency, z$state)
-z = z[duplicated(z$temp),]
-ucr <- ucr[!ucr$ORI %in% z$ORI, ]
-ucr$agency <- sapply(ucr$agency, simpleCap)
-ucr$state  <- sapply(ucr$state, simpleCap)
+ucr <- remove_duplicate_capitalize_names(ucr)
 
 
 setwd(here::here("data/offenses"))

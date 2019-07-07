@@ -1,8 +1,8 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,022977,Automeca Technical College,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,78,2096,3223
 2016_2017,022977,Automeca Technical College,Proprietary,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,82,3000,3467
-2015_2016,022977,Automeca Technical College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,18,NA,2243
-2016_2017,022977,Automeca Technical College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,NA,NA,2310
+2015_2016,022977,Automeca Technical College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,18,,2243
+2016_2017,022977,Automeca Technical College,Proprietary,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,,,2310
 2015_2016,022977,Automeca Technical College,Proprietary,"Mechanic and Repair Technologies/Technicians, Other.",Undergraduate Certificate or Diploma,38,3475,4519
 2016_2017,022977,Automeca Technical College,Proprietary,"Mechanic and Repair Technologies/Technicians, Other.",Undergraduate Certificate or Diploma,35,3500,4283
 2015_2016,022977,Automeca Technical College,Proprietary,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,554,2534,2933

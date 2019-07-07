@@ -1,57 +1,57 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001393,Mitchell College,Private,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,Accounting and Related Services.,Associate's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001393,Mitchell College,Private,Accounting and Related Services.,Associate's Degree,,,
+2016_2017,001393,Mitchell College,Private,Accounting and Related Services.,Associate's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,001393,Mitchell College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,31,23000,21981
-2016_2017,001393,Mitchell College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001393,Mitchell College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,001393,Mitchell College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,32,19500,21245
 2015_2016,001393,Mitchell College,Private,Communication and Media Studies.,Bachelor's Degree,21,27000,29522
-2016_2017,001393,Mitchell College,Private,Communication and Media Studies.,Bachelor's Degree,14,NA,28114
-2015_2016,001393,Mitchell College,Private,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Computer and Information Sciences, General.",Associate's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,001393,Mitchell College,Private,Communication and Media Studies.,Bachelor's Degree,14,,28114
+2015_2016,001393,Mitchell College,Private,"Computer and Information Sciences, General.",Associate's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Computer and Information Sciences, General.",Associate's Degree,,,
+2015_2016,001393,Mitchell College,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2015_2016,001393,Mitchell College,Private,Criminal Justice and Corrections.,Bachelor's Degree,46,27000,26106
-2016_2017,001393,Mitchell College,Private,Criminal Justice and Corrections.,Associate's Degree,NA,NA,NA
+2016_2017,001393,Mitchell College,Private,Criminal Justice and Corrections.,Associate's Degree,,,
 2016_2017,001393,Mitchell College,Private,Criminal Justice and Corrections.,Bachelor's Degree,41,25000,23133
-2015_2016,001393,Mitchell College,Private,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,Design and Applied Arts.,Associate's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Associate's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Associate's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Engineering, General.",Associate's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Engineering, General.",Associate's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
+2015_2016,001393,Mitchell College,Private,Design and Applied Arts.,Associate's Degree,,,
+2016_2017,001393,Mitchell College,Private,Design and Applied Arts.,Associate's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Associate's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Ecology, Evolution, Systematics, and Population Biology.",Associate's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Engineering, General.",Associate's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Engineering, General.",Associate's Degree,,,
+2015_2016,001393,Mitchell College,Private,Health and Physical Education/Fitness.,Associate's Degree,,,
 2015_2016,001393,Mitchell College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,30,27000,27183
-2016_2017,001393,Mitchell College,Private,Health and Physical Education/Fitness.,Associate's Degree,NA,NA,NA
+2016_2017,001393,Mitchell College,Private,Health and Physical Education/Fitness.,Associate's Degree,,,
 2016_2017,001393,Mitchell College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,27,19500,22777
-2015_2016,001393,Mitchell College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,Hospitality Administration/Management.,Bachelor's Degree,10,NA,20925
-2016_2017,001393,Mitchell College,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,Hospitality Administration/Management.,Bachelor's Degree,10,NA,16625
-2015_2016,001393,Mitchell College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,13,NA,17169
+2015_2016,001393,Mitchell College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Health Services/Allied Health/Health Sciences, General.",Bachelor's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,001393,Mitchell College,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Bachelor's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Undergraduate Certificate or Diploma,,,
+2016_2017,001393,Mitchell College,Private,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",Bachelor's Degree,,,
+2015_2016,001393,Mitchell College,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,001393,Mitchell College,Private,Hospitality Administration/Management.,Bachelor's Degree,10,,20925
+2016_2017,001393,Mitchell College,Private,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,001393,Mitchell College,Private,Hospitality Administration/Management.,Bachelor's Degree,10,,16625
+2015_2016,001393,Mitchell College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,13,,17169
 2015_2016,001393,Mitchell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,25,25000,26530
-2016_2017,001393,Mitchell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,16,NA,14631
-2016_2017,001393,Mitchell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,16,NA,22137
-2015_2016,001393,Mitchell College,Private,Mental and Social Health Services and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,Mental and Social Health Services and Allied Professions.,Associate's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Parks, Recreation and Leisure Studies.",Associate's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Parks, Recreation and Leisure Studies.",Associate's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Psychology, General.",Bachelor's Degree,13,NA,27932
-2016_2017,001393,Mitchell College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Social Sciences, Other.",Associate's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Social Sciences, Other.",Associate's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,001393,Mitchell College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,001393,Mitchell College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
+2016_2017,001393,Mitchell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,16,,14631
+2016_2017,001393,Mitchell College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,16,,22137
+2015_2016,001393,Mitchell College,Private,Mental and Social Health Services and Allied Professions.,Associate's Degree,,,
+2016_2017,001393,Mitchell College,Private,Mental and Social Health Services and Allied Professions.,Associate's Degree,,,
+2015_2016,001393,Mitchell College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2016_2017,001393,Mitchell College,Private,Natural Resources Conservation and Research.,Bachelor's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Parks, Recreation and Leisure Studies.",Associate's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Parks, Recreation and Leisure Studies.",Associate's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Psychology, General.",Bachelor's Degree,13,,27932
+2016_2017,001393,Mitchell College,Private,"Psychology, General.",Bachelor's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Social Sciences, Other.",Associate's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Social Sciences, Other.",Associate's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,001393,Mitchell College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,001393,Mitchell College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,

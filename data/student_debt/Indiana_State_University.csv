@@ -5,21 +5,21 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,001807,Indiana State University,Public,Air Transportation.,Bachelor's Degree,77,23000,22656
 2015_2016,001807,Indiana State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,36,24204,22487
 2015_2016,001807,Indiana State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,58,76998,68774
-2015_2016,001807,Indiana State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,,,
 2016_2017,001807,Indiana State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,34,26929,25526
 2016_2017,001807,Indiana State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,50,66672,67477
-2016_2017,001807,Indiana State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Doctoral Degree,NA,NA,29725
-2016_2017,001807,Indiana State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Anthropology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Anthropology.,Bachelor's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Doctoral Degree,,,29725
+2016_2017,001807,Indiana State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",First Professional Degree,,,
+2015_2016,001807,Indiana State University,Public,Anthropology.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Anthropology.,Bachelor's Degree,,,
 2015_2016,001807,Indiana State University,Public,Apparel and Textiles.,Bachelor's Degree,20,22750,21790
 2016_2017,001807,Indiana State University,Public,Apparel and Textiles.,Bachelor's Degree,21,24750,22441
 2015_2016,001807,Indiana State University,Public,"Biology, General.",Bachelor's Degree,41,21500,21322
-2015_2016,001807,Indiana State University,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,"Biology, General.",Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,"Biology, General.",Doctoral Degree,,,
 2016_2017,001807,Indiana State University,Public,"Biology, General.",Bachelor's Degree,52,27000,25616
-2016_2017,001807,Indiana State University,Public,"Biology, General.",Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Biology, General.",Doctoral Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,"Biology, General.",Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,"Biology, General.",Doctoral Degree,,,
 2015_2016,001807,Indiana State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,38,24751,23408
 2015_2016,001807,Indiana State University,Public,"Business Administration, Management and Operations.",Master's Degree,23,24977,25703
 2016_2017,001807,Indiana State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,48,25004,23754
@@ -28,250 +28,250 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,001807,Indiana State University,Public,"Business/Commerce, General.",Bachelor's Degree,61,24527,22718
 2015_2016,001807,Indiana State University,Public,Chemistry.,Bachelor's Degree,20,22000,21468
 2016_2017,001807,Indiana State University,Public,Chemistry.,Bachelor's Degree,28,21951,21197
-2015_2016,001807,Indiana State University,Public,Civil Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Civil Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,14,NA,27445
-2015_2016,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,12,NA,60320
-2015_2016,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",First Professional Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,18,NA,29510
-2016_2017,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,11,NA,65974
-2016_2017,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",First Professional Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Civil Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Civil Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,,,
+2015_2016,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,14,,27445
+2015_2016,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,12,,60320
+2015_2016,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",First Professional Degree,,,
+2015_2016,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,
+2016_2017,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Post-baccalaureate Certificate,,,
+2016_2017,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Master's Degree,18,,29510
+2016_2017,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Doctoral Degree,11,,65974
+2016_2017,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",First Professional Degree,,,
+2016_2017,001807,Indiana State University,Public,"Clinical, Counseling and Applied Psychology.",Graduate/Professional Certificate,,,
+2015_2016,001807,Indiana State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
 2015_2016,001807,Indiana State University,Public,Communication and Media Studies.,Bachelor's Degree,107,24748,24737
-2015_2016,001807,Indiana State University,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Communication and Media Studies.,Master's Degree,,,
 2016_2017,001807,Indiana State University,Public,Communication and Media Studies.,Bachelor's Degree,112,23356,23252
-2016_2017,001807,Indiana State University,Public,Communication and Media Studies.,Master's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,Communication and Media Studies.,Master's Degree,,,
 2015_2016,001807,Indiana State University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,21,22500,20875
-2015_2016,001807,Indiana State University,Public,Communication Disorders Sciences and Services.,Master's Degree,19,NA,40631
+2015_2016,001807,Indiana State University,Public,Communication Disorders Sciences and Services.,Master's Degree,19,,40631
 2016_2017,001807,Indiana State University,Public,Communication Disorders Sciences and Services.,Bachelor's Degree,33,25178,23159
 2016_2017,001807,Indiana State University,Public,Communication Disorders Sciences and Services.,Master's Degree,28,40500,39402
 2015_2016,001807,Indiana State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,54,23004,22718
 2016_2017,001807,Indiana State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,70,25000,22737
 2015_2016,001807,Indiana State University,Public,Computer Engineering Technologies/Technicians.,Bachelor's Degree,21,21094,23712
 2016_2017,001807,Indiana State University,Public,Computer Engineering Technologies/Technicians.,Bachelor's Degree,22,26926,27084
-2015_2016,001807,Indiana State University,Public,Computer Science.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Computer Science.,Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Computer Science.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Computer Science.,Master's Degree,,,
 2015_2016,001807,Indiana State University,Public,Construction Management.,Bachelor's Degree,29,19167,20782
 2016_2017,001807,Indiana State University,Public,Construction Management.,Bachelor's Degree,36,24026,23501
 2015_2016,001807,Indiana State University,Public,Criminology.,Bachelor's Degree,238,22500,23342
 2015_2016,001807,Indiana State University,Public,Criminology.,Master's Degree,23,31231,33456
 2016_2017,001807,Indiana State University,Public,Criminology.,Bachelor's Degree,259,23008,23400
 2016_2017,001807,Indiana State University,Public,Criminology.,Master's Degree,27,30519,29050
-2015_2016,001807,Indiana State University,Public,Curriculum and Instruction.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Curriculum and Instruction.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Curriculum and Instruction.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Curriculum and Instruction.,Doctoral Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Curriculum and Instruction.,Post-baccalaureate Certificate,,,
+2015_2016,001807,Indiana State University,Public,Curriculum and Instruction.,Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,Curriculum and Instruction.,Doctoral Degree,,,
+2016_2017,001807,Indiana State University,Public,Curriculum and Instruction.,Post-baccalaureate Certificate,,,
+2016_2017,001807,Indiana State University,Public,Curriculum and Instruction.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Curriculum and Instruction.,Doctoral Degree,,,
+2015_2016,001807,Indiana State University,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Dietetics and Clinical Nutrition Services.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,,,
 2015_2016,001807,Indiana State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,23,23667,21170
-2016_2017,001807,Indiana State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,17,NA,24234
-2015_2016,001807,Indiana State University,Public,Economics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Economics.,Bachelor's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,Drama/Theatre Arts and Stagecraft.,Bachelor's Degree,17,,24234
+2015_2016,001807,Indiana State University,Public,Economics.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Economics.,Bachelor's Degree,,,
 2015_2016,001807,Indiana State University,Public,Educational Administration and Supervision.,Master's Degree,26,17100,22842
 2015_2016,001807,Indiana State University,Public,Educational Administration and Supervision.,Doctoral Degree,30,27750,28757
-2015_2016,001807,Indiana State University,Public,Educational Administration and Supervision.,First Professional Degree,NA,NA,17130
-2015_2016,001807,Indiana State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Educational Administration and Supervision.,First Professional Degree,,,17130
+2015_2016,001807,Indiana State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
 2016_2017,001807,Indiana State University,Public,Educational Administration and Supervision.,Master's Degree,34,25028,25766
 2016_2017,001807,Indiana State University,Public,Educational Administration and Supervision.,Doctoral Degree,29,25292,26218
-2016_2017,001807,Indiana State University,Public,Educational Administration and Supervision.,First Professional Degree,NA,NA,17674
-2016_2017,001807,Indiana State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Educational/Instructional Media Design.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Educational/Instructional Media Design.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Educational/Instructional Media Design.,Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,11,NA,20925
-2015_2016,001807,Indiana State University,Public,Electrical Engineering Technologies/Technicians.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,10,NA,29203
-2016_2017,001807,Indiana State University,Public,Electrical Engineering Technologies/Technicians.,Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Bachelor's Degree,11,NA,25662
-2016_2017,001807,Indiana State University,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Bachelor's Degree,14,NA,26604
-2015_2016,001807,Indiana State University,Public,Engineering-Related Fields.,Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Engineering-Related Fields.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Engineering-Related Fields.,Bachelor's Degree,NA,NA,24799
-2016_2017,001807,Indiana State University,Public,Engineering-Related Fields.,Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Engineering Technology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Engineering Technology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Engineering, General.",Bachelor's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,Educational Administration and Supervision.,First Professional Degree,,,17674
+2016_2017,001807,Indiana State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2015_2016,001807,Indiana State University,Public,Educational/Instructional Media Design.,Undergraduate Certificate or Diploma,,,
+2015_2016,001807,Indiana State University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
+2015_2016,001807,Indiana State University,Public,Educational/Instructional Media Design.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Educational/Instructional Media Design.,Undergraduate Certificate or Diploma,,,
+2016_2017,001807,Indiana State University,Public,Educational/Instructional Media Design.,Post-baccalaureate Certificate,,,
+2016_2017,001807,Indiana State University,Public,Educational/Instructional Media Design.,Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,11,,20925
+2015_2016,001807,Indiana State University,Public,Electrical Engineering Technologies/Technicians.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,10,,29203
+2016_2017,001807,Indiana State University,Public,Electrical Engineering Technologies/Technicians.,Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Bachelor's Degree,11,,25662
+2016_2017,001807,Indiana State University,Public,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,Bachelor's Degree,14,,26604
+2015_2016,001807,Indiana State University,Public,Engineering-Related Fields.,Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,Engineering-Related Fields.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Engineering-Related Fields.,Bachelor's Degree,,,24799
+2016_2017,001807,Indiana State University,Public,Engineering-Related Fields.,Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,"Engineering Technology, General.",Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,"Engineering Technology, General.",Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,"Engineering, General.",Bachelor's Degree,,,
 2015_2016,001807,Indiana State University,Public,"English Language and Literature, General.",Bachelor's Degree,31,20250,20977
-2015_2016,001807,Indiana State University,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,"English Language and Literature, General.",Master's Degree,,,
 2016_2017,001807,Indiana State University,Public,"English Language and Literature, General.",Bachelor's Degree,42,19114,22477
-2016_2017,001807,Indiana State University,Public,"English Language and Literature, General.",Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,"English Language and Literature, General.",Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,"Ethnic, Cultural Minority, Gender, and Group Studies.",Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,"Family and Consumer Sciences/Human Sciences, General.",Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,"Family and Consumer Sciences/Human Sciences, General.",Master's Degree,,,
 2015_2016,001807,Indiana State University,Public,Finance and Financial Management Services.,Bachelor's Degree,31,19434,20553
 2016_2017,001807,Indiana State University,Public,Finance and Financial Management Services.,Bachelor's Degree,31,26000,26087
 2015_2016,001807,Indiana State University,Public,Fine and Studio Arts.,Bachelor's Degree,44,22349,22888
-2015_2016,001807,Indiana State University,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Fine and Studio Arts.,Master's Degree,,,
 2016_2017,001807,Indiana State University,Public,Fine and Studio Arts.,Bachelor's Degree,45,26000,22902
-2016_2017,001807,Indiana State University,Public,Fine and Studio Arts.,Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,NA,NA,23615
-2016_2017,001807,Indiana State University,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Bachelor's Degree,16,NA,21920
-2016_2017,001807,Indiana State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,Fine and Studio Arts.,Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,,,23615
+2016_2017,001807,Indiana State University,Public,"Foods, Nutrition, and Related Services.",Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Undergraduate Certificate or Diploma,,,
+2015_2016,001807,Indiana State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Bachelor's Degree,16,,21920
+2016_2017,001807,Indiana State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Undergraduate Certificate or Diploma,,,
 2016_2017,001807,Indiana State University,Public,"Foreign Languages, Literatures, and Linguistics, Other.",Bachelor's Degree,28,21625,20345
-2015_2016,001807,Indiana State University,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,001807,Indiana State University,Public,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,24,26000,26181
-2015_2016,001807,Indiana State University,Public,Genetics.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Genetics.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Geography and Cartography.,Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Geography and Cartography.,Bachelor's Degree,14,NA,21516
-2016_2017,001807,Indiana State University,Public,Geography and Cartography.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Geography and Cartography.,Doctoral Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Gerontology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Gerontology.,Undergraduate Certificate or Diploma,14,NA,25898
+2015_2016,001807,Indiana State University,Public,Genetics.,Post-baccalaureate Certificate,,,
+2016_2017,001807,Indiana State University,Public,Genetics.,Post-baccalaureate Certificate,,,
+2015_2016,001807,Indiana State University,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,,,
+2015_2016,001807,Indiana State University,Public,Geography and Cartography.,Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,Geography and Cartography.,Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,Geography and Cartography.,Doctoral Degree,,,
+2016_2017,001807,Indiana State University,Public,Geography and Cartography.,Undergraduate Certificate or Diploma,,,
+2016_2017,001807,Indiana State University,Public,Geography and Cartography.,Bachelor's Degree,14,,21516
+2016_2017,001807,Indiana State University,Public,Geography and Cartography.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Geography and Cartography.,Doctoral Degree,,,
+2015_2016,001807,Indiana State University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Geological and Earth Sciences/Geosciences.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Geological and Earth Sciences/Geosciences.,Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,Gerontology.,Undergraduate Certificate or Diploma,,,
+2016_2017,001807,Indiana State University,Public,Gerontology.,Undergraduate Certificate or Diploma,14,,25898
 2015_2016,001807,Indiana State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,58,24350,22906
 2015_2016,001807,Indiana State University,Public,Health and Physical Education/Fitness.,Master's Degree,21,25783,26407
 2016_2017,001807,Indiana State University,Public,Health and Physical Education/Fitness.,Bachelor's Degree,78,25250,24367
 2016_2017,001807,Indiana State University,Public,Health and Physical Education/Fitness.,Master's Degree,21,17450,22477
-2015_2016,001807,Indiana State University,Public,"Health Services/Allied Health/Health Sciences, General.",First Professional Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Health Services/Allied Health/Health Sciences, General.",Doctoral Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Health Services/Allied Health/Health Sciences, General.",First Professional Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,"Health Services/Allied Health/Health Sciences, General.",First Professional Degree,,,
+2016_2017,001807,Indiana State University,Public,"Health Services/Allied Health/Health Sciences, General.",Doctoral Degree,,,
+2016_2017,001807,Indiana State University,Public,"Health Services/Allied Health/Health Sciences, General.",First Professional Degree,,,
+2015_2016,001807,Indiana State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
 2015_2016,001807,Indiana State University,Public,History.,Bachelor's Degree,25,21217,20842
-2015_2016,001807,Indiana State University,Public,History.,Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,History.,Master's Degree,,,
 2016_2017,001807,Indiana State University,Public,History.,Bachelor's Degree,22,22437,22844
-2016_2017,001807,Indiana State University,Public,History.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Homeland Security.,Bachelor's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,History.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Homeland Security.,Bachelor's Degree,,,
 2015_2016,001807,Indiana State University,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,60,25902,27029
 2016_2017,001807,Indiana State University,Public,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,80,26000,27309
 2015_2016,001807,Indiana State University,Public,Human Resources Management and Services.,Bachelor's Degree,39,22250,22405
-2015_2016,001807,Indiana State University,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Human Resources Management and Services.,Master's Degree,19,NA,40171
+2015_2016,001807,Indiana State University,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
+2015_2016,001807,Indiana State University,Public,Human Resources Management and Services.,Master's Degree,19,,40171
 2016_2017,001807,Indiana State University,Public,Human Resources Management and Services.,Bachelor's Degree,31,22000,24106
-2016_2017,001807,Indiana State University,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
 2016_2017,001807,Indiana State University,Public,Human Resources Management and Services.,Master's Degree,20,36222,35579
-2015_2016,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Doctoral Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,15,NA,14409
-2016_2017,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Doctoral Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Insurance.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Insurance.,Bachelor's Degree,17,NA,21505
-2016_2017,001807,Indiana State University,Public,Insurance.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Insurance.,Bachelor's Degree,15,NA,21660
-2015_2016,001807,Indiana State University,Public,Interior Architecture.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Interior Architecture.,Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2015_2016,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Doctoral Degree,,,
+2016_2017,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,,,
+2016_2017,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Bachelor's Degree,15,,14409
+2016_2017,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Industrial Production Technologies/Technicians.,Doctoral Degree,,,
+2015_2016,001807,Indiana State University,Public,Insurance.,Undergraduate Certificate or Diploma,,,
+2015_2016,001807,Indiana State University,Public,Insurance.,Bachelor's Degree,17,,21505
+2016_2017,001807,Indiana State University,Public,Insurance.,Undergraduate Certificate or Diploma,,,
+2016_2017,001807,Indiana State University,Public,Insurance.,Bachelor's Degree,15,,21660
+2015_2016,001807,Indiana State University,Public,Interior Architecture.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Interior Architecture.,Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
 2016_2017,001807,Indiana State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,31,26000,28808
-2015_2016,001807,Indiana State University,Public,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Management Information Systems and Services.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Management Information Systems and Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,001807,Indiana State University,Public,Management Information Systems and Services.,Bachelor's Degree,,,
 2015_2016,001807,Indiana State University,Public,Management Sciences and Quantitative Methods.,Bachelor's Degree,21,21500,21623
 2016_2017,001807,Indiana State University,Public,Management Sciences and Quantitative Methods.,Bachelor's Degree,28,21500,23089
 2015_2016,001807,Indiana State University,Public,Marketing.,Bachelor's Degree,50,22542,22544
 2016_2017,001807,Indiana State University,Public,Marketing.,Bachelor's Degree,52,22542,23064
-2015_2016,001807,Indiana State University,Public,Mathematics.,Bachelor's Degree,19,NA,22378
-2015_2016,001807,Indiana State University,Public,Mathematics.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Mathematics.,Bachelor's Degree,19,NA,22782
-2016_2017,001807,Indiana State University,Public,Mathematics.,Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Mathematics.,Bachelor's Degree,19,,22378
+2015_2016,001807,Indiana State University,Public,Mathematics.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Mathematics.,Bachelor's Degree,19,,22782
+2016_2017,001807,Indiana State University,Public,Mathematics.,Master's Degree,,,
 2015_2016,001807,Indiana State University,Public,Mechanical Engineering Related Technologies/Technicians.,Bachelor's Degree,51,25000,24596
 2016_2017,001807,Indiana State University,Public,Mechanical Engineering Related Technologies/Technicians.,Bachelor's Degree,53,22518,24397
 2015_2016,001807,Indiana State University,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,34,23641,24868
-2015_2016,001807,Indiana State University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,13,NA,34474
+2015_2016,001807,Indiana State University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,13,,34474
 2016_2017,001807,Indiana State University,Public,Mental and Social Health Services and Allied Professions.,Bachelor's Degree,69,26000,26319
 2016_2017,001807,Indiana State University,Public,Mental and Social Health Services and Allied Professions.,Master's Degree,27,34000,31818
-2015_2016,001807,Indiana State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,26841
-2015_2016,001807,Indiana State University,Public,Music.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,26841
+2015_2016,001807,Indiana State University,Public,Music.,Undergraduate Certificate or Diploma,,,
 2015_2016,001807,Indiana State University,Public,Music.,Bachelor's Degree,30,25500,24344
-2015_2016,001807,Indiana State University,Public,Music.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Music.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Music.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Music.,Undergraduate Certificate or Diploma,,,
 2016_2017,001807,Indiana State University,Public,Music.,Bachelor's Degree,26,27924,24583
-2016_2017,001807,Indiana State University,Public,Music.,Master's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,Music.,Master's Degree,,,
 2015_2016,001807,Indiana State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,60,26546,26189
 2016_2017,001807,Indiana State University,Public,"Parks, Recreation and Leisure Facilities Management.",Bachelor's Degree,94,26000,25406
-2015_2016,001807,Indiana State University,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Philosophy.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Philosophy.,Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,Physics.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Physics.,Bachelor's Degree,,,
 2015_2016,001807,Indiana State University,Public,Political Science and Government.,Bachelor's Degree,41,25279,23227
-2015_2016,001807,Indiana State University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Political Science and Government.,Master's Degree,,,
 2016_2017,001807,Indiana State University,Public,Political Science and Government.,Bachelor's Degree,42,23252,23947
-2016_2017,001807,Indiana State University,Public,Political Science and Government.,Master's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,Political Science and Government.,Master's Degree,,,
 2015_2016,001807,Indiana State University,Public,"Psychology, General.",Bachelor's Degree,103,23290,23790
-2015_2016,001807,Indiana State University,Public,"Psychology, General.",Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,"Psychology, General.",Master's Degree,,,
 2016_2017,001807,Indiana State University,Public,"Psychology, General.",Bachelor's Degree,121,23212,23849
-2016_2017,001807,Indiana State University,Public,"Psychology, General.",Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Public Administration.,Master's Degree,16,NA,25724
-2016_2017,001807,Indiana State University,Public,Public Administration.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Public Administration.,Master's Degree,15,NA,25351
-2015_2016,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Bachelor's Degree,16,NA,26767
-2016_2017,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,"Psychology, General.",Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,Public Administration.,Post-baccalaureate Certificate,,,
+2015_2016,001807,Indiana State University,Public,Public Administration.,Master's Degree,16,,25724
+2016_2017,001807,Indiana State University,Public,Public Administration.,Post-baccalaureate Certificate,,,
+2016_2017,001807,Indiana State University,Public,Public Administration.,Master's Degree,15,,25351
+2015_2016,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Post-baccalaureate Certificate,,,
+2015_2016,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Bachelor's Degree,16,,26767
+2016_2017,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Post-baccalaureate Certificate,,,
+2016_2017,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Quality Control and Safety Technologies/Technicians.,Graduate/Professional Certificate,,,
+2016_2017,001807,Indiana State University,Public,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,
 2015_2016,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,275,24500,24548
 2015_2016,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,80,35448,34178
-2015_2016,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2015_2016,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2016_2017,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,238,23000,22955
 2016_2017,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,90,34532,33225
-2016_2017,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,NA,58772,57421
+2016_2017,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
+2016_2017,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2016_2017,001807,Indiana State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
+2015_2016,001807,Indiana State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,,58772,57421
 2016_2017,001807,Indiana State University,Public,Rehabilitation and Therapeutic Professions.,Master's Degree,48,61065,62198
 2015_2016,001807,Indiana State University,Public,Social Work.,Bachelor's Degree,47,26241,26815
 2016_2017,001807,Indiana State University,Public,Social Work.,Bachelor's Degree,62,26000,26430
-2015_2016,001807,Indiana State University,Public,Sociology.,Bachelor's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Sociology.,Bachelor's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Sociology.,Bachelor's Degree,,,
+2016_2017,001807,Indiana State University,Public,Sociology.,Bachelor's Degree,,,
 2015_2016,001807,Indiana State University,Public,Special Education and Teaching.,Bachelor's Degree,46,26997,25657
-2015_2016,001807,Indiana State University,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Special Education and Teaching.,Master's Degree,,,
 2016_2017,001807,Indiana State University,Public,Special Education and Teaching.,Bachelor's Degree,29,29000,24619
-2016_2017,001807,Indiana State University,Public,Special Education and Teaching.,Master's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,Special Education and Teaching.,Master's Degree,,,
 2015_2016,001807,Indiana State University,Public,Student Counseling and Personnel Services.,Master's Degree,46,24750,24249
-2015_2016,001807,Indiana State University,Public,Student Counseling and Personnel Services.,Doctoral Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,Student Counseling and Personnel Services.,Doctoral Degree,,,
 2016_2017,001807,Indiana State University,Public,Student Counseling and Personnel Services.,Master's Degree,43,21380,21184
-2016_2017,001807,Indiana State University,Public,Student Counseling and Personnel Services.,Doctoral Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,Student Counseling and Personnel Services.,Doctoral Degree,,,
+2015_2016,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
 2015_2016,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,109,25728,24658
-2015_2016,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2015_2016,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
 2016_2017,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,98,25111,23580
-2016_2017,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Post-baccalaureate Certificate,,,
+2016_2017,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2015_2016,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,69,23663,23867
-2015_2016,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
 2016_2017,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,67,23663,24277
-2016_2017,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,NA,NA,NA
-2016_2017,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,001807,Indiana State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2015_2016,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,,,
+2015_2016,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
+2015_2016,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,,,
+2016_2017,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Post-baccalaureate Certificate,,,
+2016_2017,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Master's Degree,,,
+2016_2017,001807,Indiana State University,Public,Teaching English or French as a Second or Foreign Language.,Graduate/Professional Certificate,,,

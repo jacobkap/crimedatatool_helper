@@ -1,12 +1,12 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,002821,Saint John Fisher College,Private,Accounting and Related Services.,Bachelor's Degree,52,26510,23887
-2015_2016,002821,Saint John Fisher College,Private,Accounting and Related Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,002821,Saint John Fisher College,Private,Accounting and Related Services.,Post-baccalaureate Certificate,,,
 2016_2017,002821,Saint John Fisher College,Private,Accounting and Related Services.,Bachelor's Degree,65,25000,23616
-2016_2017,002821,Saint John Fisher College,Private,Accounting and Related Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,Anthropology.,Bachelor's Degree,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,Area Studies.,Bachelor's Degree,NA,NA,NA
+2016_2017,002821,Saint John Fisher College,Private,Accounting and Related Services.,Post-baccalaureate Certificate,,,
+2015_2016,002821,Saint John Fisher College,Private,Anthropology.,Bachelor's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,Anthropology.,Bachelor's Degree,,,
+2015_2016,002821,Saint John Fisher College,Private,Area Studies.,Bachelor's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,Area Studies.,Bachelor's Degree,,,
 2015_2016,002821,Saint John Fisher College,Private,"Biology, General.",Bachelor's Degree,115,25000,23006
 2016_2017,002821,Saint John Fisher College,Private,"Biology, General.",Bachelor's Degree,102,24937,22993
 2015_2016,002821,Saint John Fisher College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,80,23920,22419
@@ -15,90 +15,90 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,002821,Saint John Fisher College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,71,23000,21631
 2016_2017,002821,Saint John Fisher College,Private,"Business Administration, Management and Operations.",Master's Degree,79,30057,43590
 2016_2017,002821,Saint John Fisher College,Private,"Business Administration, Management and Operations.",Doctoral Degree,48,83793,81117
-2015_2016,002821,Saint John Fisher College,Private,Chemistry.,Bachelor's Degree,NA,26000,24005
-2016_2017,002821,Saint John Fisher College,Private,Chemistry.,Bachelor's Degree,NA,27000,23893
+2015_2016,002821,Saint John Fisher College,Private,Chemistry.,Bachelor's Degree,,26000,24005
+2016_2017,002821,Saint John Fisher College,Private,Chemistry.,Bachelor's Degree,,27000,23893
 2015_2016,002821,Saint John Fisher College,Private,Communication and Media Studies.,Bachelor's Degree,64,22737,22033
 2016_2017,002821,Saint John Fisher College,Private,Communication and Media Studies.,Bachelor's Degree,69,21265,21670
-2015_2016,002821,Saint John Fisher College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
+2015_2016,002821,Saint John Fisher College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
 2015_2016,002821,Saint John Fisher College,Private,Criminology.,Bachelor's Degree,20,26500,23998
-2016_2017,002821,Saint John Fisher College,Private,Criminology.,Bachelor's Degree,19,NA,21276
-2015_2016,002821,Saint John Fisher College,Private,Economics.,Bachelor's Degree,15,NA,25117
-2016_2017,002821,Saint John Fisher College,Private,Economics.,Bachelor's Degree,10,NA,24265
-2015_2016,002821,Saint John Fisher College,Private,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,Educational Administration and Supervision.,Master's Degree,12,NA,53821
-2016_2017,002821,Saint John Fisher College,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,"English Language and Literature, General.",Bachelor's Degree,14,NA,24756
+2016_2017,002821,Saint John Fisher College,Private,Criminology.,Bachelor's Degree,19,,21276
+2015_2016,002821,Saint John Fisher College,Private,Economics.,Bachelor's Degree,15,,25117
+2016_2017,002821,Saint John Fisher College,Private,Economics.,Bachelor's Degree,10,,24265
+2015_2016,002821,Saint John Fisher College,Private,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,Educational Administration and Supervision.,Master's Degree,12,,53821
+2016_2017,002821,Saint John Fisher College,Private,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2015_2016,002821,Saint John Fisher College,Private,"English Language and Literature, General.",Bachelor's Degree,14,,24756
 2016_2017,002821,Saint John Fisher College,Private,"English Language and Literature, General.",Bachelor's Degree,22,27000,25881
 2015_2016,002821,Saint John Fisher College,Private,Finance and Financial Management Services.,Bachelor's Degree,56,22250,21188
 2016_2017,002821,Saint John Fisher College,Private,Finance and Financial Management Services.,Bachelor's Degree,69,23251,21576
 2015_2016,002821,Saint John Fisher College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,26,23031,21879
 2016_2017,002821,Saint John Fisher College,Private,Health and Physical Education/Fitness.,Bachelor's Degree,27,23250,21180
 2015_2016,002821,Saint John Fisher College,Private,History.,Bachelor's Degree,20,24125,22709
-2016_2017,002821,Saint John Fisher College,Private,History.,Bachelor's Degree,17,NA,23289
+2016_2017,002821,Saint John Fisher College,Private,History.,Bachelor's Degree,17,,23289
 2015_2016,002821,Saint John Fisher College,Private,Human Resources Management and Services.,Bachelor's Degree,23,27000,24012
-2015_2016,002821,Saint John Fisher College,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
+2015_2016,002821,Saint John Fisher College,Private,Human Resources Management and Services.,Master's Degree,,,
 2016_2017,002821,Saint John Fisher College,Private,Human Resources Management and Services.,Bachelor's Degree,25,20374,22363
-2016_2017,002821,Saint John Fisher College,Private,Human Resources Management and Services.,Master's Degree,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,International Relations and National Security Studies.,Master's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,International Relations and National Security Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,International Relations and National Security Studies.,Master's Degree,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,12,NA,25309
-2016_2017,002821,Saint John Fisher College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
+2016_2017,002821,Saint John Fisher College,Private,Human Resources Management and Services.,Master's Degree,,,
+2015_2016,002821,Saint John Fisher College,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2015_2016,002821,Saint John Fisher College,Private,International Relations and National Security Studies.,Master's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,International Relations and National Security Studies.,Bachelor's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,International Relations and National Security Studies.,Master's Degree,,,
+2015_2016,002821,Saint John Fisher College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,12,,25309
+2016_2017,002821,Saint John Fisher College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
 2015_2016,002821,Saint John Fisher College,Private,Marketing.,Bachelor's Degree,49,21500,21032
 2016_2017,002821,Saint John Fisher College,Private,Marketing.,Bachelor's Degree,53,20276,20035
-2015_2016,002821,Saint John Fisher College,Private,Mathematics.,Bachelor's Degree,10,NA,24352
-2016_2017,002821,Saint John Fisher College,Private,Mathematics.,Bachelor's Degree,11,NA,24654
+2015_2016,002821,Saint John Fisher College,Private,Mathematics.,Bachelor's Degree,10,,24352
+2016_2017,002821,Saint John Fisher College,Private,Mathematics.,Bachelor's Degree,11,,24654
 2015_2016,002821,Saint John Fisher College,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,27,61130,64579
-2015_2016,002821,Saint John Fisher College,Private,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002821,Saint John Fisher College,Private,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,,,
 2016_2017,002821,Saint John Fisher College,Private,Mental and Social Health Services and Allied Professions.,Master's Degree,53,65921,67352
-2016_2017,002821,Saint John Fisher College,Private,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,Museology/Museum Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,Museology/Museum Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,Museology/Museum Studies.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,Museology/Museum Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,14,NA,24091
-2016_2017,002821,Saint John Fisher College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,17,NA,23561
+2016_2017,002821,Saint John Fisher College,Private,Mental and Social Health Services and Allied Professions.,Graduate/Professional Certificate,,,
+2015_2016,002821,Saint John Fisher College,Private,Museology/Museum Studies.,Undergraduate Certificate or Diploma,,,
+2015_2016,002821,Saint John Fisher College,Private,Museology/Museum Studies.,Bachelor's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,Museology/Museum Studies.,Undergraduate Certificate or Diploma,,,
+2016_2017,002821,Saint John Fisher College,Private,Museology/Museum Studies.,Bachelor's Degree,,,
+2015_2016,002821,Saint John Fisher College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,14,,24091
+2016_2017,002821,Saint John Fisher College,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,17,,23561
 2015_2016,002821,Saint John Fisher College,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,136,168425,157596
 2016_2017,002821,Saint John Fisher College,Private,"Pharmacy, Pharmaceutical Sciences, and Administration.",First Professional Degree,144,171944,162721
-2015_2016,002821,Saint John Fisher College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,Philosophy.,Bachelor's Degree,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,Physics.,Bachelor's Degree,NA,NA,NA
+2015_2016,002821,Saint John Fisher College,Private,Philosophy.,Bachelor's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,Philosophy.,Bachelor's Degree,,,
+2015_2016,002821,Saint John Fisher College,Private,Physics.,Bachelor's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,Physics.,Bachelor's Degree,,,
 2015_2016,002821,Saint John Fisher College,Private,Political Science and Government.,Bachelor's Degree,21,24000,21639
-2016_2017,002821,Saint John Fisher College,Private,Political Science and Government.,Bachelor's Degree,16,NA,22119
+2016_2017,002821,Saint John Fisher College,Private,Political Science and Government.,Bachelor's Degree,16,,22119
 2015_2016,002821,Saint John Fisher College,Private,"Psychology, General.",Bachelor's Degree,77,23407,23339
 2016_2017,002821,Saint John Fisher College,Private,"Psychology, General.",Bachelor's Degree,57,23407,22824
-2015_2016,002821,Saint John Fisher College,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,NA,NA,22232
-2016_2017,002821,Saint John Fisher College,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,11,NA,23175
+2015_2016,002821,Saint John Fisher College,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,,,22232
+2016_2017,002821,Saint John Fisher College,Private,"Radio, Television, and Digital Communication.",Bachelor's Degree,11,,23175
 2015_2016,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,294,25000,23473
 2015_2016,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,24,30002,35010
-2015_2016,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2015_2016,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2016_2017,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,311,23590,23034
 2016_2017,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,43,29464,32124
-2016_2017,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,Religion/Religious Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2016_2017,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
+2015_2016,002821,Saint John Fisher College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,Religion/Religious Studies.,Bachelor's Degree,,,
+2015_2016,002821,Saint John Fisher College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,002821,Saint John Fisher College,Private,Sociology.,Bachelor's Degree,31,25000,23414
-2016_2017,002821,Saint John Fisher College,Private,Sociology.,Bachelor's Degree,17,NA,23004
+2016_2017,002821,Saint John Fisher College,Private,Sociology.,Bachelor's Degree,17,,23004
 2015_2016,002821,Saint John Fisher College,Private,Special Education and Teaching.,Bachelor's Degree,58,27000,25521
 2015_2016,002821,Saint John Fisher College,Private,Special Education and Teaching.,Master's Degree,46,41567,42966
-2015_2016,002821,Saint John Fisher College,Private,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
+2015_2016,002821,Saint John Fisher College,Private,Special Education and Teaching.,Graduate/Professional Certificate,,,
 2016_2017,002821,Saint John Fisher College,Private,Special Education and Teaching.,Bachelor's Degree,33,27000,22960
 2016_2017,002821,Saint John Fisher College,Private,Special Education and Teaching.,Master's Degree,40,42491,47038
-2016_2017,002821,Saint John Fisher College,Private,Special Education and Teaching.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,Statistics.,Bachelor's Degree,NA,NA,NA
-2016_2017,002821,Saint John Fisher College,Private,Statistics.,Bachelor's Degree,NA,NA,NA
+2016_2017,002821,Saint John Fisher College,Private,Special Education and Teaching.,Graduate/Professional Certificate,,,
+2015_2016,002821,Saint John Fisher College,Private,Statistics.,Bachelor's Degree,,,
+2016_2017,002821,Saint John Fisher College,Private,Statistics.,Bachelor's Degree,,,
 2015_2016,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,48,27000,25643
-2015_2016,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
+2015_2016,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
 2016_2017,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,45,27000,23135
-2016_2017,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,NA,NA,NA
-2015_2016,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,NA,25645
+2016_2017,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,,,
+2015_2016,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,,25645
 2015_2016,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,34,31859,32468
-2016_2017,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,22129
+2016_2017,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,22129
 2016_2017,002821,Saint John Fisher College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,32,34987,33303

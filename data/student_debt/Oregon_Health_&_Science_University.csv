@@ -1,95 +1,95 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,004882,Oregon Health & Science University,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,13,NA,261504
-2015_2016,004882,Oregon Health & Science University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,NA
+2015_2016,004882,Oregon Health & Science University,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,,,
+2016_2017,004882,Oregon Health & Science University,Public,Advanced/Graduate Dentistry and Oral Sciences.,Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Advanced/Graduate Dentistry and Oral Sciences.,Graduate/Professional Certificate,13,,261504
+2015_2016,004882,Oregon Health & Science University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,
 2015_2016,004882,Oregon Health & Science University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,64,132248,117264
-2016_2017,004882,Oregon Health & Science University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,NA,NA,23734
+2016_2017,004882,Oregon Health & Science University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Bachelor's Degree,,,23734
 2016_2017,004882,Oregon Health & Science University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Master's Degree,69,124283,111606
-2015_2016,004882,Oregon Health & Science University,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,15,NA,34292
-2016_2017,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Biomedical/Medical Engineering.,Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Biomedical/Medical Engineering.,Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Computer Engineering.,Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Computer Engineering.,Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Computer Engineering.,Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Computer Engineering.,Doctoral Degree,NA,NA,NA
+2015_2016,004882,Oregon Health & Science University,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Biochemistry, Biophysics and Molecular Biology.",Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Biochemistry, Biophysics and Molecular Biology.",Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Post-baccalaureate Certificate,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Graduate/Professional Certificate,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Post-baccalaureate Certificate,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Master's Degree,15,,34292
+2016_2017,004882,Oregon Health & Science University,Public,"Biomathematics, Bioinformatics, and Computational Biology.",Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Biomedical/Medical Engineering.,Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Biomedical/Medical Engineering.,Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Biomedical/Medical Engineering.,Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Biomedical/Medical Engineering.,Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Cell/Cellular Biology and Anatomical Sciences.,Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Cell/Cellular Biology and Anatomical Sciences.,Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Computer Engineering.,Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Computer Engineering.,Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Computer Engineering.,Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Computer Engineering.,Doctoral Degree,,,
 2015_2016,004882,Oregon Health & Science University,Public,Dentistry.,First Professional Degree,101,290634,288518
 2016_2017,004882,Oregon Health & Science University,Public,Dentistry.,First Professional Degree,125,272598,263736
-2015_2016,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Graduate/Professional Certificate,NA,NA,47259
-2015_2016,004882,Oregon Health & Science University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Genetics.,Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Genetics.,Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Genetics.,Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,,,
+2015_2016,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Graduate/Professional Certificate,,,
+2016_2017,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Post-baccalaureate Certificate,,,
+2016_2017,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Dietetics and Clinical Nutrition Services.,Graduate/Professional Certificate,,,47259
+2015_2016,004882,Oregon Health & Science University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Electrical, Electronics and Communications Engineering.",Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Genetics.,Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Genetics.,Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Genetics.,Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Health and Medical Administrative Services.,Post-baccalaureate Certificate,,,
 2015_2016,004882,Oregon Health & Science University,Public,Health and Medical Administrative Services.,Master's Degree,21,53000,62733
-2015_2016,004882,Oregon Health & Science University,Public,Health and Medical Administrative Services.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Health and Medical Administrative Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,004882,Oregon Health & Science University,Public,Health and Medical Administrative Services.,Graduate/Professional Certificate,,,
+2016_2017,004882,Oregon Health & Science University,Public,Health and Medical Administrative Services.,Post-baccalaureate Certificate,,,
 2016_2017,004882,Oregon Health & Science University,Public,Health and Medical Administrative Services.,Master's Degree,46,49195,51872
-2016_2017,004882,Oregon Health & Science University,Public,Health and Medical Administrative Services.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Graduate/Professional Certificate,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,004882,Oregon Health & Science University,Public,Health and Medical Administrative Services.,Graduate/Professional Certificate,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Post-baccalaureate Certificate,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Graduate/Professional Certificate,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Post-baccalaureate Certificate,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Health Professions and Related Clinical Sciences, Other.",Graduate/Professional Certificate,,,
 2015_2016,004882,Oregon Health & Science University,Public,Medicine.,First Professional Degree,174,233621,208728
 2016_2017,004882,Oregon Health & Science University,Public,Medicine.,First Professional Degree,185,228949,204258
-2015_2016,004882,Oregon Health & Science University,Public,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Microbiological Sciences and Immunology.,Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Natural Resources Conservation and Research.,Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Natural Resources Conservation and Research.,Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Natural Resources Conservation and Research.,Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Neurobiology and Neurosciences.,Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Neurobiology and Neurosciences.,Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Pharmacology and Toxicology.,Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,NA,NA,NA
-2015_2016,004882,Oregon Health & Science University,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,004882,Oregon Health & Science University,Public,Microbiological Sciences and Immunology.,Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Microbiological Sciences and Immunology.,Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Microbiological Sciences and Immunology.,Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Natural Resources Conservation and Research.,Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Natural Resources Conservation and Research.,Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Natural Resources Conservation and Research.,Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Neurobiology and Neurosciences.,Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Neurobiology and Neurosciences.,Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Neurobiology and Neurosciences.,Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Neurobiology and Neurosciences.,Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Pharmacology and Toxicology.,Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,Pharmacology and Toxicology.,Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Physiology, Pathology and Related Sciences.",Master's Degree,,,
+2016_2017,004882,Oregon Health & Science University,Public,"Physiology, Pathology and Related Sciences.",Doctoral Degree,,,
+2015_2016,004882,Oregon Health & Science University,Public,Public Health.,Post-baccalaureate Certificate,,,
 2015_2016,004882,Oregon Health & Science University,Public,Public Health.,Master's Degree,36,54663,85857
-2015_2016,004882,Oregon Health & Science University,Public,Public Health.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,004882,Oregon Health & Science University,Public,Public Health.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,004882,Oregon Health & Science University,Public,Public Health.,Graduate/Professional Certificate,,,
+2016_2017,004882,Oregon Health & Science University,Public,Public Health.,Post-baccalaureate Certificate,,,
 2016_2017,004882,Oregon Health & Science University,Public,Public Health.,Master's Degree,39,54895,53999
-2016_2017,004882,Oregon Health & Science University,Public,Public Health.,Graduate/Professional Certificate,NA,NA,NA
+2016_2017,004882,Oregon Health & Science University,Public,Public Health.,Graduate/Professional Certificate,,,
 2015_2016,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,499,19500,20916
 2015_2016,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,61,61500,67990
-2015_2016,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,NA
+2015_2016,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,
 2015_2016,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,34,55560,66418
-2015_2016,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2015_2016,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,
 2016_2017,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,535,17615,20314
 2016_2017,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,76,74687,73036
-2016_2017,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,NA,NA,59178
+2016_2017,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Doctoral Degree,,,59178
 2016_2017,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",First Professional Degree,42,58653,67985
-2016_2017,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,NA,NA,NA
+2016_2017,004882,Oregon Health & Science University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Graduate/Professional Certificate,,,

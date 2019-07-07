@@ -1,141 +1,141 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,003165,Oklahoma Christian University,Private,Accounting and Related Services.,Bachelor's Degree,12,NA,24489
-2015_2016,003165,Oklahoma Christian University,Private,Accounting and Related Services.,Master's Degree,17,NA,20232
+2015_2016,003165,Oklahoma Christian University,Private,Accounting and Related Services.,Bachelor's Degree,12,,24489
+2015_2016,003165,Oklahoma Christian University,Private,Accounting and Related Services.,Master's Degree,17,,20232
 2016_2017,003165,Oklahoma Christian University,Private,Accounting and Related Services.,Bachelor's Degree,20,21750,22930
-2016_2017,003165,Oklahoma Christian University,Private,Accounting and Related Services.,Master's Degree,16,NA,23473
-2015_2016,003165,Oklahoma Christian University,Private,Bible/Biblical Studies.,Bachelor's Degree,13,NA,21167
-2016_2017,003165,Oklahoma Christian University,Private,Bible/Biblical Studies.,Bachelor's Degree,14,NA,24723
-2015_2016,003165,Oklahoma Christian University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Biology, General.",Bachelor's Degree,16,NA,22929
-2016_2017,003165,Oklahoma Christian University,Private,"Biology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Business Administration, Management and Operations.",Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Business/Commerce, General.",Bachelor's Degree,10,NA,24377
-2015_2016,003165,Oklahoma Christian University,Private,"Business/Commerce, General.",Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Business/Commerce, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Business/Commerce, General.",Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Cell/Cellular Biology and Anatomical Sciences.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Cell/Cellular Biology and Anatomical Sciences.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Communication and Media Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Computer Engineering.,Bachelor's Degree,11,NA,21876
-2015_2016,003165,Oklahoma Christian University,Private,Computer Engineering.,Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Computer Engineering.,Bachelor's Degree,11,NA,17464
-2016_2017,003165,Oklahoma Christian University,Private,Computer Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Computer Science.,Bachelor's Degree,10,NA,25113
-2016_2017,003165,Oklahoma Christian University,Private,Computer Science.,Master's Degree,NA,NA,NA
+2016_2017,003165,Oklahoma Christian University,Private,Accounting and Related Services.,Master's Degree,16,,23473
+2015_2016,003165,Oklahoma Christian University,Private,Bible/Biblical Studies.,Bachelor's Degree,13,,21167
+2016_2017,003165,Oklahoma Christian University,Private,Bible/Biblical Studies.,Bachelor's Degree,14,,24723
+2015_2016,003165,Oklahoma Christian University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Biochemistry, Biophysics and Molecular Biology.",Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Biology, General.",Bachelor's Degree,16,,22929
+2016_2017,003165,Oklahoma Christian University,Private,"Biology, General.",Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Business Administration, Management and Operations.",Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Business, Management, Marketing, and Related Support Services, Other.",Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Business/Commerce, General.",Bachelor's Degree,10,,24377
+2015_2016,003165,Oklahoma Christian University,Private,"Business/Commerce, General.",Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Business/Commerce, General.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Business/Commerce, General.",Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Cell/Cellular Biology and Anatomical Sciences.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Cell/Cellular Biology and Anatomical Sciences.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Chemistry.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Chemistry.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Post-baccalaureate Certificate,,,
+2016_2017,003165,Oklahoma Christian University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Clinical/Medical Laboratory Science/Research and Allied Professions.,Post-baccalaureate Certificate,,,
+2015_2016,003165,Oklahoma Christian University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Communication and Media Studies.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Computer and Information Sciences, General.",Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Computer Engineering.,Bachelor's Degree,11,,21876
+2015_2016,003165,Oklahoma Christian University,Private,Computer Engineering.,Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Computer Engineering.,Bachelor's Degree,11,,17464
+2016_2017,003165,Oklahoma Christian University,Private,Computer Engineering.,Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Computer Science.,Bachelor's Degree,10,,25113
+2016_2017,003165,Oklahoma Christian University,Private,Computer Science.,Master's Degree,,,
 2015_2016,003165,Oklahoma Christian University,Private,Design and Applied Arts.,Bachelor's Degree,33,27000,26319
 2016_2017,003165,Oklahoma Christian University,Private,Design and Applied Arts.,Bachelor's Degree,29,27000,25237
-2015_2016,003165,Oklahoma Christian University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,12,NA,22696
-2016_2017,003165,Oklahoma Christian University,Private,"Electrical, Electronics and Communications Engineering.",Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Engineering Physics.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Engineering, General.",Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Engineering, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Engineering, General.",Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Finance and Financial Management Services.,Master's Degree,18,NA,23639
-2016_2017,003165,Oklahoma Christian University,Private,Finance and Financial Management Services.,Bachelor's Degree,11,NA,22088
+2015_2016,003165,Oklahoma Christian University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Electrical, Electronics and Communications Engineering.",Bachelor's Degree,12,,22696
+2016_2017,003165,Oklahoma Christian University,Private,"Electrical, Electronics and Communications Engineering.",Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Engineering Physics.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Engineering Physics.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Engineering, General.",Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Engineering, General.",Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Engineering, General.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Engineering, General.",Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"English Language and Literature, General.",Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Film/Video and Photographic Arts.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Finance and Financial Management Services.,Master's Degree,18,,23639
+2016_2017,003165,Oklahoma Christian University,Private,Finance and Financial Management Services.,Bachelor's Degree,11,,22088
 2016_2017,003165,Oklahoma Christian University,Private,Finance and Financial Management Services.,Master's Degree,20,19628,19233
-2015_2016,003165,Oklahoma Christian University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Fine and Studio Arts.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Health and Medical Administrative Services.,Master's Degree,NA,NA,NA
+2015_2016,003165,Oklahoma Christian University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Fine and Studio Arts.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"General Sales, Merchandising and Related Marketing Operations.",Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Health and Medical Administrative Services.,Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Health and Medical Administrative Services.,Master's Degree,,,
 2015_2016,003165,Oklahoma Christian University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,23,21250,19131
 2016_2017,003165,Oklahoma Christian University,Private,Health and Physical Education/Fitness.,Bachelor's Degree,21,20904,19966
-2015_2016,003165,Oklahoma Christian University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,History.,Bachelor's Degree,NA,NA,NA
+2015_2016,003165,Oklahoma Christian University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Health/Medical Preparatory Programs.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,History.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,History.,Bachelor's Degree,,,
 2015_2016,003165,Oklahoma Christian University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,21,25500,24823
-2016_2017,003165,Oklahoma Christian University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,15,NA,21369
+2016_2017,003165,Oklahoma Christian University,Private,"Human Development, Family Studies, and Related Services.",Bachelor's Degree,15,,21369
 2015_2016,003165,Oklahoma Christian University,Private,Human Resources Management and Services.,Master's Degree,22,28812,30569
 2016_2017,003165,Oklahoma Christian University,Private,Human Resources Management and Services.,Master's Degree,28,25250,28278
-2015_2016,003165,Oklahoma Christian University,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,International Business.,Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,International Business.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,International Business.,Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Journalism.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Journalism.,Bachelor's Degree,NA,NA,19057
-2015_2016,003165,Oklahoma Christian University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,003165,Oklahoma Christian University,Private,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Information Science/Studies.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,International Business.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,International Business.,Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,International Business.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,International Business.,Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Journalism.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Journalism.,Bachelor's Degree,,,19057
+2015_2016,003165,Oklahoma Christian University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Legal Professions and Studies, Other.",Bachelor's Degree,,,
 2015_2016,003165,Oklahoma Christian University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,26,27587,25940
 2016_2017,003165,Oklahoma Christian University,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,24,26862,26853
-2015_2016,003165,Oklahoma Christian University,Private,Marketing.,Bachelor's Degree,12,NA,22266
-2015_2016,003165,Oklahoma Christian University,Private,Marketing.,Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Marketing.,Bachelor's Degree,12,NA,24442
-2016_2017,003165,Oklahoma Christian University,Private,Marketing.,Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Mathematics and Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Mathematics and Statistics, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Mathematics and Statistics, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Mathematics.,Bachelor's Degree,NA,NA,NA
+2015_2016,003165,Oklahoma Christian University,Private,Marketing.,Bachelor's Degree,12,,22266
+2015_2016,003165,Oklahoma Christian University,Private,Marketing.,Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Marketing.,Bachelor's Degree,12,,24442
+2016_2017,003165,Oklahoma Christian University,Private,Marketing.,Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Mathematics and Computer Science.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Mathematics and Statistics, Other.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Mathematics and Statistics, Other.",Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Mathematics.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Mathematics.,Bachelor's Degree,,,
 2015_2016,003165,Oklahoma Christian University,Private,Mechanical Engineering.,Bachelor's Degree,32,15252,17765
 2016_2017,003165,Oklahoma Christian University,Private,Mechanical Engineering.,Bachelor's Degree,39,19083,18035
-2016_2017,003165,Oklahoma Christian University,Private,Mechanical Engineering.,Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Music.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Political Science and Government.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Psychology, General.",Bachelor's Degree,14,NA,23344
-2015_2016,003165,Oklahoma Christian University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,11,NA,21013
-2016_2017,003165,Oklahoma Christian University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,14,NA,25213
+2016_2017,003165,Oklahoma Christian University,Private,Mechanical Engineering.,Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Music.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Music.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Non-Professional General Legal Studies (Undergraduate).,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Political Science and Government.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Political Science and Government.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Psychology, General.",Bachelor's Degree,14,,23344
+2015_2016,003165,Oklahoma Christian University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,11,,21013
+2016_2017,003165,Oklahoma Christian University,Private,"Public Relations, Advertising, and Applied Communication.",Bachelor's Degree,14,,25213
 2015_2016,003165,Oklahoma Christian University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,34,22042,22562
 2016_2017,003165,Oklahoma Christian University,Private,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,42,22000,24047
-2015_2016,003165,Oklahoma Christian University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Religion/Religious Studies.,Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Religious Education.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
+2015_2016,003165,Oklahoma Christian University,Private,Religion/Religious Studies.,Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Religion/Religious Studies.,Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Religious Education.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Religious Education.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
 2015_2016,003165,Oklahoma Christian University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,22,21500,21224
 2016_2017,003165,Oklahoma Christian University,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,21,25979,22859
-2015_2016,003165,Oklahoma Christian University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,NA,25612
-2016_2017,003165,Oklahoma Christian University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,11,NA,30533
-2015_2016,003165,Oklahoma Christian University,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,Theological and Ministerial Studies.,Master's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,NA,NA,26450
-2015_2016,003165,Oklahoma Christian University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,003165,Oklahoma Christian University,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,003165,Oklahoma Christian University,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,NA,NA,NA
+2015_2016,003165,Oklahoma Christian University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,15,,25612
+2016_2017,003165,Oklahoma Christian University,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,11,,30533
+2015_2016,003165,Oklahoma Christian University,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,Theological and Ministerial Studies.,Master's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Theology and Religious Vocations, Other.",Bachelor's Degree,,,26450
+2015_2016,003165,Oklahoma Christian University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Visual and Performing Arts, General.",Bachelor's Degree,,,
+2015_2016,003165,Oklahoma Christian University,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,,,
+2016_2017,003165,Oklahoma Christian University,Private,"Visual and Performing Arts, Other.",Bachelor's Degree,,,

@@ -1,48 +1,48 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,023289,Emmaus Bible College,Private,Applied Mathematics.,Associate's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Applied Mathematics.,Associate's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Applied Mathematics.,Bachelor's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,15,NA,9298
-2015_2016,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Associate's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,10,NA,4550
-2016_2017,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Associate's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Computer Science.,Bachelor's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Education, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Education, General.",Associate's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,"Education, General.",Associate's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Pastoral Counseling and Specialized Ministries.,Associate's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Pastoral Counseling and Specialized Ministries.,Associate's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Psychology, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,"Psychology, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Teaching English or French as a Second or Foreign Language.,Associate's Degree,NA,NA,NA
-2015_2016,023289,Emmaus Bible College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Teaching English or French as a Second or Foreign Language.,Associate's Degree,NA,NA,NA
-2016_2017,023289,Emmaus Bible College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,NA,NA,NA
+2015_2016,023289,Emmaus Bible College,Private,Applied Mathematics.,Associate's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,Applied Mathematics.,Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,Applied Mathematics.,Associate's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,Applied Mathematics.,Bachelor's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,15,,9298
+2015_2016,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Associate's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,10,,4550
+2016_2017,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Associate's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,Bible/Biblical Studies.,Bachelor's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
+2015_2016,023289,Emmaus Bible College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,023289,Emmaus Bible College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,"Computer and Information Sciences, General.",Bachelor's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,Computer Science.,Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,Computer Science.,Bachelor's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,"Education, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,023289,Emmaus Bible College,Private,"Education, General.",Associate's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,"Education, General.",Associate's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,,,
+2015_2016,023289,Emmaus Bible College,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,,,
+2016_2017,023289,Emmaus Bible College,Private,Missions/Missionary Studies and Missiology.,Bachelor's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,,,
+2015_2016,023289,Emmaus Bible College,Private,Pastoral Counseling and Specialized Ministries.,Associate's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,Pastoral Counseling and Specialized Ministries.,Associate's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,Pastoral Counseling and Specialized Ministries.,Bachelor's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,"Psychology, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,023289,Emmaus Bible College,Private,"Psychology, General.",Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,"Psychology, General.",Bachelor's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2015_2016,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,,,
+2016_2017,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,Teaching English or French as a Second or Foreign Language.,Associate's Degree,,,
+2015_2016,023289,Emmaus Bible College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,Teaching English or French as a Second or Foreign Language.,Associate's Degree,,,
+2016_2017,023289,Emmaus Bible College,Private,Teaching English or French as a Second or Foreign Language.,Bachelor's Degree,,,

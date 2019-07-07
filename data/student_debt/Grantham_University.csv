@@ -1,79 +1,79 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,041223,Grantham University,Proprietary,Accounting and Related Services.,Bachelor's Degree,12,NA,31219
-2016_2017,041223,Grantham University,Proprietary,Accounting and Related Services.,Bachelor's Degree,17,NA,35111
-2015_2016,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,041223,Grantham University,Proprietary,Accounting and Related Services.,Bachelor's Degree,12,,31219
+2016_2017,041223,Grantham University,Proprietary,Accounting and Related Services.,Bachelor's Degree,17,,35111
+2015_2016,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2015_2016,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,120,24494,24662
 2015_2016,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,62,35785,33275
-2015_2016,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2015_2016,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Master's Degree,32,34468,30311
-2016_2017,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,,,
 2016_2017,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Associate's Degree,279,25250,25036
 2016_2017,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Bachelor's Degree,144,36994,34373
-2016_2017,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,NA,NA,NA
+2016_2017,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Post-baccalaureate Certificate,,,
 2016_2017,041223,Grantham University,Proprietary,"Business Administration, Management and Operations.",Master's Degree,90,34826,31901
-2015_2016,041223,Grantham University,Proprietary,"Computer and Information Sciences, General.",Master's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,"Computer and Information Sciences, General.",Master's Degree,13,NA,29485
-2015_2016,041223,Grantham University,Proprietary,Computer Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Computer Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Computer Programming.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Computer Science.,Associate's Degree,11,NA,13866
-2015_2016,041223,Grantham University,Proprietary,Computer Science.,Bachelor's Degree,16,NA,32513
+2015_2016,041223,Grantham University,Proprietary,"Computer and Information Sciences, General.",Master's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,"Computer and Information Sciences, General.",Master's Degree,13,,29485
+2015_2016,041223,Grantham University,Proprietary,Computer Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,Computer Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2015_2016,041223,Grantham University,Proprietary,Computer Programming.,Undergraduate Certificate or Diploma,,,
+2016_2017,041223,Grantham University,Proprietary,Computer Programming.,Undergraduate Certificate or Diploma,,,
+2015_2016,041223,Grantham University,Proprietary,Computer Science.,Associate's Degree,11,,13866
+2015_2016,041223,Grantham University,Proprietary,Computer Science.,Bachelor's Degree,16,,32513
 2016_2017,041223,Grantham University,Proprietary,Computer Science.,Associate's Degree,25,16500,15018
 2016_2017,041223,Grantham University,Proprietary,Computer Science.,Bachelor's Degree,36,31567,32983
-2015_2016,041223,Grantham University,Proprietary,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Computer Systems Networking and Telecommunications.,Bachelor's Degree,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,11,NA,27594
-2016_2017,041223,Grantham University,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,14,NA,29558
+2015_2016,041223,Grantham University,Proprietary,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,Computer Systems Networking and Telecommunications.,Bachelor's Degree,,,
+2015_2016,041223,Grantham University,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,041223,Grantham University,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,11,,27594
+2016_2017,041223,Grantham University,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,041223,Grantham University,Proprietary,Computer/Information Technology Administration and Management.,Bachelor's Degree,14,,29558
 2015_2016,041223,Grantham University,Proprietary,Criminal Justice and Corrections.,Associate's Degree,49,24250,22618
 2015_2016,041223,Grantham University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,28,22662,25000
 2016_2017,041223,Grantham University,Proprietary,Criminal Justice and Corrections.,Associate's Degree,137,24687,23603
 2016_2017,041223,Grantham University,Proprietary,Criminal Justice and Corrections.,Bachelor's Degree,71,31720,30167
-2015_2016,041223,Grantham University,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,10,NA,23861
-2015_2016,041223,Grantham University,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,18,NA,22419
-2016_2017,041223,Grantham University,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,16,NA,38078
-2015_2016,041223,Grantham University,Proprietary,Engineering-Related Fields.,Associate's Degree,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Engineering-Related Fields.,Bachelor's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Engineering-Related Fields.,Associate's Degree,10,NA,23328
-2016_2017,041223,Grantham University,Proprietary,Engineering-Related Fields.,Bachelor's Degree,11,NA,32361
-2015_2016,041223,Grantham University,Proprietary,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,041223,Grantham University,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,10,,23861
+2015_2016,041223,Grantham University,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,Electrical Engineering Technologies/Technicians.,Associate's Degree,18,,22419
+2016_2017,041223,Grantham University,Proprietary,Electrical Engineering Technologies/Technicians.,Bachelor's Degree,16,,38078
+2015_2016,041223,Grantham University,Proprietary,Engineering-Related Fields.,Associate's Degree,,,
+2015_2016,041223,Grantham University,Proprietary,Engineering-Related Fields.,Bachelor's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,Engineering-Related Fields.,Associate's Degree,10,,23328
+2016_2017,041223,Grantham University,Proprietary,Engineering-Related Fields.,Bachelor's Degree,11,,32361
+2015_2016,041223,Grantham University,Proprietary,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2016_2017,041223,Grantham University,Proprietary,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,,,
+2015_2016,041223,Grantham University,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,Finance and Financial Management Services.,Bachelor's Degree,,,
+2015_2016,041223,Grantham University,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2015_2016,041223,Grantham University,Proprietary,Health and Medical Administrative Services.,Associate's Degree,121,26750,25839
 2015_2016,041223,Grantham University,Proprietary,Health and Medical Administrative Services.,Master's Degree,34,36103,32315
-2016_2017,041223,Grantham University,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,041223,Grantham University,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
 2016_2017,041223,Grantham University,Proprietary,Health and Medical Administrative Services.,Associate's Degree,258,28048,27111
 2016_2017,041223,Grantham University,Proprietary,Health and Medical Administrative Services.,Master's Degree,78,34951,31722
-2015_2016,041223,Grantham University,Proprietary,Human Resources Management and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Human Resources Management and Services.,Master's Degree,16,NA,32084
-2016_2017,041223,Grantham University,Proprietary,Human Resources Management and Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Human Resources Management and Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Human Resources Management and Services.,Post-baccalaureate Certificate,NA,NA,NA
+2015_2016,041223,Grantham University,Proprietary,Human Resources Management and Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,041223,Grantham University,Proprietary,Human Resources Management and Services.,Bachelor's Degree,,,
+2015_2016,041223,Grantham University,Proprietary,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
+2015_2016,041223,Grantham University,Proprietary,Human Resources Management and Services.,Master's Degree,16,,32084
+2016_2017,041223,Grantham University,Proprietary,Human Resources Management and Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,041223,Grantham University,Proprietary,Human Resources Management and Services.,Bachelor's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,Human Resources Management and Services.,Post-baccalaureate Certificate,,,
 2016_2017,041223,Grantham University,Proprietary,Human Resources Management and Services.,Master's Degree,31,35888,34775
-2015_2016,041223,Grantham University,Proprietary,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Information Science/Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,Management Information Systems and Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,041223,Grantham University,Proprietary,Information Science/Studies.,Bachelor's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,Information Science/Studies.,Bachelor's Degree,,,
+2015_2016,041223,Grantham University,Proprietary,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2015_2016,041223,Grantham University,Proprietary,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,041223,Grantham University,Proprietary,Management Information Systems and Services.,Bachelor's Degree,,,
 2015_2016,041223,Grantham University,Proprietary,Management Information Systems and Services.,Master's Degree,24,31573,30502
-2016_2017,041223,Grantham University,Proprietary,Management Information Systems and Services.,Bachelor's Degree,16,NA,33037
+2016_2017,041223,Grantham University,Proprietary,Management Information Systems and Services.,Bachelor's Degree,16,,33037
 2016_2017,041223,Grantham University,Proprietary,Management Information Systems and Services.,Master's Degree,59,35222,34110
-2015_2016,041223,Grantham University,Proprietary,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,NA,NA,NA
-2015_2016,041223,Grantham University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,12,NA,12944
-2015_2016,041223,Grantham University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,15,NA,33807
+2015_2016,041223,Grantham University,Proprietary,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2015_2016,041223,Grantham University,Proprietary,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,"Multi/Interdisciplinary Studies, Other.",Associate's Degree,,,
+2016_2017,041223,Grantham University,Proprietary,"Multi/Interdisciplinary Studies, Other.",Bachelor's Degree,,,
+2015_2016,041223,Grantham University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,12,,12944
+2015_2016,041223,Grantham University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,15,,33807
 2016_2017,041223,Grantham University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,24,15314,15431
 2016_2017,041223,Grantham University,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,23,34999,32938
-2015_2016,041223,Grantham University,Proprietary,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041223,Grantham University,Proprietary,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,041223,Grantham University,Proprietary,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,,,
+2016_2017,041223,Grantham University,Proprietary,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,,,

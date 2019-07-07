@@ -1,21 +1,21 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,001497,Jones College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
-2015_2016,001497,Jones College,Private,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001497,Jones College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,30084
-2016_2017,001497,Jones College,Private,Allied Health and Medical Assisting Services.,Bachelor's Degree,NA,NA,NA
+2015_2016,001497,Jones College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,,,
+2015_2016,001497,Jones College,Private,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,
+2016_2017,001497,Jones College,Private,Allied Health and Medical Assisting Services.,Associate's Degree,,,30084
+2016_2017,001497,Jones College,Private,Allied Health and Medical Assisting Services.,Bachelor's Degree,,,
 2015_2016,001497,Jones College,Private,"Business Administration, Management and Operations.",Associate's Degree,20,25863,25724
-2015_2016,001497,Jones College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,11,NA,40508
-2016_2017,001497,Jones College,Private,"Business Administration, Management and Operations.",Associate's Degree,NA,24952,25147
-2016_2017,001497,Jones College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,NA,44340,NA
-2015_2016,001497,Jones College,Private,Computer Programming.,Associate's Degree,NA,NA,NA
-2015_2016,001497,Jones College,Private,Computer Programming.,Bachelor's Degree,NA,NA,NA
-2016_2017,001497,Jones College,Private,Computer Programming.,Associate's Degree,NA,NA,NA
-2016_2017,001497,Jones College,Private,Computer Programming.,Bachelor's Degree,NA,NA,NA
-2015_2016,001497,Jones College,Private,Legal Support Services.,Associate's Degree,NA,NA,NA
-2015_2016,001497,Jones College,Private,Legal Support Services.,Bachelor's Degree,NA,NA,NA
-2016_2017,001497,Jones College,Private,Legal Support Services.,Associate's Degree,NA,NA,NA
-2016_2017,001497,Jones College,Private,Legal Support Services.,Bachelor's Degree,NA,NA,NA
-2015_2016,001497,Jones College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2016_2017,001497,Jones College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,NA,NA,NA
-2015_2016,001497,Jones College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
-2016_2017,001497,Jones College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,NA,NA,NA
+2015_2016,001497,Jones College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,11,,40508
+2016_2017,001497,Jones College,Private,"Business Administration, Management and Operations.",Associate's Degree,,24952,25147
+2016_2017,001497,Jones College,Private,"Business Administration, Management and Operations.",Bachelor's Degree,,44340,
+2015_2016,001497,Jones College,Private,Computer Programming.,Associate's Degree,,,
+2015_2016,001497,Jones College,Private,Computer Programming.,Bachelor's Degree,,,
+2016_2017,001497,Jones College,Private,Computer Programming.,Associate's Degree,,,
+2016_2017,001497,Jones College,Private,Computer Programming.,Bachelor's Degree,,,
+2015_2016,001497,Jones College,Private,Legal Support Services.,Associate's Degree,,,
+2015_2016,001497,Jones College,Private,Legal Support Services.,Bachelor's Degree,,,
+2016_2017,001497,Jones College,Private,Legal Support Services.,Associate's Degree,,,
+2016_2017,001497,Jones College,Private,Legal Support Services.,Bachelor's Degree,,,
+2015_2016,001497,Jones College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2016_2017,001497,Jones College,Private,"Liberal Arts and Sciences, General Studies and Humanities.",Bachelor's Degree,,,
+2015_2016,001497,Jones College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,
+2016_2017,001497,Jones College,Private,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,,,

@@ -1,8 +1,8 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,041400,Global Health College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,20000,20727
-2016_2017,041400,Global Health College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,NA,18166,20015
-2015_2016,041400,Global Health College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,15,NA,12846
-2016_2017,041400,Global Health College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,14,NA,12925
-2015_2016,041400,Global Health College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
-2016_2017,041400,Global Health College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,NA,NA
-2016_2017,041400,Global Health College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,NA,NA,NA
+2015_2016,041400,Global Health College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,20000,20727
+2016_2017,041400,Global Health College,Proprietary,Allied Health and Medical Assisting Services.,Associate's Degree,,18166,20015
+2015_2016,041400,Global Health College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,15,,12846
+2016_2017,041400,Global Health College,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,14,,12925
+2015_2016,041400,Global Health College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
+2016_2017,041400,Global Health College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,,
+2016_2017,041400,Global Health College,Proprietary,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,,,

@@ -1,11 +1,11 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,001544,Albany State University,Public,Accounting and Related Services.,Bachelor's Degree,27,45250,40764
-2016_2017,001544,Albany State University,Public,Accounting and Related Services.,Bachelor's Degree,NA,36000,38747
-2015_2016,001544,Albany State University,Public,Allied Health and Medical Assisting Services.,Associate's Degree,NA,NA,NA
+2016_2017,001544,Albany State University,Public,Accounting and Related Services.,Bachelor's Degree,,36000,38747
+2015_2016,001544,Albany State University,Public,Allied Health and Medical Assisting Services.,Associate's Degree,,,
 2016_2017,001544,Albany State University,Public,Allied Health and Medical Assisting Services.,Associate's Degree,29,11563,11750
-2015_2016,001544,Albany State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001544,Albany State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,001544,Albany State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
+2015_2016,001544,Albany State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,,,
+2016_2017,001544,Albany State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
 2016_2017,001544,Albany State University,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,28,20457,20476
 2015_2016,001544,Albany State University,Public,"Biology, General.",Bachelor's Degree,59,33000,36953
 2016_2017,001544,Albany State University,Public,"Biology, General.",Bachelor's Degree,66,35500,38054
@@ -13,94 +13,94 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2015_2016,001544,Albany State University,Public,"Business Administration, Management and Operations.",Master's Degree,49,34750,39851
 2016_2017,001544,Albany State University,Public,"Business Administration, Management and Operations.",Bachelor's Degree,145,36000,37838
 2016_2017,001544,Albany State University,Public,"Business Administration, Management and Operations.",Master's Degree,52,35125,36135
-2015_2016,001544,Albany State University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Chemistry.,Bachelor's Degree,NA,NA,NA
-2015_2016,001544,Albany State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001544,Albany State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,16,NA,14751
+2015_2016,001544,Albany State University,Public,Chemistry.,Bachelor's Degree,,,
+2016_2017,001544,Albany State University,Public,Chemistry.,Bachelor's Degree,,,
+2015_2016,001544,Albany State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2015_2016,001544,Albany State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,,,
+2016_2017,001544,Albany State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
+2016_2017,001544,Albany State University,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,16,,14751
 2015_2016,001544,Albany State University,Public,Communication and Media Studies.,Bachelor's Degree,44,38798,39151
-2016_2017,001544,Albany State University,Public,Communication and Media Studies.,Bachelor's Degree,NA,33750,36180
-2015_2016,001544,Albany State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,15,NA,35905
+2016_2017,001544,Albany State University,Public,Communication and Media Studies.,Bachelor's Degree,,33750,36180
+2015_2016,001544,Albany State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,15,,35905
 2016_2017,001544,Albany State University,Public,"Computer and Information Sciences, General.",Bachelor's Degree,23,40250,37208
 2015_2016,001544,Albany State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,136,37585,38485
 2015_2016,001544,Albany State University,Public,Criminal Justice and Corrections.,Master's Degree,37,43750,52631
-2016_2017,001544,Albany State University,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,001544,Albany State University,Public,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,,,
 2016_2017,001544,Albany State University,Public,Criminal Justice and Corrections.,Bachelor's Degree,138,37156,37204
 2016_2017,001544,Albany State University,Public,Criminal Justice and Corrections.,Master's Degree,26,47975,52147
-2015_2016,001544,Albany State University,Public,Dental Support Services and Allied Professions.,Associate's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Dental Support Services and Allied Professions.,Associate's Degree,NA,NA,NA
+2015_2016,001544,Albany State University,Public,Dental Support Services and Allied Professions.,Associate's Degree,,,
+2016_2017,001544,Albany State University,Public,Dental Support Services and Allied Professions.,Associate's Degree,,,
 2015_2016,001544,Albany State University,Public,"Education, Other.",Bachelor's Degree,66,35483,35710
 2016_2017,001544,Albany State University,Public,"Education, Other.",Bachelor's Degree,67,34750,36748
-2015_2016,001544,Albany State University,Public,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2015_2016,001544,Albany State University,Public,Educational Administration and Supervision.,First Professional Degree,NA,51685,50756
-2015_2016,001544,Albany State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Educational Administration and Supervision.,Master's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Educational Administration and Supervision.,First Professional Degree,NA,39265,49949
-2016_2017,001544,Albany State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,NA,NA,NA
-2015_2016,001544,Albany State University,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,"English Language and Literature, General.",Bachelor's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001544,Albany State University,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,33168
-2016_2017,001544,Albany State University,Public,Fine and Studio Arts.,Bachelor's Degree,NA,NA,33812
-2015_2016,001544,Albany State University,Public,Fire Protection.,Bachelor's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Fire Protection.,Bachelor's Degree,NA,NA,NA
-2015_2016,001544,Albany State University,Public,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Health and Medical Administrative Services.,Associate's Degree,16,NA,20629
-2015_2016,001544,Albany State University,Public,History.,Bachelor's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,History.,Bachelor's Degree,NA,NA,42837
-2015_2016,001544,Albany State University,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Legal Support Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Legal Support Services.,Associate's Degree,NA,NA,NA
-2015_2016,001544,Albany State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,NA,16587,17327
+2015_2016,001544,Albany State University,Public,Educational Administration and Supervision.,Master's Degree,,,
+2015_2016,001544,Albany State University,Public,Educational Administration and Supervision.,First Professional Degree,,51685,50756
+2015_2016,001544,Albany State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2016_2017,001544,Albany State University,Public,Educational Administration and Supervision.,Master's Degree,,,
+2016_2017,001544,Albany State University,Public,Educational Administration and Supervision.,First Professional Degree,,39265,49949
+2016_2017,001544,Albany State University,Public,Educational Administration and Supervision.,Graduate/Professional Certificate,,,
+2015_2016,001544,Albany State University,Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001544,Albany State University,Public,"English Language and Literature, General.",Bachelor's Degree,,,
+2016_2017,001544,Albany State University,Public,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,,,
+2015_2016,001544,Albany State University,Public,Fine and Studio Arts.,Bachelor's Degree,,,33168
+2016_2017,001544,Albany State University,Public,Fine and Studio Arts.,Bachelor's Degree,,,33812
+2015_2016,001544,Albany State University,Public,Fire Protection.,Bachelor's Degree,,,
+2016_2017,001544,Albany State University,Public,Fire Protection.,Bachelor's Degree,,,
+2015_2016,001544,Albany State University,Public,Health and Medical Administrative Services.,Associate's Degree,,,
+2016_2017,001544,Albany State University,Public,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,001544,Albany State University,Public,Health and Medical Administrative Services.,Associate's Degree,16,,20629
+2015_2016,001544,Albany State University,Public,History.,Bachelor's Degree,,,
+2016_2017,001544,Albany State University,Public,History.,Bachelor's Degree,,,42837
+2015_2016,001544,Albany State University,Public,Legal Support Services.,Associate's Degree,,,
+2016_2017,001544,Albany State University,Public,Legal Support Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,001544,Albany State University,Public,Legal Support Services.,Associate's Degree,,,
+2015_2016,001544,Albany State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,,16587,17327
 2016_2017,001544,Albany State University,Public,"Liberal Arts and Sciences, General Studies and Humanities.",Associate's Degree,215,16000,17613
-2015_2016,001544,Albany State University,Public,Management Information Systems and Services.,Bachelor's Degree,17,NA,37873
-2016_2017,001544,Albany State University,Public,Management Information Systems and Services.,Bachelor's Degree,18,NA,34844
+2015_2016,001544,Albany State University,Public,Management Information Systems and Services.,Bachelor's Degree,17,,37873
+2016_2017,001544,Albany State University,Public,Management Information Systems and Services.,Bachelor's Degree,18,,34844
 2015_2016,001544,Albany State University,Public,Marketing.,Bachelor's Degree,22,40658,39761
 2016_2017,001544,Albany State University,Public,Marketing.,Bachelor's Degree,22,42000,42511
-2015_2016,001544,Albany State University,Public,Mathematics.,Bachelor's Degree,15,NA,35505
-2016_2017,001544,Albany State University,Public,Mathematics.,Bachelor's Degree,18,NA,36108
-2016_2017,001544,Albany State University,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,NA,NA,NA
-2015_2016,001544,Albany State University,Public,Music.,Bachelor's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Music.,Bachelor's Degree,NA,NA,NA
+2015_2016,001544,Albany State University,Public,Mathematics.,Bachelor's Degree,15,,35505
+2016_2017,001544,Albany State University,Public,Mathematics.,Bachelor's Degree,18,,36108
+2016_2017,001544,Albany State University,Public,"Multi-/Interdisciplinary Studies, General.",Bachelor's Degree,,,
+2015_2016,001544,Albany State University,Public,Music.,Bachelor's Degree,,,
+2016_2017,001544,Albany State University,Public,Music.,Bachelor's Degree,,,
 2015_2016,001544,Albany State University,Public,Political Science and Government.,Bachelor's Degree,29,35000,36569
-2016_2017,001544,Albany State University,Public,Political Science and Government.,Bachelor's Degree,NA,36000,34513
+2016_2017,001544,Albany State University,Public,Political Science and Government.,Bachelor's Degree,,36000,34513
 2015_2016,001544,Albany State University,Public,"Psychology, General.",Bachelor's Degree,58,37750,38598
 2016_2017,001544,Albany State University,Public,"Psychology, General.",Bachelor's Degree,62,33937,36131
 2015_2016,001544,Albany State University,Public,Public Administration.,Master's Degree,34,61500,64138
 2016_2017,001544,Albany State University,Public,Public Administration.,Master's Degree,30,68295,68359
-2015_2016,001544,Albany State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,NA,18875,19653
+2015_2016,001544,Albany State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,,18875,19653
 2015_2016,001544,Albany State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,47,26000,28493
 2015_2016,001544,Albany State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,32,56857,55964
 2016_2017,001544,Albany State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,139,18987,18604
 2016_2017,001544,Albany State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Bachelor's Degree,60,29375,29760
 2016_2017,001544,Albany State University,Public,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Master's Degree,21,46874,44291
-2015_2016,001544,Albany State University,Public,Religious/Sacred Music.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Religious/Sacred Music.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001544,Albany State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,NA,NA,NA
-2015_2016,001544,Albany State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,NA,NA,NA
-2015_2016,001544,Albany State University,Public,Social Work.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,001544,Albany State University,Public,Social Work.,Associate's Degree,NA,NA,NA
+2015_2016,001544,Albany State University,Public,Religious/Sacred Music.,Undergraduate Certificate or Diploma,,,
+2016_2017,001544,Albany State University,Public,Religious/Sacred Music.,Undergraduate Certificate or Diploma,,,
+2015_2016,001544,Albany State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2016_2017,001544,Albany State University,Public,Rhetoric and Composition/Writing Studies.,Bachelor's Degree,,,
+2015_2016,001544,Albany State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2016_2017,001544,Albany State University,Public,"Romance Languages, Literatures, and Linguistics.",Bachelor's Degree,,,
+2015_2016,001544,Albany State University,Public,Social Work.,Undergraduate Certificate or Diploma,,,
+2015_2016,001544,Albany State University,Public,Social Work.,Associate's Degree,,,
 2015_2016,001544,Albany State University,Public,Social Work.,Bachelor's Degree,55,40715,39376
 2015_2016,001544,Albany State University,Public,Social Work.,Master's Degree,30,51318,52977
 2016_2017,001544,Albany State University,Public,Social Work.,Bachelor's Degree,47,42200,39700
 2016_2017,001544,Albany State University,Public,Social Work.,Master's Degree,40,68049,62024
 2015_2016,001544,Albany State University,Public,Sociology.,Bachelor's Degree,43,41350,41508
 2016_2017,001544,Albany State University,Public,Sociology.,Bachelor's Degree,34,40521,40195
-2015_2016,001544,Albany State University,Public,Special Education and Teaching.,Bachelor's Degree,15,NA,33598
-2015_2016,001544,Albany State University,Public,Special Education and Teaching.,Master's Degree,10,NA,53819
-2016_2017,001544,Albany State University,Public,Special Education and Teaching.,Bachelor's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Special Education and Teaching.,Master's Degree,16,NA,48758
-2015_2016,001544,Albany State University,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,Student Counseling and Personnel Services.,Master's Degree,NA,NA,NA
+2015_2016,001544,Albany State University,Public,Special Education and Teaching.,Bachelor's Degree,15,,33598
+2015_2016,001544,Albany State University,Public,Special Education and Teaching.,Master's Degree,10,,53819
+2016_2017,001544,Albany State University,Public,Special Education and Teaching.,Bachelor's Degree,,,
+2016_2017,001544,Albany State University,Public,Special Education and Teaching.,Master's Degree,16,,48758
+2015_2016,001544,Albany State University,Public,Student Counseling and Personnel Services.,Master's Degree,,,
+2016_2017,001544,Albany State University,Public,Student Counseling and Personnel Services.,Master's Degree,,,
 2015_2016,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,83,39722,38945
 2015_2016,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,45,49912,46098
 2016_2017,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Bachelor's Degree,60,33376,35802
 2016_2017,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Levels and Methods.",Master's Degree,51,44146,44953
-2015_2016,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,37649
-2015_2016,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
-2016_2017,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,NA,NA,36847
-2016_2017,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,NA,NA,NA
+2015_2016,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,37649
+2015_2016,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,
+2016_2017,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Bachelor's Degree,,,36847
+2016_2017,001544,Albany State University,Public,"Teacher Education and Professional Development, Specific Subject Areas.",Master's Degree,,,

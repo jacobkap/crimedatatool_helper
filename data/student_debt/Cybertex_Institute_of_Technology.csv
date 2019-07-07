@@ -1,15 +1,15 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,041878,Cybertex Institute of Technology,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,5678,5699
-2016_2017,041878,Cybertex Institute of Technology,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,6547,5806
-2015_2016,041878,Cybertex Institute of Technology,Proprietary,Basic Skills and Developmental/Remedial Education.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041878,Cybertex Institute of Technology,Proprietary,Basic Skills and Developmental/Remedial Education.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041878,Cybertex Institute of Technology,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041878,Cybertex Institute of Technology,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041878,Cybertex Institute of Technology,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,NA,7917,6799
+2015_2016,041878,Cybertex Institute of Technology,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,5678,5699
+2016_2017,041878,Cybertex Institute of Technology,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,6547,5806
+2015_2016,041878,Cybertex Institute of Technology,Proprietary,Basic Skills and Developmental/Remedial Education.,Undergraduate Certificate or Diploma,,,
+2016_2017,041878,Cybertex Institute of Technology,Proprietary,Basic Skills and Developmental/Remedial Education.,Undergraduate Certificate or Diploma,,,
+2015_2016,041878,Cybertex Institute of Technology,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,041878,Cybertex Institute of Technology,Proprietary,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,041878,Cybertex Institute of Technology,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,,7917,6799
 2016_2017,041878,Cybertex Institute of Technology,Proprietary,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,30,7917,6515
-2015_2016,041878,Cybertex Institute of Technology,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041878,Cybertex Institute of Technology,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041878,Cybertex Institute of Technology,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,041878,Cybertex Institute of Technology,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041878,Cybertex Institute of Technology,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,041878,Cybertex Institute of Technology,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2016_2017,041878,Cybertex Institute of Technology,Proprietary,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,,,
+2015_2016,041878,Cybertex Institute of Technology,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2016_2017,041878,Cybertex Institute of Technology,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,041878,Cybertex Institute of Technology,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,,,
 2016_2017,041878,Cybertex Institute of Technology,Proprietary,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,49,20000,18987

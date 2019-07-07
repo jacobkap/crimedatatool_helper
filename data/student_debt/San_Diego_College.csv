@@ -1,9 +1,9 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
-2015_2016,041345,San Diego College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,9077,8422
-2016_2017,041345,San Diego College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,041345,San Diego College,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,8226
-2016_2017,041345,San Diego College,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,041345,San Diego College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,9077,8422
+2016_2017,041345,San Diego College,Proprietary,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,,,
+2015_2016,041345,San Diego College,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,,,8226
+2016_2017,041345,San Diego College,Proprietary,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,,,
 2015_2016,041345,San Diego College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,27,9077,8783
-2015_2016,041345,San Diego College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,11007,10446
-2016_2017,041345,San Diego College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,NA,NA,8548
-2016_2017,041345,San Diego College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,NA,NA,NA
+2015_2016,041345,San Diego College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,11007,10446
+2016_2017,041345,San Diego College,Proprietary,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,,,8548
+2016_2017,041345,San Diego College,Proprietary,Health and Medical Administrative Services.,Associate's Degree,,,

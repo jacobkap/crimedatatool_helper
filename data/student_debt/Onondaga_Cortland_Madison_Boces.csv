@@ -1,24 +1,24 @@
 cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_in_cohort,median_debt,mean_debt
 2015_2016,012652,Onondaga Cortland Madison Boces,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,147,5232,5867
 2016_2017,012652,Onondaga Cortland Madison Boces,Public,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,121,5232,5881
-2015_2016,012652,Onondaga Cortland Madison Boces,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,6668
-2016_2017,012652,Onondaga Cortland Madison Boces,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012652,Onondaga Cortland Madison Boces,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,6668
+2016_2017,012652,Onondaga Cortland Madison Boces,Public,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,,,
 2015_2016,012652,Onondaga Cortland Madison Boces,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,63,7221,6979
 2016_2017,012652,Onondaga Cortland Madison Boces,Public,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,51,7276,7031
-2015_2016,012652,Onondaga Cortland Madison Boces,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,NA,NA,NA
+2015_2016,012652,Onondaga Cortland Madison Boces,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,,,
 2016_2017,012652,Onondaga Cortland Madison Boces,Public,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,20,6059,5913
-2015_2016,012652,Onondaga Cortland Madison Boces,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012652,Onondaga Cortland Madison Boces,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012652,Onondaga Cortland Madison Boces,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2016_2017,012652,Onondaga Cortland Madison Boces,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,13,NA,6274
-2015_2016,012652,Onondaga Cortland Madison Boces,Public,"Construction Trades, Other.",Undergraduate Certificate or Diploma,NA,6174,6302
-2016_2017,012652,Onondaga Cortland Madison Boces,Public,"Construction Trades, Other.",Undergraduate Certificate or Diploma,NA,NA,6162
+2015_2016,012652,Onondaga Cortland Madison Boces,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2016_2017,012652,Onondaga Cortland Madison Boces,Public,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,,,
+2015_2016,012652,Onondaga Cortland Madison Boces,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,,,
+2016_2017,012652,Onondaga Cortland Madison Boces,Public,"Construction Trades, General.",Undergraduate Certificate or Diploma,13,,6274
+2015_2016,012652,Onondaga Cortland Madison Boces,Public,"Construction Trades, Other.",Undergraduate Certificate or Diploma,,6174,6302
+2016_2017,012652,Onondaga Cortland Madison Boces,Public,"Construction Trades, Other.",Undergraduate Certificate or Diploma,,,6162
 2015_2016,012652,Onondaga Cortland Madison Boces,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,68,5500,6087
-2016_2017,012652,Onondaga Cortland Madison Boces,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,NA,8692,7719
+2016_2017,012652,Onondaga Cortland Madison Boces,Public,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,,8692,7719
 2015_2016,012652,Onondaga Cortland Madison Boces,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,61,4766,5809
 2016_2017,012652,Onondaga Cortland Madison Boces,Public,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,60,4766,5892
-2015_2016,012652,Onondaga Cortland Madison Boces,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,15,NA,6336
-2016_2017,012652,Onondaga Cortland Madison Boces,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,15,NA,5774
+2015_2016,012652,Onondaga Cortland Madison Boces,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,15,,6336
+2016_2017,012652,Onondaga Cortland Madison Boces,Public,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,15,,5774
 2015_2016,012652,Onondaga Cortland Madison Boces,Public,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,72,5892,6029
 2016_2017,012652,Onondaga Cortland Madison Boces,Public,Electrical/Electronics Maintenance and Repair Technology.,Undergraduate Certificate or Diploma,65,5520,5737
 2015_2016,012652,Onondaga Cortland Madison Boces,Public,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,75,5064,5355
@@ -27,7 +27,7 @@ cohort,school_ID_num,school_name,school_type,program,degree_type,number_people_i
 2016_2017,012652,Onondaga Cortland Madison Boces,Public,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,162,9500,8266
 2015_2016,012652,Onondaga Cortland Madison Boces,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,34,4961,5706
 2016_2017,012652,Onondaga Cortland Madison Boces,Public,Precision Metal Working.,Undergraduate Certificate or Diploma,41,7163,6104
-2016_2017,012652,Onondaga Cortland Madison Boces,Public,"Precision Production Trades, General.",Undergraduate Certificate or Diploma,NA,NA,NA
-2015_2016,012652,Onondaga Cortland Madison Boces,Public,"Precision Production, Other.",Undergraduate Certificate or Diploma,NA,NA,NA
+2016_2017,012652,Onondaga Cortland Madison Boces,Public,"Precision Production Trades, General.",Undergraduate Certificate or Diploma,,,
+2015_2016,012652,Onondaga Cortland Madison Boces,Public,"Precision Production, Other.",Undergraduate Certificate or Diploma,,,
 2015_2016,012652,Onondaga Cortland Madison Boces,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,20,6887,6227
 2016_2017,012652,Onondaga Cortland Madison Boces,Public,Vehicle Maintenance and Repair Technologies.,Undergraduate Certificate or Diploma,24,8277,7003
