@@ -5,6 +5,7 @@ hate_crimes <-
   dplyr::filter(hate_crime_incident_present_flag %in%
                   "one or more hate crime incidents present") %>%
   dplyr::select(ori9,
+                population,
                 state,
                 year,
                 agency_name,
@@ -50,6 +51,7 @@ hate_crimes <-
   dplyr::group_by(ORI,
                   state,
                   agency,
+                  population,
                   year,
                   year_month) %>%
   dplyr::summarize_all(sum) %>%
