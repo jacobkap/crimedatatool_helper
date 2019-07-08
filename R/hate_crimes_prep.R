@@ -13,7 +13,7 @@ hate_crimes <-
                 starts_with("bias_motivation"),
                 -matches("_2|_3|_4|_5|_6|_7|_8|_9|_10")) %>%
   dplyr::rename(agency = agency_name,
-                ORI9 = ori9)
+                ORI = ori9)
 
 # 96.63% of cases have only 1 offenses/bias motivations
 # 99.78% of cases have only 1 or two offenses/bias motivations
@@ -47,7 +47,7 @@ hate_crimes <-
   dplyr::select(-offense,
                 -bias_motivation,
                 -date) %>%
-  dplyr::group_by(ORI9,
+  dplyr::group_by(ORI,
                   state,
                   agency,
                   year,
@@ -67,7 +67,7 @@ anti_columns <- sort(anti_columns)
 
 hate_crimes <-
   hate_crimes %>%
-  dplyr::select(ORI9,
+  dplyr::select(ORI,
                 state,
                 agency,
                 year,

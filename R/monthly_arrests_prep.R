@@ -55,6 +55,7 @@ for (year in 1974:2016) {
 
 
 make_monthly_agency_csvs(type = "arrests")
+
 setwd(here::here("data/arrests"))
 files <- list.files(pattern = "largest_agency_choices")
 file.copy(files, paste0(here::here("data/arrests_monthly/")))
