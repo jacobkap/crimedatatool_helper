@@ -1,5 +1,5 @@
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/raw_data")
-source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
+setwd(here::here("data/raw_data"))
+source(here::here('R/utils.R'))
 
 
 death_totals <- clean_cdc_data("Underlying Cause of Death_intent, 1999-2017.txt",
@@ -23,7 +23,7 @@ data <- data.table::dcast(setDT(data), year+state+population~cause_of_death,
                                         'crude_rate',
                                         "age_adjusted_rate"))
 
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/death")
+setwd(here::here("data/death"))
 save_state_data(data, "death")
 
 clean_cdc_data <- function(file_name, split_fixed_num) {
@@ -59,30 +59,8 @@ clean_cdc_data <- function(file_name, split_fixed_num) {
   return(data)
 }
 
-clean_cdc_colnames <- function(data) {
-  names(data) <- data[1, ]
-  data <- data[-1, ]
-  names(data) <- gsub("\\ ", "_", names(data))
-  names(data) <- tolower(names(data))
-  return(data)
-}
 
 
 
 
-cause_of_death_fix <- c(
-  "^Alcohol-induced causes$"                                     = "alcohol_total",
-  "^Alcohol poisonings \\(overdose\\) \\(X45, X65, Y15\\)$"      = "alcohol_overdose",
-  "^All other alcohol-induced causes$"                           = "alcohol_all_other",
-  "^All other drug-induced causes$"                              = "drugs_all_other",
-  "^Drug-induced causes$"                                        = "drugs_total",
-  "^Drug and Alcohol - Total$"                                   = "drugs_and_alcohol_total",
-  "^Drug poisonings \\(overdose\\) Homicide \\(X85\\)$"          = "drugs_overdose_homicide",
-  "^Drug poisonings \\(overdose\\) Suicide \\(X60-X64\\)$"       = "drugs_overdose_suicide",
-  "^Drug poisonings \\(overdose\\) Undetermined \\(Y10-Y14\\)$"  = "drugs_overdose_undetermined",
-  "^Drug poisonings \\(overdose\\) Unintentional \\(X40-X44\\)$" = "drugs_overdose_unintentional",
-  "^Unintentional$" = "total_unintentional",
-  "^Suicide$"       = "total_suicide",
-  "^Homicide$"      = "total_homicide",
-  "^Undetermined$"  = "total_undetermined"
-)
+

@@ -1,4 +1,5 @@
 load(here::here("data/crosswalk_agencies.rda"))
+source(here::here("R/utils_objects.R"))
 library(tidyverse)
 library(data.table)
 library(fastDummies)
@@ -9,55 +10,12 @@ library(dplyr)
 library(stringr)
 library(lubridate)
 
-hate_crimes_offenses_fix <- c(
-  "^aggravated assault"                                  = "violent",
-  "^all other larceny"                                   = "nonviolent",
-  "^arson"                                               = "nonviolent",
-  "^assisting or promoting prostitution"                 = "sexual",
-  "^bribery"                                             = "nonviolent",
-  "^burglary/breaking and entering"                      = "nonviolent",
-  "^counterfeiting/forgery"                              = "nonviolent",
-  "^credit card/atm fraud"                               = "nonviolent",
-  "^destruction of property/vandalism"                   = "nonviolent",
-  "^drug equipment violations"                           = "nonviolent",
-  "^drug/narcotic violations"                            = "nonviolent",
-  "^embezzlement"                                        = "nonviolent",
-  "^extortion/blackmail"                                 = "nonviolent",
-  "^false pretenses/swindle/confidence game"             = "nonviolent",
-  "^forcible fondling - indecent liberties/child molest" = "sexual",
-  "^forcible rape"                                       = "sexual",
-  "^forcible sodomy"                                     = "sexual",
-  "^human trafficking - commercial sex acts"             = "sexual",
-  "^impersonation"                                       = "nonviolent",
-  "^incest"                                              = "sexual",
-  "^intimidation"                                        = "violent",
-  "^kidnapping/abduction"                                = "violent",
-  "^motor vehicle theft"                                 = "nonviolent",
-  "^murder/non-negligent manslaughter"                   = "violent",
-  "^negligent manslaughter"                              = "violent",
-  "^pocket-picking"                                      = "nonviolent",
-  "^pornography/obscene material"                        = "sexual",
-  "^prostitution"                                        = "sexual",
-  "^purchasing prostitution"                             = "sexual",
-  "^purse-snatching"                                     = "nonviolent",
-  "^robbery"                                             = "violent",
-  "^sexual assault with an object"                       = "sexual",
-  "^shoplifting"                                         = "nonviolent",
-  "^simple assault"                                      = "violent",
-  "^statutory rape"                                      = "sexual",
-  "^stolen property offenses - receiving, selling, etc." = "nonviolent",
-  "^theft from building"                                 = "nonviolent",
-  "^theft from coin-operated machine or device"          = "nonviolent",
-  "^theft from motor vehicle"                            = "nonviolent",
-  "^theft of motor vehicle parts/accessories"            = "nonviolent",
-  "^weapon law violations"                               = "nonviolent",
-  "^welfare fraud"                                       = "nonviolent",
-  "^wire fraud"                                          = "nonviolent"
-)
-
 
 states <- c(tolower(state.name), "district of columbia")
 
+make_all_0 <- function(col) {
+  col <- 0
+}
 
 remove_duplicate_capitalize_names <- function(data) {
   z = data[!duplicated(data$ORI),]
@@ -66,6 +24,7 @@ remove_duplicate_capitalize_names <- function(data) {
   data <- data[!data$ORI %in% z$ORI, ]
   data$agency <- sapply(data$agency, simpleCap)
   data$state  <- sapply(data$state,  simpleCap)
+  data$state  <- gsub("D.c.", "D.C.", data$state)
 
   return(data)
 }
@@ -131,34 +90,6 @@ reorder_leoka <- function(data) {
   return(data)
 }
 
-leoka_make_agency_csvs <- function(data) {
-  data <- data.table::data.table(data)
-  pb <- txtProgressBar(min = 0, max = length(unique(data$ORI)), style = 3)
-  for (selected_ori in sort(unique(data$ORI))) {
-    temp   <- data[ORI %in% selected_ori]
-
-    if (any(temp$number_of_months_reported %in% 12)) {
-
-      temp   <- na_non_12_month_rows(temp)
-      temp   <- dummy_rows_missing_years(temp)
-      temp$number_of_months_reported <- NULL
-
-      state  <- unique(temp$state)
-      agency <- unique(temp$agency)
-      state  <- gsub(" ", "_", state)
-      agency <- gsub(" |:", "_", agency)
-      agency <- gsub("/", "_", agency)
-      agency <- gsub("_+", "_", agency)
-
-      readr::write_csv(temp,
-                       path = paste0(state, "_", agency, ".csv"))
-      setTxtProgressBar(pb, i)    # update progress bar
-
-    }
-  }
-  close(pb)
-
-}
 
 combine_sex_race_arrests <- function(sex_arrests,
                                      race_arrests,
@@ -244,12 +175,23 @@ make_agency_csvs <- function(data, type = "year") {
 }
 
 
+make_csv_test <- function(temp, type) {
+  temp   <- dummy_rows_missing_years(temp, type = type)
+
+  state  <- unique(temp$state)
+  agency <- unique(temp$agency)
+  state  <- gsub(" ", "_", state)
+  agency <- gsub(" |:", "_", agency)
+  agency <- gsub("/", "_", agency)
+  agency <- gsub("_+", "_", agency)
+  agency <- agency[1]
+  data.table::fwrite(temp, file = paste0(state, "_", agency, ".csv"))
+}
 
 make_monthly_agency_csvs <- function(type) {
 
   for (state_group in 1:length(states)) {
-    #setwd(here::here("data/temp"))
-    setwd("~/crimedatatool_helper/data/temp")
+    setwd(here::here("data/temp"))
     load(paste0("monthly_", type, "_state_group_", state_group, ".rda"))
 
     temp_state <- remove_duplicate_capitalize_names(temp_state)
@@ -257,9 +199,7 @@ make_monthly_agency_csvs <- function(type) {
       temp_state %>%
       dplyr::filter(!is.na(temp_state$year))
 
-    # setwd(here::here(paste0("data/", type, "_monthly")))
-
-    setwd(paste0("~/crimedatatool_helper/data/", type, "_monthly"))
+    setwd(here::here(paste0("data/", type, "_monthly")))
     agency <- unique(temp_state$agency)
     agency <- jsonlite::toJSON(agency, pretty = FALSE)
     write(agency, paste0(unique(temp_state$state), "_agency_choices.json"))
@@ -274,17 +214,7 @@ make_monthly_agency_csvs <- function(type) {
 }
 
 
-make_csv_test <- function(temp, type) {
-  temp   <- dummy_rows_missing_years(temp, type = type)
 
-  state  <- unique(temp$state)
-  agency <- unique(temp$agency)
-  state  <- gsub(" ", "_", state)
-  agency <- gsub(" |:", "_", agency)
-  agency <- gsub("/", "_", agency)
-  agency <- gsub("_+", "_", agency)
-  data.table::fwrite(temp, file = paste0(state, "_", agency, ".csv"))
-}
 
 save_monthly_state_temp <- function(data, start_year, type) {
   # setwd(here::here("data/temp"))
@@ -314,9 +244,14 @@ dummy_rows_missing_years <- function(data, type) {
   if (type == "year") {
     missing_years <- min(data$year):max(data$year)
   } else {
-    missing_years <- seq.Date(lubridate::ymd(min(data$year)),
-                              lubridate::ymd(max(data$year)),
+    min_year <- lubridate::ymd(min(data$year))
+    min_year <- floor_date(min_year, "year")
+    max_year <- lubridate::year(lubridate::ymd(max(data$year)))
+    max_year <- ymd(paste0(max_year, "-12-", "1"))
+    missing_years <- seq.Date(min_year,
+                              max_year,
                               by = "month")
+
     missing_years <- as.character(missing_years)
   }
 
@@ -395,76 +330,21 @@ save_state_data <- function(data, save_type) {
     save_state     <- unique(temp$state)
     save_state     <- gsub(" ", "_", save_state)
 
-    readr::write_csv(temp,
-                     path = paste0(save_state, "_", save_type, ".csv"))
+    data.table::fwrite(temp,
+                       file = paste0(save_state, "_", save_type, ".csv"))
   }
+}
+
+clean_cdc_colnames <- function(data) {
+  names(data) <- data[1, ]
+  data <- data[-1, ]
+  names(data) <- gsub("\\ ", "_", names(data))
+  names(data) <- tolower(names(data))
+  return(data)
 }
 
 make_numeric <- function(x) {
   x <- suppressWarnings(readr::parse_number(x))
   return(x)
 }
-
-starting_cols <- c("agency",
-                   "year",
-                   "state",
-                   "population",
-                   "ORI")
-
-ucr_to_drop <- c("state_abb",
-                 "ORI9",
-                 "FIPS_state_code",
-                 "FIPS_county_code",
-                 "months_reported",
-                 "fips_state_county_code",
-                 "fips_place_code",
-                 "fips_state_place_code",
-                 "division",
-                 "core_city_indication",
-                 "covered_by_code",
-                 "population_1",
-                 "county_1",
-                 "msa_1",
-                 "population_2",
-                 "county_2",
-                 "msa_2",
-                 "population_3",
-                 "county_3",
-                 "msa_3",
-                 "followup_indication",
-                 "special_mailing_group",
-                 "special_mailing_address",
-                 "mailing_address_line_1",
-                 "mailing_address_line_2",
-                 "mailing_address_line_3",
-                 "mailing_address_line_4",
-                 "agency_type",
-                 "agency_subtype_1",
-                 "agency_subtype_2",
-                 "group_number",
-                 "agency_state_name",
-                 "agency_name",
-                 "field_office",
-                 "total_population",
-                 "city_sequence_number",
-                 "last_update",
-                 "field_office",
-                 "zip_code")
-
-arrests_to_drop <- c("ori9",
-                     "agency_name",
-                     "state_abb",
-                     "fips_state_code",
-                     "fips_county_code",
-                     "fips_state_county_code",
-                     "fips_place_code",
-                     "fips_state_place_code",
-                     "agency_type",
-                     "agency_subtype_1",
-                     "agency_subtype_2",
-                     "group",
-                     "geographic_division",
-                     "suburban_agency",
-                     "core_city",
-                     "covered_by_another_agency")
 
