@@ -1,7 +1,8 @@
 load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/hate_crimes/ucr_hate_crimes_1991_2017.rda")
 source(here::here('R/utils.R'))
 
-type = "year"
+#type = "year"
+type = "month"
 
 # Fewer than 0.005% of UCR offenses (10 from 1992-2017) are NA
 hate_crimes <-
@@ -118,5 +119,6 @@ hate_crimes$state  <- gsub("Washington D.C.",
 
 
 make_state_agency_choices(hate_crimes)
-make_agency_csvs(hate_crimes)
 make_largest_agency_json(hate_crimes)
+
+make_agency_csvs(hate_crimes, type = type)
