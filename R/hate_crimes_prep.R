@@ -109,7 +109,6 @@ hate_crimes <-
   dplyr::select(starting_cols,
                 ends_with("_violent"),
                 ends_with("_nonviolent"),
-                ends_with("_sexual"),
                 ends_with("_total"))
 hate_crimes <- remove_duplicate_capitalize_names(hate_crimes)
 hate_crimes$agency <- gsub(":", "", hate_crimes$agency)
