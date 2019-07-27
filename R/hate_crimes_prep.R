@@ -1,12 +1,15 @@
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/hate_crimes/ucr_hate_crimes_1992_2017.rda")
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/hate_crimes/ucr_hate_crimes_1991_2017.rda")
 source(here::here('R/utils.R'))
 
-# Fewer than 0.005% of crimes (10 from 1992-2017) are NA
+type = "year"
+
+# Fewer than 0.005% of UCR offenses (10 from 1992-2017) are NA
 hate_crimes <-
-  ucr_hate_crimes_1992_2017 %>%
+  ucr_hate_crimes_1991_2017 %>%
   dplyr::filter(hate_crime_incident_present_flag %in%
                   "one or more hate crime incidents present",
                 !is.na(ucr_offense_code_1)) %>%
+  dplyr::rename(date = incident_date) %>%
   dplyr::select(ori9,
                 population,
                 state,
@@ -18,7 +21,7 @@ hate_crimes <-
                 -matches("_2|_3|_4|_5|_6|_7|_8|_9|_10")) %>%
   dplyr::rename(agency = crosswalk_agency_name,
                 ORI = ori9)
-
+rm(ucr_hate_crimes_1991_2017); gc()
 # 96.63% of cases have only 1 offenses/bias motivations
 # 99.78% of cases have only 1 or two offenses/bias motivations
 
@@ -28,8 +31,7 @@ hate_crimes <-
                 bias_motivation = bias_motivation_offense_1) %>%
   dplyr::select(-matches("_[0-9]")) %>%
   dplyr::filter(!is.na(offense),
-                offense != "23*",
-                offense != "26g") %>%
+                agency != "NANA") %>%
   dplyr::mutate(offense = stringr::str_replace_all(offense,
                                                    hate_crimes_offenses_fix)) %>%
   fastDummies::dummy_cols(select_columns = c("offense",
@@ -49,7 +51,7 @@ hate_crimes <-
   dplyr::select(-matches("^offense_|^bias_motivation_")) %>%
   dplyr::mutate(year_month = floor_date(ymd(date), "month"))
 
-if (type == "year-month") {
+if (type == "month") {
   setwd(here::here("data/hate_crimes_monthly"))
   hate_crimes <-
     hate_crimes %>%
@@ -74,7 +76,7 @@ hate_crimes <-
   dplyr::ungroup()
 
 
-names(hate_crimes) <- gsub("\\.", "_", names(hate_crimes))
+names(hate_crimes) <- gsub("\\.|\\(|\\)| |-|,|/", "_", names(hate_crimes))
 names(hate_crimes) <- gsub("_+", "_", names(hate_crimes))
 names(hate_crimes) <- gsub("_$", "", names(hate_crimes))
 
@@ -105,15 +107,17 @@ anti_columns <- sort(anti_columns)
 hate_crimes <-
   hate_crimes %>%
   dplyr::select(starting_cols,
-                # year_month,
-                anti_columns)
+                ends_with("_violent"),
+                ends_with("_nonviolent"),
+                ends_with("_sexual"),
+                ends_with("_total"))
 hate_crimes <- remove_duplicate_capitalize_names(hate_crimes)
-hate_crimes <- as.data.frame(hate_crimes)
 hate_crimes$agency <- gsub(":", "", hate_crimes$agency)
-hate_crimes$state <- gsub("Washington D.C.",
+hate_crimes$state  <- gsub("Washington D.C.",
                           "District of Columbia",
                           hate_crimes$state)
 
 
 make_state_agency_choices(hate_crimes)
 make_agency_csvs(hate_crimes)
+make_largest_agency_json(hate_crimes)

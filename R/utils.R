@@ -49,21 +49,16 @@ make_largest_agency_json <- function(data) {
 }
 
 reorder_leoka <- function(data) {
-  employee_cols <- sort(grep("employee", names(data),
-                             value = TRUE))
-  killed_cols <- sort(grep("killed", names(data),
-                           value = TRUE))
-  injury_cols <- sort(grep("with_injury", names(data),
-                           value = TRUE))
-  injury_cols <- injury_cols[!grepl("indicator", injury_cols)]
-  no_injury_cols <- sort(grep("no_injury", names(data),
-                              value = TRUE))
-  no_injury_cols <- no_injury_cols[!grepl("indicator", no_injury_cols)]
-  total_assault_cols <- sort(grep("^total_assault", names(data),
-                                  value = TRUE))
-  total_assault_cols <- total_assault_cols[!grepl("clear|traffic", total_assault_cols)]
-  assaults <- sort(grep("_assault_|.total_assaults", names(data),
-                        value = TRUE))
+  employee_cols      <- sort(grep("employee", names(data), value = TRUE))
+  killed_cols        <- sort(grep("killed", names(data), value = TRUE))
+  injury_cols        <- sort(grep("with_injury", names(data), value = TRUE))
+  injury_cols        <- injury_cols[!grepl("indicator", injury_cols)]
+  no_injury_cols     <- sort(grep("no_injury", names(data), value = TRUE))
+  no_injury_cols     <- no_injury_cols[!grepl("indicator", no_injury_cols)]
+  total_assault_cols <- sort(grep("^total_assault", names(data), value = TRUE))
+  total_assault_cols <- total_assault_cols[!grepl("clear|traffic",
+                                                  total_assault_cols)]
+  assaults <- sort(grep("_assault_|.total_assaults", names(data), value = TRUE))
   assaults <- assaults[!grepl("^total_assault|time|all_other", assaults)]
   all_other_assaults <- sort(grep("all_other_assault", names(data),
                                   value = TRUE))
@@ -175,6 +170,9 @@ make_agency_csvs <- function(data, type = "year") {
 }
 
 
+
+
+
 make_csv_test <- function(temp, type) {
   temp   <- dummy_rows_missing_years(temp, type = type)
 
@@ -217,8 +215,7 @@ make_monthly_agency_csvs <- function(type) {
 
 
 save_monthly_state_temp <- function(data, start_year, type) {
-  # setwd(here::here("data/temp"))
-  setwd("~/crimedatatool_helper/data/temp")
+  setwd(here::here("data/temp"))
   for (state_group in 1:length(states)) {
     selected_states <- states[state_group]
     if (year != start_year) {

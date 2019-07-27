@@ -23,6 +23,8 @@ hate_crimes_offenses_fix <- c(
   "^assisting or promoting prostitution"                 = "sexual",
   "^bribery"                                             = "nonviolent",
   "^burglary/breaking and entering"                      = "nonviolent",
+  "^fraud-other"                                         = "nonviolent",
+  "^theft-other"                                         = "nonviolent",
   "^counterfeiting/forgery"                              = "nonviolent",
   "^credit card/atm fraud"                               = "nonviolent",
   "^destruction of property/vandalism"                   = "nonviolent",
