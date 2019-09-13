@@ -116,6 +116,7 @@ hate_crimes$agency <- gsub(":", "", hate_crimes$agency)
 hate_crimes$state  <- gsub("Washington D.C.",
                           "District of Columbia",
                           hate_crimes$state)
+hate_crimes$year <- as.character(hate_crimes$year)
 
 
 make_state_agency_choices(hate_crimes)
