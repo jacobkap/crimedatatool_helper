@@ -11,9 +11,9 @@ names(texas_immigrant) <- c("county",
 texas_pop       <- read_csv("texas_jails_jail_pop_1992_2017.csv")
 texas_pregnant  <- read_csv("texas_jails_pregnant_inmates_2012_2017.csv")
 
-texas_pregnant  = prep_texas(texas_pregnant)
-texas_immigrant = prep_texas(texas_immigrant)
-texas_pop       = prep_texas(texas_pop)
+texas_pregnant  = prep_jails(texas_pregnant, state = "Texas")
+texas_immigrant = prep_jails(texas_immigrant, state = "Texas")
+texas_pop       = prep_jails(texas_pop, state = "Texas")
 
 texas_jails <-
   texas_pop %>%
@@ -35,10 +35,42 @@ texas_jails <-
 make_state_agency_choices(texas_jails)
 make_largest_agency_json(texas_jails)
 
-prep_texas <- function(data) {
+
+setwd("C:/Users/user/Dropbox/R_project/california_jails/clean_data")
+load('california_jail_county_monthly_1995_2018.rda')
+ca_jails <-
+  california_jail_county_monthly_1995_2018 %>%
+  dplyr::rename(county = jurisdiction) %>%
+  dplyr::select(-date,
+                -census_county_name,
+                -fips_state_code,
+                -fips_county_code,
+                -fips_state_county_code,
+                -day_of_highest_count)
+ca_jails$county <- gsub(" Sheriff's Department", "", ca_jails$county)
+ca_jails <- prep_jails(ca_jails, state = "California")
+ca_jails <-
+  ca_jails %>%
+  dplyr::select(county,
+                state,
+                year,
+                everything()) %>%
+  dplyr::arrange(county,
+                 desc(year))
+
+setwd(here::here("data/jail"))
+make_agency_csvs(ca_jails, county = TRUE)
+ca_jails <-
+  ca_jails %>%
+  dplyr::rename(agency = county,
+                population = avg_daily_pop_total_jurisdiction)
+make_state_agency_choices(ca_jails)
+make_largest_agency_json(ca_jails)
+
+prep_jails <- function(data, state) {
+  data$link <- NULL
   data <-
     data %>%
-    dplyr::select(-link) %>%
     dplyr::group_by(county,
                     year,
                     month) %>%
@@ -55,7 +87,7 @@ prep_texas <- function(data) {
     dplyr::select(-year,
                   -month) %>%
     dplyr::rename(year = date) %>%
-    dplyr::mutate(state = "Texas")
+    dplyr::mutate(state = state)
 
   return(data)
 }
