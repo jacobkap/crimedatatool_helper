@@ -28,6 +28,11 @@ texas_jails <-
 
 setwd(here::here("data/jail"))
 make_agency_csvs(texas_jails, county = TRUE)
+texas_jails <-
+  texas_jails %>%
+  dplyr::rename(agency = county)
+make_state_agency_choices(texas_jails)
+make_largest_agency_json(texas_jails)
 
 prep_texas <- function(data) {
   data <-
