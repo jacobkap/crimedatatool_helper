@@ -65,7 +65,8 @@ ca_jails <-
   dplyr::rename(agency = county,
                 population = avg_daily_pop_total_jurisdiction)
 make_state_agency_choices(ca_jails)
-make_largest_agency_json(ca_jails)
+
+
 
 prep_jails <- function(data, state) {
   data$link <- NULL
@@ -91,3 +92,71 @@ prep_jails <- function(data, state) {
 
   return(data)
 }
+
+
+# http://www.icjia.state.il.us/research/overview
+library(readxl)
+library(data.table)
+setwd(here::here("raw_data"))
+download.file("http://www.icjia.state.il.us/assets/datasets/130/xls/JailBookings.xls",
+              destfile = "illinois_jail_booking.xls",
+              mode = "wb")
+download.file("http://www.icjia.state.il.us/assets/datasets/120/xls/JailADP.xls",
+              destfile = "illinois_jail_adp.xls",
+              mode = "wb")
+il_bookings <- read_xls("illinois_jail_booking.xls",
+                        sheet = 2)
+il_adp      <- read_xls("illinois_jail_adp.xls",
+                        sheet = 2)
+
+il_bookings <- prep_illinois(il_bookings, "number_of_inmates_booked")
+il_adp      <- prep_illinois(il_adp, "average_daily_population")
+
+il_jails <-
+  il_bookings %>%
+  dplyr::left_join(il_adp) %>%
+  dplyr::select(county,
+                state,
+                year,
+                everything()) %>%
+  dplyr::mutate(year = as.numeric(as.character(year))) %>%
+  dplyr::arrange(county,
+                 desc(year))
+setwd(here::here("data/jail"))
+make_agency_csvs(il_jails, county = TRUE)
+il_jails <-
+  il_jails %>%
+  dplyr::rename(agency = county,
+                population = average_daily_population)
+make_state_agency_choices(il_jails)
+
+texas_jails$year <- as.character(texas_jails$year)
+il_jails$year    <- as.character(il_jails$year)
+ca_jails$year    <- as.character(ca_jails$year)
+il_jails$population <- as.numeric(il_jails$population)
+temp <- bind_rows(ca_jails, texas_jails, il_jails)
+make_largest_agency_json(temp)
+
+prep_illinois <- function(data, type) {
+  data                <- data[6:113, ]
+  names(data)         <- data[1, ]
+  data                <- data[-1, ]
+  data$ICJIAnumber    <- NULL
+  data$FIPS           <- NULL
+  data$ICJIAnumber_FK <- NULL
+
+  data <- melt(data, id.vars = c("County"))
+
+  data <- data[!data$County %in% c("Central",
+                                   "Northern minus Cook",
+                                   "South",
+                                   "Tri-County Jail",
+                                   "Illinois"), ]
+
+  names(data) <- c("county", "year", type)
+  data$state = "Illinois"
+
+  return(data)
+}
+
+
