@@ -30,7 +30,8 @@ setwd(here::here("data/jail"))
 make_agency_csvs(texas_jails, county = TRUE)
 texas_jails <-
   texas_jails %>%
-  dplyr::rename(agency = county)
+  dplyr::rename(agency = county,
+                population = total_population)
 make_state_agency_choices(texas_jails)
 make_largest_agency_json(texas_jails)
 
@@ -46,6 +47,7 @@ prep_texas <- function(data) {
   data      <- fastDummies::dummy_rows(data)
   data$date <- ymd(paste(data$year, data$month, "1", sep = "-"))
   data$county <- sapply(data$county, simpleCap)
+  data$county <- gsub("\\(|\\)", "", data$county)
   data$county <- gsub("private", "Private", data$county)
 
   data <-
