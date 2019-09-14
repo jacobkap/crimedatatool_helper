@@ -6,6 +6,7 @@ library(splitstackshape)
 library(readr)
 library(here)
 library(dplyr)
+library(lubridate)
 
 states <- c(tolower(state.name), "district of columbia")
 
@@ -242,14 +243,21 @@ save_monthly_state_temp <- function(data, start_year, type) {
   }
 }
 
-make_agency_csvs <- function(data, type = "year") {
+make_agency_csvs <- function(data, type = "year", county = FALSE) {
+  if (county) {
+    names(data) <- gsub("^county$", "ORI", names(data))
+  }
   data <- data.table::data.table(data)
   pb <- txtProgressBar(min = 0, max = length(unique(data$ORI)), style = 3)
   for (i in 1:length(unique(data$ORI))) {
     selected_ori <- unique(data$ORI)[i]
     temp   <- data[ORI == selected_ori]
 
-    temp   <- dummy_rows_missing_years(temp, type = type)
+    if (county) {
+      names(temp) <- gsub("^ORI$", "agency", names(temp))
+    } else {
+      temp   <- dummy_rows_missing_years(temp, type = type)
+    }
 
     state  <- unique(temp$state)
     agency <- unique(temp$agency)
@@ -257,6 +265,11 @@ make_agency_csvs <- function(data, type = "year") {
     agency <- gsub(" |:", "_", agency)
     agency <- gsub("/", "_", agency)
     agency <- gsub("_+", "_", agency)
+    agency <- gsub("\\(|\\)", "", agency)
+
+    if (county) {
+      names(temp) <- gsub("^agency$", "county", names(temp))
+    }
     data.table::fwrite(temp,
                        file = paste0(state, "_", agency, ".csv"))
 
@@ -264,6 +277,8 @@ make_agency_csvs <- function(data, type = "year") {
   }
   close(pb)
 }
+
+
 
 make_all_na <- function(col) {
   col <- NA
