@@ -243,7 +243,10 @@ save_monthly_state_temp <- function(data, start_year, type) {
   }
 }
 
-make_agency_csvs <- function(data, type = "year", county = FALSE) {
+make_agency_csvs <- function(data,
+                             type = "year",
+                             county = FALSE,
+                             estimates = FALSE) {
   if (county) {
     names(data) <- gsub("^county$", "ORI", names(data))
   }
@@ -270,6 +273,11 @@ make_agency_csvs <- function(data, type = "year", county = FALSE) {
     if (county) {
       names(temp) <- gsub("^agency$", "county", names(temp))
     }
+
+    if (estimates) {
+      temp$ORI <- NA
+    }
+
     data.table::fwrite(temp,
                        file = paste0(state, "_", agency, ".csv"))
 
