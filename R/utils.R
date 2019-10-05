@@ -10,6 +10,9 @@ library(lubridate)
 
 states <- c(tolower(state.name), "district of columbia")
 
+state_names <- c(state.name, "District of Columbia")
+state_abb   <- c(state.abb, "DC")
+
 
 remove_duplicate_capitalize_names <- function(data) {
   z = data[!duplicated(data$ORI),]

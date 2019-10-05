@@ -17,10 +17,10 @@ rm(offenses_known_yearly_1960_2017); gc()
 ucr <- remove_duplicate_capitalize_names(ucr)
 
 
-setwd(here::here("data/offenses"))
-make_agency_csvs(ucr)
-make_state_agency_choices(ucr)
-make_largest_agency_json(ucr)
+# setwd(here::here("data/offenses"))
+# make_agency_csvs(ucr)
+# make_state_agency_choices(ucr)
+# make_largest_agency_json(ucr)
 
 
 
@@ -66,7 +66,7 @@ state_level_data_old$rape[!is.na(state_level_data_old$revised_rape)] <-
 
 
 
-state_level_data_new$state <- state.name[match(state_level_data_new$state_abbr,state.abb)]
+state_level_data_new$state <- state_name[match(state_level_data_new$state_abbr,state_abb)]
 state_level_data_new$agency <- paste(state_level_data_new$state, "State-Level Estimate")
 state_level_data_new$agency[is.na(state_level_data_new$state)] <- "United States - National Estimate"
 state_level_data_new$state[is.na(state_level_data_new$state)] <- "United States"
