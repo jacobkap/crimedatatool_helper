@@ -83,7 +83,7 @@ state_level_data <-
                 -state_abbr,
                 -caveats,
                 -revised_rape) %>%
-  dplyr::mutate(ORI = NA) %>%
+  dplyr::mutate(ORI = agency) %>%
   dplyr::rename(actual_rape_total          = rape,
                 actual_robbery_total       = robbery,
                 actual_assault_aggravated  = aggravated_assault,
@@ -93,8 +93,11 @@ state_level_data <-
                 actual_index_violent       = violent_crime,
                 actual_murder              = homicide,
                 actual_index_property      = property_crime,
-                actual_theft_total         = larceny)
+                actual_theft_total         = larceny) %>%
+  dplyr::mutate(actual_index_total         = actual_index_property + actual_index_violent)
 state_level_data[, 1:11] <- sapply(state_level_data[, 1:11], parse_number)
 
 setwd(here::here("data/offenses"))
 make_agency_csvs(state_level_data, estimates = TRUE)
+ucr <- dplyr::bind_rows(ucr, state_level_data)
+make_state_agency_choices(ucr)
