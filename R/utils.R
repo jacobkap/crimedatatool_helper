@@ -10,7 +10,7 @@ library(lubridate)
 
 states <- c(tolower(state.name), "district of columbia")
 
-state_names <- c(state.name, "District of Columbia")
+state_name <- c(state.name, "District of Columbia")
 state_abb   <- c(state.abb, "DC")
 
 

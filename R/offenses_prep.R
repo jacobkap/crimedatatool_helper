@@ -93,9 +93,11 @@ state_level_data <-
                 actual_index_violent       = violent_crime,
                 actual_murder              = homicide,
                 actual_index_property      = property_crime,
-                actual_theft_total         = larceny) %>%
-  dplyr::mutate(actual_index_total         = actual_index_property + actual_index_violent)
+                actual_theft_total         = larceny)
+
 state_level_data[, 1:11] <- sapply(state_level_data[, 1:11], parse_number)
+state_level_data$actual_index_total <- state_level_data$actual_index_property +
+  state_level_data$actual_index_violent
 
 setwd(here::here("data/offenses"))
 make_agency_csvs(state_level_data, estimates = TRUE)
