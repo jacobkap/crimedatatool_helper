@@ -22,6 +22,8 @@ data <- data.table::dcast(setDT(data), year+state+population~cause_of_death,
                           value.var = c('deaths',
                                         'crude_rate',
                                         "age_adjusted_rate"))
+names(data) <- gsub("crude_rate_(.*)", "\\1_crude_rate", names(data))
+names(data) <- gsub("age_adjusted_rate_(.*)", "\\1_age_adjusted_rate", names(data))
 
 setwd(here::here("data/death"))
 save_state_data(data, "death")

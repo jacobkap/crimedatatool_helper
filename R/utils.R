@@ -7,6 +7,7 @@ library(readr)
 library(here)
 library(dplyr)
 library(lubridate)
+source(here::here("R/utils_objects.R"))
 
 states <- c(tolower(state.name), "district of columbia")
 
@@ -35,6 +36,14 @@ make_state_agency_choices <- function(data) {
   }
 }
 
+clean_cdc_colnames <- function(data) {
+  names(data) <- data[1, ]
+  data <- data[-1, ]
+  names(data) <- gsub("\\ ", "_", names(data))
+  names(data) <- tolower(names(data))
+  return(data)
+}
+
 make_largest_agency_json <- function(data) {
   largest_agency <- data %>%
     dplyr::group_by(state) %>%
@@ -44,7 +53,7 @@ make_largest_agency_json <- function(data) {
   write(largest_agency, "largest_agency_choices.json")
 }
 
-reorder_leoka <- function(data) {
+reorder_police <- function(data) {
   employee_cols <- sort(grep("employee", names(data),
                              value = TRUE))
   killed_cols <- sort(grep("killed", names(data),
@@ -86,7 +95,7 @@ reorder_leoka <- function(data) {
   return(data)
 }
 
-leoka_make_agency_csvs <- function(data) {
+police_make_agency_csvs <- function(data) {
   data <- data.table::data.table(data)
   pb <- txtProgressBar(min = 0, max = length(unique(data$ORI)), style = 3)
   for (selected_ori in sort(unique(data$ORI))) {
@@ -378,8 +387,8 @@ save_state_data <- function(data, save_type) {
       data %>%
       dplyr::filter(state %in% selected_state)
 
-    save_state     <- unique(temp$state)
-    save_state     <- gsub(" ", "_", save_state)
+    save_state <- unique(temp$state)
+    save_state <- gsub(" ", "_", save_state)
 
     readr::write_csv(temp,
                      path = paste0(save_state, "_", save_type, ".csv"))
