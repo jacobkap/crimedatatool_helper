@@ -16,7 +16,7 @@ state_abb   <- c(state.abb, "DC")
 
 fix_column_names <- function(names) {
   names <- tolower(names)
-  names <- gsub(" |-|\\/", "_", names)
+  names <- gsub(" |-|\\/|\\.", "_", names)
   names <- gsub("_+", "_", names)
   return(names)
 }

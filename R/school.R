@@ -13,7 +13,18 @@ school <-
   dplyr::full_join(arrests) %>%
   dplyr::full_join(discipline) %>%
   dplyr::full_join(hate) %>%
-  dplyr::full_join(vawa)
+  dplyr::full_join(vawa) %>%
+  dplyr::select(school_name,
+                year,
+                school_unique_id,
+                number_of_students,
+                tidyselect::matches("on_campus_[^student]"),
+                tidyselect::starts_with("on_campus_student_housing_facilities"),
+                tidyselect::starts_with("noncampus"),
+                tidyselect::starts_with("public_property"),
+                everything()) %>%
+  dplyr::arrange(school_name,
+                 desc(year))
 
 temp <- school[, c("school_unique_id", "school_name")]
 temp <- temp[!duplicated(temp$school_name), ]
@@ -23,43 +34,36 @@ school <- school[, -grep("ethnicity_national_origin", names(school))]
 setwd(here::here("data/school"))
 school_choices <- jsonlite::toJSON(temp$school_name, pretty = FALSE)
 write(school_choices, "agency_choices.json")
-make_school_csvs(school)
+make_all_school_csvs(school)
 
 
-make_school_csvs <- function(data) {
 
-  data <- data.table::data.table(data)
-  pb <- txtProgressBar(min = 0,
-                       max = length(unique(data$school_unique_id)),
-                       style = 3)
-  for (i in 1:length(unique(data$school_unique_id))) {
-    selected_school <- unique(data$school_unique_id)[i]
-    temp   <- data[school_unique_id == selected_school]
+make_csv_school <- function(temp) {
+  school_name <- unique(temp$school_name)
+  school_name <- gsub(" |:|/", "_", school_name)
+  school_name <- gsub("_+", "_", school_name)
+  school_name <- gsub("\\(|\\)", "", school_name)
 
+  data.table::fwrite(temp,
+                     file = paste0(school_name, ".csv"))
+}
 
-    school_name <- unique(temp$school_name)
-    school_name <- gsub(" |:|/", "_", school_name)
-    school_name <- gsub("_+", "_", school_name)
-    school_name <- gsub("\\(|\\)", "", school_name)
+make_all_school_csvs <- function(data) {
 
-    data.table::fwrite(temp,
-                       file = paste0(school_name, ".csv"))
-
-    setTxtProgressBar(pb, i)    # update progress bar
-  }
-  close(pb)
+  data <-
+    data %>%
+    dplyr::group_by(school_unique_id) %>%
+    dplyr::group_split()
+  parallel::mclapply(data, make_csv_school)
 }
 
 
-
-setwd(here::here("data/school"))
-make_agency_csvs(state_level_data, estimates = TRUE)
 
 get_school_data <- function(files, type) {
   final <- data.frame()
   files <- files[-grep("Local_State_Police", files)]
   for (file in files) {
-    data <- read_csv(file)
+    data <- read.csv(file)
     names(data) <- fix_column_names(names(data))
     data <-
       data %>%
@@ -87,15 +91,7 @@ get_school_data <- function(files, type) {
     }
 
   }
-  final <-
-    final %>%
-    dplyr::select(school_name,
-                  year,
-                  school_unique_id,
-                  number_of_students,
-                  everything()) %>%
-    dplyr::arrange(school_name,
-                   desc(year))
+
   return(final)
 }
 
