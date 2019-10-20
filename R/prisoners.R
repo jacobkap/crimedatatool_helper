@@ -1,6 +1,6 @@
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data/raw_data")
-source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
-source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/prisoners_utils.R')
+setwd(here::here("data/raw_data"))
+source(here::here('R/utils.R'))
+source(here::here('R/prisoners_utils.R'))
 library(dplyr)
 library(asciiSetupReader)
 

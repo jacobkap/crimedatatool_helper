@@ -14,6 +14,12 @@ states <- c(tolower(state.name), "district of columbia")
 state_name <- c(state.name, "District of Columbia")
 state_abb   <- c(state.abb, "DC")
 
+fix_column_names <- function(names) {
+  names <- tolower(names)
+  names <- gsub(" |-|\\/", "_", names)
+  names <- gsub("_+", "_", names)
+  return(names)
+}
 
 remove_duplicate_capitalize_names <- function(data) {
   z = data[!duplicated(data$ORI),]
@@ -35,6 +41,7 @@ make_state_agency_choices <- function(data) {
     write(agency, paste0(selected_state, "_agency_choices.json"))
   }
 }
+
 
 clean_cdc_colnames <- function(data) {
   names(data) <- data[1, ]
