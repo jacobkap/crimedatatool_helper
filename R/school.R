@@ -29,7 +29,6 @@ school <-
 temp <- school[, c("school_unique_id", "school_name")]
 temp <- temp[!duplicated(temp$school_name), ]
 school <- school[school$school_unique_id %in% temp$school_unique_id, ]
-school <- school[, -grep("ethnicity_national_origin", names(school))]
 
 setwd(here::here("data/school"))
 school_choices <- jsonlite::toJSON(temp$school_name, pretty = FALSE)
@@ -40,7 +39,7 @@ make_all_school_csvs(school)
 
 make_csv_school <- function(temp) {
   school_name <- unique(temp$school_name)
-  school_name <- gsub(" |:|/", "_", school_name)
+  school_name <- gsub(" |:|/|-", "_", school_name)
   school_name <- gsub("_+", "_", school_name)
   school_name <- gsub("\\(|\\)", "", school_name)
 
@@ -84,6 +83,9 @@ get_school_data <- function(files, type) {
       dplyr::left_join(student_population)
 
     data <- add_location_to_names(data, file, type)
+    # if (type %in% c("crimes", "hate")) {
+    #   data <- make_sex_offense_values(data, type)
+    # }
     if (nrow(final) == 0) {
       final <- data
     } else {
@@ -104,6 +106,32 @@ add_location_to_names <- function(data, file, type) {
   return(data)
 }
 
+# "Individual statistics for Rape, Fondling, Incest and Statutory Rape were not collected prior to the 2015 data collection. Prior to the 2015 collection, Rape and Fondling statistics were combined under Sex offenses – Forcible, and Incest and Statutory Rape statistics were combined under Sex Offenses – Nonforcible."
+make_sex_offense_values <- function(data, type) {
+  sex_offense_columns <- grep("sex_offenses", names(data), value = TRUE)
+  if (type == "hate") {
+    biases <- grep("robbery", names(data), value = TRUE)
+    biases <- unique(gsub(".*robbery_?", "", biases))
+    biases <- paste0("_", biases)
+    biases[1] <- ""
+  } else {
+    biases <- ""
+  }
+  sex_offense_columns <- gsub("_sex_offenses_(non_)?forcible", "", sex_offense_columns)
+  sex_offense_columns <- unique(sex_offense_columns)
+
+  for (bias in biases) {
+    for (col in sex_offense_columns) {
+      data[data$year >= 2014, paste0(col, "_sex_offenses_forcible", bias)] <-
+        data[data$year >= 2014, paste0(col, "_rape", bias)] +
+        data[data$year >= 2014, paste0(col, "_fondling", bias)]
+      data[data$year >= 2014, paste0(col, "_sex_offenses_non_forcible", bias)] <-
+        data[data$year >= 2014, paste0(col, "_statutory_rape", bias)] +
+        data[data$year >= 2014, paste0(col, "_incest", bias)]
+    }
+  }
+  return(data)
+}
 
 
 get_population <- function(data) {
