@@ -21,10 +21,10 @@ school <-
                 year,
                 school_unique_id,
                 number_of_students,
-                tidyselect::starts_with("noncampus"),
+                tidyselect::matches("noncampus"),
                 tidyselect::matches("on_campus_[^student]"),
-                tidyselect::starts_with("on_campus_student_housing_facilities"),
-                tidyselect::starts_with("public_property"),
+                tidyselect::matches("on_campus_student_housing_facilities"),
+                tidyselect::matches("public_property"),
                 everything()) %>%
   dplyr::arrange(school_name,
                  desc(year))
@@ -86,15 +86,21 @@ get_school_data <- function(files, type) {
       dplyr::left_join(student_population)
 
     data <- add_location_to_names(data, file, type)
-    # if (type %in% c("crimes", "hate")) {
-    #   data <- make_sex_offense_values(data, type)
-    # }
+
+    if (type == "hate") {
+      names(data) <- gsub("rape_forcible_sexual", "rape_sexual", names(data))
+      names(data) <- gsub("incest_forcible_sexual", "incest_sexual", names(data))
+      names(data) <- gsub("fondling_forcible_sexual", "fondling_sexual", names(data))
+    }
     if (nrow(final) == 0) {
       final <- data
     } else {
       final <- full_join(final, data)
     }
-
+  }
+  final <- make_total_location_columns(final, type)
+  if (type %in% c("crimes", "hate")) {
+    final <- make_sex_offense_values(final, type)
   }
 
   return(final)
@@ -110,29 +116,66 @@ add_location_to_names <- function(data, file, type) {
 }
 
 # "Individual statistics for Rape, Fondling, Incest and Statutory Rape were not collected prior to the 2015 data collection. Prior to the 2015 collection, Rape and Fondling statistics were combined under Sex offenses – Forcible, and Incest and Statutory Rape statistics were combined under Sex Offenses – Nonforcible."
+
+# "As of the 2015 data collection the Ethnicity/National origin category of bias was split into separate Ethnicity and National origin categories."
 make_sex_offense_values <- function(data, type) {
-  sex_offense_columns <- grep("sex_offenses", names(data), value = TRUE)
+
+  locations <- c("noncampus",
+                 "on_campus",
+                 "on_campus_student_housing_facilities",
+                 "public_property")
+  locations <- paste0(type, "_", locations)
+
   if (type == "hate") {
     biases <- grep("robbery", names(data), value = TRUE)
     biases <- unique(gsub(".*robbery_?", "", biases))
     biases <- paste0("_", biases)
     biases[1] <- ""
+
+    crime_columns <- grep("public_property.*_race$", names(data), value = TRUE)
+    crime_columns <- gsub(".*public_property_|_race", "", crime_columns)
+
+    sex_offense_categories <- c("sex_offenses_forcible",
+                                "sex_offenses_non_forcible")
+
+    sex_offense_subcategories <- c("rape",
+                                   "fondling",
+                                   "incest",
+                                   "statutory_rape")
   } else {
     biases <- ""
   }
-  sex_offense_columns <- gsub("_sex_offenses_(non_)?forcible", "", sex_offense_columns)
-  sex_offense_columns <- unique(sex_offense_columns)
 
   for (bias in biases) {
-    for (col in sex_offense_columns) {
-      data[data$year >= 2014, paste0(col, "_sex_offenses_forcible", bias)] <-
+    for (col in locations) {
+      if (type == "hate") {
+        if (bias %in% c("_gender_identity",
+                        "_ethnicity",
+                        "_national_origin")) {
+          data[,     paste0(col, "_sex_offenses_forcible", bias)] <- NA
+          data[,     paste0(col, "_sex_offenses_non_forcible", bias)] <- NA
+        } else if (bias %in% "_ethnicity_national_origin") {
+          for (crime in sex_offense_subcategories) {
+            data[,   paste0(col, "_", crime, bias)] <-
+              data[, paste0(col, "_", crime, "_ethnicity")] +
+              data[, paste0(col, "_", crime, "_national_origin")]
+          }
+        }
+      }
+
+      data[data$year   >= 2014, paste0(col, "_sex_offenses_forcible", bias)] <-
         data[data$year >= 2014, paste0(col, "_rape", bias)] +
         data[data$year >= 2014, paste0(col, "_fondling", bias)]
-      data[data$year >= 2014, paste0(col, "_sex_offenses_non_forcible", bias)] <-
+      data[data$year   >= 2014, paste0(col, "_sex_offenses_non_forcible", bias)] <-
         data[data$year >= 2014, paste0(col, "_statutory_rape", bias)] +
         data[data$year >= 2014, paste0(col, "_incest", bias)]
+
+      data[, paste0(col, "_sex_offenses_total", bias)] <-
+        data[, paste0(col, "_sex_offenses_non_forcible", bias)] +
+        data[, paste0(col, "_sex_offenses_forcible", bias)]
     }
   }
+
   return(data)
 }
 
@@ -151,3 +194,15 @@ get_population <- function(data) {
   return(data)
 }
 
+make_total_location_columns <- function(data, type) {
+  crime_columns <- grep("public_property.*", names(data), value = TRUE)
+  crime_columns <- gsub(".*public_property_", "", crime_columns)
+
+  for (crime in crime_columns) {
+    data[, paste0(type, "_total_", crime)] <-
+      data[, paste0(type, "_on_campus_", crime)] +
+      data[, paste0(type, "_noncampus_", crime)] +
+      data[, paste0(type, "_public_property_", crime)]
+  }
+  return(data)
+}
