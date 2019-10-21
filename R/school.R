@@ -5,6 +5,9 @@ source(here::here('R/utils.R'))
 arrests    <- get_school_data(list.files(pattern = "Arrests"), "arrests")
 crimes     <- get_school_data(list.files(pattern = "Criminal"), "crimes")
 discipline <- get_school_data(list.files(pattern = "Disciplinary"), "discipline")
+names(discipline) <- gsub("discipline_student",
+                          "discipline_on_campus_student",
+                          names(discipline))
 hate       <- get_school_data(list.files(pattern = "Hate"), "hate")
 vawa       <- get_school_data(list.files(pattern = "VAWA"), "vawa")
 
@@ -18,9 +21,9 @@ school <-
                 year,
                 school_unique_id,
                 number_of_students,
+                tidyselect::starts_with("noncampus"),
                 tidyselect::matches("on_campus_[^student]"),
                 tidyselect::starts_with("on_campus_student_housing_facilities"),
-                tidyselect::starts_with("noncampus"),
                 tidyselect::starts_with("public_property"),
                 everything()) %>%
   dplyr::arrange(school_name,
