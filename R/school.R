@@ -22,16 +22,18 @@ school <-
                 school_unique_id,
                 number_of_students,
                 tidyselect::matches("noncampus"),
-                tidyselect::matches("on_campus_[^student]"),
+                tidyselect::matches("on_campus_"),
                 tidyselect::matches("on_campus_student_housing_facilities"),
                 tidyselect::matches("public_property"),
+                tidyselect::starts_with("(hate|crimes|discipline|arrests|vawa)_total"),
                 everything()) %>%
   dplyr::arrange(school_name,
-                 desc(year))
+                 desc(year)) %>%
+  dplyr::rename(school_unique_ID = school_unique_id)
 
-temp <- school[, c("school_unique_id", "school_name")]
+temp <- school[, c("school_unique_ID", "school_name")]
 temp <- temp[!duplicated(temp$school_name), ]
-school <- school[school$school_unique_id %in% temp$school_unique_id, ]
+school <- school[school$school_unique_ID %in% temp$school_unique_ID, ]
 
 setwd(here::here("data/school"))
 school_choices <- jsonlite::toJSON(temp$school_name, pretty = FALSE)
@@ -54,7 +56,7 @@ make_all_school_csvs <- function(data) {
 
   data <-
     data %>%
-    dplyr::group_by(school_unique_id) %>%
+    dplyr::group_by(school_unique_ID) %>%
     dplyr::group_split()
   parallel::mclapply(data, make_csv_school)
 }
@@ -206,3 +208,4 @@ make_total_location_columns <- function(data, type) {
   }
   return(data)
 }
+
