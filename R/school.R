@@ -100,10 +100,10 @@ get_school_data <- function(files, type) {
       final <- full_join(final, data)
     }
   }
-  final <- make_total_location_columns(final, type)
   if (type %in% c("crimes", "hate")) {
     final <- make_sex_offense_values(final, type)
   }
+  final <- make_total_location_columns(final, type)
 
   return(final)
 }
