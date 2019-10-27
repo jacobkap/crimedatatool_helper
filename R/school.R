@@ -2,14 +2,14 @@
 setwd(here::here("raw_data"))
 source(here::here('R/utils.R'))
 
-arrests    <- get_school_data(list.files(pattern = "Arrests"), "arrests")
-crimes     <- get_school_data(list.files(pattern = "Criminal"), "crimes")
-discipline <- get_school_data(list.files(pattern = "Disciplinary"), "discipline")
+arrests    <- get_school_data("Arrests", "arrests")
+crimes     <- get_school_data("Criminal", "crimes")
+discipline <- get_school_data("Disciplinary", "discipline")
 names(discipline) <- gsub("discipline_student",
                           "discipline_on_campus_student",
                           names(discipline))
-hate       <- get_school_data(list.files(pattern = "Hate"), "hate")
-vawa       <- get_school_data(list.files(pattern = "VAWA"), "vawa")
+hate       <- get_school_data("Hate", "hate")
+vawa       <- get_school_data("VAWA", "vawa")
 
 school <-
   crimes %>%
@@ -63,8 +63,9 @@ make_all_school_csvs <- function(data) {
 
 
 
-get_school_data <- function(files, type) {
+get_school_data <- function(file_pattern, type) {
   final <- data.frame()
+  files <- list.files(pattern = file_pattern)
   files <- files[-grep("Local_State_Police", files)]
   for (file in files) {
     data <- read.csv(file)
@@ -103,7 +104,15 @@ get_school_data <- function(files, type) {
   if (type %in% c("crimes", "hate")) {
     final <- make_sex_offense_values(final, type)
   }
+  if (type == "hate") {
+    neg_manslaughter_to_remove <- grep("negligent_manslaughter",
+                                       names(final), value = TRUE)
+    neg_manslaughter_to_remove <- neg_manslaughter_to_remove[-grep("murder",
+                                                                   neg_manslaughter_to_remove)]
+    final <- select(final, -one_of(neg_manslaughter_to_remove))
+  }
   final <- make_total_location_columns(final, type)
+  final <- make_total_crime_columns(final, type)
 
   return(final)
 }
@@ -136,9 +145,6 @@ make_sex_offense_values <- function(data, type) {
 
     crime_columns <- grep("public_property.*_race$", names(data), value = TRUE)
     crime_columns <- gsub(".*public_property_|_race", "", crime_columns)
-
-    sex_offense_categories <- c("sex_offenses_forcible",
-                                "sex_offenses_non_forcible")
 
     sex_offense_subcategories <- c("rape",
                                    "fondling",
@@ -205,6 +211,52 @@ make_total_location_columns <- function(data, type) {
       data[, paste0(type, "_on_campus_", crime)] +
       data[, paste0(type, "_noncampus_", crime)] +
       data[, paste0(type, "_public_property_", crime)]
+  }
+  return(data)
+}
+
+
+make_total_crime_columns <- function(data, type) {
+  location_columns <- c("_on_campus_",
+                        "_public_property_",
+                        "_noncampus_",
+                        "_on_campus_student_housing_facilities_",
+                        "_total_")
+  if (type == "discipline") {
+    location_columns[4] <- "_student_housing_facilities_"
+  }
+
+  if (type == "hate") {
+    biases <- grep("robbery", names(data), value = TRUE)
+    biases <- unique(gsub(".*robbery_?", "", biases))
+    biases <- paste0("_", biases)
+    biases[1] <- ""
+  } else {
+    biases <- ""
+  }
+
+  crime_cols <- grep(location_columns[2], names(data), value = TRUE)
+  if (type == "hate") {
+    crime_cols <- grep(paste0(location_columns[2], ".*race$"), names(data),
+                       value = TRUE)
+  }
+  crime_cols <- gsub(paste0(type, location_columns[2]), "", crime_cols)
+  crime_cols <- gsub("_race$", "", crime_cols)
+
+  # Remove sex offenses other than Sex Offenses - Total to avoid double counting
+  crime_cols <- crime_cols[!crime_cols %in% c("rape",
+                                              "fondling",
+                                              "sex_offenses_non_forcible",
+                                              "sex_offenses_forcible",
+                                              "incest",
+                                              "statutory_rape")]
+  for (bias in biases) {
+    for (location in location_columns) {
+      data[, paste0(type, location, "total", bias)] <- rowSums(data[, paste0(type,
+                                                                             location,
+                                                                             crime_cols,
+                                                                             bias)])
+    }
   }
   return(data)
 }
