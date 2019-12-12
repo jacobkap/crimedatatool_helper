@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+San Joaquin,California,2019-09-01,867,115,371,69,1422,913,359,1272,69,81,150,1502,,,,,,,,,,13,0,0,0,0,54,0,1879,390,55,0,,,,,,,
+San Joaquin,California,2019-08-01,863,117,369,75,1424,900,358,1258,80,86,166,1485,,,,,,,,,,18,0,0,0,0,53,0,2134,401,53,0,,,,,,,
+San Joaquin,California,2019-07-01,833,118,342,83,1376,882,358,1240,69,67,136,1451,,,,,,,,,,16,0,0,0,0,41,0,2066,378,38,0,,,,,,,
+San Joaquin,California,2019-06-01,847,111,337,76,1371,887,346,1233,71,67,138,1456,,,,,,,,,,14,0,0,0,0,46,0,1923,342,30,0,,,,,,,
+San Joaquin,California,2019-05-01,863,129,317,75,1384,914,331,1245,78,61,139,1446,,,,,,,,,,17,0,0,0,0,36,0,1960,412,26,0,,,,,,,
+San Joaquin,California,2019-04-01,846,120,329,66,1361,880,321,1201,86,74,160,1439,,,,,,,,,,19,0,0,0,0,31,0,1994,367,32,0,,,,,,,
+San Joaquin,California,2019-03-01,831,111,328,65,1335,860,310,1170,82,83,165,1382,,,,,,,,,,15,0,0,0,0,38,0,1946,423,28,0,,,,,,,
+San Joaquin,California,2019-02-01,830,107,343,63,1343,856,333,1189,81,73,154,1393,,,,,,,,,,15,0,0,0,0,46,0,1723,321,25,0,,,,,,,
+San Joaquin,California,2019-01-01,755,95,288,53,1191,783,277,1060,67,64,131,1404,,,,,,,,,,12,0,0,0,0,36,0,1827,325,14,0,,,,,,,
 San Joaquin,California,2018-12-01,807,116,306,66,1295,855,307,1162,68,65,133,1366,,,,,,,,,,14,0,0,0,0,36,0,1795,340,9,0,,,,,,,
 San Joaquin,California,2018-11-01,802,111,306,63,1282,840,310,1150,73,59,132,1347,,,,,,,,,,16,0,0,0,0,51,0,1721,355,14,0,,,,,,,
 San Joaquin,California,2018-10-01,766,112,345,69,1292,803,350,1153,75,64,139,1352,,,,,,,,,,17,0,0,0,0,45,0,1929,388,15,0,,,,,,,

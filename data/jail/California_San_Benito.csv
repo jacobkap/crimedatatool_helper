@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+San Benito,California,2019-09-01,64,9,41,5,119,52,34,86,21,12,33,127,21,8,21,0,94,27,0,14,0,1,0,0,0,0,0,0,172,60,1,,,,,,,,
+San Benito,California,2019-08-01,71,7,40,3,121,58,30,88,20,13,33,129,25,11,25,0,126,55,3,27,0,1,0,0,0,0,0,0,176,56,1,,,,,,,,
+San Benito,California,2019-07-01,71,8,35,4,118,53,27,80,26,12,38,131,28,8,28,0,98,48,3,28,0,1,0,0,0,0,0,0,184,71,5,,,,,,,,
+San Benito,California,2019-06-01,72,7,33,6,118,57,27,84,22,12,34,130,22,12,22,0,83,60,2,13,0,2,0,0,0,0,0,0,200,91,2,,,,,,,,
+San Benito,California,2019-05-01,66,9,31,9,115,59,24,83,16,16,32,120,19,11,19,0,201,33,0,22,0,1,0,0,0,0,0,0,196,61,0,,,,,,,,
+San Benito,California,2019-04-01,64,9,36,6,115,56,25,81,17,17,34,123,12,8,12,0,102,64,1,18,0,1,0,0,0,0,0,0,176,71,2,,,,,,,,
+San Benito,California,2019-03-01,66,8,39,6,119,53,26,79,21,19,40,125,22,10,22,0,255,59,2,0,0,1,0,0,0,0,0,0,180,83,0,,,,,,,,
+San Benito,California,2019-02-01,66,8,35,6,115,52,27,79,22,14,36,122,23,5,23,0,225,57,1,18,0,1,0,0,0,0,0,0,151,71,1,,,,,,,,
+San Benito,California,2019-01-01,60,8,37,8,113,54,30,84,14,15,29,121,24,14,24,0,218,36,1,11,0,2,0,0,0,0,0,0,178,68,1,,,,,,,,
 San Benito,California,2018-12-01,63,7,35,8,113,58,27,85,12,16,28,121,24,11,24,0,241,40,2,19,0,2,0,0,0,0,0,0,161,62,1,,,,,,,,
 San Benito,California,2018-11-01,73,7,32,8,120,64,28,92,16,12,28,131,29,14,29,0,209,32,2,13,0,1,0,0,0,0,0,0,185,85,1,,,,,,,,
 San Benito,California,2018-10-01,77,13,33,5,128,72,27,99,18,11,29,137,20,32,20,0,214,62,3,15,0,2,0,0,0,0,0,0,213,114,2,,,,,,,,

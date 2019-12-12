@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Imperial,California,2019-09-01,172,32,124,33,361,185,154,339,19,3,22,396,93,31,93,14,269,176,20,28,8,3,0,40,0,0,3,0,416,0,0,0,,,,,,,
+Imperial,California,2019-08-01,182,38,144,38,402,208,178,386,12,4,16,422,58,20,58,15,258,153,21,24,8,2,0,39,0,0,3,6,515,0,0,0,,,,,,,
+Imperial,California,2019-07-01,215,46,80,20,361,198,136,334,17,10,27,382,66,52,66,2,236,111,18,29,7,0,0,22,0,0,6,3,426,0,0,0,,,,,,,
+Imperial,California,2019-06-01,238,47,66,14,365,238,66,304,47,14,61,403,81,21,81,18,264,138,13,37,9,7,0,42,3,0,8,5,780,0,0,0,,,,,,,
+Imperial,California,2019-05-01,239,49,64,12,364,239,64,303,49,12,61,366,85,39,85,14,285,188,17,32,5,6,0,32,3,0,9,1,670,0,0,0,,,,,,,
+Imperial,California,2019-04-01,249,56,59,11,375,249,59,308,56,11,67,390,62,43,62,17,288,182,20,22,5,7,0,31,3,0,8,0,651,0,0,0,,,,,,,
+Imperial,California,2019-03-01,256,54,65,11,386,256,65,321,54,11,65,412,67,34,67,15,320,134,22,27,8,6,0,50,3,0,7,1,567,0,0,0,,,,,,,
+Imperial,California,2019-02-01,278,61,75,11,425,278,75,353,61,11,72,426,53,27,53,12,326,166,12,21,6,5,0,44,0,8,8,2,640,0,0,0,,,,,,,
+Imperial,California,2019-01-01,282,62,78,10,432,282,78,360,62,10,72,460,78,55,78,15,375,197,15,28,3,4,0,82,0,7,5,2,636,0,0,0,,,,,,,
 Imperial,California,2018-12-01,300,63,71,13,447,300,71,371,63,13,76,465,84,52,84,13,348,129,15,26,5,3,0,82,0,24,4,0,553,0,0,0,,,,,,,
 Imperial,California,2018-11-01,283,64,76,9,432,283,76,359,64,9,73,490,75,43,75,15,424,176,15,29,9,3,0,78,0,25,4,1,407,0,0,0,,,,,,,
 Imperial,California,2018-10-01,222,31,73,11,337,222,73,295,31,11,42,528,80,62,80,15,441,250,17,48,6,2,0,73,0,26,6,8,960,0,0,0,,,,,,,

@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Glenn,California,2019-09-01,59,13,23,5,100,48,16,64,24,12,36,111,85,6,14,0,95,19,9,8,0,2,0,0,0,0,2,0,124,0,0,0,,,,,,,
+Glenn,California,2019-08-01,62,13,23,6,104,57,16,73,18,13,31,116,31,9,11,0,101,17,10,5,0,0,0,0,0,0,2,0,125,0,0,0,,,,,,,
+Glenn,California,2019-07-01,62,13,27,4,106,52,18,70,23,13,36,117,76,4,6,0,143,18,4,8,0,0,0,0,0,0,4,0,152,0,1,0,,,,,,,
+Glenn,California,2019-06-01,67,10,24,3,104,54,18,72,23,9,32,119,48,4,7,0,94,19,0,8,0,0,0,0,0,0,2,0,125,0,0,0,,,,,,,
+Glenn,California,2019-05-01,61,14,20,6,101,54,21,75,21,5,26,113,38,6,6,0,102,14,2,12,0,0,0,0,0,0,2,0,145,0,0,0,,,,,,,
+Glenn,California,2019-04-01,53,17,24,6,100,55,21,76,15,9,24,117,31,5,5,0,157,8,1,8,0,0,0,0,0,0,2,0,137,0,0,0,,,,,,,
+Glenn,California,2019-03-01,73,16,21,6,116,72,18,90,17,9,26,127,59,11,9,0,109,20,0,6,0,2,0,0,0,0,0,0,153,0,1,0,,,,,,,
+Glenn,California,2019-02-01,65,18,23,5,111,68,19,87,15,9,24,123,74,11,11,0,124,20,1,8,0,3,0,0,0,0,0,0,131,5,3,0,,,,,,,
+Glenn,California,2019-01-01,71,13,22,6,112,69,19,88,15,9,24,128,45,5,9,0,124,28,0,8,0,5,0,0,0,0,0,0,145,3,4,0,,,,,,,
 Glenn,California,2018-12-01,74,13,20,6,113,70,18,88,17,8,25,127,61,18,9,0,106,22,0,8,0,7,0,0,0,0,0,0,133,1,0,0,,,,,,,
 Glenn,California,2018-11-01,66,11,23,7,107,60,20,80,17,10,27,119,48,16,7,0,102,18,3,8,0,5,0,0,0,0,0,0,131,0,0,0,,,,,,,
 Glenn,California,2018-10-01,67,11,24,4,106,59,18,77,19,10,29,116,78,22,10,0,86,28,0,8,0,1,0,0,0,0,1,0,147,0,0,0,,,,,,,

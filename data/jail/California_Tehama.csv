@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Tehama,California,2019-09-01,88,17,54,15,174,,,0,,,0,182,72,16,49,0,281,93,5,6,4,3,0,0,0,0,10,0,274,0,42,0,,,,,,,
+Tehama,California,2019-08-01,87,15,64,15,181,,,0,,,0,194,85,17,49,0,349,92,6,12,0,2,0,0,0,0,10,0,282,0,38,0,,,,,,,
+Tehama,California,2019-07-01,47,10,35,6,98,,,0,,,0,189,93,22,45,0,357,91,6,10,10,1,0,0,0,0,14,0,302,0,35,0,,,,,,,
+Tehama,California,2019-06-01,89,24,62,8,183,,,0,,,0,194,87,15,47,0,326,96,5,11,0,3,0,0,0,0,4,0,279,0,43,0,,,,,,,
+Tehama,California,2019-05-01,97,22,57,11,187,,,0,,,0,198,80,18,50,0,299,98,8,16,6,2,0,0,0,0,6,0,276,0,44,0,,,,,,,
+Tehama,California,2019-04-01,96,18,60,18,192,,,0,,,0,202,82,28,50,0,294,99,6,12,9,3,0,0,0,0,9,0,297,0,41,0,,,,,,,
+Tehama,California,2019-03-01,98,15,58,19,190,,,0,,,0,202,69,27,47,0,333,88,8,10,8,3,0,0,0,0,8,0,351,0,47,0,,,,,,,
+Tehama,California,2019-02-01,105,14,52,20,191,,,0,,,0,203,27,8,48,0,309,66,1,6,4,2,0,0,0,0,9,0,232,0,38,0,,,,,,,
+Tehama,California,2019-01-01,101,18,55,16,190,,,,,,,201,15,10,51,0,380,98,11,11,6,2,0,0,0,0,10,0,279,0,42,0,,,,,,,
 Tehama,California,2018-12-01,102,13,64,14,193,,,0,,,0,202,79,26,53,0,376,97,15,8,0,2,0,0,0,0,6,0,259,0,20,0,,,,,,,
 Tehama,California,2018-11-01,53,12,59,9,133,,,0,,,0,210,52,11,61,0,340,98,4,6,8,1,0,0,0,0,17,0,242,0,46,0,,,,,,,
 Tehama,California,2018-10-01,115,10,56,17,198,,,0,,,0,208,75,16,57,0,264,88,5,12,5,2,0,0,0,0,23,0,281,0,51,0,,,,,,,

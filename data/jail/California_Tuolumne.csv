@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Tuolumne,California,2019-09-01,87,20,27,9,143,104,31,135,3,5,8,147,83,43,40,,504,60,9,9,,14,0,0,0,0,2,1,266,200,31,0,,,,,,,
+Tuolumne,California,2019-08-01,92,19,22,10,143,107,26,133,4,6,10,147,41,15,41,,366,75,5,22,,13,0,0,0,0,2,0,285,220,19,0,,,,,,,
+Tuolumne,California,2019-07-01,90,20,24,10,144,107,30,137,3,4,7,147,27,10,27,,178,65,3,12,,12,0,0,0,0,2,0,300,242,26,0,,,,,,,
+Tuolumne,California,2019-06-01,93,23,19,9,144,113,24,137,3,4,7,147,24,10,24,,144,86,3,20,,14,0,0,0,0,3,0,298,218,35,0,,,,,,,
+Tuolumne,California,2019-05-01,92,22,22,8,144,110,26,136,4,4,8,147,34,5,34,,102,76,2,8,,12,0,0,0,0,4,0,269,175,32,0,,,,,,,
+Tuolumne,California,2019-04-01,90,24,24,6,144,110,24,134,4,6,10,147,51,21,51,,231,93,6,23,,11,0,0,0,0,3,0,251,180,17,0,,,,,,,
+Tuolumne,California,2019-03-01,96,18,22,7,143,111,25,136,3,4,7,147,82,20,82,,303,119,4,6,,11,0,0,0,0,5,0,273,197,13,0,,,,,,,
+Tuolumne,California,2019-02-01,91,18,23,8,140,103,25,128,6,6,12,147,40,21,40,,192,97,2,23,,10,0,0,0,0,2,0,240,164,12,0,,,,,,,
+Tuolumne,California,2019-01-01,85,17,25,9,136,93,27,120,9,7,16,144,32,22,32,,277,89,8,17,,10,0,0,0,0,3,1,250,157,4,0,,,,,,,
 Tuolumne,California,2018-12-01,79,19,23,8,129,89,28,117,9,3,12,140,40,17,40,,447,84,3,9,,10,0,0,0,0,4,0,224,155,0,0,,,,,,,
 Tuolumne,California,2018-11-01,84,22,24,8,138,97,28,125,9,4,13,147,42,23,42,,533,93,6,11,,9,0,0,0,0,3,0,223,157,,0,,,,,,,
 Tuolumne,California,2018-10-01,83,22,26,9,140,100,31,131,5,4,9,147,37,18,37,,320,73,3,10,,10,0,0,0,0,4,0,256,168,6,0,,,,,,,

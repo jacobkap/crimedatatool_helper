@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Amador,California,2019-09-01,48,10,31,7,96,50,27,77,8,11,19,103,22,11,19,0,187,46,2,17,0,10,0,0,0,0,4,5,130,0,33,0,,,,,,,
+Amador,California,2019-08-01,42,9,34,7,92,44,31,75,7,10,17,103,32,9,28,0,147,43,1,13,0,9,0,0,0,0,4,10,118,0,29,0,,,,,,,
+Amador,California,2019-07-01,34,7,32,9,82,35,32,67,6,9,15,91,33,12,24,0,191,34,6,7,0,9,0,0,0,0,7,4,128,0,31,0,,,,,,,
+Amador,California,2019-06-01,36,10,28,6,80,39,27,66,7,7,14,88,22,7,22,0,203,50,2,13,0,7,0,0,0,0,4,8,113,0,25,0,,,,,,,
+Amador,California,2019-05-01,28,8,33,11,80,31,37,68,5,7,12,89,17,7,17,0,206,45,1,5,0,7,0,0,0,0,10,3,115,0,25,0,,,,,,,
+Amador,California,2019-04-01,27,6,34,11,78,27,38,65,6,7,13,87,16,8,16,0,198,25,3,9,0,8,0,0,0,0,9,1,138,0,30,0,,,,,,,
+Amador,California,2019-03-01,28,7,31,11,77,31,36,67,4,6,10,83,17,8,17,0,202,39,2,12,0,6,0,0,0,0,5,0,98,0,20,0,,,,,,,
+Amador,California,2019-02-01,34,7,32,8,81,37,33,70,4,7,11,85,11,4,11,0,209,49,2,2,0,7,0,0,0,0,2,0,113,0,25,0,,,,,,,
+Amador,California,2019-01-01,28,10,33,9,80,34,36,70,4,6,10,88,9,2,9,0,201,51,0,15,0,7,0,0,0,0,7,4,117,0,30,0,,,,,,,
 Amador,California,2018-12-01,33,10,37,11,91,41,39,80,2,9,11,109,12,6,12,0,196,36,0,9,0,6,0,0,0,0,10,0,99,0,36,0,,,,,,,
 Amador,California,2018-11-01,33,13,46,9,101,44,43,87,2,12,14,108,14,2,14,0,254,14,1,9,0,7,0,0,0,0,8,0,93,0,23,0,,,,,,,
 Amador,California,2018-10-01,35,13,39,7,94,45,36,81,3,10,13,101,17,9,17,0,260,23,2,14,0,8,0,0,0,0,6,0,113,0,28,0,,,,,,,

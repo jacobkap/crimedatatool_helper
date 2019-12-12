@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Colusa,California,2019-09-01,46,7,17,5,75,37,13,50,16,9,25,81,13,9,10,0,121,34,3,4,0,4,0,5,0,0,1,0,105,0,1,0,,,,,,,
+Colusa,California,2019-08-01,39,8,20,5,72,30,15,45,17,10,27,78,14,14,13,0,137,17,0,8,0,3,0,5,0,0,1,0,83,0,1,0,,,,,,,
+Colusa,California,2019-07-01,39,10,19,4,72,32,14,46,17,9,26,85,13,6,14,0,152,34,4,8,0,4,0,5,0,0,3,0,127,0,2,0,,,,,,,
+Colusa,California,2019-06-01,34,10,16,3,63,31,12,43,13,7,20,72,12,6,9,0,105,16,5,5,0,4,0,5,0,0,3,0,103,0,2,0,,,,,,,
+Colusa,California,2019-05-01,40,7,14,3,64,30,9,39,17,8,25,71,12,6,9,0,124,17,0,8,0,5,0,5,0,0,2,1,97,0,0,0,,,,,,,
+Colusa,California,2019-04-01,46,8,15,5,74,35,10,45,19,10,29,80,13,11,12,0,181,29,0,8,0,4,0,5,0,0,3,0,111,0,0,0,,,,,,,
+Colusa,California,2019-03-01,40,7,16,6,69,35,7,42,12,15,27,73,14,9,11,0,122,22,0,8,0,4,0,5,0,0,0,0,115,0,3,0,,,,,,,
+Colusa,California,2019-02-01,40,9,21,5,75,36,7,43,13,19,32,81,17,9,7,0,121,15,1,8,0,4,0,6,0,0,3,0,87,0,0,0,,,,,,,
+Colusa,California,2019-01-01,41,7,19,4,71,28,10,38,20,13,33,79,37,12,11,0,130,27,0,8,0,4,0,4,0,0,3,0,111,0,0,0,,,,,,,
 Colusa,California,2018-12-01,35,5,21,4,65,23,14,37,17,11,28,73,13,7,13,0,147,18,0,8,0,4,0,4,0,0,2,0,115,0,1,0,,,,,,,
 Colusa,California,2018-11-01,37,5,26,5,73,25,17,42,17,14,31,80,21,7,9,0,135,21,2,8,0,4,0,4,0,0,2,0,106,0,2,0,,,,,,,
 Colusa,California,2018-10-01,32,6,24,6,68,22,15,37,16,15,31,75,15,8,12,0,119,22,2,8,0,5,0,4,0,0,3,0,121,0,0,0,,,,,,,

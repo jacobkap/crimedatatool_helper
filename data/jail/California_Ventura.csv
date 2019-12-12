@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Ventura,California,2019-09-01,0,0,0,0,0,,,0,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ventura,California,2019-08-01,0,0,0,0,0,,,0,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ventura,California,2019-07-01,0,0,0,0,0,0,0,0,0,0,0,1682,961,132,388,0,1124,375,3,239,,,,,,,,,,,,,,,,,,,
+Ventura,California,2019-06-01,0,0,0,0,0,0,0,0,0,0,0,1664,951,116,368,0,940,454,3,215,,,,,,,,,,,,,,,,,,,
+Ventura,California,2019-05-01,0,0,0,0,0,0,0,0,0,0,0,1628,914,157,284,0,1084,487,7,271,0,,,,,,,,,,,,,,,,,,
+Ventura,California,2019-04-01,0,0,0,0,0,0,0,0,0,0,0,1647,840,135,349,,1108,474,,209,,,,,,,,,,,,,,,,,,,
+Ventura,California,2019-03-01,0,0,0,0,0,0,0,0,0,0,0,1642,822,136,348,0,1017,378,,188,,,,,,,,,,,,,,,,,,,
+Ventura,California,2019-02-01,0,0,0,0,0,0,0,0,0,0,0,1556,761,154,338,0,869,341,0,192,0,0,,,,,,,,,,,,,,,,,
+Ventura,California,2019-01-01,0,0,0,0,0,0,0,0,0,0,0,1531,758,203,351,0,988,344,0,188,0,,,,,,,,,,,,,,,,,,
 Ventura,California,2018-12-01,0,0,0,0,0,,,0,,,0,1514,650,142,275,0,762,339,58,211,0,,,,,,,,,,,,,,,,,,
 Ventura,California,2018-11-01,0,0,0,0,0,,,0,,,0,1576,602,136,319,0,908,347,84,204,,,,,,,,,,0,,,,,,,,,
 Ventura,California,2018-10-01,0,0,0,0,0,,,0,,,0,1643,558,116,327,0,1111,439,68,283,,,,,,,,,,,,,,,,,,,

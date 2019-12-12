@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Yuba,California,2019-09-01,297,29,39,11,376,310,40,350,16,10,26,388,198,73,90,0,347,122,11,43,0,0,0,180,0,1,16,0,475,0,0,0,,,,,,,
+Yuba,California,2019-08-01,282,32,49,6,369,293,45,338,21,10,31,394,208,99,101,0,460,153,9,42,0,0,0,175,0,0,19,0,482,0,0,0,,,,,,,
+Yuba,California,2019-07-01,285,37,49,7,378,305,49,354,17,7,24,395,205,84,110,0,225,225,22,26,0,0,0,191,0,0,7,0,518,0,0,0,,,,,,,
+Yuba,California,2019-06-01,284,29,44,14,371,299,49,348,14,9,23,381,328,62,93,0,530,237,19,40,0,0,0,184,0,0,15,0,423,0,0,0,,,,,,,
+Yuba,California,2019-05-01,286,37,48,6,377,308,44,352,15,10,25,385,203,91,113,0,410,192,21,58,0,0,0,186,0,0,20,0,443,0,0,0,,,,,,,
+Yuba,California,2019-04-01,302,33,49,7,391,320,49,369,15,7,22,404,192,80,102,0,405,220,13,45,0,0,0,188,0,0,11,0,466,0,0,0,,,,,,,
+Yuba,California,2019-03-01,271,34,52,5,362,288,51,339,17,6,23,380,178,100,156,0,402,226,17,14,0,0,0,170,0,0,14,0,537,0,0,0,,,,,,,
+Yuba,California,2019-02-01,288,31,46,9,374,306,50,356,13,5,18,374,181,58,158,0,523,283,15,42,0,0,0,171,0,0,11,0,375,0,0,0,,,,,,,
+Yuba,California,2019-01-01,269,26,38,13,346,275,42,317,20,9,29,357,182,75,130,0,485,173,3,58,0,0,0,171,0,0,19,0,466,0,0,0,,,,,,,
 Yuba,California,2018-12-01,261,28,44,6,339,271,43,314,18,7,25,357,206,111,115,0,451,191,14,38,0,0,0,174,0,0,8,0,391,0,0,0,,,,,,,
 Yuba,California,2018-11-01,256,36,45,3,340,279,41,320,13,7,20,345,181,87,102,0,353,155,12,0,0,0,0,184,0,0,15,0,348,0,0,0,,,,,,,
 Yuba,California,2018-10-01,259,31,49,8,347,273,47,320,17,10,27,371,176,106,92,0,434,200,15,46,0,0,0,178,0,0,12,0,501,0,0,0,,,,,,,

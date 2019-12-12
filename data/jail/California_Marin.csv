@@ -1,4 +1,13 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Marin,California,2019-09-01,182,28,59,15,284,156,50,206,54,24,78,298,13,172,33,26,348,155,18,40,,10,0,2,0,0,0,0,603,0,0,0,,,,,,,
+Marin,California,2019-08-01,188,22,56,15,281,164,45,209,46,26,72,292,14,190,28,25,259,150,17,43,,14,0,4,0,0,1,2,661,0,0,0,,,,,,,
+Marin,California,2019-07-01,182,25,61,9,277,155,43,198,52,27,79,296,19,166,41,25,324,81,19,45,,19,0,3,0,0,0,1,662,0,0,0,,,,,,,
+Marin,California,2019-06-01,168,24,73,8,273,141,50,191,51,31,82,288,10,179,36,19,332,65,11,39,,16,0,2,0,0,1,2,695,0,0,0,,,,,,,
+Marin,California,2019-05-01,172,22,59,12,265,146,43,189,48,28,76,284,12,180,38,24,317,93,19,40,,11,0,3,0,0,0,2,619,0,0,0,,,,,,,
+Marin,California,2019-04-01,177,23,54,8,262,148,41,189,52,21,73,282,12,180,32,32,257,85,17,27,,10,0,2,0,0,0,1,595,0,0,0,,,,,,,
+Marin,California,2019-03-01,184,23,61,12,280,165,47,212,42,26,68,288,14,156,26,27,233,96,5,30,,17,0,5,0,0,0,0,611,0,0,0,,,,,,,
+Marin,California,2019-02-01,191,26,71,14,302,170,52,222,47,33,80,330,45,175,41,29,267,93,6,35,,11,0,5,0,0,2,0,482,0,0,0,,,,,,,
+Marin,California,2019-01-01,220,28,76,19,343,182,54,236,66,41,107,344,13,205,47,26,406,131,9,30,,29,0,4,0,0,1,2,650,0,0,0,,,,,,,
 Marin,California,2018-12-01,195,29,81,19,324,172,63,235,52,37,89,334,23,190,49,30,275,69,6,35,3,14,0,4,0,0,2,1,589,0,0,0,,,,,,,
 Marin,California,2018-11-01,186,32,73,15,306,163,56,219,55,32,87,324,63,179,49,25,365,127,6,38,5,11,0,4,0,0,2,3,628,0,0,0,,,,,,,
 Marin,California,2018-10-01,186,30,85,17,318,162,63,225,54,39,93,336,8,163,48,8,245,125,3,35,7,29,0,4,0,0,1,2,697,0,0,0,,,,,,,
