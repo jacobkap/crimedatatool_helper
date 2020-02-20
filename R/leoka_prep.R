@@ -1,9 +1,9 @@
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA/leoka_yearly_1960_2017.rda")
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA/leoka_yearly_1960_2018.rda")
 source(here::here('R/utils.R'))
 
 
-police <- reorder_police(police_yearly_1960_2017)
-rm(police_yearly_1960_2017); gc();
+police <- reorder_police(leoka_yearly_1960_2018)
+rm(police_yearly_1960_2018); gc();
 
 police <- remove_duplicate_capitalize_names(police)
 police <-

@@ -1,12 +1,12 @@
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/hate_crimes/ucr_hate_crimes_1991_2017.rda")
+load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/hate_crimes/ucr_hate_crimes_1991_2018.rda")
 source(here::here('R/utils.R'))
 
-#type = "year"
-type = "month"
+type = "year"
+#type = "month"
 
 # Fewer than 0.005% of UCR offenses (10 from 1992-2017) are NA
 hate_crimes <-
-  ucr_hate_crimes_1991_2017 %>%
+  ucr_hate_crimes_1991_2018 %>%
   dplyr::filter(hate_crime_incident_present_flag %in%
                   "one or more hate crime incidents present",
                 !is.na(ucr_offense_code_1)) %>%
@@ -22,7 +22,7 @@ hate_crimes <-
                 -matches("_2|_3|_4|_5|_6|_7|_8|_9|_10")) %>%
   dplyr::rename(agency = crosswalk_agency_name,
                 ORI = ori9)
-rm(ucr_hate_crimes_1991_2017); gc()
+rm(ucr_hate_crimes_1991_2018); gc()
 # 96.63% of cases have only 1 offenses/bias motivations
 # 99.78% of cases have only 1 or two offenses/bias motivations
 
@@ -53,13 +53,13 @@ hate_crimes <-
   dplyr::mutate(year_month = floor_date(ymd(date), "month"))
 
 if (type == "month") {
-  setwd(here::here("data/hate_crimes_monthly"))
+  setwd(here::here("data/hate_monthly"))
   hate_crimes <-
     hate_crimes %>%
     dplyr::select(-year) %>%
     dplyr::rename(year = year_month)
 } else {
-  setwd(here::here("data/hate_crimes"))
+  setwd(here::here("data/hate"))
   hate_crimes$year_month <- NULL
 }
 
@@ -110,7 +110,9 @@ hate_crimes <-
   dplyr::select(starting_cols,
                 ends_with("_violent"),
                 ends_with("_nonviolent"),
-                ends_with("_total"))
+                ends_with("_total")) %>%
+  arrange(ORI,
+          desc(year))
 hate_crimes <- remove_duplicate_capitalize_names(hate_crimes)
 hate_crimes$agency <- gsub(":", "", hate_crimes$agency)
 hate_crimes$state  <- gsub("Washington D.C.",
@@ -122,4 +124,5 @@ hate_crimes$year <- as.character(hate_crimes$year)
 make_state_agency_choices(hate_crimes)
 make_largest_agency_json(hate_crimes)
 
+hate_crimes$year <- as.numeric(hate_crimes$year)
 make_agency_csvs(hate_crimes, type = type)

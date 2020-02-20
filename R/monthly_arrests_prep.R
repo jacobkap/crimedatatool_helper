@@ -1,7 +1,7 @@
 source(here::here('R/utils.R'))
 
 
-for (year in 1974:2016) {
+for (year in 1974:2018) {
   setwd("C:/Users/user/Dropbox/R_project/crime_data/clean_data/arrests")
   load(paste0("ucr_arrests_monthly_all_crimes_totals_sex_", year, ".rda"))
   temp_sex <- get(paste0("ucr_arrests_monthly_all_crimes_totals_sex_", year))

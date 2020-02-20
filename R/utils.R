@@ -209,15 +209,21 @@ combine_sex_race_arrests <- function(sex_arrests,
 
 make_monthly_agency_csvs <- function(type) {
 
-  for (state_group in 1:10) {
+  for (state_group in 1:51) {
     #setwd(here::here("data/temp"))
     setwd("~/crimedatatool_helper/data/temp")
+    if (type == "police") {
+      type <- "leoka"
+    }
     load(paste0("monthly_", type, "_state_group_", state_group, ".rda"))
 
     temp_state <- remove_duplicate_capitalize_names(temp_state)
 
     # setwd(here::here(paste0("data/", type, "_monthly")))
 
+    if (type == "leoka") {
+      type <- "police"
+    }
     setwd(paste0("~/crimedatatool_helper/data/", type, "_monthly"))
     agency <- unique(temp_state$agency)
     agency <- jsonlite::toJSON(agency, pretty = FALSE)

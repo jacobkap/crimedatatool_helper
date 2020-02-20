@@ -18,9 +18,9 @@ family <-
   dplyr::select(-month) %>%
   dplyr::arrange(desc(fiscal_year))
 
-seizures <- apprehensions_seizures_stats_2011_2017 %>%
+seizures <- apprehensions_seizures_stats_2011_2018 %>%
   dplyr::select(-aliens_special_interest_county)
-border <- sector_profile_2011_2017
+border <- sector_profile_2011_2018
 save_as_csv(border, "sector_profile")
 save_as_csv(seizures, "seizures")
 save_as_csv(southwest_border_apprehensions_1960_2018, "southwest_apprehensions")

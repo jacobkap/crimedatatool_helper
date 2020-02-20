@@ -1,7 +1,7 @@
 source(here::here('R/utils.R'))
 
 
-for (year in 1972:2017) {
+for (year in 1972:2018) {
   setwd("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA")
   load(paste0("leoka_monthly_", year, ".rda"))
   temp <- get(paste0("leoka_monthly_", year))
@@ -13,7 +13,7 @@ for (year in 1972:2017) {
     dplyr::rename(year = date)
 
 
-  temp <- reorder_leoka(temp)
+  temp <- reorder_police(temp)
 
   save_monthly_state_temp(temp, start_year = 1972, type = "leoka")
   rm(temp); gc()
@@ -22,8 +22,8 @@ for (year in 1972:2017) {
 }
 
 
-make_monthly_agency_csvs(type = "leoka")
+make_monthly_agency_csvs(type = "police")
 
-setwd(here::here("data/leoka"))
+setwd(here::here("data/police"))
 files <- list.files(pattern = "largest_agency_choices")
-file.copy(files, paste0(here::here("data/leoka_monthly/")))
+file.copy(files, here::here("data/police_monthly/"), overwrite = TRUE)

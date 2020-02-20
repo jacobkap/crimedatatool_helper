@@ -56,6 +56,10 @@
     "agency": "Guam"
   },
   {
+    "state": "Hawaii",
+    "agency": "Honolulu (city And County) Police Department"
+  },
+  {
     "state": "Iowa",
     "agency": "Des Moines Police Department"
   },
@@ -120,10 +124,6 @@
     "agency": "Omaha Police Dept"
   },
   {
-    "state": "Nebraska",
-    "agency": "Omaha Police Dept"
-  },
-  {
     "state": "North Carolina",
     "agency": "Charlotte - Mecklenburg Police Department"
   },
@@ -181,7 +181,7 @@
   },
   {
     "state": "Tennessee",
-    "agency": "Memphis Police Department"
+    "agency": "Nashville Metro Police Department"
   },
   {
     "state": "Texas",

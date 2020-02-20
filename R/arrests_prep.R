@@ -2,7 +2,7 @@ source(here::here('R/utils.R'))
 load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/arrests/ucr_arrests_yearly_all_crimes_totals_race_1974_2016.rda")
 load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/arrests/ucr_arrests_yearly_all_crimes_totals_sex_1974_2016.rda")
 
-ucr_arrests_yearly_all_crimes_totals_sex_1974_2016 <-
+ucr_arrests_yearly_all_crimes_totals_sex_1974_2018 <-
   ucr_arrests_yearly_all_crimes_totals_sex_1974_2016 %>%
   dplyr::filter(number_of_months_reported %in% 12)
 gc()

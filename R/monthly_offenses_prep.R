@@ -1,6 +1,6 @@
 source(here::here('R/utils.R'))
 
-for (year in 1960:2017) {
+for (year in 1960:2018) {
   setwd("C:/Users/user/Dropbox/R_project/crime_data/clean_data/offenses_known")
 
   load(paste0("offenses_known_monthly_", year, ".rda"))
@@ -9,7 +9,7 @@ for (year in 1960:2017) {
 
   temp <-
     temp %>%
-    dplyr::filter(number_of_months_reported %in% 12) %>%
+    dplyr::filter(number_of_months_missing %in% 0) %>%
     dplyr::left_join(crosswalk_agencies, by = "ori") %>%
     dplyr::filter(agency != "NANA",
                   ori    != "FL01394") %>%
@@ -32,4 +32,5 @@ make_monthly_agency_csvs(type = "offenses")
 
 setwd(here::here("data/offenses"))
 files <- list.files(pattern = "largest_agency_choices")
-file.copy(files, paste0(here::here("data/offenses_monthly/")))
+file.copy(files, paste0(here::here("data/offenses_monthly/")),
+          overwrite = TRUE)
