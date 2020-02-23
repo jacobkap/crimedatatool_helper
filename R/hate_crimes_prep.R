@@ -123,6 +123,8 @@ hate_crimes$year <- as.character(hate_crimes$year)
 
 make_state_agency_choices(hate_crimes)
 make_largest_agency_json(hate_crimes)
+# if (type == "year") {
+#   hate_crimes$year <- as.numeric(hate_crimes$year)
+# }
 
-hate_crimes$year <- as.numeric(hate_crimes$year)
-make_agency_csvs(hate_crimes, type = type)
+make_yearly_agency_csvs(hate_crimes, type = type)

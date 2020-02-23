@@ -100,6 +100,6 @@ state_level_data$actual_index_total <- state_level_data$actual_index_property +
   state_level_data$actual_index_violent
 
 setwd(here::here("data/offenses"))
-make_agency_csvs(state_level_data, estimates = TRUE)
+make_yearly_agency_csvs(state_level_data, estimates = TRUE)
 ucr <- dplyr::bind_rows(ucr, state_level_data)
 make_state_agency_choices(ucr)

@@ -12,6 +12,6 @@ police <-
   dplyr::select(-number_of_months_reported)
 
 setwd(here::here("data/police"))
-make_agency_csvs(police)
+make_yearly_agency_csvs(police)
 make_state_agency_choices(police)
 make_largest_agency_json(police)
