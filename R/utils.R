@@ -1,4 +1,4 @@
-load(here::here("data/crosswalk_agencies.rda"))
+load("~/crimedatatool_helper//data/crosswalk_agencies.rda")
 library(tidyverse)
 library(data.table)
 library(fastDummies)
@@ -7,7 +7,7 @@ library(readr)
 library(here)
 library(dplyr)
 library(lubridate)
-source(here::here("R/utils_objects.R"))
+source("~/crimedatatool_helper//R/utils_objects.R")
 
 states <- c(tolower(state.name), "district of columbia")
 
@@ -218,6 +218,7 @@ make_monthly_agency_csvs <- function(type) {
     load(paste0("monthly_", type, "_state_group_", state_group, ".rda"))
 
     temp_state <- remove_duplicate_capitalize_names(temp_state)
+    temp_state <- temp_state[!is.na(temp_state$year), ]
 
     # setwd(here::here(paste0("data/", type, "_monthly")))
 

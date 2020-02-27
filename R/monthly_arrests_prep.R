@@ -1,18 +1,18 @@
-source(here::here('R/utils.R'))
+source('~/crimedatatool_helper/R/utils.R')
 
 
 for (year in 1974:2018) {
-  setwd("C:/Users/user/Dropbox/R_project/crime_data/clean_data/arrests")
-  load(paste0("ucr_arrests_monthly_all_crimes_totals_sex_", year, ".rda"))
-  temp_sex <- get(paste0("ucr_arrests_monthly_all_crimes_totals_sex_", year))
+  setwd("D:/ucr_data_storage/clean_data/arrests")
+  load(paste0("ucr_arrests_monthly_all_crimes_sex_", year, ".rda"))
+  temp_sex <- get(paste0("ucr_arrests_monthly_all_crimes_sex_", year))
   temp_sex <-
     temp_sex  %>%
     select(-matches("num_months"))
-  rm(list = paste0("ucr_arrests_monthly_all_crimes_totals_sex_", year))
+  rm(list = paste0("ucr_arrests_monthly_all_crimes_sex_", year))
 
-  load(paste0("ucr_arrests_monthly_all_crimes_totals_race_", year, ".rda"))
-  temp_race <- get(paste0("ucr_arrests_monthly_all_crimes_totals_race_", year))
-  rm(list = paste0("ucr_arrests_monthly_all_crimes_totals_race_", year))
+  load(paste0("ucr_arrests_monthly_all_crimes_race_", year, ".rda"))
+  temp_race <- get(paste0("ucr_arrests_monthly_all_crimes_race_", year))
+  rm(list = paste0("ucr_arrests_monthly_all_crimes_race_", year))
   temp_race <-
     temp_race  %>%
     select(-matches("num_months"))
@@ -61,7 +61,6 @@ for (year in 1974:2018) {
 
 
 make_monthly_agency_csvs(type = "arrests")
-
-setwd(here::here("data/arrests"))
+setwd("~/crimedatatool_helper/data/arrests")
 files <- list.files(pattern = "largest_agency_choices")
 file.copy(files, paste0(here::here("data/arrests_monthly/")), overwrite = TRUE)
