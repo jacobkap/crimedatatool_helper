@@ -259,40 +259,6 @@ make_agency_csvs <- function(data,
                      county = county,
                      estimates = estimates)
 
-  # data <- data.table::data.table(data)
-  # pb <- txtProgressBar(min = 0, max = length(unique(data$ORI)), style = 3)
-  # for (i in 1:length(unique(data$ORI))) {
-  #   selected_ori <- unique(data$ORI)[i]
-  #   temp   <- data[ORI == selected_ori]
-  #
-  #   if (county) {
-  #     names(temp) <- gsub("^ORI$", "agency", names(temp))
-  #   } else {
-  #     temp   <- dummy_rows_missing_years(temp, type = type)
-  #   }
-  #
-  #   state  <- unique(temp$state)
-  #   agency <- unique(temp$agency)
-  #   state  <- gsub(" ", "_", state)
-  #   agency <- gsub(" |:", "_", agency)
-  #   agency <- gsub("/", "_", agency)
-  #   agency <- gsub("_+", "_", agency)
-  #   agency <- gsub("\\(|\\)", "", agency)
-  #
-  #   if (county) {
-  #     names(temp) <- gsub("^agency$", "county", names(temp))
-  #   }
-  #
-  #   if (estimates) {
-  #     temp$ORI <- NA
-  #   }
-  #
-  #   data.table::fwrite(temp,
-  #                      file = paste0(state, "_", agency, ".csv"))
-  #
-  #   setTxtProgressBar(pb, i)    # update progress bar
-  # }
-  # close(pb)
 }
 
 make_csv_test <- function(temp, type, county = FALSE, estimates = FALSE) {
