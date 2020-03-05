@@ -1,8 +1,8 @@
 load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/hate_crimes/ucr_hate_crimes_1991_2018.rda")
 source(here::here('R/utils.R'))
 
-type = "year"
-#type = "month"
+#type = "year"
+type = "month"
 
 # Fewer than 0.005% of UCR offenses (10 from 1992-2017) are NA
 hate_crimes <-
@@ -113,6 +113,7 @@ hate_crimes <-
                 ends_with("_total")) %>%
   arrange(ORI,
           desc(year))
+hate_crimes$agency <- gsub("\\(|\\)", "", hate_crimes$agency)
 hate_crimes <- remove_duplicate_capitalize_names(hate_crimes)
 hate_crimes$agency <- gsub(":", "", hate_crimes$agency)
 hate_crimes$state  <- gsub("Washington D.C.",
