@@ -58,11 +58,11 @@ arrests <-
                 state,
                 population,
                 dplyr::everything())
-
+arrests$agency <- gsub("\\(|\\)", "", arrests$agency)
 arrests <- remove_duplicate_capitalize_names(arrests)
 
 setwd("~/crimedatatool_helper/data/arrests")
-make_agency_csvs(arrests)
+#make_agency_csvs(arrests)
 make_state_agency_choices(arrests)
 make_largest_agency_json(arrests)
 rm(arrests)
