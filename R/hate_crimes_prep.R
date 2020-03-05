@@ -127,4 +127,4 @@ make_largest_agency_json(hate_crimes)
 #   hate_crimes$year <- as.numeric(hate_crimes$year)
 # }
 
-make_yearly_agency_csvs(hate_crimes, type = type)
+#make_agency_csvs(hate_crimes, type = type)

@@ -37,9 +37,7 @@ make_state_agency_choices <- function(data) {
   for (selected_state in unique(data$state)) {
     temp   <- data[state %in% selected_state]
     agency <- unique(temp$agency)
-    agency <- gsub(" |:", "_", agency)
-    agency <- gsub("/", "_", agency)
-    agency <- gsub("_+", "_", agency)
+
     agency <- jsonlite::toJSON(agency, pretty = FALSE)
     write(agency, paste0(selected_state, "_agency_choices.json"))
   }
