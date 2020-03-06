@@ -217,7 +217,7 @@ make_monthly_agency_csvs <- function(type) {
       type <- "leoka"
     }
     load(paste0("monthly_", type, "_state_group_", state_group, ".rda"))
-    arrests$agency <- gsub("\\(|\\)", "", arrests$agency)
+    temp_state$agency <- gsub("\\(|\\)", "", temp_state$agency)
     temp_state <- remove_duplicate_capitalize_names(temp_state)
     temp_state <- temp_state[!is.na(temp_state$year), ]
 
