@@ -1,8 +1,8 @@
 load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/hate_crimes/ucr_hate_crimes_1991_2018.rda")
 source(here::here('R/utils.R'))
 
-type = "year"
-#type = "month"
+#type = "year"
+type = "month"
 
 # Fewer than 0.005% of UCR offenses (10 from 1992-2017) are NA
 hate_crimes <-
