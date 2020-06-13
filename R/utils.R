@@ -186,7 +186,7 @@ combine_sex_race_arrests <- function(sex_arrests,
                   dplyr::matches("fraud"),
 
                   dplyr::matches("gamble_total"),
-                  dplyr::matches("gamble_bookmaker"),
+                  dplyr::matches("gamble_bookmake"),
                   dplyr::matches("gamble_lottery"),
                   dplyr::matches("gamble_other"),
 

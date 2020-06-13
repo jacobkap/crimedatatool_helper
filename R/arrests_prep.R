@@ -48,6 +48,10 @@ rm(ucr_sex,
    ucr_race)
 gc()
 
+for (arrest_category in arrest_categories) {
+  arrests[, paste0("all_arrests_total_", arrest_category)] <-
+    rowSums(arrests[, paste0(all_unique_arrest_cols, "_", arrest_category )], na.rm = TRUE)
+}
 
 
 arrests <-

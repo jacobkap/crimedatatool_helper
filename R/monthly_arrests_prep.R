@@ -1,6 +1,5 @@
 source('~/crimedatatool_helper/R/utils.R')
 
-
 for (year in 1974:2018) {
   setwd("D:/ucr_data_storage/clean_data/arrests")
   load(paste0("ucr_arrests_monthly_all_crimes_sex_", year, ".rda"))
@@ -40,7 +39,13 @@ for (year in 1974:2018) {
   temp <- combine_sex_race_arrests(temp_sex,
                                    temp_race,
                                    crosswalk_agencies) %>%
-    dplyr::filter(!is.na(ORI)) %>%
+    dplyr::filter(!is.na(ORI))
+  for (arrest_category in arrest_categories) {
+    temp[, paste0("all_arrests_total_", arrest_category)] <-
+      rowSums(temp[, paste0(all_unique_arrest_cols, "_", "tot_adult" )], na.rm = TRUE)
+  }
+  temp <-
+    temp %>%
     dplyr::select(agency,
                   ORI,
                   year,
