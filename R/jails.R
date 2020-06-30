@@ -57,7 +57,7 @@ ca_jails <-
                 everything()) %>%
   dplyr::arrange(county,
                  desc(year)) %>%
-  dplyr::filter(year < ymd("2019-10-1"))
+  dplyr::filter(year <= ymd("2020-03-01"))
 
 setwd(here::here("data/jail"))
 make_agency_csvs(ca_jails, county = TRUE)

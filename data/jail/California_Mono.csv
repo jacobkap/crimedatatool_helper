@@ -1,4 +1,10 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Mono,California,2020-03-01,17,1,7,1,26,13,5,18,5,3,8,30,0,0,0,0,13,13,5,0,0,0,0,0,0,0,0,0,27,0,0,0,,,,,,,
+Mono,California,2020-02-01,20,0,9,1,30,15,6,21,5,4,9,34,2,0,0,0,8,6,8,2,0,0,0,0,0,0,1,0,41,0,0,0,,,,,,,
+Mono,California,2020-01-01,19,2,9,0,30,16,6,22,5,3,8,34,4,2,0,0,16,11,16,5,0,0,0,0,0,0,0,0,53,0,0,0,,,,,,,
+Mono,California,2019-12-01,17,2,7,0,26,14,4,18,5,3,8,31,3,0,0,0,14,14,14,1,0,0,0,0,0,0,1,0,32,0,0,0,,,,,,,
+Mono,California,2019-11-01,17,2,7,0,26,14,4,18,5,3,8,32,3,1,0,0,11,10,6,1,0,0,0,0,0,0,0,0,32,0,0,0,,,,,,,
+Mono,California,2019-10-01,19,2,12,0,33,14,7,21,7,5,12,38,3,0,0,0,8,18,8,3,0,0,0,0,0,0,1,0,27,0,0,0,,,,,,,
 Mono,California,2019-09-01,21,1,12,0,34,17,7,24,5,5,10,39,0,3,0,0,6,6,6,3,0,0,0,0,0,0,0,0,53,0,0,0,,,,,,,
 Mono,California,2019-08-01,19,0,12,0,31,15,7,22,4,5,9,38,0,0,0,0,6,6,6,4,0,0,0,0,0,0,0,0,44,0,0,0,,,,,,,
 Mono,California,2019-07-01,20,0,14,1,35,16,9,25,4,6,10,41,1,0,1,0,4,4,4,2,0,0,0,0,0,0,0,0,54,0,0,0,,,,,,,

@@ -1,4 +1,10 @@
 county,state,year,avg_daily_pop_unsentenced_male,avg_daily_pop_unsentenced_female,avg_daily_pop_sentenced_male,avg_daily_pop_sentenced_female,avg_daily_pop_total_jurisdiction,avg_felony_inmate_unsentenced,avg_felony_inmate_sentenced,avg_felony_inmate_total,avg_misdemean_inmate_unsentenced,avg_misdemean_inmate_sentenced,avg_misdemean_inmate_total,highest_inmate_count,mental_heath_case_open_end_month,num_new_mental_health_cases,num_inmate_get_psych_meds,num_inmate_get_mental_heath_bed,num_inmates_seen_sick_call,num_doctor_occurrences,num_offsite_medical_appointment,num_dental_encounters,avg_inmate_get_sick_bed,avg_inmate_not_assign_housing,avg_own_inmate_housed_elsewhere,avg_fed_inmate_housed_contract,avg_state_inmate_housed_contract,avg_local_inmate_housed_contract,avg_inmate_wait_transport_prison,avg_inmate_in_hospital,total_num_persons_booked,tot_pretrial_release_lack_bed,tot_sentenced_release_lack_bed,total_juv_in_custody,adp_of_maximum_security_inmates,adp_of_medium_security_inmates,adp_of_minimum_security_inmates,avg_inmates_get_medical_bed,avg_inmates_get_mental_heath_bed,avg_inmate_need_reg_med_attent,avg_inmates_need_reg_ment_health
+Modoc,California,2020-03-01,20,3,7,2,32,21,7,28,2,2,4,38,13,1,13,0,37,20,2,1,0,1,0,0,0,0,3,0,38,2,1,0,,,,,,,
+Modoc,California,2020-02-01,23,4,8,6,41,22,11,33,5,3,8,45,16,2,16,0,13,7,3,2,0,1,0,0,0,0,5,0,39,3,2,0,,,,,,,
+Modoc,California,2020-01-01,18,6,7,2,33,22,8,30,2,1,3,41,21,3,21,0,16,16,4,4,0,1,0,0,0,0,3,0,53,2,3,0,,,,,,,
+Modoc,California,2019-12-01,25,3,8,3,39,25,9,34,3,2,5,43,14,2,14,0,22,11,3,2,0,1,0,0,0,0,5,0,54,3,5,0,,,,,,,
+Modoc,California,2019-11-01,20,5,8,5,38,21,10,31,4,3,7,40,13,2,13,0,19,19,3,3,0,1,0,0,0,0,4,0,40,3,1,0,,,,,,,
+Modoc,California,2019-10-01,19,7,10,3,39,23,9,32,3,4,7,41,17,2,17,,0,20,4,3,0,1,0,0,0,0,6,0,48,4,2,0,,,,,,,
 Modoc,California,2019-09-01,21,3,6,3,33,19,7,26,5,2,7,38,18,1,18,0,24,11,4,4,0,1,0,0,0,0,4,0,45,1,0,0,,,,,,,
 Modoc,California,2019-08-01,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Modoc,California,2019-07-01,20,7,9,3,39,23,10,33,4,2,6,42,16,2,16,0,27,9,7,7,0,1,0,0,0,0,4,0,57,4,1,0,,,,,,,
