@@ -1,7 +1,6 @@
 source(here::here('R/utils.R'))
 load("C:/Users/user/Dropbox/R_project/alcohol/data/apparent_per_capita_alcohol_consumption.rda")
-apparent_per_capita_alcohol_consumption$state <- sapply(apparent_per_capita_alcohol_consumption$state,
-                                                        simpleCap)
+apparent_per_capita_alcohol_consumption$state <- sapply(apparent_per_capita_alcohol_consumption$state, simpleCap)
 apparent_per_capita_alcohol_consumption <-
   apparent_per_capita_alcohol_consumption %>%
   dplyr::mutate(number_of_beers = round(number_of_beers),
