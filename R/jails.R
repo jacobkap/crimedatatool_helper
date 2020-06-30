@@ -37,9 +37,9 @@ make_largest_agency_json(texas_jails)
 
 
 setwd("C:/Users/user/Dropbox/R_project/california_jails/clean_data")
-load('california_jail_county_monthly_1995_2019.rda')
+load('california_jail_county_monthly_1995_2020.rda')
 ca_jails <-
-  california_jail_county_monthly_1995_2018 %>%
+  california_jail_county_monthly_1995_2020 %>%
   dplyr::rename(county = jurisdiction) %>%
   dplyr::select(-date,
                 -census_county_name,
