@@ -1,7 +1,7 @@
 source(here::here('R/utils.R'))
 
 
-for (year in 1972:2018) {
+for (year in 1972:2020) {
   setwd("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA")
   load(paste0("leoka_monthly_", year, ".rda"))
   temp <- get(paste0("leoka_monthly_", year))

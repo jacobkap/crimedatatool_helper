@@ -1,9 +1,8 @@
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA/leoka_yearly_1960_2018.rda")
+police <- readRDS("D:/ucr_data_storage/clean_data/LEOKA/leoka_yearly_1960_2020.rds")
 source(here::here('R/utils.R'))
 
 
-police <- reorder_police(leoka_yearly_1960_2018)
-rm(police_yearly_1960_2018); gc();
+police <- reorder_police(police)
 police$agency <- gsub("\\(|\\)", "", police$agency)
 police <- remove_duplicate_capitalize_names(police)
 
