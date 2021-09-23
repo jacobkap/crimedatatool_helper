@@ -1,15 +1,21 @@
 source(here::here('R/utils.R'))
 
-for (year in 1960:2018) {
-  setwd("C:/Users/user/Dropbox/R_project/crime_data/clean_data/offenses_known")
-
-  load(paste0("offenses_known_monthly_", year, ".rda"))
-  temp <- get(paste0("offenses_known_monthly_", year))
-  rm(list = paste0("offenses_known_monthly_", year))
+for (year in 1960:2020) {
+  setwd("D:/ucr_data_storage/clean_data/offenses_known")
+  temp <- readRDS(paste0("offenses_known_monthly_", year, ".rds"))
 
   temp <-
     temp %>%
-    dplyr::filter(number_of_months_missing %in% 0) %>%
+    dplyr::filter(number_of_months_missing %in% 0)
+
+  if (year %in% 2018:2020) {
+    temp <-
+      temp %>%
+      dplyr::filter(last_month_reported %in% "december")
+  }
+
+ temp <-
+   temp %>%
     dplyr::left_join(crosswalk_agencies, by = "ori") %>%
     dplyr::filter(agency != "NANA",
                   ori    != "FL01394") %>%

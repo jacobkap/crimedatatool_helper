@@ -2,9 +2,9 @@ police <- readRDS("D:/ucr_data_storage/clean_data/LEOKA/leoka_yearly_1960_2020.r
 source(here::here('R/utils.R'))
 
 
-police <- reorder_police(police)
+police        <- reorder_police(police)
 police$agency <- gsub("\\(|\\)", "", police$agency)
-police <- remove_duplicate_capitalize_names(police)
+police        <- remove_duplicate_capitalize_names(police)
 
 
 police_employees_only <-
@@ -31,7 +31,8 @@ police <-
   dplyr::select(-number_of_months_reported) %>%
   dplyr::bind_rows(police_employees_only) %>%
   dplyr::arrange(ORI,
-                 desc(year))
+                 desc(year)) %>%
+  dplyr::filter(state != "NANA")
 
 setwd(here::here("data/police"))
 make_agency_csvs(police)

@@ -2,10 +2,9 @@ source(here::here('R/utils.R'))
 
 
 for (year in 1972:2020) {
-  setwd("C:/Users/user/Dropbox/R_project/crime_data/clean_data/LEOKA")
-  load(paste0("leoka_monthly_", year, ".rda"))
-  temp <- get(paste0("leoka_monthly_", year))
-  rm(list = paste0("leoka_monthly_", year))
+  setwd("D:/ucr_data_storage/clean_data/LEOKA")
+  temp <- readRDS(paste0("leoka_monthly_", year, ".rds"))
+
   temp <-
     temp %>%
     dplyr::filter(number_of_months_reported %in% 12) %>%
@@ -23,7 +22,6 @@ for (year in 1972:2020) {
 
 
 make_monthly_agency_csvs(type = "police")
-
 setwd(here::here("data/police"))
 files <- list.files(pattern = "largest_agency_choices")
 file.copy(files, here::here("data/police_monthly/"), overwrite = TRUE)

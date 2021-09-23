@@ -254,9 +254,10 @@ make_agency_csvs <- function(data,
   data <-
     data %>%
     dplyr::group_split(ORI)
-  parallel::mclapply(data, make_csv_test,
-                     type = type,
-                     county = county,
+  parallel::mclapply(data,
+                     make_csv_test,
+                     type      = type,
+                     county    = county,
                      estimates = estimates)
 
 }
@@ -288,8 +289,7 @@ make_csv_test <- function(temp, type, county = FALSE, estimates = FALSE) {
 }
 
 save_monthly_state_temp <- function(data, start_year, type) {
-  # setwd(here::here("data/temp"))
-  setwd("~/crimedatatool_helper/data/temp")
+  setwd(here::here("data/temp"))
   for (state_group in 1:length(states)) {
     selected_states <- states[state_group]
     if (year != start_year) {
