@@ -1,53 +1,81 @@
 source('~/crimedatatool_helper/R/utils.R')
 setwd("D:/ucr_data_storage/clean_data/arrests")
-load("ucr_arrests_yearly_all_crimes_race_1974_1994.rda")
-ucr_arrests_yearly_all_crimes_race_1974_1994 <-
-  ucr_arrests_yearly_all_crimes_race_1974_1994 %>%
-  filter(number_of_months_reported %in% 12) %>%
-  select(-matches("num_months"))
-load("ucr_arrests_yearly_all_crimes_sex_1974_1994.rda")
-ucr_arrests_yearly_all_crimes_sex_1974_1994 <-
-  ucr_arrests_yearly_all_crimes_sex_1974_1994 %>%
-  filter(number_of_months_reported %in% 12) %>%
-  select(-matches("num_months"))
-load("ucr_arrests_yearly_all_crimes_race_1995_2018.rda")
-ucr_arrests_yearly_all_crimes_race_1995_2018 <-
-  ucr_arrests_yearly_all_crimes_race_1995_2018 %>%
-  filter(number_of_months_reported %in% 12) %>%
-  select(-matches("num_months"))
-load("ucr_arrests_yearly_all_crimes_sex_1995_2018.rda")
-ucr_arrests_yearly_all_crimes_sex_1995_2018 <-
-  ucr_arrests_yearly_all_crimes_sex_1995_2018 %>%
+arrests <- readRDS("D:/ucr_data_storage/clean_data/arrests/ucr_arrests_yearly_all_crimes_race_sex_1974_2020.rds") %>%
   filter(number_of_months_reported %in% 12) %>%
   select(-matches("num_months"))
 
+arrests <-
+  arrests %>%
+  dplyr::filter(!state %in% c("guam",
+                              "canal zone",
+                              "puerto rico",
+                              "virgin islands")) %>%
+  dplyr::left_join(crosswalk_agencies, by = "ori") %>%
+  dplyr::filter(agency != "NANA",
+                state != "98") %>%
+  dplyr::select(-one_of(arrests_to_drop)) %>%
+  dplyr::rename(ORI = ori) %>%
+  dplyr::select(starting_cols,
+                dplyr::matches("tot_adult"),
+                dplyr::matches("tot_juv"),
+                dplyr::matches("tot_arrests"),
+                dplyr::matches("tot_(fe)?male_adult$"),
+                dplyr::matches("tot_(fe)?male_juv$"),
+                dplyr::matches("tot_(fe)?male$"),
+                dplyr::matches("adult_(asian|amer|black|white)"),
+                dplyr::matches("juv_(asian|amer|black|white)"),
+                dplyr::matches("tot_(asian|amer|black|white)"),
+                everything()) %>%
+  dplyr::select(starting_cols,
+                dplyr::matches("agg_assault"),
+                dplyr::matches("all_other"),
+                dplyr::matches("oth_assault"),
+                dplyr::matches("arson"),
+                dplyr::matches("burglary"),
+                dplyr::matches("curfew_loiter"),
+                dplyr::matches("disorder_cond"),
 
-ucr_sex <-
-  ucr_arrests_yearly_all_crimes_sex_1974_1994 %>%
-  bind_rows(ucr_arrests_yearly_all_crimes_sex_1995_2018)
-gc()
-rm(ucr_arrests_yearly_all_crimes_sex_1974_1994,
-   ucr_arrests_yearly_all_crimes_sex_1995_2018)
-gc()
-common_names <- names(ucr_sex)[names(ucr_sex) %in% names(ucr_arrests_yearly_all_crimes_race_1974_1994)]
-common_names <- common_names[!common_names %in% c("ori", "year")]
+                dplyr::matches("total_drug"),
+                dplyr::matches("poss_drug_total"),
+                dplyr::matches("poss_synth_narc"),
+                dplyr::matches("poss_cannabis"),
+                dplyr::matches("poss_heroin_coke"),
+                dplyr::matches("poss_other_drug"),
+                dplyr::matches("sale_drug_total"),
+                dplyr::matches("sale_synth_narc"),
+                dplyr::matches("sale_cannabis"),
+                dplyr::matches("sale_heroin_coke"),
+                dplyr::matches("sale_other_drug"),
 
-ucr_race <-
-  ucr_arrests_yearly_all_crimes_race_1974_1994 %>%
-  bind_rows(ucr_arrests_yearly_all_crimes_race_1995_2018) %>%
-  dplyr::select(-one_of(common_names))
-rm(ucr_arrests_yearly_all_crimes_race_1974_1994,
-   ucr_arrests_yearly_all_crimes_race_1995_2018)
-gc()
+                dplyr::matches("drunkenness"),
+                dplyr::matches("dui"),
+                dplyr::matches("embezzlement"),
+                dplyr::matches("family_off"),
+                dplyr::matches("forgery"),
+                dplyr::matches("fraud"),
 
-arrests <- combine_sex_race_arrests(ucr_sex,
-                                    ucr_race,
-                                    crosswalk_agencies)
+                dplyr::matches("gamble_total"),
+                dplyr::matches("gamble_bookmake"),
+                dplyr::matches("gamble_lottery"),
+                dplyr::matches("gamble_other"),
 
-rm(ucr_sex,
-   ucr_race)
-gc()
+                dplyr::matches("liquor"),
+                dplyr::matches("manslaught_neg"),
+                dplyr::matches("mtr_veh_theft"),
+                dplyr::matches("murder"),
+                dplyr::matches("prostitution"),
+                dplyr::matches("rape"),
+                dplyr::matches("robbery"),
+                dplyr::matches("runaways"),
+                dplyr::matches("oth_sex_off"),
+                dplyr::matches("stolen_prop"),
+                dplyr::matches("suspicion"),
+                dplyr::matches("theft"),
+                dplyr::matches("vagrancy"),
+                dplyr::matches("vandalism"),
+                dplyr::matches("weapons"))
 
+arrests <- data.frame(arrests)
 for (arrest_category in arrest_categories) {
   arrests[, paste0("all_arrests_total_", arrest_category)] <-
     rowSums(arrests[, paste0(all_unique_arrest_cols, "_", arrest_category )], na.rm = TRUE)

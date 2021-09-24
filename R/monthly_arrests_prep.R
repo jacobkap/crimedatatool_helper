@@ -1,6 +1,6 @@
 source('~/crimedatatool_helper/R/utils.R')
 
-for (year in 1974:2018) {
+for (year in 1974:2020) {
   setwd("D:/ucr_data_storage/clean_data/arrests")
   load(paste0("ucr_arrests_monthly_all_crimes_sex_", year, ".rda"))
   temp_sex <- get(paste0("ucr_arrests_monthly_all_crimes_sex_", year))
