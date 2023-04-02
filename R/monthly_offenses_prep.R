@@ -1,6 +1,6 @@
 source(here::here('R/utils.R'))
 
-for (year in 1960:2020) {
+for (year in 1960:2021) {
   setwd("D:/ucr_data_storage/clean_data/offenses_known")
   temp <- readRDS(paste0("offenses_known_monthly_", year, ".rds"))
 
@@ -8,7 +8,7 @@ for (year in 1960:2020) {
     temp %>%
     dplyr::filter(number_of_months_missing %in% 0)
 
-  if (year %in% 2018:2020) {
+  if (year %in% 2018:2021) {
     temp <-
       temp %>%
       dplyr::filter(last_month_reported %in% "december")

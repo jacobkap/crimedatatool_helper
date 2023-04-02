@@ -1,6 +1,6 @@
 source('~/crimedatatool_helper/R/utils.R')
 
-for (year in 1974:2020) {
+for (year in 1974:2021) {
   setwd("D:/ucr_data_storage/clean_data/arrests")
   temp <- readRDS(paste0("ucr_arrests_monthly_all_crimes_race_sex_", year, ".rds")) %>%
     dplyr::mutate(date = paste0(year, "-", month, "-1"),
