@@ -1,7 +1,7 @@
 source(here::here('R/utils.R'))
 
 for (year in 1960:2021) {
-  setwd("D:/ucr_data_storage/clean_data/offenses_known")
+  setwd("E:/ucr_data_storage/clean_data/offenses_known")
   temp <- readRDS(paste0("offenses_known_monthly_", year, ".rds"))
 
   temp <-

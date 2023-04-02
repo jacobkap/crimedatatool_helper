@@ -1,6 +1,6 @@
 source('~/crimedatatool_helper/R/utils.R')
-setwd("D:/ucr_data_storage/clean_data/arrests")
-arrests <- readRDS("D:/ucr_data_storage/clean_data/arrests/ucr_arrests_yearly_all_crimes_race_sex_1974_2021.rds") %>%
+setwd("E:/ucr_data_storage/clean_data/arrests")
+arrests <- readRDS("E:/ucr_data_storage/clean_data/arrests/ucr_arrests_yearly_all_crimes_race_sex_1974_2021.rds") %>%
   filter(number_of_months_reported %in% 12) %>%
   select(-matches("num_months"))
 

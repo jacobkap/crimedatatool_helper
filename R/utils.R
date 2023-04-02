@@ -1,4 +1,4 @@
-load("~/crimedatatool_helper//data/crosswalk_agencies.rda")
+load("data/crosswalk_agencies.rda")
 library(tidyverse)
 library(data.table)
 library(fastDummies)
@@ -7,7 +7,7 @@ library(readr)
 library(here)
 library(dplyr)
 library(lubridate)
-source("~/crimedatatool_helper//R/utils_objects.R")
+source("R/utils_objects.R")
 
 states <- c(tolower(state.name), "district of columbia")
 
@@ -135,8 +135,7 @@ police_make_agency_csvs <- function(data) {
 make_monthly_agency_csvs <- function(type) {
 
   for (state_group in 1:51) {
-    #setwd(here::here("data/temp"))
-    setwd("~/crimedatatool_helper/data/temp")
+    setwd("data/temp")
     if (type == "police") {
       type <- "leoka"
     }
@@ -145,12 +144,11 @@ make_monthly_agency_csvs <- function(type) {
     temp_state <- remove_duplicate_capitalize_names(temp_state)
     temp_state <- temp_state[!is.na(temp_state$year), ]
 
-    # setwd(here::here(paste0("data/", type, "_monthly")))
 
     if (type == "leoka") {
       type <- "police"
     }
-    setwd(paste0("~/crimedatatool_helper/data/", type, "_monthly"))
+    setwd(paste0("data/", type, "_monthly"))
     agency <- unique(temp_state$agency)
     agency <- jsonlite::toJSON(agency, pretty = FALSE)
     write(agency, paste0(unique(temp_state$state), "_agency_choices.json"))
@@ -173,11 +171,27 @@ make_agency_csvs <- function(data,
   if (county) {
     names(data) <- gsub("^county$", "ORI", names(data))
   }
+# library(progress)
+#   unique_oris <- unique(data$ORI)
+#   pb <- progress_bar$new(
+#     format = "  processing [:bar] :percent eta: :eta",
+#     total = length(unique_oris), clear = FALSE, width= 90)
 
 
   data <-
     data %>%
     dplyr::group_split(ORI)
+
+# for (i in 1:length(unique_oris)) {
+#   temp <- data %>%
+#     filter(ORI %in% unique_oris[i])
+#   make_csv_test(temp, type      = type,
+#                 county    = county,
+#                 estimates = estimates)
+#   pb$tick()
+#
+# }
+
   parallel::mclapply(data,
                      make_csv_test,
                      type      = type,
@@ -213,7 +227,7 @@ make_csv_test <- function(temp, type, county = FALSE, estimates = FALSE) {
 }
 
 save_monthly_state_temp <- function(data, start_year, type) {
-  setwd(here::here("data/temp"))
+  setwd("data/temp")
   for (state_group in 1:length(states)) {
     selected_states <- states[state_group]
     if (year != start_year) {

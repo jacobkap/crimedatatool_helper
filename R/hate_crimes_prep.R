@@ -1,4 +1,4 @@
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/hate_crimes/ucr_hate_crimes_1991_2021.rda")
+load("E:/Users/user/Dropbox/R_project/crime_data/clean_data/hate_crimes/ucr_hate_crimes_1991_2021.rda")
 source(here::here('R/utils.R'))
 
 #type = "year"
