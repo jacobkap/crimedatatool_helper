@@ -1,13 +1,13 @@
-load("E:/Users/user/Dropbox/R_project/crime_data/clean_data/hate_crimes/ucr_hate_crimes_1991_2021.rda")
+ucr_hate_crimes_1991_2021 <- readRDS("E:/ucr_data_storage/clean_data/hate_crimes/ucr_hate_crimes_1991_2021.rds")
 source(here::here('R/utils.R'))
 
-#type = "year"
-type = "month"
+type = "year"
+#type = "month"
 
 # Fewer than 0.005% of UCR offenses (10 from 1992-2017) are NA
 hate_crimes <-
   ucr_hate_crimes_1991_2021 %>%
-  dplyr::filter(hate_crime_incident_present_flag %in%
+  dplyr::filter(hate_crime_incident_present %in%
                   "one or more hate crime incidents present",
                 !is.na(ucr_offense_code_1)) %>%
   dplyr::rename(date = incident_date) %>%
@@ -107,7 +107,7 @@ anti_columns <- sort(anti_columns)
 
 hate_crimes <-
   hate_crimes %>%
-  dplyr::select(starting_cols,
+  dplyr::select(all_of(starting_cols),
                 ends_with("_violent"),
                 ends_with("_nonviolent"),
                 ends_with("_total")) %>%
