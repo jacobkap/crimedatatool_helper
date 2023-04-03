@@ -1,6 +1,6 @@
-source('~/crimedatatool_helper/R/utils.R')
+source(here::here('R/utils.R'))
 
-for (year in 1974:2021) {
+for (year in 1974:2020) {
   setwd("E:/ucr_data_storage/clean_data/arrests")
   temp <- readRDS(paste0("ucr_arrests_monthly_all_crimes_race_sex_", year, ".rds")) %>%
     dplyr::mutate(date = paste0(year, "-", month, "-1"),
@@ -92,8 +92,6 @@ for (year in 1974:2021) {
                   dplyr::everything())
 
   temp$year <- as.character(temp$year)
-  rm(temp_race)
-  rm(temp_sex)
 
 
   save_monthly_state_temp(temp, start_year = 1974, type = "arrests")
@@ -104,6 +102,6 @@ for (year in 1974:2021) {
 
 
 make_monthly_agency_csvs(type = "arrests")
-setwd("~/crimedatatool_helper/data/arrests")
+setwd(here("data/arrests"))
 files <- list.files(pattern = "largest_agency_choices")
 file.copy(files, paste0(here::here("data/arrests_monthly/")), overwrite = TRUE)

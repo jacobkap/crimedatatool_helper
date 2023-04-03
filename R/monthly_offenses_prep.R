@@ -1,4 +1,4 @@
-source(here::here('R/utils.R'))
+source('R/utils.R')
 
 for (year in 1960:2021) {
   setwd("E:/ucr_data_storage/clean_data/offenses_known")
@@ -27,6 +27,7 @@ for (year in 1960:2021) {
                   dplyr::matches("act|clr|unfound|officer"),
                   -dplyr::matches("card"))
 
+ setwd("D:/crimedatatool_helper")
   save_monthly_state_temp(temp, start_year = 1960, type = "offenses")
   rm(temp); gc()
   message(year)

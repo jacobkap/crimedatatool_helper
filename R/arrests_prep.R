@@ -1,4 +1,4 @@
-source('~/crimedatatool_helper/R/utils.R')
+source('R/utils.R')
 setwd("E:/ucr_data_storage/clean_data/arrests")
 arrests <- readRDS("E:/ucr_data_storage/clean_data/arrests/ucr_arrests_yearly_all_crimes_race_sex_1974_2021.rds") %>%
   filter(number_of_months_reported %in% 12) %>%
@@ -93,7 +93,7 @@ arrests <-
 arrests$agency <- gsub("\\(|\\)", "", arrests$agency)
 arrests <- remove_duplicate_capitalize_names(arrests)
 
-setwd("~/crimedatatool_helper/data/arrests")
+setwd(here("data/arrests"))
 make_agency_csvs(arrests)
 make_state_agency_choices(arrests)
 make_largest_agency_json(arrests)

@@ -1,4 +1,3 @@
-load("data/crosswalk_agencies.rda")
 library(tidyverse)
 library(data.table)
 library(fastDummies)
@@ -7,7 +6,8 @@ library(readr)
 library(here)
 library(dplyr)
 library(lubridate)
-source("R/utils_objects.R")
+source(here("R/utils_objects.R"))
+load(here("data/crosswalk_agencies.rda"))
 
 states <- c(tolower(state.name), "district of columbia")
 
@@ -91,15 +91,15 @@ reorder_police <- function(data) {
     dplyr::left_join(crosswalk_agencies, by = "ori") %>%
     dplyr::filter(agency != "NANA") %>%
     dplyr::rename(ORI               = ori) %>%
-    dplyr::select(starting_cols,
-                  number_of_months_reported,
-                  employee_cols,
-                  killed_cols,
-                  injury_cols,
-                  no_injury_cols,
-                  assaults,
-                  all_other_assaults,
-                  total_assault_cols)
+    dplyr::select(all_of(starting_cols),
+                  all_of(number_of_months_reported),
+                  all_of(employee_cols),
+                  all_of(killed_cols),
+                  all_of(injury_cols),
+                  all_of(no_injury_cols),
+                  all_of(assaults),
+                  all_of(all_other_assaults),
+                  all_of(total_assault_cols))
   return(data)
 }
 
@@ -135,7 +135,7 @@ police_make_agency_csvs <- function(data) {
 make_monthly_agency_csvs <- function(type) {
 
   for (state_group in 1:51) {
-    setwd("data/temp")
+    setwd(here("data/temp"))
     if (type == "police") {
       type <- "leoka"
     }
@@ -148,7 +148,7 @@ make_monthly_agency_csvs <- function(type) {
     if (type == "leoka") {
       type <- "police"
     }
-    setwd(paste0("data/", type, "_monthly"))
+    setwd(here(paste0("data/", type, "_monthly")))
     agency <- unique(temp_state$agency)
     agency <- jsonlite::toJSON(agency, pretty = FALSE)
     write(agency, paste0(unique(temp_state$state), "_agency_choices.json"))
@@ -227,7 +227,7 @@ make_csv_test <- function(temp, type, county = FALSE, estimates = FALSE) {
 }
 
 save_monthly_state_temp <- function(data, start_year, type) {
-  setwd("data/temp")
+  setwd(here("data/temp"))
   for (state_group in 1:length(states)) {
     selected_states <- states[state_group]
     if (year != start_year) {
