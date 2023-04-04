@@ -25,6 +25,14 @@ for (year in 1960:2021) {
  final <- bind_rows(final, temp)
  message(year)
 }
+
+
+final$agency <- gsub("\\(|\\)", "", final$agency)
+final$agency <- gsub("\\/", "-", final$agency)
+final <- remove_duplicate_capitalize_names(final)
+# FIxes NA issue in 2021.
+offenses_known_yearly_1960_2021$state[final$ORI %in% "DEDEA01"] <- "Delaware"
+
 setwd(here("data/offenses_monthly"))
 make_agency_csvs(final, type = "month")
 
