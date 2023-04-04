@@ -70,6 +70,7 @@ cause_of_death_fix <- c(
 
 
 hate_crimes_offenses_fix <- c(
+
   "^aggravated assault"                                  = "violent",
   "^all other larceny"                                   = "nonviolent",
   "^arson"                                               = "nonviolent",
