@@ -1,5 +1,6 @@
 source('R/utils.R')
 setwd("E:/ucr_data_storage/clean_data/arrests")
+# No months reported data for 2021 so it is always excluded.
 arrests <- readRDS("E:/ucr_data_storage/clean_data/arrests/ucr_arrests_yearly_all_crimes_race_sex_1974_2021.rds") %>%
   filter(number_of_months_reported %in% 12) %>%
   select(-matches("num_months"))
