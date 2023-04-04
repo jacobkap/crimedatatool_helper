@@ -29,7 +29,6 @@ setwd(here("data/offenses_monthly"))
 make_agency_csvs(final, type = "month")
 
 setwd(here("data/offenses"))
-files <- list.files(pattern = "largest_agency_choices")
+files <- list.files(pattern = "agency_choices")
+files
 file.copy(files, paste0(here::here("data/offenses_monthly/")), overwrite = TRUE)
-setwd(here("data/offenses_monthly"))
-make_state_agency_choices(final)
