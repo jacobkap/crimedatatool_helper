@@ -2,19 +2,12 @@ offenses_known_yearly_1960_2021 <- readRDS("E:/ucr_data_storage/clean_data/offen
 source(here::here('R/utils.R'))
 
 
-offenses_known_yearly_1960_2017 <-
+offenses_known_yearly_1960_2021 <-
   offenses_known_yearly_1960_2021 %>%
-  filter(year %in% 1960:2017) %>%
   dplyr::filter(number_of_months_missing %in% 0)
 
-offenses_known_yearly_2018_2021 <-
-  offenses_known_yearly_1960_2021 %>%
-  filter(year %in% 2018:2021) %>%
-  dplyr::filter(last_month_reported %in% "december")
-
 offenses_known_yearly_1960_2021 <-
-  offenses_known_yearly_1960_2017 %>%
-  bind_rows(offenses_known_yearly_2018_2021) %>%
+  offenses_known_yearly_1960_2021 %>%
   dplyr::left_join(crosswalk_agencies) %>%
   dplyr::filter(agency != "NANA",
                 ori    != "FL01394") %>%

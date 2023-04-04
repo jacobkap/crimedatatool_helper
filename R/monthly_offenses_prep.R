@@ -1,5 +1,6 @@
 source('R/utils.R')
 
+final <- data.frame()
 for (year in 1960:2021) {
   setwd("E:/ucr_data_storage/clean_data/offenses_known")
   temp <- readRDS(paste0("offenses_known_monthly_", year, ".rds"))
@@ -8,11 +9,6 @@ for (year in 1960:2021) {
     temp %>%
     dplyr::filter(number_of_months_missing %in% 0)
 
-  if (year %in% 2018:2021) {
-    temp <-
-      temp %>%
-      dplyr::filter(last_month_reported %in% "december")
-  }
 
  temp <-
    temp %>%
@@ -26,16 +22,14 @@ for (year in 1960:2021) {
     dplyr::select(starting_cols,
                   dplyr::matches("act|clr|unfound|officer"),
                   -dplyr::matches("card"))
-
- setwd("D:/crimedatatool_helper")
-  save_monthly_state_temp(temp, start_year = 1960, type = "offenses")
-  rm(temp); gc()
-  message(year)
+ final <- bind_rows(final, temp)
+ message(year)
 }
 
 
-
-make_monthly_agency_csvs(type = "offenses")
-setwd(here::here("data/offenses"))
+make_state_agency_choices(final)
 files <- list.files(pattern = "largest_agency_choices")
+setwd(here("data/offenses_monthly"))
 file.copy(files, paste0(here::here("data/offenses_monthly/")), overwrite = TRUE)
+make_state_agency_choices(final)
+make_agency_csvs(final, type = "month")
