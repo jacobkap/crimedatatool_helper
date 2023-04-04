@@ -23,7 +23,7 @@ offenses_known_yearly_1960_2021 <- remove_duplicate_capitalize_names(offenses_kn
 offenses_known_yearly_1960_2021$state[offenses_known_yearly_1960_2021$ORI %in% "DEDEA01"] <- "Delaware"
 
 
-setwd("data/offenses")
+setwd(here("data/offenses"))
 make_agency_csvs(offenses_known_yearly_1960_2021)
 make_largest_agency_json(offenses_known_yearly_1960_2021)
 make_state_agency_choices(offenses_known_yearly_1960_2021)

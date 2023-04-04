@@ -25,11 +25,11 @@ for (year in 1960:2021) {
  final <- bind_rows(final, temp)
  message(year)
 }
-
-
-make_state_agency_choices(final)
-files <- list.files(pattern = "largest_agency_choices")
 setwd(here("data/offenses_monthly"))
-file.copy(files, paste0(here::here("data/offenses_monthly/")), overwrite = TRUE)
-make_state_agency_choices(final)
 make_agency_csvs(final, type = "month")
+
+setwd(here("data/offenses"))
+files <- list.files(pattern = "largest_agency_choices")
+file.copy(files, paste0(here::here("data/offenses_monthly/")), overwrite = TRUE)
+setwd(here("data/offenses_monthly"))
+make_state_agency_choices(final)
