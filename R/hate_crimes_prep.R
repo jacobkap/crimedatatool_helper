@@ -1,4 +1,4 @@
-ucr_hate_crimes_1991_2021 <- readRDS("E:/ucr_data_storage/clean_data/hate_crimes/ucr_hate_crimes_1991_2021.rds")
+ucr_hate_crimes_1991_2022 <- readRDS("F:/ucr_data_storage/clean_data/hate_crimes/ucr_hate_crimes_1991_2022.rds")
 source(here::here('R/utils.R'))
 
 #type = "year"
@@ -6,7 +6,7 @@ type = "month"
 
 # Fewer than 0.005% of UCR offenses (10 from 1992-2017) are NA
 hate_crimes <-
-  ucr_hate_crimes_1991_2021 %>%
+  ucr_hate_crimes_1991_2022 %>%
   dplyr::filter(hate_crime_incident_present %in%
                   "one or more hate crime incidents present",
                 !is.na(ucr_offense_code_1),
@@ -23,7 +23,7 @@ hate_crimes <-
                 -matches("_2|_3|_4|_5|_6|_7|_8|_9|_10")) %>%
   dplyr::rename(agency = crosswalk_agency_name,
                 ORI = ori9)
-rm(ucr_hate_crimes_1991_2021); gc()
+rm(ucr_hate_crimes_1991_2022); gc()
 # 96.63% of cases have only 1 offenses/bias motivations
 # 99.78% of cases have only 1 or two offenses/bias motivations
 
