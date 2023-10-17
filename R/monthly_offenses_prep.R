@@ -1,8 +1,8 @@
-source('R/utils.R')
+source("R/utils.R")
 
 final <- data.frame()
-for (year in 1960:2021) {
-  setwd("E:/ucr_data_storage/clean_data/offenses_known")
+for (year in 1960:2022) {
+  setwd("F:/ucr_data_storage/clean_data/offenses_known")
   temp <- readRDS(paste0("offenses_known_monthly_", year, ".rds"))
 
   temp <-
@@ -10,27 +10,33 @@ for (year in 1960:2021) {
     dplyr::filter(number_of_months_missing %in% 0)
 
 
- temp <-
-   temp %>%
+  temp <-
+    temp %>%
     dplyr::left_join(crosswalk_agencies, by = "ori") %>%
-    dplyr::filter(agency != "NANA",
-                  ori    != "FL01394") %>%
+    dplyr::filter(
+      agency != "NANA",
+      ori != "FL01394"
+    ) %>%
     dplyr::mutate(agency = tolower(agency)) %>%
     dplyr::select(-year) %>%
-    dplyr::rename(ORI  = ori,
-                  year = date) %>%
-    dplyr::select(starting_cols,
-                  dplyr::matches("act|clr|unfound|officer"),
-                  -dplyr::matches("card"))
- final <- bind_rows(final, temp)
- message(year)
+    dplyr::rename(
+      ORI = ori,
+      year = date
+    ) %>%
+    dplyr::select(
+      starting_cols,
+      dplyr::matches("act|clr|unfound|officer"),
+      -dplyr::matches("card")
+    )
+  final <- bind_rows(final, temp)
+  message(year)
 }
 
 
 final$agency <- gsub("\\(|\\)", "", final$agency)
 final$agency <- gsub("\\/", "-", final$agency)
 final <- remove_duplicate_capitalize_names(final)
-# FIxes NA issue in 2021.
+# Fixes NA issue in 2021.
 final$state[final$ORI %in% "DEDEA01"] <- "Delaware"
 
 setwd(here("data/offenses_monthly"))

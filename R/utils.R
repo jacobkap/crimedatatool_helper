@@ -92,7 +92,7 @@ reorder_police <- function(data) {
     dplyr::filter(agency != "NANA") %>%
     dplyr::rename(ORI               = ori) %>%
     dplyr::select(all_of(starting_cols),
-                  all_of(number_of_months_reported),
+                  number_of_months_reported,
                   all_of(employee_cols),
                   all_of(killed_cols),
                   all_of(injury_cols),

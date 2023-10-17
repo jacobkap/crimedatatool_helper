@@ -1,8 +1,8 @@
-source(here::here('R/utils.R'))
+source(here::here("R/utils.R"))
 
 
-for (year in 1972:2021) {
-  setwd("E:/ucr_data_storage/clean_data/LEOKA")
+for (year in 1972:2022) {
+  setwd("F:/ucr_data_storage/clean_data/LEOKA")
   temp <- readRDS(paste0("leoka_monthly_", year, ".rds"))
 
   temp <-
@@ -15,9 +15,9 @@ for (year in 1972:2021) {
   temp <- reorder_police(temp)
 
   save_monthly_state_temp(temp, start_year = 1972, type = "leoka")
-  rm(temp); gc()
+  rm(temp)
+  gc()
   message(year)
-
 }
 
 
