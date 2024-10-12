@@ -1,7 +1,7 @@
 source(here::here("R/utils.R"))
 
 
-for (year in 1972:2022) {
+for (year in 1972:2023) {
   setwd("F:/ucr_data_storage/clean_data/LEOKA")
   temp <- readRDS(paste0("leoka_monthly_", year, ".rds"))
 

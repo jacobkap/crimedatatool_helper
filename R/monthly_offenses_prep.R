@@ -1,7 +1,7 @@
 source("R/utils.R")
 
 final <- data.frame()
-for (year in 1960:2022) {
+for (year in 1960:2023) {
   setwd("F:/ucr_data_storage/clean_data/offenses_known")
   temp <- readRDS(paste0("offenses_known_monthly_", year, ".rds"))
 

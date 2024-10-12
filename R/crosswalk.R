@@ -1,15 +1,10 @@
-source('C:/Users/user/Dropbox/R_project/crime_data/R/crosswalk.R')
-source('C:/Users/user/Dropbox/R_project/crimedatatool_helper/R/utils.R')
-load("C:/Users/user/Dropbox/R_project/crime_data/clean_data/offenses_known/ucr_offenses_known_yearly_1960_2016.rda")
-library(dplyr)
-ucr_offenses_known_yearly_1960_2016 <-
-  ucr_offenses_known_yearly_1960_2016 %>%
-  dplyr::filter(year %in% 2016) %>%
+source('E:/Dropbox/R_project/crime_data/R/crosswalk.R')
+source(here::here('R/utils.R'))
+offenses_known_yearly_1960_2023 <- readRDS("F:/ucr_data_storage/clean_data/offenses_known/offenses_known_yearly_1960_2023.rds") %>%
+  dplyr::filter(year %in% 2023) %>%
   dplyr::select(ori,
-                total_population) %>%
-  dplyr::rename(population = total_population)
+                population)
 
-library(readr)
 crosswalk <- read_merge_crosswalks()
 
 crosswalk$agency_type           <- NULL
@@ -32,7 +27,7 @@ crosswalk$census_name           <- gsub(",", "",
 
 crosswalk <-
   crosswalk %>%
-  dplyr::left_join(ucr_offenses_known_yearly_1960_2016) %>%
+  dplyr::left_join(offenses_known_yearly_1960_2023) %>%
   dplyr::arrange(desc(population))
 crosswalk$population[is.na(crosswalk$population)]                         <- ""
 crosswalk$ori9[is.na(crosswalk$ori9)]                                     <- ""
@@ -40,5 +35,18 @@ crosswalk$fips_state_county_code[is.na(crosswalk$fips_state_county_code)] <- ""
 crosswalk$crosswalk_agency_name[is.na(crosswalk$crosswalk_agency_name)]   <- ""
 crosswalk$census_name[is.na(crosswalk$census_name)]                       <- ""
 
-setwd("C:/Users/user/Dropbox/R_project/crimedatatool_helper/data")
-write_csv(crosswalk, path = "crosswalk.csv")
+crosswalk %>% sample_n(3)
+crosswalk <-
+  crosswalk %>%
+  select(ori,
+         ori9,
+         crosswalk_agency_name,
+         census_name,
+         population,
+         fips_state_county_code,
+         state = address_state) %>%
+  mutate(state = toupper(state))
+crosswalk %>% sample_n(3)
+
+setwd("~/crimedatatool_helper/data")
+write_csv(crosswalk, file = "crosswalk.csv")

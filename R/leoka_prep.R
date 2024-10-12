@@ -1,4 +1,4 @@
-police <- readRDS("F:/ucr_data_storage/clean_data/LEOKA/leoka_yearly_1960_2022.rds")
+police <- readRDS("F:/ucr_data_storage/clean_data/LEOKA/leoka_yearly_1960_2023.rds")
 source(here::here('R/utils.R'))
 
 

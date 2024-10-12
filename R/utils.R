@@ -1,25 +1,20 @@
-library(tidyverse)
-library(data.table)
-library(fastDummies)
-library(splitstackshape)
-library(readr)
-library(here)
-library(dplyr)
-library(lubridate)
+library(groundhog)
+packages <- c(
+  "tidyverse",
+  "data.table",
+  "fastDummies",
+  "splitstackshape",
+  "readr",
+  "here",
+  "dplyr",
+  "lubridate"
+)
+groundhog.library(packages, "2024-10-01")
+
 source(here("R/utils_objects.R"))
 load(here("data/crosswalk_agencies.rda"))
 
-states <- c(tolower(state.name), "district of columbia")
 
-state_name <- c(state.name, "District of Columbia")
-state_abb   <- c(state.abb, "DC")
-
-fix_column_names <- function(names) {
-  names <- tolower(names)
-  names <- gsub(" |-|\\/|\\.", "_", names)
-  names <- gsub("_+", "_", names)
-  return(names)
-}
 
 remove_duplicate_capitalize_names <- function(data) {
   z = data[!duplicated(data$ORI),]
@@ -43,14 +38,6 @@ make_state_agency_choices <- function(data) {
   }
 }
 
-
-clean_cdc_colnames <- function(data) {
-  names(data) <- data[1, ]
-  data <- data[-1, ]
-  names(data) <- gsub("\\ ", "_", names(data))
-  names(data) <- tolower(names(data))
-  return(data)
-}
 
 make_largest_agency_json <- function(data) {
   largest_agency <- data %>%
@@ -165,47 +152,24 @@ make_monthly_agency_csvs <- function(type) {
 
 
 make_agency_csvs <- function(data,
-                             type = "year",
-                             county = FALSE,
-                             estimates = FALSE) {
-  if (county) {
-    names(data) <- gsub("^county$", "ORI", names(data))
-  }
-# library(progress)
-#   unique_oris <- unique(data$ORI)
-#   pb <- progress_bar$new(
-#     format = "  processing [:bar] :percent eta: :eta",
-#     total = length(unique_oris), clear = FALSE, width= 90)
+                             type = "year") {
 
 
   data <-
     data %>%
     dplyr::group_split(ORI)
 
-# for (i in 1:length(unique_oris)) {
-#   temp <- data %>%
-#     filter(ORI %in% unique_oris[i])
-#   make_csv_test(temp, type      = type,
-#                 county    = county,
-#                 estimates = estimates)
-#   pb$tick()
-#
-# }
 
   parallel::mclapply(data,
                      make_csv_test,
-                     type      = type,
-                     county    = county,
-                     estimates = estimates)
+                     type      = type)
 
 }
 
-make_csv_test <- function(temp, type, county = FALSE, estimates = FALSE) {
-  if (county) {
-    names(temp) <- gsub("^ORI$", "agency", names(temp))
-  } else {
-    temp   <- dummy_rows_missing_years(temp, type = type)
-  }
+make_csv_test <- function(temp, type) {
+
+  temp   <- dummy_rows_missing_years(temp, type = type)
+
 
   state  <- unique(temp$state)
   agency <- unique(temp$agency)
@@ -215,19 +179,16 @@ make_csv_test <- function(temp, type, county = FALSE, estimates = FALSE) {
   agency <- gsub("_+", "_", agency)
   agency <- gsub("\\(|\\)", "", agency)
 
-  if (county) {
-    names(temp) <- gsub("^agency$", "county", names(temp))
-  }
-
-  if (estimates) {
-    temp$ORI <- NA
-  }
 
   data.table::fwrite(temp, file = paste0(state, "_", agency, ".csv"))
 }
 
 save_monthly_state_temp <- function(data, start_year, type) {
   setwd(here("data/temp"))
+  states <- c(tolower(state.name), "district of columbia")
+
+  state_name <- c(state.name, "District of Columbia")
+  state_abb   <- c(state.abb, "DC")
   for (state_group in 1:length(states)) {
     selected_states <- states[state_group]
     if (year != start_year) {
@@ -241,8 +202,6 @@ save_monthly_state_temp <- function(data, start_year, type) {
     rm(temp_state); gc();
   }
 }
-
-
 
 
 make_all_na <- function(col) {
@@ -325,86 +284,3 @@ simpleCap <- function(word) {
                       collapse = " ")
   split_word <- gsub(" Of ", " of ", split_word)
 }
-
-save_state_data <- function(data, save_type) {
-  for (selected_state in sort(unique(data$state))) {
-    temp <-
-      data %>%
-      dplyr::filter(state %in% selected_state)
-
-    save_state <- unique(temp$state)
-    save_state <- gsub(" ", "_", save_state)
-
-    readr::write_csv(temp,
-                     path = paste0(save_state, "_", save_type, ".csv"))
-  }
-}
-
-make_numeric <- function(x) {
-  x <- suppressWarnings(readr::parse_number(x))
-  return(x)
-}
-
-starting_cols <- c("agency",
-                   "year",
-                   "state",
-                   "population",
-                   "ORI")
-
-ucr_to_drop <- c("state_abb",
-                 "ORI9",
-                 "FIPS_state_code",
-                 "FIPS_county_code",
-                 "months_reported",
-                 "fips_state_county_code",
-                 "fips_place_code",
-                 "fips_state_place_code",
-                 "division",
-                 "core_city_indication",
-                 "covered_by_code",
-                 "population_1",
-                 "county_1",
-                 "msa_1",
-                 "population_2",
-                 "county_2",
-                 "msa_2",
-                 "population_3",
-                 "county_3",
-                 "msa_3",
-                 "followup_indication",
-                 "special_mailing_group",
-                 "special_mailing_address",
-                 "mailing_address_line_1",
-                 "mailing_address_line_2",
-                 "mailing_address_line_3",
-                 "mailing_address_line_4",
-                 "agency_type",
-                 "agency_subtype_1",
-                 "agency_subtype_2",
-                 "group_number",
-                 "agency_state_name",
-                 "agency_name",
-                 "field_office",
-                 "total_population",
-                 "city_sequence_number",
-                 "last_update",
-                 "field_office",
-                 "zip_code")
-
-arrests_to_drop <- c("ori9",
-                     "agency_name",
-                     "state_abb",
-                     "fips_state_code",
-                     "fips_county_code",
-                     "fips_state_county_code",
-                     "fips_place_code",
-                     "fips_state_place_code",
-                     "agency_type",
-                     "agency_subtype_1",
-                     "agency_subtype_2",
-                     "group",
-                     "geographic_division",
-                     "suburban_agency",
-                     "core_city",
-                     "covered_by_another_agency")
-
