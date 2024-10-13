@@ -1,17 +1,17 @@
-ucr_hate_crimes_1991_2023 <- readRDS("F:/ucr_data_storage/clean_data/hate_crimes/ucr_hate_crimes_1991_2023.rds")
+hate_crimes <- readRDS("F:/ucr_data_storage/clean_data/hate_crimes/ucr_hate_crimes_1991_2023.rds")
 source(here::here("R/utils.R"))
 
 #type = "year"
 type <- "month"
 
-# Fewer than 0.005% of UCR offenses (10 from 1992-2017) are NA
 hate_crimes <-
-  ucr_hate_crimes_1991_2023 %>%
+  hate_crimes %>%
   dplyr::filter(
     hate_crime_incident_present %in%
       "one or more hate crime incidents present",
     !is.na(ucr_offense_code_1),
-    !ucr_offense_code_1 %in% "unknown"
+    !ucr_offense_code_1 %in% "undocumented code",
+    !bias_motivation_offense_1 %in% "undocumented code"
   ) %>%
   dplyr::rename(date = incident_date) %>%
   dplyr::select(
@@ -27,23 +27,9 @@ hate_crimes <-
   ) %>%
   dplyr::rename(
     agency = crosswalk_agency_name,
-    ORI = ori9
-  )
-rm(ucr_hate_crimes_1991_2023)
-gc()
-# 96.63% of cases have only 1 offenses/bias motivations
-# 99.78% of cases have only 1 or two offenses/bias motivations
-
-hate_crimes <-
-  hate_crimes %>%
-  dplyr::rename(
+    ORI = ori9,
     offense = ucr_offense_code_1,
     bias_motivation = bias_motivation_offense_1
-  ) %>%
-  dplyr::select(-matches("_[0-9]")) %>%
-  dplyr::filter(
-    !is.na(offense),
-    agency != "NANA"
   ) %>%
   dplyr::mutate(offense = stringr::str_replace_all(
     offense,
@@ -95,49 +81,28 @@ hate_crimes <-
   dplyr::summarize_all(sum) %>%
   dplyr::ungroup()
 
-
+names(hate_crimes)
 names(hate_crimes) <- gsub("\\.|\\(|\\)| |-|,|/", "_", names(hate_crimes))
 names(hate_crimes) <- gsub("_+", "_", names(hate_crimes))
 names(hate_crimes) <- gsub("_$", "", names(hate_crimes))
 
-# Make totals columns
-bias_groups <- grep("^anti", names(hate_crimes), value = TRUE)
-bias_groups <- gsub("_(non)?violent|_unknown$|_sexual$", "", bias_groups)
-bias_groups <- unique(bias_groups)
-
-for (group in bias_groups) {
-  hate_crimes[, paste0(group, "_total")] <-
-    rowSums(hate_crimes[, grep(
-      paste0(group, "_(non|violent|sexual)"),
-      names(hate_crimes)
-    )])
-}
-
-
-for (crime_type in c("_nonviolent", "_violent", "_sexual")) {
-  hate_crimes[, paste0("anti_total", crime_type)] <-
-    rowSums(hate_crimes[, grep(crime_type, names(hate_crimes))])
-}
-hate_crimes$anti_total_total <-
-  rowSums(hate_crimes[, grep("anti_total_", names(hate_crimes))])
-
 # Reorder columns alphabetically
 anti_columns <- grep("anti", names(hate_crimes), value = TRUE)
 anti_columns <- sort(anti_columns)
-
+anti_columns
 
 hate_crimes <-
   hate_crimes %>%
   dplyr::select(
     all_of(starting_cols),
-    ends_with("_violent"),
-    ends_with("_nonviolent"),
-    ends_with("_total")
+    everything()
   ) %>%
   arrange(
     ORI,
     desc(year)
   )
+names(hate_crimes)
+
 hate_crimes$agency <- gsub("\\(|\\)", "", hate_crimes$agency)
 hate_crimes <- remove_duplicate_capitalize_names(hate_crimes)
 hate_crimes$agency <- gsub(":", "", hate_crimes$agency)
@@ -147,7 +112,9 @@ hate_crimes$state <- gsub(
   hate_crimes$state
 )
 hate_crimes$year <- as.character(hate_crimes$year)
-
+hate_crimes <-
+  hate_crimes %>%
+  filter(!agency %in% "NANA")
 
 make_state_agency_choices(hate_crimes)
 make_largest_agency_json(hate_crimes)

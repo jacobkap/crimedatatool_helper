@@ -9,20 +9,17 @@ source(here::here('R/utils.R'))
 
 offenses_known_yearly_1960_2023 <-
   offenses_known_yearly_1960_2023 %>%
-  dplyr::filter(last_month_reported %in% "december")
-
-offenses_known_yearly_1960_2023 <-
-  offenses_known_yearly_1960_2023 %>%
+  dplyr::filter(last_month_reported %in% "december") %>%
   dplyr::left_join(crosswalk_agencies) %>%
   dplyr::filter(agency != "NANA",
                 ori    != "FL01394") %>%
   dplyr::mutate(agency = tolower(agency)) %>%
   dplyr::rename(ORI    = ori) %>%
   dplyr::select(all_of(starting_cols),
-                dplyr::matches("act|clr|unfound|officer"))
+                dplyr::matches("act|clr|unfound|officer")) %>%
+  mutate(agency = gsub("\\(|\\)", "", agency),
+         agency = gsub("\\/", "-", agency))
 
-offenses_known_yearly_1960_2023$agency <- gsub("\\(|\\)", "", offenses_known_yearly_1960_2023$agency)
-offenses_known_yearly_1960_2023$agency <- gsub("\\/", "-", offenses_known_yearly_1960_2023$agency)
 offenses_known_yearly_1960_2023 <- remove_duplicate_capitalize_names(offenses_known_yearly_1960_2023)
 # Fxes NA issue
 offenses_known_yearly_1960_2023$state[offenses_known_yearly_1960_2023$ORI %in% "DEDEA01"] <- "Delaware"

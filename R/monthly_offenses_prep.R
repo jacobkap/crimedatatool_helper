@@ -1,46 +1,25 @@
 source("R/utils.R")
-
-final <- data.frame()
-for (year in 1960:2023) {
-  setwd("F:/ucr_data_storage/clean_data/offenses_known")
-  temp <- readRDS(paste0("offenses_known_monthly_", year, ".rds"))
-
-  temp <-
-    temp %>%
-    dplyr::filter(number_of_months_missing %in% 0)
-
-
-  temp <-
-    temp %>%
-    dplyr::left_join(crosswalk_agencies, by = "ori") %>%
-    dplyr::filter(
-      agency != "NANA",
-      ori != "FL01394"
-    ) %>%
-    dplyr::mutate(agency = tolower(agency)) %>%
-    dplyr::select(-year) %>%
-    dplyr::rename(
-      ORI = ori,
-      year = date
-    ) %>%
-    dplyr::select(
-      starting_cols,
-      dplyr::matches("act|clr|unfound|officer"),
-      -dplyr::matches("card")
-    )
-  final <- bind_rows(final, temp)
-  message(year)
-}
+offenses_known_monthly_1960_2023 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/offenses_known_monthly_1960_2023.rds") %>%
+  dplyr::filter(last_month_reported %in% "december") %>%
+  dplyr::left_join(crosswalk_agencies) %>%
+  dplyr::filter(agency != "NANA",
+                ori    != "FL01394") %>%
+  dplyr::mutate(agency = tolower(agency),
+                year = date) %>%
+  dplyr::rename(ORI    = ori) %>%
+  dplyr::select(all_of(starting_cols),
+                dplyr::matches("act|clr|unfound|officer")) %>%
+  mutate(agency = gsub("\\(|\\)", "", agency),
+         agency = gsub("\\/", "-", agency))
 
 
-final$agency <- gsub("\\(|\\)", "", final$agency)
-final$agency <- gsub("\\/", "-", final$agency)
-final <- remove_duplicate_capitalize_names(final)
-# Fixes NA issue in 2021.
-final$state[final$ORI %in% "DEDEA01"] <- "Delaware"
+offenses_known_monthly_1960_2023 <- remove_duplicate_capitalize_names(offenses_known_monthly_1960_2023)
+# Fxes NA issue
+offenses_known_monthly_1960_2023$state[offenses_known_monthly_1960_2023$ORI %in% "DEDEA01"] <- "Delaware"
+
 
 setwd(here("data/offenses_monthly"))
-make_agency_csvs(final, type = "month")
+make_agency_csvs(offenses_known_monthly_1960_2023, type = "month")
 
 setwd(here("data/offenses"))
 files <- list.files(pattern = "agency_choices")
