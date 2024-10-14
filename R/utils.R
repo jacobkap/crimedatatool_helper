@@ -7,23 +7,142 @@ packages <- c(
   "readr",
   "here",
   "dplyr",
-  "lubridate"
+  "lubridate",
+  "progress",
+  "priceR"
 )
 groundhog.library(packages, "2024-10-01")
 
 source(here("R/utils_objects.R"))
 load(here("data/crosswalk_agencies.rda"))
 
+fix_ori <- function(data) {
+  data$ori[data$ori %in% "AKAST01"] <- "AKASP00"
+  data$ori[data$ori %in% "MDMSP02"] <- "MD306SP"
+  data$ori[data$ori %in% "CA03349"] <- "CA03378"
+  data$ori[data$ori %in% "NJ00805"] <- "NJ01808"
+  return(data)
+}
 
+
+make_state_from_abb <- function(state_abb) {
+  state_crosswalk <- data.frame(state_name = c(state.name,
+                                               "canal zone",
+                                               "district of columbia",
+                                               "guam",
+                                               "guam",
+                                               "puerto rico",
+                                               "virgin islands",
+                                               "nebraska",
+                                               "bahamas",
+                                               "american samoa"),
+                                state_abb = c(state.abb,
+                                              "CZ",
+                                              "DC",
+                                              "GU",
+                                              "GM",
+                                              "PR",
+                                              "VI",
+                                              "NB",
+                                              "BD",
+                                              "AM"))
+
+  state <- state_crosswalk$state_name[match(tolower(state_abb),
+                                            tolower(state_crosswalk$state_abb))]
+  return(state)
+}
+
+# Primarily for federal agencies
+fix_missing_states <- function(data) {
+  data$state2 <- substr(data$ori, 1, 2)
+  data$state2 <- make_state_from_abb(data$state2)
+  data$state[is.na(data$state)] <- data$state2[is.na(data$state)]
+  data$state <- tolower(data$state)
+  data$state2 <- NULL
+  return(data)
+}
 
 remove_duplicate_capitalize_names <- function(data) {
-  z = data[!duplicated(data$ORI),]
-  z$temp <- paste(z$agency, z$state)
-  z = z[duplicated(z$temp),]
-  data <- data[!data$ORI %in% z$ORI, ]
-  data$agency <- sapply(data$agency, simpleCap)
-  data$state  <- sapply(data$state, simpleCap)
+  same_name_agencies <-
+    data %>%
+    distinct(ORI, .keep_all = TRUE) %>%
+    mutate(temp = paste(agency, state))
+  same_name_agencies_name <-
+    same_name_agencies %>%
+    count(temp) %>%
+    filter(n > 1)
+  same_name_agencies_ori <-
+    same_name_agencies %>%
+    filter(temp %in% same_name_agencies_name$temp)
+  print(summary(data$population[data$ORI %in% same_name_agencies_ori$ORI]))
+  data <-
+    data %>%
+    filter(!ORI %in% same_name_agencies_ori$ORI) %>%
+    mutate(agency = gsub("dept\\.|dept|dep |dep$", "department", agency),
+           agency = gsub("sp:", "state police:", agency),
+           agency = gsub("pd", "police", agency),
+           agency = gsub("univ ", "university ", agency),
+           agency = gsub("co$|co ", "county", agency),
+           agency = gsub(" offi$", " office", agency),
+           agency = gsub("twp", "township", agency),
+           agency = gsub("div ", "division ", agency),
+           agency = gsub("ptrl:", "patrol:", agency),
+           agency = gsub("bf:", "bureau of forestry:", agency),
+           agency = gsub("hp:", "highway patrol:", agency),
+           agency = gsub("chp ", "california highway patrol:", agency),
+           agency = gsub("bn:", "office of attorney general region:", agency),
+           agency = gsub("dle:", "division of law enforcement:", agency),
+           agency = gsub("enf:|enf ", "enforcement", agency),
+           agency = gsub("law enf div dept natrl resources", "department of natural resources", agency),
+           agency = gsub("fl ", "florida", agency),
+           agency = gsub("dnr:", "department of natural resources:", agency),
+           agency = gsub("co crim law enf", "county criminal law enforcement", agency),
+           agency = gsub("uppr:", "union pacific railroad:", agency),
+           agency = str_to_title(agency),
+           state = str_to_title(state),
+           agency = gsub("U S ", "US ", agency),
+           agency = gsub("^Us ", "US ", agency, ignore.case = TRUE),
+           agency = gsub(" Atf ", "ATF ", agency),
+           agency = gsub("Fbi,", "FBI,", agency),
+           agency = gsub("Dea,", "DEA,", agency),
+           agency = gsub("Doi:", " DOI:", agency),
+           state = gsub(" Of ", " of ", state),
+           agency = trimws(agency),
+           state = trimws(state))
 
+
+  return(data)
+}
+
+keep_most_common_agency_name <- function(data) {
+  temp <-
+    data %>%
+    distinct(ori,
+             agency_name) %>%
+    count(ori) %>%
+    filter(n > 1)
+  temp <-
+    data %>%
+    filter(ori %in% temp$ori)
+  new_names <- data.frame(ori = unique(temp$ori),
+                          new_name = NA)
+  pb <- progress_bar$new(
+    format = " [:bar] :percent eta: :eta",
+    total = nrow(new_names), clear = FALSE, width= 60)
+  for (i in 1:nrow(new_names)) {
+    temp_ori <-
+      temp %>%
+      filter(ori %in% new_names$ori[i]) %>%
+      count(agency_name) %>%
+      arrange(desc(n))
+    new_names$new_name[i] <- temp_ori$agency_name[1]
+    pb$tick()
+  }
+  data <-
+    data %>%
+    left_join(new_names)
+  data$agency_name[!is.na(data$new_name)] <- data$new_name[!is.na(data$new_name)]
+  data$new_name <- NULL
   return(data)
 }
 
@@ -48,7 +167,7 @@ make_largest_agency_json <- function(data) {
   write(largest_agency, "largest_agency_choices.json")
 }
 
-reorder_police <- function(data) {
+reorder_police <- function(data, crosswalk_data) {
   employee_cols <- sort(grep("employee", names(data),
                              value = TRUE))
   killed_cols <- sort(grep("killed", names(data),
@@ -75,7 +194,7 @@ reorder_police <- function(data) {
                                 "canal zone",
                                 "puerto rico",
                                 "virgin islands")) %>%
-    dplyr::left_join(crosswalk_agencies, by = "ori") %>%
+    dplyr::left_join(crosswalk_data, by = "ori") %>%
     dplyr::filter(agency != "NANA") %>%
     dplyr::rename(ORI               = ori) %>%
     dplyr::select(all_of(starting_cols),
@@ -90,34 +209,6 @@ reorder_police <- function(data) {
   return(data)
 }
 
-police_make_agency_csvs <- function(data) {
-  data <- data.table::data.table(data)
-  pb <- txtProgressBar(min = 0, max = length(unique(data$ORI)), style = 3)
-  for (selected_ori in sort(unique(data$ORI))) {
-    temp   <- data[ORI %in% selected_ori]
-
-    if (any(temp$number_of_months_reported %in% 12)) {
-
-      temp   <- na_non_12_month_rows(temp)
-      temp   <- dummy_rows_missing_years(temp)
-      temp$number_of_months_reported <- NULL
-
-      state  <- unique(temp$state)
-      agency <- unique(temp$agency)
-      state  <- gsub(" ", "_", state)
-      agency <- gsub(" |:", "_", agency)
-      agency <- gsub("/", "_", agency)
-      agency <- gsub("_+", "_", agency)
-
-      readr::write_csv(temp,
-                       path = paste0(state, "_", agency, ".csv"))
-      setTxtProgressBar(pb, i)    # update progress bar
-
-    }
-  }
-  close(pb)
-
-}
 
 make_monthly_agency_csvs <- function(type) {
 
@@ -245,35 +336,6 @@ dummy_rows_missing_years <- function(data, type) {
   return(data)
 }
 
-na_non_12_month_rows <- function(data) {
-
-  temp <-
-    data %>%
-    dplyr::filter(!number_of_months_reported %in% 12 & year >= 1972) %>%
-    dplyr::mutate_at(vars(-one_of("year",
-                                  "agency",
-                                  "state",
-                                  "ORI",
-                                  "population",
-                                  "female_employees_officers",
-                                  "male_employees_officers",
-                                  "total_employees_officers",
-                                  "female_employees_civilians",
-                                  "male_employees_civilians",
-                                  "total_employees_civilians",
-                                  "female_employees_total",
-                                  "male_employees_total",
-                                  "total_employees_total")),
-                     make_all_na)
-
-  data <-
-    data %>%
-    dplyr::filter(number_of_months_reported  == 12 | year < 1972) %>%
-    dplyr::bind_rows(temp) %>%
-    dplyr::arrange(desc(year))
-
-  return(data)
-}
 
 simpleCap <- function(word) {
   word <- tolower(word)
