@@ -19,11 +19,9 @@ get_leoka_data("month", crosswalk_agencies)
 get_hate_crimes_data("year")
 get_hate_crimes_data("month")
 
-
 # Arson -------------------------------------------------------------------
 get_arson_data("year", crosswalk_agencies)
 get_arson_data("month", crosswalk_agencies)
-
 
 # Property Stolen and Recovered -------------------------------------------
 get_property_stolen_data("year", crosswalk_agencies)

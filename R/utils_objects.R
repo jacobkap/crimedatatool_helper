@@ -99,7 +99,7 @@ hate_crimes_offenses_fix <- c(
   "^sex offenses - sexual assault with an object$" = "sex offenses",
   "^sex offenses - sodomy$" = "sex offenses",
   "^sex offenses - statutory rape$" = "sex offenses",
-  "^stolen property offenses (receiving, selling, etc.)$" = "stolen property offenses",
+  "^stolen property offenses \\(receiving, selling, etc.\\)$" = "stolen property offenses",
   "^weapon law violations$" = "weapon law violations"
 )
 

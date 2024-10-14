@@ -33,7 +33,7 @@ get_offenses_data <- function(type, crosswalk_data) {
     make_state_agency_choices(offenses_known)
   } else {
     setwd(here("data/offenses_monthly"))
-    make_agency_csvs(offenses_known_monthly_1960_2023, type = "month")
+    make_agency_csvs(offenses_known, type = "month")
 
     setwd(here("data/offenses"))
     files <- list.files(pattern = "agency_choices")

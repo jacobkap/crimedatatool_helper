@@ -1,0 +1,22 @@
+agency,year,state,population,ORI,actual_single_occupancy,actual_other_residential,actual_storage,actual_industrial,actual_other_commercial,actual_community_public,actual_all_oth_structures,actual_total_structures,actual_motor_vehicles,actual_other_mobile,actual_total_mobile,actual_all_other,actual_grand_total,unfounded_single_occupancy,unfounded_other_residential,unfounded_storage,unfounded_industrial,unfounded_other_commercial,unfounded_community_public,unfounded_all_oth_structures,unfounded_total_structures,unfounded_motor_vehicles,unfounded_other_mobile,unfounded_total_mobile,unfounded_all_other,unfounded_grand_total,cleared_single_occupancy,cleared_other_residential,cleared_storage,cleared_industrial,cleared_other_commercial,cleared_community_public,cleared_all_oth_structures,cleared_total_structures,cleared_motor_vehicles,cleared_other_mobile,cleared_total_mobile,cleared_all_other,cleared_grand_total,cleared_18_single_occupancy,cleared_18_other_residential,cleared_18_storage,cleared_18_industrial,cleared_18_other_commercial,cleared_18_community_public,cleared_18_all_oth_structures,cleared_18_total_structures,cleared_18_motor_vehicles,cleared_18_other_mobile,cleared_18_total_mobile,cleared_18_all_other,cleared_18_grand_total,est_damage_single_occupancy,est_damage_other_residential,est_damage_storage,est_damage_industrial,est_damage_other_commercial,est_damage_community_public,est_damage_all_oth_structures,est_damage_total_structures,est_damage_motor_vehicles,est_damage_other_mobile,est_damage_total_mobile,est_damage_all_other,est_damage_grand_total,price,in_2023_dollars
+Carlisle Police,1999,South Carolina,496,SC04402,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18292,0,0,0,0,0,0,18292,0,0,0,0,18292,1,1.82921556856271
+Carlisle Police,1998,South Carolina,495,SC04402,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.86923930269414
+Carlisle Police,1997,South Carolina,500,SC04402,1,0,0,0,0,0,0,1,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,380,0,0,0,0,0,0,380,3417,0,3417,2,3798,1,1.89825511369536
+Carlisle Police,1996,South Carolina,492,SC04402,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.94263043247264
+Carlisle Police,1995,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1994,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1993,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1992,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1991,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1990,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1989,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1988,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1987,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1986,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1985,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1984,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1983,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1982,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1981,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1980,South Carolina,,SC04402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlisle Police,1979,South Carolina,608,SC04402,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4.19843724882306
