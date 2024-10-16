@@ -5,7 +5,9 @@ source(here::here("R/crosswalk.R"))
 source(here::here("R/offenses_prep.R"))
 source(here::here("R/leoka_prep.R"))
 source(here::here("R/hate_crimes_prep.R"))
+source(here::here("R/property_stolen_prep.R"))
 source(here::here("R/arson_prep.R"))
+source(here::here("R/arrests_prep.R"))
 
 # Offenses ---------------
 get_offenses_data("year", crosswalk_agencies)
@@ -26,4 +28,8 @@ get_arson_data("month", crosswalk_agencies)
 # Property Stolen and Recovered -------------------------------------------
 get_property_stolen_data("year", crosswalk_agencies)
 get_property_stolen_data("month", crosswalk_agencies)
+
+# Arrest -------------------------------------------
+get_arrest_data("year", crosswalk_agencies)
+get_arrest_data("month", crosswalk_agencies)
 

@@ -1,101 +1,150 @@
-source('R/utils.R')
-setwd("E:/ucr_data_storage/clean_data/arrests")
-# No months reported data for 2021 so it is always excluded.
-arrests <- readRDS("E:/ucr_data_storage/clean_data/arrests/ucr_arrests_yearly_all_crimes_race_sex_1974_2021.rds") %>%
-  filter(number_of_months_reported %in% 12) %>%
-  select(-matches("num_months"))
+get_arrest_data <- function(type, crosswalk_data) {
 
-arrests <-
-  arrests %>%
-  dplyr::filter(!state %in% c("guam",
-                              "canal zone",
-                              "puerto rico",
-                              "virgin islands")) %>%
-  dplyr::left_join(crosswalk_agencies, by = "ori") %>%
-  dplyr::filter(agency != "NANA",
-                state != "98") %>%
-  dplyr::select(-one_of(arrests_to_drop)) %>%
-  dplyr::rename(ORI = ori) %>%
-  dplyr::select(starting_cols,
-                dplyr::matches("tot_adult"),
-                dplyr::matches("tot_juv"),
-                dplyr::matches("tot_arrests"),
-                dplyr::matches("tot_(fe)?male_adult$"),
-                dplyr::matches("tot_(fe)?male_juv$"),
-                dplyr::matches("tot_(fe)?male$"),
-                dplyr::matches("adult_(asian|amer|black|white)"),
-                dplyr::matches("juv_(asian|amer|black|white)"),
-                dplyr::matches("tot_(asian|amer|black|white)"),
-                everything()) %>%
-  dplyr::select(starting_cols,
-                dplyr::matches("agg_assault"),
-                dplyr::matches("all_other"),
-                dplyr::matches("oth_assault"),
-                dplyr::matches("arson"),
-                dplyr::matches("burglary"),
-                dplyr::matches("curfew_loiter"),
-                dplyr::matches("disorder_cond"),
+  if (type %in% "year") {
+    arrests <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_yearly_all_crimes_race_sex_1974_2023.rds") %>%
+      filter(number_of_months_reported %in% 12)
+  } else {
+    arrests <- vector("list", length = 6)
+    arrests_latest <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_2020_2023.rds") %>%
+      filter(number_of_months_reported %in% 12) %>%
+      select(-msa,
+             -county,
+             -date_of_1st_previous_update)
+    arrests[[1]] <- arrests_latest
+    rm(arrests_latest); gc(); Sys.sleep(1)
 
-                dplyr::matches("total_drug"),
-                dplyr::matches("poss_drug_total"),
-                dplyr::matches("poss_synth_narc"),
-                dplyr::matches("poss_cannabis"),
-                dplyr::matches("poss_heroin_coke"),
-                dplyr::matches("poss_other_drug"),
-                dplyr::matches("sale_drug_total"),
-                dplyr::matches("sale_synth_narc"),
-                dplyr::matches("sale_cannabis"),
-                dplyr::matches("sale_heroin_coke"),
-                dplyr::matches("sale_other_drug"),
+     arrests_2010_2019 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_2010_2019.rds") %>%
+                  filter(number_of_months_reported %in% 12) %>%
+                  select(-msa,
+                         -county,
+                         -date_of_1st_previous_update)
+     arrests[[2]] <- arrests_2010_2019
+     rm(arrests_2010_2019); gc(); Sys.sleep(1)
 
-                dplyr::matches("drunkenness"),
-                dplyr::matches("dui"),
-                dplyr::matches("embezzlement"),
-                dplyr::matches("family_off"),
-                dplyr::matches("forgery"),
-                dplyr::matches("fraud"),
+     arrests_2000_2009 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_2000_2009.rds") %>%
+                  filter(number_of_months_reported %in% 12) %>%
+                  select(-msa,
+                         -county,
+                         -date_of_1st_previous_update)
+     arrests[[3]] <- arrests_2000_2009
+     rm(arrests_2000_2009); gc(); Sys.sleep(1)
 
-                dplyr::matches("gamble_total"),
-                dplyr::matches("gamble_bookmake"),
-                dplyr::matches("gamble_lottery"),
-                dplyr::matches("gamble_other"),
+      arrests_1990_1999 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_1990_1999.rds") %>%
+                  filter(number_of_months_reported %in% 12) %>%
+                  select(-msa,
+                         -county,
+                         -date_of_1st_previous_update)
+      arrests[[4]] <- arrests_1990_1999
+      rm(arrests_1990_1999); gc(); Sys.sleep(1)
 
-                dplyr::matches("liquor"),
-                dplyr::matches("manslaught_neg"),
-                dplyr::matches("mtr_veh_theft"),
-                dplyr::matches("murder"),
-                dplyr::matches("prostitution"),
-                dplyr::matches("rape"),
-                dplyr::matches("robbery"),
-                dplyr::matches("runaways"),
-                dplyr::matches("oth_sex_off"),
-                dplyr::matches("stolen_prop"),
-                dplyr::matches("suspicion"),
-                dplyr::matches("theft"),
-                dplyr::matches("vagrancy"),
-                dplyr::matches("vandalism"),
-                dplyr::matches("weapons"))
+      arrests_1980_1989 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_1980_1989.rds") %>%
+                  filter(number_of_months_reported %in% 12) %>%
+                  select(-msa,
+                         -county,
+                         -date_of_1st_previous_update)
+      arrests[[5]] <- arrests_1980_1989
+      rm(arrests_1980_1989); gc(); Sys.sleep(1)
 
-arrests <- data.frame(arrests)
-for (arrest_category in arrest_categories) {
-  arrests[, paste0("all_arrests_total_", arrest_category)] <-
-    rowSums(arrests[, paste0(all_unique_arrest_cols, "_", arrest_category )], na.rm = TRUE)
+      arrests_1974_1979 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_1974_1979.rds") %>%
+                  filter(number_of_months_reported %in% 12) %>%
+                  select(-msa,
+                         -county,
+                         -date_of_1st_previous_update)
+      arrests[[6]] <- arrests_1974_1979
+      rm(arrests_1974_1979); gc(); Sys.sleep(1)
+
+      arrests <- data.table::rbindlist(arrests, fill = TRUE) %>%
+        as.data.frame() %>%
+      mutate(year = date)
+      gc(); Sys.sleep(1)
+  }
+
+  arrests <-
+    arrests  %>%
+    fix_missing_states() %>%
+    fix_ori() %>%
+    dplyr::filter(!state %in% c("guam",
+                                "canal zone",
+                                "puerto rico",
+                                "virgin islands")) %>%
+    dplyr::left_join(crosswalk_agencies, by = "ori") %>%
+    dplyr::filter(agency != "NANA",
+                  state != "98")
+  gc()
+
+
+  table(is.na(arrests$agency))
+  sort(unique(arrests$state), na.last = TRUE)
+
+  unique_offenses <- grep("total_white", names(arrests), value = TRUE)
+  unique_offenses <- gsub("_total_white", "", unique_offenses)
+  unique_offenses <- sort(unique_offenses)
+
+  all_cols <- c()
+  for (col in unique_offenses) {
+    col_values <- grep(col, names(arrests), value = TRUE)
+    col_values_order <-
+      c(grep("total_adult", col_values, value = TRUE),
+        grep("total_juv", col_values, value = TRUE),
+        grep("total_arrest", col_values, value = TRUE),
+        grep("total_(fe)?male_adult", col_values, value = TRUE),
+        grep("total_(fe)?male_juv$", col_values, value = TRUE),
+        grep("total_(fe)?male", col_values, value = TRUE),
+        grep("adult_(asian|amer|black|white)", col_values, value = TRUE),
+        grep("juvenile_(asian|amer|black|white)", col_values, value = TRUE),
+        grep("total_(asian|amer|black|white)", col_values, value = TRUE),
+        grep("adult_hispanic", col_values, value = TRUE),
+        grep("adult_non_hispanic", col_values, value = TRUE),
+        grep("juvenile_hispanic", col_values, value = TRUE),
+        grep("juvenile_non_hispanic", col_values, value = TRUE),
+        grep("hispanic", col_values, value = TRUE),
+        grep("total_non_hispanic", col_values, value = TRUE))
+    col_values <- col_values[!col_values %in% col_values_order]
+    col_values_order <- c(col_values_order,
+                          col_values)
+
+    all_cols <- c(all_cols,
+                  col_values_order)
+  }
+
+
+  arrests <-
+    arrests %>%
+    dplyr::rename(ORI = ori) %>%
+    dplyr::select(agency,
+                  ORI,
+                  year,
+                  state,
+                  population,
+                  all_cols)
+
+  arrest_categories <- grep("robbery", names(arrests), value = TRUE)
+  arrest_categories <- gsub("robbery_", "", arrest_categories)
+
+  arrests <- data.frame(arrests)
+  for (arrest_category in arrest_categories) {
+    arrests[, paste0("all_arrests_total_", arrest_category)] <-
+      rowSums(arrests[, paste0(unique_offenses, "_", arrest_category)], na.rm = TRUE)
+  }
+
+
+  arrests$agency <- gsub("\\(|\\)", "", arrests$agency)
+  arrests <- remove_duplicate_capitalize_names(arrests)
+  gc(); Sys.sleep(1); gc()
+
+  if (type %in% "year") {
+    setwd(here("data/arrests"))
+    make_agency_csvs(arrests)
+    make_largest_agency_json(arrests)
+    make_state_agency_choices(arrests)
+  } else {
+    setwd(here("data/arrests_monthly"))
+    make_agency_csvs(arrests, type = "month")
+
+    setwd(here("data/arrests"))
+    files <- list.files(pattern = "agency_choices")
+    files
+    file.copy(files, paste0(here::here("data/arrests_monthly/")), overwrite = TRUE)
+  }
+
 }
-
-
-arrests <-
-  arrests %>%
-  dplyr::select(agency,
-                ORI,
-                year,
-                state,
-                population,
-                dplyr::everything())
-arrests$agency <- gsub("\\(|\\)", "", arrests$agency)
-arrests <- remove_duplicate_capitalize_names(arrests)
-
-setwd(here("data/arrests"))
-make_agency_csvs(arrests)
-make_state_agency_choices(arrests)
-make_largest_agency_json(arrests)
-rm(arrests)

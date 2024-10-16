@@ -16,9 +16,9 @@ crosswalk$fips_state_place_code <- NULL
 crosswalk$fips_place_code       <- NULL
 
 crosswalk$crosswalk_agency_name <- sapply(crosswalk$crosswalk_agency_name,
-                                          simpleCap)
+                                          str_to_title)
 crosswalk$census_name <-           sapply(crosswalk$census_name,
-                                          simpleCap)
+                                          str_to_title)
 
 crosswalk$crosswalk_agency_name <- gsub(",", "",
                                         crosswalk$crosswalk_agency_name)
