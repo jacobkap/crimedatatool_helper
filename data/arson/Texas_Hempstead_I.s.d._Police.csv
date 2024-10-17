@@ -1,0 +1,27 @@
+agency,year,state,population,ORI,actual_single_occupancy,actual_other_residential,actual_storage,actual_industrial,actual_other_commercial,actual_community_public,actual_all_oth_structures,actual_total_structures,actual_motor_vehicles,actual_other_mobile,actual_total_mobile,actual_all_other,actual_grand_total,unfounded_single_occupancy,unfounded_other_residential,unfounded_storage,unfounded_industrial,unfounded_other_commercial,unfounded_community_public,unfounded_all_oth_structures,unfounded_total_structures,unfounded_motor_vehicles,unfounded_other_mobile,unfounded_total_mobile,unfounded_all_other,unfounded_grand_total,cleared_single_occupancy,cleared_other_residential,cleared_storage,cleared_industrial,cleared_other_commercial,cleared_community_public,cleared_all_oth_structures,cleared_total_structures,cleared_motor_vehicles,cleared_other_mobile,cleared_total_mobile,cleared_all_other,cleared_grand_total,cleared_18_single_occupancy,cleared_18_other_residential,cleared_18_storage,cleared_18_industrial,cleared_18_other_commercial,cleared_18_community_public,cleared_18_all_oth_structures,cleared_18_total_structures,cleared_18_motor_vehicles,cleared_18_other_mobile,cleared_18_total_mobile,cleared_18_all_other,cleared_18_grand_total,est_damage_single_occupancy,est_damage_other_residential,est_damage_storage,est_damage_industrial,est_damage_other_commercial,est_damage_community_public,est_damage_all_oth_structures,est_damage_total_structures,est_damage_motor_vehicles,est_damage_other_mobile,est_damage_total_mobile,est_damage_all_other,est_damage_grand_total,price,in_2023_dollars
+Hempstead I.s.d. Police,2023,Texas,0,TX23710,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Hempstead I.s.d. Police,2022,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2021,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2020,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2019,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2018,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2017,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2016,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2015,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2014,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2013,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2012,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2011,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2010,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2009,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2008,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2007,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2006,Texas,,TX23710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hempstead I.s.d. Police,2005,Texas,0,TX23710,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.56023853211009
+Hempstead I.s.d. Police,2004,Texas,0,TX23710,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.61317347569046
+Hempstead I.s.d. Police,2003,Texas,0,TX23710,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.65636194790487
+Hempstead I.s.d. Police,2002,Texas,0,TX23710,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.69396293722493
+Hempstead I.s.d. Police,2001,Texas,0,TX23710,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.7208297251506
+Hempstead I.s.d. Police,2000,Texas,0,TX23710,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.76946331784747
+Hempstead I.s.d. Police,1999,Texas,0,TX23710,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,265,0,265,0,0,0,0,265,1,1.82921556856271
+Hempstead I.s.d. Police,1998,Texas,0,TX23710,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.86923930269414

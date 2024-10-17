@@ -138,6 +138,7 @@ get_arrest_data <- function(type, crosswalk_data) {
     make_largest_agency_json(arrests)
     make_state_agency_choices(arrests)
   } else {
+    arrests$year <- as.character(arrests$year)
     setwd(here("data/arrests_monthly"))
     make_agency_csvs(arrests, type = "month")
 

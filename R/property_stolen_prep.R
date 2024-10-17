@@ -15,6 +15,7 @@ get_property_stolen_data <- function(type, crosswalk_data) {
                                 "virgin islands",
                                 "canal zone",
                                 "american samoa",
+                                "bahamas",
                                 "puerto rico"),
                   !ori %in% c("FL01394",
                               "OKDI001"),

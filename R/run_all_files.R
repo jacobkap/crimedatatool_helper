@@ -33,3 +33,22 @@ get_property_stolen_data("month", crosswalk_agencies)
 get_arrest_data("year", crosswalk_agencies)
 get_arrest_data("month", crosswalk_agencies)
 
+
+#
+#
+# delete_all_files <- function(folder) {
+#   files <- list.files(folder, full.names = TRUE)
+#   file.remove(files)
+# }
+# delete_all_files("data/arrests/")
+# delete_all_files("data/arrests_monthly/")
+# delete_all_files("data/arson/")
+# delete_all_files("data/arson_monthly/")
+# delete_all_files("data/hate/")
+# delete_all_files("data/hate_monthly/")
+# delete_all_files("data/offenses/")
+# delete_all_files("data/offenses_monthly/")
+# delete_all_files("data/police/")
+# delete_all_files("data/police_monthly/")
+# delete_all_files("data/property_stolen/")
+# delete_all_files("data/property_stolen_monthly/")
