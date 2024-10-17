@@ -236,36 +236,6 @@ reorder_police <- function(data, crosswalk_data) {
 }
 
 
-make_monthly_agency_csvs <- function(type) {
-  for (state_group in 1:51) {
-    setwd(here("data/temp"))
-    if (type == "police") {
-      type <- "leoka"
-    }
-    load(paste0("monthly_", type, "_state_group_", state_group, ".rda"))
-    temp_state$agency <- gsub("\\(|\\)", "", temp_state$agency)
-    temp_state <- remove_duplicate_capitalize_names(temp_state)
-    temp_state <- temp_state[!is.na(temp_state$year), ]
-
-
-    if (type == "leoka") {
-      type <- "police"
-    }
-    setwd(here(paste0("data/", type, "_monthly")))
-    agency <- unique(temp_state$agency)
-    agency <- jsonlite::toJSON(agency, pretty = FALSE)
-    write(agency, paste0(unique(temp_state$state), "_agency_choices.json"))
-
-    temp_state <-
-      temp_state %>%
-      dplyr::group_split(ORI)
-    parallel::mclapply(temp_state, make_csv_test, type = type)
-
-    message(state_group)
-    rm(temp_state)
-    gc()
-  }
-}
 
 
 
