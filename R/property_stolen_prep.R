@@ -26,7 +26,7 @@ get_property_stolen_data <- function(type, crosswalk_data) {
 
 
   inflation_adjust <- data.frame(year = sort(unique(property_stolen$year)), price = 1)
-  inflation_adjust$in_2023_dollars <- adjust_for_inflation(inflation_adjust$price,
+  inflation_adjust$in_current_dollars <- adjust_for_inflation(inflation_adjust$price,
                                                            inflation_adjust$year,
                                                            "US",
                                                            to_date = 2023)
@@ -47,7 +47,7 @@ get_property_stolen_data <- function(type, crosswalk_data) {
   property_stolen <- data.frame(property_stolen)
   for (value_col in value_cols) {
     property_stolen$temp <- property_stolen[, value_col]
-    property_stolen$temp <- round(property_stolen$temp * property_stolen$in_2023_dollars, 0)
+    property_stolen$temp <- round(property_stolen$temp * property_stolen$in_current_dollars, 0)
     property_stolen[, value_col] <- property_stolen$temp
     property_stolen$temp <- NULL
   }
@@ -56,6 +56,8 @@ get_property_stolen_data <- function(type, crosswalk_data) {
   property_stolen <- remove_duplicate_capitalize_names(property_stolen)
   print(sort(unique(property_stolen$state), na.last = TRUE))
 
+  property_stolen$price <- NULL
+  property_stolen$in_current_dollars <- NULL
   if (type %in% "year") {
     setwd(here("data/property_stolen"))
     make_agency_csvs(property_stolen)

@@ -21,7 +21,7 @@ get_arson_data <- function(type, crosswalk_data) {
 
 
   inflation_adjust <- data.frame(year = sort(unique(arson$year)), price = 1)
-  inflation_adjust$in_2023_dollars <- adjust_for_inflation(inflation_adjust$price,
+  inflation_adjust$in_current_dollars <- adjust_for_inflation(inflation_adjust$price,
                                                            inflation_adjust$year,
                                                            "US",
                                                            to_date = 2023)
@@ -33,29 +33,30 @@ get_arson_data <- function(type, crosswalk_data) {
     arson %>%
     dplyr::rename(ORI    = ori) %>%
     dplyr::select(all_of(starting_cols),
-                  dplyr::matches("act|clear|unfound|est_damage")) %>%
+                  dplyr::matches("act|clear|unfound|estimated_damage")) %>%
     mutate(agency = gsub("\\(|\\)", "", agency),
            agency = gsub("\\/", "-", agency)) %>%
     left_join(inflation_adjust) %>%
     mutate(
-      est_damage_single_occupancy = round(est_damage_single_occupancy * in_2023_dollars, 0),
-      est_damage_other_residential = round(est_damage_other_residential * in_2023_dollars, 0),
-      est_damage_storage = round(est_damage_storage * in_2023_dollars, 0),
-      est_damage_industrial = round(est_damage_industrial * in_2023_dollars, 0),
-      est_damage_other_commercial = round(est_damage_other_commercial * in_2023_dollars, 0),
-      est_damage_community_public = round(est_damage_community_public * in_2023_dollars, 0),
-      est_damage_all_oth_structures = round(est_damage_all_oth_structures * in_2023_dollars, 0),
-      est_damage_total_structures = round(est_damage_total_structures * in_2023_dollars, 0),
-      est_damage_motor_vehicles = round(est_damage_motor_vehicles * in_2023_dollars, 0),
-      est_damage_other_mobile = round(est_damage_other_mobile * in_2023_dollars, 0),
-      est_damage_total_mobile = round(est_damage_total_mobile * in_2023_dollars, 0),
-      est_damage_all_other = round(est_damage_all_other * in_2023_dollars, 0),
-      est_damage_grand_total = round(est_damage_grand_total * in_2023_dollars, 0))
+      estimated_damage_single_occupancy = round(estimated_damage_single_occupancy * in_current_dollars, 0),
+      estimated_damage_other_residential = round(estimated_damage_other_residential * in_current_dollars, 0),
+      estimated_damage_storage = round(estimated_damage_storage * in_current_dollars, 0),
+      estimated_damage_industrial = round(estimated_damage_industrial * in_current_dollars, 0),
+      estimated_damage_other_commercial = round(estimated_damage_other_commercial * in_current_dollars, 0),
+      estimated_damage_community_public = round(estimated_damage_community_public * in_current_dollars, 0),
+      estimated_damage_all_other_structures = round(estimated_damage_all_other_structures * in_current_dollars, 0),
+      estimated_damage_total_structures = round(estimated_damage_total_structures * in_current_dollars, 0),
+      estimated_damage_motor_vehicles = round(estimated_damage_motor_vehicles * in_current_dollars, 0),
+      estimated_damage_other_mobile = round(estimated_damage_other_mobile * in_current_dollars, 0),
+      estimated_damage_total_mobile = round(estimated_damage_total_mobile * in_current_dollars, 0),
+      estimated_damage_all_other = round(estimated_damage_all_other * in_current_dollars, 0),
+      estimated_damage_grand_total = round(estimated_damage_grand_total * in_current_dollars, 0))
 
 
   arson <- remove_duplicate_capitalize_names(arson)
   print(sort(unique(arson$state)))
-
+  arson$price <- NULL
+  arson$in_current_dollars <- NULL
   if (type %in% "year") {
     setwd(here("data/arson"))
     make_agency_csvs(arson)
