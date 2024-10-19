@@ -52,6 +52,8 @@ get_arson_data <- function(type, crosswalk_data) {
       estimated_damage_all_other = round(estimated_damage_all_other * in_current_dollars, 0),
       estimated_damage_grand_total = round(estimated_damage_grand_total * in_current_dollars, 0))
 
+  names(arson) <- gsub("all_other$", "all_other_arsons", names(arson))
+
 
   arson <- remove_duplicate_capitalize_names(arson)
   print(sort(unique(arson$state)))

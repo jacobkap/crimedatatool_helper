@@ -38,7 +38,7 @@ get_property_stolen_data <- function(type, crosswalk_data) {
     property_stolen %>%
     dplyr::rename(ORI    = ori) %>%
     dplyr::select(all_of(starting_cols),
-                  dplyr::matches("offense|auto|value")) %>%
+                  dplyr::matches("offense|value")) %>%
     mutate(agency = gsub("\\(|\\)", "", agency),
            agency = gsub("\\/", "-", agency)) %>%
     left_join(inflation_adjust)
