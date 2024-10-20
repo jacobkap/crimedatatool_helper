@@ -69,6 +69,64 @@ fix_missing_states <- function(data) {
   return(data)
 }
 
+
+remove_duplicate_capitalize_names <- function(data) {
+  same_name_agencies <-
+    data %>%
+    distinct(ORI, .keep_all = TRUE) %>%
+    mutate(temp = paste(agency, state))
+  same_name_agencies_name <-
+    same_name_agencies %>%
+    count(temp) %>%
+    filter(n > 1)
+  same_name_agencies_ori <-
+    same_name_agencies %>%
+    filter(temp %in% same_name_agencies_name$temp)
+  print(summary(data$population[data$ORI %in% same_name_agencies_ori$ORI]))
+  data <-
+    data %>%
+    filter(!ORI %in% same_name_agencies_ori$ORI) %>%
+    mutate(
+      agency = tolower(agency),
+      agency = gsub("dept\\.|dept|dep |dep$", "department", agency),
+      agency = gsub("^st ", "state", agency),
+      agency = gsub(" hdq ", " headquarters ", agency),
+      agency = gsub("sp:", "state police:", agency),
+      agency = gsub("pd", "police", agency),
+      agency = gsub(" univ ", " university ", agency),
+      agency = gsub(" co$| co ", " county", agency),
+      agency = gsub(" offi$", " office", agency),
+      agency = gsub("twp", "township", agency),
+      agency = gsub("div ", "division ", agency),
+      agency = gsub("ptrl:", "patrol:", agency),
+      agency = gsub("bf:", "bureau of forestry:", agency),
+      agency = gsub("hp:", "highway patrol:", agency),
+      agency = gsub("chp ", "california highway patrol:", agency),
+      agency = gsub("bn:", "office of attorney general region:", agency),
+      agency = gsub("dle:", "division of law enforcement:", agency),
+      agency = gsub("enf:|enf ", "enforcement", agency),
+      agency = gsub("law enf div dept natrl resources", "department of natural resources", agency),
+      agency = gsub("fl ", "florida", agency),
+      agency = gsub("dnr:", "department of natural resources:", agency),
+      agency = gsub("co crim law enf", "county criminal law enforcement", agency),
+      agency = gsub("uppr:", "union pacific railroad:", agency),
+      agency = str_to_title(agency),
+      state = str_to_title(state),
+      agency = gsub("U S ", "US ", agency),
+      agency = gsub("^Us ", "US ", agency, ignore.case = TRUE),
+      agency = gsub(" Atf ", " ATF ", agency),
+      agency = gsub("Fbi,", "FBI,", agency),
+      agency = gsub("Dea,", "DEA,", agency),
+      agency = gsub("Doi:", " DOI:", agency),
+      state = gsub(" Of ", " of ", state),
+      agency = trimws(agency),
+      state = trimws(state)
+    )
+
+
+  return(data)
+}
+
 remove_duplicate_capitalize_names <- function(data) {
   same_name_agencies <-
     data %>%
