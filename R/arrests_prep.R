@@ -126,7 +126,7 @@ get_arrest_data <- function(type, crosswalk_data) {
     arrests[, paste0("all_arrests_total_", arrest_category)] <-
       rowSums(arrests[, paste0(unique_offenses, "_", arrest_category)], na.rm = TRUE)
   }
-
+gc()
 
   arrests$agency <- gsub("\\(|\\)", "", arrests$agency)
   arrests <- remove_duplicate_capitalize_names(arrests)
