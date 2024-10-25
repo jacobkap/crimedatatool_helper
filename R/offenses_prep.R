@@ -17,7 +17,7 @@ get_offenses_data <- function(type, crosswalk_data) {
     dplyr::mutate(agency = tolower(agency)) %>%
     dplyr::rename(ORI    = ori) %>%
     dplyr::select(all_of(starting_cols),
-                  dplyr::matches("act|clr|unfound|officer")) %>%
+                  dplyr::matches("act|clear|unfound|officer")) %>%
     mutate(agency = gsub("\\(|\\)", "", agency),
            agency = gsub("\\/", "-", agency))
 
