@@ -44,6 +44,8 @@ get_leoka_data <- function(type, crosswalk_data) {
                   !ORI %in% "GAUSMO4")
   rm(police_employees_only); gc()
 
+  names(police) <- gsub("^total_assault", "all_assault", names(police))
+
   sort(unique(police$state))
   unique(police$ORI[police$state %in% 98])
   unique(police$agency[police$state %in% 98])
@@ -56,17 +58,17 @@ get_leoka_data <- function(type, crosswalk_data) {
   print(sort(unique(police$state)))
 
   if (type %in% "year") {
-    setwd(here::here("data/police"))
+    setwd(here::here("data/leoka"))
     make_agency_csvs(police)
     make_state_agency_choices(police)
     make_largest_agency_json(police)
   } else {
-    setwd(here("data/police_monthly"))
+    setwd(here("data/leoka_monthly"))
     make_agency_csvs(police, type = "month")
 
-    setwd(here::here("data/police"))
+    setwd(here::here("data/leoka"))
     files <- list.files(pattern = "largest_agency_choices")
-    file.copy(files, here::here("data/police_monthly/"), overwrite = TRUE)
+    file.copy(files, here::here("data/leoka_monthly/"), overwrite = TRUE)
   }
 
 }
