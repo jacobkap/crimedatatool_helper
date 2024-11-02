@@ -37,9 +37,13 @@ get_hate_crimes_data <- function(type) {
       "offense",
       "bias_motivation"
     ))
+  hate_crimes$`bias_motivation_anti-total` <- 1
+  hate_crimes$offense_total <- 1
 
-  for (bias_value in unique(hate_crimes$bias_motivation)) {
-    for (offense_value in unique(hate_crimes$offense)) {
+  for (bias_value in c(unique(hate_crimes$bias_motivation),
+                       "anti-total")) {
+    for (offense_value in c(unique(hate_crimes$offense),
+                            "total")) {
       hate_crimes[, paste0(bias_value, "_", offense_value)] <-
         hate_crimes[, paste0("bias_motivation_", bias_value)] *
         hate_crimes[, paste0("offense_", offense_value)]
