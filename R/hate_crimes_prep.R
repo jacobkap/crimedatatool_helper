@@ -89,8 +89,8 @@ get_hate_crimes_data <- function(type) {
   names(hate_crimes) <- gsub("_$", "", names(hate_crimes))
 
   # Reorder columns alphabetically
-  crime_columns <- grep("anti-transgender", names(hate_crimes), value = TRUE)
-  crime_columns <- gsub("anti-transgender", "", crime_columns)
+  crime_columns <- grep("anti_transgender", names(hate_crimes), value = TRUE)
+  crime_columns <- gsub("anti_transgender", "", crime_columns)
   crime_columns <- sort(crime_columns)
   crime_columns <- crime_columns[crime_columns != "_total"]
   crime_columns <- c(crime_columns, "_total")
