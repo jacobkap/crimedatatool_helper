@@ -89,14 +89,27 @@ get_hate_crimes_data <- function(type) {
   names(hate_crimes) <- gsub("_$", "", names(hate_crimes))
 
   # Reorder columns alphabetically
-  anti_columns <- grep("anti", names(hate_crimes), value = TRUE)
-  anti_columns <- sort(anti_columns)
-  anti_columns
+  crime_columns <- grep("anti-transgender", names(hate_crimes), value = TRUE)
+  crime_columns <- gsub("anti-transgender", "", crime_columns)
+  crime_columns <- sort(crime_columns)
+  crime_columns <- crime_columns[crime_columns != "_total"]
+  crime_columns <- c(crime_columns, "_total")
+  anti_columns_small <- grep("_arson", names(hate_crimes), value = TRUE)
+  anti_columns_small <- gsub("_arson", "", anti_columns_small)
+  anti_columns_small <- sort(anti_columns_small)
+
+  col_order <- c()
+  for (i in 1:length(anti_columns_small)) {
+    col_order <- c(col_order,
+                   paste0(anti_columns_small[i], crime_columns))
+  }
+
 
   hate_crimes <-
     hate_crimes %>%
     dplyr::select(
       all_of(starting_cols),
+      col_order,
       everything()
     ) %>%
     arrange(
