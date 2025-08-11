@@ -9,11 +9,12 @@ packages <- c(
   "dplyr",
   "lubridate",
   "progress",
-  "priceR"
+  "priceR",
+  "janitor"
 )
 groundhog.library(packages, "2024-10-01")
 
-load(here("data/crosswalk_agencies.rda"))
+load("data/crosswalk_agencies.rda")
 
 fix_ori <- function(data) {
   data$ori[data$ori %in% "AKAST01"] <- "AKASP00"
@@ -99,12 +100,12 @@ remove_duplicate_capitalize_names <- function(data) {
       agency = gsub("twp", "township", agency),
       agency = gsub("div ", "division ", agency),
       agency = gsub("ptrl:", "patrol:", agency),
-      agency = gsub("bf:", "bureau of forestry:", agency),
+      agency = gsub("bD:", "bureau of forestry:", agency),
       agency = gsub("hp:", "highway patrol:", agency),
       agency = gsub("chp ", "california highway patrol:", agency),
       agency = gsub("bn:", "office of attorney general region:", agency),
       agency = gsub("dle:", "division of law enforcement:", agency),
-      agency = gsub("enf:|enf ", "enforcement", agency),
+      agency = gsub("enD:|enf ", "enforcement", agency),
       agency = gsub("law enf div dept natrl resources", "department of natural resources", agency),
       agency = gsub("fl ", "florida", agency),
       agency = gsub("dnr:", "department of natural resources:", agency),
@@ -154,12 +155,12 @@ remove_duplicate_capitalize_names <- function(data) {
       agency = gsub("twp", "township", agency),
       agency = gsub("div ", "division ", agency),
       agency = gsub("ptrl:", "patrol:", agency),
-      agency = gsub("bf:", "bureau of forestry:", agency),
+      agency = gsub("bD:", "bureau of forestry:", agency),
       agency = gsub("hp:", "highway patrol:", agency),
       agency = gsub("chp ", "california highway patrol:", agency),
       agency = gsub("bn:", "office of attorney general region:", agency),
       agency = gsub("dle:", "division of law enforcement:", agency),
-      agency = gsub("enf:|enf ", "enforcement", agency),
+      agency = gsub("enD:|enf ", "enforcement", agency),
       agency = gsub("law enf div dept natrl resources", "department of natural resources", agency),
       agency = gsub("fl ", "florida", agency),
       agency = gsub("dnr:", "department of natural resources:", agency),

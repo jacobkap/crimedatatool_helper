@@ -1,11 +1,21 @@
 get_leoka_data <- function(type, crosswalk_data) {
   if (type %in% "year") {
-    police <- readRDS("F:/ucr_data_storage/clean_data/LEOKA/leoka_yearly_1960_2023.rds") %>%
+    police <- readRDS("D:/ucr_data_storage/clean_data/LEOKA/leoka_yearly_1960_2024.rds") %>%
       filter(!ori %in% "FL01394")
   } else {
-    police <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/leoka_monthly_1960_2023.rds") %>%
+    files <- list.files(path = "D:/ucr_data_storage/clean_data/LEOKA/", pattern = "monthly.*rds$", full.names = TRUE)
+    police <- vector("list", length = length(files))
+    for (i in 1:length(files)) {
+      temp <- readRDS(files[i])
+      police[[i]] <- temp
+      rm(temp)
+      message(files[i])
+    }
+    police <- data.table::rbindlist(police) %>%
+      as.data.frame() %>%
       filter(!ori %in% "FL01394") %>%
       mutate(year = date)
+    gc()
   }
 
   police        <- fix_missing_states(police)
@@ -70,5 +80,5 @@ get_leoka_data <- function(type, crosswalk_data) {
     files <- list.files(pattern = "largest_agency_choices")
     file.copy(files, here::here("data/leoka_monthly/"), overwrite = TRUE)
   }
-
+  rm(police); gc()
 }

@@ -1,9 +1,20 @@
 get_offenses_data <- function(type, crosswalk_data) {
   if (type %in% "year") {
-    offenses_known <- readRDS("F:/ucr_data_storage/clean_data/offenses_known/offenses_known_yearly_1960_2023.rds")
+    offenses_known <- readRDS("D:/ucr_data_storage/clean_data/offenses_known/offenses_known_yearly_1960_2024.rds")
   } else {
-    offenses_known <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/offenses_known_monthly_1960_2023.rds") %>%
+
+    files <- list.files(path = "D:/ucr_data_storage/clean_data/offenses_known/", pattern = "monthly.*rds$", full.names = TRUE)
+    offenses_known <- vector("list", length = length(files))
+    for (i in 1:length(files)) {
+      temp <- readRDS(files[i])
+      offenses_known[[i]] <- temp
+      rm(temp)
+      message(files[i])
+    }
+    offenses_known <- data.table::rbindlist(offenses_known) %>%
+      as.data.frame() %>%
       mutate(year = date)
+    gc()
   }
 
   offenses_known <-
@@ -17,7 +28,7 @@ get_offenses_data <- function(type, crosswalk_data) {
     dplyr::mutate(agency = tolower(agency)) %>%
     dplyr::rename(ORI    = ori) %>%
     dplyr::select(all_of(starting_cols),
-                   dplyr::matches("act|clear|unfound|officer")) %>%
+                  dplyr::matches("act|clear|unfound|officer")) %>%
     mutate(agency = gsub("\\(|\\)", "", agency),
            agency = gsub("\\/", "-", agency))
 
@@ -40,4 +51,5 @@ get_offenses_data <- function(type, crosswalk_data) {
     files
     file.copy(files, paste0(here::here("data/offenses_monthly/")), overwrite = TRUE)
   }
+  rm(offenses_known); gc()
 }

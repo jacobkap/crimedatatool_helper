@@ -1,9 +1,19 @@
 get_property_stolen_data <- function(type, crosswalk_data) {
   if (type %in% "year") {
-    property_stolen <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/property_stolen_and_recovered_yearly_1960_2023.rds")
+    property_stolen <- readRDS("D:/ucr_data_storage/clean_data/supplement_return_a/property_stolen_and_recovered_yearly_1960_2024.rds")
   } else {
-    property_stolen <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/property_stolen_and_recovered_monthly_1960_2023.rds") %>%
+    files <- list.files(path = "D:/ucr_data_storage/clean_data/supplement_return_a/", pattern = "monthly.*rds$", full.names = TRUE)
+    property_stolen <- vector("list", length = length(files))
+    for (i in 1:length(files)) {
+      temp <- readRDS(files[i])
+      property_stolen[[i]] <- temp
+      rm(temp)
+      message(files[i])
+    }
+    property_stolen <- data.table::rbindlist(property_stolen) %>%
+      as.data.frame() %>%
       mutate(year = date)
+    gc()
   }
 
 
@@ -72,4 +82,5 @@ get_property_stolen_data <- function(type, crosswalk_data) {
     files
     file.copy(files, paste0(here::here("data/property_stolen_monthly/")), overwrite = TRUE)
   }
+  rm(property_stolen); gc()
 }

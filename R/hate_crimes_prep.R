@@ -1,7 +1,7 @@
 
 
 get_hate_crimes_data <- function(type) {
-  hate_crimes <- readRDS("F:/ucr_data_storage/clean_data/hate_crimes/ucr_hate_crimes_1991_2023.rds") %>%
+  hate_crimes <- readRDS("D:/ucr_data_storage/clean_data/hate_crimes/ucr_hate_crimes_1991_2024.rds") %>%
     fix_missing_states() %>%
     fix_ori() %>%
     dplyr::filter(
@@ -138,4 +138,5 @@ get_hate_crimes_data <- function(type) {
   }
 
   make_agency_csvs(hate_crimes, type = type)
+  rm(hate_crimes); gc()
 }

@@ -1,13 +1,13 @@
 
 # Load scripts ------------------------------------------------------------
-source(here::here("R/utils.R"))
-source(here::here("R/crosswalk.R"))
-source(here::here("R/offenses_prep.R"))
-source(here::here("R/leoka_prep.R"))
-source(here::here("R/hate_crimes_prep.R"))
-source(here::here("R/property_stolen_prep.R"))
-source(here::here("R/arson_prep.R"))
-source(here::here("R/arrests_prep.R"))
+source("R/utils.R")
+#source("R/crosswalk.R")
+source("R/offenses_prep.R")
+source("R/leoka_prep.R")
+source("R/hate_crimes_prep.R")
+source("R/property_stolen_prep.R")
+source("R/arson_prep.R")
+source("R/arrests_prep.R")
 
 # Offenses ---------------
 get_offenses_data("year", crosswalk_agencies)

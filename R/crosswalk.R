@@ -1,6 +1,6 @@
-source('E:/Dropbox/R_project/crime_data/R/crosswalk.R')
-source(here::here('R/utils.R'))
-offenses_known_yearly_1960_2023 <- readRDS("F:/ucr_data_storage/clean_data/offenses_known/offenses_known_yearly_1960_2023.rds") %>%
+source('R/crosswalk.R')
+source('R/utils.R')
+offenses_known_yearly_1960_2024 <- readRDS("D:/ucr_data_storage/clean_data/offenses_known/offenses_known_yearly_1960_2024.rds") %>%
   dplyr::filter(year %in% 2023) %>%
   dplyr::select(ori,
                 population)
@@ -27,7 +27,7 @@ crosswalk$census_name           <- gsub(",", "",
 
 crosswalk <-
   crosswalk %>%
-  dplyr::left_join(offenses_known_yearly_1960_2023) %>%
+  dplyr::left_join(offenses_known_yearly_1960_2024) %>%
   dplyr::arrange(desc(population))
 crosswalk$population[is.na(crosswalk$population)]                         <- ""
 crosswalk$ori9[is.na(crosswalk$ori9)]                                     <- ""

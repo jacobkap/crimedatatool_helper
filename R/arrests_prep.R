@@ -1,66 +1,194 @@
+
+all_arrest_codes <- c("aggravated assault",
+                      "all other offenses excluding traffic",
+                      "arson",
+                      "burglary",
+                      "curfew loitering",
+                      "disorderly conduct",
+                      "drug possess - marijuana",
+                      "drug possess - opium and cocaine and derivatives including heroin",
+                      "drug possess - other drug",
+                      "drug possess - synthetic - narcotics",
+                      "drug sale - marijuana",
+                      "drug sale - opium and cocaine and derivatives including heroin",
+                      "drug sale - other drug",
+                      "drug sale - synthetic narcotics",
+                      "drunkenness",
+                      "dui",
+                      "embezzlement",
+                      "family offenses",
+                      "forgery and counterfeiting",
+                      "fraud",
+                      "gambling - total",
+                      "human trafficking - commercial sex acts",
+                      "human trafficking -involuntary servitude",
+                      "liquor laws",
+                      "motor vehicle theft",
+                      "murder and nonnegligent manslaughter",
+                      "negligent manslaughter",
+                      "other assault",
+                      "other sex offenses",
+                      "prostitution and commercialized vice",
+                      "rape",
+                      "robbery",
+                      "runaways",
+                      "stolen property buying receiving possessing",
+                      "suspicion",
+                      "theft",
+                      "vagrancy",
+                      "vandalism",
+                      "weapons carrying possessing etc")
+
 get_arrest_data <- function(type, crosswalk_data) {
-
+  California_Los_Angeles_Police_Department <- read_csv("California_Los_Angeles_Police_Department.csv")
   if (type %in% "year") {
-    arrests <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_yearly_all_crimes_race_sex_1974_2023.rds") %>%
-      filter(number_of_months_reported %in% 12)
+    files <- list.files(path = "D:/ucr_data_storage/clean_data/arrests/", pattern = "year.*rds$", full.names = TRUE)
+    arrests <- vector("list", length = length(files))
+
+    for (i in 1:length(files)) {
+      temp <- readRDS(files[i]) %>%
+        filter(number_of_months_reported %in% 12) %>%
+        select(ori,
+               year,
+               state,
+               population,
+               offense_code,
+               adult_american_indian,
+               adult_asian,
+               adult_black,
+               adult_white,
+               adult_hispanic,
+               adult_non_hispanic,
+               juvenile_american_indian,
+               juvenile_asian,
+               juvenile_black,
+               juvenile_white,
+               juvenile_hispanic,
+               juvenile_non_hispanic,
+               total_male_juvenile,
+               total_male_adult,
+               total_female_juvenile,
+               total_female_adult,
+               total_male,
+               total_female,
+               total_arrests,
+               total_american_indian,
+               total_asian,
+               total_black,
+               total_white,
+               total_hispanic,
+               total_non_hispanic,
+               total_juvenile,
+               total_adult)
+
+      all_arrests <- temp %>%
+        filter(offense_code %in% all_arrest_codes) %>%
+        select(-offense_code) %>%
+        group_by(year,
+                 state,
+                 population,
+                 ori) %>%
+        summarize_all(sum) %>%
+        ungroup() %>%
+        mutate(offense_code = "all_arrests_total")
+
+      temp <-
+        temp %>%
+        bind_rows(all_arrests) %>%
+        pivot_longer(
+          cols = -c(offense_code, ori, year, state, population),
+          names_to = "old_name",
+          values_to = "value"
+        ) %>%
+        mutate(new_name = paste0(offense_code, "_", old_name)) %>%
+        select(-offense_code, -old_name) %>%
+        pivot_wider(names_from = new_name, values_from = value) %>%
+        rename_all(make_clean_names)
+
+      arrests[[i]] <- temp
+      message(files[i])
+    }
+    arrests <- data.table::rbindlist(arrests, fill = TRUE) %>%
+      as.data.frame()
+    gc()
   } else {
-    arrests <- vector("list", length = 6)
-    arrests_latest <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_2020_2023.rds") %>%
-      filter(number_of_months_reported %in% 12) %>%
-      select(-msa,
-             -county,
-             -date_of_1st_previous_update)
-    arrests[[1]] <- arrests_latest
-    rm(arrests_latest); gc(); Sys.sleep(1)
+    files <- list.files(path = "D:/ucr_data_storage/clean_data/arrests/", pattern = "month.*rds$", full.names = TRUE)
+    arrests <- vector("list", length = length(files))
 
-     arrests_2010_2019 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_2010_2019.rds") %>%
-                  filter(number_of_months_reported %in% 12) %>%
-                  select(-msa,
-                         -county,
-                         -date_of_1st_previous_update)
-     arrests[[2]] <- arrests_2010_2019
-     rm(arrests_2010_2019); gc(); Sys.sleep(1)
+    for (i in 1:length(files)) {
+      temp <- readRDS(files[i]) %>%
+        filter(number_of_months_reported %in% 12) %>%
+        mutate(year = ymd(paste0(year, "-", month, "-01"))) %>%
+        select(ori,
+               year,
+               state,
+               population,
+               offense_code,
+               adult_american_indian,
+               adult_asian,
+               adult_black,
+               adult_white,
+               adult_hispanic,
+               adult_non_hispanic,
+               juvenile_american_indian,
+               juvenile_asian,
+               juvenile_black,
+               juvenile_white,
+               juvenile_hispanic,
+               juvenile_non_hispanic,
+               total_male_juvenile,
+               total_male_adult,
+               total_female_juvenile,
+               total_female_adult,
+               total_male,
+               total_female,
+               total_arrests,
+               total_american_indian,
+               total_asian,
+               total_black,
+               total_white,
+               total_hispanic,
+               total_non_hispanic,
+               total_juvenile,
+               total_adult)
 
-     arrests_2000_2009 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_2000_2009.rds") %>%
-                  filter(number_of_months_reported %in% 12) %>%
-                  select(-msa,
-                         -county,
-                         -date_of_1st_previous_update)
-     arrests[[3]] <- arrests_2000_2009
-     rm(arrests_2000_2009); gc(); Sys.sleep(1)
+      all_arrests <- temp %>%
+        filter(offense_code %in% all_arrest_codes) %>%
+        select(-offense_code) %>%
+        group_by(year,
+                 state,
+                 population,
+                 ori) %>%
+        summarize_all(sum) %>%
+        ungroup() %>%
+        mutate(offense_code = "all_arrests_total")
 
-      arrests_1990_1999 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_1990_1999.rds") %>%
-                  filter(number_of_months_reported %in% 12) %>%
-                  select(-msa,
-                         -county,
-                         -date_of_1st_previous_update)
-      arrests[[4]] <- arrests_1990_1999
-      rm(arrests_1990_1999); gc(); Sys.sleep(1)
 
-      arrests_1980_1989 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_1980_1989.rds") %>%
-                  filter(number_of_months_reported %in% 12) %>%
-                  select(-msa,
-                         -county,
-                         -date_of_1st_previous_update)
-      arrests[[5]] <- arrests_1980_1989
-      rm(arrests_1980_1989); gc(); Sys.sleep(1)
+      temp <-
+        temp %>%
+        bind_rows(all_arrests) %>%
+        pivot_longer(
+          cols = -c(offense_code, ori, year, state, population),
+          names_to = "old_name",
+          values_to = "value"
+        ) %>%
+        mutate(new_name = paste0(offense_code, "_", old_name)) %>%
+        select(-offense_code, -old_name) %>%
+        pivot_wider(names_from = new_name, values_from = value) %>%
+        rename_all(make_clean_names)
 
-      arrests_1974_1979 <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arrests_monthly_all_crimes_race_sex_1974_1979.rds") %>%
-                  filter(number_of_months_reported %in% 12) %>%
-                  select(-msa,
-                         -county,
-                         -date_of_1st_previous_update)
-      arrests[[6]] <- arrests_1974_1979
-      rm(arrests_1974_1979); gc(); Sys.sleep(1)
+      arrests[[i]] <- temp
+      message(files[i])
 
-      arrests <- data.table::rbindlist(arrests, fill = TRUE) %>%
-        as.data.frame() %>%
-      mutate(year = date)
-      gc(); Sys.sleep(1)
+
+    }
+    arrests <- data.table::rbindlist(arrests, fill = TRUE) %>%
+      as.data.frame()
+    gc()
   }
 
   arrests <-
-    arrests  %>%
+    arrests %>%
     fix_missing_states() %>%
     fix_ori() %>%
     dplyr::filter(!state %in% c("guam",
@@ -126,10 +254,15 @@ get_arrest_data <- function(type, crosswalk_data) {
     arrests[, paste0("all_arrests_total_", arrest_category)] <-
       rowSums(arrests[, paste0(unique_offenses, "_", arrest_category)], na.rm = TRUE)
   }
-gc()
+  gc()
 
   arrests$agency <- gsub("\\(|\\)", "", arrests$agency)
   arrests <- remove_duplicate_capitalize_names(arrests)
+
+  # Reorder columns
+  arrests <-
+    arrests %>%
+    select(names(California_Los_Angeles_Police_Department))
   gc(); Sys.sleep(1); gc()
 
   if (type %in% "year") {

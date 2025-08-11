@@ -1,9 +1,19 @@
 get_arson_data <- function(type, crosswalk_data) {
   if (type %in% "year") {
-    arson <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arson_yearly_1979_2023.rds")
+    arson <- readRDS("D:/ucr_data_storage/clean_data/arson/arson_yearly_1979_2024.rds")
   } else {
-    arson <- readRDS("F:/ucr_data_storage/clean_data/combined_years/srs/arson_monthly_1979_2023.rds") %>%
+    files <- list.files(path = "D:/ucr_data_storage/clean_data/arson/", pattern = "monthly.*rds$", full.names = TRUE)
+    arson <- vector("list", length = length(files))
+    for (i in 1:length(files)) {
+      temp <- readRDS(files[i])
+      arson[[i]] <- temp
+      rm(temp)
+      message(files[i])
+    }
+    arson <- data.table::rbindlist(arson) %>%
+      as.data.frame() %>%
       mutate(year = date)
+    gc()
   }
 
 
@@ -73,4 +83,5 @@ get_arson_data <- function(type, crosswalk_data) {
     files
     file.copy(files, paste0(here::here("data/arson_monthly/")), overwrite = TRUE)
   }
+  rm(arson); gc()
 }
