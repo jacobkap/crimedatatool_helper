@@ -1,9 +1,9 @@
 get_leoka_data <- function(type, crosswalk_data) {
   if (type %in% "year") {
-    police <- readRDS("D:/ucr_data_storage/clean_data/LEOKA/leoka_yearly_1960_2024.rds") %>%
+    police <- readRDS("E:/ucr_data_storage/clean_data/LEOKA/leoka_yearly_1960_2024.rds") %>%
       filter(!ori %in% "FL01394")
   } else {
-    files <- list.files(path = "D:/ucr_data_storage/clean_data/LEOKA/", pattern = "monthly.*rds$", full.names = TRUE)
+    files <- list.files(path = "E:/ucr_data_storage/clean_data/LEOKA/", pattern = "monthly.*rds$", full.names = TRUE)
     police <- vector("list", length = length(files))
     for (i in 1:length(files)) {
       temp <- readRDS(files[i])

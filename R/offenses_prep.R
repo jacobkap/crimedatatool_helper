@@ -1,9 +1,9 @@
 get_offenses_data <- function(type, crosswalk_data) {
   if (type %in% "year") {
-    offenses_known <- readRDS("D:/ucr_data_storage/clean_data/offenses_known/offenses_known_yearly_1960_2024.rds")
+    offenses_known <- readRDS("E:/ucr_data_storage/clean_data/offenses_known/offenses_known_yearly_1960_2024.rds")
   } else {
 
-    files <- list.files(path = "D:/ucr_data_storage/clean_data/offenses_known/", pattern = "monthly.*rds$", full.names = TRUE)
+    files <- list.files(path = "E:/ucr_data_storage/clean_data/offenses_known/", pattern = "monthly.*rds$", full.names = TRUE)
     offenses_known <- vector("list", length = length(files))
     for (i in 1:length(files)) {
       temp <- readRDS(files[i])

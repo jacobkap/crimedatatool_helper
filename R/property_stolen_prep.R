@@ -1,8 +1,8 @@
 get_property_stolen_data <- function(type, crosswalk_data) {
   if (type %in% "year") {
-    property_stolen <- readRDS("D:/ucr_data_storage/clean_data/supplement_return_a/property_stolen_and_recovered_yearly_1960_2024.rds")
+    property_stolen <- readRDS("E:/ucr_data_storage/clean_data/supplement_return_a/property_stolen_and_recovered_yearly_1960_2024.rds")
   } else {
-    files <- list.files(path = "D:/ucr_data_storage/clean_data/supplement_return_a/", pattern = "monthly.*rds$", full.names = TRUE)
+    files <- list.files(path = "E:/ucr_data_storage/clean_data/supplement_return_a/", pattern = "monthly.*rds$", full.names = TRUE)
     property_stolen <- vector("list", length = length(files))
     for (i in 1:length(files)) {
       temp <- readRDS(files[i])

@@ -1,7 +1,7 @@
 
 
 get_hate_crimes_data <- function(type) {
-  hate_crimes <- readRDS("D:/ucr_data_storage/clean_data/hate_crimes/ucr_hate_crimes_1991_2024.rds") %>%
+  hate_crimes <- readRDS("E:/ucr_data_storage/clean_data/hate_crimes/ucr_hate_crimes_1991_2024.rds") %>%
     fix_missing_states() %>%
     fix_ori() %>%
     dplyr::filter(

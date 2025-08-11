@@ -42,7 +42,7 @@ all_arrest_codes <- c("aggravated assault",
 get_arrest_data <- function(type, crosswalk_data) {
   California_Los_Angeles_Police_Department <- read_csv("California_Los_Angeles_Police_Department.csv")
   if (type %in% "year") {
-    files <- list.files(path = "D:/ucr_data_storage/clean_data/arrests/", pattern = "year.*rds$", full.names = TRUE)
+    files <- list.files(path = "E:/ucr_data_storage/clean_data/arrests/", pattern = "year.*rds$", full.names = TRUE)
     arrests <- vector("list", length = length(files))
 
     for (i in 1:length(files)) {
@@ -112,7 +112,7 @@ get_arrest_data <- function(type, crosswalk_data) {
       as.data.frame()
     gc()
   } else {
-    files <- list.files(path = "D:/ucr_data_storage/clean_data/arrests/", pattern = "month.*rds$", full.names = TRUE)
+    files <- list.files(path = "E:/ucr_data_storage/clean_data/arrests/", pattern = "month.*rds$", full.names = TRUE)
     arrests <- vector("list", length = length(files))
 
     for (i in 1:length(files)) {
